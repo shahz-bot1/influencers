@@ -1,0 +1,21 @@
+{
+ "ticker": "SHOP",
+ "slug": "SHOP",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SHOP",
+   "direction": "BUY",
+   "thesis": "One of the 'winners to buy': Muse lets users find Shopify merchant products and check out via Shop Pay; if Muse becomes the new front door for shopping, Shopify is the rails underneath. Jumped double digits last week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
