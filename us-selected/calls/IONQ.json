@@ -1,0 +1,46 @@
+{
+ "ticker": "IONQ",
+ "slug": "IONQ",
+ "calls": [
+  {
+   "video_id": "jGIQhe9YgIs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Great News for IonQ Stock Investors!",
+   "published_at": "2026-09-25T17:00:02.626065+00:00",
+   "ticker": "IONQ",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "fair value $50 (stated)",
+   "thesis": "Reiterated buy (upgraded Sep 2): quantum error-correction milestone shows progress; valuation far cheaper than frenzy peak (forward P/S 20 vs ~60); $2B+ cash runway; only for very high risk tolerance.",
+   "base_case": "DCF fair value $50, ~17%+ upside over 12-18 months.",
+   "bull_case": "+1,000% if milestones keep landing; long-term trillion-dollar company potential.",
+   "bear_case": "-85% possible; burning cash, R&D 182% of revenue; one failed test could crash it.",
+   "analyzed_at": "2026-09-25T18:02:20.958674+00:00"
+  },
+  {
+   "video_id": "4vgg_-dkDC0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "IONQ",
+   "direction": "BUY",
+   "price_at_call": "analyst 12-month upside ~20%",
+   "thesis": "Favorite pure-play quantum: trapped-ion 99.9% 2-qubit fidelity, 950+ patents, Q1 2025 revenue $7.6M, FY25 guide $75-95M, breakeven 2030.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "AQ64 commercialization + hybrid cloud; quantum market 32.7% CAGR to $5.3B by 2029.",
+   "collab_byline": "BWB - Business With Brian and Dividendology",
+   "published_at": "2025-08-14T14:45:01+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
+  }
+ ]
+}
