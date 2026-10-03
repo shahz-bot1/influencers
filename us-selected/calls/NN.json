@@ -1,0 +1,28 @@
+{
+ "ticker": "NN",
+ "slug": "NN",
+ "calls": [
+  {
+   "video_id": "aex8MEowAgI",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "ticker": "NN",
+   "direction": "HOLD",
+   "price_at_call": "~€80 (mkt cap €21B; normal-scenario fair value €84 stated)",
+   "thesis": "Leaning HOLD: fairly valued Dutch insurer, 5% dividend yield + €350M/yr buybacks, 224% solvency ratio buffer; he is up 86% on it (4.4% community-portfolio weight). Would buy under €65, sell over €86.",
+   "base_case": "Normal scenario: ~4% earnings growth → ~7.7%/yr return, fair value €84.",
+   "bull_case": "Positive scenario: €91 fair; special dividend/buyback upside from solvency buffer.",
+   "bear_case": "Negative scenario: 1% growth, PE 9.7 in 10y → fair €62; saturated insurance market, low ROE.",
+   "video_title": "86% Gain on a Stock Almost Nobody Knows",
+   "published_at": "2026-09-25T18:58:18+00:00",
+   "analyzed_at": "2026-09-25T22:06:06.990084+00:00",
+   "flip": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "The German Value Investor",
+   "idx": 0
+  }
+ ]
+}
