@@ -1,0 +1,24 @@
+{
+ "ticker": "NBIS",
+ "slug": "NBIS",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "His pick among the 4 neo-clouds: ~500% revenue growth, best debt-to-FCF in group (-1.8x), growth-adjusted P/S 9.8x vs 45x headline. Still pricey and he's leery of the whole neo-cloud model — 'take another look', not a full buy.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
+   "price_at_call": "45x P/S headline, 9.8x growth-adjusted",
+   "base_case": "500% revenue growth + best balance sheet of the four.",
+   "bear_case": "Technological obsolescence forces constant data-center reloads; all four cash-flow negative."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
