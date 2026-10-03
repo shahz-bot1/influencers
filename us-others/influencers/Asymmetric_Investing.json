@@ -1,0 +1,47 @@
+{
+ "name": "Asymmetric Investing",
+ "handle": "@asymmetricinvesting",
+ "slug": "Asymmetric_Investing",
+ "calls": [
+  {
+   "ticker": "ORCL",
+   "tickerSlug": "ORCL",
+   "direction": "SELL",
+   "date": "2026-09-30T03:57:13.629546+00:00",
+   "price": null,
+   "video_id": "_X0c2A-Ln9c"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "SELL",
+   "date": "2026-09-30T03:57:13.629546+00:00",
+   "price": null,
+   "video_id": "_X0c2A-Ln9c"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "SELL",
+   "date": "2026-09-30T03:57:13.629546+00:00",
+   "price": null,
+   "video_id": "_X0c2A-Ln9c"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "SELL",
+   "date": "2026-09-30T03:57:13.629546+00:00",
+   "price": null,
+   "video_id": "_X0c2A-Ln9c"
+  },
+  {
+   "ticker": "TSLA",
+   "tickerSlug": "TSLA",
+   "direction": "SELL",
+   "date": "2026-09-30T03:57:13.629546+00:00",
+   "price": null,
+   "video_id": "_X0c2A-Ln9c"
+  }
+ ]
+}
