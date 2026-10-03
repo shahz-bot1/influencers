@@ -1,0 +1,36 @@
+{
+ "ticker": "TSM",
+ "slug": "TSM",
+ "calls": [
+  {
+   "video_id": "8pOD-5dG1KM",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "DCF fair value $647 vs $451 (~43% upside); does not own yet, very interested in buying.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  },
+  {
+   "video_id": "mZeU3CU2Rds",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Taiwan Semiconductor Stock an Undervalued AI Stock to Buy Right Now? | TSM STock Analysis",
+   "published_at": "2026-09-24T13:45:42.837875+00:00",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price_at_call": "$445 (stated market price)",
+   "thesis": "Agentic AI adds a new leg of growth on top of already sold-out capacity; record 55.8% margins; geopolitical risk premium already in valuation.",
+   "base_case": "DCF fair value $639 vs $445 = 43% upside over 12-18 months.",
+   "bull_case": "Rating reiterated as buying opportunity with conviction upgraded from medium to high.",
+   "bear_case": "Arizona capacity costs much higher than Taiwan; management guides declining margins ahead, though utilization has offset it for a year.",
+   "analyzed_at": "2026-09-24T13:58:13.756537+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
