@@ -1,0 +1,22 @@
+{
+ "summary": "parkevtate Vosianc CFA's \"The Best Stock to Buy Right Now in October (2026)\" (published 2026-09-30, ~12:55 BST) ranks Nvidia (NVDA, BUY at $230) the best stock to buy — he owns it as one of his largest positions and is preparing to buy more. The video's centerpiece is Nvidia's September 28 announcement of an additional $150B repurchase authorization, totaling ~$235B of buybacks through the end of next fiscal year. Parkevtate's thesis: buybacks shrink the share count so the share price can climb even at a $5.4T market cap; Nvidia's full-stack AI factory (GPUs + CUDA + networking + CPUs) wins buyers who want one integrated system; its scale gives it dominant negotiating power with TSMC, SK Hynix, Samsung and Micron, locking up supply in a supply-constrained industry (supplier commitments jumped from $119B to $270B); Vera Rubin delivers 30x better tokens-per-megawatt than Blackwell; and used-chip resale values are strong (B200 at 158% of initial price 18 months later). Beyond the call, his key argument is valuation complacency inversion: NVDA trades at ~14.6x forward earnings — half of Walmart/Costco — because risks (AI bubble, OpenAI/Anthropic losses, circular financing, AMD/ASICS competition) are priced in daily, unlike Tesla/SpaceX where \"success is inevitable\" complacency rules. He updated his DCF fair value to $344, implying ~50% upside over 12–18 months. Risers named: Broadcom, Marvell, Alphabet, Amazon, Microsoft. Risks raised: open competition from hyperscaler custom silicon. Sponsored by The Motley Fool. Auto-captions garbled a few names (\"Marbell\"/\"Marvel\" for Marvell, \"SKH Highix\" for SK Hynix, \"multi-t trillion\", \"Mly Fool\").",
+ "written_at": "2026-09-30T22:02:49.108205+00:00",
+ "video_id": "FNScYFbF-p8",
+ "title": "The Best Stock to Buy Right Now in October (2026)",
+ "creator": "Parkevtate Vosianc CFA",
+ "calls": [
+  {
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "FNScYFbF-p8",
+   "price_at_call": 230,
+   "thesis": "Ranks Nvidia the best stock to buy in October 2026; owns it (one of largest positions), preparing to buy more. DCF fair value $344 vs $230 (~50% upside 12-18mo). Forward PE 14.66 vs S&P 500 ~25. Bull: $150B add'l buyback ($235B total), full-stack AI factory moat, supplier leverage (TSMC etc.), Vera Rubin 30x tokens/MW, CPU growth doubling, resale values holding. Bear: AI data-center bubble fears, circular financing, AMD/ASIC competition — but risks already priced in, no investor complacency.",
+   "base_case": "Fair value $344, ~50% upside 12-18 months.",
+   "bull_case": "Hundreds of billions in FCF over 5-10 years; share count shrinks so price can rise without market-cap expansion.",
+   "bear_case": "AI capex bubble bursts; OpenAI/Anthropic unsustainable; competition from AMD, Intel, hyperscaler ASICs.",
+   "analyzed_at": "2026-09-30T16:53:12.133372+00:00"
+  }
+ ]
+}
