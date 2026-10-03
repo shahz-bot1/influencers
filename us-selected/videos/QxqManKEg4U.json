@@ -1,0 +1,57 @@
+{
+ "title": "I LOVE These 3 Stocks — But I'm NOT Buying Yet",
+ "creator": "Mark Roussin CPA",
+ "summary": "His 'Don't fight the Fed' Investors Weekly Playbook: after the Fed's 25bp hike (first since 2023), 10Y Treasury above 5%, and signals of more hikes, he argues valuations matter more and is building a shopping list rather than buying — great companies don't automatically equal great investments at any price. AAPL: CONDITIONAL_BUY at ~$342 (avg analyst PT equals current price, no upside); amazing ecosystem business, but 36.7x forward PE on single-digit growth and 28x forward EV/EBITDA vs 5-year average 22x — he needs a better entry to justify the required return with risk-free rates rising. CRWD: CONDITIONAL_BUY at ~$260 (avg PT $234, ~10% below price); best quarter ever with ARR $5.8B (+25%) and record $333M net new ARR, but 186x forward PE / 126x forward EV/EBITDA / 40x forward sales — premium justified, but so much is priced in that any growth slowdown risks multiple compression; he'd buy a selloff. ABBV: CONDITIONAL_BUY at $260 (he urged buying under $200; it's his top holding); immunology franchise executing superbly (Skyrizi $5.5B +24%, Rinvoq $2.5B +25%, Humira -36% offset), but 17.5x forward PE offers no margin of safety for pharma-specific risks (patent cliffs, trial failures, pricing pressure) — he waits for a better price. Macro backdrop: S&P flat in September, Nasdaq +2%, Dow -3%, Russell 2000 -4%; CPI still elevated (Fed projects 3.7% 2026 PCE). Verdict: loves all three businesses, none is buyable at current valuations; he'll be ready if volatility delivers his prices. (Caption auto-text renders ABBV as 'AVY'.)",
+ "video_id": "QxqManKEg4U",
+ "published_at": "2026-09-27 ~13:59 BST",
+ "calls": [
+  {
+   "video_id": "QxqManKEg4U",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "AAPL",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$342 (avg analyst PT $342 = current price; 36.7x forward PE)",
+   "thesis": "Loves the business, NOT buying: 36.7x forward PE for single-digit earnings growth is 'way too expensive'; waiting for a better entry if volatility gives him his price.",
+   "base_case": "Base: services/AI drive modest growth; fairly valued at best.",
+   "bull_case": "Bull: AI upgrade cycle + margin expansion justifies premium on a pullback.",
+   "bear_case": "Bear: multiple compression if growth stays single-digit; 10Y >5% raises required return.",
+   "published_at": "2026-09-27T13:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": null,
+   "video_title": "I LOVE These 3 Stocks — But I'm NOT Buying Yet"
+  },
+  {
+   "video_id": "QxqManKEg4U",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "CRWD",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$260 (avg analyst PT $234, ~10% below current; 186x forward PE, 40x sales)",
+   "thesis": "Loves the business (best quarter ever, ARR $5.8B +25%), NOT buying: 'absolutely expensive' — 40x sales needs everything to go perfect; would buy on a meaningful selloff if fundamentals intact.",
+   "base_case": "Base: 25% growth priced in; multiple compression risk.",
+   "bull_case": "Bull: cybersecurity secular growth sustains premium.",
+   "bear_case": "Bear: slight growth deceleration (25%->20%) triggers multiple compression.",
+   "published_at": "2026-09-27T13:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": null,
+   "video_title": "I LOVE These 3 Stocks — But I'm NOT Buying Yet"
+  },
+  {
+   "video_id": "QxqManKEg4U",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "ABBV",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "$260 (stated; was a buy under $200)",
+   "thesis": "Top holding, loves execution (Skyrizi/Rinvoq +24-25% growth offsetting Humira -36%), but at 17.5x forward earnings the margin of safety is gone; patient with existing position, waiting for a better entry to add.",
+   "base_case": "Base: immunology franchise keeps compounding; fairly priced.",
+   "bull_case": "Bull: pipeline delivers; multiple re-expands.",
+   "bear_case": "Bear: patent cliffs / trial failures / pricing pressure with no margin of safety.",
+   "published_at": "2026-09-27T13:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": null,
+   "video_title": "I LOVE These 3 Stocks — But I'm NOT Buying Yet"
+  }
+ ]
+}
