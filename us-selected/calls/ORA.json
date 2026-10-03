@@ -1,0 +1,28 @@
+{
+ "ticker": "ORA",
+ "slug": "ORA",
+ "calls": [
+  {
+   "video_id": "HbkvoRgodmw",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "ORA",
+   "direction": "BUY",
+   "price_at_call": "n/a (guest pick)",
+   "thesis": "Enhanced geothermal veteran moving into new EGS tech — always-on, near-zero marginal cost, no emissions.",
+   "base_case": "Base: existing geothermal assets fund EGS development.",
+   "bull_case": "Bull: EGS breaks through; geothermal becomes a core AI-power stack.",
+   "bear_case": "Bear: EGS closed-loop engineering fails to hold water; revenues pushed right again.",
+   "published_at": "2026-09-30T22:55:15.965630+00:00",
+   "analyzed_at": "2026-10-01T05:57:02.043190+00:00",
+   "stance_flip": null,
+   "video_title": "Buy the Dip in These 4 Energy Stocks (The Next AI Boom Needs Them)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
