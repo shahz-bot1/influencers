@@ -1,0 +1,22 @@
+{
+ "title": "Eli Lilly Might Be the Next Stock I Buy | LLY Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "summary": "He makes his highest-conviction call of the day: LLY is a BUY (HIGH conviction) at ~$1,151 with a DCF fair value of $1,494 (~30% upside over 12-18 months); he already bought this year and wants to add more. Key arguments: Lilly's oral GLP-1 pill already has >30% share of new starts (>36,000 patients) despite being second to market; a study showed Zepbound saves up to $600/person/month in medical costs by month 12; revenue nearly 10x'd to $80B (from $8B in 2020); operating margins hit a record 49.7% (from 15% in 2017); ROIC 37% (from ~10% in 2017). He frames Lilly as a demonstrated R&D engine: highest R&D spend as a share of revenue among pharma peers over the past decade, so the weight-loss boom can be followed by new treatments. Forward PE 24 is near the lower end of its 3-year range. Verdict: BUY, high conviction, ranking updated Sep 26, 2026. Other tickers discussed: NVO (he prefers Lilly), PFE ('Pfizer' in captions, noted as spending less on R&D).",
+ "video_id": "voPwQ-39uJM",
+ "published_at": "2026-09-26 ~11:55 BST",
+ "calls": [
+  {
+   "video_id": "voPwQ-39uJM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "LLY",
+   "direction": "BUY",
+   "price_at_call": "$1,151 (his fair value $1,494 — ~30% upside over 12-18 months)",
+   "thesis": "HIGH conviction buy — oral GLP-1 pill already >30% share of new starts, record 49.7% operating margins, best-in-class R&D engine; he bought this year and wants to add more.",
+   "base_case": "Fair value $1,494 via FCF model; forward PE 24 near the 3-year low end.",
+   "bull_case": "FCF estimates revised higher on faster oral-pill share gains; proven R&D engine keeps producing blockbusters.",
+   "bear_case": "Weight-loss boom may last only a few more years; future growth depends on new treatments after GLP-1s.",
+   "analyzed_at": "2026-09-26T14:00:01.000665+00:00"
+  }
+ ]
+}
