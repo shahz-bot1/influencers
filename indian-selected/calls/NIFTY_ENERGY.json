@@ -1,0 +1,27 @@
+{
+ "ticker": "NIFTY ENERGY",
+ "slug": "NIFTY_ENERGY",
+ "calls": [
+  {
+   "video_id": "kJuk2TsBfaI",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Where to Invest and where NOT TO? - Indian stocks vs US stocks vs Gold vs FDs  - Rahul Jain",
+   "published_at": "2026-09-27T20:54:12.349385+00:00",
+   "ticker": "NIFTY ENERGY",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "EPS growth up ~12% with PE contracted ~5%; very good sector for the next ~10 years on massive sector capex",
+   "base_case": "Multi-year capex cycle compounds earnings",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-10-03T20:59:20.859641+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
