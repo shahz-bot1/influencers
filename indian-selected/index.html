@@ -116,13 +116,12 @@ function renderHome(){
    +'<div class="fchips">'+fchips+"</div>";
   h+=list.length?list.map(tickerRow).join(""):'<div class="empty">No tickers match.</div>';
  }else{
-  var infs={};
-  explicit().forEach(function(c){(infs[c.channel]=infs[c.channel]||[]).push(c);});
-  var names=Object.keys(infs).sort();
-  h+=names.length?names.map(function(n){
-   var vids={};infs[n].forEach(function(c){vids[c.video_id]=1;});
-   return '<div class="irow" data-inf="'+esc(n)+'"><div class="nm">'+esc(n)+'</div>'
-   +'<div class="hd">'+infs[n].length+" calls · "+Object.keys(vids).length+" videos</div></div>";}).join("")
+  var list2=influencerList();
+  h+=list2.length?list2.map(function(inf){
+   var n=inf.name,calls=explicit().filter(function(c){return c.channel===n;});
+   var vids=infVideos(n).length;
+   return '<div class="irow" data-inf="'+esc(n)+'"><div class="nm">'+esc(n)+"</div>"
+   +'<div class="hd">'+(inf.handle?esc(inf.handle)+" · ":"")+calls.length+" calls · "+vids+" videos</div></div>";}).join("")
    :'<div class="empty">No influencers yet.</div>';
  }
  return '<div class="maintabs"><button data-tab="calls" class="'+(state.tab==="calls"?"on":"")+'">Active Calls</button>'
@@ -184,9 +183,17 @@ function infVideos(name){
  var out={},seen={};
  explicit().forEach(function(c){if(c.channel===name)seen[c.video_id]=1;});
  Object.keys(SUMMARIES).forEach(function(vid){var v=SUMMARIES[vid];
+  if(!v||typeof v!=="object")return;
+  v.video_id=v.video_id||vid;
   if(v.creator===name||seen[vid])out[vid]=v;});
  return Object.keys(out).map(function(vid){return out[vid];})
   .sort(function(a,b){return String(b.published_at||"").localeCompare(String(a.published_at||""));});
+}
+function influencerList(){
+ var map={};
+ (CHANNELS||[]).forEach(function(ch){var n=ch.name||ch.channel||ch.title;if(n&&!map[n])map[n]={name:n,handle:ch.handle||""};});
+ explicit().forEach(function(c){if(c.channel&&!map[c.channel])map[c.channel]={name:c.channel,handle:c.handle||""};});
+ return Object.keys(map).sort().map(function(k){return map[k];});
 }
 function renderInf(){
  var name=state.inf;
