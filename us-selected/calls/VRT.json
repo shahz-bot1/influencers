@@ -1,0 +1,25 @@
+{
+ "ticker": "VRT",
+ "slug": "VRT",
+ "calls": [
+  {
+   "video_id": "i3NittyekA4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "VRT",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Picks-and-shovels data-center cooling; ~23% global share (2x nearest rival), backlog +77% YoY.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2026-06-20T13:00:08+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
