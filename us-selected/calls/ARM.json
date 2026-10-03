@@ -1,0 +1,26 @@
+{
+ "ticker": "ARM",
+ "slug": "ARM",
+ "calls": [
+  {
+   "video_id": "RgK-UsB_d6w",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "If You Missed NVIDIA, Jensen Just Showed Us What's Even Bigger (3 Stocks to Buy Now)",
+   "ticker": "ARM",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Highest-torque CPU play; launching its first AI CPU just as inferencing makes the CPU the orchestration layer — pulled back off highs, basing, 'could double or triple from here'.",
+   "base_case": null,
+   "bull_case": "CPU resurgence servicing AI models; own AI CPU launch into rising CPU demand.",
+   "bear_case": null,
+   "analyzed_at": "2026-09-29T05:56:28.042154+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
