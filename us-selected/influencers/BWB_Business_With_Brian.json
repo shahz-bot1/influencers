@@ -1,0 +1,239 @@
+{
+ "name": "BWB - Business With Brian",
+ "handle": "@BusinessWithBrian",
+ "slug": "BWB_Business_With_Brian",
+ "calls": [
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-06-20T13:00:08+00:00",
+   "price": "not stated",
+   "video_id": "i3NittyekA4"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-06-20T13:00:08+00:00",
+   "price": "not stated",
+   "video_id": "i3NittyekA4"
+  },
+  {
+   "ticker": "VRT",
+   "tickerSlug": "VRT",
+   "direction": "BUY",
+   "date": "2026-06-20T13:00:08+00:00",
+   "price": "not stated",
+   "video_id": "i3NittyekA4"
+  },
+  {
+   "ticker": "MOD",
+   "tickerSlug": "MOD",
+   "direction": "BUY",
+   "date": "2026-01-31T14:31:00+00:00",
+   "price": "not stated",
+   "video_id": "t2b-mdFg8rI"
+  },
+  {
+   "ticker": "ARKQ",
+   "tickerSlug": "ARKQ",
+   "direction": "BUY",
+   "date": "2026-01-31T14:31:00+00:00",
+   "price": "not stated",
+   "video_id": "t2b-mdFg8rI"
+  },
+  {
+   "ticker": "AVAV",
+   "tickerSlug": "AVAV",
+   "direction": "BUY",
+   "date": "2026-01-31T14:31:00+00:00",
+   "price": "not stated",
+   "video_id": "t2b-mdFg8rI"
+  },
+  {
+   "ticker": "RCAT",
+   "tickerSlug": "RCAT",
+   "direction": "BUY",
+   "date": "2026-01-31T14:31:00+00:00",
+   "price": "now $17-18",
+   "video_id": "t2b-mdFg8rI"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-01-28T16:45:00+00:00",
+   "price": "not stated",
+   "video_id": "0cKiqQZpgF0"
+  },
+  {
+   "ticker": "PANW",
+   "tickerSlug": "PANW",
+   "direction": "BUY",
+   "date": "2026-01-28T16:45:00+00:00",
+   "price": "not stated",
+   "video_id": "0cKiqQZpgF0"
+  },
+  {
+   "ticker": "WMT",
+   "tickerSlug": "WMT",
+   "direction": "BUY",
+   "date": "2026-01-28T16:45:00+00:00",
+   "price": "not stated",
+   "video_id": "0cKiqQZpgF0"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-01-28T16:45:00+00:00",
+   "price": "not stated",
+   "video_id": "0cKiqQZpgF0"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-01-28T16:45:00+00:00",
+   "price": "not stated",
+   "video_id": "0cKiqQZpgF0"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-01-28T16:45:00+00:00",
+   "price": "not stated",
+   "video_id": "0cKiqQZpgF0"
+  },
+  {
+   "ticker": "SMH",
+   "tickerSlug": "SMH",
+   "direction": "BUY",
+   "date": "2025-12-10T15:00:46+00:00",
+   "price": "not stated",
+   "video_id": "JgkqRJ4PCTc"
+  },
+  {
+   "ticker": "NUKZ",
+   "tickerSlug": "NUKZ",
+   "direction": "BUY",
+   "date": "2025-12-10T15:00:46+00:00",
+   "price": "not stated",
+   "video_id": "JgkqRJ4PCTc"
+  },
+  {
+   "ticker": "QQQM",
+   "tickerSlug": "QQQM",
+   "direction": "BUY",
+   "date": "2025-12-10T15:00:46+00:00",
+   "price": "not stated",
+   "video_id": "JgkqRJ4PCTc"
+  },
+  {
+   "ticker": "ARKQ",
+   "tickerSlug": "ARKQ",
+   "direction": "BUY",
+   "date": "2025-12-10T15:00:46+00:00",
+   "price": "not stated",
+   "video_id": "JgkqRJ4PCTc"
+  },
+  {
+   "ticker": "APLD",
+   "tickerSlug": "APLD",
+   "direction": "BUY",
+   "date": "2025-12-10T15:00:46+00:00",
+   "price": "not stated",
+   "video_id": "JgkqRJ4PCTc"
+  },
+  {
+   "ticker": "AMBA",
+   "tickerSlug": "AMBA",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2025-12-10T15:00:46+00:00",
+   "price": "not stated",
+   "video_id": "JgkqRJ4PCTc"
+  },
+  {
+   "ticker": "MSFT",
+   "tickerSlug": "MSFT",
+   "direction": "BUY",
+   "date": "2025-08-14T14:45:01+00:00",
+   "price": "analyst 12-month upside ~18% (stated, not his target)",
+   "video_id": "4vgg_-dkDC0"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2025-08-14T14:45:01+00:00",
+   "price": "analyst 12-month upside ~10%",
+   "video_id": "4vgg_-dkDC0"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2025-08-14T14:45:01+00:00",
+   "price": "analyst 12-month upside ~18%",
+   "video_id": "4vgg_-dkDC0"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2025-08-14T14:45:01+00:00",
+   "price": "analyst 12-month upside ~2% ('analysts continuously wrong the past two years')",
+   "video_id": "4vgg_-dkDC0"
+  },
+  {
+   "ticker": "V",
+   "tickerSlug": "V",
+   "direction": "BUY",
+   "date": "2025-08-14T14:45:01+00:00",
+   "price": "analyst 12-month upside ~18%",
+   "video_id": "4vgg_-dkDC0"
+  },
+  {
+   "ticker": "MELI",
+   "tickerSlug": "MELI",
+   "direction": "BUY",
+   "date": "2025-08-14T14:45:01+00:00",
+   "price": "analyst 12-month upside ~22%",
+   "video_id": "4vgg_-dkDC0"
+  },
+  {
+   "ticker": "IONQ",
+   "tickerSlug": "IONQ",
+   "direction": "BUY",
+   "date": "2025-08-14T14:45:01+00:00",
+   "price": "analyst 12-month upside ~20%",
+   "video_id": "4vgg_-dkDC0"
+  },
+  {
+   "ticker": "COST",
+   "tickerSlug": "COST",
+   "direction": "BUY",
+   "date": "2025-08-14T14:45:01+00:00",
+   "price": "analyst 12-month upside ~12%",
+   "video_id": "4vgg_-dkDC0"
+  },
+  {
+   "ticker": "CRWD",
+   "tickerSlug": "CRWD",
+   "direction": "BUY",
+   "date": "2025-08-14T14:45:01+00:00",
+   "price": "analyst 12-month upside ~14%",
+   "video_id": "4vgg_-dkDC0"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2025-08-14T14:45:01+00:00",
+   "price": "analyst 12-month downside -16% ('analysts consistently wrong')",
+   "video_id": "4vgg_-dkDC0"
+  }
+ ]
+}
