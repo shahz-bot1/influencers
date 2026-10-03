@@ -1,0 +1,1213 @@
+{
+ "updated": "2026-10-03T22:43:36.606402+00:00",
+ "tickers": [
+  {
+   "ticker": "ABNB",
+   "slug": "ABNB",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "ADBE",
+   "slug": "ADBE",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "ALL",
+   "slug": "ALL",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "ALLY",
+   "slug": "ALLY",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "AMD",
+   "slug": "AMD",
+   "lastDate": "2026-09-29T03:56:43.894526+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$67"
+    }
+   ],
+   "influencers": [
+    "Jose Najarro Stocks"
+   ],
+   "lastStated": "~$67 (auto-captions garble this line; price approximate)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "AMDY",
+   "slug": "AMDY",
+   "lastDate": "2026-09-30T03:57:13.629546+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "AMP",
+   "slug": "AMP",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "AMZN",
+   "slug": "AMZN",
+   "lastDate": "2026-09-30T03:57:13.629546+00:00",
+   "chips": [
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "BAC",
+   "slug": "BAC",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 2
+  },
+  {
+   "ticker": "BEKE",
+   "slug": "BEKE",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "BIDU",
+   "slug": "BIDU",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "BILI",
+   "slug": "BILI",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "BKNG",
+   "slug": "BKNG",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "BLDR",
+   "slug": "BLDR",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "BLV",
+   "slug": "BLV",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "BRK.B",
+   "slug": "BRK_B",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CB",
+   "slug": "CB",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CBOE",
+   "slug": "CBOE",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CCL",
+   "slug": "CCL",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CHPY",
+   "slug": "CHPY",
+   "lastDate": "2026-09-30T03:57:13.629546+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$40"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "~40% targeted annualized distribution (weekly payouts, $0.38-$0.71/share range t",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CME",
+   "slug": "CME",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CRWV",
+   "slug": "CRWV",
+   "lastDate": "2026-09-30T03:57:13.629546+00:00",
+   "chips": [
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": null
+    },
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing",
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 2
+  },
+  {
+   "ticker": "DHI",
+   "slug": "DHI",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "EXPE",
+   "slug": "EXPE",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "GDS",
+   "slug": "GDS",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "GDX",
+   "slug": "GDX",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "JBLU",
+   "slug": "JBLU",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "JD",
+   "slug": "JD",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "JDHEALTH",
+   "slug": "JDHEALTH",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "JPM",
+   "slug": "JPM",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "KC",
+   "slug": "KC",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "KUAIS",
+   "slug": "KUAIS",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "LNVGY",
+   "slug": "LNVGY",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "LPLA",
+   "slug": "LPLA",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "META",
+   "slug": "META",
+   "lastDate": "2026-09-30T21:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Daniel Pronk",
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 2
+  },
+  {
+   "ticker": "MTCH",
+   "slug": "MTCH",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "MU",
+   "slug": "MU",
+   "lastDate": "2026-10-01T01:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Jose Najarro Stocks",
+    "Asymmetric Investing"
+   ],
+   "lastStated": "",
+   "nCalls": 2
+  },
+  {
+   "ticker": "NBIS",
+   "slug": "NBIS",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$45"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "45x P/S headline, 9.8x growth-adjusted",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NTES",
+   "slug": "NTES",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NVDA",
+   "slug": "NVDA",
+   "lastDate": "2026-09-29T03:56:43.894526+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$19"
+    }
+   ],
+   "influencers": [
+    "Jose Najarro Stocks"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NVDY",
+   "slug": "NVDY",
+   "lastDate": "2026-09-30T03:57:13.629546+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$47"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "47% targeted distribution rate",
+   "nCalls": 1
+  },
+  {
+   "ticker": "ORCL",
+   "slug": "ORCL",
+   "lastDate": "2026-09-30T03:57:13.629546+00:00",
+   "chips": [
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": null
+    },
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$6.5"
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing",
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "-6.5% on the week / -53% since May",
+   "nCalls": 2
+  },
+  {
+   "ticker": "PGR",
+   "slug": "PGR",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "PHM",
+   "slug": "PHM",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "PLNT",
+   "slug": "PLNT",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "PTON",
+   "slug": "PTON",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "PYPL",
+   "slug": "PYPL",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$50"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "~$50 (bought when it cratered back to ~$50/share)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "RJF",
+   "slug": "RJF",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SCHW",
+   "slug": "SCHW",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SHOP",
+   "slug": "SHOP",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SIRI",
+   "slug": "SIRI",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SOXY",
+   "slug": "SOXY",
+   "lastDate": "2026-09-30T03:57:13.629546+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$12"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "12% targeted income (monthly payouts, $0.65-$1.00+/share this year)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SPY",
+   "slug": "SPY",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Tom Nash"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TCEHY",
+   "slug": "TCEHY",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TCOM",
+   "slug": "TCOM",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TME",
+   "slug": "TME",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TRIP",
+   "slug": "TRIP",
+   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TSLA",
+   "slug": "TSLA",
+   "lastDate": "2026-09-30T03:57:13.629546+00:00",
+   "chips": [
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "YMM",
+   "slug": "YMM",
+   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "Z",
+   "slug": "Z",
+   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  }
+ ],
+ "influencers": [
+  {
+   "name": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "slug": "Asymmetric_Investing",
+   "nCalls": 5,
+   "nVideos": 1
+  },
+  {
+   "name": "Brian Feroldi",
+   "handle": "@BrianFeroldiYT",
+   "slug": "Brian_Feroldi",
+   "nCalls": 0,
+   "nVideos": 0
+  },
+  {
+   "name": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "slug": "Daniel_Pronk",
+   "nCalls": 1,
+   "nVideos": 1
+  },
+  {
+   "name": "Everything Money",
+   "handle": "@EverythingMoney",
+   "slug": "Everything_Money",
+   "nCalls": 0,
+   "nVideos": 0
+  },
+  {
+   "name": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "slug": "Jose_Najarro_Stocks",
+   "nCalls": 3,
+   "nVideos": 2
+  },
+  {
+   "name": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "slug": "Joseph_Hogue_CFA",
+   "nCalls": 41,
+   "nVideos": 3
+  },
+  {
+   "name": "Patient Investor",
+   "handle": "@patientinvestor",
+   "slug": "Patient_Investor",
+   "nCalls": 0,
+   "nVideos": 0
+  },
+  {
+   "name": "Sven Carlin",
+   "handle": "@value-investing",
+   "slug": "Sven_Carlin",
+   "nCalls": 14,
+   "nVideos": 1
+  },
+  {
+   "name": "Tom Nash",
+   "handle": "@TomNashTV",
+   "slug": "Tom_Nash",
+   "nCalls": 1,
+   "nVideos": 1
+  },
+  {
+   "name": "UNRIVALEDD INVESTING",
+   "handle": "@UnrivaledInvesting",
+   "slug": "UNRIVALEDD_INVESTING",
+   "nCalls": 0,
+   "nVideos": 0
+  }
+ ],
+ "videos": [
+  {
+   "id": "Ad2Pn32TWSs",
+   "title": "Micron Stock Is STILL Dirt Cheap After This Massive Beat!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-01T01:55:34.672871+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "sY9DIuxZzmc",
+   "title": "Why I Plan To Continue Buying Meta Stock",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-09-30T21:55:34.672871+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "WHzxbGZoTPQ",
+   "title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "creator": "Sven Carlin",
+   "channels": [
+    "Sven Carlin"
+   ],
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "nCalls": 14
+  },
+  {
+   "id": "989CUhoOUg8",
+   "title": "Buffett's \"Going to Hell\" Warning [5 Stocks to Buy Before It Gets Worse]",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-09-30T15:55:34.672871+00:00",
+   "nCalls": 14
+  },
+  {
+   "id": "F6ds1vqtOTY",
+   "title": "A Once in a Lifetime Financial Reset is Coming. (Why Stocks Are Next)",
+   "creator": "Tom Nash",
+   "channels": [
+    "Tom Nash"
+   ],
+   "published_at": "2026-09-30T15:55:34.672871+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "7Lm8O0CuvLs",
+   "title": "AMD Just Spent $8.2 Billion on Its Next AI Bet!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-09-29T00:55:38.541174+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "jbtxHHpX_u0",
+   "title": "20 Stocks Just Got Crushed by AI… Here are the 5 I'm Buying",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-09-27T16:55:35.550296+00:00",
+   "nCalls": 23
+  },
+  {
+   "id": "gkt3BnXJf9s",
+   "title": "My New Favorite Stocks for AI Growth AND Income",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "",
+   "nCalls": 4
+  },
+  {
+   "id": "_X0c2A-Ln9c",
+   "title": "Risk Warning: 5 Stocks to Sell Before It's Too Late",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "",
+   "nCalls": 5
+  }
+ ]
+}
