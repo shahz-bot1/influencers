@@ -1,0 +1,22 @@
+{
+ "video_id": "mRBhh_hOfao",
+ "creator": "Parkevtate Vosianc CFA",
+ "title": "Why Is FICO Stock Crashing, and is it a Generational Buying Opportunity?",
+ "published_at": "2026-09-23T16:00:00+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc's September 23 video answers his own headline directly: yes, the ~45% year-to-date crash in Fair Isaac Corporation (FICO) is a high-conviction buying opportunity. The selloff is driven by mortgage-scoring regulation risk and a VantageScore policy shift that threaten FICO's historically iron grip on credit scoring for home loans; a further headline is FICO expanding TENT access for FHA lenders, which supports adoption but limits pricing power. His counterargument is business quality: trailing-12-month revenue of $2.4 billion (up from ~$500 million in 2017), revenue growth above 20% even in the latest quarter, operating margins of 52% (up from ~20% in 2017), and return on invested capital of 56.5%, roughly five times its weighted average cost of capital. The stock now trades at a 17.5x forward P/E, the cheapest in a very long time, after years at super-premium multiples. He updated his discounted cash flow model and puts fair value at $1,153 per share, about 24% above the current price, projecting that upside over 12-18 months. The call: FICO — BUY with high conviction, his highest conviction tier (low/medium/high), for long-term investors willing to take the risk that regulatory change permanently erodes the pricing-power moat. Base/bull: the moat persists and the multiple re-rates as policy fears prove overblown; bear: regulation strips pricing power and the elite margins compress. Other tickers: none discussed. The video carries a Motley Fool sponsorship; one auto-caption spot garbles a short phrase ('expanding TENT access') without changing meaning.",
+ "calls": [
+  {
+   "video_id": "mRBhh_hOfao",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "FICO",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $1,153, ~24% upside vs current price (stock down ~45% YTD)",
+   "thesis": "Crash on mortgage-scoring regulation/VantageScore risk is a high-conviction buying opportunity for long-term investors.",
+   "base_case": "DCF $1,153/share; forward P/E 17.5 — cheapest in years; 20%+ revenue growth, 52% operating margins, 56.5% ROIC hold.",
+   "bull_case": "Pricing power and moat persist despite regulation noise; re-rates back toward historic premium multiple.",
+   "bear_case": "Policy changes erode FICO's grip on mortgage scoring, capping price increases and compressing the 52% margins."
+  }
+ ]
+}
