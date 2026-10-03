@@ -1,0 +1,30 @@
+{
+ "video_id": "7Lm8O0CuvLs",
+ "title": "AMD Just Spent $8.2 Billion on Its Next AI Bet!!",
+ "creator": "Jose Najarro Stocks",
+ "handle": "@josenajarrostocks",
+ "published_at": "2026-09-29T00:55:38.541174+00:00",
+ "summary": "In 'AMD Just Spent $8.2 Billion on Its Next AI Bet!!' (published 29 Sep 2026), Jose Najarro covers two big semiconductor headlines. First, Nvidia increased its share-repurchase authorization by $150 billion, bringing the remaining buyback program to $235 billion to be executed through fiscal 2028 — against barely $100 billion of buybacks over the past decade. He reads it as a major confidence signal: management believes the money will be worth much more in the future, and the stock trades at roughly 19x forward earnings (likely 16-17x, he argues, since analysts keep underestimating Nvidia's growth). He also covers Nvidia's open agent safety platform — an open-source OpenShell runtime plus a Sentry watchdog running on Bluefield 4 DPUs — and notes partners include Anthropic, SpaceX and Perplexity, with OpenAI conspicuously absent. He reports Anthropic has contracted 2.6 gigawatts of Nvidia AI infrastructure to date, with partner contracted value exceeding $180 billion, dismissing fears Anthropic is moving away from Nvidia. Second, AMD's $8.2 billion all-stock acquisition of World Labs, the AI model and research lab founded by AI pioneer Dr. Fei-Fei Li (auto-captions garble her name as 'FFly'/'Dr. Lee'), expected to close by end of 2026. He frames it as a talent acquisition that gives AMD a front-row view of how AI workloads are evolving, informing its hardware/software roadmap and potential moves into robotics and physical AI. He applauds the all-stock structure — less than 1% of the company — as smarter than spending cash, while flagging one worry: AMD is already juggling software-stack improvements (ROCm), the Helios ramp, and a full-stack build-out, so this is one more thing on the plate. He trusts Lisa Su's judgment and expects the deal to look obviously smart in a year or two. Calls: NVDA — BUY (excited as an investor; buyback confidence; cheap forward P/E; $5T market cap noted); AMD — BUY (smart talent grab, trusts management; ~$67 per garbled captions). Other tickers discussed without calls: INTC and ARM (as compute platforms for the agent safety runtime), META (as an AMD partner), plus non-tradeable OpenAI, Anthropic, SpaceX and Perplexity.",
+ "calls": [
+  {
+   "video_id": "7Lm8O0CuvLs",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Bullish as an investor on the $150B buyback authorization increase (remaining program $235B, executed through FY2028); management signaling the money will be worth much more. Forward P/E ~19, likely 16-17x since analysts underestimate growth. Anthropic has contracted 2.6GW of Nvidia AI infrastructure ($180B+ contracted value) — no worry about losing share.",
+   "analyzed_at": "2026-09-29T03:56:43.894526+00:00",
+   "price_at_call": "not stated in video; cites ~19x forward P/E and ~$5T market cap"
+  },
+  {
+   "video_id": "7Lm8O0CuvLs",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "thesis": "$8.2B all-stock acquisition of World Labs (AI model/research lab) is a smart talent grab giving AMD deeper insight into evolving AI workloads and its tech roadmap. All-stock is the right call (<1% of market cap). Trusts Lisa Su's judgment; expects the deal to look smart in hindsight. Mild worry AMD is spreading itself thin (software stack, Helios ramp, now AI models).",
+   "analyzed_at": "2026-09-29T03:56:43.894526+00:00",
+   "price_at_call": "~$67 (auto-captions garble this line; price approximate)"
+  }
+ ]
+}
