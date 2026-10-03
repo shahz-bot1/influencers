@@ -1,0 +1,48 @@
+{
+ "summary": "MarketBeat's \"The UNTHINKABLE Happened to These AI Stocks (Why They'll Win Again Soon)\" (published 2026-09-29, ~22:58 BST) is an in-studio interview with guest Mark Chaikin of Chaikin Analytics — all stock calls in the video are his, not MarketBeat staff. The discussion frames the next phase of the AI bull market: Chaikin compares today's compute buildout to the 1990s fiber boom, arguing we're at a \"midterm buying opportunity\" with ~20% market upside into mid-2027, and that fears of hyperscaler debt and data-center pushback will fade after the midterms. His three picks are early AI adopters that corrected hard but re-established uptrends: Palantir (PLTR, BUY) — bottomed after a >50% pullback tied partly to controversy over its Iran-war involvement, now has a bullish Chaikin Power Gauge rating and he expects new highs given its high-beta leverage to a market rally; ServiceNow (NOW, BUY) — recovered from a downbeat-quarter selloff, moved back into the bullish camp as AI integration into its corporate workflow tools gains traction; Advanced Micro Devices (AMD, CONDITIONAL BUY) — up ~30% since his free recommendation six weeks earlier (trillion-dollar valuation reached), but he says to buy 5–8% pullbacks, not new highs. Other tickers discussed: NVDA (the single chip supplier AMD challenges), DELL, SanDisk, Adobe, Salesforce, GOOGL, AMZN, META, ORCL. No explicit prices stated. Note: the video carries sponsored Power Gauge marketing with a same-day \"deadline\" CTA, and Chaikin openly admits he's \"not a tech person\" on Palantir's moat specifics.",
+ "written_at": "2026-09-30T22:02:49.108205+00:00",
+ "video_id": "UFkvt5QjRWI",
+ "title": "The UNTHINKABLE Happened to These AI Stocks (Why They'll Win Again Soon)",
+ "creator": "MarketBeat",
+ "calls": [
+  {
+   "video_id": "UFkvt5QjRWI",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Mark Chaikin: Palantir bottomed out after a >50% pullback, power gauge bullish again, established uptrend; government + enterprise data processing moat, \"leader in the next wave of the AI boom\".",
+   "base_case": "Chaikin thinks PLTR makes a new high as market rises ~20% over next 9 months from midterm low.",
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-09-30T09:58:47.261926+00:00"
+  },
+  {
+   "video_id": "UFkvt5QjRWI",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Chaikin: ServiceNow moved back into the bullish camp, uptrend re-established; AI integration into corporate workflow tooling seen as an AI-company story, not just software.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-09-30T09:58:47.261926+00:00"
+  },
+  {
+   "video_id": "UFkvt5QjRWI",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": null,
+   "thesis": "Chaikin: still bullish on AMD (second AI chip source, government supercomputer buildout), but don't chase new highs — buy a 5-8% pullback; his free rec 5-6 weeks ago is +30%.",
+   "base_case": "Buy pullbacks of 5-8%; won't pay new-high prices.",
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-09-30T09:58:47.261926+00:00"
+  }
+ ]
+}
