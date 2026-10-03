@@ -1,0 +1,23 @@
+{
+ "ticker": "JD",
+ "slug": "JD",
+ "calls": [
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "JD",
+   "direction": "BUY",
+   "thesis": "He owns it: investment/profitability cycle swings 50-70%, very high cash flow per share, dividend + 3.7% buyback yield, logistics moat vs delivery competitors.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
