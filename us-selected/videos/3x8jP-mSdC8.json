@@ -1,0 +1,24 @@
+{
+ "summary": "The German Value Investor's \"Lululemon Stock: A Once-in-a-Decade Opportunity?\" (published 2026-09-30, ~15:59 BST) keeps a HOLD on Lululemon (LULU, ~$100 context price) — fairly valued, not cheap enough to buy. His buy limit would be ~$74. Beyond the call: the setup is a fallen angel — down 80% from ATH to ~$100 (back to April 2018 levels), headline P/E of 8.5 on trailing $12+ EPS, but guidance has been cut three times this year ($13.26 in 2025, then $12.20, $11.05, now $8.75 — a ~30% profit slump) so the forward P/E is really ~12; still cheap versus a 2016–2025 average P/E of 35. Balance sheet is the bull case: zero financial debt, $1.4B net cash (~$12.50/share, 12% of market cap; adjusted P/E just 7.3). The bear evidence: aggressive buybacks at top prices ($318 avg in 2024, $237 in 2025, $141 in H1 2026) destroyed value — a \"cry for help\" signal on management quality; net income fell 376M to 278M in the quarter while EPS fell less ($3.10 to $2.92) only thanks to buybacks; cash is being burned faster than FCF (H1: $260M FCF vs $700M buybacks); North America revenue fell 12% in Q2 2026 on fewer visitors, lower conversion and smaller baskets; margins under pressure. Scenarios: bull ~$200 fair (~$150 with margin of safety, ~50% upside) on sustained 9%/8% EPS growth; bear ~$36 (-65%) if EPS falls 10%/year for 5 years; weighted expected return ~7% — market-like. Competitors Nike, Adidas mentioned; NN Group video teased as outro. Auto-captions are machine-translated (the creator narrates in English but the caption file contains translation artifacts, e.g., \"2023\" figures with cut-off averages and \"LVMH's balance sheet\" for Lululemon's).",
+ "written_at": "2026-09-30T22:02:49.108205+00:00",
+ "video_id": "3x8jP-mSdC8",
+ "title": "Lululemon Stock: A Once-in-a-Decade Opportunity?",
+ "creator": "The German Value Investor",
+ "calls": [
+  {
+   "video_id": "3x8jP-mSdC8",
+   "channel": "The German Value Investor",
+   "title": "Lululemon Stock: A Once-in-a-Decade Opportunity?",
+   "published_at": "2026-09-30T14:59:59.130378+00:00",
+   "analyzed_at": "2026-09-30T18:00:46.849930+00:00",
+   "ticker": "LULU",
+   "direction": "HOLD",
+   "stated_price": null,
+   "current_price_context": "~$100",
+   "thesis": "Fairly valued at ~$100 after 80% drawdown; EPS guided down to <$9 (-30% this year); zero debt + $1.4B net cash, but buybacks done at high prices destroyed value; buy limit ~$74 with margin of safety",
+   "bull": "Fair value ~$200 (~$150 with margin of safety) on 9%/8% EPS growth",
+   "bear": "Fair value ~$36 (-65%) if EPS declines 10%/yr for 5 years",
+   "stance_flip": false
+  }
+ ]
+}
