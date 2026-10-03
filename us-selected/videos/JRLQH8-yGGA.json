@@ -1,0 +1,25 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-24",
+ "title": "Is TJX Stock an Undervalued Stock to Buy Right Now?",
+ "source_note": "Detailed summary generated from video captions; one spot garbled (forward-PE figure not captured in captions)",
+ "summary": "Parkevtate Vosianc evaluates TJX Companies (TJ Maxx, Marshalls, HomeGoods), one of the few brick-and-mortar retailers still growing. Management raised its long-term store target by 500 units to 7,500 and is accelerating expansion to ~4% per year. TTM revenue topped $62B, more than double the ~$30B in 2017, driven by the off-price 'treasure hunt' model; Ross and Burlington show the category strength is industry-wide. TTM operating margin of ~12.5% is a decade high but the industry is not very lucrative given store/personnel/inventory costs. ROIC is a strong 26% TTM (~20% decade average), well above WACC, so the accelerated store investment should add shareholder value. His DCF values the business at ~$102 per share vs a $131 market price — roughly 10-15% overvalued after his usual 5-10% margin of safety — while the forward P/E is below the stock's two-year average (the exact figure was garbled in captions). He last covered TJX on May 5, 2025 with a non-buy stance, and that call worked: the stock is down ~6% since vs the S&P 500 up ~20%. Today he reiterates a HOLD: not ridiculously expensive, no need to dump, but better risk/reward exists elsewhere and he would wait for a better entry point. Call: TJX — HOLD @ $131 (DCF $102).",
+ "video_id": "JRLQH8-yGGA",
+ "calls": [
+  {
+   "video_id": "JRLQH8-yGGA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is TJX Stock an Undervalued Stock to Buy Right Now?",
+   "published_at": "2026-09-24T16:00:00.951899+00:00",
+   "ticker": "TJX",
+   "direction": "HOLD",
+   "price_at_call": "$131 (market; DCF $102 stated)",
+   "thesis": "Reiterated hold: 10-15% overvalued vs DCF even with margin of safety; better opportunities elsewhere, no need to dump.",
+   "base_case": "Strong ROIC (~26%), accelerating store expansion from 7,000 to 7,500 units.",
+   "bull_case": "Off-price demand stays strong; expansion compounds shareholder value.",
+   "bear_case": "Incremental dollar gets better risk/reward elsewhere; overvaluation persists.",
+   "analyzed_at": "2026-09-24T18:02:23.972154+00:00"
+  }
+ ]
+}
