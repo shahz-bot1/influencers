@@ -1,0 +1,75 @@
+{
+ "ticker": "COST",
+ "slug": "COST",
+ "calls": [
+  {
+   "video_id": "ps7HQgBsw5I",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "How I'm Investing With $1.5 Million Stock Portfolio",
+   "ticker": "COST",
+   "direction": "HOLD",
+   "price_at_call": "High valuation (stated); stock down a little",
+   "thesis": "Not doing anything with it and doesn't plan to — fundamentally great, just hangs out here.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  },
+  {
+   "video_id": "sF_4vrPXkUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Costco Stock Instead of Walmart Stock? | COST Stock Analysis WMT Stock Analysis",
+   "published_at": "2026-09-26T16:00:06.028267+00:00",
+   "ticker": "COST",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "DCF fair value $843 vs ~$900 market (stated)",
+   "thesis": "Comparative pick over WMT — Costco more fairly valued; inventory turnover 15.1 vs Walmart 12, expansion runway (less than 1/10th Walmart's store count yet nearly half the revenue).",
+   "base_case": "DCF $843 vs market $900; consistent with his prior COST BUY — no flip.",
+   "bull_case": "Store expansion + e-commerce growth (nearly 2x overall revenue growth) reignites the premium multiple.",
+   "bear_case": "Forward P/E 36.3 is still rich for a 3.8% margin retailer; any comp-sales miss de-rates it.",
+   "analyzed_at": "2026-09-26T18:03:33.207240+00:00"
+  },
+  {
+   "video_id": "4vgg_-dkDC0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "COST",
+   "direction": "BUY",
+   "price_at_call": "analyst 12-month upside ~12%",
+   "thesis": "Weather-any-economy pick: 16% 20-yr CAGR, Kirkland $3B->$86B, membership model, e-commerce only 3% of sales.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "BWB - Business With Brian and Dividendology",
+   "published_at": "2025-08-14T14:45:01+00:00"
+  },
+  {
+   "video_id": "KBh0GvLPTiM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "COST",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $843 vs ~$897 market (only 6% overvalued; fwd P/E 36)",
+   "thesis": "First BUY since ~2021/22 — stock down ~20% from highs is a rare fairly-valued entry; would do half before and half after Sep 24 earnings.",
+   "base_case": "DCF $843 vs market $897 — within margin of safety; 9% US comp sales (Aug), 17.9% digital growth, 90%+ membership renewal, 22.6% ROIC.",
+   "bull_case": "Earnings beat reignites the premium multiple; compounding at near-historic low relative valuation.",
+   "bear_case": "Valuation still 36x forward; a soft quarter on Sep 24 extends the de-rating despite quality."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 2
+  }
+ ]
+}
