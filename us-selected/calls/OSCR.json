@@ -1,0 +1,26 @@
+{
+ "ticker": "OSCR",
+ "slug": "OSCR",
+ "calls": [
+  {
+   "video_id": "Gw2IlH5msQE",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "3 Undervalued Healthcare Stocks Invstors Can Buy Right Now",
+   "published_at": "2026-09-28T11:55:37.807225+00:00",
+   "detected_at": "2026-09-28T13:55:37.807225+00:00",
+   "direction": "BUY",
+   "ticker": "OSCR",
+   "stated_price": "fair value >$41/share (current slightly above that in garbled captions)",
+   "thesis": "Fastest-growing US health co since 2024 (40%+ revenue CAGR), >20% CAGR forecast through 2030; >34% DCF upside 12-18 months",
+   "base_case": "AI-driven efficiency plus >20% revenue CAGR through 2030",
+   "bull_case": "AI ops leverage drives outsized margin expansion",
+   "bear_case": "Macro/healthcare policy disruption cuts both ways"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
