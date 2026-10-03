@@ -1,0 +1,27 @@
+{
+ "ticker": "US AI STOCKS",
+ "slug": "US_AI_STOCKS",
+ "calls": [
+  {
+   "video_id": "NZ0fsllxcdE",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "S Naren's 36 Years of Investing Wisdom in 45 Minutes | The Legend Speaks | Rahul Jain",
+   "published_at": "2026-09-23T20:54:12.349385+00:00",
+   "ticker": "US AI STOCKS",
+   "direction": "SELL",
+   "price_at_call": "not stated",
+   "thesis": "Globally extreme valuations in AI stocks; in India also be careful of US-AI-based growth stories - take money out from a contrarian angle",
+   "base_case": "Trim exposure to overvalued AI growth stories",
+   "bull_case": "AI earnings compound and valuations sustain",
+   "bear_case": "An unpredictable trigger ends the AI rally sharply",
+   "analyzed_at": "2026-10-03T20:59:20.859641+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
