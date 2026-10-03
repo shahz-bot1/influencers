@@ -1,0 +1,183 @@
+{
+ "ticker": "NVDA",
+ "slug": "NVDA",
+ "calls": [
+  {
+   "video_id": "8pOD-5dG1KM",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "DCF fair value $332 (~47% upside); owns, interested in buying more.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  },
+  {
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "FNScYFbF-p8",
+   "price_at_call": 230,
+   "thesis": "Ranks Nvidia the best stock to buy in October 2026; owns it (one of largest positions), preparing to buy more. DCF fair value $344 vs $230 (~50% upside 12-18mo). Forward PE 14.66 vs S&P 500 ~25. Bull: $150B add'l buyback ($235B total), full-stack AI factory moat, supplier leverage (TSMC etc.), Vera Rubin 30x tokens/MW, CPU growth doubling, resale values holding. Bear: AI data-center bubble fears, circular financing, AMD/ASIC competition — but risks already priced in, no investor complacency.",
+   "base_case": "Fair value $344, ~50% upside 12-18 months.",
+   "bull_case": "Hundreds of billions in FCF over 5-10 years; share count shrinks so price can rise without market-cap expansion.",
+   "bear_case": "AI capex bubble bursts; OpenAI/Anthropic unsustainable; competition from AMD, Intel, hyperscaler ASICs.",
+   "analyzed_at": "2026-09-30T16:53:12.133372+00:00"
+  },
+  {
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Incremental BUY on the $150B additional buyback authorization (total $235B through FY2028, the largest on record); he likes Nvidia here and would love it at $200, pitching Nov 20 $200 puts to get paid to wait.",
+   "price_at_call": null,
+   "bull_case": "Forward P/E ~19 vs 5-yr avg 36 with ~70% EPS growth expected; EPS gets two engines (earnings growth + share-count reduction); $127B TTM free cash flow.",
+   "bear_case": "Buybacks only create value if bought cheap; bears cite data-center construction concerns, AI safety, election year, and rising competition.",
+   "base_case": null,
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_id": "bBelRFgAqE0",
+   "video_title": "Nvidia Just Made a MASSIVE Move",
+   "published_at": "2026-09-29T13:59:59.109610+00:00",
+   "analyzed_at": "2026-09-29T18:01:32.562233+00:00"
+  },
+  {
+   "video_id": "pW_7A50jY_8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "~$225 area (no entry price given; avg analyst PT $327)",
+   "thesis": "Announced planned add with the $6K raised from the NFLX trim (not yet executed at recording): 'no-brainer' buy-and-hold-forever AI leader, 18.7x forward PE, 0.5 PEG; only hesitation is the $5.4T market cap size.",
+   "base_case": "Base: revenue/F FCF keep compounding; PT $327 (~+45%).",
+   "bull_case": "Bull: $400 PTs (~$10T mkt cap) on AI/automation wave.",
+   "bear_case": "Bear: size limits upside; any AI capex slowdown hurts.",
+   "published_at": "2026-09-27T16:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": null,
+   "video_title": "I Just Bought $15,000 of a New Stock"
+  },
+  {
+   "video_id": "uFY_WUwAY7k",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$5.4T mkt cap, 18.7x forward earnings (stated)",
+   "thesis": "Guest Jose's forced pick in the NVDA-vs-AVGO debate; 60/40-65/35 split majority NVDA — broadest AI exposure (physical AI, neo-cloud revenue-share deals, agentic workloads) at a low multiple.",
+   "base_case": "Both hosts agree both names are cheap at ~19-20x forward with growth too low in consensus.",
+   "bull_case": "Jensen guides at least 70% growth next year as the floor, ceiling near 100%.",
+   "bear_case": "Customer-built custom ASICs; harder to double a $5.4T base than a $1.7T one.",
+   "video_title": "NVIDIA vs. Broadcom: The Market Is Missing This",
+   "published_at": "2026-09-25T18:58:18+00:00",
+   "analyzed_at": "2026-09-25T22:06:06.990084+00:00",
+   "flip": false
+  },
+  {
+   "video_id": "GbasWBGRXEw",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated (forward PE ~18.8 referenced)",
+   "thesis": "Best risk/reward: ~90% expected growth at sub-20 forward PE; innovation plus GPU-as-an-asset financing moat.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Analysts underestimating Vera Rubin ramp; ~$240B expected FCF over next 4 quarters.",
+   "bull": "Multiple re-rating as hyperscaler orders land; operating profit seen 3x by fiscal 29.",
+   "bear": "Hyperscaler custom silicon (Broadcom/Marvell); power bottlenecks; AI demand slowdown.",
+   "collab_byline": "Jose Najarro Stocks and Couch Investor",
+   "published_at": "2026-09-24T13:17:41+00:00"
+  },
+  {
+   "video_id": "FXDiB6n-5RU",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "~$212 now; $250 year-end bet",
+   "thesis": "Biggest bet (~50% of his money); AI compute demand durable - buy weakness in quality semis.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Wall Street estimates conservative; semis still catching up to demand.",
+   "bull": "~$400B FCF by fiscal 28 on supply-constrained growth.",
+   "bear": "AI-capex slowdown fears; circular-financing criticism.",
+   "collab_byline": "Future Investing and Couch Investor",
+   "published_at": "2026-09-16T01:35:30+00:00"
+  },
+  {
+   "video_id": "i3NittyekA4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Tip of the AI spear for ~10 years: ~90% data-center GPU share, 60% operating margin, plus edge-compute, robotics and quantum-software optionality.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Revenue +254% in 2 years (+114% last year), still accelerating.",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2026-06-20T13:00:08+00:00"
+  },
+  {
+   "video_id": "i2p1PcQWsqw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated (forward PE ~24 referenced)",
+   "thesis": "Round-3 pick: ~50% earnings growth at 24x forward = PEG ~0.5; extreme value.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "59% operating margin vs AMD's 10%; AI capex flowing to Nvidia.",
+   "bull": "Robotics/EV optionality behind the scenes.",
+   "bear": "'Up 1,000%+ in 5 years, how much higher?' sentiment.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+   "published_at": "2026-02-25T16:45:00+00:00"
+  },
+  {
+   "video_id": "0cKiqQZpgF0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "~90% data-center GPU share; Vera Rubin 5x inference/3.5x training; AI enterprise software $2B/yr run rate.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Supply chain and regulation; China H200 a sales tailwind.",
+   "note": "Joint pick - Brian proposed, Joseph agreed.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+   "published_at": "2026-01-28T16:45:00+00:00"
+  },
+  {
+   "video_id": "4vgg_-dkDC0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "analyst 12-month upside ~2% ('analysts continuously wrong the past two years')",
+   "thesis": "Fastest corporate scale-up ever ($5B->$60B 2016-24); ~90% data-center GPU share; 70%+ gross margins.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "BWB - Business With Brian and Dividendology",
+   "published_at": "2025-08-14T14:45:01+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 2
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 3
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 7
+  }
+ ]
+}
