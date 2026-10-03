@@ -1,0 +1,44 @@
+{
+ "ticker": "NU",
+ "slug": "NU",
+ "calls": [
+  {
+   "video_id": "pW_7A50jY_8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NU",
+   "direction": "BUY",
+   "price_at_call": "~$14 (at support; resistance above $14)",
+   "thesis": "Nu Holdings in a buy zone for long-term investors: at support; reports of $8-10B Monzo acquisition talks could pressure the stock short term.",
+   "base_case": "Base: holds support, grinds higher.",
+   "bull_case": "Bull: Monzo deal (if done) expands US footprint.",
+   "bear_case": "Bear: big acquisition weighs on the stock near term.",
+   "published_at": "2026-09-27T16:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": null,
+   "video_title": "I Just Bought $15,000 of a New Stock"
+  },
+  {
+   "video_id": "FXDiB6n-5RU",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NU",
+   "direction": "BUY",
+   "price_at_call": "bought at $3.80; forward PE ~14 mentioned",
+   "thesis": "Leaning harder into Nu over SoFi; execution excellent, cheaper than ever.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "$1B buyback authorization; US entry.",
+   "bull": "Buyback grows to $2-4B as it stays cheap.",
+   "bear": "Flat stock price; opportunity cost.",
+   "collab_byline": "Future Investing and Couch Investor",
+   "published_at": "2026-09-16T01:35:30+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Couch Investor",
+   "idx": 0
+  }
+ ]
+}
