@@ -1,0 +1,120 @@
+{
+ "ticker": "AMZN",
+ "slug": "AMZN",
+ "calls": [
+  {
+   "video_id": "ps7HQgBsw5I",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "How I'm Investing With $1.5 Million Stock Portfolio",
+   "ticker": "AMZN",
+   "direction": "HOLD",
+   "price_at_call": "12% position, $180k, +$55k (his holding); 26 PE (stated)",
+   "thesis": "Not overvalued; powerful diversified company, low risk; well prepared for agentic commerce — Amazon will build its own agentic shopper and aggregation fears are overexaggerated.",
+   "base_case": "+50% 5y (vs S&P +70%), +495% 10y; logistics network and trusted-seller experience hard to displace.",
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  },
+  {
+   "video_id": "swW1xxJhyFE",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "First AMZN call on record: \"shouldn't be left out of anyone's portfolio\". AWS grew 36.7% YoY (~$170B annualized run rate, fastest in 4+ years); Graviton/Trainium custom silicon each >$25B run rate; first company projected to $1T revenue (FY28); core business very profitable with FCF to recover quickly after the capex cycle.",
+   "base_case": "TAM keeps expanding (AWS, ads, subscriptions, logistics-as-a-service); FCF recovers as investment pace slows.",
+   "bull_case": "AWS acceleration + AI custom silicon compound; wins whichever chatbot wins.",
+   "bear_case": "~$200B capex this year depresses FCF near-term; \"might not be the next 5x or 10x from here\".",
+   "analyzed_at": "2026-10-03T20:34:20.008271+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor",
+   "published_at": "2026-09-28T15:00:07+00:00"
+  },
+  {
+   "video_id": "w45BZ8xdhqk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why I Doubled Down on Amazon Stock",
+   "published_at": "2026-09-24T12:00:00.951899+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "~$250 (stated: his buy price; fair value $306)",
+   "thesis": "Doubled position to ~6% of portfolio: hall-of-fame business bought at a discount; fair value $306 implies ~20% upside in 12-18 months.",
+   "base_case": "AWS/AI capex earns ROIC above WACC; margins improve as high-margin AWS assets dominate the base.",
+   "bull_case": "AI demand exceeds supply for years; ROIC re-rates toward 22%+ track record.",
+   "bear_case": "$200B+ capex cycle fails to earn adequate returns; negative ~$40 FCF this year.",
+   "analyzed_at": "2026-09-24T18:02:23.972154+00:00"
+  },
+  {
+   "video_id": "i2p1PcQWsqw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Round-1 draft pick: diversified compounder; $200B AI capex; EV/EBITDA near historic lows.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "AWS + ads + AI chips; margins at all-time highs.",
+   "bull": "'Wish I invested more' in a year or two.",
+   "bear": "Capex scrutiny; stock lagging MAG7 peers.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+   "published_at": "2026-02-25T16:45:00+00:00"
+  },
+  {
+   "video_id": "0cKiqQZpgF0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "AWS growth re-accelerated to ~20%; operating income $12B->$69B (2022-24); advertising fastest-growing segment.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Post-plateau cycle point, 'about ready for that next boost'.",
+   "bear": "Spike-then-plateau history; layoffs a concern.",
+   "note": "Joint pick - Brian proposed, Joseph agreed.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+   "published_at": "2026-01-28T16:45:00+00:00"
+  },
+  {
+   "video_id": "4vgg_-dkDC0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "analyst 12-month upside ~18%",
+   "thesis": "AWS 60% of operating income, retail high-single-digit growth, $100M Bedrock/agentic-AI bet.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "10-12% annual returns on conservative multiples.",
+   "bear": "Tariffs will have impact but momentum holds.",
+   "collab_byline": "BWB - Business With Brian and Dividendology",
+   "published_at": "2025-08-14T14:45:01+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 3
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 4
+  }
+ ]
+}
