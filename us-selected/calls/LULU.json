@@ -1,0 +1,27 @@
+{
+ "ticker": "LULU",
+ "slug": "LULU",
+ "calls": [
+  {
+   "video_id": "3x8jP-mSdC8",
+   "channel": "The German Value Investor",
+   "title": "Lululemon Stock: A Once-in-a-Decade Opportunity?",
+   "published_at": "2026-09-30T14:59:59.130378+00:00",
+   "analyzed_at": "2026-09-30T18:00:46.849930+00:00",
+   "ticker": "LULU",
+   "direction": "HOLD",
+   "stated_price": null,
+   "current_price_context": "~$100",
+   "thesis": "Fairly valued at ~$100 after 80% drawdown; EPS guided down to <$9 (-30% this year); zero debt + $1.4B net cash, but buybacks done at high prices destroyed value; buy limit ~$74 with margin of safety",
+   "bull": "Fair value ~$200 (~$150 with margin of safety) on 9%/8% EPS growth",
+   "bear": "Fair value ~$36 (-65%) if EPS declines 10%/yr for 5 years",
+   "stance_flip": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "The German Value Investor",
+   "idx": 0
+  }
+ ]
+}
