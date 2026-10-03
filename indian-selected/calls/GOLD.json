@@ -1,0 +1,27 @@
+{
+ "ticker": "GOLD",
+ "slug": "GOLD",
+ "calls": [
+  {
+   "video_id": "kJuk2TsBfaI",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Where to Invest and where NOT TO? - Indian stocks vs US stocks vs Gold vs FDs  - Rahul Jain",
+   "published_at": "2026-09-27T20:54:12.349385+00:00",
+   "ticker": "GOLD",
+   "direction": "AVOID",
+   "price_at_call": "Rs 1,50,000 (stated as current price)",
+   "thesis": "No clear bullish pattern; under pressure while US bond yields stay ~5%, and a possible Indian import-duty cut (15% to 6%) could lower domestic prices",
+   "base_case": "Remains rangebound between ~Rs 1,45,000 and ~Rs 1,60,000",
+   "bull_case": "US bond yields fall toward 4-4.5% and long-term bullish trend resumes",
+   "bear_case": "Yields rise to ~5.5-5.7% and gold drops further as bonds win flows",
+   "analyzed_at": "2026-10-03T20:59:20.859641+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
