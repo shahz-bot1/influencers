@@ -1,0 +1,104 @@
+{
+ "ticker": "AMD",
+ "slug": "AMD",
+ "calls": [
+  {
+   "video_id": "UFkvt5QjRWI",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": null,
+   "thesis": "Chaikin: still bullish on AMD (second AI chip source, government supercomputer buildout), but don't chase new highs — buy a 5-8% pullback; his free rec 5-6 weeks ago is +30%.",
+   "base_case": "Buy pullbacks of 5-8%; won't pay new-high prices.",
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-09-30T09:58:47.261926+00:00"
+  },
+  {
+   "video_id": "pW_7A50jY_8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AMD",
+   "direction": "SELL",
+   "price_at_call": "~$261 (caption garbled as '$61'; trimmed 23.5%, executed)",
+   "thesis": "Trimmed AMD 23.5% on valuation: expected growth 'baked into the price'; keeps ~8.2% position, would rather 'crash less than make less'.",
+   "base_case": "Base: growth continues but priced in.",
+   "bull_case": "Bull: growth accelerates beyond expectations.",
+   "bear_case": "Bear: valuation compression on any growth disappointment.",
+   "published_at": "2026-09-27T16:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": "HOLD->SELL (partial trim on valuation)",
+   "video_title": "I Just Bought $15,000 of a New Stock"
+  },
+  {
+   "video_id": "0BDw9kwNh4Q",
+   "channel": "MarketBeat",
+   "title": "Is the Rally Real? 5 Stocks to Buy Now Before Election Day",
+   "published_at": "2026-09-27T00:00:00+00:00",
+   "detected_at": "2026-09-28T05:56:51.170858+00:00",
+   "direction": "BUY",
+   "ticker": "AMD",
+   "stated_price": null,
+   "thesis": "MI450 + Helios rack launch unlocking explosive GPU sales growth; bullish-flag breakout",
+   "base_case": "$370 base-case target",
+   "bull_case": "~200% upside to $1,200-$1,300 by year-end",
+   "bear_case": "Execution risk on MI450 launch (no supply-chain red flags seen); momentum run-up partly priced in"
+  },
+  {
+   "video_id": "GbasWBGRXEw",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "price_at_call": "not stated",
+   "thesis": "Owns a large position; bullish on MI400/Helios ramp and OpenAI/Anthropic/Meta partnerships, but would not add new money here.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "MI400 ramp and partnerships drive accelerating growth.",
+   "bull": "Beats expectations; path to $20-25 EPS by ~2028.",
+   "bear": "Forward PE ~55; Helios execution/sentiment risk; supply-chain constraints.",
+   "collab_byline": "Jose Najarro Stocks and Couch Investor",
+   "published_at": "2026-09-24T13:17:41+00:00"
+  },
+  {
+   "video_id": "flirQ_CtYN4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "price_at_call": "~$600 (stated >$600/share, ~$1T mkt cap)",
+   "thesis": "Shareholder since ~$100; DCF base case says ~1% overvalued at $600, prob-weighted target $685 (~12% upside); trending toward taking profits and rotating into NVDA/AVGO/MU/META or cash.",
+   "base_case": "Base DCF: $655 (~1.1% too expensive); prob-weighted $685.",
+   "bull_case": "Bull DCF: $1,150 (+80.6%) on faster growth + 38%+ EBIT margins.",
+   "bear_case": "Bear DCF: 58.1% lower (~$250).",
+   "analyzed_at": "2026-09-23T05:56:27.635208+00:00"
+  },
+  {
+   "video_id": "D-P5ryvcIAA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "price_at_call": "~$500s referenced",
+   "thesis": "Wait: real acceleration (MI400) coming but partly priced in; buy a big dip.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "CPU + data-center demand accelerating.",
+   "bull": "MI400 ramp beats; partnerships convert to tens of billions.",
+   "bear": "Capex-growth slowdown crushes multiples.",
+   "collab_byline": "Investing Moats with Varun and Couch Investor",
+   "published_at": "2026-07-01T14:30:34+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
+  }
+ ]
+}
