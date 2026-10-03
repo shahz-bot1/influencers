@@ -1,0 +1,58 @@
+{
+ "summary": "Travis Hoeft (Asymmetric Investing) — 'Risk Warning: 5 Stocks to Sell Before It's Too Late' (published 29 Sep 2026). Core thesis: five of the market's most popular AI-related stocks are vastly overvalued, and their improved financials are a mirage because AI capex doesn't hit the income statement until assets are in use. The common thread is deteriorating credit: borrowing costs are rising both market-wide and company-specific, execution is stumbling, and debt markets could eventually close to these names. (1) ORCL SELL — Oracle is down 53% over the past year; trailing-12-month free cash flow is -$28B against nearly $120B of debt, the 10-year borrowing rate has risen from 5.7% in February to ~7.3%, and the Project Jupiter data center invoking force majeure is 'not normal' — a sign of real execution problems behind $664B of remaining performance obligations. (2) CRWV SELL — CoreWeave carries a $47B market cap on just $7.6B of trailing revenue, $35B of debt, and burned -$5.7B of free cash flow in Q2 2026 alone; its June 2026 8.5% notes now yield over 12%, ROIC is negative. (3) MU SELL — take profits on Micron ($1.2T market cap): the ~7x forward P/E looks cheap only if 83-86% gross margins hold, but memory is a commodity — capacity lands in 2028-29, chip designs are shifting away from expensive HBM, and margin reversion to 40% would wipe out ~90% of profits. (4) AMZN SELL — retail growth has slowed (~13% TTM) and its $39B of retail operating profit is essentially the advertising business, which is threatened by agentic AI shopping (Muse/ChatGPT buy without viewing ads); estimated -$34B free cash flow in 2026, 26x forward P/E. (5) TSLA SELL — revenue flat for three years, operating margins down to 2-4.2% (a regular automaker), trading at 13x sales / 192x forward earnings, with ~$26B of capex expected to exceed operating cash flow, while Musk's attention shifts to SpaceX. Notable: two days after Joseph Hogue rated ORCL and CRWV AVOID on this same watch, Hoeft escalates both to outright SELL. Captions render CoreWeave as 'Cororeweave' throughout — ticker CRWV confirmed against the company discussed.",
+ "video_id": "_X0c2A-Ln9c",
+ "title": "Risk Warning: 5 Stocks to Sell Before It's Too Late",
+ "creator": "Asymmetric Investing",
+ "calls": [
+  {
+   "video_id": "_X0c2A-Ln9c",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "ORCL",
+   "direction": "SELL",
+   "thesis": "Valuation mirage: AI capex boom hides -$28B TTM free cash flow and ~$120B debt; 10-yr borrowing cost rose 5.7% (Feb) to ~7.3%; Project Jupiter force majeure shows execution strain. -53% over past year with more downside ahead.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": null
+  },
+  {
+   "video_id": "_X0c2A-Ln9c",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "CRWV",
+   "direction": "SELL",
+   "thesis": "CoreWeave: $47B market cap on $7.6B TTM revenue; $35B debt; -$5.7B FCF in Q2 2026 alone; June 2026 8.5% notes now yielding >12%; negative ROIC. If debt markets close off, 'it is game over.'",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": null
+  },
+  {
+   "video_id": "_X0c2A-Ln9c",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "MU",
+   "direction": "SELL",
+   "thesis": "Take profits: $1.2T market cap, ~7x fwd P/E looks cheap only if 83-86% gross margins hold; memory is a commodity — new capacity lands 2028-29, chip designs shifting away from HBM, demand rationalization ahead. Margin reversion to 40% would erase ~90% of profits.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": null
+  },
+  {
+   "video_id": "_X0c2A-Ln9c",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "AMZN",
+   "direction": "SELL",
+   "thesis": "Take profits: retail growth slowed (~13% TTM); $39B retail operating profit is essentially the advertising business, threatened by agentic AI shopping (Muse/ChatGPT buy without seeing ads); est -$34B FCF in 2026; 26x fwd P/E.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": null
+  },
+  {
+   "video_id": "_X0c2A-Ln9c",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "TSLA",
+   "direction": "SELL",
+   "thesis": "Flat revenue 3 years; op margins down to 2-4.2% (a regular automaker); 13x sales / 192x fwd P/E; ~$26B capex expected exceeding operating cash flow; Musk's focus shifting to SpaceX. -18 to -19% over past year.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": null
+  }
+ ]
+}
