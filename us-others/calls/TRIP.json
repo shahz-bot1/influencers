@@ -1,0 +1,21 @@
+{
+ "ticker": "TRIP",
+ "slug": "TRIP",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "TRIP",
+   "direction": "AVOID",
+   "thesis": "Travel middlemen disrupted by Muse; -15% in a month. Cheapest-looking stocks in this group aren't necessarily bargains.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
