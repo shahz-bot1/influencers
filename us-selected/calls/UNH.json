@@ -1,0 +1,47 @@
+{
+ "ticker": "UNH",
+ "slug": "UNH",
+ "calls": [
+  {
+   "video_id": "nGpwJHq0zVo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is UnitedHealth Stock an Undervalued Stock to Buy Right Now? | UNH Stock Analysis",
+   "published_at": "2026-09-24T15:00:00.951899+00:00",
+   "ticker": "UNH",
+   "direction": "BUY",
+   "price_at_call": "intrinsic $518 (stated; ~40% upside implied)",
+   "thesis": "Reiterated BUY: revised FCF estimates up ~$3B/yr on better-than-expected cost improvements; 39-40% upside over 12-18 months.",
+   "base_case": "Margins recover toward pre-2025 levels by 2027-28 as cost initiatives continue.",
+   "bull_case": "Cost improvements sustain; multiple re-rates off the 16.5x forward PE low end.",
+   "bear_case": "2025's cost-estimation fumble repeats; earnings variability returns.",
+   "analyzed_at": "2026-09-24T18:02:23.972154+00:00"
+  },
+  {
+   "video_id": "pDsQs_qPELs",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "UNH",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "'Would buy this outside of SCHD as well'; beaten down with valuation appeal.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "New SCHD addition after selloff.",
+   "bull": "Valuation rerating as sentiment normalizes.",
+   "bear": "Still carries plenty of risk.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+   "published_at": "2026-04-15T15:45:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 1
+  }
+ ]
+}
