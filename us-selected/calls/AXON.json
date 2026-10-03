@@ -1,0 +1,25 @@
+{
+ "ticker": "AXON",
+ "slug": "AXON",
+ "calls": [
+  {
+   "video_id": "FXDiB6n-5RU",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AXON",
+   "direction": "BUY",
+   "price_at_call": "bought more today after ~10% dip",
+   "thesis": "Overreaction to $1B 0% convertible; building a small position.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "Future Investing and Couch Investor",
+   "published_at": "2026-09-16T01:35:30+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Couch Investor",
+   "idx": 0
+  }
+ ]
+}
