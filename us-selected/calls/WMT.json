@@ -1,0 +1,63 @@
+{
+ "ticker": "WMT",
+ "slug": "WMT",
+ "calls": [
+  {
+   "video_id": "sF_4vrPXkUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Costco Stock Instead of Walmart Stock? | COST Stock Analysis WMT Stock Analysis",
+   "published_at": "2026-09-26T16:00:06.028267+00:00",
+   "ticker": "WMT",
+   "direction": "AVOID",
+   "flip": false,
+   "price_at_call": "DCF fair value $70 vs ~$110 market (stated)",
+   "thesis": "Loses the head-to-head vs Costco — DCF says ~36% overvalued despite excellent e-commerce execution.",
+   "base_case": "DCF fair value $70; consistent with his prior WMT AVOID — no flip.",
+   "bull_case": "E-commerce scale and ad/marketplace mix could lift 4.4% margins structurally.",
+   "bear_case": "Rich 34x forward P/E compresses on any growth wobble.",
+   "analyzed_at": "2026-09-26T18:03:33.207240+00:00"
+  },
+  {
+   "video_id": "FAIuzFLcO4s",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Walmart Has Arguably Been the Best E-Commerce Business in Recent Years | WMT Stock Analysis",
+   "published_at": "2026-09-25T15:00:02.626065+00:00",
+   "ticker": "WMT",
+   "direction": "AVOID",
+   "flip": false,
+   "price_at_call": "DCF $70 vs ~$110 (stated)",
+   "thesis": "Business thriving and beating Amazon on logistics, but forward PE 34 is rich for a retailer with 4.3% operating margins; DCF says overvalued.",
+   "base_case": "DCF fair value $70, ~36% below market price.",
+   "bull_case": "Third-party marketplace + advertising growth could lift margins toward Amazon-like levels.",
+   "bear_case": "Margin recovery stalls; rich multiple compresses on any growth wobble.",
+   "analyzed_at": "2026-09-25T18:02:20.958674+00:00"
+  },
+  {
+   "video_id": "0cKiqQZpgF0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "WMT",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Category-killer retail: food-tariff roll-off lifts margins, Vizio + OpenAI GPT ad levers, private-label share gains.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Not a tech-style compounder; retail is Brian's weakest circle.",
+   "note": "Joint pick - Joseph proposed, Brian agreed.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+   "published_at": "2026-01-28T16:45:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 2
+  }
+ ]
+}
