@@ -1,0 +1,27 @@
+{
+ "ticker": "NIFTY MIDCAP 150",
+ "slug": "NIFTY_MIDCAP_150",
+ "calls": [
+  {
+   "video_id": "kJuk2TsBfaI",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Where to Invest and where NOT TO? - Indian stocks vs US stocks vs Gold vs FDs  - Rahul Jain",
+   "published_at": "2026-09-27T20:54:12.349385+00:00",
+   "ticker": "NIFTY MIDCAP 150",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "~23% EPS growth with PE down to ~28 from ~33; very good for a growth-minded investor",
+   "base_case": "Strong earnings growth continues at reasonable multiples",
+   "bull_case": "",
+   "bear_case": "Midcap valuations re-derate if oil/yield risks intensify",
+   "analyzed_at": "2026-10-03T20:59:20.859641+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
