@@ -1,0 +1,27 @@
+{
+ "ticker": "INDIA PRIVATE BANKS",
+ "slug": "INDIA_PRIVATE_BANKS",
+ "calls": [
+  {
+   "video_id": "NZ0fsllxcdE",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "S Naren's 36 Years of Investing Wisdom in 45 Minutes | The Legend Speaks | Rahul Jain",
+   "published_at": "2026-09-23T20:54:12.349385+00:00",
+   "ticker": "INDIA PRIVATE BANKS",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Some private banks are very cheap on valuation, bad for years, sentiment pretty negative - an easy contrarian area to invest in",
+   "base_case": "Cheap valuations with negative sentiment recover",
+   "bull_case": "Earnings cycle turns and multiples re-rate",
+   "bear_case": "Daily negative news flow continues and the cheapness persists",
+   "analyzed_at": "2026-10-03T20:59:20.859641+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
