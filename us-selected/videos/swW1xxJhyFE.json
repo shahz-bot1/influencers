@@ -1,0 +1,42 @@
+{
+ "creator": "Couch Investor",
+ "published_at": "2026-09-28",
+ "source_note": "Collaboration video (The Motley Fool and Couch Investor), hosted on The Motley Fool's channel. Detailed summary generated from video captions.",
+ "summary": "Neil and a Motley Fool host each name two 'great buys to hold for the long term' against a backdrop of Mag-7 concentration (34% of the S&P 500). Neil's picks: Alphabet (GOOGL) — search fears overdone (+16.7% YoY), Google Cloud accelerating toward a $514B backlog, Gemini at 1B monthly users, 'one of the best tech companies out there' and a safe AI bet (restated BUY, no flip); and Amazon (AMZN) — his first tracked AMZN call, a BUY: 'shouldn't be left out of anyone's portfolio', AWS +36.7% YoY (~$170B run rate, fastest in 4+ years), Graviton/Trainium custom silicon each >$25B run rate, first company projected to $1T revenue in FY28. The host's picks: Shopify (SHOP) — Q2 revenue +34% to $3.6B, GMV +32%, agentic-commerce tailwinds; Neil praises its 'world class management' but makes no explicit call. Airbnb (ABNB) — $3.6B Q2 revenue (+17%), $27B gross bookings, $1B+ quarterly FCF, 'everything app' pivot; Neil is more skeptical, citing slow AI adoption and no loyalty program. No stance flips for Couch Investor.",
+ "video_id": "swW1xxJhyFE",
+ "title": "4 Stocks to Buy and Hold for the Long Term!",
+ "calls": [
+  {
+   "video_id": "swW1xxJhyFE",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "First AMZN call on record: \"shouldn't be left out of anyone's portfolio\". AWS grew 36.7% YoY (~$170B annualized run rate, fastest in 4+ years); Graviton/Trainium custom silicon each >$25B run rate; first company projected to $1T revenue (FY28); core business very profitable with FCF to recover quickly after the capex cycle.",
+   "base_case": "TAM keeps expanding (AWS, ads, subscriptions, logistics-as-a-service); FCF recovers as investment pace slows.",
+   "bull_case": "AWS acceleration + AI custom silicon compound; wins whichever chatbot wins.",
+   "bear_case": "~$200B capex this year depresses FCF near-term; \"might not be the next 5x or 10x from here\".",
+   "analyzed_at": "2026-10-03T20:34:20.008271+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor",
+   "published_at": "2026-09-28T15:00:07+00:00"
+  },
+  {
+   "video_id": "swW1xxJhyFE",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "not stated (~$4T market cap context)",
+   "thesis": "Restated BUY (no flip; own-channel BUY Sep 29): one of the best tech/internet businesses; search fears overdone (search revenue +16.7% YoY); Google Cloud accelerating with $514B backlog; Gemini 1B MAU; hands in many jars = safe AI bet.",
+   "base_case": "Search + Cloud + YouTube compound; non-search revenue approaching 50% of mix.",
+   "bull_case": "Supply-constrained Cloud growth unleashed; Gemini monetization scales.",
+   "bear_case": "Mag-7 concentration; AI capex cycle pressures margins.",
+   "analyzed_at": "2026-10-03T20:34:20.008271+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor",
+   "published_at": "2026-09-28T15:00:07+00:00"
+  }
+ ]
+}
