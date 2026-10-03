@@ -1,0 +1,22 @@
+{
+ "title": "Is GTA 6 Already Priced Into Take-Two Stock?",
+ "creator": "Parkevtate Vosianc CFA",
+ "summary": "He asks whether the coming GTA 6 launch (November) is already priced into Take-Two and concludes the stock is a buying opportunity at an attractive price, but with LOW conviction. Key arguments: revenue has more than quadrupled since 2017 (~$1.5B to $6.7B TTM), management guides at least $8B this fiscal year, and GTA 6's staggered rollout (no PC, no online marketplace at launch) means revenue gains steam over time; GTA 5 sold 230M+ units since 2013, and the current generation's digital shift plus higher average selling prices should make GTA 6 more lucrative even at similar unit volumes. But profitability has deteriorated: operating margin negative since 2024 (improving), R&D as a share of revenue doubled since 2022 as GTA 6 overran, and ROIC collapsed from ~20% pre-2022 — though it could jump above 20% and toward 30% over 3-5 years post-launch. Valuation: 20x forward PE is the cheapest in years and the stock is down ~20% YTD 2026 despite strong pre-order/reception signals; his DCF fair value is $202 vs $207 market price. Verdict: TTWO is a BUY at ~$207, low conviction — so much value is concentrated in one game that he wants more data before raising conviction. Other tickers discussed: none material.",
+ "video_id": "QswotwkLAJ0",
+ "published_at": "2026-09-27 ~12:55 BST",
+ "calls": [
+  {
+   "video_id": "QswotwkLAJ0",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "TTWO",
+   "direction": "BUY",
+   "conviction": "low",
+   "stated_price": 207.0,
+   "fair_value": 202.0,
+   "thesis": "GTA 6 launches Nov; revenue more than 4x since 2017, forward PE 20 cheapest in years, stock -20% YTD 2026; trading ~fair on his DCF.",
+   "bull": "Digital shift + higher ASPs make GTA 6 more lucrative; ROIC could jump above 20%, near 30% in 3-5 years.",
+   "bear": "Op margin negative since 2024, ROIC collapsed, repeated GTA 6 delays dent innovation confidence; single-game concentration.",
+   "analyzed_at": "2026-09-27T13:56:51.947282+00:00"
+  }
+ ]
+}
