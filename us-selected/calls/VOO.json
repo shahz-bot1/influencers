@@ -1,0 +1,42 @@
+{
+ "ticker": "VOO",
+ "slug": "VOO",
+ "calls": [
+  {
+   "video_id": "pDsQs_qPELs",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "VOO",
+   "direction": "HOLD",
+   "price_at_call": "not stated",
+   "thesis": "Core holding; first dollars ever invested; comfortable with tech concentration.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "No 20-year period with a negative return.",
+   "bear": "34% tech concentration.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+   "published_at": "2026-04-15T15:45:00+00:00"
+  },
+  {
+   "video_id": "DQoFZ_AMKi0",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "VOO",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Backbone holding; first dollars invested; still adding (30% of his model).",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "No negative 20-year period in history.",
+   "bear": "Tech concentration (~38%).",
+   "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA",
+   "published_at": "2026-04-04T15:00:15+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
