@@ -1,0 +1,97 @@
+{
+ "ticker": "META",
+ "slug": "META",
+ "calls": [
+  {
+   "video_id": "DFQjG012fRk",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "META",
+   "direction": "HOLD",
+   "price_at_call": "fully invested; ~$400k combined GOOGL+META (stated)",
+   "thesis": "Still holding: Muse is free/uncapped and funded by Facebook/Instagram cash flows with unmatched distribution (WhatsApp/Instagram/Facebook), so Meta can outlast rivals that must raise prices to service obligations.",
+   "base_case": null,
+   "bull_case": "Free, streamlined Muse keeps taking consumer share while OpenAI gates agents/raises prices.",
+   "bear_case": null,
+   "published_at": "2026-10-01T21:02:09.000658+00:00",
+   "analyzed_at": "2026-10-02T10:16:22.954782+00:00",
+   "stance_flip": null,
+   "video_title": "Google And Meta Will Beat OpenAI And Anthropic"
+  },
+  {
+   "video_id": "ps7HQgBsw5I",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "How I'm Investing With $1.5 Million Stock Portfolio",
+   "ticker": "META",
+   "direction": "HOLD",
+   "price_at_call": "23 fwd PE (stated; discount to GOOGL)",
+   "thesis": "Still undervalued and holding — Muse enterprise push (hired MongoDB CEO a day before investor day) opens a new revenue segment; market's -4% reaction misguided.",
+   "base_case": null,
+   "bull_case": "Meta Enterprise platform (Muse Agent, Business Agent, Muse API, Muse Code) builds direct enterprise revenue on white-space area.",
+   "bear_case": "Abrupt CEO loss for MongoDB (-17%/-25% reaction) shows talent-poaching friction; enterprise push unproven.",
+   "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  },
+  {
+   "video_id": "p0xGl1f_924",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Fantastic News for Meta Stock Investors",
+   "published_at": "2026-09-23T12:03:55+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "$749 (stated)",
+   "thesis": "Reiterated as his #2 best buy: AI capex starting to pay off, forward PE 21.4 on ~20-30% revenue growth.",
+   "base_case": "Fair value $796 = ~8% upside over 12-18 months plus ~12% equity risk premium.",
+   "bull_case": "Wells Fargo raised PT $640->$796 on Muse AI app hitting #1 on App Store; FCF returns to $50B+ by 2029.",
+   "bear_case": "FCF deeply negative 2026-2028 (as low as -$24B) on data-center spend.",
+   "analyzed_at": "2026-09-23T15:05:00.270761+00:00"
+  },
+  {
+   "video_id": "FXDiB6n-5RU",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "~$640-650 discussed; calls it an '$800 stock'",
+   "thesis": "Ridiculously undervalued; core business firing on all cylinders.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "3B+ users; profitable core funds AI bets.",
+   "bull": "AI ad targeting + distribution for new products.",
+   "bear": "Scattershot spending; FCF could go to zero/negative this year.",
+   "collab_byline": "Future Investing and Couch Investor",
+   "published_at": "2026-09-16T01:35:30+00:00"
+  },
+  {
+   "video_id": "D-P5ryvcIAA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "not stated (PE under 20 referenced)",
+   "thesis": "Screaming buy: 2022-type sentiment, but the core business is much stronger now.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Core ads firing; FCF inflects when spending slows.",
+   "bull": "AI ad targeting + 3.5B-user distribution.",
+   "bear": "Scattershot spending; management headlines.",
+   "collab_byline": "Investing Moats with Varun and Couch Investor",
+   "published_at": "2026-07-01T14:30:34+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 3
+  }
+ ]
+}
