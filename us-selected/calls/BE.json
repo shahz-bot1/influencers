@@ -1,0 +1,26 @@
+{
+ "ticker": "BE",
+ "slug": "BE",
+ "calls": [
+  {
+   "video_id": "0BDw9kwNh4Q",
+   "channel": "MarketBeat",
+   "title": "Is the Rally Real? 5 Stocks to Buy Now Before Election Day",
+   "published_at": "2026-09-27T00:00:00+00:00",
+   "detected_at": "2026-09-28T05:56:51.170858+00:00",
+   "direction": "BUY",
+   "ticker": "BE",
+   "stated_price": null,
+   "thesis": "Fuel-cell power shipping today for data centers; all hyperscalers + neoclouds validated demand; first-mover vs nuclear/fuel years away",
+   "base_case": "Rebounds to retest and set new highs",
+   "bull_case": "Volume-backed rebound, hot MACD convergence",
+   "bear_case": "Big industrials could eventually compete; must meet demand/backlog"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
