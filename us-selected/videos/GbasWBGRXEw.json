@@ -1,0 +1,41 @@
+{
+ "title": "We Love AMD Stock...But We'd Buy NVIDIA Here",
+ "creator": "Couch Investor",
+ "summary": "Hosted on Jose Najarro's channel with Neil (Couch Investor) as guest: a head-to-head debate forcing each to pick one stock to buy at current prices - AMD or Nvidia. Jose builds the Nvidia bull case (~105% most-recent-quarter revenue growth, analysts underestimating the Vera Rubin ramp, forward PE ~18.8, full-rack-scale innovation, GPU-as-an-asset financing edge, ~$240B expected free cash flow over the next four quarters) against bear points (hyperscaler custom silicon via Broadcom/Marvell, circular-financing criticism, power bottlenecks, AI-demand slowdown). Neil, fully positioned in AMD with only a couple of Nvidia shares, covers AMD's bull case (MI400/Helios rack ramp shipping end-September, chiplet innovation enabling custom variants like a Meta-specific MI450, OpenAI/Anthropic/Meta partnerships) but flags valuation as the key bear case (forward PE ~55 vs Nvidia's ~19) plus Helios execution/sentiment risk. Both conclude they would buy NVIDIA over AMD today on risk/reward, while stressing AMD can still move higher. Calls: NVDA BUY (Couch), AMD HOLD (Couch); host Jose Najarro also BUY NVDA. Note: auto-captions garble product names (LPX/CPX, 'Jalapeno' codename, 'Corwe' = CoreWeave); '$8 trillion AMD' likely garbled ($800B).",
+ "video_id": "GbasWBGRXEw",
+ "published_at": "2026-09-24",
+ "calls": [
+  {
+   "video_id": "GbasWBGRXEw",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated (forward PE ~18.8 referenced)",
+   "thesis": "Best risk/reward: ~90% expected growth at sub-20 forward PE; innovation plus GPU-as-an-asset financing moat.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Analysts underestimating Vera Rubin ramp; ~$240B expected FCF over next 4 quarters.",
+   "bull": "Multiple re-rating as hyperscaler orders land; operating profit seen 3x by fiscal 29.",
+   "bear": "Hyperscaler custom silicon (Broadcom/Marvell); power bottlenecks; AI demand slowdown.",
+   "collab_byline": "Jose Najarro Stocks and Couch Investor",
+   "published_at": "2026-09-24T13:17:41+00:00"
+  },
+  {
+   "video_id": "GbasWBGRXEw",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "price_at_call": "not stated",
+   "thesis": "Owns a large position; bullish on MI400/Helios ramp and OpenAI/Anthropic/Meta partnerships, but would not add new money here.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "MI400 ramp and partnerships drive accelerating growth.",
+   "bull": "Beats expectations; path to $20-25 EPS by ~2028.",
+   "bear": "Forward PE ~55; Helios execution/sentiment risk; supply-chain constraints.",
+   "collab_byline": "Jose Najarro Stocks and Couch Investor",
+   "published_at": "2026-09-24T13:17:41+00:00"
+  }
+ ]
+}
