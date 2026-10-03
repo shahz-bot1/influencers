@@ -1,0 +1,23 @@
+{
+ "ticker": "SPY",
+ "slug": "SPY",
+ "calls": [
+  {
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "SPY",
+   "direction": "BUY",
+   "thesis": "Not a price call - portfolio-system guidance: a \"big core in the S&P 500\" (40-60% of portfolio) is the \"undefeated cheat code\"; elite stocks must be probable to beat it, max 10 positions, dollar-cost average and double down on the way down.",
+   "video_id": "F6ds1vqtOTY",
+   "video_title": "A Once in a Lifetime Financial Reset is Coming. (Why Stocks Are Next)",
+   "published_at": "2026-09-30T15:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Tom Nash",
+   "idx": 0
+  }
+ ]
+}
