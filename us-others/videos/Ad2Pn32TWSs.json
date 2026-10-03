@@ -1,0 +1,25 @@
+{
+ "video_id": "Ad2Pn32TWSs",
+ "title": "Micron Stock Is STILL Dirt Cheap After This Massive Beat!!",
+ "creator": "Jose Najarro Stocks",
+ "handle": "@josenajarrostocks",
+ "published_at": "2026-10-01T01:55:34.672871+00:00",
+ "summary": "In 'Micron Stock Is STILL Dirt Cheap After This Massive Beat!!' (published 1 Oct 2026, covering Micron's Sep 30 post-close print), Jose Najarro — who does not own the stock — argues the triple beat (revenue, EPS, and next-quarter guidance all well above consensus) leaves Micron cheap, with the flat after-hours reaction reflecting already-high hopes. His bull case: pricing is doing the heavy lifting (DRAM revenue +27% YoY, NAND +42%, on only mid-single-digit bit growth), and Micron expects a tight market through 2027-28 even with mid-20s industry bit-shipment growth; 35% of revenue through 2030 is covered by multi-year take-or-pay contracts, with $150B of remaining performance obligations (at minimum contract prices, so the real figure could be much higher) and $32B in customer cash deposits. HBM repricing begins at the start of calendar 2027, Q1 is the gross-margin floor, and buybacks unlock after December 9 (the CHIPS Act incentive 2-year anniversary) — he would not be surprised by a $50B repurchase authorization. Watch items: DRAM sequential price growth is decelerating (from ~60% to the high teens), consumer PC/phone units face double-digit declines in 2026, and capex is stepping up past $50B in 2027 (funded by contracted demand, he stresses). Caveat: auto-captions heavily garble the reported figures (e.g. '$54.2 billion in revenue', '$33 in one quarter' EPS, '$60 to 63 billion' guide) — treat all numbers here as approximate. Call: MU — BUY ('still dirt cheap'), with a rerating as the prize and supply-tight AI demand as the engine. Also bullish on the wider semiconductor/neocloud space as a memory bottleneck 'extends the cycle'.",
+ "calls": [
+  {
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price": "flat after Sep 30 post-close print; fwd P/E ~5-7 (caption-garbled figures: cites $54.2B rev / $3.34 EPS / $60-63B guide — treat as garbled)",
+   "thesis": "Triple beat + tight supply through 2027-28 (35% of revenue covered by multi-year take-or-pay, $150B RPO, $32B customer deposits); HBM repricing starts 2027; buybacks after Dec 9 (CHIPS Act 2-yr anniversary). Stock needs a rerating.",
+   "base": "Multiple stays, earnings growth alone lifts price",
+   "bull": "Rerating to higher multiple + $50B buyback after Dec 9",
+   "bear": "DRAM price sequential growth slowing (60%->high-teens); consumer PC/phone double-digit unit decline 2026",
+   "video_id": "Ad2Pn32TWSs",
+   "video_title": "Micron Stock Is STILL Dirt Cheap After This Massive Beat!!",
+   "published_at": "2026-10-01T01:55:34.672871+00:00",
+   "analyzed_at": "2026-10-01T03:57:29.822305+00:00"
+  }
+ ]
+}
