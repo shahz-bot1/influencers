@@ -1,0 +1,23 @@
+{
+ "creator": "Couch Investor",
+ "published_at": "2026-09-22",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "In this September 22 video, the Couch Investor seriously considers selling AMD after it crossed a $1 trillion market cap and $600/share (up ~176% year-to-date), having bought since ~$80-110 when others called it 'catching a falling knife.' He recaps the Meta strategic partnership — 160M shares at a penny if AMD hits $600 plus ~6GW of GPU deployments, with milestones still to be hit — and market expectations: ~47% revenue growth this fiscal year, ~73% next (to ~$88B on Helios), ~38% in FY28 (~$121.3B), with data center now 58% of revenue and a 60%+ long-term segment growth target. His DCF: base case roughly at fair value (about 1% expensive), bull case ~$1,150, bear case 58.1% lower, probability-weighted $685 (~12-13% upside) — some figures garbled in auto-captions. His core argument: at ~55x forward earnings and ~113x forward free cash flow, holding a trillion-dollar AMD requires growth beyond what's baked in, and the market now demands AMD justify a huge premium over Nvidia, which trades at 18.8x forward earnings with faster expected growth and a $5.4T cap. He leans toward taking profits and reallocating to Nvidia and/or Broadcom — or keeping cash for fintech names if the rate environment improves — while stressing he isn't hating AMD and will notify portfolio followers the moment he moves, with a fuller update in the Sunday portfolio video. Calls per supplied list: AMD SELL (profit-taking under consideration); AMD HOLD @ ~$600 (currently held).",
+ "title": "I Might Sell AMD Stock. Here's Why",
+ "video_id": "flirQ_CtYN4",
+ "calls": [
+  {
+   "video_id": "flirQ_CtYN4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "price_at_call": "~$600 (stated >$600/share, ~$1T mkt cap)",
+   "thesis": "Shareholder since ~$100; DCF base case says ~1% overvalued at $600, prob-weighted target $685 (~12% upside); trending toward taking profits and rotating into NVDA/AVGO/MU/META or cash.",
+   "base_case": "Base DCF: $655 (~1.1% too expensive); prob-weighted $685.",
+   "bull_case": "Bull DCF: $1,150 (+80.6%) on faster growth + 38%+ EBIT margins.",
+   "bear_case": "Bear DCF: 58.1% lower (~$250).",
+   "analyzed_at": "2026-09-23T05:56:27.635208+00:00"
+  }
+ ]
+}
