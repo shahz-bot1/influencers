@@ -1,0 +1,22 @@
+{
+ "ticker": "NVDY",
+ "slug": "NVDY",
+ "calls": [
+  {
+   "video_id": "gkt3BnXJf9s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NVDY",
+   "direction": "BUY",
+   "thesis": "YieldMax NVDA Option Income Strategy ETF: Nvidia upside exposure via calls plus premium income targeting 47% distribution rate. Pairs with AMDY/CHPY for a complete growth-and-income semiconductor portfolio.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": "47% targeted distribution rate"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
