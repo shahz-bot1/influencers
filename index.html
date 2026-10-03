@@ -1,0 +1,39 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Influencer Watches · Influencer Watches</title><style>
+:root{--bg:#fff;--fg:#1a1a1a;--muted:#666;--card:#f6f6f6;--border:#e2e2e2;--accent:#0a66c2}
+html[data-theme="dark"]{--bg:#141414;--fg:#e8e8e8;--muted:#a0a0a0;--card:#1e1e1e;--border:#333;--accent:#5aa2f0}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;line-height:1.5}
+.wrap{max-width:960px;margin:0 auto;padding:24px 16px 64px}
+header.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+h1{font-size:1.6rem;margin:.2em 0}.sub{color:var(--muted);margin:0 0 24px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px;text-decoration:none;color:inherit;display:block}
+.card:hover{border-color:var(--accent)}.card h2{margin:0 0 6px;font-size:1.2rem}
+.card p{margin:6px 0;color:var(--muted);font-size:.92rem}
+.stats{display:flex;gap:16px;margin:12px 0;flex-wrap:wrap}
+.stat b{font-size:1.15rem;display:block}.stat span{font-size:.78rem;color:var(--muted)}
+.cadence{font-size:.82rem;color:var(--muted)}
+button.theme{background:var(--card);border:1px solid var(--border);color:var(--fg);border-radius:8px;padding:6px 12px;cursor:pointer}
+.back{display:inline-block;margin-bottom:16px;color:var(--accent);text-decoration:none}
+table{width:100%;border-collapse:collapse;font-size:.88rem;margin-top:12px}
+th,td{text-align:left;padding:8px;border-bottom:1px solid var(--border);vertical-align:top}
+th{color:var(--muted);font-weight:600}
+.dir{font-weight:700;padding:2px 8px;border-radius:6px;font-size:.78rem;white-space:nowrap}
+.BUY{background:#e6f4ea;color:#137333}.SELL{background:#fce8e6;color:#a50e0e}
+.HOLD{background:#fef7e0;color:#7a5c00}.AVOID{background:#f3e8fd;color:#5c1a9e}
+.CONDITIONAL_BUY{background:#e8f0fe;color:#1a56db}
+html[data-theme="dark"] .BUY{background:#12351f;color:#7ddc9a}html[data-theme="dark"] .SELL{background:#3d1512;color:#f08a80}
+html[data-theme="dark"] .HOLD{background:#3a2f0b;color:#f2d16b}html[data-theme="dark"] .AVOID{background:#2c1445;color:#cda6f5}
+html[data-theme="dark"] .CONDITIONAL_BUY{background:#16294d;color:#8ab4f8}
+.creators{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 20px}
+.creator{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:4px 12px;font-size:.85rem}
+h3{margin-top:28px}
+</style></head>
+<body><div class="wrap"><header class="top"><div></div>
+<button class="theme" id="themeBtn">Light / dark</button></header>
+<h1>Influencer Watches</h1><p class="sub">Stock-call monitoring across three YouTube creator watches. Pick a watch to see its creators, latest calls and data.</p><div class="cards"><a class="card" href="./us-selected/"><h2>US Selected</h2><p>Original 7-creator watch — Couch Investor, Parkevtate Vosianc CFA, Mark Roussin CPA, The German Value Investor, Joseph C…</p><div class="stats"><div class="stat"><b>7</b><span>creators</span></div><div class="stat"><b>114</b><span>videos</span></div><div class="stat"><b>123</b><span>calls</span></div></div><p class="cadence">Five scans daily · 07:00 / 11:00 / 15:00 / 19:00 / 23:00 UK</p></a><a class="card" href="./us-others/"><h2>US Others</h2><p>Second 10-creator list — Everything Money, Sven Carlin, Brian Feroldi, Daniel Pronk, Tom Nash, Joseph Hogue, UNRIVALEDD …</p><div class="stats"><div class="stat"><b>10</b><span>creators</span></div><div class="stat"><b>9</b><span>videos</span></div><div class="stat"><b>65</b><span>calls</span></div></div><p class="cadence">One scan daily · 05:00 UK</p></a><a class="card" href="./indian-selected/"><h2>Indian Selected</h2><p>India watch — Rahul Jain (English), Rahul Jain (Hindi), Akshat Shrivastava. Pre-market scan, heartbeat even on quiet day…</p><div class="stats"><div class="stat"><b>3</b><span>creators</span></div><div class="stat"><b>19</b><span>videos</span></div><div class="stat"><b>15</b><span>calls</span></div></div><p class="cadence">One scan daily · 07:00 IST</p></a></div></div>
+<script>(function(){var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);
+document.getElementById('themeBtn').onclick=function(){var cur=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';
+document.documentElement.setAttribute('data-theme',cur);localStorage.setItem('theme',cur);};})();</script>
+</body></html>
