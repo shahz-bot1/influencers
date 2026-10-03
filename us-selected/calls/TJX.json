@@ -1,0 +1,27 @@
+{
+ "ticker": "TJX",
+ "slug": "TJX",
+ "calls": [
+  {
+   "video_id": "JRLQH8-yGGA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is TJX Stock an Undervalued Stock to Buy Right Now?",
+   "published_at": "2026-09-24T16:00:00.951899+00:00",
+   "ticker": "TJX",
+   "direction": "HOLD",
+   "price_at_call": "$131 (market; DCF $102 stated)",
+   "thesis": "Reiterated hold: 10-15% overvalued vs DCF even with margin of safety; better opportunities elsewhere, no need to dump.",
+   "base_case": "Strong ROIC (~26%), accelerating store expansion from 7,000 to 7,500 units.",
+   "bull_case": "Off-price demand stays strong; expansion compounds shareholder value.",
+   "bear_case": "Incremental dollar gets better risk/reward elsewhere; overvaluation persists.",
+   "analyzed_at": "2026-09-24T18:02:23.972154+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
