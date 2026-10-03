@@ -1,0 +1,26 @@
+{
+ "creator": "The German Value Investor",
+ "published_at": "2026-09-25",
+ "source_note": "Detailed summary generated from video captions; captions largely clean, minor artifacts ('Nroup', dividend figures rendered as '1 38 to155')",
+ "summary": "The German Value Investor revisits NN Group, the Dutch insurer he bought at ~€44 (4.4% of his community portfolio), now up 86% plus ~12% in dividends at ~€80, and asks whether it is still a buy. His answer: a hold, fairly valued — he would add under €65 and trim over €86. The bull case rests on shareholder returns: a 5% dividend yield (raised again for H1, targeting ~7% annual payout growth), share buybacks lifted from €300M to €350M per year, and a 224% solvency ratio — well above the 150-200% target corridor, leaving room for special dividends or bigger buybacks. H1 operating result grew 4.4% (he dismisses the +170% net-result jump as investment-portfolio noise typical for insurers); his scenario calculator gives a 2.86/5 quality grade — solid, not great — with adjusted P/E 13.2 and price-to-book ~1.0 versus ~0.6 historically. Scenarios: bear (1% growth, P/E 9.7 in 10y) → fair €62, still +3.4%/yr via the dividend; normal (4% growth) → fair €84, ~7.7%/yr; bull → €91. Risks: a saturated insurance market and below-market return on equity. Analysts: 7 buy, 8 hold, 0 sell of 15, price targets €74–€100. A teaser at the end points to a McDonald's video after its 27% plunge.",
+ "video_id": "aex8MEowAgI",
+ "title": "86% Gain on a Stock Almost Nobody Knows",
+ "calls": [
+  {
+   "video_id": "aex8MEowAgI",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "ticker": "NN",
+   "direction": "HOLD",
+   "price_at_call": "~€80 (mkt cap €21B; normal-scenario fair value €84 stated)",
+   "thesis": "Leaning HOLD: fairly valued Dutch insurer, 5% dividend yield + €350M/yr buybacks, 224% solvency ratio buffer; he is up 86% on it (4.4% community-portfolio weight). Would buy under €65, sell over €86.",
+   "base_case": "Normal scenario: ~4% earnings growth → ~7.7%/yr return, fair value €84.",
+   "bull_case": "Positive scenario: €91 fair; special dividend/buyback upside from solvency buffer.",
+   "bear_case": "Negative scenario: 1% growth, PE 9.7 in 10y → fair €62; saturated insurance market, low ROE.",
+   "video_title": "86% Gain on a Stock Almost Nobody Knows",
+   "published_at": "2026-09-25T18:58:18+00:00",
+   "analyzed_at": "2026-09-25T22:06:06.990084+00:00",
+   "flip": false
+  }
+ ]
+}
