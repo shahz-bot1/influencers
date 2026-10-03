@@ -1,0 +1,21 @@
+{
+ "ticker": "ABNB",
+ "slug": "ABNB",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ABNB",
+   "direction": "AVOID",
+   "thesis": "Same travel-middleman disruption thesis; -18% in a month.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
