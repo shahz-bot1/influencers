@@ -1,0 +1,40 @@
+{
+ "title": "Should Investors Buy AT&T Stock Instead of Verizon Stock? | T Stock Analysis | VZ Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-29",
+ "source_note": "Detailed summary generated from video captions; captions readable",
+ "summary": "Parkevtate compares the two telecom dividend stocks head-to-head for passive-income investors and ranks both BUY: T at $25 (stated, DCF fair value $34.60, 4.4% yield) and VZ at $47 (stated, DCF fair value $55, 5.9% yield). His advice: split a purchase 50/50 between the two, but if forced to pick only one, AT&T has the slight edge as the more undervalued. The analysis: both grow revenue at low single digits in a saturated market; operating margins are improving (AT&T 17%→21%, Verizon 21%→22.7%) partly on AI productivity gains; but neither allocates capital well — AT&T's ROIC is 8.11% (about its WACC) and Verizon's has slid from ~12% to ~6% (below WACC), which matters because the looming 6G upgrade cycle will demand tens of billions in capex. Both trade at a deserved discount to the S&P 500 (AT&T 9.9x forward PE, Verizon 8.9x), though he finds the discount overdone versus his DCF values. He also warns dividend investors that a 5.9% yield beats long bonds only if the share price at least holds flat — price declines can wipe out the yield. The video is sponsored by The Motley Fool. No stance flips (T reaffirms his 28 Sep BUY; first recorded call on VZ).",
+ "video_id": "cxfKaDeWsJo",
+ "calls": [
+  {
+   "ticker": "T",
+   "direction": "BUY",
+   "thesis": "Ranked BUY with 4.4% yield; DCF fair value $34.60 vs $25 market price; if forced to pick one, AT&T is the better stock (he suggests a 50/50 split of the two otherwise).",
+   "price_at_call": "$25 (stated)",
+   "bull_case": "Low-single-digit organic revenue growth, op margins up to 21%, 4.4% yield.",
+   "bear_case": "Saturated market; ROIC 8.11% and never above 12% in a decade; massive 5G->6G capex cycles.",
+   "base_case": null,
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "cxfKaDeWsJo",
+   "video_title": "Should Investors Buy AT&T Stock Instead of Verizon Stock? | T Stock Analysis | VZ Stock Analysis",
+   "published_at": "2026-09-29T15:59:59.109610+00:00",
+   "analyzed_at": "2026-09-29T18:01:32.562233+00:00"
+  },
+  {
+   "ticker": "VZ",
+   "direction": "BUY",
+   "thesis": "Ranked BUY with 5.9% yield; DCF fair value $55 vs $47 market price; undervalued but less so than AT&T; pair with AT&T in a 50/50 split if holding both.",
+   "price_at_call": "$47 (stated)",
+   "bull_case": "Low-single-digit organic growth, op margins up to 22.7%, 5.9% yield beats long bonds.",
+   "bear_case": "ROIC down from ~12% to 6%, below WACC; saturated market and heavy network capex.",
+   "base_case": null,
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "cxfKaDeWsJo",
+   "video_title": "Should Investors Buy AT&T Stock Instead of Verizon Stock? | T Stock Analysis | VZ Stock Analysis",
+   "published_at": "2026-09-29T15:59:59.109610+00:00",
+   "analyzed_at": "2026-09-29T18:01:32.562233+00:00"
+  }
+ ]
+}
