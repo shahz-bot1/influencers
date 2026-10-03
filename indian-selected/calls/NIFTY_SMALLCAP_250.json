@@ -1,0 +1,27 @@
+{
+ "ticker": "NIFTY SMALLCAP 250",
+ "slug": "NIFTY_SMALLCAP_250",
+ "calls": [
+  {
+   "video_id": "kJuk2TsBfaI",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Where to Invest and where NOT TO? - Indian stocks vs US stocks vs Gold vs FDs  - Rahul Jain",
+   "published_at": "2026-09-27T20:54:12.349385+00:00",
+   "ticker": "NIFTY SMALLCAP 250",
+   "direction": "AVOID",
+   "price_at_call": "not stated",
+   "thesis": "EPS growth negative (-6.87%) while PE is up 14% - red signs on a data-backed view",
+   "base_case": "Avoid; negative earnings momentum with rising multiples",
+   "bull_case": "Earnings surprise and reverse the decline",
+   "bear_case": "Further derating as growth stays negative",
+   "analyzed_at": "2026-10-03T20:59:20.859641+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
