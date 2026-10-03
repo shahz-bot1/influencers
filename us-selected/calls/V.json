@@ -1,0 +1,44 @@
+{
+ "ticker": "V",
+ "slug": "V",
+ "calls": [
+  {
+   "video_id": "cZj7HcT8mA8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Visa Instead of Mastercard? | V Stock vs. MA Stock",
+   "published_at": "2026-09-25T13:45:39+00:00",
+   "ticker": "V",
+   "direction": "BUY",
+   "price_at_call": "$364 (stated market price; DCF fair value $377)",
+   "thesis": "Would buy Visa instead of Mastercard today: better operating margins (67% vs 59%), trading at 24x forward earnings below historic average; owns both as long-term compounders.",
+   "base_case": "DCF fair value $377 vs $364 market = mildly undervalued.",
+   "bull_case": "Lax duopoly keeps margins the best of any company he follows; nominal spending growth compounds.",
+   "bear_case": "Regulators increasingly hostile to US payment networks; stablecoins could bypass Visa/Mastercard.",
+   "analyzed_at": "2026-09-25T13:58:32.207911+00:00"
+  },
+  {
+   "video_id": "4vgg_-dkDC0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "V",
+   "direction": "BUY",
+   "price_at_call": "analyst 12-month upside ~18%",
+   "thesis": "233B transactions/yr, digital payments 21% growth, 60%+ operating margins, near-zero credit risk, 16 years of dividend hikes.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "BWB - Business With Brian and Dividendology",
+   "published_at": "2025-08-14T14:45:01+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
+  }
+ ]
+}
