@@ -1,0 +1,27 @@
+{
+ "ticker": "VZ",
+ "slug": "VZ",
+ "calls": [
+  {
+   "ticker": "VZ",
+   "direction": "BUY",
+   "thesis": "Ranked BUY with 5.9% yield; DCF fair value $55 vs $47 market price; undervalued but less so than AT&T; pair with AT&T in a 50/50 split if holding both.",
+   "price_at_call": "$47 (stated)",
+   "bull_case": "Low-single-digit organic growth, op margins up to 22.7%, 5.9% yield beats long bonds.",
+   "bear_case": "ROIC down from ~12% to 6%, below WACC; saturated market and heavy network capex.",
+   "base_case": null,
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "cxfKaDeWsJo",
+   "video_title": "Should Investors Buy AT&T Stock Instead of Verizon Stock? | T Stock Analysis | VZ Stock Analysis",
+   "published_at": "2026-09-29T15:59:59.109610+00:00",
+   "analyzed_at": "2026-09-29T18:01:32.562233+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
