@@ -1,0 +1,335 @@
+{
+ "name": "Joseph Hogue, CFA",
+ "handle": "@josephhogue",
+ "slug": "Joseph_Hogue_CFA",
+ "calls": [
+  {
+   "ticker": "BRK.B",
+   "tickerSlug": "BRK_B",
+   "direction": "BUY",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "CME",
+   "tickerSlug": "CME",
+   "direction": "BUY",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "CBOE",
+   "tickerSlug": "CBOE",
+   "direction": "BUY",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "GDX",
+   "tickerSlug": "GDX",
+   "direction": "BUY",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "BLV",
+   "tickerSlug": "BLV",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "BAC",
+   "tickerSlug": "BAC",
+   "direction": "BUY",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "ALLY",
+   "tickerSlug": "ALLY",
+   "direction": "BUY",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "CB",
+   "tickerSlug": "CB",
+   "direction": "BUY",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "JBLU",
+   "tickerSlug": "JBLU",
+   "direction": "AVOID",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "CCL",
+   "tickerSlug": "CCL",
+   "direction": "AVOID",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "DHI",
+   "tickerSlug": "DHI",
+   "direction": "AVOID",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "PHM",
+   "tickerSlug": "PHM",
+   "direction": "AVOID",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "BLDR",
+   "tickerSlug": "BLDR",
+   "direction": "AVOID",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "Z",
+   "tickerSlug": "Z",
+   "direction": "AVOID",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "989CUhoOUg8"
+  },
+  {
+   "ticker": "CHPY",
+   "tickerSlug": "CHPY",
+   "direction": "BUY",
+   "date": "2026-09-30T03:57:13.629546+00:00",
+   "price": "~40% targeted annualized distribution (weekly payouts, $0.38-$0.71/share range this year)",
+   "video_id": "gkt3BnXJf9s"
+  },
+  {
+   "ticker": "SOXY",
+   "tickerSlug": "SOXY",
+   "direction": "BUY",
+   "date": "2026-09-30T03:57:13.629546+00:00",
+   "price": "12% targeted income (monthly payouts, $0.65-$1.00+/share this year)",
+   "video_id": "gkt3BnXJf9s"
+  },
+  {
+   "ticker": "AMDY",
+   "tickerSlug": "AMDY",
+   "direction": "BUY",
+   "date": "2026-09-30T03:57:13.629546+00:00",
+   "price": null,
+   "video_id": "gkt3BnXJf9s"
+  },
+  {
+   "ticker": "NVDY",
+   "tickerSlug": "NVDY",
+   "direction": "BUY",
+   "date": "2026-09-30T03:57:13.629546+00:00",
+   "price": "47% targeted distribution rate",
+   "video_id": "gkt3BnXJf9s"
+  },
+  {
+   "ticker": "PYPL",
+   "tickerSlug": "PYPL",
+   "direction": "BUY",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": "~$50 (bought when it cratered back to ~$50/share)",
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "SHOP",
+   "tickerSlug": "SHOP",
+   "direction": "BUY",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "EXPE",
+   "tickerSlug": "EXPE",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": "45x P/S headline, 9.8x growth-adjusted",
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "HOLD",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "TRIP",
+   "tickerSlug": "TRIP",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "ABNB",
+   "tickerSlug": "ABNB",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "BKNG",
+   "tickerSlug": "BKNG",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "SCHW",
+   "tickerSlug": "SCHW",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "RJF",
+   "tickerSlug": "RJF",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "LPLA",
+   "tickerSlug": "LPLA",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "AMP",
+   "tickerSlug": "AMP",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "BAC",
+   "tickerSlug": "BAC",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "JPM",
+   "tickerSlug": "JPM",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "PGR",
+   "tickerSlug": "PGR",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "ALL",
+   "tickerSlug": "ALL",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "ADBE",
+   "tickerSlug": "ADBE",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "SIRI",
+   "tickerSlug": "SIRI",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "MTCH",
+   "tickerSlug": "MTCH",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "PLNT",
+   "tickerSlug": "PLNT",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "PTON",
+   "tickerSlug": "PTON",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "ORCL",
+   "tickerSlug": "ORCL",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": "-6.5% on the week / -53% since May",
+   "video_id": "jbtxHHpX_u0"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "AVOID",
+   "date": "2026-09-28T03:57:07.794861+00:00",
+   "price": null,
+   "video_id": "jbtxHHpX_u0"
+  }
+ ]
+}
