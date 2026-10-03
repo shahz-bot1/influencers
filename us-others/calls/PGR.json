@@ -1,0 +1,21 @@
+{
+ "ticker": "PGR",
+ "slug": "PGR",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PGR",
+   "direction": "AVOID",
+   "thesis": "Insurers hit as agents shop rates/insurance products for consumers; fell harder than banks.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
