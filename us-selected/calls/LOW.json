@@ -1,0 +1,25 @@
+{
+ "ticker": "LOW",
+ "slug": "LOW",
+ "calls": [
+  {
+   "ticker": "LOW",
+   "direction": "BUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "MyCcSNprYhE",
+   "price_at_call": 189,
+   "thesis": "Buying opportunity on the dip with relatively HIGH conviction. Down >20% in 2026. Forward PE 14.5 (lowest in years); DCF fair value $241 vs $189 (~27% upside 12-18mo). Thesis: pandemic pulled demand forward + weak disposable income are near-term headwinds; structural position in $1T home-improvement industry unchanged; growth re-accelerates to mid-high single digits when economy normalizes. Bear: operating margin fell to 11.3% from 15%+ (wage pressure), AI productivity gains only incremental.",
+   "base_case": "Fair value $241, ~27% upside 12-18 months.",
+   "bull_case": "Normalized economy + deferred projects return; mid-high single-digit growth resumes.",
+   "bear_case": "Headwinds persist through most of 2027; margins stay compressed on wage inflation.",
+   "analyzed_at": "2026-09-30T16:53:12.133372+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
