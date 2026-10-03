@@ -1,0 +1,42 @@
+{
+ "ticker": "ABBV",
+ "slug": "ABBV",
+ "calls": [
+  {
+   "video_id": "QxqManKEg4U",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "ABBV",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "$260 (stated; was a buy under $200)",
+   "thesis": "Top holding, loves execution (Skyrizi/Rinvoq +24-25% growth offsetting Humira -36%), but at 17.5x forward earnings the margin of safety is gone; patient with existing position, waiting for a better entry to add.",
+   "base_case": "Base: immunology franchise keeps compounding; fairly priced.",
+   "bull_case": "Bull: pipeline delivers; multiple re-expands.",
+   "bear_case": "Bear: patent cliffs / trial failures / pricing pressure with no margin of safety.",
+   "published_at": "2026-09-27T13:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": null,
+   "video_title": "I LOVE These 3 Stocks — But I'm NOT Buying Yet"
+  },
+  {
+   "video_id": "pDsQs_qPELs",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "ABBV",
+   "direction": "HOLD",
+   "price_at_call": "not stated",
+   "thesis": "One of his longest-held positions; regrets its SCHD removal; likes the drug pipeline.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Price outran the yield; removed from SCHD.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+   "published_at": "2026-04-15T15:45:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
