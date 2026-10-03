@@ -1,0 +1,22 @@
+{
+ "ticker": "AMZN",
+ "slug": "AMZN",
+ "calls": [
+  {
+   "video_id": "_X0c2A-Ln9c",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "AMZN",
+   "direction": "SELL",
+   "thesis": "Take profits: retail growth slowed (~13% TTM); $39B retail operating profit is essentially the advertising business, threatened by agentic AI shopping (Muse/ChatGPT buy without seeing ads); est -$34B FCF in 2026; 26x fwd P/E.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  }
+ ]
+}
