@@ -1,0 +1,27 @@
+{
+ "ticker": "NIFTY NEXT 50",
+ "slug": "NIFTY_NEXT_50",
+ "calls": [
+  {
+   "video_id": "kJuk2TsBfaI",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Where to Invest and where NOT TO? - Indian stocks vs US stocks vs Gold vs FDs  - Rahul Jain",
+   "published_at": "2026-09-27T20:54:12.349385+00:00",
+   "ticker": "NIFTY NEXT 50",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "~17% EPS growth with PE contracted ~10%, looks much better than Nifty50 for conservative large-cap exposure",
+   "base_case": "Earnings growth sustains and valuation re-rates toward peers",
+   "bull_case": "",
+   "bear_case": "Macro risks (oil, yields) drag all Indian equities sideways anyway",
+   "analyzed_at": "2026-10-03T20:59:20.859641+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
