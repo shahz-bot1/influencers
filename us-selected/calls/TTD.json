@@ -1,0 +1,25 @@
+{
+ "ticker": "TTD",
+ "slug": "TTD",
+ "calls": [
+  {
+   "video_id": "y2yDNpF-uL4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "TTD",
+   "direction": "SELL",
+   "price_at_call": "~$13 (sold at ~$13; cost ~$44 that tranche, ~$19-20 remaining 2/3)",
+   "thesis": "Sold 1/3 for tax-loss harvesting and is leaning toward selling the rest — revenue collapsed from 11.8% to 3% growth, Wall Street forecasts -12%/-18% declines ahead, and he keeps revising estimates lower each quarter.",
+   "base_case": "Fair value $22 vs ~$13 looks undervalued, but the trend line is 'so awful' he expects to revise lower again; downgraded to low conviction (was medium).",
+   "bull_case": "Forward PE ~12.5 prices in zero growth; digital ad market still grows double digits if Trade Desk just holds share.",
+   "bear_case": "Amazon's 1-5% fees vs Trade Desk's 15-20% take rate; revenue not expected to grow again until Sep 2027 (+2.1%).",
+   "analyzed_at": "2026-09-26T14:00:01.000665+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
