@@ -1,0 +1,43 @@
+{
+ "ticker": "PYPL",
+ "slug": "PYPL",
+ "calls": [
+  {
+   "ticker": "PYPL",
+   "direction": "BUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "FupOpO06BWE",
+   "price_at_call": 55,
+   "thesis": "Still ranked a buying opportunity but conviction CUT to LOW (from medium; was high). DCF fair value $77 vs $55 (~40% upside 12-18mo), forward PE 9.6 — priced as if growth is over. 400M+ accounts, strong FCF, acquisition-target appeal. He SOLD his own PYPL position earlier this year at a loss ($68 avg cost, sold ~$50-55) after third management team in 5 years failed to fix share loss. Growing risk this is a value trap, not a value stock.",
+   "base_case": "Fair value $77, ~40% upside 12-18 months, possibly sooner via acquisition.",
+   "bull_case": "Acquired at a premium by a suitor kicking the tires.",
+   "bear_case": "Value trap: third management team can't re-accelerate growth; competition erodes checkout share.",
+   "analyzed_at": "2026-09-30T16:53:12.133372+00:00"
+  },
+  {
+   "video_id": "D-P5ryvcIAA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "PYPL",
+   "direction": "AVOID",
+   "price_at_call": "not stated",
+   "thesis": "Avoid: 'cannot trust them anymore.'",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Management trust broken.",
+   "collab_byline": "Investing Moats with Varun and Couch Investor",
+   "published_at": "2026-07-01T14:30:34+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
+  }
+ ]
+}
