@@ -1,0 +1,26 @@
+{
+ "ticker": "DUOL",
+ "slug": "DUOL",
+ "calls": [
+  {
+   "video_id": "5nq37O36Euc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why I'm Not Buying Duolingo Stock (Yet)",
+   "ticker": "DUOL",
+   "direction": "HOLD",
+   "price_at_call": "$143 (stated current); DCF fair value $149",
+   "thesis": "Reiterated HOLD: fairly valued to slightly undervalued but elevated AI-disruption risk; wait for a better entry (needs 5-10%+ margin of safety, larger for DUOL).",
+   "base_case": "DCF fair value $149 vs $143; forward PE 19 near all-time low.",
+   "bull_case": "Management pivoting to customer acquisition; targeting 100M DAUs in next couple years; ROIC 30% (>2x WACC), could rebound if acquisition pays off.",
+   "bear_case": "AI and big-tech language offerings reducing need to learn languages; freemium push comes at expense of monetization and may compress record 14.2% operating margins.",
+   "analyzed_at": "2026-09-28T18:01:07.968666+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
