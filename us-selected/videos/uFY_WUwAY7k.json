@@ -1,0 +1,42 @@
+{
+ "creator": "Couch Investor (Neil) + guest Jose",
+ "published_at": "2026-09-25",
+ "source_note": "Detailed summary generated from video captions; note: auto-captions garbled in places (Broadcom rendered as 'Rothcom/Bracom/Broncom/Proatcom', Hock Tan as 'Hawkan/Hotan/Hctan', ASIC as 'as6', Anthropic as 'an entropy', Vera Rubin as 'veil rubing')",
+ "summary": "Couch Investor's Neil hosts a head-to-head debate with his former live-stream co-host Jose (described as 'the number one Nvidia analyst on YouTube') on whether NVIDIA or Broadcom is the better AI-chip buy at current prices. Both agree both stocks look cheap: Broadcom at 20.5x forward earnings despite expected revenue growth of 65.8%/63.6%/57.2% through FY28 (toward $272B), and Nvidia at 18.7x forward with a PEG of ~0.5. Neil's key argument for Broadcom is Hock Tan's unusually concrete visibility — AI revenue doubling to $115B in FY27 and again to ~$230B the year after, guided conservatively against 30GW of visible compute demand. Jose's bull case for Nvidia is breadth: a core option on autonomous vehicles, robotics, 'data center in space', physical AI, and new neo-cloud revenue-sharing partnerships worth ~$40B in content. Both flag the mirror-image risk: customers building custom ASICs threatens Nvidia, while Anthropic/OpenAI concentration (>30% of Broadcom's two-year compute demand) threatens Broadcom. The verdict is a genuine split: Neil takes the contrarian Broadcom side for 12-month relative outperformance off the recent price divergence; Jose picks Nvidia if forced to one, sizing a both-positions split 60/40 to 65/35 in Nvidia's favor. No single explicit buy call on either name — Neil says outright he 'cannot give you a clear answer'. Other names discussed: AMD (referenced from their earlier episode), Meta (Broadcom AI-chip collaboration), TSMC (supply-chain allocation), plus Anthropic/OpenAI as key customers (both private).",
+ "video_id": "uFY_WUwAY7k",
+ "title": "NVIDIA vs. Broadcom: The Market Is Missing This",
+ "calls": [
+  {
+   "video_id": "uFY_WUwAY7k",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$5.4T mkt cap, 18.7x forward earnings (stated)",
+   "thesis": "Guest Jose's forced pick in the NVDA-vs-AVGO debate; 60/40-65/35 split majority NVDA — broadest AI exposure (physical AI, neo-cloud revenue-share deals, agentic workloads) at a low multiple.",
+   "base_case": "Both hosts agree both names are cheap at ~19-20x forward with growth too low in consensus.",
+   "bull_case": "Jensen guides at least 70% growth next year as the floor, ceiling near 100%.",
+   "bear_case": "Customer-built custom ASICs; harder to double a $5.4T base than a $1.7T one.",
+   "video_title": "NVIDIA vs. Broadcom: The Market Is Missing This",
+   "published_at": "2026-09-25T18:58:18+00:00",
+   "analyzed_at": "2026-09-25T22:06:06.990084+00:00",
+   "flip": false
+  },
+  {
+   "video_id": "uFY_WUwAY7k",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AVGO",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$1.7T mkt cap, 20.5x forward earnings (stated)",
+   "thesis": "Host Neil's contrarian relative pick: expects Broadcom to outperform NVDA over the next 12 months on the recent price divergence — cheap at 20.5x forward with Hock Tan's AI-revenue visibility ($115B FY27, ~$230B FY28) given conservatively.",
+   "base_case": "Growth expected to peak ~93% then decelerate; margin recovery as all ASIC projects ramp.",
+   "bull_case": "All custom-ASIC projects online at full ramp simultaneously → margin expansion and upside to guidance.",
+   "bear_case": "Anthropic/OpenAI concentration (>30% of 2-yr compute demand); hyperscalers building in-house or returning to NVDA.",
+   "video_title": "NVIDIA vs. Broadcom: The Market Is Missing This",
+   "published_at": "2026-09-25T18:58:18+00:00",
+   "analyzed_at": "2026-09-25T22:06:06.990084+00:00",
+   "flip": false
+  }
+ ]
+}
