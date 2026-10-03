@@ -1,0 +1,28 @@
+{
+ "ticker": "ERO",
+ "slug": "ERO",
+ "calls": [
+  {
+   "video_id": "oEXzLq-q5cY",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "ERO",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Smaller copper expression (~1/10 FCX size) tightly correlated to cash copper; guest prefers trading it via out-of-the-money calls with capped risk rather than holding shares, and steers long-term holders to FCX instead.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-02T23:00:23.042483+00:00",
+   "analyzed_at": "2026-10-03T06:29:52.571646+00:00",
+   "stance_flip": null,
+   "video_title": "This Stock Dropped 52% Then Jumped 83% (Here's How to Profit from Market Volatility)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
