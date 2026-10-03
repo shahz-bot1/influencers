@@ -1,0 +1,59 @@
+{
+ "ticker": "SCHD",
+ "slug": "SCHD",
+ "calls": [
+  {
+   "video_id": "8Psvl8j3JmQ",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "SCHD Just Made a BIG Move — Here's What Changed",
+   "published_at": "2026-09-23T14:03:55+00:00",
+   "ticker": "SCHD",
+   "direction": "HOLD",
+   "price_at_call": "not stated (holds 700 shares, ~$25k)",
+   "thesis": "Q3 rebalance raised tech 8.9%->12% with QCOM/TXN now top-2 holdings; still his favorite dividend ETF, continuing to hold.",
+   "base_case": "Rules-based mean-reversion has added value before (Q2 adds like MRK +28%); dividend income +4.2% YTD.",
+   "bull_case": "More tech participation without abandoning the dividend mandate; 28% total return vs 17% S&P 500 past year.",
+   "bear_case": "Rebalance is not a valuation call; prior adds like PEP (-7%) and HD (-7.4%) lagged.",
+   "analyzed_at": "2026-09-23T15:05:00.270761+00:00"
+  },
+  {
+   "video_id": "pDsQs_qPELs",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "SCHD",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Top-5 holding; 'backs it with his money'; greatest complement to tech-heavy portfolios.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Higher yield than most dividend ETFs plus faster dividend growth.",
+   "bull": "Defensive sectors cushion tech drawdowns while paying income.",
+   "bear": "Lags in tech-led bull markets.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+   "published_at": "2026-04-15T15:45:00+00:00"
+  },
+  {
+   "video_id": "DQoFZ_AMKi0",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "SCHD",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "'Far and away the best dividend ETF'; ~30% of his model.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "3.5% yield; ~10% 5-yr dividend growth; quality screener.",
+   "bull": "Holds up the portfolio when growth sells off.",
+   "bear": "Lags tech-led rallies.",
+   "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA",
+   "published_at": "2026-04-04T15:00:15+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
