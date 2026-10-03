@@ -1,0 +1,43 @@
+{
+ "ticker": "TGT",
+ "slug": "TGT",
+ "calls": [
+  {
+   "video_id": "0BDw9kwNh4Q",
+   "channel": "MarketBeat",
+   "title": "Is the Rally Real? 5 Stocks to Buy Now Before Election Day",
+   "published_at": "2026-09-27T00:00:00+00:00",
+   "detected_at": "2026-09-28T05:56:51.170858+00:00",
+   "direction": "BUY",
+   "ticker": "TGT",
+   "stated_price": null,
+   "thesis": "Rebound from managerial missteps; resilient consumer spending, regaining share + strong holiday season expected; to outperform retail peers",
+   "base_case": "Outperforms retail sector stock returns over next few months",
+   "bull_case": "Analyst sentiment rebounding, supporting the stock",
+   "bear_case": "Trades near consensus target; retail sector headwinds on discretionary"
+  },
+  {
+   "video_id": "GYkvoCvL77Y",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "TGT",
+   "direction": "HOLD",
+   "stated_price": 160.0,
+   "fair_value": 93.0,
+   "thesis": "Management reinvigorated growth (+5.3% sales, +4% traffic, margins recovering) but forward PE has soared 8 -> 16.7; reiterates his Aug-21 downgrade to hold.",
+   "bull": "Operating margins return toward historical 8% and premium-price strategy sustains top-line growth.",
+   "bear": "DCF fair value $93 vs ~$160 implies considerable downside; would only buy on a much bigger pullback.",
+   "stance_flip": false,
+   "analyzed_at": "2026-09-26T22:00:25.407245+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  }
+ ]
+}
