@@ -1,0 +1,21 @@
+{
+ "ticker": "JPM",
+ "slug": "JPM",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "JPM",
+   "direction": "AVOID",
+   "thesis": "Same bank deposit-sweep profit threat; -3% on week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
