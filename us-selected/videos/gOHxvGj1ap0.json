@@ -1,0 +1,36 @@
+{
+ "title": "3 AI Stocks Crashed but I'm Only Buying ONE",
+ "creator": "MarketBeat",
+ "summary": "Joseph Hogue of Let's Talk Money! hosts MarketBeat's Bridget to dissect three crashed AI stocks - Palantir (PLTR, -58% from its Oct 2025 peak), Oracle (ORCL, -65% from its September $366 peak), and Micron (MU, -32% from its June peak) - to name the one dip worth buying. On Palantir, Bridget relays a bull case centered on a data-security moat (enterprises won't trust Anthropic/OpenAI models with proprietary data) plus growing commercial revenue, while Hogue adds an agent-orchestration angle; the bear case is valuation at 90x earnings, which even bulls call unhealthy. Oracle draws the most divided views: one MarketBeat analyst calls it the best buy-the-dip opportunity of the year on backlog covering its heavy data-center spend, while veteran Mark Chaikin calls it 'the biggest falling knife,' warning its contracts are a massive bet on OpenAI and on Ellison's finances. Micron is the consensus pick: Bridget calls the pullback a 'gift,' citing untouched fundamentals, a 75% EBITDA margin that 'can't be faked,' and upcoming hyperscaler earnings as the likely catalyst; Hogue agrees the near-term opportunity is strong but flags memory cyclicality, citing Mohnish Pabrai's 12-18 month growth window. Hogue's own conditional stance: he'd go all-in on Palantir only if it fell to 50-60x earnings. Verdict in the title: Micron is the one he's buying. Calls: MU BUY, PLTR HOLD, ORCL UNCERTAIN (all Bridget, MarketBeat); guest Hogue's calls (MU BUY, PLTR conditional 50-60x P/E) are host-only.",
+ "video_id": "gOHxvGj1ap0",
+ "published_at": "2026-07-24",
+ "calls": [
+  {
+   "video_id": "gOHxvGj1ap0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Bridget (MarketBeat host): best buy-the-dip - fundamentals intact, 75% EBITDA margin 'can't be faked', hyperscaler earnings the coming catalyst.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and MarketBeat",
+   "published_at": "2026-07-24T15:45:25+00:00"
+  },
+  {
+   "video_id": "gOHxvGj1ap0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "PLTR",
+   "direction": "HOLD",
+   "price_at_call": "not stated",
+   "thesis": "Bridget (MarketBeat host): personal impression - long-term growth story but not a slam-dunk buy-the-dip; expect volatility.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "note": "Channel's last tracked PLTR call was guest Chaikin's BUY (Sep 29) - different speaker, not a same-voice flip.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and MarketBeat",
+   "published_at": "2026-07-24T15:45:25+00:00"
+  }
+ ]
+}
