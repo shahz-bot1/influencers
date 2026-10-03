@@ -1,0 +1,50 @@
+{
+ "title": "Opportunity of a Life Time! (These 6 Stocks Could PRINT Millions Soon)",
+ "creator": "BWB - Business With Brian",
+ "summary": "Brian (Business With Brian) joins Professor G (Investing Simplified) to answer the classic 'only 3 stocks' question, landing on 6 total (3 each). The bulk is macro framing: Brian argues AI is still in 'the first 2 minutes of the football game', with edge computing as the next investable stack after cloud/data centers; he is constructive even though a correction feels overdue ('a house of cards' on valuations, but AI demand is a safety net). He is bearish on big IPOs (SpaceX, Anthropic) as 'fully baked pies' for insiders, preferring exposure via big-tech backers. On portfolio defense, he holds 2 years' spending in bonds at retirement, never times the market, and doubled down into mega caps in the 2022 -32% drawdown. Brian's three picks: Nvidia (90% AI chip share, 60% operating margins, edge/robotics/quantum-software optionality, 10-year trajectory), Broadcom ('the muscle' to Nvidia's 'brains', custom hyperscaler chips + VMware cash cow, revenue +92%), Vertiv (data-center cooling, 23% global share, backlog +77% YoY). Professor G's three (host-only, not Brian's calls): Alphabet ('super undervalued'), IonQ (speculative quantum bet, 'could go to zero'), Berkshire Hathaway (~$400B cash for a crash). Calls: NVDA, AVGO, VRT BUY (Brian). Note: some fragmented sentences in the AI-framing section.",
+ "video_id": "i3NittyekA4",
+ "published_at": "2026-06-20",
+ "calls": [
+  {
+   "video_id": "i3NittyekA4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Tip of the AI spear for ~10 years: ~90% data-center GPU share, 60% operating margin, plus edge-compute, robotics and quantum-software optionality.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Revenue +254% in 2 years (+114% last year), still accelerating.",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2026-06-20T13:00:08+00:00"
+  },
+  {
+   "video_id": "i3NittyekA4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "'The muscle' to Nvidia's 'brains': custom hyperscaler AI chips plus edge-compute exposure; VMware a cash-cow software arm.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Revenue +92%; software growth from VMware continues.",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2026-06-20T13:00:08+00:00"
+  },
+  {
+   "video_id": "i3NittyekA4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "VRT",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Picks-and-shovels data-center cooling; ~23% global share (2x nearest rival), backlog +77% YoY.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2026-06-20T13:00:08+00:00"
+  }
+ ]
+}
