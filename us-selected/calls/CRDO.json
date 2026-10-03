@@ -1,0 +1,26 @@
+{
+ "ticker": "CRDO",
+ "slug": "CRDO",
+ "calls": [
+  {
+   "video_id": "0BDw9kwNh4Q",
+   "channel": "MarketBeat",
+   "title": "Is the Rally Real? 5 Stocks to Buy Now Before Election Day",
+   "published_at": "2026-09-27T00:00:00+00:00",
+   "detected_at": "2026-09-28T05:56:51.170858+00:00",
+   "direction": "BUY",
+   "ticker": "CRDO",
+   "stated_price": null,
+   "thesis": "AI-critical connectivity (AEC copper cables); surging backlog, expects hot revenue growth and guidance on upcoming release; photonics/optics future",
+   "base_case": "Retests and sets new highs on upcoming swing",
+   "bull_case": "NVDA chip-volume doubling + AMD launch swell connectivity demand",
+   "bear_case": "If it fails to set a new high, outlook may be topping out"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
