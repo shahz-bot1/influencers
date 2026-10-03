@@ -1,0 +1,27 @@
+{
+ "ticker": "JBLU",
+ "slug": "JBLU",
+ "calls": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "JBLU",
+   "direction": "AVOID",
+   "price": "debt/equity 591%, $9B+ debt on ~$1.6B market cap, negative $128M operating cash flow",
+   "thesis": "High-debt company facing much higher refinancing rates (PIMCO: ~4.5% to up to 12% within 2 yrs) plus weakening consumer.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "video_id": "989CUhoOUg8",
+   "video_title": "Buffett's \"Going to Hell\" Warning [5 Stocks to Buy Before It Gets Worse]",
+   "published_at": "2026-09-30T15:55:34.672871+00:00",
+   "analyzed_at": "2026-10-01T03:57:29.822305+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
