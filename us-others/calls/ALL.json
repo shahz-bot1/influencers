@@ -1,0 +1,21 @@
+{
+ "ticker": "ALL",
+ "slug": "ALL",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ALL",
+   "direction": "AVOID",
+   "thesis": "Same insurer disruption thesis.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
