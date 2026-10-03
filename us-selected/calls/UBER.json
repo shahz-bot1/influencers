@@ -1,0 +1,46 @@
+{
+ "ticker": "UBER",
+ "slug": "UBER",
+ "calls": [
+  {
+   "video_id": "ps7HQgBsw5I",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "How I'm Investing With $1.5 Million Stock Portfolio",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": "$68 (stated); 17 fwd PE (stated)",
+   "thesis": "Way undervalued — robotaxi/CyberCab/Waymo competition fears more than priced in; hybrid human+robotaxi model wins (one app, guaranteed driver).",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "First real competition; could trade at undervaluation for a long time.",
+   "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  },
+  {
+   "video_id": "D-P5ryvcIAA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "AVs become a commodity; Uber is the distribution layer with ~20 AV partnerships.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Trips growing; delivery growing faster; ~$2B ads business.",
+   "bull": "Aggregates 10+ AV players into one app.",
+   "bear": "Waymo/Tesla dominate AVs; regulatory shocks.",
+   "collab_byline": "Investing Moats with Varun and Couch Investor",
+   "published_at": "2026-07-01T14:30:34+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
+  }
+ ]
+}
