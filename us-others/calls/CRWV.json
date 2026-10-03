@@ -1,0 +1,35 @@
+{
+ "ticker": "CRWV",
+ "slug": "CRWV",
+ "calls": [
+  {
+   "video_id": "_X0c2A-Ln9c",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "CRWV",
+   "direction": "SELL",
+   "thesis": "CoreWeave: $47B market cap on $7.6B TTM revenue; $35B debt; -$5.7B FCF in Q2 2026 alone; June 2026 8.5% notes now yielding >12%; negative ROIC. If debt markets close off, 'it is game over.'",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": null
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "CRWV",
+   "direction": "AVOID",
+   "thesis": "'Definitely some cracks for Coreweave and Oracle'; worst debt-to-FCF in group at -7.9x; -30% since May. (Captions garble as 'Corvus'.)",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 1
+  }
+ ]
+}
