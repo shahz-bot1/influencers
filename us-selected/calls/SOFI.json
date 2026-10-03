@@ -1,0 +1,61 @@
+{
+ "ticker": "SOFI",
+ "slug": "SOFI",
+ "calls": [
+  {
+   "video_id": "qnhZxRrFN-Y",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "SOFI",
+   "direction": "HOLD",
+   "price_at_call": "~$16.58; 34x earnings; consensus ~33% upside; Citigroup PT $30",
+   "thesis": "Solid fundamentals (profitable GAAP and non-GAAP, growing) but market treats it as \"just a bank\"; every earnings report refutes objections yet stock stays pinned.",
+   "base_case": "Base: hold if owned; long-term story intact but no visible catalyst timing.",
+   "bull_case": "Short sellers run out of objections -> reversal higher toward consensus PT.",
+   "bear_case": "Growth spending + bank-multiple valuation keep it weighed down another year.",
+   "analyzed_at": "2026-09-26T05:59:20.040279+00:00"
+  },
+  {
+   "video_id": "FXDiB6n-5RU",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Still very undervalued; growing 30%+ in an unfavorable environment.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Bank license; cross-sell; fee-based loan platform.",
+   "bull": "Fintech rerating when rate sentiment flips.",
+   "bear": "Rate-environment overhang; stock doesn't move.",
+   "collab_byline": "Future Investing and Couch Investor",
+   "published_at": "2026-09-16T01:35:30+00:00"
+  },
+  {
+   "video_id": "D-P5ryvcIAA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "price_at_call": "DCF-implied ~$24-25",
+   "thesis": "Screaming buy: fast-growing, increasingly profitable one-stop-shop fintech.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Revenue and profitability accelerating; monetization still early.",
+   "bull": "SoFi Plus subscription, cross-sell, tech-platform leverage.",
+   "bear": "Credit-book risk in a downturn.",
+   "collab_byline": "Investing Moats with Varun and Couch Investor",
+   "published_at": "2026-07-01T14:30:34+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
+  }
+ ]
+}
