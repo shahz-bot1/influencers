@@ -1,0 +1,148 @@
+{
+ "ticker": "MU",
+ "slug": "MU",
+ "calls": [
+  {
+   "video_id": "TMKFZx5xaC8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": "FV ~$1,430 vs market ~$1,165 (caption-garbled figures); FV to be revised higher",
+   "thesis": "Reiterating BUY, very high conviction: two straight quarters of 80%+ operating margins (80.7%), revenue $54.2B ~5x YoY, next-quarter guide $61.5B at ~86% gross margin; longer-term customer agreements improving visibility, though current margins are not sustainable long-term.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-02T11:00:45.184344+00:00",
+   "analyzed_at": "2026-10-03T06:29:52.571646+00:00",
+   "stance_flip": null,
+   "video_title": "I've Reviewed Thousands of Financial Reports: Micron Just Did Something I've Never Seen Before"
+  },
+  {
+   "video_id": "LdRD7UsaQKc",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "MU",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "buyer on pullback to ~$950/share (stated); no current-price buy",
+   "thesis": "Earnings crushed (revenue/EPS/guide beats, HBM sold forward, supply seen tighter in 2027-28) and thesis is stronger, but stock already ran and prices in the story — enter on a pullback, not at any price.",
+   "base_case": "AI memory demand + tight supply keep pricing/margins elevated near term; management guides next quarter higher again.",
+   "bull_case": "AI demand outgrows new supply (HBM/custom NV-HBM integration), so the cycle lasts far longer than prior memory cycles.",
+   "bear_case": "Memory stays cyclical: new fabs/supply catch up, margins normalize, and a low forward PE proves to be peak earnings.",
+   "published_at": "2026-10-01T17:50:56.781021+00:00",
+   "analyzed_at": "2026-10-02T10:16:22.954782+00:00",
+   "stance_flip": null,
+   "video_title": "Micron Just CRUSHED Earnings — Is MU Stock a BUY?"
+  },
+  {
+   "video_id": "cIOHXqXkuLc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "MU",
+   "direction": "HOLD",
+   "price_at_call": "n/a (holding; post-earnings Sep 30)",
+   "thesis": "Beats across the board but stock flat; owns position, no plans to add — may reallocate to AVGO/NVDA if the 7.2x forward multiple stays 'disrespected'.",
+   "base_case": "Base: FY27 record revenue, Q1 margin floor at 86.25%, then improving; 26 SCAs de-risk cyclicality.",
+   "bull_case": "Bull: rerating toward a 'normal' multiple + large buyback authorization (allowed from Dec 9).",
+   "bear_case": "Bear: 2027-28 peak narrative wins; DRAM pricing turns and margins mean-revert.",
+   "published_at": "2026-09-30T23:55:15.965630+00:00",
+   "analyzed_at": "2026-10-01T05:57:02.043190+00:00",
+   "stance_flip": null,
+   "video_title": "Micron Just Posted Insane Numbers. The Market Doesn't Care"
+  },
+  {
+   "video_id": "pW_7A50jY_8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "MU",
+   "direction": "HOLD",
+   "price_at_call": "n/a (holding; earnings Wed Sep 30)",
+   "thesis": "Holding into earnings, expects beats across the board: record scale of revenue/FCF ramp ($168B FCF in FY28 est.) makes 'this time different'; bets $100 on a huge buyback announcement once allowed in December.",
+   "base_case": "Base: beats and raises; memory upcycle with unprecedented scale.",
+   "bull_case": "Bull: rerating from 7.4x forward PE + buyback announcement.",
+   "bear_case": "Bear: cyclical memory turns; margin collapse as in past cycles.",
+   "published_at": "2026-09-27T16:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": null,
+   "video_title": "I Just Bought $15,000 of a New Stock"
+  },
+  {
+   "video_id": "OfLA9KqnUuA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Revealed! Everything You Need to Know About Micron's Sept. 30 Investor Update",
+   "published_at": "2026-09-23T13:03:55+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": "$1,041 (stated)",
+   "thesis": "Undervalued into Sep 30 earnings: unprecedented demand, sold out for 2026 and most of 2027, 80%+ operating margins, forward PE ~6.",
+   "base_case": "DCF $1,439 vs $1,041 = ~38% upside over 12-18 months.",
+   "bull_case": "If market stops pricing it as purely cyclical, multiple re-rates toward 40-50x like non-cyclical growers.",
+   "bear_case": "Still cyclical at heart; a demand slowdown (not expected before FY2029) would collapse EPS.",
+   "analyzed_at": "2026-09-23T15:05:00.270761+00:00"
+  },
+  {
+   "video_id": "FXDiB6n-5RU",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": "avg ~$90; re-added 30% at ~$950",
+   "thesis": "Cheapest of the group by far; house money after taking chips off post-$1,000; expects buyback announced by Q1'27.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Memory bottleneck persists; huge FCF generation.",
+   "bull": "Could buy back 40% of shares by 2028; aggressive price increases ahead.",
+   "bear": "Margin-peak risk; customers optimizing memory use; new supply.",
+   "collab_byline": "Future Investing and Couch Investor",
+   "published_at": "2026-09-16T01:35:30+00:00"
+  },
+  {
+   "video_id": "gOHxvGj1ap0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Bridget (MarketBeat host): best buy-the-dip - fundamentals intact, 75% EBITDA margin 'can't be faked', hyperscaler earnings the coming catalyst.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and MarketBeat",
+   "published_at": "2026-07-24T15:45:25+00:00"
+  },
+  {
+   "video_id": "D-P5ryvcIAA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "MU",
+   "direction": "HOLD",
+   "price_at_call": "not stated (~$900s referenced)",
+   "thesis": "Wait: not buying more here; better opportunities elsewhere despite a solid business.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Demand still strong; cycle has further to run.",
+   "bull": "Memory bottleneck persists; huge FCF.",
+   "bear": "Margin peak within 12 months; customers optimize memory use; 'high risk now'.",
+   "collab_byline": "Investing Moats with Varun and Couch Investor",
+   "published_at": "2026-07-01T14:30:34+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 1
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 2
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 6
+  }
+ ]
+}
