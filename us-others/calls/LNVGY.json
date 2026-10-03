@@ -1,0 +1,23 @@
+{
+ "ticker": "LNVGY",
+ "slug": "LNVGY",
+ "calls": [
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "LNVGY",
+   "direction": "HOLD",
+   "thesis": "Lenovo: AI-revenue growth story at P/E ~15, \"probably fairly priced\" if it keeps executing; he waits for a downturn before AI-exposed names.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
