@@ -1,0 +1,44 @@
+{
+ "ticker": "NOW",
+ "slug": "NOW",
+ "calls": [
+  {
+   "video_id": "UFkvt5QjRWI",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Chaikin: ServiceNow moved back into the bullish camp, uptrend re-established; AI integration into corporate workflow tooling seen as an AI-company story, not just software.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-09-30T09:58:47.261926+00:00"
+  },
+  {
+   "video_id": "Fu7xcx-BTTk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is This AI Stock a Massive Bubble? (ServiceNow Breakdown)",
+   "published_at": "2026-09-25T11:55:39+00:00",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "price_at_call": "$138 (stated; DCF fair value $158)",
+   "thesis": "Still a buying opportunity but with lower conviction than at sub-$100: slightly undervalued; $30-32B revenue target by 2030 (2x TTM $14.7B), AI revenue guide raised to $1.5B for 2026.",
+   "base_case": "DCF fair value $158 vs $138 = ~14% upside over 12-18 months.",
+   "bull_case": "SMB AI implementation services open a new growth lane bridging LLM capabilities to small business.",
+   "bear_case": "Fast-moving AI dynamics warrant a larger margin of safety at $140.",
+   "analyzed_at": "2026-09-25T13:58:32.207911+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  }
+ ]
+}
