@@ -1,0 +1,27 @@
+{
+ "ticker": "JAPANESE GOVT BONDS (JGB)",
+ "slug": "JAPANESE_GOVT_BONDS_JGB",
+ "calls": [
+  {
+   "video_id": "NZ0fsllxcdE",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "S Naren's 36 Years of Investing Wisdom in 45 Minutes | The Legend Speaks | Rahul Jain",
+   "published_at": "2026-09-23T20:54:12.349385+00:00",
+   "ticker": "JAPANESE GOVT BONDS (JGB)",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Contrarian rotation: yen has done badly and yields have risen substantially; one of the worst-performing asset classes of the last 10 years - take money out of US Nasdaq and put it here",
+   "base_case": "Underperformer mean-reverts as yields normalize",
+   "bull_case": "",
+   "bear_case": "Japan yields keep rising and yen keeps weakening",
+   "analyzed_at": "2026-10-03T20:59:20.859641+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
