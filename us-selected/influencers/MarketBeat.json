@@ -1,0 +1,247 @@
+{
+ "name": "MarketBeat",
+ "handle": "@marketbeatmedia",
+ "slug": "MarketBeat",
+ "calls": [
+  {
+   "ticker": "RBRK",
+   "tickerSlug": "RBRK",
+   "direction": "BUY",
+   "date": "2026-10-02T23:00:23.042483+00:00",
+   "price": "stock ~$115 reference (guest); Jan 2028 $145 call activity noted",
+   "video_id": "oEXzLq-q5cY"
+  },
+  {
+   "ticker": "FCX",
+   "tickerSlug": "FCX",
+   "direction": "BUY",
+   "date": "2026-10-02T23:00:23.042483+00:00",
+   "price": null,
+   "video_id": "oEXzLq-q5cY"
+  },
+  {
+   "ticker": "ERO",
+   "tickerSlug": "ERO",
+   "direction": "BUY",
+   "date": "2026-10-02T23:00:23.042483+00:00",
+   "price": null,
+   "video_id": "oEXzLq-q5cY"
+  },
+  {
+   "ticker": "UROY",
+   "tickerSlug": "UROY",
+   "direction": "BUY",
+   "date": "2026-10-02T23:00:23.042483+00:00",
+   "price": "was in high $2s/low $3s when first shared ~1 year ago (guest)",
+   "video_id": "oEXzLq-q5cY"
+  },
+  {
+   "ticker": "FCNCA",
+   "tickerSlug": "FCNCA",
+   "direction": "BUY",
+   "date": "2026-10-01T22:58:20.857323+00:00",
+   "price": "under $2,150–$2,200 (guest entry guide; ~$2,000 reference)",
+   "video_id": "ANoYJTT0Amg"
+  },
+  {
+   "ticker": "MP",
+   "tickerSlug": "MP",
+   "direction": "AVOID",
+   "date": "2026-10-01T22:58:20.857323+00:00",
+   "price": null,
+   "video_id": "ANoYJTT0Amg"
+  },
+  {
+   "ticker": "AESI",
+   "tickerSlug": "AESI",
+   "direction": "BUY",
+   "date": "2026-09-30T22:55:15.965630+00:00",
+   "price": "n/a (guest pick)",
+   "video_id": "HbkvoRgodmw"
+  },
+  {
+   "ticker": "LBRT",
+   "tickerSlug": "LBRT",
+   "direction": "BUY",
+   "date": "2026-09-30T22:55:15.965630+00:00",
+   "price": "n/a (guest pick)",
+   "video_id": "HbkvoRgodmw"
+  },
+  {
+   "ticker": "ORA",
+   "tickerSlug": "ORA",
+   "direction": "BUY",
+   "date": "2026-09-30T22:55:15.965630+00:00",
+   "price": "n/a (guest pick)",
+   "video_id": "HbkvoRgodmw"
+  },
+  {
+   "ticker": "FVO",
+   "tickerSlug": "FVO",
+   "direction": "BUY",
+   "date": "2026-09-30T22:55:15.965630+00:00",
+   "price": "n/a (guest pick; trading below IPO price)",
+   "video_id": "HbkvoRgodmw"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "AVOID",
+   "date": "2026-09-30T22:55:15.965630+00:00",
+   "price": "n/a (guest call)",
+   "video_id": "HbkvoRgodmw"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "AVOID",
+   "date": "2026-09-30T22:55:15.965630+00:00",
+   "price": "n/a (guest call)",
+   "video_id": "HbkvoRgodmw"
+  },
+  {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "AVOID",
+   "date": "2026-09-30T22:55:15.965630+00:00",
+   "price": "n/a (guest call; captions render as 'Iron')",
+   "video_id": "HbkvoRgodmw"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-09-30T09:58:47.261926+00:00",
+   "price": null,
+   "video_id": "UFkvt5QjRWI"
+  },
+  {
+   "ticker": "NOW",
+   "tickerSlug": "NOW",
+   "direction": "BUY",
+   "date": "2026-09-30T09:58:47.261926+00:00",
+   "price": null,
+   "video_id": "UFkvt5QjRWI"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-09-30T09:58:47.261926+00:00",
+   "price": null,
+   "video_id": "UFkvt5QjRWI"
+  },
+  {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "BUY",
+   "date": "2026-09-29T05:56:28.042154+00:00",
+   "price": null,
+   "video_id": "RgK-UsB_d6w"
+  },
+  {
+   "ticker": "ARM",
+   "tickerSlug": "ARM",
+   "direction": "BUY",
+   "date": "2026-09-29T05:56:28.042154+00:00",
+   "price": null,
+   "video_id": "RgK-UsB_d6w"
+  },
+  {
+   "ticker": "LITE",
+   "tickerSlug": "LITE",
+   "direction": "BUY",
+   "date": "2026-09-29T05:56:28.042154+00:00",
+   "price": null,
+   "video_id": "RgK-UsB_d6w"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-09-27T00:00:00+00:00",
+   "price": null,
+   "video_id": "0BDw9kwNh4Q"
+  },
+  {
+   "ticker": "CRDO",
+   "tickerSlug": "CRDO",
+   "direction": "BUY",
+   "date": "2026-09-27T00:00:00+00:00",
+   "price": null,
+   "video_id": "0BDw9kwNh4Q"
+  },
+  {
+   "ticker": "BE",
+   "tickerSlug": "BE",
+   "direction": "BUY",
+   "date": "2026-09-27T00:00:00+00:00",
+   "price": null,
+   "video_id": "0BDw9kwNh4Q"
+  },
+  {
+   "ticker": "TGT",
+   "tickerSlug": "TGT",
+   "direction": "BUY",
+   "date": "2026-09-27T00:00:00+00:00",
+   "price": null,
+   "video_id": "0BDw9kwNh4Q"
+  },
+  {
+   "ticker": "LPTH",
+   "tickerSlug": "LPTH",
+   "direction": "BUY",
+   "date": "2026-09-27T00:00:00+00:00",
+   "price": null,
+   "video_id": "0BDw9kwNh4Q"
+  },
+  {
+   "ticker": "HIMS",
+   "tickerSlug": "HIMS",
+   "direction": "AVOID",
+   "date": "2026-09-26T05:59:20.040279+00:00",
+   "price": "~$29 (stated); consensus PT ~$32 (~10-11% upside)",
+   "video_id": "qnhZxRrFN-Y"
+  },
+  {
+   "ticker": "ONDS",
+   "tickerSlug": "ONDS",
+   "direction": "AVOID",
+   "date": "2026-09-26T05:59:20.040279+00:00",
+   "price": "~$7.48; consensus PT ~$17.18 (~130% upside)",
+   "video_id": "qnhZxRrFN-Y"
+  },
+  {
+   "ticker": "COIN",
+   "tickerSlug": "COIN",
+   "direction": "BUY",
+   "date": "2026-09-26T05:59:20.040279+00:00",
+   "price": "~$195; short interest ~12% (down 19% in a month)",
+   "video_id": "qnhZxRrFN-Y"
+  },
+  {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "HOLD",
+   "date": "2026-09-26T05:59:20.040279+00:00",
+   "price": "~$16.58; 34x earnings; consensus ~33% upside; Citigroup PT $30",
+   "video_id": "qnhZxRrFN-Y"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-07-24T15:45:25+00:00",
+   "price": "not stated",
+   "video_id": "gOHxvGj1ap0"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "HOLD",
+   "date": "2026-07-24T15:45:25+00:00",
+   "price": "not stated",
+   "video_id": "gOHxvGj1ap0"
+  }
+ ]
+}
