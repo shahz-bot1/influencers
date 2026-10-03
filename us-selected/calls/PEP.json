@@ -1,0 +1,27 @@
+{
+ "ticker": "PEP",
+ "slug": "PEP",
+ "calls": [
+  {
+   "ticker": "PEP",
+   "direction": "BUY",
+   "thesis": "DCF fair value $180 vs $128 (+40% upside in 12-18 months); snacks segment thriving alongside beverages.",
+   "price_at_call": "$128 (stated)",
+   "bull_case": "Snacks doing as well or better than beverages; 4.5% yield.",
+   "bear_case": "Tariffs, squeezed disposable income, and healthier-choice shift away from salty snacks/sugary drinks.",
+   "base_case": null,
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "lV4gJKmzRxg",
+   "video_title": "Forever Stocks: 4 Undervalued Dividend Stocks Investors Can Buy Now and Hold Forever",
+   "published_at": "2026-09-29T11:59:59.109610+00:00",
+   "analyzed_at": "2026-09-29T18:01:32.562233+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
