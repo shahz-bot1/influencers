@@ -1,0 +1,22 @@
+{
+ "video_id": "KBh0GvLPTiM",
+ "creator": "Parkevtate Vosianc CFA",
+ "title": "Massive Update for Costco Stock Investors",
+ "published_at": "2026-09-23T15:00:00+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc's September 23 video is a pre-earnings check on Costco ahead of its September 24 quarterly report, and it ends with a rare stance change: his first BUY upgrade on Costco in years (the last was around 2021/22). Context: the stock has fallen ~20% from near $1,100 to below $900, and for the first time in his years of following it the valuation looks fair rather than rich. He walks through the business: US comparable store sales up 9% in August (5.6% ex-gas, 2.8% in Canada), digitally enabled sales up 17.9%, $293 billion trailing-12-month sales from under 1,000 warehouses worldwide — dwarfing Walmart (~$700 billion from 10,000+ stores) and Target on a sales-per-store basis. He emphasizes the deliberate model: razor-thin margins (3.8% operating margin) are the strategy — savings are passed to customers, rewarded by 90%+ US membership renewal rates where the real profit sits — and industry-leading capital allocation, with inventory turning so fast Costco often sells goods before paying suppliers, driving a 22.6% return on invested capital that leads Home Depot, Walmart, and Target. His updated DCF puts fair value at $843 versus ~$897 market, only 6% overvalued and well within his margin of safety; the 36x forward P/E is near the lowest since 2024. The call: COST — BUY (upgrade), execution advice to buy half before and half after earnings since he is indifferent to timing. Bull: an earnings beat reignites the premium multiple; bear: at 36x forward a soft quarter extends the de-rating. Other tickers mentioned for comparison only: Walmart, Target, Home Depot. The video carries a Motley Fool sponsorship.",
+ "calls": [
+  {
+   "video_id": "KBh0GvLPTiM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "COST",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $843 vs ~$897 market (only 6% overvalued; fwd P/E 36)",
+   "thesis": "First BUY since ~2021/22 — stock down ~20% from highs is a rare fairly-valued entry; would do half before and half after Sep 24 earnings.",
+   "base_case": "DCF $843 vs market $897 — within margin of safety; 9% US comp sales (Aug), 17.9% digital growth, 90%+ membership renewal, 22.6% ROIC.",
+   "bull_case": "Earnings beat reignites the premium multiple; compounding at near-historic low relative valuation.",
+   "bear_case": "Valuation still 36x forward; a soft quarter on Sep 24 extends the de-rating despite quality."
+  }
+ ]
+}
