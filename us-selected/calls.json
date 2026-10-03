@@ -46,7 +46,7 @@
   "video_id": "8Psvl8j3JmQ",
   "channel": "Mark Roussin CPA",
   "handle": "@markroussincpa",
-  "video_title": "SCHD Just Made a BIG Move — Here's What Changed",
+  "video_title": "SCHD Just Made a BIG Move \u2014 Here's What Changed",
   "published_at": "2026-09-23T14:03:55+00:00",
   "ticker": "SCHD",
   "direction": "HOLD",
@@ -65,7 +65,7 @@
   "direction": "BUY",
   "price_at_call": "DCF fair value $1,153, ~24% upside vs current price (stock down ~45% YTD)",
   "thesis": "Crash on mortgage-scoring regulation/VantageScore risk is a high-conviction buying opportunity for long-term investors.",
-  "base_case": "DCF $1,153/share; forward P/E 17.5 — cheapest in years; 20%+ revenue growth, 52% operating margins, 56.5% ROIC hold.",
+  "base_case": "DCF $1,153/share; forward P/E 17.5 \u2014 cheapest in years; 20%+ revenue growth, 52% operating margins, 56.5% ROIC hold.",
   "bull_case": "Pricing power and moat persist despite regulation noise; re-rates back toward historic premium multiple.",
   "bear_case": "Policy changes erode FICO's grip on mortgage scoring, capping price increases and compressing the 52% margins."
  },
@@ -76,8 +76,8 @@
   "ticker": "COST",
   "direction": "BUY",
   "price_at_call": "DCF fair value $843 vs ~$897 market (only 6% overvalued; fwd P/E 36)",
-  "thesis": "First BUY since ~2021/22 — stock down ~20% from highs is a rare fairly-valued entry; would do half before and half after Sep 24 earnings.",
-  "base_case": "DCF $843 vs market $897 — within margin of safety; 9% US comp sales (Aug), 17.9% digital growth, 90%+ membership renewal, 22.6% ROIC.",
+  "thesis": "First BUY since ~2021/22 \u2014 stock down ~20% from highs is a rare fairly-valued entry; would do half before and half after Sep 24 earnings.",
+  "base_case": "DCF $843 vs market $897 \u2014 within margin of safety; 9% US comp sales (Aug), 17.9% digital growth, 90%+ membership renewal, 22.6% ROIC.",
   "bull_case": "Earnings beat reignites the premium multiple; compounding at near-historic low relative valuation.",
   "bear_case": "Valuation still 36x forward; a soft quarter on Sep 24 extends the de-rating despite quality."
  },
@@ -241,7 +241,7 @@
   "ticker": "NVDA",
   "direction": "CONDITIONAL_BUY",
   "price_at_call": "~$5.4T mkt cap, 18.7x forward earnings (stated)",
-  "thesis": "Guest Jose's forced pick in the NVDA-vs-AVGO debate; 60/40-65/35 split majority NVDA — broadest AI exposure (physical AI, neo-cloud revenue-share deals, agentic workloads) at a low multiple.",
+  "thesis": "Guest Jose's forced pick in the NVDA-vs-AVGO debate; 60/40-65/35 split majority NVDA \u2014 broadest AI exposure (physical AI, neo-cloud revenue-share deals, agentic workloads) at a low multiple.",
   "base_case": "Both hosts agree both names are cheap at ~19-20x forward with growth too low in consensus.",
   "bull_case": "Jensen guides at least 70% growth next year as the floor, ceiling near 100%.",
   "bear_case": "Customer-built custom ASICs; harder to double a $5.4T base than a $1.7T one.",
@@ -257,9 +257,9 @@
   "ticker": "AVGO",
   "direction": "CONDITIONAL_BUY",
   "price_at_call": "~$1.7T mkt cap, 20.5x forward earnings (stated)",
-  "thesis": "Host Neil's contrarian relative pick: expects Broadcom to outperform NVDA over the next 12 months on the recent price divergence — cheap at 20.5x forward with Hock Tan's AI-revenue visibility ($115B FY27, ~$230B FY28) given conservatively.",
+  "thesis": "Host Neil's contrarian relative pick: expects Broadcom to outperform NVDA over the next 12 months on the recent price divergence \u2014 cheap at 20.5x forward with Hock Tan's AI-revenue visibility ($115B FY27, ~$230B FY28) given conservatively.",
   "base_case": "Growth expected to peak ~93% then decelerate; margin recovery as all ASIC projects ramp.",
-  "bull_case": "All custom-ASIC projects online at full ramp simultaneously → margin expansion and upside to guidance.",
+  "bull_case": "All custom-ASIC projects online at full ramp simultaneously \u2192 margin expansion and upside to guidance.",
   "bear_case": "Anthropic/OpenAI concentration (>30% of 2-yr compute demand); hyperscalers building in-house or returning to NVDA.",
   "video_title": "NVIDIA vs. Broadcom: The Market Is Missing This",
   "published_at": "2026-09-25T18:58:18+00:00",
@@ -272,11 +272,11 @@
   "handle": "@TheGermanValueInvestor",
   "ticker": "NN",
   "direction": "HOLD",
-  "price_at_call": "~€80 (mkt cap €21B; normal-scenario fair value €84 stated)",
-  "thesis": "Leaning HOLD: fairly valued Dutch insurer, 5% dividend yield + €350M/yr buybacks, 224% solvency ratio buffer; he is up 86% on it (4.4% community-portfolio weight). Would buy under €65, sell over €86.",
-  "base_case": "Normal scenario: ~4% earnings growth → ~7.7%/yr return, fair value €84.",
-  "bull_case": "Positive scenario: €91 fair; special dividend/buyback upside from solvency buffer.",
-  "bear_case": "Negative scenario: 1% growth, PE 9.7 in 10y → fair €62; saturated insurance market, low ROE.",
+  "price_at_call": "~\u20ac80 (mkt cap \u20ac21B; normal-scenario fair value \u20ac84 stated)",
+  "thesis": "Leaning HOLD: fairly valued Dutch insurer, 5% dividend yield + \u20ac350M/yr buybacks, 224% solvency ratio buffer; he is up 86% on it (4.4% community-portfolio weight). Would buy under \u20ac65, sell over \u20ac86.",
+  "base_case": "Normal scenario: ~4% earnings growth \u2192 ~7.7%/yr return, fair value \u20ac84.",
+  "bull_case": "Positive scenario: \u20ac91 fair; special dividend/buyback upside from solvency buffer.",
+  "bear_case": "Negative scenario: 1% growth, PE 9.7 in 10y \u2192 fair \u20ac62; saturated insurance market, low ROE.",
   "video_title": "86% Gain on a Stock Almost Nobody Knows",
   "published_at": "2026-09-25T18:58:18+00:00",
   "analyzed_at": "2026-09-25T22:06:06.990084+00:00",
@@ -289,7 +289,7 @@
   "ticker": "MA",
   "direction": "HOLD",
   "price_at_call": "$559 (DCF $523 stated)",
-  "thesis": "Hall of Fame company at fair prices; prefers V today on better margins (67% vs 59%) and mild undervaluation — MA slightly overvalued at $559 vs $523 DCF.",
+  "thesis": "Hall of Fame company at fair prices; prefers V today on better margins (67% vs 59%) and mild undervaluation \u2014 MA slightly overvalued at $559 vs $523 DCF.",
   "base_case": "DCF fair value $523.",
   "bull_case": "Faster growth than Visa.",
   "bear_case": "Same disruption/regulatory risks as V, but priced at a premium.",
@@ -358,7 +358,7 @@
   "ticker": "ORCL",
   "direction": "BUY",
   "price_at_call": "~$139 (market at recording; his fair value $131)",
-  "thesis": "Still a buying opportunity on risk/reward — DCF fair value revised up to $131 with FCF estimates improved by large customer deposits — but LOW conviction given extreme leverage and OpenAI concentration.",
+  "thesis": "Still a buying opportunity on risk/reward \u2014 DCF fair value revised up to $131 with FCF estimates improved by large customer deposits \u2014 but LOW conviction given extreme leverage and OpenAI concentration.",
   "base_case": "Fair value $131 vs $139 market (~fairly valued on DCF; undervalued on forward PE 12.71).",
   "bull_case": "Cash flow turns positive in 2029 as new data centers come online; stock cheaper than in 2024 pre-growth-acceleration.",
   "bear_case": "FCF -$25B (2026), -$37B (2027), -$32.6B (2028); OpenAI (hundreds of billions contracted) wobble hits Oracle hardest of the hyperscalers.",
@@ -371,7 +371,7 @@
   "ticker": "TTD",
   "direction": "SELL",
   "price_at_call": "~$13 (sold at ~$13; cost ~$44 that tranche, ~$19-20 remaining 2/3)",
-  "thesis": "Sold 1/3 for tax-loss harvesting and is leaning toward selling the rest — revenue collapsed from 11.8% to 3% growth, Wall Street forecasts -12%/-18% declines ahead, and he keeps revising estimates lower each quarter.",
+  "thesis": "Sold 1/3 for tax-loss harvesting and is leaning toward selling the rest \u2014 revenue collapsed from 11.8% to 3% growth, Wall Street forecasts -12%/-18% declines ahead, and he keeps revising estimates lower each quarter.",
   "base_case": "Fair value $22 vs ~$13 looks undervalued, but the trend line is 'so awful' he expects to revise lower again; downgraded to low conviction (was medium).",
   "bull_case": "Forward PE ~12.5 prices in zero growth; digital ad market still grows double digits if Trade Desk just holds share.",
   "bear_case": "Amazon's 1-5% fees vs Trade Desk's 15-20% take rate; revenue not expected to grow again until Sep 2027 (+2.1%).",
@@ -383,8 +383,8 @@
   "handle": "@parkevtatevosiancfa9544",
   "ticker": "LLY",
   "direction": "BUY",
-  "price_at_call": "$1,151 (his fair value $1,494 — ~30% upside over 12-18 months)",
-  "thesis": "HIGH conviction buy — oral GLP-1 pill already >30% share of new starts, record 49.7% operating margins, best-in-class R&D engine; he bought this year and wants to add more.",
+  "price_at_call": "$1,151 (his fair value $1,494 \u2014 ~30% upside over 12-18 months)",
+  "thesis": "HIGH conviction buy \u2014 oral GLP-1 pill already >30% share of new starts, record 49.7% operating margins, best-in-class R&D engine; he bought this year and wants to add more.",
   "base_case": "Fair value $1,494 via FCF model; forward PE 24 near the 3-year low end.",
   "bull_case": "FCF estimates revised higher on faster oral-pill share gains; proven R&D engine keeps producing blockbusters.",
   "bear_case": "Weight-loss boom may last only a few more years; future growth depends on new treatments after GLP-1s.",
@@ -400,8 +400,8 @@
   "direction": "BUY",
   "flip": false,
   "price_at_call": "DCF fair value $843 vs ~$900 market (stated)",
-  "thesis": "Comparative pick over WMT — Costco more fairly valued; inventory turnover 15.1 vs Walmart 12, expansion runway (less than 1/10th Walmart's store count yet nearly half the revenue).",
-  "base_case": "DCF $843 vs market $900; consistent with his prior COST BUY — no flip.",
+  "thesis": "Comparative pick over WMT \u2014 Costco more fairly valued; inventory turnover 15.1 vs Walmart 12, expansion runway (less than 1/10th Walmart's store count yet nearly half the revenue).",
+  "base_case": "DCF $843 vs market $900; consistent with his prior COST BUY \u2014 no flip.",
   "bull_case": "Store expansion + e-commerce growth (nearly 2x overall revenue growth) reignites the premium multiple.",
   "bear_case": "Forward P/E 36.3 is still rich for a 3.8% margin retailer; any comp-sales miss de-rates it.",
   "analyzed_at": "2026-09-26T18:03:33.207240+00:00"
@@ -416,8 +416,8 @@
   "direction": "AVOID",
   "flip": false,
   "price_at_call": "DCF fair value $70 vs ~$110 market (stated)",
-  "thesis": "Loses the head-to-head vs Costco — DCF says ~36% overvalued despite excellent e-commerce execution.",
-  "base_case": "DCF fair value $70; consistent with his prior WMT AVOID — no flip.",
+  "thesis": "Loses the head-to-head vs Costco \u2014 DCF says ~36% overvalued despite excellent e-commerce execution.",
+  "base_case": "DCF fair value $70; consistent with his prior WMT AVOID \u2014 no flip.",
   "bull_case": "E-commerce scale and ad/marketplace mix could lift 4.4% margins structurally.",
   "bear_case": "Rich 34x forward P/E compresses on any growth wobble.",
   "analyzed_at": "2026-09-26T18:03:33.207240+00:00"
@@ -625,7 +625,7 @@
   "published_at": "2026-09-27T13:59:57+00:00",
   "analyzed_at": "2026-09-27T19:00:00+01:00",
   "stance_flip": null,
-  "video_title": "I LOVE These 3 Stocks — But I'm NOT Buying Yet"
+  "video_title": "I LOVE These 3 Stocks \u2014 But I'm NOT Buying Yet"
  },
  {
   "video_id": "QxqManKEg4U",
@@ -634,14 +634,14 @@
   "ticker": "CRWD",
   "direction": "CONDITIONAL_BUY",
   "price_at_call": "~$260 (avg analyst PT $234, ~10% below current; 186x forward PE, 40x sales)",
-  "thesis": "Loves the business (best quarter ever, ARR $5.8B +25%), NOT buying: 'absolutely expensive' — 40x sales needs everything to go perfect; would buy on a meaningful selloff if fundamentals intact.",
+  "thesis": "Loves the business (best quarter ever, ARR $5.8B +25%), NOT buying: 'absolutely expensive' \u2014 40x sales needs everything to go perfect; would buy on a meaningful selloff if fundamentals intact.",
   "base_case": "Base: 25% growth priced in; multiple compression risk.",
   "bull_case": "Bull: cybersecurity secular growth sustains premium.",
   "bear_case": "Bear: slight growth deceleration (25%->20%) triggers multiple compression.",
   "published_at": "2026-09-27T13:59:57+00:00",
   "analyzed_at": "2026-09-27T19:00:00+01:00",
   "stance_flip": null,
-  "video_title": "I LOVE These 3 Stocks — But I'm NOT Buying Yet"
+  "video_title": "I LOVE These 3 Stocks \u2014 But I'm NOT Buying Yet"
  },
  {
   "video_id": "QxqManKEg4U",
@@ -657,7 +657,7 @@
   "published_at": "2026-09-27T13:59:57+00:00",
   "analyzed_at": "2026-09-27T19:00:00+01:00",
   "stance_flip": null,
-  "video_title": "I LOVE These 3 Stocks — But I'm NOT Buying Yet"
+  "video_title": "I LOVE These 3 Stocks \u2014 But I'm NOT Buying Yet"
  },
  {
   "video_id": "0BDw9kwNh4Q",
@@ -835,7 +835,7 @@
   "ticker": "GOOGL",
   "direction": "HOLD",
   "price_at_call": "~$200k position, +$18k gains (his holding); 25 fwd PE (stated)",
-  "thesis": "Still a hold — AI-model-race concern (Gemini lagging ChatGPT/Claude) but valuation not stretched; patient since the race changes fast; would strongly consider trimming at 30 PE.",
+  "thesis": "Still a hold \u2014 AI-model-race concern (Gemini lagging ChatGPT/Claude) but valuation not stretched; patient since the race changes fast; would strongly consider trimming at 30 PE.",
   "base_case": "Search +17%, YouTube ~$1T value (ads +12%, subscriptions +17%), cloud +57% YoY with backlog above $500B (+374%), revenue growth est 23%.",
   "bull_case": null,
   "bear_case": "Search exposed to agents/assistants; analyst EPS est -27% next year (driven by one-off equity gains e.g. SpaceX; organic EPS still +5-6%).",
@@ -849,7 +849,7 @@
   "ticker": "META",
   "direction": "HOLD",
   "price_at_call": "23 fwd PE (stated; discount to GOOGL)",
-  "thesis": "Still undervalued and holding — Muse enterprise push (hired MongoDB CEO a day before investor day) opens a new revenue segment; market's -4% reaction misguided.",
+  "thesis": "Still undervalued and holding \u2014 Muse enterprise push (hired MongoDB CEO a day before investor day) opens a new revenue segment; market's -4% reaction misguided.",
   "base_case": null,
   "bull_case": "Meta Enterprise platform (Muse Agent, Business Agent, Muse API, Muse Code) builds direct enterprise revenue on white-space area.",
   "bear_case": "Abrupt CEO loss for MongoDB (-17%/-25% reaction) shows talent-poaching friction; enterprise push unproven.",
@@ -863,7 +863,7 @@
   "ticker": "MA",
   "direction": "HOLD",
   "price_at_call": "$190k position, +$42k (his holding)",
-  "thesis": "Not touching it — above-50% profit margins deserve a high-20s multiple; growing in every region; agentic commerce makes Visa/Mastercard more valuable, not less.",
+  "thesis": "Not touching it \u2014 above-50% profit margins deserve a high-20s multiple; growing in every region; agentic commerce makes Visa/Mastercard more valuable, not less.",
   "base_case": null,
   "bull_case": "Above-inflation revenue growth in every territory (Europe 14%, LatAm/Caribbean 20%); agentic commerce tailwind.",
   "bear_case": null,
@@ -877,7 +877,7 @@
   "ticker": "AMZN",
   "direction": "HOLD",
   "price_at_call": "12% position, $180k, +$55k (his holding); 26 PE (stated)",
-  "thesis": "Not overvalued; powerful diversified company, low risk; well prepared for agentic commerce — Amazon will build its own agentic shopper and aggregation fears are overexaggerated.",
+  "thesis": "Not overvalued; powerful diversified company, low risk; well prepared for agentic commerce \u2014 Amazon will build its own agentic shopper and aggregation fears are overexaggerated.",
   "base_case": "+50% 5y (vs S&P +70%), +495% 10y; logistics network and trusted-seller experience hard to displace.",
   "bull_case": null,
   "bear_case": null,
@@ -891,7 +891,7 @@
   "ticker": "ASML",
   "direction": "HOLD",
   "price_at_call": "$126k position, +$93k gains (his holding)",
-  "thesis": "Continuing to hold despite higher valuation — China sales mix fell from ~50% to ~14%, derisking; install-base management is reliable recurring revenue.",
+  "thesis": "Continuing to hold despite higher valuation \u2014 China sales mix fell from ~50% to ~14%, derisking; install-base management is reliable recurring revenue.",
   "base_case": null,
   "bull_case": null,
   "bear_case": null,
@@ -905,7 +905,7 @@
   "ticker": "SPGI",
   "direction": "BUY",
   "price_at_call": "21 fwd PE (stated)",
-  "thesis": "A buy today — down big on AI 'data apocalypse' fears he calls short-sighted; low valuation gives downside protection; debt issuance is cyclical and must renew.",
+  "thesis": "A buy today \u2014 down big on AI 'data apocalypse' fears he calls short-sighted; low valuation gives downside protection; debt issuance is cyclical and must renew.",
   "base_case": null,
   "bull_case": "ETF-linked AUM $3T-> $6T; strong economics at a low multiple.",
   "bear_case": "Stock can always go lower; rising rates temporarily slow debt issuance.",
@@ -919,7 +919,7 @@
   "ticker": "NFLX",
   "direction": "HOLD",
   "price_at_call": "22 trailing PE (was 50 in Sep 2025)",
-  "thesis": "Most undervalued in his portfolio (or close) — bear narratives false: engagement +2% YoY, season-2 viewing improving, revenue +16%, 325M subs, content spend growing slower than revenue (operating leverage).",
+  "thesis": "Most undervalued in his portfolio (or close) \u2014 bear narratives false: engagement +2% YoY, season-2 viewing improving, revenue +16%, 325M subs, content spend growing slower than revenue (operating leverage).",
   "base_case": null,
   "bull_case": null,
   "bear_case": null,
@@ -933,7 +933,7 @@
   "ticker": "COST",
   "direction": "HOLD",
   "price_at_call": "High valuation (stated); stock down a little",
-  "thesis": "Not doing anything with it and doesn't plan to — fundamentally great, just hangs out here.",
+  "thesis": "Not doing anything with it and doesn't plan to \u2014 fundamentally great, just hangs out here.",
   "base_case": null,
   "bull_case": null,
   "bear_case": null,
@@ -947,7 +947,7 @@
   "ticker": "TXRH",
   "direction": "BUY",
   "price_at_call": "-21% in the past month (stated)",
-  "thesis": "A buy today — selloff on temporary beef-inflation EPS hit (-5% EPS, -16% net income) while revenue, restaurant count, weekly sales, same-store sales and to-go all grow; management plays the long game on pricing.",
+  "thesis": "A buy today \u2014 selloff on temporary beef-inflation EPS hit (-5% EPS, -16% net income) while revenue, restaurant count, weekly sales, same-store sales and to-go all grow; management plays the long game on pricing.",
   "base_case": null,
   "bull_case": "When beef prices fall, net income rebounds sharply; customer trust preserved via stable pricing.",
   "bear_case": null,
@@ -961,7 +961,7 @@
   "ticker": "UBER",
   "direction": "BUY",
   "price_at_call": "$68 (stated); 17 fwd PE (stated)",
-  "thesis": "Way undervalued — robotaxi/CyberCab/Waymo competition fears more than priced in; hybrid human+robotaxi model wins (one app, guaranteed driver).",
+  "thesis": "Way undervalued \u2014 robotaxi/CyberCab/Waymo competition fears more than priced in; hybrid human+robotaxi model wins (one app, guaranteed driver).",
   "base_case": null,
   "bull_case": null,
   "bear_case": "First real competition; could trade at undervaluation for a long time.",
@@ -975,7 +975,7 @@
   "ticker": "DASH",
   "direction": "BUY",
   "price_at_call": "~$22k position, slightly green (his holding)",
-  "thesis": "Continuing to hold — contribution margin rising, 35M members, monthly active users and total orders climbing; NYC regulation noise.",
+  "thesis": "Continuing to hold \u2014 contribution margin rising, 35M members, monthly active users and total orders climbing; NYC regulation noise.",
   "base_case": null,
   "bull_case": null,
   "bear_case": "New York City regulation passed against them and similar regulatory risk.",
@@ -989,7 +989,7 @@
   "ticker": "MRVL",
   "direction": "BUY",
   "price_at_call": null,
-  "thesis": "Top of Luke Lango's shopping list; AI safety push shifts compute focus from pre-training (GPUs) to inferencing, where networking and custom silicon are the buildout bottlenecks — both Marvell strengths; chart rebounding above the 200-day MA.",
+  "thesis": "Top of Luke Lango's shopping list; AI safety push shifts compute focus from pre-training (GPUs) to inferencing, where networking and custom silicon are the buildout bottlenecks \u2014 both Marvell strengths; chart rebounding above the 200-day MA.",
   "base_case": null,
   "bull_case": "Safety vertical adds more networking/custom-silicon demand to the data-center buildout.",
   "bear_case": null,
@@ -1003,7 +1003,7 @@
   "ticker": "ARM",
   "direction": "BUY",
   "price_at_call": null,
-  "thesis": "Highest-torque CPU play; launching its first AI CPU just as inferencing makes the CPU the orchestration layer — pulled back off highs, basing, 'could double or triple from here'.",
+  "thesis": "Highest-torque CPU play; launching its first AI CPU just as inferencing makes the CPU the orchestration layer \u2014 pulled back off highs, basing, 'could double or triple from here'.",
   "base_case": null,
   "bull_case": "CPU resurgence servicing AI models; own AI CPU launch into rising CPU demand.",
   "bear_case": null,
@@ -1215,7 +1215,7 @@
   "ticker": "AMD",
   "direction": "CONDITIONAL_BUY",
   "price_at_call": null,
-  "thesis": "Chaikin: still bullish on AMD (second AI chip source, government supercomputer buildout), but don't chase new highs — buy a 5-8% pullback; his free rec 5-6 weeks ago is +30%.",
+  "thesis": "Chaikin: still bullish on AMD (second AI chip source, government supercomputer buildout), but don't chase new highs \u2014 buy a 5-8% pullback; his free rec 5-6 weeks ago is +30%.",
   "base_case": "Buy pullbacks of 5-8%; won't pay new-high prices.",
   "bull_case": null,
   "bear_case": null,
@@ -1228,7 +1228,7 @@
   "handle": "@parkevtatevosiancfa9544",
   "video_id": "FNScYFbF-p8",
   "price_at_call": 230,
-  "thesis": "Ranks Nvidia the best stock to buy in October 2026; owns it (one of largest positions), preparing to buy more. DCF fair value $344 vs $230 (~50% upside 12-18mo). Forward PE 14.66 vs S&P 500 ~25. Bull: $150B add'l buyback ($235B total), full-stack AI factory moat, supplier leverage (TSMC etc.), Vera Rubin 30x tokens/MW, CPU growth doubling, resale values holding. Bear: AI data-center bubble fears, circular financing, AMD/ASIC competition — but risks already priced in, no investor complacency.",
+  "thesis": "Ranks Nvidia the best stock to buy in October 2026; owns it (one of largest positions), preparing to buy more. DCF fair value $344 vs $230 (~50% upside 12-18mo). Forward PE 14.66 vs S&P 500 ~25. Bull: $150B add'l buyback ($235B total), full-stack AI factory moat, supplier leverage (TSMC etc.), Vera Rubin 30x tokens/MW, CPU growth doubling, resale values holding. Bear: AI data-center bubble fears, circular financing, AMD/ASIC competition \u2014 but risks already priced in, no investor complacency.",
   "base_case": "Fair value $344, ~50% upside 12-18 months.",
   "bull_case": "Hundreds of billions in FCF over 5-10 years; share count shrinks so price can rise without market-cap expansion.",
   "bear_case": "AI capex bubble bursts; OpenAI/Anthropic unsustainable; competition from AMD, Intel, hyperscaler ASICs.",
@@ -1241,7 +1241,7 @@
   "handle": "@parkevtatevosiancfa9544",
   "video_id": "FupOpO06BWE",
   "price_at_call": 55,
-  "thesis": "Still ranked a buying opportunity but conviction CUT to LOW (from medium; was high). DCF fair value $77 vs $55 (~40% upside 12-18mo), forward PE 9.6 — priced as if growth is over. 400M+ accounts, strong FCF, acquisition-target appeal. He SOLD his own PYPL position earlier this year at a loss ($68 avg cost, sold ~$50-55) after third management team in 5 years failed to fix share loss. Growing risk this is a value trap, not a value stock.",
+  "thesis": "Still ranked a buying opportunity but conviction CUT to LOW (from medium; was high). DCF fair value $77 vs $55 (~40% upside 12-18mo), forward PE 9.6 \u2014 priced as if growth is over. 400M+ accounts, strong FCF, acquisition-target appeal. He SOLD his own PYPL position earlier this year at a loss ($68 avg cost, sold ~$50-55) after third management team in 5 years failed to fix share loss. Growing risk this is a value trap, not a value stock.",
   "base_case": "Fair value $77, ~40% upside 12-18 months, possibly sooner via acquisition.",
   "bull_case": "Acquired at a premium by a suitor kicking the tires.",
   "bear_case": "Value trap: third management team can't re-accelerate growth; competition erodes checkout share.",
@@ -1267,7 +1267,7 @@
   "handle": "@parkevtatevosiancfa9544",
   "video_id": "XSaK_QtIk_w",
   "price_at_call": 28,
-  "thesis": "Buying opportunity, MEDIUM conviction. Down ~50% in a year on SKU cuts, Rockstar/Alani indigestion, macro headwinds. Forward PE 16.4 — premium to PepsiCo gone (PEP 14x, KO 25x). Revenue $300M (2022) → $3B+; cash-flow positive, double-digit CFO/sales. DCF fair value >$43 vs ~$28 (>52% upside 12-18mo) even after lowering cash-flow estimates and raising risk. Bear: ROIC volatile since acquisitions; margin expansion slower than hoped.",
+  "thesis": "Buying opportunity, MEDIUM conviction. Down ~50% in a year on SKU cuts, Rockstar/Alani indigestion, macro headwinds. Forward PE 16.4 \u2014 premium to PepsiCo gone (PEP 14x, KO 25x). Revenue $300M (2022) \u2192 $3B+; cash-flow positive, double-digit CFO/sales. DCF fair value >$43 vs ~$28 (>52% upside 12-18mo) even after lowering cash-flow estimates and raising risk. Bear: ROIC volatile since acquisitions; margin expansion slower than hoped.",
   "base_case": "Fair value >$43, >52% upside 12-18 months, beating S&P 500.",
   "bull_case": "Core brand recovers, international expansion + Alani scale margins back to low-50% gross.",
   "bear_case": "Acquisition indigestion persists; energy-drink growth stalls; ROIC keeps deteriorating.",
@@ -1295,7 +1295,7 @@
   "ticker": "MU",
   "direction": "HOLD",
   "price_at_call": "n/a (holding; post-earnings Sep 30)",
-  "thesis": "Beats across the board but stock flat; owns position, no plans to add — may reallocate to AVGO/NVDA if the 7.2x forward multiple stays 'disrespected'.",
+  "thesis": "Beats across the board but stock flat; owns position, no plans to add \u2014 may reallocate to AVGO/NVDA if the 7.2x forward multiple stays 'disrespected'.",
   "base_case": "Base: FY27 record revenue, Q1 margin floor at 86.25%, then improving; 26 SCAs de-risk cyclicality.",
   "bull_case": "Bull: rerating toward a 'normal' multiple + large buyback authorization (allowed from Dec 9).",
   "bear_case": "Bear: 2027-28 peak narrative wins; DRAM pricing turns and margins mean-revert.",
@@ -1311,7 +1311,7 @@
   "ticker": "AVGO",
   "direction": "BUY",
   "price_at_call": "n/a (restating BUY; initiated position last week)",
-  "thesis": "Still views Broadcom as undervalued; wants to grow the position — AI revenue visibility to double to $115B and double again.",
+  "thesis": "Still views Broadcom as undervalued; wants to grow the position \u2014 AI revenue visibility to double to $115B and double again.",
   "base_case": "Base: AI revenue doubles next year on steady hyperscaler demand.",
   "bull_case": "Bull: $115B AI revenue, then doubles again to $230B; multiple rerating.",
   "bear_case": "Bear: OpenAI/Anthropic ARR flatness undercuts the AI capex commitments feeding Broadcom.",
@@ -1359,7 +1359,7 @@
   "ticker": "ORA",
   "direction": "BUY",
   "price_at_call": "n/a (guest pick)",
-  "thesis": "Enhanced geothermal veteran moving into new EGS tech — always-on, near-zero marginal cost, no emissions.",
+  "thesis": "Enhanced geothermal veteran moving into new EGS tech \u2014 always-on, near-zero marginal cost, no emissions.",
   "base_case": "Base: existing geothermal assets fund EGS development.",
   "bull_case": "Bull: EGS breaks through; geothermal becomes a core AI-power stack.",
   "bear_case": "Bear: EGS closed-loop engineering fails to hold water; revenues pushed right again.",
@@ -1375,9 +1375,9 @@
   "ticker": "FVO",
   "direction": "BUY",
   "price_at_call": "n/a (guest pick; trading below IPO price)",
-  "thesis": "Pure-play EGS with Google contract for 2.4GW Cape Station; below IPO price — guest's 'most interesting speculation'.",
+  "thesis": "Pure-play EGS with Google contract for 2.4GW Cape Station; below IPO price \u2014 guest's 'most interesting speculation'.",
   "base_case": "Base: Cape Station proves closed-loop EGS within 2 years.",
-  "bull_case": "Bull: EGS works at scale — 'worth a multiple of today's price'.",
+  "bull_case": "Bull: EGS works at scale \u2014 'worth a multiple of today's price'.",
   "bear_case": "Bear: engineering problem (water retention) unsolved; sell trigger on revenue misses tied to leaks.",
   "published_at": "2026-09-30T22:55:15.965630+00:00",
   "analyzed_at": "2026-10-01T05:57:02.043190+00:00",
@@ -1391,7 +1391,7 @@
   "ticker": "CRWV",
   "direction": "AVOID",
   "price_at_call": "n/a (guest call)",
-  "thesis": "Guest sees no future for neoclouds: compute pricing already declining; capex earns no return — 'strong support at zero'.",
+  "thesis": "Guest sees no future for neoclouds: compute pricing already declining; capex earns no return \u2014 'strong support at zero'.",
   "base_case": null,
   "bull_case": null,
   "bear_case": "Bear (his): 150x supply growth collapses pricing like the bandwidth bubble; returns go negative.",
@@ -1501,7 +1501,7 @@
   "handle": "@marketbeatmedia",
   "ticker": "FCNCA",
   "direction": "BUY",
-  "price_at_call": "under $2,150–$2,200 (guest entry guide; ~$2,000 reference)",
+  "price_at_call": "under $2,150\u2013$2,200 (guest entry guide; ~$2,000 reference)",
   "thesis": "Deregulation beneficiary: nimble acquirer (20 deals incl. SVB clean-up) set to grow by M&A plus organic C&I lending as Bowman-led Fed eases exams/capital; uniform ROE above GAAP.",
   "base_case": "High double-digit % opportunity on deregulation-led loan growth; 3:1 upside/downside margin of safety.",
   "bull_case": "More bank M&A allowed + lower capital requirements let FCNCA keep compounding via acquisitions.",
@@ -1534,14 +1534,14 @@
   "ticker": "MU",
   "direction": "CONDITIONAL_BUY",
   "price_at_call": "buyer on pullback to ~$950/share (stated); no current-price buy",
-  "thesis": "Earnings crushed (revenue/EPS/guide beats, HBM sold forward, supply seen tighter in 2027-28) and thesis is stronger, but stock already ran and prices in the story — enter on a pullback, not at any price.",
+  "thesis": "Earnings crushed (revenue/EPS/guide beats, HBM sold forward, supply seen tighter in 2027-28) and thesis is stronger, but stock already ran and prices in the story \u2014 enter on a pullback, not at any price.",
   "base_case": "AI memory demand + tight supply keep pricing/margins elevated near term; management guides next quarter higher again.",
   "bull_case": "AI demand outgrows new supply (HBM/custom NV-HBM integration), so the cycle lasts far longer than prior memory cycles.",
   "bear_case": "Memory stays cyclical: new fabs/supply catch up, margins normalize, and a low forward PE proves to be peak earnings.",
   "published_at": "2026-10-01T17:50:56.781021+00:00",
   "analyzed_at": "2026-10-02T10:16:22.954782+00:00",
   "stance_flip": null,
-  "video_title": "Micron Just CRUSHED Earnings — Is MU Stock a BUY?"
+  "video_title": "Micron Just CRUSHED Earnings \u2014 Is MU Stock a BUY?"
  },
  {
   "video_id": "DFQjG012fRk",
@@ -1582,7 +1582,7 @@
   "ticker": "NFLX",
   "direction": "HOLD",
   "price_at_call": null,
-  "thesis": "Still holding: calls Netflix the most undervalued name in his portfolio on DCF; defends growth quality (territories +10%, trailing +16%) and says the Sarandos 'not growing as fast' headline misleads — live trades hours for signups/retention.",
+  "thesis": "Still holding: calls Netflix the most undervalued name in his portfolio on DCF; defends growth quality (territories +10%, trailing +16%) and says the Sarandos 'not growing as fast' headline misleads \u2014 live trades hours for signups/retention.",
   "base_case": null,
   "bull_case": null,
   "bear_case": null,
@@ -1784,7 +1784,8 @@
   "bear_case": "~$200B capex this year depresses FCF near-term; \"might not be the next 5x or 10x from here\".",
   "analyzed_at": "2026-10-03T20:34:20.008271+00:00",
   "collab": true,
-  "collab_byline": "The Motley Fool and Couch Investor"
+  "collab_byline": "The Motley Fool and Couch Investor",
+  "published_at": "2026-09-28T15:00:07+00:00"
  },
  {
   "video_id": "swW1xxJhyFE",
@@ -1799,7 +1800,8 @@
   "bear_case": "Mag-7 concentration; AI capex cycle pressures margins.",
   "analyzed_at": "2026-10-03T20:34:20.008271+00:00",
   "collab": true,
-  "collab_byline": "The Motley Fool and Couch Investor"
+  "collab_byline": "The Motley Fool and Couch Investor",
+  "published_at": "2026-09-28T15:00:07+00:00"
  },
  {
   "video_id": "GbasWBGRXEw",
@@ -1814,7 +1816,8 @@
   "base": "Analysts underestimating Vera Rubin ramp; ~$240B expected FCF over next 4 quarters.",
   "bull": "Multiple re-rating as hyperscaler orders land; operating profit seen 3x by fiscal 29.",
   "bear": "Hyperscaler custom silicon (Broadcom/Marvell); power bottlenecks; AI demand slowdown.",
-  "collab_byline": "Jose Najarro Stocks and Couch Investor"
+  "collab_byline": "Jose Najarro Stocks and Couch Investor",
+  "published_at": "2026-09-24T13:17:41+00:00"
  },
  {
   "video_id": "GbasWBGRXEw",
@@ -1829,7 +1832,8 @@
   "base": "MI400 ramp and partnerships drive accelerating growth.",
   "bull": "Beats expectations; path to $20-25 EPS by ~2028.",
   "bear": "Forward PE ~55; Helios execution/sentiment risk; supply-chain constraints.",
-  "collab_byline": "Jose Najarro Stocks and Couch Investor"
+  "collab_byline": "Jose Najarro Stocks and Couch Investor",
+  "published_at": "2026-09-24T13:17:41+00:00"
  },
  {
   "video_id": "FXDiB6n-5RU",
@@ -1844,7 +1848,8 @@
   "base": "Wall Street estimates conservative; semis still catching up to demand.",
   "bull": "~$400B FCF by fiscal 28 on supply-constrained growth.",
   "bear": "AI-capex slowdown fears; circular-financing criticism.",
-  "collab_byline": "Future Investing and Couch Investor"
+  "collab_byline": "Future Investing and Couch Investor",
+  "published_at": "2026-09-16T01:35:30+00:00"
  },
  {
   "video_id": "FXDiB6n-5RU",
@@ -1859,7 +1864,8 @@
   "base": "Meta/OpenAI/Google custom-ASIC customers.",
   "bull": "JPMorgan: ASIC volumes could pass GPU volumes from 2027.",
   "bear": "Revenue concentration in a few hyperscalers.",
-  "collab_byline": "Future Investing and Couch Investor"
+  "collab_byline": "Future Investing and Couch Investor",
+  "published_at": "2026-09-16T01:35:30+00:00"
  },
  {
   "video_id": "FXDiB6n-5RU",
@@ -1874,7 +1880,8 @@
   "base": "Memory bottleneck persists; huge FCF generation.",
   "bull": "Could buy back 40% of shares by 2028; aggressive price increases ahead.",
   "bear": "Margin-peak risk; customers optimizing memory use; new supply.",
-  "collab_byline": "Future Investing and Couch Investor"
+  "collab_byline": "Future Investing and Couch Investor",
+  "published_at": "2026-09-16T01:35:30+00:00"
  },
  {
   "video_id": "FXDiB6n-5RU",
@@ -1889,7 +1896,8 @@
   "base": "3B+ users; profitable core funds AI bets.",
   "bull": "AI ad targeting + distribution for new products.",
   "bear": "Scattershot spending; FCF could go to zero/negative this year.",
-  "collab_byline": "Future Investing and Couch Investor"
+  "collab_byline": "Future Investing and Couch Investor",
+  "published_at": "2026-09-16T01:35:30+00:00"
  },
  {
   "video_id": "FXDiB6n-5RU",
@@ -1904,7 +1912,8 @@
   "base": "Bank license; cross-sell; fee-based loan platform.",
   "bull": "Fintech rerating when rate sentiment flips.",
   "bear": "Rate-environment overhang; stock doesn't move.",
-  "collab_byline": "Future Investing and Couch Investor"
+  "collab_byline": "Future Investing and Couch Investor",
+  "published_at": "2026-09-16T01:35:30+00:00"
  },
  {
   "video_id": "FXDiB6n-5RU",
@@ -1919,7 +1928,8 @@
   "base": "$1B buyback authorization; US entry.",
   "bull": "Buyback grows to $2-4B as it stays cheap.",
   "bear": "Flat stock price; opportunity cost.",
-  "collab_byline": "Future Investing and Couch Investor"
+  "collab_byline": "Future Investing and Couch Investor",
+  "published_at": "2026-09-16T01:35:30+00:00"
  },
  {
   "video_id": "FXDiB6n-5RU",
@@ -1932,7 +1942,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Huge debt pile.",
-  "collab_byline": "Future Investing and Couch Investor"
+  "collab_byline": "Future Investing and Couch Investor",
+  "published_at": "2026-09-16T01:35:30+00:00"
  },
  {
   "video_id": "FXDiB6n-5RU",
@@ -1944,7 +1955,8 @@
   "thesis": "Overreaction to $1B 0% convertible; building a small position.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Future Investing and Couch Investor"
+  "collab_byline": "Future Investing and Couch Investor",
+  "published_at": "2026-09-16T01:35:30+00:00"
  },
  {
   "video_id": "FXDiB6n-5RU",
@@ -1956,7 +1968,8 @@
   "thesis": "Still okay buying Google; not the end of the company.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Future Investing and Couch Investor"
+  "collab_byline": "Future Investing and Couch Investor",
+  "published_at": "2026-09-16T01:35:30+00:00"
  },
  {
   "video_id": "FXDiB6n-5RU",
@@ -1968,7 +1981,8 @@
   "thesis": "Holds a position; partnered with Nu on a global product; no explicit stance.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Future Investing and Couch Investor"
+  "collab_byline": "Future Investing and Couch Investor",
+  "published_at": "2026-09-16T01:35:30+00:00"
  },
  {
   "video_id": "FXDiB6n-5RU",
@@ -1980,7 +1994,8 @@
   "thesis": "Owns; constructive on AI compute demand and Nvidia/Palantir ties; no explicit buy/sell.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Future Investing and Couch Investor"
+  "collab_byline": "Future Investing and Couch Investor",
+  "published_at": "2026-09-16T01:35:30+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -1995,7 +2010,8 @@
   "base": "Revenue and profitability accelerating; monetization still early.",
   "bull": "SoFi Plus subscription, cross-sell, tech-platform leverage.",
   "bear": "Credit-book risk in a downturn.",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -2010,7 +2026,8 @@
   "base": "Search/ads/Cloud/TPU/YouTube all firing.",
   "bull": "Wins consumer AI via distribution; YouTube video-data moat.",
   "bear": "LLM disruption fear (largely debunked by data).",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -2025,7 +2042,8 @@
   "base": "Margins expanding; ARPU well below Meta's.",
   "bull": "Ongoing licensing deals as LLMs need fresh human data.",
   "bear": "High-value users may bypass Reddit for LLMs directly.",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -2040,7 +2058,8 @@
   "base": "Core ads firing; FCF inflects when spending slows.",
   "bull": "AI ad targeting + 3.5B-user distribution.",
   "bear": "Scattershot spending; management headlines.",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -2055,7 +2074,8 @@
   "base": "Trips growing; delivery growing faster; ~$2B ads business.",
   "bull": "Aggregates 10+ AV players into one app.",
   "bear": "Waymo/Tesla dominate AVs; regulatory shocks.",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -2070,7 +2090,8 @@
   "base": "Asset-light; LLM-agnostic enterprise AI layer.",
   "bull": "Top enterprise/government AI winner.",
   "bear": "Premium valuation; PEG ~1 only on 2-yr growth.",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -2085,7 +2106,8 @@
   "base": "Dominates LatAm e-commerce/logistics/fintech; great management.",
   "bull": "First trillion-dollar Latin American company over time.",
   "bear": "Credit portfolio growing fast; LatAm political risk.",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -2100,7 +2122,8 @@
   "base": "CPU + data-center demand accelerating.",
   "bull": "MI400 ramp beats; partnerships convert to tens of billions.",
   "bear": "Capex-growth slowdown crushes multiples.",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -2115,7 +2138,8 @@
   "base": "Could be a $100B AI hyperscaler; software layer differentiates.",
   "bull": "Token/inference economics drive sustained demand.",
   "bear": "Overcapacity; circular financing with Nvidia.",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -2130,7 +2154,8 @@
   "base": "Sentiment-driven derating, not fundamentals.",
   "bull": "Cash pile lets it acquire AI startups in a downturn.",
   "bear": "Figma/Gemini attack niches; management turnover.",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -2145,7 +2170,8 @@
   "base": "Demand still strong; cycle has further to run.",
   "bull": "Memory bottleneck persists; huge FCF.",
   "bear": "Margin peak within 12 months; customers optimize memory use; 'high risk now'.",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "D-P5ryvcIAA",
@@ -2158,7 +2184,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Management trust broken.",
-  "collab_byline": "Investing Moats with Varun and Couch Investor"
+  "collab_byline": "Investing Moats with Varun and Couch Investor",
+  "published_at": "2026-07-01T14:30:34+00:00"
  },
  {
   "video_id": "pDsQs_qPELs",
@@ -2173,7 +2200,8 @@
   "base": "Higher yield than most dividend ETFs plus faster dividend growth.",
   "bull": "Defensive sectors cushion tech drawdowns while paying income.",
   "bear": "Lags in tech-led bull markets.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+  "published_at": "2026-04-15T15:45:00+00:00"
  },
  {
   "video_id": "pDsQs_qPELs",
@@ -2188,7 +2216,8 @@
   "base": "New SCHD addition after selloff.",
   "bull": "Valuation rerating as sentiment normalizes.",
   "bear": "Still carries plenty of risk.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+  "published_at": "2026-04-15T15:45:00+00:00"
  },
  {
   "video_id": "pDsQs_qPELs",
@@ -2200,7 +2229,8 @@
   "thesis": "Liked new SCHD addition; left behind by tech/chip peers; may give SCHD 'some life'.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+  "published_at": "2026-04-15T15:45:00+00:00"
  },
  {
   "video_id": "pDsQs_qPELs",
@@ -2213,7 +2243,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Price outran the yield; removed from SCHD.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+  "published_at": "2026-04-15T15:45:00+00:00"
  },
  {
   "video_id": "pDsQs_qPELs",
@@ -2226,7 +2257,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Lower yield than SCHD.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+  "published_at": "2026-04-15T15:45:00+00:00"
  },
  {
   "video_id": "pDsQs_qPELs",
@@ -2239,7 +2271,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Lower yield than SCHD.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+  "published_at": "2026-04-15T15:45:00+00:00"
  },
  {
   "video_id": "pDsQs_qPELs",
@@ -2253,7 +2286,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "No 20-year period with a negative return.",
   "bear": "34% tech concentration.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+  "published_at": "2026-04-15T15:45:00+00:00"
  },
  {
   "video_id": "pDsQs_qPELs",
@@ -2265,7 +2299,8 @@
   "thesis": "Mentioned only as a past SCHD removal he disliked; no current stance.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+  "published_at": "2026-04-15T15:45:00+00:00"
  },
  {
   "video_id": "pDsQs_qPELs",
@@ -2277,7 +2312,8 @@
   "thesis": "Removed from SCHD; no stance given.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+  "published_at": "2026-04-15T15:45:00+00:00"
  },
  {
   "video_id": "pDsQs_qPELs",
@@ -2289,7 +2325,8 @@
   "thesis": "Holds it; described as 'highly speculative'; no stance stated.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+  "published_at": "2026-04-15T15:45:00+00:00"
  },
  {
   "video_id": "pDsQs_qPELs",
@@ -2301,7 +2338,8 @@
   "thesis": "Holds a volatile position; no explicit stance stated.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+  "published_at": "2026-04-15T15:45:00+00:00"
  },
  {
   "video_id": "DQoFZ_AMKi0",
@@ -2315,7 +2353,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "No negative 20-year period in history.",
   "bear": "Tech concentration (~38%).",
-  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA"
+  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA",
+  "published_at": "2026-04-04T15:00:15+00:00"
  },
  {
   "video_id": "DQoFZ_AMKi0",
@@ -2330,7 +2369,8 @@
   "base": "3.5% yield; ~10% 5-yr dividend growth; quality screener.",
   "bull": "Holds up the portfolio when growth sells off.",
   "bear": "Lags tech-led rallies.",
-  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA"
+  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA",
+  "published_at": "2026-04-04T15:00:15+00:00"
  },
  {
   "video_id": "DQoFZ_AMKi0",
@@ -2345,7 +2385,8 @@
   "base": "~12%/yr spend growth; AI expands the attack surface.",
   "bull": "Could rival AI in scale.",
   "bear": "Down 4% over the last year on AI worries.",
-  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA"
+  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA",
+  "published_at": "2026-04-04T15:00:15+00:00"
  },
  {
   "video_id": "DQoFZ_AMKi0",
@@ -2359,7 +2400,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "$2.4T AI market by 2032 (~30%/yr growth).",
   "bear": "Not all 84 names are pure AI plays; will lag individual winners like Nvidia.",
-  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA"
+  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA",
+  "published_at": "2026-04-04T15:00:15+00:00"
  },
  {
   "video_id": "DQoFZ_AMKi0",
@@ -2374,7 +2416,8 @@
   "base": "656 quality-screened holdings; 0.06% expense ratio.",
   "bull": "Small-cap rerating when the environment turns.",
   "bear": "High rates and tariffs weigh on small caps.",
-  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA"
+  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA",
+  "published_at": "2026-04-04T15:00:15+00:00"
  },
  {
   "video_id": "DQoFZ_AMKi0",
@@ -2386,7 +2429,8 @@
   "thesis": "'A stock that I love a lot' - passing mention inside the AIQ discussion; no explicit call.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA"
+  "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA",
+  "published_at": "2026-04-04T15:00:15+00:00"
  },
  {
   "video_id": "i2p1PcQWsqw",
@@ -2401,7 +2445,8 @@
   "base": "AWS + ads + AI chips; margins at all-time highs.",
   "bull": "'Wish I invested more' in a year or two.",
   "bear": "Capex scrutiny; stock lagging MAG7 peers.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+  "published_at": "2026-02-25T16:45:00+00:00"
  },
  {
   "video_id": "i2p1PcQWsqw",
@@ -2416,7 +2461,8 @@
   "base": "Search/YouTube/ads/cloud/Waymo diversification.",
   "bull": "Gemini overtakes ChatGPT; Waymo spin-off adds 20-25%.",
   "bear": "Capex concerns; slight Q4 revenue slowdown.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+  "published_at": "2026-02-25T16:45:00+00:00"
  },
  {
   "video_id": "i2p1PcQWsqw",
@@ -2431,7 +2477,8 @@
   "base": "59% operating margin vs AMD's 10%; AI capex flowing to Nvidia.",
   "bull": "Robotics/EV optionality behind the scenes.",
   "bear": "'Up 1,000%+ in 5 years, how much higher?' sentiment.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+  "published_at": "2026-02-25T16:45:00+00:00"
  },
  {
   "video_id": "i2p1PcQWsqw",
@@ -2445,7 +2492,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bull": "Revaluation like MU/SNDK saw.",
   "bear": "Stiff competition from Broadcom/Nvidia; traded sideways 5 years.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+  "published_at": "2026-02-25T16:45:00+00:00"
  },
  {
   "video_id": "i2p1PcQWsqw",
@@ -2457,7 +2505,8 @@
   "thesis": "Liked industrial watchlist name; not drafted; no stance.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+  "published_at": "2026-02-25T16:45:00+00:00"
  },
  {
   "video_id": "i2p1PcQWsqw",
@@ -2469,7 +2518,8 @@
   "thesis": "Liked financials name; not drafted; no stance.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+  "published_at": "2026-02-25T16:45:00+00:00"
  },
  {
   "video_id": "i2p1PcQWsqw",
@@ -2481,7 +2531,8 @@
   "thesis": "'Starting to look very intriguing'; not drafted; no stance.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+  "published_at": "2026-02-25T16:45:00+00:00"
  },
  {
   "video_id": "i3NittyekA4",
@@ -2494,7 +2545,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "Revenue +254% in 2 years (+114% last year), still accelerating.",
-  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian"
+  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+  "published_at": "2026-06-20T13:00:08+00:00"
  },
  {
   "video_id": "i3NittyekA4",
@@ -2507,7 +2559,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "Revenue +92%; software growth from VMware continues.",
-  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian"
+  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+  "published_at": "2026-06-20T13:00:08+00:00"
  },
  {
   "video_id": "i3NittyekA4",
@@ -2519,7 +2572,8 @@
   "thesis": "Picks-and-shovels data-center cooling; ~23% global share (2x nearest rival), backlog +77% YoY.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian"
+  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+  "published_at": "2026-06-20T13:00:08+00:00"
  },
  {
   "video_id": "t2b-mdFg8rI",
@@ -2532,7 +2586,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "Brian flags he could have missed negatives - do your own research.",
-  "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G"
+  "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G",
+  "published_at": "2026-01-31T14:31:00+00:00"
  },
  {
   "video_id": "t2b-mdFg8rI",
@@ -2545,7 +2600,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Timing uncertain - 'maybe this year, maybe not'.",
-  "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G"
+  "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G",
+  "published_at": "2026-01-31T14:31:00+00:00"
  },
  {
   "video_id": "t2b-mdFg8rI",
@@ -2557,7 +2613,8 @@
   "thesis": "AeroVironment drones: competitor complement to RCAT; recent pullback - 'a moment to duck back in' on decent pay ratios vs growth, lots of contracts.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G"
+  "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G",
+  "published_at": "2026-01-31T14:31:00+00:00"
  },
  {
   "video_id": "t2b-mdFg8rI",
@@ -2570,7 +2627,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "note": "Weak direct call - holder-positive statement.",
-  "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G"
+  "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G",
+  "published_at": "2026-01-31T14:31:00+00:00"
  },
  {
   "video_id": "0cKiqQZpgF0",
@@ -2584,7 +2642,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "Medium-to-long-term hold on AI data-center buildout.",
   "note": "Joint pick - Joseph Hogue agreed.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+  "published_at": "2026-01-28T16:45:00+00:00"
  },
  {
   "video_id": "0cKiqQZpgF0",
@@ -2597,7 +2656,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "note": "Joint pick - Joseph proposed, Brian agreed (holds it).",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+  "published_at": "2026-01-28T16:45:00+00:00"
  },
  {
   "video_id": "0cKiqQZpgF0",
@@ -2611,7 +2671,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Not a tech-style compounder; retail is Brian's weakest circle.",
   "note": "Joint pick - Joseph proposed, Brian agreed.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+  "published_at": "2026-01-28T16:45:00+00:00"
  },
  {
   "video_id": "0cKiqQZpgF0",
@@ -2626,7 +2687,8 @@
   "base": "Post-plateau cycle point, 'about ready for that next boost'.",
   "bear": "Spike-then-plateau history; layoffs a concern.",
   "note": "Joint pick - Brian proposed, Joseph agreed.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+  "published_at": "2026-01-28T16:45:00+00:00"
  },
  {
   "video_id": "0cKiqQZpgF0",
@@ -2640,7 +2702,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Supply chain and regulation; China H200 a sales tailwind.",
   "note": "Joint pick - Brian proposed, Joseph agreed.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+  "published_at": "2026-01-28T16:45:00+00:00"
  },
  {
   "video_id": "0cKiqQZpgF0",
@@ -2654,7 +2717,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Joseph's bear: hyperscaler-leasing rhyme; debt exploding; chip-upgrade treadmill.",
   "note": "Brian conceded the leasing-model risk.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+  "published_at": "2026-01-28T16:45:00+00:00"
  },
  {
   "video_id": "JgkqRJ4PCTc",
@@ -2666,7 +2730,8 @@
   "thesis": "Core AI/semiconductor ETF holding for years; 'treated me like gold'.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian"
+  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+  "published_at": "2025-12-10T15:00:46+00:00"
  },
  {
   "video_id": "JgkqRJ4PCTc",
@@ -2678,7 +2743,8 @@
   "thesis": "Nuclear ETF: energy is AI's choke point; growth potential but don't go heavy.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian"
+  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+  "published_at": "2025-12-10T15:00:46+00:00"
  },
  {
   "video_id": "JgkqRJ4PCTc",
@@ -2690,7 +2756,8 @@
   "thesis": "'No-brainer' broad-growth core; 'everyone should have that in their portfolio'.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian"
+  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+  "published_at": "2025-12-10T15:00:46+00:00"
  },
  {
   "video_id": "JgkqRJ4PCTc",
@@ -2703,7 +2770,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Robotics monetization later than hoped; expensive to scale.",
-  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian"
+  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+  "published_at": "2025-12-10T15:00:46+00:00"
  },
  {
   "video_id": "JgkqRJ4PCTc",
@@ -2716,7 +2784,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Priced high now; expect an earnings-miss drop at some point.",
-  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian"
+  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+  "published_at": "2025-12-10T15:00:46+00:00"
  },
  {
   "video_id": "JgkqRJ4PCTc",
@@ -2730,7 +2799,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "Condition: not yet profitable - he waits until they tick toward profitability.",
   "bear": "Not yet profitable; not a huge player yet.",
-  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian"
+  "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+  "published_at": "2025-12-10T15:00:46+00:00"
  },
  {
   "video_id": "4vgg_-dkDC0",
@@ -2744,7 +2814,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "FCF to double over the decade on Copilot/Teams AI.",
   "bear": "AI-hype cooling is the named risk, offset by recurring revenue.",
-  "collab_byline": "BWB - Business With Brian and Dividendology"
+  "collab_byline": "BWB - Business With Brian and Dividendology",
+  "published_at": "2025-08-14T14:45:01+00:00"
  },
  {
   "video_id": "4vgg_-dkDC0",
@@ -2758,7 +2829,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "12-15% annualized returns 'totally normal'.",
   "bear": "Regulatory risk looms.",
-  "collab_byline": "BWB - Business With Brian and Dividendology"
+  "collab_byline": "BWB - Business With Brian and Dividendology",
+  "published_at": "2025-08-14T14:45:01+00:00"
  },
  {
   "video_id": "4vgg_-dkDC0",
@@ -2772,7 +2844,8 @@
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "10-12% annual returns on conservative multiples.",
   "bear": "Tariffs will have impact but momentum holds.",
-  "collab_byline": "BWB - Business With Brian and Dividendology"
+  "collab_byline": "BWB - Business With Brian and Dividendology",
+  "published_at": "2025-08-14T14:45:01+00:00"
  },
  {
   "video_id": "4vgg_-dkDC0",
@@ -2784,7 +2857,8 @@
   "thesis": "Fastest corporate scale-up ever ($5B->$60B 2016-24); ~90% data-center GPU share; 70%+ gross margins.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "BWB - Business With Brian and Dividendology"
+  "collab_byline": "BWB - Business With Brian and Dividendology",
+  "published_at": "2025-08-14T14:45:01+00:00"
  },
  {
   "video_id": "4vgg_-dkDC0",
@@ -2796,7 +2870,8 @@
   "thesis": "233B transactions/yr, digital payments 21% growth, 60%+ operating margins, near-zero credit risk, 16 years of dividend hikes.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "BWB - Business With Brian and Dividendology"
+  "collab_byline": "BWB - Business With Brian and Dividendology",
+  "published_at": "2025-08-14T14:45:01+00:00"
  },
  {
   "video_id": "4vgg_-dkDC0",
@@ -2808,7 +2883,8 @@
   "thesis": "'Surprise edition': Latin America's Amazon + PayPal-like fintech; 43% revenue CAGR 2021-24, 100M+ buyers of 450M adults.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "BWB - Business With Brian and Dividendology"
+  "collab_byline": "BWB - Business With Brian and Dividendology",
+  "published_at": "2025-08-14T14:45:01+00:00"
  },
  {
   "video_id": "4vgg_-dkDC0",
@@ -2821,7 +2897,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "base": "AQ64 commercialization + hybrid cloud; quantum market 32.7% CAGR to $5.3B by 2029.",
-  "collab_byline": "BWB - Business With Brian and Dividendology"
+  "collab_byline": "BWB - Business With Brian and Dividendology",
+  "published_at": "2025-08-14T14:45:01+00:00"
  },
  {
   "video_id": "4vgg_-dkDC0",
@@ -2833,7 +2910,8 @@
   "thesis": "Weather-any-economy pick: 16% 20-yr CAGR, Kirkland $3B->$86B, membership model, e-commerce only 3% of sales.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "BWB - Business With Brian and Dividendology"
+  "collab_byline": "BWB - Business With Brian and Dividendology",
+  "published_at": "2025-08-14T14:45:01+00:00"
  },
  {
   "video_id": "4vgg_-dkDC0",
@@ -2845,7 +2923,8 @@
   "thesis": "Pure-play cyber compounder: $4.4B ARR +22%, record 80% subscription margins, >120% net retention, Nvidia AI partnership.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "BWB - Business With Brian and Dividendology"
+  "collab_byline": "BWB - Business With Brian and Dividendology",
+  "published_at": "2025-08-14T14:45:01+00:00"
  },
  {
   "video_id": "4vgg_-dkDC0",
@@ -2858,7 +2937,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "bear": "Analyst consensus negative (-16%); valuation stretched.",
-  "collab_byline": "BWB - Business With Brian and Dividendology"
+  "collab_byline": "BWB - Business With Brian and Dividendology",
+  "published_at": "2025-08-14T14:45:01+00:00"
  },
  {
   "video_id": "gOHxvGj1ap0",
@@ -2870,7 +2950,8 @@
   "thesis": "Bridget (MarketBeat host): best buy-the-dip - fundamentals intact, 75% EBITDA margin 'can't be faked', hyperscaler earnings the coming catalyst.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and MarketBeat"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and MarketBeat",
+  "published_at": "2026-07-24T15:45:25+00:00"
  },
  {
   "video_id": "gOHxvGj1ap0",
@@ -2883,7 +2964,8 @@
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
   "note": "Channel's last tracked PLTR call was guest Chaikin's BUY (Sep 29) - different speaker, not a same-voice flip.",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and MarketBeat"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and MarketBeat",
+  "published_at": "2026-07-24T15:45:25+00:00"
  },
  {
   "video_id": "gOHxvGj1ap0",
@@ -2895,6 +2977,7 @@
   "thesis": "Bridget (MarketBeat host): no personal stance; relays a MarketBeat analyst's bullish 'best buy-the-dip of the year' against Mark Chaikin's 'avoid at all costs'.",
   "collab": true,
   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
-  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and MarketBeat"
+  "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and MarketBeat",
+  "published_at": "2026-07-24T15:45:25+00:00"
  }
 ]
