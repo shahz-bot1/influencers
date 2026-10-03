@@ -1,0 +1,77 @@
+{
+ "ticker": "PLTR",
+ "slug": "PLTR",
+ "calls": [
+  {
+   "video_id": "UFkvt5QjRWI",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Mark Chaikin: Palantir bottomed out after a >50% pullback, power gauge bullish again, established uptrend; government + enterprise data processing moat, \"leader in the next wave of the AI boom\".",
+   "base_case": "Chaikin thinks PLTR makes a new high as market rises ~20% over next 9 months from midterm low.",
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-09-30T09:58:47.261926+00:00"
+  },
+  {
+   "video_id": "gOHxvGj1ap0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "PLTR",
+   "direction": "HOLD",
+   "price_at_call": "not stated",
+   "thesis": "Bridget (MarketBeat host): personal impression - long-term growth story but not a slam-dunk buy-the-dip; expect volatility.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "note": "Channel's last tracked PLTR call was guest Chaikin's BUY (Sep 29) - different speaker, not a same-voice flip.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and MarketBeat",
+   "published_at": "2026-07-24T15:45:25+00:00"
+  },
+  {
+   "video_id": "D-P5ryvcIAA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "price_at_call": "bought at $107; $117 at recording",
+   "thesis": "Down ~50% from $200 while the business accelerated and margins expanded.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Asset-light; LLM-agnostic enterprise AI layer.",
+   "bull": "Top enterprise/government AI winner.",
+   "bear": "Premium valuation; PEG ~1 only on 2-yr growth.",
+   "collab_byline": "Investing Moats with Varun and Couch Investor",
+   "published_at": "2026-07-01T14:30:34+00:00"
+  },
+  {
+   "video_id": "4vgg_-dkDC0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "price_at_call": "analyst 12-month downside -16% ('analysts consistently wrong')",
+   "thesis": "Keeps DCAing for decades: first $1B quarter (+48% YoY), US commercial +93%, $6B cash no debt, rule-of-40 score 94, $10B 10-yr US Army deal.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Analyst consensus negative (-16%); valuation stretched.",
+   "collab_byline": "BWB - Business With Brian and Dividendology",
+   "published_at": "2025-08-14T14:45:01+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 2
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 3
+  }
+ ]
+}
