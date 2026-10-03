@@ -1,0 +1,30 @@
+{
+ "ticker": "HD",
+ "slug": "HD",
+ "calls": [
+  {
+   "video_id": "Z1ZgKx2L-QA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive Update for Home Depot Stock Investors | HD Stock Analysis",
+   "published_at": "2026-10-03T14:59:58.313953+00:00",
+   "analyzed_at": "2026-10-03T18:01:07.180791+00:00",
+   "ticker": "HD",
+   "direction": "BUY",
+   "price_at_call": "$286 (market); DCF intrinsic value $263; fwd P/E 17.85",
+   "thesis": "Upgrading to a buying opportunity (first time in ~2 years): top-tier management through 7 tough years, fwd P/E at multi-year low, fair-to-slightly-undervalued after ~30% selloff; dollar-cost average in as macro improves",
+   "base": "Fair value $263 vs $286 market (~8% below intrinsic, within his 5-10% margin of safety); ROIC 18.5% still ~2x WACC; margins 12.4%",
+   "bull": "Economy rebounds in 3-6 months on low unemployment + AI capex boom; home improvement spending recovers; management compounds excellently",
+   "bear": "Near-term macro headwinds (higher oil, lower disposable income) keep pressure on consumer/home-improvement spending for months",
+   "stance_flip": false,
+   "flip_note": "First tracked HD call on record; he says he warned against buying for 1.5-2 years, so this is an upgrade in his narrative",
+   "slot": "intraday"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
