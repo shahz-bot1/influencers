@@ -1,0 +1,67 @@
+{
+ "ticker": "NBIS",
+ "slug": "NBIS",
+ "calls": [
+  {
+   "video_id": "HbkvoRgodmw",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "NBIS",
+   "direction": "AVOID",
+   "price_at_call": "n/a (guest call)",
+   "thesis": "Same neocloud bear case as CRWV: undifferentiated spend model vs hyperscalers.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Bear (his): pricing de-escalators in long-term contracts erode returns.",
+   "published_at": "2026-09-30T22:55:15.965630+00:00",
+   "analyzed_at": "2026-10-01T05:57:02.043190+00:00",
+   "stance_flip": null,
+   "video_title": "Buy the Dip in These 4 Energy Stocks (The Next AI Boom Needs Them)"
+  },
+  {
+   "video_id": "D-P5ryvcIAA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NBIS",
+   "direction": "HOLD",
+   "price_at_call": "$240 at recording",
+   "thesis": "Wait at $240 after a 20% run; would love to buy lower.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Could be a $100B AI hyperscaler; software layer differentiates.",
+   "bull": "Token/inference economics drive sustained demand.",
+   "bear": "Overcapacity; circular financing with Nvidia.",
+   "collab_byline": "Investing Moats with Varun and Couch Investor",
+   "published_at": "2026-07-01T14:30:34+00:00"
+  },
+  {
+   "video_id": "0cKiqQZpgF0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Brian's pick (vetoed by Joseph as a joint pick): AI GPU-cloud with Nvidia partnership (Vera Rubin access), $2.4B cash, minimal debt, 60% margins, revenue projected +520% this year.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Joseph's bear: hyperscaler-leasing rhyme; debt exploding; chip-upgrade treadmill.",
+   "note": "Brian conceded the leasing-model risk.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+   "published_at": "2026-01-28T16:45:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 2
+  }
+ ]
+}
