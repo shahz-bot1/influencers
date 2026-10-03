@@ -1,0 +1,25 @@
+{
+ "ticker": "HIMS",
+ "slug": "HIMS",
+ "calls": [
+  {
+   "video_id": "qnhZxRrFN-Y",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "HIMS",
+   "direction": "AVOID",
+   "price_at_call": "~$29 (stated); consensus PT ~$32 (~10-11% upside)",
+   "thesis": "Revenue +40% YoY with international expansion, but margin/FCF pressure plus unresolved GLP-1 lawsuit overhang; wait-and-see, shorts not wrong.",
+   "base_case": "Base: growth intact, legal overhang caps upside near PT $32.",
+   "bull_case": "Lawsuit resolved + targets raised -> 26.7% short interest fuels a squeeze.",
+   "bear_case": "Legal overhang persists; ~$65 2025 high a long way off.",
+   "analyzed_at": "2026-09-26T05:59:20.040279+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
