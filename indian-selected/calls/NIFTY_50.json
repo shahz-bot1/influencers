@@ -1,0 +1,27 @@
+{
+ "ticker": "NIFTY 50",
+ "slug": "NIFTY_50",
+ "calls": [
+  {
+   "video_id": "kJuk2TsBfaI",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Where to Invest and where NOT TO? - Indian stocks vs US stocks vs Gold vs FDs  - Rahul Jain",
+   "published_at": "2026-09-27T20:54:12.349385+00:00",
+   "ticker": "NIFTY 50",
+   "direction": "HOLD",
+   "price_at_call": "not stated",
+   "thesis": "Down ~11% YTD with EPS growth only ~3.9%; cautious until oil stabilizes and yields cool - continue SIPs, take no high-risk bets",
+   "base_case": "Sideways market with continuous volatility",
+   "bull_case": "Oil stabilizes around $65-75 and yields cool, bull run resumes",
+   "bear_case": "Oil stays ~$98-100 and 30Y yields stay at all-time highs, Nifty sinks further",
+   "analyzed_at": "2026-10-03T20:59:20.859641+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
