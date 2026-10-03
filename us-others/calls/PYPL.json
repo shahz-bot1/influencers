@@ -1,0 +1,22 @@
+{
+ "ticker": "PYPL",
+ "slug": "PYPL",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PYPL",
+   "direction": "BUY",
+   "thesis": "Back in shares after takeover-offer rejection cratered the stock. ~10x P/E vs 16x a year ago; expects stablecoin growth to beat forecasts; solid return expected over next year.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
+   "price_at_call": "~$50 (bought when it cratered back to ~$50/share)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
