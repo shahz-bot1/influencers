@@ -1,0 +1,27 @@
+{
+ "ticker": "NIFTY BANK",
+ "slug": "NIFTY_BANK",
+ "calls": [
+  {
+   "video_id": "kJuk2TsBfaI",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Where to Invest and where NOT TO? - Indian stocks vs US stocks vs Gold vs FDs  - Rahul Jain",
+   "published_at": "2026-09-27T20:54:12.349385+00:00",
+   "ticker": "NIFTY BANK",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "~15% EPS growth over 12 months with PE contracted ~12%; valuation vs growth looks very good",
+   "base_case": "Continues steady with EPS growth holding",
+   "bull_case": "Oil/inflation fears fade and the derating reverses",
+   "bear_case": "Persistent high oil drives Indian inflation higher and banking takes a further hit",
+   "analyzed_at": "2026-10-03T20:59:20.859641+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
