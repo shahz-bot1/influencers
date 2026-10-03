@@ -1,0 +1,26 @@
+{
+ "ticker": "TXRH",
+ "slug": "TXRH",
+ "calls": [
+  {
+   "video_id": "ps7HQgBsw5I",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "How I'm Investing With $1.5 Million Stock Portfolio",
+   "ticker": "TXRH",
+   "direction": "BUY",
+   "price_at_call": "-21% in the past month (stated)",
+   "thesis": "A buy today — selloff on temporary beef-inflation EPS hit (-5% EPS, -16% net income) while revenue, restaurant count, weekly sales, same-store sales and to-go all grow; management plays the long game on pricing.",
+   "base_case": null,
+   "bull_case": "When beef prices fall, net income rebounds sharply; customer trust preserved via stable pricing.",
+   "bear_case": null,
+   "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  }
+ ]
+}
