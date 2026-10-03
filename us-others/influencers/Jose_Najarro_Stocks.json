@@ -1,0 +1,31 @@
+{
+ "name": "Jose Najarro Stocks",
+ "handle": "@josenajarrostocks",
+ "slug": "Jose_Najarro_Stocks",
+ "calls": [
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-10-01T01:55:34.672871+00:00",
+   "price": null,
+   "video_id": "Ad2Pn32TWSs"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-09-29T03:56:43.894526+00:00",
+   "price": "not stated in video; cites ~19x forward P/E and ~$5T market cap",
+   "video_id": "7Lm8O0CuvLs"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-09-29T03:56:43.894526+00:00",
+   "price": "~$67 (auto-captions garble this line; price approximate)",
+   "video_id": "7Lm8O0CuvLs"
+  }
+ ]
+}
