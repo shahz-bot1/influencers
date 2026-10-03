@@ -1,0 +1,21 @@
+{
+ "ticker": "ADBE",
+ "slug": "ADBE",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ADBE",
+   "direction": "AVOID",
+   "thesis": "Subscription-cancellation threat: Barron's test had Muse find and cancel a forgotten Adobe subscription, saving $25/mo. Watch out for companies relying on unengaged subscribers.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
