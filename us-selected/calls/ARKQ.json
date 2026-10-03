@@ -1,0 +1,40 @@
+{
+ "ticker": "ARKQ",
+ "slug": "ARKQ",
+ "calls": [
+  {
+   "video_id": "t2b-mdFg8rI",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "ARKQ",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "ARK Autonomous Tech & Robotics ETF: heavy robotics exposure; foundation being built for a robotics breakout.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Timing uncertain - 'maybe this year, maybe not'.",
+   "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G",
+   "published_at": "2026-01-31T14:31:00+00:00"
+  },
+  {
+   "video_id": "JgkqRJ4PCTc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "ARKQ",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Robotics/autonomous-tech exposure without mega caps; 'fully agree' with Nolan's pick.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Robotics monetization later than hoped; expensive to scale.",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2025-12-10T15:00:46+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
