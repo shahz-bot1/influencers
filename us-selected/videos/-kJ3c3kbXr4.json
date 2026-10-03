@@ -1,0 +1,36 @@
+{
+ "title": "Why This 'AI Loser' Is Actually a Massive Buy",
+ "creator": "Couch Investor",
+ "published_at": "2026-09-29",
+ "source_note": "Detailed summary generated from video captions; captions readable (manually recovered after scan fetch failed)",
+ "summary": "Couch Investor argues Alphabet is the market's current \"AI loser\" the way Meta was in early 2025 — a perception gap, not a business problem. GOOGL is up just 6.5% YTD at ~$4.1T market cap and 16.9x forward PE (ex one-time gains). The numbers: revenue expected to grow ~23% this year and next, ~20% in FY28 to $735.7B; operating profit to $263.5B by FY28; margins strong (operating 33%, gross 61%, EBITDA >38%); GCP now ~$25B/quarter growing 82% YoY with segment margins at 35.5%; search de-risking toward a ~50/50 revenue split with the rest of the business. The worry is negative free cash flow (expected -$32.3B in FY27) as capex rises toward ~$300B in FY27 and ~$334B in FY28, but he argues that is fine when ROIC far exceeds the cost of capital, and Google holds $242B in cash/marketable securities. Catalysts: Gemini 4 (reportedly a much stronger base model that could flip sentiment the way Meta's Muse did), Q3 cloud/search/YouTube numbers and 2027 capex guidance, a possible consumer AI agent (Android/Chrome distribution), and TPU sales to external customers starting 2027 on five-year committed contracts. He says \"we can go back to $400 sooner rather than later\" — GOOGL BUY. He also gives extended bullish META commentary (Muse small-business tier and enterprise platform, former MongoDB CEO hired to run it, distribution + profitability, \"amazing spot\") but makes no explicit META call. He covers OpenAI's DevDay \"Dots\" agent (higher ChatGPT tiers only, suggesting compute constraints) and leans toward a conditional buy of Voyager Technologies (see VOYG call). Other tickers discussed: MDB (MongoDB CEO departure news, stock down 17-20%), RKLB (his earlier Rocket Lab comparison), PLTR, ORCL, MU, AVGO (heat-map mentions), MSFT. Caption garbles: \"Antropic\" (Anthropic), model names.",
+ "video_id": "-kJ3c3kbXr4",
+ "calls": [
+  {
+   "video_id": "-kJ3c3kbXr4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "target $400 (stated)",
+   "thesis": "\"AI loser\" perception wrong: GCP ~$25B/quarter growing 82% YoY with segment margins rising to 35.5%; search de-risking toward a ~50/50 revenue split; 16.9x forward PE (low ex one-time gains); $242B cash vs rising AI capex; Gemini 4 is the biggest upcoming catalyst; TPU external sales begin 2027.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-09-29T22:01:23.027072+00:00"
+  },
+  {
+   "video_id": "-kJ3c3kbXr4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "VOYG",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$2B market cap (stated)",
+   "thesis": "Sees path from $2B to $10B enterprise value in a couple of years on the formalized Anduril strategic partnership (>$60M of contracted critical technologies, shared program pipeline, path to high-rate production); CEO has guided disappointment if $10B EV not reached by ~2030. Not a holder yet; \"trending towards the yes direction\".",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-09-29T22:01:23.027072+00:00"
+  }
+ ]
+}
