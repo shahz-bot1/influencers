@@ -1,0 +1,21 @@
+{
+ "ticker": "AMP",
+ "slug": "AMP",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "AMP",
+   "direction": "AVOID",
+   "thesis": "Same broker/wealth-manager disruption thesis; plunged 9% on the week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
