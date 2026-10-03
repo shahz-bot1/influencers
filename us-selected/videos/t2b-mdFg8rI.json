@@ -1,0 +1,64 @@
+{
+ "title": "URGENT: The $2.4 Trillion AI Infrastructure Reset",
+ "creator": "BWB - Business With Brian",
+ "summary": "Brian hosts Professor G (Nolan) for a community-Q&A episode (Brian's channel) on portfolio construction and 2026 picks. First half is allocation philosophy: Nolan argues for a risk-tiered funnel (~60% broad growth like QQQM, ~30% sector ETF like SMH/VGT, ~10% individual stocks, with ~20% in a value anchor like SCHD/VTV); Brian is stock-heavy himself (mega-cap core, tiny speculative slivers) but agrees ETFs suit most people, and both stress time-in-market over timing and rebalancing only in retirement accounts. On add/trim rules, Brian trims only when one holding dominates (Nvidia) or after 100-200% pops in speculative names (takes principal off), and cut dead money like Plug Power. The stock picks: Nolan's 2026 list (host-only) is Redcat (RCAT; his call was ~$7, now $17-18; add on pullback to $10-12), IREN (in the 50s; big firms calling 80s-90s), APLD, plus SCHD/VTV as the value-cycle ETF trade. Brian counters with Modine (data-center cooling, beaten down after heavy production investment, tiny speculative position) and ARKQ (robotics ETF), and likes AeroVironment as a drone complement to RCAT after its pullback. Brian's own line on RCAT: 'I have RCAT. So, I like RCAT.' (holder-positive, weak direct call). Calls: MOD, ARKQ, AVAV, RCAT BUY (Brian); AMBA not in this video. Note: 'Iran' = IREN, 'Arcat' = Redcat RCAT, 'Nukes' = NUKZ ETF.",
+ "video_id": "t2b-mdFg8rI",
+ "published_at": "2026-01-31",
+ "calls": [
+  {
+   "video_id": "t2b-mdFg8rI",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "MOD",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Speculative under-the-radar data-center cooling play; beaten down after heavy production-line investment; tiny speculative position.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Brian flags he could have missed negatives - do your own research.",
+   "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G",
+   "published_at": "2026-01-31T14:31:00+00:00"
+  },
+  {
+   "video_id": "t2b-mdFg8rI",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "ARKQ",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "ARK Autonomous Tech & Robotics ETF: heavy robotics exposure; foundation being built for a robotics breakout.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Timing uncertain - 'maybe this year, maybe not'.",
+   "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G",
+   "published_at": "2026-01-31T14:31:00+00:00"
+  },
+  {
+   "video_id": "t2b-mdFg8rI",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AVAV",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "AeroVironment drones: competitor complement to RCAT; recent pullback - 'a moment to duck back in' on decent pay ratios vs growth, lots of contracts.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G",
+   "published_at": "2026-01-31T14:31:00+00:00"
+  },
+  {
+   "video_id": "t2b-mdFg8rI",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "RCAT",
+   "direction": "BUY",
+   "price_at_call": "now $17-18",
+   "thesis": "Holder-positive: 'I have RCAT. So, I like RCAT.' - weak direct call, not an explicit buy recommendation.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "note": "Weak direct call - holder-positive statement.",
+   "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G",
+   "published_at": "2026-01-31T14:31:00+00:00"
+  }
+ ]
+}
