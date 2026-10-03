@@ -1,0 +1,27 @@
+{
+ "ticker": "GDX",
+ "slug": "GDX",
+ "calls": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "GDX",
+   "direction": "BUY",
+   "price": "gold-miners ETF; safety bet on inflation/deficit/dollar weakness",
+   "thesis": "If investors fear inflation, deficits, dollar purchasing power, gold becomes attractive; spread the bet across miners via GDX.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "video_id": "989CUhoOUg8",
+   "video_title": "Buffett's \"Going to Hell\" Warning [5 Stocks to Buy Before It Gets Worse]",
+   "published_at": "2026-09-30T15:55:34.672871+00:00",
+   "analyzed_at": "2026-10-01T03:57:29.822305+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
