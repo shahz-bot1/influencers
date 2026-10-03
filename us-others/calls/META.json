@@ -1,0 +1,40 @@
+{
+ "ticker": "META",
+ "slug": "META",
+ "calls": [
+  {
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "META",
+   "direction": "BUY",
+   "price": "fair value $827 conservative / ~$1,000 realistic; ~$720s at video time",
+   "thesis": "Still undervalued despite +30% rally; Muse adoption (3M+ US downloads, #1 app) + free distribution across Instagram/WhatsApp; ad-ROI upside from user data; forward P/E ~23x for 20%+ grower.",
+   "base": "20% annual OCF growth, 15x price/OCF = $1,000 FV, 22.6% CAGR over 3 years",
+   "bull": "Leading frontier model (watermelon) + hardware + agents revenue diversification",
+   "bear": "Savings-shared revenue monetization model unclear; Muse may disrupt, not yet monetize",
+   "video_id": "sY9DIuxZzmc",
+   "video_title": "Why I Plan To Continue Buying Meta Stock",
+   "published_at": "2026-09-30T21:55:34.672871+00:00",
+   "analyzed_at": "2026-10-01T03:57:29.822305+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "META",
+   "direction": "HOLD",
+   "thesis": "Killer-app story is real but the easy money is made: 8.7x sales / 29x earnings is ~30% above the 5-yr average. Long-term investors will be rewarded, but wait for a pullback from the hype before buying big.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Daniel Pronk",
+   "idx": 0
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 1
+  }
+ ]
+}
