@@ -1,0 +1,28 @@
+{
+ "ticker": "CIBR",
+ "slug": "CIBR",
+ "calls": [
+  {
+   "video_id": "DQoFZ_AMKi0",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "CIBR",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Endorsed Joseph's pick: 'fantastic add'; cybersecurity spend can't be cut (10% of his model).",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "~12%/yr spend growth; AI expands the attack surface.",
+   "bull": "Could rival AI in scale.",
+   "bear": "Down 4% over the last year on AI worries.",
+   "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA",
+   "published_at": "2026-04-04T15:00:15+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
