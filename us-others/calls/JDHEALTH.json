@@ -1,0 +1,23 @@
+{
+ "ticker": "JDHEALTH",
+ "slug": "JDHEALTH",
+ "calls": [
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "JDHEALTH",
+   "direction": "HOLD",
+   "thesis": "JD Health: \"fairly priced\" - growth and profit returning, stock down ~80% from 2020s spin-out era.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
