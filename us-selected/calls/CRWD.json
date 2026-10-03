@@ -1,0 +1,45 @@
+{
+ "ticker": "CRWD",
+ "slug": "CRWD",
+ "calls": [
+  {
+   "video_id": "QxqManKEg4U",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "CRWD",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$260 (avg analyst PT $234, ~10% below current; 186x forward PE, 40x sales)",
+   "thesis": "Loves the business (best quarter ever, ARR $5.8B +25%), NOT buying: 'absolutely expensive' — 40x sales needs everything to go perfect; would buy on a meaningful selloff if fundamentals intact.",
+   "base_case": "Base: 25% growth priced in; multiple compression risk.",
+   "bull_case": "Bull: cybersecurity secular growth sustains premium.",
+   "bear_case": "Bear: slight growth deceleration (25%->20%) triggers multiple compression.",
+   "published_at": "2026-09-27T13:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": null,
+   "video_title": "I LOVE These 3 Stocks — But I'm NOT Buying Yet"
+  },
+  {
+   "video_id": "4vgg_-dkDC0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "CRWD",
+   "direction": "BUY",
+   "price_at_call": "analyst 12-month upside ~14%",
+   "thesis": "Pure-play cyber compounder: $4.4B ARR +22%, record 80% subscription margins, >120% net retention, Nvidia AI partnership.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "BWB - Business With Brian and Dividendology",
+   "published_at": "2025-08-14T14:45:01+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
+  }
+ ]
+}
