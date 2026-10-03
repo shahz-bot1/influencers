@@ -1,0 +1,22 @@
+{
+ "ticker": "AMD",
+ "slug": "AMD",
+ "calls": [
+  {
+   "video_id": "7Lm8O0CuvLs",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "thesis": "$8.2B all-stock acquisition of World Labs (AI model/research lab) is a smart talent grab giving AMD deeper insight into evolving AI workloads and its tech roadmap. All-stock is the right call (<1% of market cap). Trusts Lisa Su's judgment; expects the deal to look smart in hindsight. Mild worry AMD is spreading itself thin (software stack, Helios ramp, now AI models).",
+   "analyzed_at": "2026-09-29T03:56:43.894526+00:00",
+   "price_at_call": "~$67 (auto-captions garble this line; price approximate)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 0
+  }
+ ]
+}
