@@ -1,0 +1,27 @@
+{
+ "ticker": "GIS",
+ "slug": "GIS",
+ "calls": [
+  {
+   "ticker": "GIS",
+   "direction": "BUY",
+   "thesis": "DCF fair value $40 vs just under $34 (+17% upside in 12-18 months); best yield of the four at 7.2%.",
+   "price_at_call": "just under $34 (stated)",
+   "bull_case": "7.2% yield; near-term private-label trade-down is cyclical, not structural.",
+   "bear_case": "Stretched consumers choosing cheaper store-brand cereals over branded boxes.",
+   "base_case": null,
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "lV4gJKmzRxg",
+   "video_title": "Forever Stocks: 4 Undervalued Dividend Stocks Investors Can Buy Now and Hold Forever",
+   "published_at": "2026-09-29T11:59:59.109610+00:00",
+   "analyzed_at": "2026-09-29T18:01:32.562233+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
