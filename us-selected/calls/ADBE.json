@@ -1,0 +1,28 @@
+{
+ "ticker": "ADBE",
+ "slug": "ADBE",
+ "calls": [
+  {
+   "video_id": "D-P5ryvcIAA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "ADBE",
+   "direction": "HOLD",
+   "price_at_call": "not stated (~$200s referenced)",
+   "thesis": "Wait: cheap, growing, profitable - but zero momentum and real disruption risk.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Sentiment-driven derating, not fundamentals.",
+   "bull": "Cash pile lets it acquire AI startups in a downturn.",
+   "bear": "Figma/Gemini attack niches; management turnover.",
+   "collab_byline": "Investing Moats with Varun and Couch Investor",
+   "published_at": "2026-07-01T14:30:34+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Couch Investor",
+   "idx": 0
+  }
+ ]
+}
