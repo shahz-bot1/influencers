@@ -1,0 +1,28 @@
+{
+ "ticker": "IREN",
+ "slug": "IREN",
+ "calls": [
+  {
+   "video_id": "HbkvoRgodmw",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "IREN",
+   "direction": "AVOID",
+   "price_at_call": "n/a (guest call; captions render as 'Iron')",
+   "thesis": "Same neocloud bear case: hot-market IREN/Microsoft pricing was only 'adequate' even at peak.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Bear (his): tokens/compute are commodities; supply boom repeats the 90% pricing collapse.",
+   "published_at": "2026-09-30T22:55:15.965630+00:00",
+   "analyzed_at": "2026-10-01T05:57:02.043190+00:00",
+   "stance_flip": null,
+   "video_title": "Buy the Dip in These 4 Energy Stocks (The Next AI Boom Needs Them)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
