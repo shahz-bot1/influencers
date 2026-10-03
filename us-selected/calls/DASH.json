@@ -1,0 +1,46 @@
+{
+ "ticker": "DASH",
+ "slug": "DASH",
+ "calls": [
+  {
+   "video_id": "ps7HQgBsw5I",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "How I'm Investing With $1.5 Million Stock Portfolio",
+   "ticker": "DASH",
+   "direction": "BUY",
+   "price_at_call": "~$22k position, slightly green (his holding)",
+   "thesis": "Continuing to hold — contribution margin rising, 35M members, monthly active users and total orders climbing; NYC regulation noise.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "New York City regulation passed against them and similar regulatory risk.",
+   "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  },
+  {
+   "video_id": "ZaTNOelzTpo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Do Food Delivery Robots Make DoorDash Stock a No-Brainer Buy? | DASH Stock Analysis",
+   "published_at": "2026-09-25T16:00:02.626065+00:00",
+   "ticker": "DASH",
+   "direction": "HOLD",
+   "flip": false,
+   "price_at_call": "fair value $185 vs $183 (stated)",
+   "thesis": "DCF says fairly valued ($185 vs $183) at forward PE 23.8; delivery-robot rollout promising but risk/reward not yet enough for an upgrade after -13% last month.",
+   "base_case": "Fair value $185, within margin of safety.",
+   "bull_case": "Autonomous delivery scales and drives margin expansion; consumer willingness to pay for convenience keeps growing.",
+   "bear_case": "Valuation leaves no margin of safety; robot rollout could prove capital-intensive.",
+   "analyzed_at": "2026-09-25T18:02:20.958674+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  }
+ ]
+}
