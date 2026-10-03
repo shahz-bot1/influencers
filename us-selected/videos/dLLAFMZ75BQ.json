@@ -1,0 +1,23 @@
+{
+ "title": "Novo Nordisk Gives Uninspiring Outlook",
+ "creator": "Parkevtate Vosianc CFA",
+ "summary": "Novo Nordisk guided to mid-single-digit revenue growth through 2030 with patients served rising to 60M from 46.5M; the market was unimpressed -- shares down >25% YTD in 2026. He walks through the disappointments: patent loss pressure on the weight-loss franchise, 12,000 jobs cut in 2026, volatile 45% operating margins, and a falling ROIC (37%, down from 80-90% levels a decade ago, though still 3-4x WACC); Novo also spent the least on R&D among peers (15.7% most recent). But he notes it's trading at its cheapest valuation in years at 11.3x forward PE, and even after revising his FCF forecasts and beta lower/higher, his DCF fair value is $64.50 vs a $38.36 market price -- ~68% upside over 12-18 months. He'd ranked Novo a buy all of 2025 and 2026 and keeps it a BUY today, but drops conviction to LOW, disclosing he prefers and owns LLY. Verdict: BUY (low conviction). No prior NVO call in the watch's history, so no stance flip. Other tickers: LLY (his preferred peer), PFE.",
+ "video_id": "dLLAFMZ75BQ",
+ "published_at": "2026-09-26 ~17:00 BST",
+ "calls": [
+  {
+   "video_id": "dLLAFMZ75BQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "NVO",
+   "direction": "BUY",
+   "conviction": "low",
+   "stated_price": 38.36,
+   "fair_value": 64.5,
+   "thesis": "Uninspiring mid-single-digit growth outlook through 2030, but stock trades at cheapest valuation in years (11.3x fwd PE); ~68% upside over 12-18 months on his DCF.",
+   "bull": "Cost cuts fund R&D; AI lifts drug-development ROI; ROIC 37% (3-4x WACC) stabilizes.",
+   "bear": "ROIC has fallen from 80-90% over a decade; lowest R&D spend among peers (15.7%); patent loss pressures weight-loss franchise; he prefers LLY.",
+   "stance_flip": false,
+   "analyzed_at": "2026-09-26T22:00:25.407245+00:00"
+  }
+ ]
+}
