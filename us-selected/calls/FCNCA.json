@@ -1,0 +1,28 @@
+{
+ "ticker": "FCNCA",
+ "slug": "FCNCA",
+ "calls": [
+  {
+   "video_id": "ANoYJTT0Amg",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "FCNCA",
+   "direction": "BUY",
+   "price_at_call": "under $2,150–$2,200 (guest entry guide; ~$2,000 reference)",
+   "thesis": "Deregulation beneficiary: nimble acquirer (20 deals incl. SVB clean-up) set to grow by M&A plus organic C&I lending as Bowman-led Fed eases exams/capital; uniform ROE above GAAP.",
+   "base_case": "High double-digit % opportunity on deregulation-led loan growth; 3:1 upside/downside margin of safety.",
+   "bull_case": "More bank M&A allowed + lower capital requirements let FCNCA keep compounding via acquisitions.",
+   "bear_case": null,
+   "published_at": "2026-10-01T22:58:20.857323+00:00",
+   "analyzed_at": "2026-10-02T06:16:07.959243+00:00",
+   "stance_flip": null,
+   "video_title": "Trump's Playbook: 1 to Buy and 1 to Dump"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
