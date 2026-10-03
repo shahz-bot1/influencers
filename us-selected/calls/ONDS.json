@@ -1,0 +1,25 @@
+{
+ "ticker": "ONDS",
+ "slug": "ONDS",
+ "calls": [
+  {
+   "video_id": "qnhZxRrFN-Y",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "ONDS",
+   "direction": "AVOID",
+   "price_at_call": "~$7.48; consensus PT ~$17.18 (~130% upside)",
+   "thesis": "Autonomous systems/robotics story; revenue growing but losses widening; must prove credible path to profitability at next earnings before he would get in.",
+   "base_case": "Base: range-bound until Q3 earnings in November.",
+   "bull_case": "Earnings show a credible path to profit -> quick move to mid-teens + squeeze on 40% short interest.",
+   "bear_case": "No path proven -> real selling pressure with 40% short interest and low institutional support.",
+   "analyzed_at": "2026-09-26T05:59:20.040279+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
