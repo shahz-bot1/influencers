@@ -1,0 +1,26 @@
+{
+ "ticker": "DGRO",
+ "slug": "DGRO",
+ "calls": [
+  {
+   "video_id": "pDsQs_qPELs",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "DGRO",
+   "direction": "HOLD",
+   "price_at_call": "not stated",
+   "thesis": "Owns it; same dividend-growth complement role as VIG.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Lower yield than SCHD.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+   "published_at": "2026-04-15T15:45:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
