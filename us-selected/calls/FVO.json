@@ -1,0 +1,28 @@
+{
+ "ticker": "FVO",
+ "slug": "FVO",
+ "calls": [
+  {
+   "video_id": "HbkvoRgodmw",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "FVO",
+   "direction": "BUY",
+   "price_at_call": "n/a (guest pick; trading below IPO price)",
+   "thesis": "Pure-play EGS with Google contract for 2.4GW Cape Station; below IPO price — guest's 'most interesting speculation'.",
+   "base_case": "Base: Cape Station proves closed-loop EGS within 2 years.",
+   "bull_case": "Bull: EGS works at scale — 'worth a multiple of today's price'.",
+   "bear_case": "Bear: engineering problem (water retention) unsolved; sell trigger on revenue misses tied to leaks.",
+   "published_at": "2026-09-30T22:55:15.965630+00:00",
+   "analyzed_at": "2026-10-01T05:57:02.043190+00:00",
+   "stance_flip": null,
+   "video_title": "Buy the Dip in These 4 Energy Stocks (The Next AI Boom Needs Them)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
