@@ -1,0 +1,15 @@
+{
+ "name": "Tom Nash",
+ "handle": "@TomNashTV",
+ "slug": "Tom_Nash",
+ "calls": [
+  {
+   "ticker": "SPY",
+   "tickerSlug": "SPY",
+   "direction": "BUY",
+   "date": "2026-09-30T15:55:34.672871+00:00",
+   "price": null,
+   "video_id": "F6ds1vqtOTY"
+  }
+ ]
+}
