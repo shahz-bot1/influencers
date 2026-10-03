@@ -1,0 +1,119 @@
+{
+ "name": "Joseph Carlson After Hours",
+ "handle": "@JosephCarlsonAfterHours",
+ "slug": "Joseph_Carlson_After_Hours",
+ "calls": [
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "HOLD",
+   "date": "2026-10-01T21:02:09.000658+00:00",
+   "price": "~$200k position, largest holding (stated); not selling",
+   "video_id": "DFQjG012fRk"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "HOLD",
+   "date": "2026-10-01T21:02:09.000658+00:00",
+   "price": "fully invested; ~$400k combined GOOGL+META (stated)",
+   "video_id": "DFQjG012fRk"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "HOLD",
+   "date": "2026-10-01T21:02:09.000658+00:00",
+   "price": null,
+   "video_id": "DFQjG012fRk"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "HOLD",
+   "date": "2026-09-28T22:02:12.212482+00:00",
+   "price": "~$200k position, +$18k gains (his holding); 25 fwd PE (stated)",
+   "video_id": "ps7HQgBsw5I"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "HOLD",
+   "date": "2026-09-28T22:02:12.212482+00:00",
+   "price": "23 fwd PE (stated; discount to GOOGL)",
+   "video_id": "ps7HQgBsw5I"
+  },
+  {
+   "ticker": "MA",
+   "tickerSlug": "MA",
+   "direction": "HOLD",
+   "date": "2026-09-28T22:02:12.212482+00:00",
+   "price": "$190k position, +$42k (his holding)",
+   "video_id": "ps7HQgBsw5I"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "HOLD",
+   "date": "2026-09-28T22:02:12.212482+00:00",
+   "price": "12% position, $180k, +$55k (his holding); 26 PE (stated)",
+   "video_id": "ps7HQgBsw5I"
+  },
+  {
+   "ticker": "ASML",
+   "tickerSlug": "ASML",
+   "direction": "HOLD",
+   "date": "2026-09-28T22:02:12.212482+00:00",
+   "price": "$126k position, +$93k gains (his holding)",
+   "video_id": "ps7HQgBsw5I"
+  },
+  {
+   "ticker": "SPGI",
+   "tickerSlug": "SPGI",
+   "direction": "BUY",
+   "date": "2026-09-28T22:02:12.212482+00:00",
+   "price": "21 fwd PE (stated)",
+   "video_id": "ps7HQgBsw5I"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "HOLD",
+   "date": "2026-09-28T22:02:12.212482+00:00",
+   "price": "22 trailing PE (was 50 in Sep 2025)",
+   "video_id": "ps7HQgBsw5I"
+  },
+  {
+   "ticker": "COST",
+   "tickerSlug": "COST",
+   "direction": "HOLD",
+   "date": "2026-09-28T22:02:12.212482+00:00",
+   "price": "High valuation (stated); stock down a little",
+   "video_id": "ps7HQgBsw5I"
+  },
+  {
+   "ticker": "TXRH",
+   "tickerSlug": "TXRH",
+   "direction": "BUY",
+   "date": "2026-09-28T22:02:12.212482+00:00",
+   "price": "-21% in the past month (stated)",
+   "video_id": "ps7HQgBsw5I"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-09-28T22:02:12.212482+00:00",
+   "price": "$68 (stated); 17 fwd PE (stated)",
+   "video_id": "ps7HQgBsw5I"
+  },
+  {
+   "ticker": "DASH",
+   "tickerSlug": "DASH",
+   "direction": "BUY",
+   "date": "2026-09-28T22:02:12.212482+00:00",
+   "price": "~$22k position, slightly green (his holding)",
+   "video_id": "ps7HQgBsw5I"
+  }
+ ]
+}
