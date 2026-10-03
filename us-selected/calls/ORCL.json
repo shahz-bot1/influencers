@@ -1,0 +1,43 @@
+{
+ "ticker": "ORCL",
+ "slug": "ORCL",
+ "calls": [
+  {
+   "video_id": "s7G5dXn2VTY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "ORCL",
+   "direction": "BUY",
+   "price_at_call": "~$139 (market at recording; his fair value $131)",
+   "thesis": "Still a buying opportunity on risk/reward — DCF fair value revised up to $131 with FCF estimates improved by large customer deposits — but LOW conviction given extreme leverage and OpenAI concentration.",
+   "base_case": "Fair value $131 vs $139 market (~fairly valued on DCF; undervalued on forward PE 12.71).",
+   "bull_case": "Cash flow turns positive in 2029 as new data centers come online; stock cheaper than in 2024 pre-growth-acceleration.",
+   "bear_case": "FCF -$25B (2026), -$37B (2027), -$32.6B (2028); OpenAI (hundreds of billions contracted) wobble hits Oracle hardest of the hyperscalers.",
+   "analyzed_at": "2026-09-26T14:00:01.000665+00:00"
+  },
+  {
+   "video_id": "FXDiB6n-5RU",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "ORCL",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Recently started an extremely small position; accelerating growth.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Huge debt pile.",
+   "collab_byline": "Future Investing and Couch Investor",
+   "published_at": "2026-09-16T01:35:30+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
+  }
+ ]
+}
