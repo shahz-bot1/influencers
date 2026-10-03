@@ -1,0 +1,41 @@
+{
+ "ticker": "T",
+ "slug": "T",
+ "calls": [
+  {
+   "ticker": "T",
+   "direction": "BUY",
+   "thesis": "Ranked BUY with 4.4% yield; DCF fair value $34.60 vs $25 market price; if forced to pick one, AT&T is the better stock (he suggests a 50/50 split of the two otherwise).",
+   "price_at_call": "$25 (stated)",
+   "bull_case": "Low-single-digit organic revenue growth, op margins up to 21%, 4.4% yield.",
+   "bear_case": "Saturated market; ROIC 8.11% and never above 12% in a decade; massive 5G->6G capex cycles.",
+   "base_case": null,
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "cxfKaDeWsJo",
+   "video_title": "Should Investors Buy AT&T Stock Instead of Verizon Stock? | T Stock Analysis | VZ Stock Analysis",
+   "published_at": "2026-09-29T15:59:59.109610+00:00",
+   "analyzed_at": "2026-09-29T18:01:32.562233+00:00"
+  },
+  {
+   "video_id": "L-fyyxjzvZw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is AT&T an Undervalued Dividend Stock to Buy for Passive Income Investors? | T Stock Analysis",
+   "ticker": "T",
+   "direction": "BUY",
+   "price_at_call": "$25.50 (stated current); DCF fair value $34.60",
+   "thesis": "Buying opportunity for dividend/passive-income investors, medium conviction: improving margins, low-single-digit organic growth, forward PE 9.9 seen fair.",
+   "base_case": "DCF fair value $34.60 vs $25.50 current; slightly-to-undervalued overall.",
+   "bull_case": "Near-term iPhone foldable ('iPhone Duo') catalyst drives upgrades, upsell and engagement; margins keep expanding via AI cost cuts.",
+   "bear_case": "6G upgrade cycle requiring major capex; AT&T's mediocre capital allocation (ROIC 8.11% ~ WACC); saturated market, dividend yield 4.36% trails money market/bonds.",
+   "analyzed_at": "2026-09-28T18:01:07.968666+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
