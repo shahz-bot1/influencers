@@ -1,0 +1,169 @@
+{
+ "ticker": "GOOGL",
+ "slug": "GOOGL",
+ "calls": [
+  {
+   "video_id": "DFQjG012fRk",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "price_at_call": "~$200k position, largest holding (stated); not selling",
+   "thesis": "Still holding and not selling: Gemini 4 looks frontier/well-rounded, and Google's distribution, full stack and half-price positioning let it undercut debt-laden OpenAI/Anthropic without needing direct Gemini monetization.",
+   "base_case": null,
+   "bull_case": "Gemini 4 benchmarks hold up and Google converts distribution (Android/Gmail/YouTube/Drive) into AI share.",
+   "bear_case": null,
+   "published_at": "2026-10-01T21:02:09.000658+00:00",
+   "analyzed_at": "2026-10-02T10:16:22.954782+00:00",
+   "stance_flip": null,
+   "video_title": "Google And Meta Will Beat OpenAI And Anthropic"
+  },
+  {
+   "video_id": "0DD1Kh8id3E",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "price": null,
+   "thesis": "Preferred next-dollar buy vs MSFT: slightly undervalued (DCF FV $331 vs $343 market), superior ROIC 46% and $2.15M revenue/employee.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  },
+  {
+   "video_id": "-kJ3c3kbXr4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "target $400 (stated)",
+   "thesis": "\"AI loser\" perception wrong: GCP ~$25B/quarter growing 82% YoY with segment margins rising to 35.5%; search de-risking toward a ~50/50 revenue split; 16.9x forward PE (low ex one-time gains); $242B cash vs rising AI capex; Gemini 4 is the biggest upcoming catalyst; TPU external sales begin 2027.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-09-29T22:01:23.027072+00:00"
+  },
+  {
+   "video_id": "ps7HQgBsw5I",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "How I'm Investing With $1.5 Million Stock Portfolio",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "price_at_call": "~$200k position, +$18k gains (his holding); 25 fwd PE (stated)",
+   "thesis": "Still a hold — AI-model-race concern (Gemini lagging ChatGPT/Claude) but valuation not stretched; patient since the race changes fast; would strongly consider trimming at 30 PE.",
+   "base_case": "Search +17%, YouTube ~$1T value (ads +12%, subscriptions +17%), cloud +57% YoY with backlog above $500B (+374%), revenue growth est 23%.",
+   "bull_case": null,
+   "bear_case": "Search exposed to agents/assistants; analyst EPS est -27% next year (driven by one-off equity gains e.g. SpaceX; organic EPS still +5-6%).",
+   "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  },
+  {
+   "video_id": "swW1xxJhyFE",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "not stated (~$4T market cap context)",
+   "thesis": "Restated BUY (no flip; own-channel BUY Sep 29): one of the best tech/internet businesses; search fears overdone (search revenue +16.7% YoY); Google Cloud accelerating with $514B backlog; Gemini 1B MAU; hands in many jars = safe AI bet.",
+   "base_case": "Search + Cloud + YouTube compound; non-search revenue approaching 50% of mix.",
+   "bull_case": "Supply-constrained Cloud growth unleashed; Gemini monetization scales.",
+   "bear_case": "Mag-7 concentration; AI capex cycle pressures margins.",
+   "analyzed_at": "2026-10-03T20:34:20.008271+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor",
+   "published_at": "2026-09-28T15:00:07+00:00"
+  },
+  {
+   "video_id": "MgyF6WSteJE",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "conviction": "high",
+   "stated_price": 342.0,
+   "fair_value": 338.0,
+   "thesis": "Hall of Fame business: full AI stack with 2.7x performance edge, AI at $100B run rate, 22.7x fwd PE reasonable for ~20% revenue growth; priced fairly to slightly underpriced.",
+   "bull": "146B free cash flow in 2029 as AI capex peaks 2027-28 and investments bear fruit.",
+   "bear": "Hundreds of billions in unprecedented AI spend; FCF forecast negative $32B next year.",
+   "analyzed_at": "2026-09-27T13:56:51.947282+00:00"
+  },
+  {
+   "video_id": "FXDiB6n-5RU",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "bought last year at ~18-20x earnings",
+   "thesis": "Still okay buying Google; not the end of the company.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "Future Investing and Couch Investor",
+   "published_at": "2026-09-16T01:35:30+00:00"
+  },
+  {
+   "video_id": "D-P5ryvcIAA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Still a buy despite doubling; stronger company than a year ago.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Search/ads/Cloud/TPU/YouTube all firing.",
+   "bull": "Wins consumer AI via distribution; YouTube video-data moat.",
+   "bear": "LLM disruption fear (largely debunked by data).",
+   "collab_byline": "Investing Moats with Varun and Couch Investor",
+   "published_at": "2026-07-01T14:30:34+00:00"
+  },
+  {
+   "video_id": "i2p1PcQWsqw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Round-2 pick; largest position; 'must-own'; Gemini built in-house.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Search/YouTube/ads/cloud/Waymo diversification.",
+   "bull": "Gemini overtakes ChatGPT; Waymo spin-off adds 20-25%.",
+   "bear": "Capex concerns; slight Q4 revenue slowdown.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+   "published_at": "2026-02-25T16:45:00+00:00"
+  },
+  {
+   "video_id": "4vgg_-dkDC0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "analyst 12-month upside ~10%",
+   "thesis": "Search mid-teens growth, Cloud 25-30%, Waymo under-credited, $95B reserves absorb regulatory fines.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "12-15% annualized returns 'totally normal'.",
+   "bear": "Regulatory risk looms.",
+   "collab_byline": "BWB - Business With Brian and Dividendology",
+   "published_at": "2025-08-14T14:45:01+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 2
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 8
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 9
+  }
+ ]
+}
