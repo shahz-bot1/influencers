@@ -1,0 +1,47 @@
+{
+ "ticker": "MA",
+ "slug": "MA",
+ "calls": [
+  {
+   "video_id": "ps7HQgBsw5I",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "How I'm Investing With $1.5 Million Stock Portfolio",
+   "ticker": "MA",
+   "direction": "HOLD",
+   "price_at_call": "$190k position, +$42k (his holding)",
+   "thesis": "Not touching it — above-50% profit margins deserve a high-20s multiple; growing in every region; agentic commerce makes Visa/Mastercard more valuable, not less.",
+   "base_case": null,
+   "bull_case": "Above-inflation revenue growth in every territory (Europe 14%, LatAm/Caribbean 20%); agentic commerce tailwind.",
+   "bear_case": null,
+   "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  },
+  {
+   "video_id": "cZj7HcT8mA8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "MA",
+   "direction": "HOLD",
+   "price_at_call": "$559 (DCF $523 stated)",
+   "thesis": "Hall of Fame company at fair prices; prefers V today on better margins (67% vs 59%) and mild undervaluation — MA slightly overvalued at $559 vs $523 DCF.",
+   "base_case": "DCF fair value $523.",
+   "bull_case": "Faster growth than Visa.",
+   "bear_case": "Same disruption/regulatory risks as V, but priced at a premium.",
+   "video_title": "Should Investors Buy Visa Instead of Mastercard? | V Stock vs. MA Stock",
+   "published_at": "2026-09-25T13:58:18+00:00",
+   "analyzed_at": "2026-09-25T22:06:06.990084+00:00",
+   "flip": false,
+   "backfilled": "15:00 intraday digest had MA HOLD but calls.json was missing it; added in 23:00 run"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  }
+ ]
+}
