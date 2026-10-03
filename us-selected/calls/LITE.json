@@ -1,0 +1,26 @@
+{
+ "ticker": "LITE",
+ "slug": "LITE",
+ "calls": [
+  {
+   "video_id": "RgK-UsB_d6w",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "If You Missed NVIDIA, Jensen Just Showed Us What's Even Bigger (3 Stocks to Buy Now)",
+   "ticker": "LITE",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Preferred networking play (Lumentum, optics/photonics); copper-to-fiber upgrade cycle plus data-center networking demand; consolidating at highs before a breakout, 50-70% upside if macro headwinds clear.",
+   "base_case": null,
+   "bull_case": "One-two punch of networking buildout and copper-to-optics upgrades; EPS estimates rising through 2028.",
+   "bear_case": "Macro chop: 10-year at 5.3% pressures multiples despite strong fundamentals.",
+   "analyzed_at": "2026-09-29T05:56:28.042154+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
