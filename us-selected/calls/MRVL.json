@@ -1,0 +1,63 @@
+{
+ "ticker": "MRVL",
+ "slug": "MRVL",
+ "calls": [
+  {
+   "video_id": "RgK-UsB_d6w",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "If You Missed NVIDIA, Jensen Just Showed Us What's Even Bigger (3 Stocks to Buy Now)",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Top of Luke Lango's shopping list; AI safety push shifts compute focus from pre-training (GPUs) to inferencing, where networking and custom silicon are the buildout bottlenecks — both Marvell strengths; chart rebounding above the 200-day MA.",
+   "base_case": null,
+   "bull_case": "Safety vertical adds more networking/custom-silicon demand to the data-center buildout.",
+   "bear_case": null,
+   "analyzed_at": "2026-09-29T05:56:28.042154+00:00"
+  },
+  {
+   "video_id": "0c-MflvThsA",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "Should Investors Buy Broadcom Stock Instead of Marvell Stock? | AVGO Stock vs. MRVL Stock",
+   "published_at": "2026-09-28T12:55:37.807225+00:00",
+   "detected_at": "2026-09-28T13:55:37.807225+00:00",
+   "direction": "AVOID",
+   "ticker": "MRVL",
+   "stated_price": "$266 (DCF fair value $207)",
+   "thesis": "Not interested in buying anywhere near these levels; prefers Broadcom and several other semis over Marvell; ~22% downside implied",
+   "base_case": "Growth catches up but 39x forward P/E vs AVGO's 18x more than prices it in",
+   "bull_case": "Jensen Huang's trillion-dollar suggestion proves right; data-center connectivity demand surges",
+   "bear_case": "Premium compresses as near-term growth disappoints; DCF suggests ~22% downside"
+  },
+  {
+   "video_id": "i2p1PcQWsqw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Recently bought and added to it himself; likes the interconnect/AI-pipeline thesis.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bull": "Revaluation like MU/SNDK saw.",
+   "bear": "Stiff competition from Broadcom/Nvidia; traded sideways 5 years.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+   "published_at": "2026-02-25T16:45:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 2
+  }
+ ]
+}
