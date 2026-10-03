@@ -1,0 +1,52 @@
+{
+ "title": "3 Undervalued Healthcare Stocks Invstors Can Buy Right Now",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-28",
+ "source_note": "Detailed summary generated from video captions; captions readable, some auto-caption garbling of numbers",
+ "summary": "Parkevtate frames US healthcare as disrupted by administration pricing pressure — pushing consumers to pay their own way and pressing pharma/healthcare companies to lower prices in exchange for reduced tariffs — creating stock-picking opportunities and risks. Three DCF-based BUY calls. TDOC (Teladoc Health): BUY at $6.13 (fair value $7.86, ~30% upside over 12-18 months); pandemic boom then plateau, revenue peaked with one segment declining ~20%; long-term telehealth substitution tailwind as management cuts ad spend and improves provider availability. LLY (Eli Lilly): BUY (fair value $1,494, ~30% upside); weight-loss demand surge likened to the AI boom; free cash flow estimated growing $12B (2025) to over $77B by 2032; robust pipeline over decades; he owns it and is adding; bear case is administration drug-pricing pressure. This reaffirms his 26 Sep LLY BUY — no flip. OSCR (Oscar Health): BUY (fair value above $41/share, >34% upside); one of the best at incorporating AI for efficiency; fastest-growing US health company since 2024 with >20% forecast revenue CAGR through 2030 and improving profits; bear case is that policy disruption cuts both ways. He adds that healthcare spending is non-cyclical, giving investors macro diversification. Also announces his book on his six-step investing framework.",
+ "video_id": "Gw2IlH5msQE",
+ "calls": [
+  {
+   "video_id": "Gw2IlH5msQE",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "3 Undervalued Healthcare Stocks Invstors Can Buy Right Now",
+   "published_at": "2026-09-28T11:55:37.807225+00:00",
+   "detected_at": "2026-09-28T13:55:37.807225+00:00",
+   "direction": "BUY",
+   "ticker": "TDOC",
+   "stated_price": "$6.13 (DCF fair value $7.86)",
+   "thesis": "Post-COVID plateau priced in; telehealth substitution tailwind; ~30% DCF upside over 12-18 months",
+   "base_case": "Virtual-visit share keeps rising; cost discipline stabilizes the flatlining segments",
+   "bull_case": "Platform-provider capacity improvements accelerate adoption",
+   "bear_case": "Revenue peaked; one segment still declining ~20% per management"
+  },
+  {
+   "video_id": "Gw2IlH5msQE",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "3 Undervalued Healthcare Stocks Invstors Can Buy Right Now",
+   "published_at": "2026-09-28T11:55:37.807225+00:00",
+   "detected_at": "2026-09-28T13:55:37.807225+00:00",
+   "direction": "BUY",
+   "ticker": "LLY",
+   "stated_price": "fair value $1,494 (stated price garbled in captions)",
+   "thesis": "Weight-loss tailwind, booming free cash flow ($12B 2025 -> $77B 2032 est.); ~30% upside; he owns it and is adding",
+   "base_case": "Obesity franchise keeps growing for several more years",
+   "bull_case": "Pipeline delivers new blockbusters over the next 10-30 years; decades of R&D execution",
+   "bear_case": "Pricing pressure from the administration's drug-price deals; current price (garbled) limits margin of safety"
+  },
+  {
+   "video_id": "Gw2IlH5msQE",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "3 Undervalued Healthcare Stocks Invstors Can Buy Right Now",
+   "published_at": "2026-09-28T11:55:37.807225+00:00",
+   "detected_at": "2026-09-28T13:55:37.807225+00:00",
+   "direction": "BUY",
+   "ticker": "OSCR",
+   "stated_price": "fair value >$41/share (current slightly above that in garbled captions)",
+   "thesis": "Fastest-growing US health co since 2024 (40%+ revenue CAGR), >20% CAGR forecast through 2030; >34% DCF upside 12-18 months",
+   "base_case": "AI-driven efficiency plus >20% revenue CAGR through 2030",
+   "bull_case": "AI ops leverage drives outsized margin expansion",
+   "bear_case": "Macro/healthcare policy disruption cuts both ways"
+  }
+ ]
+}
