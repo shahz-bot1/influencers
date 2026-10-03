@@ -1,0 +1,224 @@
+{
+ "video_id": "jbtxHHpX_u0",
+ "title": "20 Stocks Just Got Crushed by AI… Here are the 5 I'm Buying",
+ "creator": "Joseph Hogue, CFA",
+ "handle": "@josephhogue",
+ "published_at": "2026-09-27T16:55:35.550296+00:00",
+ "summary": "In '20 Stocks Just Got Crushed by AI… Here are the 5 I'm Buying' (published 27 Sep 2026), Joseph Hogue, CFA argues Meta's new Muse personal AI agent is the first real killer app for agentic AI — bringing agents to consumer spending — and maps the ~20 stocks it upends. He likes PayPal (bought back at ~$50 after the takeover-offer rejection cratered it; ~10x P/E vs 16x a year ago, stablecoin growth) and Shopify (Muse users find its merchants' products and check out via Shop Pay; the rails underneath if Muse becomes shopping's front door) as the 'winners to buy'. Expedia is a conditional rebound play: its Muse partnership could redirect bookings through Expedia at Booking's expense, and the stock trades at 16x earnings vs a 25x average — though he stays cautious on the whole travel-middleman group (TripAdvisor, Airbnb, Booking, -15% to -24% in a month). On the AI-build side he ranks four neo-clouds — Oracle, Nebius, CoreWeave, IREN — and takes another look only at Nebius (his pick): ~500% revenue growth, best debt-to-free-cash-flow (-1.8x), 9.8x growth-adjusted P/S — while flagging Oracle's force majeure on a 2.5GW New Mexico data center as 'the first crack in the entire AI boom'. He avoids brokerages (Schwab, Raymond James, LPL, Ameriprise), banks (BofA, JPMorgan) and insurers (Progressive, Allstate) — AI agents could replace advice fees and erode sticky deposit-sweep profits — plus subscription names exposed to AI-driven cancellations (Adobe, SiriusXM, Match, Peloton, Planet Fitness, crushed 15%). Meta itself he holds: great story but ~30% above its 5-year average valuation after the 30% three-week run. Other tickers discussed with no call: Nvidia, Broadcom, AMD, Marvell, Salesforce, ServiceNow, AppLovin, Amazon. Caption note: auto-captions garble 'CoreWeave' as 'Corvus', 'IREN' as 'Iron', and 'Marvell' as 'Marvel'; tickers here are corrected.",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PYPL",
+   "direction": "BUY",
+   "thesis": "Back in shares after takeover-offer rejection cratered the stock. ~10x P/E vs 16x a year ago; expects stablecoin growth to beat forecasts; solid return expected over next year.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
+   "price_at_call": "~$50 (bought when it cratered back to ~$50/share)"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SHOP",
+   "direction": "BUY",
+   "thesis": "One of the 'winners to buy': Muse lets users find Shopify merchant products and check out via Shop Pay; if Muse becomes the new front door for shopping, Shopify is the rails underneath. Jumped double digits last week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "EXPE",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Rebound play: Expedia is partnering with Muse, which could redirect bookings through Expedia at Booking's expense. Trading 16x P/E vs 25x avg (~36% discount) — but still cautious on the whole travel-middleman group.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
+   "base_case": "Muse partnership redirects bookings via Expedia.",
+   "bear_case": "AI agents + weak consumer both hit travel middlemen; cheapness isn't safety."
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "His pick among the 4 neo-clouds: ~500% revenue growth, best debt-to-FCF in group (-1.8x), growth-adjusted P/S 9.8x vs 45x headline. Still pricey and he's leery of the whole neo-cloud model — 'take another look', not a full buy.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
+   "price_at_call": "45x P/S headline, 9.8x growth-adjusted",
+   "base_case": "500% revenue growth + best balance sheet of the four.",
+   "bear_case": "Technological obsolescence forces constant data-center reloads; all four cash-flow negative."
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "META",
+   "direction": "HOLD",
+   "thesis": "Killer-app story is real but the easy money is made: 8.7x sales / 29x earnings is ~30% above the 5-yr average. Long-term investors will be rewarded, but wait for a pullback from the hype before buying big.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "TRIP",
+   "direction": "AVOID",
+   "thesis": "Travel middlemen disrupted by Muse; -15% in a month. Cheapest-looking stocks in this group aren't necessarily bargains.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ABNB",
+   "direction": "AVOID",
+   "thesis": "Same travel-middleman disruption thesis; -18% in a month.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BKNG",
+   "direction": "AVOID",
+   "thesis": "Same travel-middleman disruption thesis; -24% in a month. Expedia's Muse partnership could come at Booking's expense.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SCHW",
+   "direction": "AVOID",
+   "thesis": "Brokerages threatened as AI agents replace basic asset-allocation advice; be very careful assuming last week's drop makes these bargains.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "RJF",
+   "direction": "AVOID",
+   "thesis": "Same broker/wealth-manager disruption thesis; -3 to -6% on the week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "LPLA",
+   "direction": "AVOID",
+   "thesis": "Same broker/wealth-manager disruption thesis; -3 to -6% on the week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "AMP",
+   "direction": "AVOID",
+   "thesis": "Same broker/wealth-manager disruption thesis; plunged 9% on the week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BAC",
+   "direction": "AVOID",
+   "thesis": "Banks threatened as agents optimize cash/deposits continuously, eroding sticky sweep profits; -3% on week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "JPM",
+   "direction": "AVOID",
+   "thesis": "Same bank deposit-sweep profit threat; -3% on week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PGR",
+   "direction": "AVOID",
+   "thesis": "Insurers hit as agents shop rates/insurance products for consumers; fell harder than banks.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ALL",
+   "direction": "AVOID",
+   "thesis": "Same insurer disruption thesis.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ADBE",
+   "direction": "AVOID",
+   "thesis": "Subscription-cancellation threat: Barron's test had Muse find and cancel a forgotten Adobe subscription, saving $25/mo. Watch out for companies relying on unengaged subscribers.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SIRI",
+   "direction": "AVOID",
+   "thesis": "Same subscription-switching threat; -2 to -4% on week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "MTCH",
+   "direction": "AVOID",
+   "thesis": "Same subscription-switching threat; -2 to -4% on week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PLNT",
+   "direction": "AVOID",
+   "thesis": "Crushed 15% on the subscription-cancellation threat — worst hit of the group.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PTON",
+   "direction": "AVOID",
+   "thesis": "Same subscription-switching threat; -2 to -4% on week.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ORCL",
+   "direction": "AVOID",
+   "thesis": "Force majeure on the 2.5GW New Mexico data center could be 'the first crack in the entire AI boom'; worst of the neo-cloud group, -53% since May, -5.1x debt-to-FCF.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
+   "price_at_call": "-6.5% on the week / -53% since May"
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "CRWV",
+   "direction": "AVOID",
+   "thesis": "'Definitely some cracks for Coreweave and Oracle'; worst debt-to-FCF in group at -7.9x; -30% since May. (Captions garble as 'Corvus'.)",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
+  }
+ ]
+}
