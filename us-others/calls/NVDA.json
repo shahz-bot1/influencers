@@ -1,0 +1,22 @@
+{
+ "ticker": "NVDA",
+ "slug": "NVDA",
+ "calls": [
+  {
+   "video_id": "7Lm8O0CuvLs",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Bullish as an investor on the $150B buyback authorization increase (remaining program $235B, executed through FY2028); management signaling the money will be worth much more. Forward P/E ~19, likely 16-17x since analysts underestimate growth. Anthropic has contracted 2.6GW of Nvidia AI infrastructure ($180B+ contracted value) — no worry about losing share.",
+   "analyzed_at": "2026-09-29T03:56:43.894526+00:00",
+   "price_at_call": "not stated in video; cites ~19x forward P/E and ~$5T market cap"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 0
+  }
+ ]
+}
