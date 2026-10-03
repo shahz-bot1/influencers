@@ -1,0 +1,33 @@
+{
+ "ticker": "FICO",
+ "slug": "FICO",
+ "calls": [
+  {
+   "video_id": "htLYrLT9rHQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "FICO",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "Reiterated buy after 26% crash on FHFA/VantageScore competition news; forward PE 11.6, analysts see double-digit revenue growth, DCF shows ~18% upside even with beta raised to 1.75.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  },
+  {
+   "video_id": "mRBhh_hOfao",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "FICO",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $1,153, ~24% upside vs current price (stock down ~45% YTD)",
+   "thesis": "Crash on mortgage-scoring regulation/VantageScore risk is a high-conviction buying opportunity for long-term investors.",
+   "base_case": "DCF $1,153/share; forward P/E 17.5 — cheapest in years; 20%+ revenue growth, 52% operating margins, 56.5% ROIC hold.",
+   "bull_case": "Pricing power and moat persist despite regulation noise; re-rates back toward historic premium multiple.",
+   "bear_case": "Policy changes erode FICO's grip on mortgage scoring, capping price increases and compressing the 52% margins."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
