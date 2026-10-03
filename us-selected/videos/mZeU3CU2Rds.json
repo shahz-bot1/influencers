@@ -1,0 +1,25 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-24",
+ "title": "Is Taiwan Semiconductor Stock an Undervalued AI Stock to Buy Right Now? | TSM Stock Analysis",
+ "source_note": "Detailed summary generated from video captions; captions garbled in a few spots (sponsor line, 'cost to serve'-style glitches)",
+ "summary": "Parkevtate Vosianc revisits Taiwan Semiconductor (TSM) and asks whether it is still a buying opportunity or too late after a ~48% YTD run in 2026. The core thesis: Agentic AI is adding a new leg of demand on top of the existing accelerator/data-center boom — demand for CPUs, memory and storage that was less emphasized before — and TSM is already sold out, forcing a capacity ramp including an additional $100B Arizona investment. TTM revenue is ~$143B with the slope accelerating since ChatGPT; TTM operating margins hit a record 55.84% on high utilization and premium pricing. Risks: Arizona production costs are much higher than Taiwan and management has been guiding for declining margins (though that has not materialized for over a year), plus tariffs and geopolitical concentration. Capital allocation has been above WACC for roughly three decades, so he trusts the heavy capex. Valuation: forward P/E is near a two-year high but below the S&P 500 average — he attributes the discount entirely to the Taiwan geopolitical risk premium. His updated DCF puts fair value at $639 vs a $445 market price, ~43% upside over 12-18 months. He reiterates his Aug 31 BUY and upgrades conviction from medium to high. Mentions Nvidia, Apple, AMD as key customers, and previews a members-only live on Micron earnings Sep 30. Call: TSM — BUY @ $445 stated (DCF fair value $639).",
+ "video_id": "mZeU3CU2Rds",
+ "calls": [
+  {
+   "video_id": "mZeU3CU2Rds",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Taiwan Semiconductor Stock an Undervalued AI Stock to Buy Right Now? | TSM STock Analysis",
+   "published_at": "2026-09-24T13:45:42.837875+00:00",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price_at_call": "$445 (stated market price)",
+   "thesis": "Agentic AI adds a new leg of growth on top of already sold-out capacity; record 55.8% margins; geopolitical risk premium already in valuation.",
+   "base_case": "DCF fair value $639 vs $445 = 43% upside over 12-18 months.",
+   "bull_case": "Rating reiterated as buying opportunity with conviction upgraded from medium to high.",
+   "bear_case": "Arizona capacity costs much higher than Taiwan; management guides declining margins ahead, though utilization has offset it for a year.",
+   "analyzed_at": "2026-09-24T13:58:13.756537+00:00"
+  }
+ ]
+}
