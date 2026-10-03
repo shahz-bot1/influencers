@@ -1,0 +1,25 @@
+{
+ "ticker": "COIN",
+ "slug": "COIN",
+ "calls": [
+  {
+   "video_id": "qnhZxRrFN-Y",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "COIN",
+   "direction": "BUY",
+   "price_at_call": "~$195; short interest ~12% (down 19% in a month)",
+   "thesis": "Shorts have it wrong and know it; BTC/ETH climbing and Clarity Act now has a path to passing -> COIN as equity proxy for digital-currency adoption.",
+   "base_case": "Base: tracks Bitcoin; up 32% in 3 months continues as crypto thaws.",
+   "bull_case": "Regulatory clarity + risk-on market -> short-fueled rally off 12% short interest.",
+   "bear_case": "Risk-off market drags crypto and COIN back down with it.",
+   "analyzed_at": "2026-09-26T05:59:20.040279+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
