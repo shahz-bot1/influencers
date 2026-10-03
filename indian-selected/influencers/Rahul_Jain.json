@@ -1,0 +1,127 @@
+{
+ "name": "Rahul Jain",
+ "handle": "@torahulj",
+ "slug": "Rahul_Jain",
+ "calls": [
+  {
+   "ticker": "NIFTY BANK",
+   "tickerSlug": "NIFTY_BANK",
+   "direction": "BUY",
+   "date": "2026-09-27T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "kJuk2TsBfaI"
+  },
+  {
+   "ticker": "NIFTY NEXT 50",
+   "tickerSlug": "NIFTY_NEXT_50",
+   "direction": "BUY",
+   "date": "2026-09-27T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "kJuk2TsBfaI"
+  },
+  {
+   "ticker": "NIFTY MIDCAP 150",
+   "tickerSlug": "NIFTY_MIDCAP_150",
+   "direction": "BUY",
+   "date": "2026-09-27T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "kJuk2TsBfaI"
+  },
+  {
+   "ticker": "NIFTY FMCG",
+   "tickerSlug": "NIFTY_FMCG",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-09-27T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "kJuk2TsBfaI"
+  },
+  {
+   "ticker": "NIFTY ENERGY",
+   "tickerSlug": "NIFTY_ENERGY",
+   "direction": "BUY",
+   "date": "2026-09-27T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "kJuk2TsBfaI"
+  },
+  {
+   "ticker": "NIFTY SMALLCAP 250",
+   "tickerSlug": "NIFTY_SMALLCAP_250",
+   "direction": "AVOID",
+   "date": "2026-09-27T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "kJuk2TsBfaI"
+  },
+  {
+   "ticker": "GOLD",
+   "tickerSlug": "GOLD",
+   "direction": "AVOID",
+   "date": "2026-09-27T20:54:12.349385+00:00",
+   "price": "Rs 1,50,000 (stated as current price)",
+   "video_id": "kJuk2TsBfaI"
+  },
+  {
+   "ticker": "NIFTY 50",
+   "tickerSlug": "NIFTY_50",
+   "direction": "HOLD",
+   "date": "2026-09-27T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "kJuk2TsBfaI"
+  },
+  {
+   "ticker": "NASDAQ 100",
+   "tickerSlug": "NASDAQ_100",
+   "direction": "HOLD",
+   "date": "2026-09-27T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "kJuk2TsBfaI"
+  },
+  {
+   "ticker": "JAPANESE GOVT BONDS (JGB)",
+   "tickerSlug": "JAPANESE_GOVT_BONDS_JGB",
+   "direction": "BUY",
+   "date": "2026-09-23T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "NZ0fsllxcdE"
+  },
+  {
+   "ticker": "NASDAQ 100",
+   "tickerSlug": "NASDAQ_100",
+   "direction": "SELL",
+   "date": "2026-09-23T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "NZ0fsllxcdE"
+  },
+  {
+   "ticker": "INDIA SMALL/MIDCAP",
+   "tickerSlug": "INDIA_SMALL_MIDCAP",
+   "direction": "SELL",
+   "date": "2026-09-23T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "NZ0fsllxcdE"
+  },
+  {
+   "ticker": "INDIA LARGE CAP",
+   "tickerSlug": "INDIA_LARGE_CAP",
+   "direction": "BUY",
+   "date": "2026-09-23T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "NZ0fsllxcdE"
+  },
+  {
+   "ticker": "INDIA PRIVATE BANKS",
+   "tickerSlug": "INDIA_PRIVATE_BANKS",
+   "direction": "BUY",
+   "date": "2026-09-23T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "NZ0fsllxcdE"
+  },
+  {
+   "ticker": "US AI STOCKS",
+   "tickerSlug": "US_AI_STOCKS",
+   "direction": "SELL",
+   "date": "2026-09-23T20:54:12.349385+00:00",
+   "price": "not stated",
+   "video_id": "NZ0fsllxcdE"
+  }
+ ]
+}
