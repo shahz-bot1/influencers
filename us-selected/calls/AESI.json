@@ -1,0 +1,28 @@
+{
+ "ticker": "AESI",
+ "slug": "AESI",
+ "calls": [
+  {
+   "video_id": "HbkvoRgodmw",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "AESI",
+   "direction": "BUY",
+   "price_at_call": "n/a (guest pick)",
+   "thesis": "Behind-the-meter off-grid power for data centers sidesteps the 5-7yr interconnect queue; guest sees long-term 3-5x.",
+   "base_case": "Base: data-center power demand converts fracking power expertise into contracted revenue.",
+   "bull_case": "Bull: behind-the-meter becomes the standard AI power play; 3-5x in a few years.",
+   "bear_case": "Bear: grid connections arrive faster than feared; power pricing compresses.",
+   "published_at": "2026-09-30T22:55:15.965630+00:00",
+   "analyzed_at": "2026-10-01T05:57:02.043190+00:00",
+   "stance_flip": null,
+   "video_title": "Buy the Dip in These 4 Energy Stocks (The Next AI Boom Needs Them)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
