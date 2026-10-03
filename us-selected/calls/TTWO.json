@@ -1,0 +1,25 @@
+{
+ "ticker": "TTWO",
+ "slug": "TTWO",
+ "calls": [
+  {
+   "video_id": "QswotwkLAJ0",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "TTWO",
+   "direction": "BUY",
+   "conviction": "low",
+   "stated_price": 207.0,
+   "fair_value": 202.0,
+   "thesis": "GTA 6 launches Nov; revenue more than 4x since 2017, forward PE 20 cheapest in years, stock -20% YTD 2026; trading ~fair on his DCF.",
+   "bull": "Digital shift + higher ASPs make GTA 6 more lucrative; ROIC could jump above 20%, near 30% in 3-5 years.",
+   "bear": "Op margin negative since 2024, ROIC collapsed, repeated GTA 6 delays dent innovation confidence; single-game concentration.",
+   "analyzed_at": "2026-09-27T13:56:51.947282+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
