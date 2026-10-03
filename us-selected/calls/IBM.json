@@ -1,0 +1,28 @@
+{
+ "ticker": "IBM",
+ "slug": "IBM",
+ "calls": [
+  {
+   "video_id": "0sj4CTkOw6Q",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "IBM",
+   "direction": "BUY",
+   "price_at_call": "market $220 (stated); DCF FV $254",
+   "thesis": "Reiterating BUY, medium conviction, slightly more bullish than his 27 Jul ranking: revenue ~5% growth guide, operating margin ~11% to ~21% since 2021, AI-driven revenue/employee at record levels, ~15% upside to FV over 12-18 months.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-02T17:00:45.184344+00:00",
+   "analyzed_at": "2026-10-03T06:29:52.571646+00:00",
+   "stance_flip": null,
+   "video_title": "IBM Stock: Buy, Hold, or Sell?"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
