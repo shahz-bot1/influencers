@@ -48,6 +48,13 @@ html[data-theme="dark"] .CONDITIONAL_BUY{background:#16294d;color:#8ab4f8}
 .btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
 .empty{color:var(--muted);padding:24px;text-align:center}
 .note{font-size:.78rem;color:var(--muted);margin-top:20px}
+.pager{display:flex;justify-content:space-between;align-items:center;margin:14px 0;padding:10px 4px}
+.pager button{border:1px solid var(--border);background:var(--card);color:var(--fg);border-radius:8px;padding:8px 16px;cursor:pointer;font-size:.88rem}
+.pager button:disabled{opacity:.4;cursor:default}
+.pager span{font-size:.85rem;color:var(--muted)}
+.loading{padding:32px;text-align:center;color:var(--muted)}
+.errbox{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px;margin:12px 0;text-align:center}
+.avg{font-size:.76rem;color:var(--muted)}
 </style></head>
 <body><div class="wrap">
 <div class="topbar"><a class="back" href="../">← All watches</a>
@@ -58,83 +65,76 @@ html[data-theme="dark"] .CONDITIONAL_BUY{background:#16294d;color:#8ab4f8}
 </div><script>
 var DIRS=["BUY","CONDITIONAL_BUY","HOLD","SELL","AVOID"];
 var CCY="$";
-var CALLS=[],SUMMARIES={},CHANNELS=[],SEEN={};
-var state={view:"home",tab:"calls",q:"",fdir:"ALL",sort:"recent",ticker:null,inf:null,subtab:"calls"};
+var IDX=null;
+var shardCache={}, fetching={}, loadErr={};
+var state={view:"home",tab:"calls",q:"",fdir:"ALL",sort:"recent",page:1,tickerSlug:null,infSlug:null,subtab:"calls",vpage:1};
+var PAGE=25, VPAGE=20;
 function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
 function fmtDate(iso){if(!iso)return "—";var d=new Date(iso);if(isNaN(d))return String(iso).slice(0,10);
  return d.toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"});}
 function callDate(c){return c.published_at||c.analyzed_at||"";}
-function parsePrice(v){if(v==null)return null;var m=String(v).replace(/,/g,"").match(/\d+(\.\d+)?/);return m?parseFloat(m[0]):null;}
-function fmtMoney(n){if(n==null||isNaN(n))return "—";return CCY+Number(n).toLocaleString("en-US",{maximumFractionDigits:2});}
 function dirChip(d,n){return '<span class="chip '+esc(d)+'">'+esc(d.replace("_"," "))+(n!=null?" · "+n:"")+"</span>";}
-function load(){return Promise.all([fetch("calls.json").then(function(r){return r.json();}),
- fetch("video_summaries.json").then(function(r){return r.json();}),
- fetch("channels.json").then(function(r){return r.json();}).catch(function(){return[];}),
- fetch("seen.json").then(function(r){return r.json();}).catch(function(){return{};})])
- .then(function(a){CALLS=a[0];SUMMARIES=a[1];CHANNELS=a[2];SEEN=a[3];render();})
- .catch(function(){document.getElementById("app").innerHTML='<div class="empty">Could not load data files.</div>';});}
-function explicit(){return CALLS.filter(function(c){return DIRS.indexOf(c.direction)>=0;});}
-function vidChannel(vid){var s=SEEN[vid];if(s&&typeof s==="object"&&s.channel)return s.channel;
- var v=SUMMARIES[vid];return (v&&v.creator)||"";}
-function buildTickers(){
- var byT={};
- explicit().forEach(function(c){(byT[c.ticker]=byT[c.ticker]||[]).push(c);});
- return Object.keys(byT).map(function(t){
-  var cs=byT[t].slice().sort(function(a,b){return String(callDate(b)).localeCompare(String(callDate(a)));});
-  var latest={};cs.forEach(function(c){if(!latest[c.channel])latest[c.channel]=c;});
-  var infs=Object.keys(latest).sort(function(a,b){return String(callDate(latest[b])).localeCompare(String(callDate(latest[a])));});
-  var counts={},avgs={};
-  infs.forEach(function(f){var d=latest[f].direction;counts[d]=(counts[d]||0)+1;
-   var p=parsePrice(latest[f].price_at_call);(avgs[d]=avgs[d]||[]).push(p);});
-  var chips=DIRS.filter(function(d){return counts[d];}).map(function(d){
-   var ps=(avgs[d]||[]).filter(function(p){return p!=null;});
-   var avg=ps.length?fmtMoney(ps.reduce(function(a,b){return a+b;},0)/ps.length):null;
-   return {dir:d,n:counts[d],avg:avg};});
-  var lastStated=null,lastDate="";
-  cs.forEach(function(c){if(c.price_at_call&&String(c.price_at_call).toLowerCase().indexOf("not stated")<0&&!lastStated){lastStated=c.price_at_call;lastDate=callDate(c);}});
-  return {ticker:t,calls:cs,latest:latest,infs:infs,chips:chips,lastDate:callDate(cs[0]),
-   lastStated:lastStated,lastStatedDate:lastDate,nCalls:cs.length};
- }).filter(function(t){return t.infs.length>0;});
+function load(){fetch("index.json").then(function(r){if(!r.ok)throw new Error("http "+r.status);return r.json();})
+ .then(function(d){IDX=d;render();})
+ .catch(function(){document.getElementById("app").innerHTML='<div class="empty">Could not load the data index. Check your connection and reload.</div>';});}
+function getShard(kind,slug){
+ var key=kind+"/"+slug;
+ if(shardCache[key])return Promise.resolve(shardCache[key]);
+ return fetch(key+".json").then(function(r){if(!r.ok)throw new Error("http "+r.status);return r.json();})
+  .then(function(d){shardCache[key]=d;return d;});
+}
+function filteredTickers(){
+ var q=state.q.toLowerCase();
+ var list=(IDX.tickers||[]).filter(function(t){
+  if(q&&t.ticker.toLowerCase().indexOf(q)<0)return false;
+  if(state.fdir!=="ALL"&&!t.chips.some(function(c){return c.dir===state.fdir;}))return false;
+  return true;});
+ list.sort(function(a,b){return state.sort==="az"?a.ticker.localeCompare(b.ticker):String(b.lastDate).localeCompare(String(a.lastDate));});
+ return list;
+}
+function pager(page,pages,total,per,list){
+ if(pages<=1)return "";
+ var a=(page-1)*per+1,b=Math.min(page*per,total);
+ return '<div class="pager"><button type="button" data-act="page" data-list="'+list+'" data-d="-1"'+(page<=1?" disabled":"")+">← Prev</button>"
+ +'<span>Showing '+a+"–"+b+" of "+total+"</span>"
+  +'<button type="button" data-act="page" data-list="'+list+'" data-d="1"'+(page>=pages?" disabled":"")+">Next →</button></div>";
 }
 function tickerRow(t){
- var chips=t.chips.map(function(c){return dirChip(c.dir,c.n)+(c.avg?' <span style="font-size:.76rem;color:var(--muted)">avg '+esc(c.avg)+"</span>":"");}).join(" ");
- return '<div class="trow" data-act="open-ticker" data-t="'+esc(t.ticker)+'"><div class="th"><span class="ticker">'+esc(t.ticker)+'</span>'
+ var chips=t.chips.map(function(c){return dirChip(c.dir,c.n)+(c.avg?' <span class="avg">avg '+esc(c.avg)+"</span>":"");}).join(" ");
+ return '<div class="trow" data-act="open-ticker" data-slug="'+esc(t.slug)+'"><div class="th"><span class="ticker">'+esc(t.ticker)+'</span>'
  +'<span style="font-size:.8rem;color:var(--muted)">'+esc(fmtDate(t.lastDate))+"</span></div>"
  +'<div class="chips">'+chips+"</div>"
- +'<div class="tmeta">'+t.infs.map(esc).join(" · ")+(t.lastStated?' · last stated: '+esc(String(t.lastStated).slice(0,60)):"")+"</div></div>";
+ +'<div class="tmeta">'+t.influencers.map(esc).join(" · ")+(t.lastStated?' · last stated: '+esc(String(t.lastStated)):"")+"</div></div>";
 }
 function backBtn(label){return '<button type="button" class="backbtn" data-act="back">← '+esc(label)+"</button>";}
 function renderHome(){
- var T=buildTickers(),h="";
+ var h="";
  if(state.tab==="calls"){
-  var q=state.q.toLowerCase();
-  var list=T.filter(function(t){
-   if(q&&t.ticker.toLowerCase().indexOf(q)<0)return false;
-   if(state.fdir!=="ALL"&&!t.chips.some(function(c){return c.dir===state.fdir;}))return false;
-   return true;});
-  list.sort(function(a,b){return state.sort==="az"?a.ticker.localeCompare(b.ticker):String(b.lastDate).localeCompare(String(a.lastDate));});
+  var list=filteredTickers();
+  var pages=Math.max(1,Math.ceil(list.length/PAGE));
+  if(state.page>pages)state.page=pages;
+  var rows=list.slice((state.page-1)*PAGE,state.page*PAGE).map(tickerRow).join("");
   var fchips=['<button type="button" data-act="filter" data-f="ALL" class="'+(state.fdir==="ALL"?"on":"")+'">All</button>'].concat(
    DIRS.map(function(d){return '<button type="button" data-act="filter" data-f="'+d+'" class="'+(state.fdir===d?"on":"")+'">'+d.replace("_"," ")+"</button>";})).join("");
   h+='<div class="toolbar"><input type="search" id="q" placeholder="Search ticker…" value="'+esc(state.q)+'" autocomplete="off">'
    +'<select id="sort"><option value="recent"'+(state.sort==="recent"?" selected":"")+'>Most recent</option>'
    +'<option value="az"'+(state.sort==="az"?" selected":"")+'>Ticker A–Z</option></select></div>'
    +'<div class="fchips">'+fchips+"</div>";
-  h+=list.length?list.map(tickerRow).join(""):'<div class="empty">No tickers match.</div>';
+  h+=(rows||'<div class="empty">No tickers match.</div>')+pager(state.page,pages,list.length,PAGE,"tickers");
  }else{
-  var list2=influencerList();
-  h+=list2.length?list2.map(function(inf){
-   var n=inf.name,calls=explicit().filter(function(c){return c.channel===n;});
-   var vids=infVideos(n).length;
-   return '<div class="irow" data-act="open-inf" data-inf="'+esc(n)+'"><div class="nm">'+esc(n)+"</div>"
-   +'<div class="hd">'+(inf.handle?esc(inf.handle)+" · ":"")+calls.length+" calls · "+vids+" videos</div></div>";}).join("")
-   :'<div class="empty">No influencers yet.</div>';
+  h+=(IDX.influencers||[]).map(function(inf){
+   return '<div class="irow" data-act="open-inf" data-slug="'+esc(inf.slug)+'"><div class="nm">'+esc(inf.name)+"</div>"
+   +'<div class="hd">'+(inf.handle?esc(inf.handle)+" · ":"")+inf.nCalls+" calls · "+inf.nVideos+" videos</div></div>";}).join("")
+   ||'<div class="empty">No influencers yet.</div>';
  }
  return '<div class="maintabs"><button type="button" data-act="tab" data-v="calls" class="'+(state.tab==="calls"?"on":"")+'">Active Calls</button>'
  +'<button type="button" data-act="tab" data-v="influencers" class="'+(state.tab==="influencers"?"on":"")+'">Influencers</button></div><div id="list">'+h+"</div>";
 }
-function findCall(vid,ticker,date){return CALLS.filter(function(x){return x.video_id===vid&&x.ticker===ticker&&String(callDate(x))===date;})[0];}
+function findCallIn(arr,vid,ticker,date){
+ return arr.filter(function(x){return x.video_id===vid&&x.ticker===ticker&&String(callDate(x))===date;})[0];
+}
 function callDetailHTML(c){
- var v=SUMMARIES[c.video_id];
+ var v=shardCache["videos/"+c.video_id];
  return "<h2>"+esc(c.ticker)+" "+dirChip(c.direction)+"</h2>"
  +'<div class="kv"><b>Creator</b> '+esc(c.channel)+'</div>'
  +'<div class="kv"><b>Date</b> '+esc(fmtDate(callDate(c)))+'</div>'
@@ -144,18 +144,18 @@ function callDetailHTML(c){
  +(c.bull_case?'<div class="kv"><b>Bull</b> '+esc(c.bull_case)+"</div>":"")
  +(c.bear_case?'<div class="kv"><b>Bear</b> '+esc(c.bear_case)+"</div>":"")
  +(c.video_title?'<div class="kv"><b>Video</b> '+esc(c.video_title)+"</div>":"")
- +(v?'<div class="dactions"><button type="button" class="btn primary" data-act="open-vid" data-vid="'+esc(c.video_id)+'">Video summary</button></div>':"");
+ +'<div class="dactions"><button type="button" class="btn primary" data-act="open-vid" data-vid="'+esc(c.video_id)+'">Video summary</button></div>';
 }
-function videoSummaryHTML(vid){
- var v=SUMMARIES[vid];if(!v||typeof v!=="object")return '<div class="empty">No summary for this video.</div>';
- var calls=CALLS.filter(function(c){return c.video_id===vid&&DIRS.indexOf(c.direction)>=0;});
+function videoSummaryHTML(v){
+ if(!v||typeof v!=="object")return '<div class="empty">No summary for this video.</div>';
  var h="<h2>"+esc(v.title||"(untitled)")+"</h2>"
- +'<div class="kv"><b>Creator</b> '+esc(v.creator||vidChannel(vid)||"")+'</div>'
+ +'<div class="kv"><b>Creator</b> '+esc(v.creator||"")+'</div>'
  +'<div class="kv"><b>Published</b> '+esc(fmtDate(v.published_at))+"</div>"
  +(v.source_note?'<div class="kv" style="color:var(--muted)">'+esc(v.source_note)+"</div>":"")
  +'<p style="white-space:pre-wrap">'+esc(v.summary||"")+"</p>";
+ var calls=v.calls||[];
  if(calls.length){h+="<h3>Calls in this video</h3>"+calls.map(function(c){
-  return '<div class="callrow" data-act="open-call" data-call="'+c.video_id+"|"+esc(c.ticker)+'|'+esc(String(callDate(c)))+'">'
+  return '<div class="callrow" data-act="open-call" data-shardkind="videos" data-shardslug="'+esc(c.video_id)+'" data-vid="'+esc(c.video_id)+'" data-ticker="'+esc(c.ticker)+'" data-date="'+esc(String(callDate(c)))+'">'
   +"<b>"+esc(c.ticker)+"</b> "+dirChip(c.direction)+"</div>";}).join("");}
  else{h+='<div class="empty">No explicit calls in this video.</div>';}
  return h;
@@ -166,94 +166,111 @@ function openDialog(html){closeDialog();
  o.addEventListener("click",function(e){
   if(e.target===o){closeDialog();return;}
   var b=e.target.closest("[data-act]");if(!b)return;
-  var act=b.getAttribute("data-act");
-  if(act==="close-dlg")closeDialog();
-  else if(act==="open-vid")openDialog(videoSummaryHTML(b.getAttribute("data-vid")));
-  else if(act==="open-call"){var p=b.getAttribute("data-call").split("|");var c=findCall(p[0],p[1],p[2]);if(c)openDialog(callDetailHTML(c));}
+  handleAct(b,e);
  });
  document.body.appendChild(o);
 }
 function closeDialog(){var o=document.getElementById("ovl");if(o)o.remove();}
-function renderTicker(){
- var T=buildTickers().filter(function(t){return t.ticker===state.ticker;})[0];
- if(!T){state.view="home";render();return "";}
- var rows=T.infs.map(function(f){var c=T.latest[f];
-  return '<div class="callrow" data-act="open-call" data-call="'+c.video_id+"|"+esc(c.ticker)+'|'+esc(String(callDate(c)))+'">'
-  +"<b>"+esc(f)+"</b> "+dirChip(c.direction)
-  +'<div class="tmeta">'+esc(fmtDate(callDate(c)))+(c.price_at_call?" · "+esc(String(c.price_at_call)).slice(0,80):"")
-  +(c.thesis?" · "+esc(c.thesis).slice(0,120):"")+"</div></div>";}).join("");
- return backBtn("Active Calls")+"<h1>"+esc(T.ticker)+"</h1>"
- +'<div class="chips">'+T.chips.map(function(c){return dirChip(c.dir,c.n);}).join("")+"</div>"
- +'<h3>By influencer (latest stance)</h3>'+rows;
+function renderTickerView(){
+ var meta=(IDX.tickers||[]).filter(function(t){return t.slug===state.tickerSlug;})[0];
+ if(!meta){state.view="home";render();return "";}
+ var key="calls/"+state.tickerSlug, shard=shardCache[key];
+ var h=backBtn("Active Calls")+"<h1>"+esc(meta.ticker)+"</h1>"
+ +'<div class="chips">'+meta.chips.map(function(c){return dirChip(c.dir,c.n)+(c.avg?' <span class="avg">avg '+esc(c.avg)+"</span>":"");}).join("")+"</div>";
+ if(shard){
+  h+="<h3>By influencer (latest stance)</h3>"+(shard.byInf||[]).map(function(e){
+   var c=shard.calls[e.idx];if(!c)return "";
+   return '<div class="callrow" data-act="open-call" data-shardkind="calls" data-shardslug="'+esc(state.tickerSlug)+'" data-vid="'+esc(c.video_id)+'" data-ticker="'+esc(c.ticker)+'" data-date="'+esc(String(callDate(c)))+'">'
+   +"<b>"+esc(e.channel)+"</b> "+dirChip(c.direction)
+   +'<div class="tmeta">'+esc(fmtDate(callDate(c)))+(c.price_at_call?" · "+esc(String(c.price_at_call)).slice(0,80):"")
+   +(c.thesis?" · "+esc(c.thesis).slice(0,120):"")+"</div></div>";}).join("");
+ }else if(loadErr[key]){
+  h+='<div class="errbox">Could not load calls. <button type="button" class="btn" data-act="retry-ticker">Retry</button></div>';
+ }else{
+  h+='<div class="loading">Loading calls…</div>';
+  if(!fetching[key]){fetching[key]=1;getShard("calls",state.tickerSlug).then(function(){fetching[key]=0;render();}).catch(function(){fetching[key]=0;loadErr[key]=1;render();});}
+ }
+ return h;
 }
-function infVideos(name){
- var out={},seen={};
- explicit().forEach(function(c){if(c.channel===name)seen[c.video_id]=1;});
- Object.keys(SUMMARIES).forEach(function(vid){var v=SUMMARIES[vid];
-  if(!v||typeof v!=="object")return;
-  v.video_id=v.video_id||vid;
-  if(v.creator===name||vidChannel(vid)===name||seen[vid])out[vid]=v;});
- return Object.keys(out).map(function(vid){return out[vid];})
-  .sort(function(a,b){return String(b.published_at||"").localeCompare(String(a.published_at||""));});
-}
-function influencerList(){
- var map={};
- (CHANNELS||[]).forEach(function(ch){var n=ch.name||ch.channel||ch.title;if(n&&!map[n])map[n]={name:n,handle:ch.handle||""};});
- explicit().forEach(function(c){if(c.channel&&!map[c.channel])map[c.channel]={name:c.channel,handle:c.handle||""};});
- return Object.keys(map).sort().map(function(k){return map[k];});
-}
-function renderInf(){
- var name=state.inf;
- var calls=explicit().filter(function(c){return c.channel===name;})
-  .sort(function(a,b){return String(callDate(b)).localeCompare(String(callDate(a)));});
- var h=backBtn("Influencers")+"<h1>"+esc(name)+"</h1>"
+function renderInfView(){
+ var meta=(IDX.influencers||[]).filter(function(i){return i.slug===state.infSlug;})[0];
+ if(!meta){state.view="home";render();return "";}
+ var h=backBtn("Influencers")+"<h1>"+esc(meta.name)+"</h1>"
  +'<div class="subtabs" style="display:flex;gap:8px;margin:12px 0">'
  +'<button type="button" data-act="subtab" data-v="calls" class="'+(state.subtab==="calls"?"on":"")+'">Calls</button>'
  +'<button type="button" data-act="subtab" data-v="videos" class="'+(state.subtab==="videos"?"on":"")+'">Videos</button></div>';
  if(state.subtab==="calls"){
-  h+=calls.length?calls.map(function(c){
-   return '<div class="callrow" data-act="open-call" data-call="'+c.video_id+"|"+esc(c.ticker)+'|'+esc(String(callDate(c)))+'">'
-   +"<b>"+esc(c.ticker)+"</b> "+dirChip(c.direction)
-   +'<div class="tmeta">'+esc(fmtDate(callDate(c)))+(c.price_at_call?" · "+esc(String(c.price_at_call)).slice(0,80):"")+"</div></div>";}).join("")
-   :'<div class="empty">No calls yet.</div>';
+  var key="influencers/"+state.infSlug, shard=shardCache[key];
+  if(shard){
+   h+=(shard.calls||[]).map(function(r){
+    return '<div class="callrow" data-act="open-call" data-shardkind="calls" data-shardslug="'+esc(r.tickerSlug)+'" data-vid="'+esc(r.video_id)+'" data-ticker="'+esc(r.ticker)+'" data-date="'+esc(String(r.date))+'">'
+    +"<b>"+esc(r.ticker)+"</b> "+dirChip(r.direction)
+    +'<div class="tmeta">'+esc(fmtDate(r.date))+(r.price?" · "+esc(String(r.price)).slice(0,80):"")+"</div></div>";}).join("")
+    ||'<div class="empty">No calls yet.</div>';
+  }else if(loadErr[key]){
+   h+='<div class="errbox">Could not load calls. <button type="button" class="btn" data-act="retry-inf">Retry</button></div>';
+  }else{
+   h+='<div class="loading">Loading calls…</div>';
+   if(!fetching[key]){fetching[key]=1;getShard("influencers",state.infSlug).then(function(){fetching[key]=0;render();}).catch(function(){fetching[key]=0;loadErr[key]=1;render();});}
+  }
  }else{
-  var vs=infVideos(name);
-  h+=vs.length?vs.map(function(v){
-   var n=CALLS.filter(function(c){return c.video_id===v.video_id&&DIRS.indexOf(c.direction)>=0;}).length;
-   return '<div class="vrow" data-act="open-vid" data-vid="'+esc(v.video_id)+'"><div class="vt">'+esc(v.title||"(untitled)")+"</div>"
-   +'<div class="vd">'+esc(fmtDate(v.published_at))+" · "+n+" call"+(n===1?"":"s")+"</div></div>";}).join("")
-   :'<div class="empty">No analysed videos yet.</div>';
+  var vs=(IDX.videos||[]).filter(function(v){return (v.channels||[]).indexOf(meta.name)>=0;});
+  var pages=Math.max(1,Math.ceil(vs.length/VPAGE));
+  if(state.vpage>pages)state.vpage=pages;
+  h+=vs.slice((state.vpage-1)*VPAGE,state.vpage*VPAGE).map(function(v){
+   return '<div class="vrow" data-act="open-vid" data-vid="'+esc(v.id)+'"><div class="vt">'+esc(v.title)+"</div>"
+   +'<div class="vd">'+esc(fmtDate(v.published_at))+" · "+v.nCalls+" call"+(v.nCalls===1?"":"s")+"</div></div>";}).join("")
+   ||'<div class="empty">No analysed videos yet.</div>';
+  h+=pager(state.vpage,pages,vs.length,VPAGE,"videos");
  }
  return h;
 }
 function render(){
+ if(!IDX)return;
  var app=document.getElementById("app"),h="";
  if(state.view==="home")h=renderHome();
- else if(state.view==="ticker")h=renderTicker();
- else if(state.view==="inf")h=renderInf();
+ else if(state.view==="ticker")h=renderTickerView();
+ else if(state.view==="inf")h=renderInfView();
  app.innerHTML=h;
  var q=document.getElementById("q");
- if(q){q.addEventListener("input",function(){state.q=q.value;var pos=q.selectionStart;render();
+ if(q){q.addEventListener("input",function(){state.q=q.value;state.page=1;var pos=q.selectionStart;render();
   var nq=document.getElementById("q");if(nq){nq.focus();try{nq.setSelectionRange(pos,pos);}catch(e){}}});}
  var s=document.getElementById("sort");
- if(s)s.addEventListener("change",function(){state.sort=s.value;render();});
+ if(s)s.addEventListener("change",function(){state.sort=s.value;state.page=1;render();});
 }
-function onAppClick(e){
- var b=e.target.closest("[data-act]");if(!b)return;
- var act=b.getAttribute("data-act"),v=b.getAttribute("data-v");
- if(act==="tab"){state.tab=v;state.view="home";render();}
- else if(act==="subtab"){state.subtab=v;render();}
- else if(act==="filter"){state.fdir=b.getAttribute("data-f");render();}
+function openCall(el){
+ var sk=el.getAttribute("data-shardkind"), ss=el.getAttribute("data-shardslug");
+ var vid=el.getAttribute("data-vid"), ticker=el.getAttribute("data-ticker"), date=el.getAttribute("data-date");
+ openDialog('<div class="loading">Loading…</div>');
+ getShard(sk,ss).then(function(sh){
+  var c=findCallIn(sh.calls||[],vid,ticker,date);
+  if(c)openDialog(callDetailHTML(c));
+  else openDialog('<div class="empty">Call not found.</div>');
+ }).catch(function(){openDialog('<div class="empty">Could not load. Check your connection and retry.</div>');});
+}
+function handleAct(b,e){
+ var act=b.getAttribute("data-act");
+ if(act==="tab"){state.tab=b.getAttribute("data-v");state.view="home";state.page=1;render();}
+ else if(act==="subtab"){state.subtab=b.getAttribute("data-v");state.vpage=1;render();}
+ else if(act==="filter"){state.fdir=b.getAttribute("data-f");state.page=1;render();}
+ else if(act==="page"){var d=parseInt(b.getAttribute("data-d"),10)||0;var list=b.getAttribute("data-list");
+  if(list==="videos")state.vpage=Math.max(1,state.vpage+d);else state.page=Math.max(1,state.page+d);render();}
  else if(act==="back"){state.view="home";render();window.scrollTo(0,0);}
- else if(act==="open-ticker"){state.ticker=b.getAttribute("data-t");state.view="ticker";render();window.scrollTo(0,0);}
- else if(act==="open-inf"){state.inf=b.getAttribute("data-inf");state.subtab="calls";state.view="inf";render();window.scrollTo(0,0);}
- else if(act==="open-vid"){openDialog(videoSummaryHTML(b.getAttribute("data-vid")));}
- else if(act==="open-call"){var p=b.getAttribute("data-call").split("|");var c=findCall(p[0],p[1],p[2]);if(c)openDialog(callDetailHTML(c));}
+ else if(act==="open-ticker"){state.tickerSlug=b.getAttribute("data-slug");state.view="ticker";render();window.scrollTo(0,0);}
+ else if(act==="open-inf"){state.infSlug=b.getAttribute("data-slug");state.subtab="calls";state.vpage=1;state.view="inf";render();window.scrollTo(0,0);}
+ else if(act==="open-vid"){var vid=b.getAttribute("data-vid");openDialog('<div class="loading">Loading…</div>');
+  getShard("videos",vid).then(function(sh){openDialog(videoSummaryHTML(sh));})
+  .catch(function(){openDialog('<div class="empty">Could not load this video. Check your connection and retry.</div>');});}
+ else if(act==="open-call"){openCall(b);}
+ else if(act==="close-dlg"){closeDialog();}
+ else if(act==="retry-ticker"){delete loadErr["calls/"+state.tickerSlug];render();}
+ else if(act==="retry-inf"){delete loadErr["influencers/"+state.infSlug];render();}
 }
 document.addEventListener("DOMContentLoaded",function(){
  var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("data-theme",t);
  document.getElementById("themeBtn").addEventListener("click",function(){var c=document.documentElement.getAttribute("data-theme")==="dark"?"light":"dark";
   document.documentElement.setAttribute("data-theme",c);localStorage.setItem("theme",c);});
- document.getElementById("app").addEventListener("click",onAppClick);
+ document.getElementById("app").addEventListener("click",function(e){
+  var b=e.target.closest("[data-act]");if(!b)return;handleAct(b,e);});
  load();});
 </script></body></html>
