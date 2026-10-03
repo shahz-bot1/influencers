@@ -1,0 +1,22 @@
+{
+ "summary": "parkevtate Vosianc CFA's \"Why Is Celsius Stock Crashing, and is it a Buying Opportunity?\" (published 2026-09-30) is a BUY call on Celsius (CELH, at ~$28) with MEDIUM conviction — no prior Celsius call was on the tracker, so this is a fresh stance, not a flip. His DCF fair value is above $43, implying >52% upside over 12–18 months (after revising down cash-flow expectations and raising the risk estimate). Beyond the call: the crash drivers are management's admission of over-aggressive SKU cuts in the core brand, indigestion from the Rockstar and Alani Nu acquisitions, and macro headwinds (rising distribution/input/transport costs) — together causing the nearly 50% one-year decline. The bull case: energy drinks are growing as a share of beverages, Celsius grew revenue from ~$300M (2022) to over $3B, gross margins target the low 50s, and the business is self-funding (double-digit operating-cash-flow-to-sales ratio, no desperate need to raise capital). Key flags: ROIC peaked at ~25% in 2019 and has been volatile since the acquisitions — higher variance means higher risk; premium valuation has evaporated (forward PE 16.4, vs PepsiCo 14 and Coca-Cola 25, versus a former premium). One striking metric: revenue per employee of $1.9M — 2x Coca-Cola, 6x PepsiCo — which he calls encouraging but unsustainable. Comparators KO and PEP discussed; PepsiCo noted as a strategic backer. Sponsored by The Motley Fool. Caption garbles: \"divevestatures\", truncated sponsor URL.",
+ "written_at": "2026-09-30T22:02:49.108205+00:00",
+ "video_id": "XSaK_QtIk_w",
+ "title": "Why Is Celsius Stock Crashing, and is it a Buying Opportunity? | CELH Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "calls": [
+  {
+   "ticker": "CELH",
+   "direction": "BUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "XSaK_QtIk_w",
+   "price_at_call": 28,
+   "thesis": "Buying opportunity, MEDIUM conviction. Down ~50% in a year on SKU cuts, Rockstar/Alani indigestion, macro headwinds. Forward PE 16.4 — premium to PepsiCo gone (PEP 14x, KO 25x). Revenue $300M (2022) → $3B+; cash-flow positive, double-digit CFO/sales. DCF fair value >$43 vs ~$28 (>52% upside 12-18mo) even after lowering cash-flow estimates and raising risk. Bear: ROIC volatile since acquisitions; margin expansion slower than hoped.",
+   "base_case": "Fair value >$43, >52% upside 12-18 months, beating S&P 500.",
+   "bull_case": "Core brand recovers, international expansion + Alani scale margins back to low-50% gross.",
+   "bear_case": "Acquisition indigestion persists; energy-drink growth stalls; ROIC keeps deteriorating.",
+   "analyzed_at": "2026-09-30T16:53:12.133372+00:00"
+  }
+ ]
+}
