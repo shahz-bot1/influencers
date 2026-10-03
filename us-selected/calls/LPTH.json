@@ -1,0 +1,26 @@
+{
+ "ticker": "LPTH",
+ "slug": "LPTH",
+ "calls": [
+  {
+   "video_id": "0BDw9kwNh4Q",
+   "channel": "MarketBeat",
+   "title": "Is the Rally Real? 5 Stocks to Buy Now Before Election Day",
+   "published_at": "2026-09-27T00:00:00+00:00",
+   "detected_at": "2026-09-28T05:56:51.170858+00:00",
+   "direction": "BUY",
+   "ticker": "LPTH",
+   "stated_price": null,
+   "thesis": "Optics/photonics pivoting to defense-aerospace, divesting China assets, NDAA-compliant; germanium-free proprietary glass; revenue accelerating toward profitability",
+   "base_case": "Retests existing high then sets new highs",
+   "bull_case": "Strong earnings could force short covering (>20% short interest)",
+   "bear_case": "Not yet profitable; speculative, trades on sentiment; high short interest"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
