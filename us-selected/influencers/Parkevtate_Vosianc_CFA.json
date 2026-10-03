@@ -1,0 +1,463 @@
+{
+ "name": "Parkevtate Vosianc CFA",
+ "handle": "@parkevtatevosiancfa9544",
+ "slug": "Parkevtate_Vosianc_CFA",
+ "calls": [
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
+   "direction": "HOLD",
+   "date": "2026-10-03T16:59:58.313953+00:00",
+   "price": "DCF fair value $97; market price >45% above fair value; fwd P/E >46 (was ~20 entering year)",
+   "video_id": "uqL5NccHcKo"
+  },
+  {
+   "ticker": "HD",
+   "tickerSlug": "HD",
+   "direction": "BUY",
+   "date": "2026-10-03T14:59:58.313953+00:00",
+   "price": "$286 (market); DCF intrinsic value $263; fwd P/E 17.85",
+   "video_id": "Z1ZgKx2L-QA"
+  },
+  {
+   "ticker": "PINS",
+   "tickerSlug": "PINS",
+   "direction": "BUY",
+   "date": "2026-10-03T11:57:53.964581+00:00",
+   "price": "market ~$19 (stated); his FV $35; he bought ~$34 and added lower",
+   "video_id": "_gHUNTNSyXQ"
+  },
+  {
+   "ticker": "NKE",
+   "tickerSlug": "NKE",
+   "direction": "HOLD",
+   "date": "2026-10-02T20:00:45.184344+00:00",
+   "price": "market a little above $30 (stated); his FV $29",
+   "video_id": "9ky70loGTMo"
+  },
+  {
+   "ticker": "IBM",
+   "tickerSlug": "IBM",
+   "direction": "BUY",
+   "date": "2026-10-02T17:00:45.184344+00:00",
+   "price": "market $220 (stated); DCF FV $254",
+   "video_id": "0sj4CTkOw6Q"
+  },
+  {
+   "ticker": "CLX",
+   "tickerSlug": "CLX",
+   "direction": "BUY",
+   "date": "2026-10-02T16:00:45.184344+00:00",
+   "price": "market $81 (stated); DCF FV $110",
+   "video_id": "VUnl7IGEuJE"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-10-02T11:00:45.184344+00:00",
+   "price": "FV ~$1,430 vs market ~$1,165 (caption-garbled figures); FV to be revised higher",
+   "video_id": "TMKFZx5xaC8"
+  },
+  {
+   "ticker": "FICO",
+   "tickerSlug": "FICO",
+   "direction": "BUY",
+   "date": "2026-10-01T13:56:45.560695+00:00",
+   "price": null,
+   "video_id": "htLYrLT9rHQ"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-01T13:56:45.560695+00:00",
+   "price": null,
+   "video_id": "0DD1Kh8id3E"
+  },
+  {
+   "ticker": "MSFT",
+   "tickerSlug": "MSFT",
+   "direction": "HOLD",
+   "date": "2026-10-01T13:56:45.560695+00:00",
+   "price": null,
+   "video_id": "0DD1Kh8id3E"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-01T13:56:45.560695+00:00",
+   "price": null,
+   "video_id": "8pOD-5dG1KM"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-10-01T13:56:45.560695+00:00",
+   "price": null,
+   "video_id": "8pOD-5dG1KM"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-01T13:56:45.560695+00:00",
+   "price": null,
+   "video_id": "8pOD-5dG1KM"
+  },
+  {
+   "ticker": "QCOM",
+   "tickerSlug": "QCOM",
+   "direction": "BUY",
+   "date": "2026-10-01T13:56:45.560695+00:00",
+   "price": null,
+   "video_id": "8pOD-5dG1KM"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-09-30T16:53:12.133372+00:00",
+   "price": 230,
+   "video_id": "FNScYFbF-p8"
+  },
+  {
+   "ticker": "PYPL",
+   "tickerSlug": "PYPL",
+   "direction": "BUY",
+   "date": "2026-09-30T16:53:12.133372+00:00",
+   "price": 55,
+   "video_id": "FupOpO06BWE"
+  },
+  {
+   "ticker": "LOW",
+   "tickerSlug": "LOW",
+   "direction": "BUY",
+   "date": "2026-09-30T16:53:12.133372+00:00",
+   "price": 189,
+   "video_id": "MyCcSNprYhE"
+  },
+  {
+   "ticker": "CELH",
+   "tickerSlug": "CELH",
+   "direction": "BUY",
+   "date": "2026-09-30T16:53:12.133372+00:00",
+   "price": 28,
+   "video_id": "XSaK_QtIk_w"
+  },
+  {
+   "ticker": "T",
+   "tickerSlug": "T",
+   "direction": "BUY",
+   "date": "2026-09-29T15:59:59.109610+00:00",
+   "price": "$25 (stated)",
+   "video_id": "cxfKaDeWsJo"
+  },
+  {
+   "ticker": "VZ",
+   "tickerSlug": "VZ",
+   "direction": "BUY",
+   "date": "2026-09-29T15:59:59.109610+00:00",
+   "price": "$47 (stated)",
+   "video_id": "cxfKaDeWsJo"
+  },
+  {
+   "ticker": "MCD",
+   "tickerSlug": "MCD",
+   "direction": "BUY",
+   "date": "2026-09-29T11:59:59.109610+00:00",
+   "price": "$237 (stated)",
+   "video_id": "lV4gJKmzRxg"
+  },
+  {
+   "ticker": "PEP",
+   "tickerSlug": "PEP",
+   "direction": "BUY",
+   "date": "2026-09-29T11:59:59.109610+00:00",
+   "price": "$128 (stated)",
+   "video_id": "lV4gJKmzRxg"
+  },
+  {
+   "ticker": "PG",
+   "tickerSlug": "PG",
+   "direction": "BUY",
+   "date": "2026-09-29T11:59:59.109610+00:00",
+   "price": "$146 (stated)",
+   "video_id": "lV4gJKmzRxg"
+  },
+  {
+   "ticker": "GIS",
+   "tickerSlug": "GIS",
+   "direction": "BUY",
+   "date": "2026-09-29T11:59:59.109610+00:00",
+   "price": "just under $34 (stated)",
+   "video_id": "lV4gJKmzRxg"
+  },
+  {
+   "ticker": "T",
+   "tickerSlug": "T",
+   "direction": "BUY",
+   "date": "2026-09-28T18:01:07.968666+00:00",
+   "price": "$25.50 (stated current); DCF fair value $34.60",
+   "video_id": "L-fyyxjzvZw"
+  },
+  {
+   "ticker": "DUOL",
+   "tickerSlug": "DUOL",
+   "direction": "HOLD",
+   "date": "2026-09-28T18:01:07.968666+00:00",
+   "price": "$143 (stated current); DCF fair value $149",
+   "video_id": "5nq37O36Euc"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-09-28T12:55:37.807225+00:00",
+   "price": null,
+   "video_id": "0c-MflvThsA"
+  },
+  {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "AVOID",
+   "date": "2026-09-28T12:55:37.807225+00:00",
+   "price": null,
+   "video_id": "0c-MflvThsA"
+  },
+  {
+   "ticker": "TDOC",
+   "tickerSlug": "TDOC",
+   "direction": "BUY",
+   "date": "2026-09-28T11:55:37.807225+00:00",
+   "price": null,
+   "video_id": "Gw2IlH5msQE"
+  },
+  {
+   "ticker": "LLY",
+   "tickerSlug": "LLY",
+   "direction": "BUY",
+   "date": "2026-09-28T11:55:37.807225+00:00",
+   "price": null,
+   "video_id": "Gw2IlH5msQE"
+  },
+  {
+   "ticker": "OSCR",
+   "tickerSlug": "OSCR",
+   "direction": "BUY",
+   "date": "2026-09-28T11:55:37.807225+00:00",
+   "price": null,
+   "video_id": "Gw2IlH5msQE"
+  },
+  {
+   "ticker": "UPST",
+   "tickerSlug": "UPST",
+   "direction": "BUY",
+   "date": "2026-09-28T05:55:18.308240+00:00",
+   "price": "$24",
+   "video_id": "ZV3brKndoqQ"
+  },
+  {
+   "ticker": "SBUX",
+   "tickerSlug": "SBUX",
+   "direction": "HOLD",
+   "date": "2026-09-27T13:56:51.947282+00:00",
+   "price": null,
+   "video_id": "GjtaI05BM2A"
+  },
+  {
+   "ticker": "TTWO",
+   "tickerSlug": "TTWO",
+   "direction": "BUY",
+   "date": "2026-09-27T13:56:51.947282+00:00",
+   "price": null,
+   "video_id": "QswotwkLAJ0"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-09-27T13:56:51.947282+00:00",
+   "price": null,
+   "video_id": "MgyF6WSteJE"
+  },
+  {
+   "ticker": "TGT",
+   "tickerSlug": "TGT",
+   "direction": "HOLD",
+   "date": "2026-09-26T22:00:25.407245+00:00",
+   "price": null,
+   "video_id": "GYkvoCvL77Y"
+  },
+  {
+   "ticker": "NVO",
+   "tickerSlug": "NVO",
+   "direction": "BUY",
+   "date": "2026-09-26T22:00:25.407245+00:00",
+   "price": null,
+   "video_id": "dLLAFMZ75BQ"
+  },
+  {
+   "ticker": "COST",
+   "tickerSlug": "COST",
+   "direction": "BUY",
+   "date": "2026-09-26T16:00:06.028267+00:00",
+   "price": "DCF fair value $843 vs ~$900 market (stated)",
+   "video_id": "sF_4vrPXkUY"
+  },
+  {
+   "ticker": "WMT",
+   "tickerSlug": "WMT",
+   "direction": "AVOID",
+   "date": "2026-09-26T16:00:06.028267+00:00",
+   "price": "DCF fair value $70 vs ~$110 market (stated)",
+   "video_id": "sF_4vrPXkUY"
+  },
+  {
+   "ticker": "ORCL",
+   "tickerSlug": "ORCL",
+   "direction": "BUY",
+   "date": "2026-09-26T14:00:01.000665+00:00",
+   "price": "~$139 (market at recording; his fair value $131)",
+   "video_id": "s7G5dXn2VTY"
+  },
+  {
+   "ticker": "TTD",
+   "tickerSlug": "TTD",
+   "direction": "SELL",
+   "date": "2026-09-26T14:00:01.000665+00:00",
+   "price": "~$13 (sold at ~$13; cost ~$44 that tranche, ~$19-20 remaining 2/3)",
+   "video_id": "y2yDNpF-uL4"
+  },
+  {
+   "ticker": "LLY",
+   "tickerSlug": "LLY",
+   "direction": "BUY",
+   "date": "2026-09-26T14:00:01.000665+00:00",
+   "price": "$1,151 (his fair value $1,494 — ~30% upside over 12-18 months)",
+   "video_id": "voPwQ-39uJM"
+  },
+  {
+   "ticker": "IONQ",
+   "tickerSlug": "IONQ",
+   "direction": "BUY",
+   "date": "2026-09-25T17:00:02.626065+00:00",
+   "price": "fair value $50 (stated)",
+   "video_id": "jGIQhe9YgIs"
+  },
+  {
+   "ticker": "DASH",
+   "tickerSlug": "DASH",
+   "direction": "HOLD",
+   "date": "2026-09-25T16:00:02.626065+00:00",
+   "price": "fair value $185 vs $183 (stated)",
+   "video_id": "ZaTNOelzTpo"
+  },
+  {
+   "ticker": "WMT",
+   "tickerSlug": "WMT",
+   "direction": "AVOID",
+   "date": "2026-09-25T15:00:02.626065+00:00",
+   "price": "DCF $70 vs ~$110 (stated)",
+   "video_id": "FAIuzFLcO4s"
+  },
+  {
+   "ticker": "MA",
+   "tickerSlug": "MA",
+   "direction": "HOLD",
+   "date": "2026-09-25T13:58:18+00:00",
+   "price": "$559 (DCF $523 stated)",
+   "video_id": "cZj7HcT8mA8"
+  },
+  {
+   "ticker": "V",
+   "tickerSlug": "V",
+   "direction": "BUY",
+   "date": "2026-09-25T13:45:39+00:00",
+   "price": "$364 (stated market price; DCF fair value $377)",
+   "video_id": "cZj7HcT8mA8"
+  },
+  {
+   "ticker": "CRM",
+   "tickerSlug": "CRM",
+   "direction": "BUY",
+   "date": "2026-09-25T12:55:39+00:00",
+   "price": "$233 (stated; DCF fair value $280)",
+   "video_id": "qwAY1V5SLRU"
+  },
+  {
+   "ticker": "NOW",
+   "tickerSlug": "NOW",
+   "direction": "BUY",
+   "date": "2026-09-25T11:55:39+00:00",
+   "price": "$138 (stated; DCF fair value $158)",
+   "video_id": "Fu7xcx-BTTk"
+  },
+  {
+   "ticker": "TJX",
+   "tickerSlug": "TJX",
+   "direction": "HOLD",
+   "date": "2026-09-24T16:00:00.951899+00:00",
+   "price": "$131 (market; DCF $102 stated)",
+   "video_id": "JRLQH8-yGGA"
+  },
+  {
+   "ticker": "UNH",
+   "tickerSlug": "UNH",
+   "direction": "BUY",
+   "date": "2026-09-24T15:00:00.951899+00:00",
+   "price": "intrinsic $518 (stated; ~40% upside implied)",
+   "video_id": "nGpwJHq0zVo"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-09-24T13:45:42.837875+00:00",
+   "price": "$445 (stated market price)",
+   "video_id": "mZeU3CU2Rds"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-09-24T12:00:00.951899+00:00",
+   "price": "~$250 (stated: his buy price; fair value $306)",
+   "video_id": "w45BZ8xdhqk"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-09-23T13:03:55+00:00",
+   "price": "$1,041 (stated)",
+   "video_id": "OfLA9KqnUuA"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-09-23T12:03:55+00:00",
+   "price": "$749 (stated)",
+   "video_id": "p0xGl1f_924"
+  },
+  {
+   "ticker": "FICO",
+   "tickerSlug": "FICO",
+   "direction": "BUY",
+   "date": "",
+   "price": "DCF fair value $1,153, ~24% upside vs current price (stock down ~45% YTD)",
+   "video_id": "mRBhh_hOfao"
+  },
+  {
+   "ticker": "COST",
+   "tickerSlug": "COST",
+   "direction": "BUY",
+   "date": "",
+   "price": "DCF fair value $843 vs ~$897 market (only 6% overvalued; fwd P/E 36)",
+   "video_id": "KBh0GvLPTiM"
+  }
+ ]
+}
