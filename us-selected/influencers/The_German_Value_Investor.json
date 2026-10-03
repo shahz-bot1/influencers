@@ -1,0 +1,23 @@
+{
+ "name": "The German Value Investor",
+ "handle": "@TheGermanValueInvestor",
+ "slug": "The_German_Value_Investor",
+ "calls": [
+  {
+   "ticker": "LULU",
+   "tickerSlug": "LULU",
+   "direction": "HOLD",
+   "date": "2026-09-30T14:59:59.130378+00:00",
+   "price": null,
+   "video_id": "3x8jP-mSdC8"
+  },
+  {
+   "ticker": "NN",
+   "tickerSlug": "NN",
+   "direction": "HOLD",
+   "date": "2026-09-25T18:58:18+00:00",
+   "price": "~€80 (mkt cap €21B; normal-scenario fair value €84 stated)",
+   "video_id": "aex8MEowAgI"
+  }
+ ]
+}
