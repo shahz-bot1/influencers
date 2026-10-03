@@ -1,0 +1,22 @@
+{
+ "ticker": "TSLA",
+ "slug": "TSLA",
+ "calls": [
+  {
+   "video_id": "_X0c2A-Ln9c",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "TSLA",
+   "direction": "SELL",
+   "thesis": "Flat revenue 3 years; op margins down to 2-4.2% (a regular automaker); 13x sales / 192x fwd P/E; ~$26B capex expected exceeding operating cash flow; Musk's focus shifting to SpaceX. -18 to -19% over past year.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  }
+ ]
+}
