@@ -1,0 +1,9 @@
+{
+ "creator": "Business With Brian",
+ "published_at": "2026-03-24",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "\"5 Things Failing in AI. One Technology - Photonics is the Key!\" (Business With Brian, 2026-03-24) argues silicon photonics — not copper — is the next foundation layer of AI infrastructure. Thesis: at 1.6 terabits/second, copper hits a physics wall (heat, power, signal degradation), while optical links are 3-3.5x more power efficient per link — a must-have, not a nice-to-have, with the market growing 25-29% annually from ~$3B toward $10-30B. The catalyst: over $7B moving into the space in weeks — Nvidia's $4B March 2 investments ($2B each into Coherent and Lumentum) and Marvell's $3.25B Celestial AI acquisition. He structures 11 BUY calls across three layers. Base layer (photonics as a growing piece of giants): Nvidia (NVDA — Vera Rubin platform shipping H2 2026 with silicon photonics built in, Spectrum 6 switches at 5x power efficiency); Broadcom (AVGO — co-packaged-optics leader, 3rd gen at 200G/lane); Cisco (CSCO — Luxtera acquisition, in-house photonic ICs and DSPs, 800G transceivers, 25.6T CPO prototype); Intel (INTC — the controversial pick: 25 years of photonics research, 8M+ photonic ICs shipped, OCI chiplet at 4 Tbps and 5 pJ/bit, the only optics-capable foundry option).",
+ "title": "5 Things Failing in AI. One Technology - Photonics is the Key!",
+ "video_id": "gHFaQCWtaes",
+ "calls": []
+}
