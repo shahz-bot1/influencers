@@ -1,0 +1,26 @@
+{
+ "ticker": "MOD",
+ "slug": "MOD",
+ "calls": [
+  {
+   "video_id": "t2b-mdFg8rI",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "MOD",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Speculative under-the-radar data-center cooling play; beaten down after heavy production-line investment; tiny speculative position.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Brian flags he could have missed negatives - do your own research.",
+   "collab_byline": "BWB - Business With Brian and Investing Simplified - Professor G",
+   "published_at": "2026-01-31T14:31:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
