@@ -1,0 +1,27 @@
+{
+ "ticker": "AIQ",
+ "slug": "AIQ",
+ "calls": [
+  {
+   "video_id": "DQoFZ_AMKi0",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "AIQ",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Endorsed Joseph's pick: 'fantastic/great addition'; adds international AI exposure (25% of his model).",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "$2.4T AI market by 2032 (~30%/yr growth).",
+   "bear": "Not all 84 names are pure AI plays; will lag individual winners like Nvidia.",
+   "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA",
+   "published_at": "2026-04-04T15:00:15+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
