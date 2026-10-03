@@ -1,0 +1,458 @@
+{
+ "updated": "2026-10-03T22:43:36.694185+00:00",
+ "tickers": [
+  {
+   "ticker": "GOLD",
+   "slug": "GOLD",
+   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "₹150,000"
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "Rs 1,50,000 (stated as current price)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "INDIA LARGE CAP",
+   "slug": "INDIA_LARGE_CAP",
+   "lastDate": "2026-09-23T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "INDIA PRIVATE BANKS",
+   "slug": "INDIA_PRIVATE_BANKS",
+   "lastDate": "2026-09-23T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "INDIA SMALL/MIDCAP",
+   "slug": "INDIA_SMALL_MIDCAP",
+   "lastDate": "2026-09-23T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "JAPANESE GOVT BONDS (JGB)",
+   "slug": "JAPANESE_GOVT_BONDS_JGB",
+   "lastDate": "2026-09-23T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NASDAQ 100",
+   "slug": "NASDAQ_100",
+   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 2
+  },
+  {
+   "ticker": "NIFTY 50",
+   "slug": "NIFTY_50",
+   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NIFTY BANK",
+   "slug": "NIFTY_BANK",
+   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NIFTY ENERGY",
+   "slug": "NIFTY_ENERGY",
+   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NIFTY FMCG",
+   "slug": "NIFTY_FMCG",
+   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NIFTY MIDCAP 150",
+   "slug": "NIFTY_MIDCAP_150",
+   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NIFTY NEXT 50",
+   "slug": "NIFTY_NEXT_50",
+   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NIFTY SMALLCAP 250",
+   "slug": "NIFTY_SMALLCAP_250",
+   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "US AI STOCKS",
+   "slug": "US_AI_STOCKS",
+   "lastDate": "2026-09-23T20:54:12.349385+00:00",
+   "chips": [
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  }
+ ],
+ "influencers": [
+  {
+   "name": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "slug": "Akshat_Shrivastava",
+   "nCalls": 0,
+   "nVideos": 6
+  },
+  {
+   "name": "Rahul Jain",
+   "handle": "@torahulj",
+   "slug": "Rahul_Jain",
+   "nCalls": 15,
+   "nVideos": 13
+  },
+  {
+   "name": "Rahul Jain - Hindi",
+   "handle": "@rahuljainhindi",
+   "slug": "Rahul_Jain_Hindi",
+   "nCalls": 0,
+   "nVideos": 0
+  }
+ ],
+ "videos": [
+  {
+   "id": "k6OvCeQqLGA",
+   "title": "Is This The BEST Time to Invest In Banking Stocks? | Watch Before It's Too Late !! | Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-03",
+   "nCalls": 0
+  },
+  {
+   "id": "Bnbq1-9r3w4",
+   "title": "Correction FINALLY OVER in Indian Markets? (time to buy?)",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-10-01",
+   "nCalls": 0
+  },
+  {
+   "id": "kJuk2TsBfaI",
+   "title": "Where to Invest and where NOT TO? - Indian stocks vs US stocks vs Gold vs FDs  - Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-27",
+   "nCalls": 9
+  },
+  {
+   "id": "L62OaMjiBRo",
+   "title": "Make ₹2 Lakh Profit Per Month with a Laundry Business - How to Start This Business? | Rahul Jain G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-27",
+   "nCalls": 0
+  },
+  {
+   "id": "3AhEb4dTkDQ",
+   "title": "Train Your Brain to Become Smarter, More Ambitious & Focused | Rahul Jain G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-24",
+   "nCalls": 0
+  },
+  {
+   "id": "y7pwGVQEiKc",
+   "title": "Money rules I will teach my kids before they turn 15 (#3 will surprise you!)",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-09-24",
+   "nCalls": 0
+  },
+  {
+   "id": "NZ0fsllxcdE",
+   "title": "S Naren's 36 Years of Investing Wisdom in 45 Minutes | The Legend Speaks | Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-23",
+   "nCalls": 6
+  },
+  {
+   "id": "S7FvfZXupQo",
+   "title": "Why Honest Tax Payers get punished - our tax system is BROKEN! | Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-20",
+   "nCalls": 0
+  },
+  {
+   "id": "8Nfo1rz-5bQ",
+   "title": "Modi Ji - PLEASE Fix Indian Cities - Rahul Jain G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-20",
+   "nCalls": 0
+  },
+  {
+   "id": "zWU3bTHd0t4",
+   "title": "Will the Next 5 years be GREAT for Indian Markets? | Akshat Shrivastava",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-09-20",
+   "nCalls": 0
+  },
+  {
+   "id": "z0kbv_DlZj8",
+   "title": "Everything I Wish I Knew Before Buying a property in Dubai | Akshat Shrivastava",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-09-19",
+   "nCalls": 0
+  },
+  {
+   "id": "3JCnphhKJd4",
+   "title": "HDFC Bank Stock: A BIG Trigger is coming - GET READY - Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-12",
+   "nCalls": 0
+  },
+  {
+   "id": "2AQ_slrb5zM",
+   "title": "46 mins में 4 Experts ने बताया Mutual Funds से Wealth बनाने का सही तरीका ! | Rahul Jain G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-12",
+   "nCalls": 0
+  },
+  {
+   "id": "Cjmnf6pyyFM",
+   "title": "Give Me 56 Minutes & I'll Help You Build a ₹1 Cr. Portfolio | Stock Picking Strategy | Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-12",
+   "nCalls": 0
+  },
+  {
+   "id": "PtSLamEHWjc",
+   "title": "11-14% (Tax Free) returns for NRIs | (Who will pay the price?) #FCNRb",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-09-12",
+   "nCalls": 0
+  },
+  {
+   "id": "xx7uM1_bXaU",
+   "title": "I'd invest my next ₹10 lakhs in these 3 FAST growing assets - MUST WATCH - Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-05",
+   "nCalls": 0
+  },
+  {
+   "id": "kQBgl1iX2ao",
+   "title": "Start Your Journey to 100 Crores in 45 Minutes Today | Rahul Jain G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-03",
+   "nCalls": 0
+  },
+  {
+   "id": "8bBoRR5osVU",
+   "title": "How to Pick Winning Stocks? That 99% of Investors Miss | MUST WATCH - Rahul Jain G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-09-03",
+   "nCalls": 0
+  },
+  {
+   "id": "TbMJ9oQfipY",
+   "title": "What Smart Investors Do When Markets Crash : Risk Management Explained Ft.   @Akshatzayn | FWS 87",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-01-06",
+   "nCalls": 0
+  }
+ ]
+}
