@@ -1,0 +1,26 @@
+{
+ "ticker": "PANW",
+ "slug": "PANW",
+ "calls": [
+  {
+   "video_id": "0cKiqQZpgF0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "PANW",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Largest cybersecurity player, dominant in fastest-growing segments; 12% operating margins while CrowdStrike/Zscaler lose money; growth at a reasonable price.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "note": "Joint pick - Joseph proposed, Brian agreed (holds it).",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+   "published_at": "2026-01-28T16:45:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
