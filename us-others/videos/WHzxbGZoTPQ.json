@@ -1,0 +1,164 @@
+{
+ "video_id": "WHzxbGZoTPQ",
+ "title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+ "creator": "Sven Carlin",
+ "handle": "@value-investing",
+ "published_at": "2026-09-30T16:55:34.672871+00:00",
+ "summary": "Sven Carlin works through the ~20 largest holdings of the China internet ETF - unloved after 13 years with no performance - screening for value: low P/Es, high cash flows, profitability and growth. Tencent (P/E ~15, dividends, buybacks, double-digit growth) is \"interesting\" on his buy-the-bad-mood/sell-the-exuberance framework; he owns Prosus as his Tencent proxy. JD.com he owns outright - the investment/profitability cycle swings 50-70%, with very high cash flow per share, dividend, 3.7% buyback yield and a logistics moat. Kuaishou is his standout free bet: core business at P/E ~7 with 68% ownership of Kling AI (raised ~$3B, growing 200%). Baidu trades near book value of its cash with AI/robotaxi optionality; Trip.com at P/E 10 with ~RMB 14B cash looks interesting; Tencent Music is cheap and profitable. Alibaba is \"too high now\" on declining legacy cash flows; NetEase and Lenovo are fairly priced holds. He avoids KE Holdings (P/E 26, frozen transaction market), Bilibili, GDS and Kingsoft Cloud. Overall: buy big-cap Chinese internet on weakness for ~50% minimum over three years, hold via ETF or directly, size ~10-15% of a global value portfolio - and only for European investors; he explicitly warns US investors off due to sanction/illiquidity risk (VIE structure, Taiwan). Note: auto-captions garble several names (Meituan as \"Mu1\", Kling AI as \"Cling AI\", renminbi as \"raimi/remimi\") - treat P/E and cash figures as approximate.",
+ "calls": [
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "TCEHY",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "P/E ~15 with dividends + buybacks and double-digit growth; his framework: buy on bad mood / sentiment lows, sell into exuberance peaks. He owns Prosus (Tencent proxy) instead of Tencent directly.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "JD",
+   "direction": "BUY",
+   "thesis": "He owns it: investment/profitability cycle swings 50-70%, very high cash flow per share, dividend + 3.7% buyback yield, logistics moat vs delivery competitors.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "KUAIS",
+   "direction": "BUY",
+   "thesis": "Kuaishou (garbled as \"qua technologies\"/\"Cling AI\" in auto-captions): core business stable/profitable at P/E ~7; owns 68% of Kling AI (raised ~$3B, growing 200%) - \"AI practically for free\".",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "BIDU",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Market cap ~RMB 30B vs ~RMB 40B cash/investments - \"practically buying cash at book value\" plus AI/robotaxi/kunin-chip bets; watching for dividend policy and buyback announcements.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "TCOM",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Trip.com: P/E 10, dominant online travel agency in China, ~RMB 14B cash on balance sheet; recent fine compresses margins but moat intact; analysts see it higher.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "TME",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Tencent Music: low P/E inside the Tencent ecosystem, profitable, buybacks + dividends; \"very interesting\".",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "NTES",
+   "direction": "HOLD",
+   "thesis": "NetEase: P/E 15, dividend + buybacks (recently cut, program to 2029), stable games business - \"fairly priced\"; he admits he knows little about gaming.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "LNVGY",
+   "direction": "HOLD",
+   "thesis": "Lenovo: AI-revenue growth story at P/E ~15, \"probably fairly priced\" if it keeps executing; he waits for a downturn before AI-exposed names.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "BEKE",
+   "direction": "AVOID",
+   "thesis": "KE Holdings: real estate transaction market frozen, shifting to rent; P/E 26 with no miracle ahead - \"I don't see it\".",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "YMM",
+   "direction": "HOLD",
+   "thesis": "Full Truck Alliance: dividend yield, growing, stable, \"fair and cheaply priced\"; key risk is the Chinese economy.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "BILI",
+   "direction": "AVOID",
+   "thesis": "Bilibili: \"I'm not seeing it\" - TikTok changed the game, government pushed on reward mechanics.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "GDS",
+   "direction": "AVOID",
+   "thesis": "\"Not for me\" - data-center boom/bust cyclicality; \"maybe the Oracle of AI China\" but not his.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "KC",
+   "direction": "AVOID",
+   "thesis": "Kingsoft Cloud: \"just not for me\".",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  },
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "JDHEALTH",
+   "direction": "HOLD",
+   "thesis": "JD Health: \"fairly priced\" - growth and profit returning, stock down ~80% from 2020s spin-out era.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  }
+ ]
+}
