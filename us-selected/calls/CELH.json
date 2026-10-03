@@ -1,0 +1,25 @@
+{
+ "ticker": "CELH",
+ "slug": "CELH",
+ "calls": [
+  {
+   "ticker": "CELH",
+   "direction": "BUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "XSaK_QtIk_w",
+   "price_at_call": 28,
+   "thesis": "Buying opportunity, MEDIUM conviction. Down ~50% in a year on SKU cuts, Rockstar/Alani indigestion, macro headwinds. Forward PE 16.4 — premium to PepsiCo gone (PEP 14x, KO 25x). Revenue $300M (2022) → $3B+; cash-flow positive, double-digit CFO/sales. DCF fair value >$43 vs ~$28 (>52% upside 12-18mo) even after lowering cash-flow estimates and raising risk. Bear: ROIC volatile since acquisitions; margin expansion slower than hoped.",
+   "base_case": "Fair value >$43, >52% upside 12-18 months, beating S&P 500.",
+   "bull_case": "Core brand recovers, international expansion + Alani scale margins back to low-50% gross.",
+   "bear_case": "Acquisition indigestion persists; energy-drink growth stalls; ROIC keeps deteriorating.",
+   "analyzed_at": "2026-09-30T16:53:12.133372+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
