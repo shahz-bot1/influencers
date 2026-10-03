@@ -1,0 +1,40 @@
+{
+ "ticker": "MSFT",
+ "slug": "MSFT",
+ "calls": [
+  {
+   "video_id": "0DD1Kh8id3E",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "MSFT",
+   "direction": "HOLD",
+   "price": null,
+   "thesis": "Owns it, no intention of selling; DCF says slightly overvalued (FV $420 vs $509) but forward PE fair, quality Hall of Fame business.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  },
+  {
+   "video_id": "4vgg_-dkDC0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "MSFT",
+   "direction": "BUY",
+   "price_at_call": "analyst 12-month upside ~18% (stated, not his target)",
+   "thesis": "Bedrock 25-year hold: Azure 20%+ growth, $80B net cash, 40%+ operating margins, recurring Office/Windows cash flows.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "FCF to double over the decade on Copilot/Teams AI.",
+   "bear": "AI-hype cooling is the named risk, offset by recurring revenue.",
+   "collab_byline": "BWB - Business With Brian and Dividendology",
+   "published_at": "2025-08-14T14:45:01+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
+  }
+ ]
+}
