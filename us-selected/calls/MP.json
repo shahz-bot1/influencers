@@ -1,0 +1,28 @@
+{
+ "ticker": "MP",
+ "slug": "MP",
+ "calls": [
+  {
+   "video_id": "ANoYJTT0Amg",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "MP",
+   "direction": "AVOID",
+   "price_at_call": null,
+   "thesis": "Government-backed rare-earths name: lost money 2024-2026, stock -~50% since US investment; needs unattainable margins and near-total market share; guest would not buy, sell if held.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Could fall another 50%; government ownership ensures survival not profitability.",
+   "published_at": "2026-10-01T22:58:20.857323+00:00",
+   "analyzed_at": "2026-10-02T06:16:07.959243+00:00",
+   "stance_flip": null,
+   "video_title": "Trump's Playbook: 1 to Buy and 1 to Dump"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
