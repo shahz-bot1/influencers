@@ -1,0 +1,21 @@
+{
+ "video_id": "F6ds1vqtOTY",
+ "title": "A Once in a Lifetime Financial Reset is Coming. (Why Stocks Are Next)",
+ "creator": "Tom Nash",
+ "handle": "@TomNashTV",
+ "published_at": "2026-09-30T15:55:34.672871+00:00",
+ "summary": "Tom Nash reframes the \"market crash is coming\" narrative: a crash is certain, but the wrong question is 'will it crash?' - the right ones are whether your portfolio is protected and set up to profit from it. He walks through historical playbooks (1973 oil embargo, 1990 Iraq war, 2022 Ukraine) showing crashes followed by multi-year recoveries, and the volatility stats that make staying invested work (54% of days, 75% of years, 95% of decades, 100% of 20-year periods positive). His system: 12-month emergency fund, kill expensive debt, max tax-advantaged accounts, zero leverage, then a portfolio stress test using beta (a 50/50 S&P/Palantir portfolio falls ~60% in a 30% S&P drop). Stock selection: a big S&P 500 core as the \"undefeated cheat code\", elite businesses run through a 125-point scorecard, max 10 positions, dollar-cost average and double down on the way down (he bought Palantir at $6-9 in 2022). Emotions are the portfolio killer: 24-hour cooldown rule, don't check daily, write a personal \"constitution\". No explicit stock calls - Palantir, Tesla and Nvidia appear only as high-beta stress-test examples; the actionable recommendation is SPY as the core holding. Ends with a pitch for his free \"panic-proof guide\" and the academy (patreon.com/theMASH).",
+ "calls": [
+  {
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "SPY",
+   "direction": "BUY",
+   "thesis": "Not a price call - portfolio-system guidance: a \"big core in the S&P 500\" (40-60% of portfolio) is the \"undefeated cheat code\"; elite stocks must be probable to beat it, max 10 positions, dollar-cost average and double down on the way down.",
+   "video_id": "F6ds1vqtOTY",
+   "video_title": "A Once in a Lifetime Financial Reset is Coming. (Why Stocks Are Next)",
+   "published_at": "2026-09-30T15:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  }
+ ]
+}
