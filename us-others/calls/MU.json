@@ -1,0 +1,41 @@
+{
+ "ticker": "MU",
+ "slug": "MU",
+ "calls": [
+  {
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price": "flat after Sep 30 post-close print; fwd P/E ~5-7 (caption-garbled figures: cites $54.2B rev / $3.34 EPS / $60-63B guide — treat as garbled)",
+   "thesis": "Triple beat + tight supply through 2027-28 (35% of revenue covered by multi-year take-or-pay, $150B RPO, $32B customer deposits); HBM repricing starts 2027; buybacks after Dec 9 (CHIPS Act 2-yr anniversary). Stock needs a rerating.",
+   "base": "Multiple stays, earnings growth alone lifts price",
+   "bull": "Rerating to higher multiple + $50B buyback after Dec 9",
+   "bear": "DRAM price sequential growth slowing (60%->high-teens); consumer PC/phone double-digit unit decline 2026",
+   "video_id": "Ad2Pn32TWSs",
+   "video_title": "Micron Stock Is STILL Dirt Cheap After This Massive Beat!!",
+   "published_at": "2026-10-01T01:55:34.672871+00:00",
+   "analyzed_at": "2026-10-01T03:57:29.822305+00:00"
+  },
+  {
+   "video_id": "_X0c2A-Ln9c",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "MU",
+   "direction": "SELL",
+   "thesis": "Take profits: $1.2T market cap, ~7x fwd P/E looks cheap only if 83-86% gross margins hold; memory is a commodity — new capacity lands 2028-29, chip designs shifting away from HBM, demand rationalization ahead. Margin reversion to 40% would erase ~90% of profits.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 0
+  },
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 1
+  }
+ ]
+}
