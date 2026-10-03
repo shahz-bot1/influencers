@@ -1,0 +1,30 @@
+{
+ "ticker": "FTNT",
+ "slug": "FTNT",
+ "calls": [
+  {
+   "video_id": "uqL5NccHcKo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Does the Proliferation of Agentic AI Make Fortinet Stock a No Brainer? | FTNT STock Analysis",
+   "published_at": "2026-10-03T16:59:58.313953+00:00",
+   "analyzed_at": "2026-10-03T18:01:07.180791+00:00",
+   "ticker": "FTNT",
+   "direction": "HOLD",
+   "price_at_call": "DCF fair value $97; market price >45% above fair value; fwd P/E >46 (was ~20 entering year)",
+   "thesis": "Too late to buy after +121% YTD: fundamentals accelerating (op margin record 32.4%, ROIC 99.8%, agentic-AI demand) but price has run ahead of fundamentals; sideliners wait; owners trim or sell covered calls 10-20% above current price",
+   "base": "Fair value $97/share; market ~45%+ over fair, outside his margin of safety; most expensive valuation in years",
+   "bull": "Agentic-AI proliferation drives multi-year accelerating revenue growth with expanding margins; ROIC near 100% vs 10-12% WACC",
+   "bear": "ROIC 99.8% unsustainable; valuation de-rates if AI-demand enthusiasm fades; rogue-agent headlines have front-loaded investor interest",
+   "stance_flip": false,
+   "flip_note": "First tracked FTNT call on record; he was bullish since 2024 but this is the first tracked stance",
+   "slot": "intraday"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
