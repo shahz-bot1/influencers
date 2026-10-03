@@ -1,0 +1,22 @@
+{
+ "title": "Target's Management Team Deserves Credit for Accelerating Revenue Growth Amid a Challenging Backdrop",
+ "creator": "Parkevtate Vosianc CFA",
+ "summary": "He credits Target's management for reinvigorating growth after a decline from the 2023 peak: latest quarter net sales +5.3%, traffic +4%, operating margins recovering toward historical 8% (vs ~7-8% pre-pandemic, 9% at the pandemic peak), inventory turnover 8.2 (in line with the decade average; below Walmart's 12 and Costco's 15, consistent with Target's premium-price strategy). However, the stock's forward PE has soared from ~8 to 16.7, and his updated DCF fair value is only $93 vs a ~$160 market price -- so he considers it considerably overvalued and reiterates his downgrade from buy to HOLD (first issued Aug 21; TGT is down 3.3% since, not enough for an upgrade). He'd only buy on a much bigger pullback or materially stronger results. Verdict: HOLD reiteration. No prior TGT call in the watch's call history, so no stance flip recorded. Other tickers discussed for comparison: WMT, COST.",
+ "video_id": "GYkvoCvL77Y",
+ "published_at": "2026-09-26 ~17:00 BST",
+ "calls": [
+  {
+   "video_id": "GYkvoCvL77Y",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "TGT",
+   "direction": "HOLD",
+   "stated_price": 160.0,
+   "fair_value": 93.0,
+   "thesis": "Management reinvigorated growth (+5.3% sales, +4% traffic, margins recovering) but forward PE has soared 8 -> 16.7; reiterates his Aug-21 downgrade to hold.",
+   "bull": "Operating margins return toward historical 8% and premium-price strategy sustains top-line growth.",
+   "bear": "DCF fair value $93 vs ~$160 implies considerable downside; would only buy on a much bigger pullback.",
+   "stance_flip": false,
+   "analyzed_at": "2026-09-26T22:00:25.407245+00:00"
+  }
+ ]
+}
