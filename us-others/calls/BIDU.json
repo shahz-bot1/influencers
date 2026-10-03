@@ -1,0 +1,23 @@
+{
+ "ticker": "BIDU",
+ "slug": "BIDU",
+ "calls": [
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "BIDU",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Market cap ~RMB 30B vs ~RMB 40B cash/investments - \"practically buying cash at book value\" plus AI/robotaxi/kunin-chip bets; watching for dividend policy and buyback announcements.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
