@@ -1,0 +1,22 @@
+{
+ "ticker": "SOXY",
+ "slug": "SOXY",
+ "calls": [
+  {
+   "video_id": "gkt3BnXJf9s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOXY",
+   "direction": "BUY",
+   "thesis": "YieldMax Target 12 Semiconductor Options Income ETF (ticker rendered 'SOX Y' in captions, with garbled repeats 'SOXW'/'SOXL'): targets 12% income instead of max distributions, leaving more room for growth. Growth-leaning counterpart to CHPY.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": "12% targeted income (monthly payouts, $0.65-$1.00+/share this year)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
