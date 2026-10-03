@@ -1,0 +1,28 @@
+{
+ "ticker": "NKE",
+ "slug": "NKE",
+ "calls": [
+  {
+   "video_id": "9ky70loGTMo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "NKE",
+   "direction": "HOLD",
+   "price_at_call": "market a little above $30 (stated); his FV $29",
+   "thesis": "Downgrading back to HOLD after a recent BUY upgrade he now calls too early: Q1 sales -4%, FY27 revenue guided down high-single-digits, at least 3-4 more difficult quarters before stabilisation; not a buying opportunity yet, wait 1-2 quarters.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-02T20:00:45.184344+00:00",
+   "analyzed_at": "2026-10-03T06:29:52.571646+00:00",
+   "stance_flip": null,
+   "video_title": "Massive Update for Nike Stock Investors! | NKE Stock Analysis"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
