@@ -1,0 +1,62 @@
+{
+ "ticker": "NFLX",
+ "slug": "NFLX",
+ "calls": [
+  {
+   "video_id": "DFQjG012fRk",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "NFLX",
+   "direction": "HOLD",
+   "price_at_call": null,
+   "thesis": "Still holding: calls Netflix the most undervalued name in his portfolio on DCF; defends growth quality (territories +10%, trailing +16%) and says the Sarandos 'not growing as fast' headline misleads — live trades hours for signups/retention.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-01T21:02:09.000658+00:00",
+   "analyzed_at": "2026-10-02T10:16:22.954782+00:00",
+   "stance_flip": null,
+   "video_title": "Google And Meta Will Beat OpenAI And Anthropic"
+  },
+  {
+   "video_id": "ps7HQgBsw5I",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "How I'm Investing With $1.5 Million Stock Portfolio",
+   "ticker": "NFLX",
+   "direction": "HOLD",
+   "price_at_call": "22 trailing PE (was 50 in Sep 2025)",
+   "thesis": "Most undervalued in his portfolio (or close) — bear narratives false: engagement +2% YoY, season-2 viewing improving, revenue +16%, 325M subs, content spend growing slower than revenue (operating leverage).",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  },
+  {
+   "video_id": "pW_7A50jY_8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NFLX",
+   "direction": "SELL",
+   "price_at_call": "~$71 (at support floor; resistance ~$77)",
+   "thesis": "Cut NFLX position by ~50% (executed) on valuation: stock 'doesn't move', raised ~$6K earmarked for NVDA add; kept half since valuation beats cash for now.",
+   "base_case": "Base: range-bound near support.",
+   "bull_case": "Bull: breaks $77-80 resistance.",
+   "bear_case": "Bear: further drift lower; cash would beat the stock.",
+   "published_at": "2026-09-27T16:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": null,
+   "video_title": "I Just Bought $15,000 of a New Stock"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 2
+  }
+ ]
+}
