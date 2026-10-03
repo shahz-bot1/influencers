@@ -1,0 +1,25 @@
+{
+ "video_id": "sY9DIuxZzmc",
+ "title": "Why I Plan To Continue Buying Meta Stock",
+ "creator": "Daniel Pronk",
+ "handle": "@danielpronk",
+ "published_at": "2026-09-30T21:55:34.672871+00:00",
+ "summary": "In 'Why I Plan To Continue Buying Meta Stock' (published 30 Sep 2026), Daniel Pronk returns from two weeks in Italy to reassure viewers asking whether Meta's ~30% rally from the lows has made it expensive. His answer: no — his DCF still shows a $827 fair value on conservative inputs (15% annual operating-cash-flow growth, 14x price/OCF) and ~$1,000 on realistic ones (20% growth, 15x OCF, still below the 16x historical median), implying 15-22.6% annualized returns over three years. The video's first half is a long showcase of Meta's new Muse AI agent: over 3 million US downloads in 9 days, #1 on the App Store for two weeks, adopted faster than ChatGPT, and Pronk's own daily use cases — sponsorship email triage, media kits, and home-purchase paperwork, all via email access. He argues Muse rides Meta's free distribution across Instagram and WhatsApp, and its clearest monetization is harvesting user data to sharpen ad targeting. He is skeptical of Zuckerberg's 'savings-shared' monetization model (Muse touches no transaction) and unconvinced agentic AI will fully disrupt Amazon/Booking.com advertising — window-shopping behavior persists. On Meta Connect: Muse at the center, the teased 'watermelon' frontier model, impressive new VR glasses, and a questionable Meta Charm pocket device. Call: META — BUY (adding), still undervalued at ~23x next year's earnings; he will add when post-house-closing liquidity frees up. No other tickers called.",
+ "calls": [
+  {
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "META",
+   "direction": "BUY",
+   "price": "fair value $827 conservative / ~$1,000 realistic; ~$720s at video time",
+   "thesis": "Still undervalued despite +30% rally; Muse adoption (3M+ US downloads, #1 app) + free distribution across Instagram/WhatsApp; ad-ROI upside from user data; forward P/E ~23x for 20%+ grower.",
+   "base": "20% annual OCF growth, 15x price/OCF = $1,000 FV, 22.6% CAGR over 3 years",
+   "bull": "Leading frontier model (watermelon) + hardware + agents revenue diversification",
+   "bear": "Savings-shared revenue monetization model unclear; Muse may disrupt, not yet monetize",
+   "video_id": "sY9DIuxZzmc",
+   "video_title": "Why I Plan To Continue Buying Meta Stock",
+   "published_at": "2026-09-30T21:55:34.672871+00:00",
+   "analyzed_at": "2026-10-01T03:57:29.822305+00:00"
+  }
+ ]
+}
