@@ -1,0 +1,26 @@
+{
+ "ticker": "ASML",
+ "slug": "ASML",
+ "calls": [
+  {
+   "video_id": "ps7HQgBsw5I",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "How I'm Investing With $1.5 Million Stock Portfolio",
+   "ticker": "ASML",
+   "direction": "HOLD",
+   "price_at_call": "$126k position, +$93k gains (his holding)",
+   "thesis": "Continuing to hold despite higher valuation — China sales mix fell from ~50% to ~14%, derisking; install-base management is reliable recurring revenue.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  }
+ ]
+}
