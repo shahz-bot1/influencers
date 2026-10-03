@@ -1,0 +1,25 @@
+{
+ "title": "Down Over 90%, Is it Finally Time to Buy This AI Stock?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-28",
+ "source_note": "Detailed summary generated from video captions; captions readable",
+ "summary": "Parkevtate revisits Upstart after a ~93% collapse from its all-time high and reiterates his BUY ranking at $24 (stated), DCF fair value $58 — implying the stock could more than double in 12-18 months — but explicitly only for investors with the highest risk tolerance; everyone else should avoid it. The bull case: an AI lending platform trading at a forward P/E of 6.8, the lowest ever, with a bank charter expected in 2027 that would let it fund loans with cheap deposits (the SoFi playbook), materially lowering funding costs and improving competitiveness. The bear case dominates the video: Upstart's own macro index sits at 1.5 (consumers 50% more likely to default than pre-COVID), rates are rising again against a far weaker consumer balance sheet than 2022 (stimulus spent, credit-card debt soaring), and personal loans — Upstart's core product — are the first loans borrowers default on. He recounts the 2022 cycle, when vanishing lender demand forced Upstart to become the lender of last resort and hold loans on its balance sheet. Rising oil, food, rent, insurance and heating costs keep pressuring consumers with no relief in sight. Verdict: attractive risk/reward only if you can stomach front-line macro risk.",
+ "video_id": "ZV3brKndoqQ",
+ "calls": [
+  {
+   "video_id": "ZV3brKndoqQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Down Over 90%, Is it Finally Time to Buy This AI Stock?",
+   "published_at": "2026-09-28T05:55:18.308240+00:00",
+   "ticker": "UPST",
+   "direction": "BUY",
+   "price_at_call": "$24",
+   "thesis": "AI lending platform down ~93% from ATH at forward P/E 6.8; bank charter expected 2027 would lower loan funding costs like SoFi's. He reiterates his buy ranking, but only for investors with the highest risk tolerance.",
+   "base_case": null,
+   "bull_case": "DCF $58 vs $24; could more than double in 12-18 months as the bank charter cuts funding costs and makes Upstart more competitive.",
+   "bear_case": "Macro index at 1.5: consumers 50% more likely to default than pre-COVID; rising rates plus weak balance sheets hit personal loans first (first to default); 2022-style revenue collapse risk.",
+   "analyzed_at": "2026-09-29T13:57:05.788120+00:00"
+  }
+ ]
+}
