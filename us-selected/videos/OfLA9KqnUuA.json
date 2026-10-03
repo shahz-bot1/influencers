@@ -1,0 +1,25 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-23T13:03:55+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc's September 23 video is a buy-and-earnings-timing guide ahead of Micron's September 30 investor update (after market close), addressing investors torn about the stock being up ~264% year-to-date. His central argument: the surge is justified by fundamentals, not hype. The June-quarter results were 'absolutely incredible' — revenue of $41.4B (up from $9.3B, more than 4x year-over-year) and operating profit of $33.3B with an 80% operating margin, the first above-80% quarterly operating margin he has seen in a decade of analysis. Demand is unprecedented: products sold out for 2026 and most of 2027, with 2028 sellout conversations beginning; management guides $50B revenue and ~86% gross margin next quarter. Analysts forecast FY2027 (ending August) revenue of $247B (+90%) and $281B in 2028, so he sees no revenue cliff until at least FY2029. Cash flow from operations jumped ~4x to $45.7B in the nine months ended May 28, and the September 15 demo of a 512GB DDR5 RDIMM server memory module with AMD and Intel testing shows continued innovation. He argues Micron is still priced as cyclical (forward P/E of just 6 vs an S&P average of ~4x that), with longer-term customer agreements reducing — but not removing — cyclicality. His updated DCF fair value is $1,439/share vs a $1,041 market price, implying 38%+ upside over 12-18 months. Timing advice: new investors allocate 75% before / 25% after earnings; existing holders reverse it (25%/75%). Also mentions Super Micro Computer. Calls per supplied list: MU BUY @ $1,041 stated.",
+ "title": "Revealed! Everything You Need to Know About Micron's Sept. 30 Investor Update",
+ "video_id": "OfLA9KqnUuA",
+ "calls": [
+  {
+   "video_id": "OfLA9KqnUuA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Revealed! Everything You Need to Know About Micron's Sept. 30 Investor Update",
+   "published_at": "2026-09-23T13:03:55+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": "$1,041 (stated)",
+   "thesis": "Undervalued into Sep 30 earnings: unprecedented demand, sold out for 2026 and most of 2027, 80%+ operating margins, forward PE ~6.",
+   "base_case": "DCF $1,439 vs $1,041 = ~38% upside over 12-18 months.",
+   "bull_case": "If market stops pricing it as purely cyclical, multiple re-rates toward 40-50x like non-cyclical growers.",
+   "bear_case": "Still cyclical at heart; a demand slowdown (not expected before FY2029) would collapse EPS.",
+   "analyzed_at": "2026-09-23T15:05:00.270761+00:00"
+  }
+ ]
+}
