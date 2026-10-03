@@ -1,0 +1,22 @@
+{
+ "ticker": "AMDY",
+ "slug": "AMDY",
+ "calls": [
+  {
+   "video_id": "gkt3BnXJf9s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "AMDY",
+   "direction": "BUY",
+   "thesis": "YieldMax AMD Options Income Strategy ETF: single-stock AMD call/put premium strategy. Tactical overweight for investors who believe AMD keeps taking AI share; more income but concentrated single-stock risk. Notes he got in AMD early last year and has cashed it.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
