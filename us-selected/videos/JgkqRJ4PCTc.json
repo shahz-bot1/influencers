@@ -1,0 +1,91 @@
+{
+ "title": "BREAKING: Next Wave of AI Revolution Confirmed (How we are investing!)",
+ "creator": "BWB - Business With Brian",
+ "summary": "Professor G hosts Brian for a community-Q&A episode on his channel ('Investing Simplified') covering selling rules, AI investing, ETFs, portfolio construction and stock ideas each. Brian's core selling framework: no price targets (would have clipped Palantir's upside), rebalance so no holding exceeds ~10%, invest asymmetrically (mega-cap core, tiny speculative slivers), and pull principal out of speculative winners after 100-300% gains; he sold Rivian as dead money after 2 years - the afternoon before VW's investment sent it up 30-40% ('you never know what you don't know'; a historical anecdote, not a current call). For AI over 5 years he says it's 'always priced into the next five years' - never fully baked - so dollar-cost average, don't chase: break AI into buckets (compute, hyperscalers, infrastructure/utilities). His three core AI ETFs: SMH (semiconductors, 'treated me like gold'), NUKZ (nuclear - the AI energy choke point), QQQM ('no-brainer'). His stock ideas: Applied Digital ('no-brainer', data-center money machine but priced high - DCA in and buy the inevitable earnings-miss drop) and Ambarella (watch-list edge-computing SoC play for robotics; not yet profitable; once it flips positive 'they explode'). Brian's $10K portfolio: 65% mega caps (AMZN, MSFT, GOOGL, META), 10-15% cash, 5% crypto, 15% asymmetric. Nolan's answers (host-only): 90% three-fund portfolio + 5% Bitcoin + 5% cash; AIQ and ARKQ ETFs; Berkshire Hathaway and IREN. Calls: SMH, NUKZ, QQQM, ARKQ, APLD BUY; AMBA CONDITIONAL_BUY (Brian). Note: 'nukes nukz' = NUKZ; 'Amberella' = Ambarella; 'Pterodine' unresolvable.",
+ "video_id": "JgkqRJ4PCTc",
+ "published_at": "2025-12-10",
+ "calls": [
+  {
+   "video_id": "JgkqRJ4PCTc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "SMH",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Core AI/semiconductor ETF holding for years; 'treated me like gold'.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2025-12-10T15:00:46+00:00"
+  },
+  {
+   "video_id": "JgkqRJ4PCTc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "NUKZ",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Nuclear ETF: energy is AI's choke point; growth potential but don't go heavy.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2025-12-10T15:00:46+00:00"
+  },
+  {
+   "video_id": "JgkqRJ4PCTc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "QQQM",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "'No-brainer' broad-growth core; 'everyone should have that in their portfolio'.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2025-12-10T15:00:46+00:00"
+  },
+  {
+   "video_id": "JgkqRJ4PCTc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "ARKQ",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Robotics/autonomous-tech exposure without mega caps; 'fully agree' with Nolan's pick.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Robotics monetization later than hoped; expensive to scale.",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2025-12-10T15:00:46+00:00"
+  },
+  {
+   "video_id": "JgkqRJ4PCTc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "APLD",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "'No-brainer' data-center play, long-term money machine - but priced very high now, so slowly DCA.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bear": "Priced high now; expect an earnings-miss drop at some point.",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2025-12-10T15:00:46+00:00"
+  },
+  {
+   "video_id": "JgkqRJ4PCTc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AMBA",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Watch-list edge-computing SoC play for robotics; could 'become something big in 2-5 years'.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Condition: not yet profitable - he waits until they tick toward profitability.",
+   "bear": "Not yet profitable; not a huge player yet.",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2025-12-10T15:00:46+00:00"
+  }
+ ]
+}
