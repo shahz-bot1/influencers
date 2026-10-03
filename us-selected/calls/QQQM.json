@@ -1,0 +1,25 @@
+{
+ "ticker": "QQQM",
+ "slug": "QQQM",
+ "calls": [
+  {
+   "video_id": "JgkqRJ4PCTc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "QQQM",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "'No-brainer' broad-growth core; 'everyone should have that in their portfolio'.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2025-12-10T15:00:46+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
