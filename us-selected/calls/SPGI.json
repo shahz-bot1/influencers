@@ -1,0 +1,26 @@
+{
+ "ticker": "SPGI",
+ "slug": "SPGI",
+ "calls": [
+  {
+   "video_id": "ps7HQgBsw5I",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "How I'm Investing With $1.5 Million Stock Portfolio",
+   "ticker": "SPGI",
+   "direction": "BUY",
+   "price_at_call": "21 fwd PE (stated)",
+   "thesis": "A buy today — down big on AI 'data apocalypse' fears he calls short-sighted; low valuation gives downside protection; debt issuance is cyclical and must renew.",
+   "base_case": null,
+   "bull_case": "ETF-linked AUM $3T-> $6T; strong economics at a low multiple.",
+   "bear_case": "Stock can always go lower; rising rates temporarily slow debt issuance.",
+   "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  }
+ ]
+}
