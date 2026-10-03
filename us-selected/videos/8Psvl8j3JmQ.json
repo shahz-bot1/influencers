@@ -1,0 +1,25 @@
+{
+ "creator": "Mark Roussin CPA",
+ "published_at": "2026-09-23T14:03:55+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "In this September 23 video, Mark Roussin CPA breaks down what he calls one of the biggest quarterly rebalances in years for SCHD — the dividend ETF he calls 'easily the best dividend ETF on the market' and holds as his sixth-largest position (700 shares, ~$25,000, held for years). He explains SCHD's mechanics: the annual March reconstitution selects which stocks qualify for the Dow Jones US Dividend 100 index, while the June/September/December rebalances only adjust weights under 4.5% single-stock and 25% sector caps. The September rebalance was dramatic: technology exposure jumped from 8.9% to 12% (roughly a 35% increase) while healthcare fell from ~21% to 18.8%. Qualcomm went from the 18th holding to #1 at ~4.7%, and Texas Instruments from 12th to #2 at 4.4% — two semiconductor names now top the portfolio, displacing Merck, Abbott, Amgen and ConocoPhillips. Roussin stresses the moves are rules-based, systematic 'sell high, buy low' mean reversion, not a manager's valuation call — Qualcomm jumped 9% on September 21 when weights reset. He notes stocks boosted in the Q2 rebalance (Merck +28%, ConocoPhillips +21%, Abbott +18%) then outperformed, though rebalancing isn't magic (P&G, Pepsi and Home Depot fell). He likes the added tech participation, the reduced healthcare concentration, and the emotionless process, and says SCHD outperformed the S&P 500 ~28% to 17% over the past year. Other tickers mentioned: QCOM, TXN, MRK, AMGN, COP, KO, CVX, VZ, UNH, HD, PG, AMD, Marvell. Calls per supplied list: SCHD HOLD (holds 700 shares, ~$25k).",
+ "title": "SCHD Just Made a BIG Move — Here's What Changed",
+ "video_id": "8Psvl8j3JmQ",
+ "calls": [
+  {
+   "video_id": "8Psvl8j3JmQ",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "SCHD Just Made a BIG Move — Here's What Changed",
+   "published_at": "2026-09-23T14:03:55+00:00",
+   "ticker": "SCHD",
+   "direction": "HOLD",
+   "price_at_call": "not stated (holds 700 shares, ~$25k)",
+   "thesis": "Q3 rebalance raised tech 8.9%->12% with QCOM/TXN now top-2 holdings; still his favorite dividend ETF, continuing to hold.",
+   "base_case": "Rules-based mean-reversion has added value before (Q2 adds like MRK +28%); dividend income +4.2% YTD.",
+   "bull_case": "More tech participation without abandoning the dividend mandate; 28% total return vs 17% S&P 500 past year.",
+   "bear_case": "Rebalance is not a valuation call; prior adds like PEP (-7%) and HD (-7.4%) lagged.",
+   "analyzed_at": "2026-09-23T15:05:00.270761+00:00"
+  }
+ ]
+}
