@@ -1,0 +1,27 @@
+{
+ "ticker": "MCD",
+ "slug": "MCD",
+ "calls": [
+  {
+   "ticker": "MCD",
+   "direction": "BUY",
+   "thesis": "His most-bullish of the four \"forever\" picks; DCF fair value $299 vs $237 (+26% upside in 12-18 months, before dividends).",
+   "price_at_call": "$237 (stated)",
+   "bull_case": "AI drive-thrus and food-delivery robots could cut labor cost and expand reach over 3-10 years.",
+   "bear_case": "Consumers shifting to healthier options; 2026 macro headwinds cut FCF to $7.25B from $8.5B.",
+   "base_case": null,
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "lV4gJKmzRxg",
+   "video_title": "Forever Stocks: 4 Undervalued Dividend Stocks Investors Can Buy Now and Hold Forever",
+   "published_at": "2026-09-29T11:59:59.109610+00:00",
+   "analyzed_at": "2026-09-29T18:01:32.562233+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
