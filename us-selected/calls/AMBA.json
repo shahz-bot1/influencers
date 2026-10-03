@@ -1,0 +1,27 @@
+{
+ "ticker": "AMBA",
+ "slug": "AMBA",
+ "calls": [
+  {
+   "video_id": "JgkqRJ4PCTc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AMBA",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Watch-list edge-computing SoC play for robotics; could 'become something big in 2-5 years'.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Condition: not yet profitable - he waits until they tick toward profitability.",
+   "bear": "Not yet profitable; not a huge player yet.",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2025-12-10T15:00:46+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
