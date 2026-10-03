@@ -1,0 +1,26 @@
+{
+ "ticker": "NVO",
+ "slug": "NVO",
+ "calls": [
+  {
+   "video_id": "dLLAFMZ75BQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "NVO",
+   "direction": "BUY",
+   "conviction": "low",
+   "stated_price": 38.36,
+   "fair_value": 64.5,
+   "thesis": "Uninspiring mid-single-digit growth outlook through 2030, but stock trades at cheapest valuation in years (11.3x fwd PE); ~68% upside over 12-18 months on his DCF.",
+   "bull": "Cost cuts fund R&D; AI lifts drug-development ROI; ROIC 37% (3-4x WACC) stabilizes.",
+   "bear": "ROIC has fallen from 80-90% over a decade; lowest R&D spend among peers (15.7%); patent loss pressures weight-loss franchise; he prefers LLY.",
+   "stance_flip": false,
+   "analyzed_at": "2026-09-26T22:00:25.407245+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
