@@ -1,0 +1,25 @@
+{
+ "ticker": "SBUX",
+ "slug": "SBUX",
+ "calls": [
+  {
+   "video_id": "GjtaI05BM2A",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "SBUX",
+   "direction": "HOLD",
+   "conviction": null,
+   "stated_price": 93.0,
+   "fair_value": 66.0,
+   "thesis": "Diseconomies of scale: 40k+ stores, op margin 18%->10% since 2017, ROIC near WACC; store closures (250 US/CA) right but more needed; rich at 30x fwd PE, would need considerably lower price to buy.",
+   "bull": "CEO Brian Niccol's rightsizing lifts near-term profitability.",
+   "bear": "Ceding NA share invites Dutch Bros as a powerful new competitor.",
+   "analyzed_at": "2026-09-27T13:56:51.947282+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
