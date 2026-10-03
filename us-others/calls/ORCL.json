@@ -1,0 +1,36 @@
+{
+ "ticker": "ORCL",
+ "slug": "ORCL",
+ "calls": [
+  {
+   "video_id": "_X0c2A-Ln9c",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "ORCL",
+   "direction": "SELL",
+   "thesis": "Valuation mirage: AI capex boom hides -$28B TTM free cash flow and ~$120B debt; 10-yr borrowing cost rose 5.7% (Feb) to ~7.3%; Project Jupiter force majeure shows execution strain. -53% over past year with more downside ahead.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": null
+  },
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ORCL",
+   "direction": "AVOID",
+   "thesis": "Force majeure on the 2.5GW New Mexico data center could be 'the first crack in the entire AI boom'; worst of the neo-cloud group, -53% since May, -5.1x debt-to-FCF.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
+   "price_at_call": "-6.5% on the week / -53% since May"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 1
+  }
+ ]
+}
