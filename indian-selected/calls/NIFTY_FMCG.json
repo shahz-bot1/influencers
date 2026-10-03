@@ -1,0 +1,27 @@
+{
+ "ticker": "NIFTY FMCG",
+ "slug": "NIFTY_FMCG",
+ "calls": [
+  {
+   "video_id": "kJuk2TsBfaI",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Where to Invest and where NOT TO? - Indian stocks vs US stocks vs Gold vs FDs  - Rahul Jain",
+   "published_at": "2026-09-27T20:54:12.349385+00:00",
+   "ticker": "NIFTY FMCG",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "EPS growth slowed to ~8% but PE contracted ~22% - lots of derating, good space for value investors",
+   "base_case": "Derated FMCG delivers steady value returns",
+   "bull_case": "Oil cools, input costs fall and margins recover",
+   "bear_case": "High oil keeps raw-material costs elevated and fear persists",
+   "analyzed_at": "2026-10-03T20:59:20.859641+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
