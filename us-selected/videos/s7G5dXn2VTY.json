@@ -1,0 +1,22 @@
+{
+ "title": "Unfortunate News for Oracle Stock Investors | ORCL Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "summary": "Oracle issued a force majeure notice on its 2.45GW Project Jupiter site in New Mexico (tied to the OpenAI/SoftBank Stargate initiative, sent to developer Blue Owl Capital) to delay payments if the site misses its 2028 go-live. He stresses the stock fell ~4% on the risk signal, not the event itself: Oracle is the most leveraged of the hyperscalers with tens of billions in debt, negative free cash flow for years (his revised estimates: -$25B in 2026, -$37B in 2027, -$32.6B in 2028, positive from 2029), so small shocks move the price disproportionately. On the plus side, customers are now paying multi-billion-dollar deposits on compute orders, which improved his FCF forecasts. He updated his DCF fair value to $131 vs ~$139 market; forward PE 12.7 looks cheap versus 2024, but the risk increase since 2024 (OpenAI concentration, hundreds of billions in contracts) outpaced the cash-flow increase. Verdict: BUY with LOW conviction, reiterated. Other tickers discussed: OpenAI, SoftBank, Anthropic, MU (notes Micron reports Sep 30; he'll cover live, members-only).",
+ "video_id": "s7G5dXn2VTY",
+ "published_at": "2026-09-26 ~13:45 BST",
+ "calls": [
+  {
+   "video_id": "s7G5dXn2VTY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "ORCL",
+   "direction": "BUY",
+   "price_at_call": "~$139 (market at recording; his fair value $131)",
+   "thesis": "Still a buying opportunity on risk/reward — DCF fair value revised up to $131 with FCF estimates improved by large customer deposits — but LOW conviction given extreme leverage and OpenAI concentration.",
+   "base_case": "Fair value $131 vs $139 market (~fairly valued on DCF; undervalued on forward PE 12.71).",
+   "bull_case": "Cash flow turns positive in 2029 as new data centers come online; stock cheaper than in 2024 pre-growth-acceleration.",
+   "bear_case": "FCF -$25B (2026), -$37B (2027), -$32.6B (2028); OpenAI (hundreds of billions contracted) wobble hits Oracle hardest of the hyperscalers.",
+   "analyzed_at": "2026-09-26T14:00:01.000665+00:00"
+  }
+ ]
+}
