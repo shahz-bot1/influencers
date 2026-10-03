@@ -1,0 +1,38 @@
+{
+ "ticker": "QCOM",
+ "slug": "QCOM",
+ "calls": [
+  {
+   "video_id": "8pOD-5dG1KM",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "DCF fair value $268 vs $204 (~31% upside) on AI data-center optionality; does not own, very interested in starting position.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  },
+  {
+   "video_id": "pDsQs_qPELs",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Liked new SCHD addition; left behind by tech/chip peers; may give SCHD 'some life'.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and Mark Roussin, CPA",
+   "published_at": "2026-04-15T15:45:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 1
+  }
+ ]
+}
