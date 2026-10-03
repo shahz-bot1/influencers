@@ -1,0 +1,28 @@
+{
+ "ticker": "PINS",
+ "slug": "PINS",
+ "calls": [
+  {
+   "video_id": "_gHUNTNSyXQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "PINS",
+   "direction": "BUY",
+   "price_at_call": "market ~$19 (stated); his FV $35; he bought ~$34 and added lower",
+   "thesis": "New BUY / reiterated top-10 ranking, high conviction (updated Sep 30): forward PE 7.8 'ridiculously cheap' despite his below-Street growth forecasts (7-10% for 2027-28 vs Street 13%/11.5%); >85% upside to his $35 FV even after raising beta for the widening AI-scale gap vs Meta.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-03T11:57:53.964581+00:00",
+   "analyzed_at": "2026-10-03T14:13:54.942491+00:00",
+   "stance_flip": null,
+   "video_title": "1 Ridiculously Cheap Stock Investors Can Buy Now in October (2026)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
