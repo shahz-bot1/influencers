@@ -1,0 +1,48 @@
+{
+ "ticker": "RBRK",
+ "slug": "RBRK",
+ "calls": [
+  {
+   "video_id": "oEXzLq-q5cY",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "RBRK",
+   "direction": "BUY",
+   "price_at_call": "stock ~$115 reference (guest); Jan 2028 $145 call activity noted",
+   "thesis": "Guest Jonathan Rose (InvestorPlace) favourite cybersecurity play: Rubrik is already profitable, ~$13B market cap sweet spot to re-rate, non-discretionary AI-security spending growth for 5-10 years; extremely bullish on the sector for 3-5+ years. Ticker spoken as RBK/Rubric in captions; actual ticker RBRK.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-02T23:00:23.042483+00:00",
+   "analyzed_at": "2026-10-03T06:29:52.571646+00:00",
+   "stance_flip": null,
+   "video_title": "This Stock Dropped 52% Then Jumped 83% (Here's How to Profit from Market Volatility)"
+  },
+  {
+   "video_id": "pW_7A50jY_8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "RBRK",
+   "direction": "SELL",
+   "price_at_call": "~$114 (trimmed 18.18%, executed)",
+   "thesis": "Trimmed Rubrik 18.18%: likes the company but 'getting very, very expensive at these prices'; risk-management trim.",
+   "base_case": "Base: keeps growing but richly priced.",
+   "bull_case": "Bull: growth justifies the multiple.",
+   "bear_case": "Bear: multiple compression on any slowdown.",
+   "published_at": "2026-09-27T16:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": null,
+   "video_title": "I Just Bought $15,000 of a New Stock"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
+  }
+ ]
+}
