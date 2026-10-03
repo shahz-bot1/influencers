@@ -1,0 +1,23 @@
+{
+ "ticker": "YMM",
+ "slug": "YMM",
+ "calls": [
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "YMM",
+   "direction": "HOLD",
+   "thesis": "Full Truck Alliance: dividend yield, growing, stable, \"fair and cheaply priced\"; key risk is the Chinese economy.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
