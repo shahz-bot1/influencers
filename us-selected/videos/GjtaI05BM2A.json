@@ -1,0 +1,22 @@
+{
+ "title": "Interesting News for Starbucks Stock Investors | SBUX Stock Analysis | BROS Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "summary": "He reacts to Starbucks announcing another 250 US/Canada store closures and frames it as evidence of his long-running diseconomies-of-scale thesis: at 40,000+ locations, size is creating inefficiencies rather than advantages. Key arguments: operating margin has collapsed from 18% in 2017 to ~10% now while sales grew (costs rising faster than revenue, driven by dramatic labor cost and wage inflation, especially California's $20+/hour minimum wage); ROIC was above 30% before the pandemic and is now 11-12%, barely at WACC, meaning incremental new locations don't earn their cost of capital. He credits CEO Brian Niccol for identifying the problem and shrinking, but says 250 stores is under 1% of the US/CA count and far more closures are needed. Short term, shrinking may improve profitability; long term, ceding share risks creating a powerful new competitor in Dutch Bros, where he says he is 'a little bullish' on expansion at Starbucks' expense. Valuation: 30x forward PE is rich for a business in this position; his DCF fair value is $66 vs $93 market price. Verdict: SBUX remains a HOLD (reiterated); he'd need a considerably lower price to upgrade to BUY. Other tickers discussed: BROS (bullish tilt, no explicit call).",
+ "video_id": "GjtaI05BM2A",
+ "published_at": "2026-09-27 ~13:45 BST",
+ "calls": [
+  {
+   "video_id": "GjtaI05BM2A",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "SBUX",
+   "direction": "HOLD",
+   "conviction": null,
+   "stated_price": 93.0,
+   "fair_value": 66.0,
+   "thesis": "Diseconomies of scale: 40k+ stores, op margin 18%->10% since 2017, ROIC near WACC; store closures (250 US/CA) right but more needed; rich at 30x fwd PE, would need considerably lower price to buy.",
+   "bull": "CEO Brian Niccol's rightsizing lifts near-term profitability.",
+   "bear": "Ceding NA share invites Dutch Bros as a powerful new competitor.",
+   "analyzed_at": "2026-09-27T13:56:51.947282+00:00"
+  }
+ ]
+}
