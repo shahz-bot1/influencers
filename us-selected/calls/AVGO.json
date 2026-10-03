@@ -1,0 +1,136 @@
+{
+ "ticker": "AVGO",
+ "slug": "AVGO",
+ "calls": [
+  {
+   "video_id": "8pOD-5dG1KM",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "DCF fair value $523 vs $353 market (~48% upside); owns since earlier this year, interested in buying more.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  },
+  {
+   "video_id": "cIOHXqXkuLc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "n/a (restating BUY; initiated position last week)",
+   "thesis": "Still views Broadcom as undervalued; wants to grow the position — AI revenue visibility to double to $115B and double again.",
+   "base_case": "Base: AI revenue doubles next year on steady hyperscaler demand.",
+   "bull_case": "Bull: $115B AI revenue, then doubles again to $230B; multiple rerating.",
+   "bear_case": "Bear: OpenAI/Anthropic ARR flatness undercuts the AI capex commitments feeding Broadcom.",
+   "published_at": "2026-09-30T23:55:15.965630+00:00",
+   "analyzed_at": "2026-10-01T05:57:02.043190+00:00",
+   "stance_flip": null,
+   "video_title": "Micron Just Posted Insane Numbers. The Market Doesn't Care"
+  },
+  {
+   "video_id": "0c-MflvThsA",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "Should Investors Buy Broadcom Stock Instead of Marvell Stock? | AVGO Stock vs. MRVL Stock",
+   "published_at": "2026-09-28T12:55:37.807225+00:00",
+   "detected_at": "2026-09-28T13:55:37.807225+00:00",
+   "direction": "BUY",
+   "ticker": "AVGO",
+   "stated_price": "$353 (DCF fair value $523)",
+   "thesis": "Prefers Broadcom over Marvell head-to-head; ~48% DCF upside over 12-18 months; he owns AVGO",
+   "base_case": "AVGO keeps scaling semiconductor + VMware software mix, margins stay elevated",
+   "bull_case": "AI ASIC demand from hyperscalers (Alphabet etc.) keeps compounding, multiple re-rates",
+   "bear_case": "AI demand visibility only runs through early 2028; beyond that the question marks start"
+  },
+  {
+   "video_id": "pW_7A50jY_8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "43 shares @ $352 (stated, executed)",
+   "thesis": "New 2.4% portfolio position: stock flat YTD (+1.6%) despite >50% expected revenue growth; 20.4x forward PE, 0.5 PEG; CEO guided AI revenue to double to $115B next fiscal year then to $230B.",
+   "base_case": "Base: FCF explodes alongside AI revenue ramp.",
+   "bull_case": "Bull: AI revenue hits $230B in 2 fiscal years; rerates toward peers.",
+   "bear_case": "Bear: growth guidance proves optimistic; multiple stays compressed.",
+   "published_at": "2026-09-27T16:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": "CONDITIONAL_BUY->BUY (condition met, executed)",
+   "video_title": "I Just Bought $15,000 of a New Stock"
+  },
+  {
+   "video_id": "uFY_WUwAY7k",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AVGO",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$1.7T mkt cap, 20.5x forward earnings (stated)",
+   "thesis": "Host Neil's contrarian relative pick: expects Broadcom to outperform NVDA over the next 12 months on the recent price divergence — cheap at 20.5x forward with Hock Tan's AI-revenue visibility ($115B FY27, ~$230B FY28) given conservatively.",
+   "base_case": "Growth expected to peak ~93% then decelerate; margin recovery as all ASIC projects ramp.",
+   "bull_case": "All custom-ASIC projects online at full ramp simultaneously → margin expansion and upside to guidance.",
+   "bear_case": "Anthropic/OpenAI concentration (>30% of 2-yr compute demand); hyperscalers building in-house or returning to NVDA.",
+   "video_title": "NVIDIA vs. Broadcom: The Market Is Missing This",
+   "published_at": "2026-09-25T18:58:18+00:00",
+   "analyzed_at": "2026-09-25T22:06:06.990084+00:00",
+   "flip": false
+  },
+  {
+   "video_id": "FXDiB6n-5RU",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "'The next Nvidia': AI solutions revenue doubling in 2027 and again in 2028 per CEO guidance; PEG ~0.5.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Meta/OpenAI/Google custom-ASIC customers.",
+   "bull": "JPMorgan: ASIC volumes could pass GPU volumes from 2027.",
+   "bear": "Revenue concentration in a few hyperscalers.",
+   "collab_byline": "Future Investing and Couch Investor",
+   "published_at": "2026-09-16T01:35:30+00:00"
+  },
+  {
+   "video_id": "i3NittyekA4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "'The muscle' to Nvidia's 'brains': custom hyperscaler AI chips plus edge-compute exposure; VMware a cash-cow software arm.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Revenue +92%; software growth from VMware continues.",
+   "collab_byline": "Investing Simplified - Professor G and BWB - Business With Brian",
+   "published_at": "2026-06-20T13:00:08+00:00"
+  },
+  {
+   "video_id": "0cKiqQZpgF0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Custom AI accelerators + VMware cash cow; $16B cash (+73% YoY), 67%+ margins, PEG 0.98, earnings growth +188%; dipped 21% in December.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Medium-to-long-term hold on AI data-center buildout.",
+   "note": "Joint pick - Joseph Hogue agreed.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
+   "published_at": "2026-01-28T16:45:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 6
+  }
+ ]
+}
