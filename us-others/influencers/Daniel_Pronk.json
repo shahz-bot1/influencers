@@ -1,0 +1,15 @@
+{
+ "name": "Daniel Pronk",
+ "handle": "@danielpronk",
+ "slug": "Daniel_Pronk",
+ "calls": [
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-09-30T21:55:34.672871+00:00",
+   "price": null,
+   "video_id": "sY9DIuxZzmc"
+  }
+ ]
+}
