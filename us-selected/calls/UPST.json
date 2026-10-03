@@ -1,0 +1,27 @@
+{
+ "ticker": "UPST",
+ "slug": "UPST",
+ "calls": [
+  {
+   "video_id": "ZV3brKndoqQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Down Over 90%, Is it Finally Time to Buy This AI Stock?",
+   "published_at": "2026-09-28T05:55:18.308240+00:00",
+   "ticker": "UPST",
+   "direction": "BUY",
+   "price_at_call": "$24",
+   "thesis": "AI lending platform down ~93% from ATH at forward P/E 6.8; bank charter expected 2027 would lower loan funding costs like SoFi's. He reiterates his buy ranking, but only for investors with the highest risk tolerance.",
+   "base_case": null,
+   "bull_case": "DCF $58 vs $24; could more than double in 12-18 months as the bank charter cuts funding costs and makes Upstart more competitive.",
+   "bear_case": "Macro index at 1.5: consumers 50% more likely to default than pre-COVID; rising rates plus weak balance sheets hit personal loans first (first to default); 2022-style revenue collapse risk.",
+   "analyzed_at": "2026-09-29T13:57:05.788120+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
