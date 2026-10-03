@@ -1,0 +1,25 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-24",
+ "title": "Is UnitedHealth Stock an Undervalued Stock to Buy Right Now? | UNH Stock Analysis",
+ "source_note": "Detailed summary generated from video captions; minor garbling around sponsor line only",
+ "summary": "Parkevtate Vosianc updates UnitedHealth (UNH) after its post-2025 cost fumble. Management underestimated the cost to serve customers in 2025, then exited expensive markets, sold a Florida health unit to private equity, and raised insurance prices — and results have come in better than expected. He revised his FCF estimates up ~$3B per year starting 2026, lifting intrinsic value to $518/share, implying ~39-40% upside over 12-18 months despite the rapid share-price recovery. Margins likely won't return to pre-2025 levels until 2027-28; the business is not very lucrative (peak operating margin was under 10% in 2020; ROIC 8% TTM vs 16% peak), though scale is enormous (~$450B TTM revenue). Forward P/E of 16.5 remains at the low end of its multi-year range. He frames this as a buy-the-dip story that worked: he reiterated BUY through 2025 and early 2026 at prices from ~$230 to ~$280, contrasting with dip-buys that kept falling (Trade Desk, Pinterest, Lululemon). Reiterated BUY today — there is still upside as operations keep improving. Key caveat: earnings variability has been high since the 2025 fumble, a repeat of the cost-estimation error is the bear case. Call: UNH — BUY (intrinsic value $518, ~40% stated upside).",
+ "video_id": "nGpwJHq0zVo",
+ "calls": [
+  {
+   "video_id": "nGpwJHq0zVo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is UnitedHealth Stock an Undervalued Stock to Buy Right Now? | UNH Stock Analysis",
+   "published_at": "2026-09-24T15:00:00.951899+00:00",
+   "ticker": "UNH",
+   "direction": "BUY",
+   "price_at_call": "intrinsic $518 (stated; ~40% upside implied)",
+   "thesis": "Reiterated BUY: revised FCF estimates up ~$3B/yr on better-than-expected cost improvements; 39-40% upside over 12-18 months.",
+   "base_case": "Margins recover toward pre-2025 levels by 2027-28 as cost initiatives continue.",
+   "bull_case": "Cost improvements sustain; multiple re-rates off the 16.5x forward PE low end.",
+   "bear_case": "2025's cost-estimation fumble repeats; earnings variability returns.",
+   "analyzed_at": "2026-09-24T18:02:23.972154+00:00"
+  }
+ ]
+}
