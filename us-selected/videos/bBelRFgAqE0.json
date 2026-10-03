@@ -1,0 +1,25 @@
+{
+ "title": "Nvidia Just Made a MASSIVE Move",
+ "creator": "Mark Roussin CPA",
+ "published_at": "2026-09-29",
+ "source_note": "Detailed summary generated from video captions; captions readable",
+ "summary": "Mark Roussin covers Nvidia's additional $150B buyback authorization, taking total repurchase capacity to $235B through FY2028 — the largest buyback authorization on record per Reuters, surpassing Apple's $110B (2024). He is incrementally bullish and issues an NVDA BUY (first call on record): it is an authorization, not a declaration of undervaluation, but it signals cash-generation strength, capital-allocation confidence, EPS support via share-count reduction, and management confidence. The affordability case: $134B TTM operating cash flow and $127B free cash flow (vs <$5B at the pandemic start), $26B returned in Q2 alone ($20B buybacks + $6B dividends), $41.1B in FY26, an $80B authorization in May and now $150B more four months later. Valuation: forward PE 19x vs 5-year average 36x, forward EV/EBITDA 15.5x vs 34x, ~70% EPS growth expected, PEG well below 1 — \"trading like a packaged foods company\" versus Apple at mid-high-30s PE on <10% growth. He cautions that timing matters less than price paid and watches four things: hyperscaler AI capex, Rubin execution, margins, and whether the program actually reduces share count. Options angle: sell Nov 20 $200 puts to collect ~$35/contract — \"get paid to wait\" for a price he'd love. He also rebuts a CNBC bear (Seaport's Jay Goldberg, sell-rated since Apr 2025 with a 44% hit rate) whose \"essentially flat\" claim ignored a >25% 12-month gain. Caption garbles: early revenue/operating-income figures garbled (later clarified as $96B quarterly revenue, ~$60B quarterly net income); \"Veraruba\" is a garbled vendor name.",
+ "video_id": "bBelRFgAqE0",
+ "calls": [
+  {
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Incremental BUY on the $150B additional buyback authorization (total $235B through FY2028, the largest on record); he likes Nvidia here and would love it at $200, pitching Nov 20 $200 puts to get paid to wait.",
+   "price_at_call": null,
+   "bull_case": "Forward P/E ~19 vs 5-yr avg 36 with ~70% EPS growth expected; EPS gets two engines (earnings growth + share-count reduction); $127B TTM free cash flow.",
+   "bear_case": "Buybacks only create value if bought cheap; bears cite data-center construction concerns, AI safety, election year, and rising competition.",
+   "base_case": null,
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_id": "bBelRFgAqE0",
+   "video_title": "Nvidia Just Made a MASSIVE Move",
+   "published_at": "2026-09-29T13:59:59.109610+00:00",
+   "analyzed_at": "2026-09-29T18:01:32.562233+00:00"
+  }
+ ]
+}
