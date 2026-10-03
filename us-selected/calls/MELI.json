@@ -1,0 +1,45 @@
+{
+ "ticker": "MELI",
+ "slug": "MELI",
+ "calls": [
+  {
+   "video_id": "D-P5ryvcIAA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "price_at_call": "~$1,600-1,700; $80B market cap",
+   "thesis": "Screaming buy: 29 straight quarters of 30%+ revenue growth; Amazon-without-AWS.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Dominates LatAm e-commerce/logistics/fintech; great management.",
+   "bull": "First trillion-dollar Latin American company over time.",
+   "bear": "Credit portfolio growing fast; LatAm political risk.",
+   "collab_byline": "Investing Moats with Varun and Couch Investor",
+   "published_at": "2026-07-01T14:30:34+00:00"
+  },
+  {
+   "video_id": "4vgg_-dkDC0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "price_at_call": "analyst 12-month upside ~22%",
+   "thesis": "'Surprise edition': Latin America's Amazon + PayPal-like fintech; 43% revenue CAGR 2021-24, 100M+ buyers of 450M adults.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "collab_byline": "BWB - Business With Brian and Dividendology",
+   "published_at": "2025-08-14T14:45:01+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Couch Investor",
+   "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
+  }
+ ]
+}
