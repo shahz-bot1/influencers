@@ -1,0 +1,23 @@
+{
+ "ticker": "TCEHY",
+ "slug": "TCEHY",
+ "calls": [
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "TCEHY",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "P/E ~15 with dividends + buybacks and double-digit growth; his framework: buy on bad mood / sentiment lows, sell into exuberance peaks. He owns Prosus (Tencent proxy) instead of Tencent directly.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
