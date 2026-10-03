@@ -1,0 +1,26 @@
+{
+ "ticker": "TDOC",
+ "slug": "TDOC",
+ "calls": [
+  {
+   "video_id": "Gw2IlH5msQE",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "3 Undervalued Healthcare Stocks Invstors Can Buy Right Now",
+   "published_at": "2026-09-28T11:55:37.807225+00:00",
+   "detected_at": "2026-09-28T13:55:37.807225+00:00",
+   "direction": "BUY",
+   "ticker": "TDOC",
+   "stated_price": "$6.13 (DCF fair value $7.86)",
+   "thesis": "Post-COVID plateau priced in; telehealth substitution tailwind; ~30% DCF upside over 12-18 months",
+   "base_case": "Virtual-visit share keeps rising; cost discipline stabilizes the flatlining segments",
+   "bull_case": "Platform-provider capacity improvements accelerate adoption",
+   "bear_case": "Revenue peaked; one segment still declining ~20% per management"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
