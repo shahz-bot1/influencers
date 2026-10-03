@@ -1,0 +1,72 @@
+{
+ "title": "9 Stocks to Buy in Our DREAM 2026 Portfolio",
+ "creator": "Mark Roussin CPA",
+ "summary": "A '2026 stock draft' hosted by Joseph Hogue with co-host Bridget Bennett (MarketBeat): Mark Roussin, Tom Nash and Kieran Francis snake-draft three stocks each for the best 2026 returns. Mark's board: (1) AMZN - diversified quality compounder, $200B AI capex 'all-in,' EV/EBITDA near historic lows, 'I wish I invested more'; (2) GOOGL - his largest position, +65% over 12 months, built Gemini in-house instead of acquiring, search/YouTube/ads/cloud/Waymo make it a 'must-own'; (3) NVDA - forward PE ~24 against ~50% expected earnings growth for two years (PEG ~0.5), Jensen Huang, hyperscaler AI capex flowing to Nvidia. Mark also confirms he recently bought and added to MRVL (Kieran's high-speed-interconnect pick) and names Boeing, SoFi and Robinhood as liked-but-undrafted watchlist names. The rest of the draft: Tom Nash takes PLTR (60%/yr growth, $7B cash, no debt), TSLA (robotics/energy/FSD over autos) and VOO as the anchor; Kieran Francis takes MRVL (next AI bottleneck, PE 27 vs AVGO 60), MSFT (Azure growing 41%/38%, 'best price in a decade') and ZS; Hogue adds his own SMCI ('loading up') and ETHA; Bennett notes MarketBeat analysts' AMD bullishness and drone names like Redcat. Calls: AMZN, GOOGL, NVDA, MRVL BUY (Mark); BA, SOFI, HOOD UNCERTAIN. Note: 'Rousen' = Roussin; 'Palunteer' = Palantir; Redcat/Dragonfly mentioned with no explicit buy call.",
+ "video_id": "i2p1PcQWsqw",
+ "published_at": "2026-02-25",
+ "calls": [
+  {
+   "video_id": "i2p1PcQWsqw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Round-1 draft pick: diversified compounder; $200B AI capex; EV/EBITDA near historic lows.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "AWS + ads + AI chips; margins at all-time highs.",
+   "bull": "'Wish I invested more' in a year or two.",
+   "bear": "Capex scrutiny; stock lagging MAG7 peers.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+   "published_at": "2026-02-25T16:45:00+00:00"
+  },
+  {
+   "video_id": "i2p1PcQWsqw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Round-2 pick; largest position; 'must-own'; Gemini built in-house.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "Search/YouTube/ads/cloud/Waymo diversification.",
+   "bull": "Gemini overtakes ChatGPT; Waymo spin-off adds 20-25%.",
+   "bear": "Capex concerns; slight Q4 revenue slowdown.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+   "published_at": "2026-02-25T16:45:00+00:00"
+  },
+  {
+   "video_id": "i2p1PcQWsqw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated (forward PE ~24 referenced)",
+   "thesis": "Round-3 pick: ~50% earnings growth at 24x forward = PEG ~0.5; extreme value.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "59% operating margin vs AMD's 10%; AI capex flowing to Nvidia.",
+   "bull": "Robotics/EV optionality behind the scenes.",
+   "bear": "'Up 1,000%+ in 5 years, how much higher?' sentiment.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+   "published_at": "2026-02-25T16:45:00+00:00"
+  },
+  {
+   "video_id": "i2p1PcQWsqw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Recently bought and added to it himself; likes the interconnect/AI-pipeline thesis.",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "bull": "Revaluation like MU/SNDK saw.",
+   "bear": "Stiff competition from Broadcom/Nvidia; traded sideways 5 years.",
+   "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and 4 more",
+   "published_at": "2026-02-25T16:45:00+00:00"
+  }
+ ]
+}
