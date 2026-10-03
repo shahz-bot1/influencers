@@ -1,39 +1,241 @@
 <!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>US Others · Influencer Watches</title><style>
-:root{--bg:#fff;--fg:#1a1a1a;--muted:#666;--card:#f6f6f6;--border:#e2e2e2;--accent:#0a66c2}
-html[data-theme="dark"]{--bg:#141414;--fg:#e8e8e8;--muted:#a0a0a0;--card:#1e1e1e;--border:#333;--accent:#5aa2f0}
+:root{--bg:#fff;--fg:#1a1a1a;--muted:#666;--card:#f6f6f6;--border:#e2e2e2;--accent:#0a66c2;--overlay:rgba(0,0,0,.45)}
+html[data-theme="dark"]{--bg:#141414;--fg:#e8e8e8;--muted:#a0a0a0;--card:#1e1e1e;--border:#333;--accent:#5aa2f0;--overlay:rgba(0,0,0,.65)}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;line-height:1.5}
-.wrap{max-width:960px;margin:0 auto;padding:24px 16px 64px}
-header.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
-h1{font-size:1.6rem;margin:.2em 0}.sub{color:var(--muted);margin:0 0 24px}
-.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
-.card{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:20px;text-decoration:none;color:inherit;display:block}
-.card:hover{border-color:var(--accent)}.card h2{margin:0 0 6px;font-size:1.2rem}
-.card p{margin:6px 0;color:var(--muted);font-size:.92rem}
-.stats{display:flex;gap:16px;margin:12px 0;flex-wrap:wrap}
-.stat b{font-size:1.15rem;display:block}.stat span{font-size:.78rem;color:var(--muted)}
-.cadence{font-size:.82rem;color:var(--muted)}
+.wrap{max-width:960px;margin:0 auto;padding:20px 16px 80px}
+.topbar{display:flex;justify-content:space-between;align-items:center;margin-bottom:4px}
+.back{color:var(--accent);text-decoration:none;font-size:.92rem}
+h1{font-size:1.5rem;margin:.3em 0}.sub{color:var(--muted);margin:0 0 4px;font-size:.92rem}.cadence{font-size:.82rem;color:var(--muted);margin:0 0 16px}
 button.theme{background:var(--card);border:1px solid var(--border);color:var(--fg);border-radius:8px;padding:6px 12px;cursor:pointer}
-.back{display:inline-block;margin-bottom:16px;color:var(--accent);text-decoration:none}
-table{width:100%;border-collapse:collapse;font-size:.88rem;margin-top:12px}
-th,td{text-align:left;padding:8px;border-bottom:1px solid var(--border);vertical-align:top}
-th{color:var(--muted);font-weight:600}
-.dir{font-weight:700;padding:2px 8px;border-radius:6px;font-size:.78rem;white-space:nowrap}
-.BUY{background:#e6f4ea;color:#137333}.SELL{background:#fce8e6;color:#a50e0e}
-.HOLD{background:#fef7e0;color:#7a5c00}.AVOID{background:#f3e8fd;color:#5c1a9e}
-.CONDITIONAL_BUY{background:#e8f0fe;color:#1a56db}
+.maintabs{display:flex;gap:8px;margin:16px 0;position:sticky;top:0;background:var(--bg);padding:8px 0;z-index:5}
+.maintabs button,.subtabs button{border:1px solid var(--border);background:var(--card);color:var(--fg);border-radius:20px;padding:8px 18px;cursor:pointer;font-size:.92rem}
+.maintabs button.on,.subtabs button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.toolbar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px;align-items:center}
+.toolbar input[type=search]{flex:1;min-width:160px;padding:8px 12px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--fg)}
+.toolbar select{padding:8px;border-radius:8px;border:1px solid var(--border);background:var(--card);color:var(--fg)}
+.fchips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.fchips button{border:1px solid var(--border);background:var(--card);color:var(--fg);border-radius:16px;padding:4px 12px;font-size:.8rem;cursor:pointer}
+.fchips button.on{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.trow{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px;margin-bottom:10px;cursor:pointer}
+.trow:hover{border-color:var(--accent)}
+.trow .th{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.ticker{font-weight:700;font-size:1.05rem}
+.tmeta{font-size:.8rem;color:var(--muted);margin-top:6px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+.chip{font-size:.76rem;font-weight:700;padding:2px 10px;border-radius:6px;white-space:nowrap}
+.BUY{background:#e6f4ea;color:#137333}.SELL{background:#fce8e6;color:#a50e0e}.HOLD{background:#fef7e0;color:#7a5c00}
+.AVOID{background:#f3e8fd;color:#5c1a9e}.CONDITIONAL_BUY{background:#e8f0fe;color:#1a56db}
 html[data-theme="dark"] .BUY{background:#12351f;color:#7ddc9a}html[data-theme="dark"] .SELL{background:#3d1512;color:#f08a80}
 html[data-theme="dark"] .HOLD{background:#3a2f0b;color:#f2d16b}html[data-theme="dark"] .AVOID{background:#2c1445;color:#cda6f5}
 html[data-theme="dark"] .CONDITIONAL_BUY{background:#16294d;color:#8ab4f8}
-.creators{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 20px}
-.creator{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:4px 12px;font-size:.85rem}
-h3{margin-top:28px}
+.irow{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:14px 16px;margin-bottom:10px;cursor:pointer}
+.irow:hover{border-color:var(--accent)}
+.irow .nm{font-weight:700}.irow .hd{color:var(--muted);font-size:.85rem}
+.callrow{border-bottom:1px solid var(--border);padding:10px 4px;cursor:pointer}
+.callrow:last-child{border-bottom:none}
+.vrow{border-bottom:1px solid var(--border);padding:12px 4px;cursor:pointer}
+.vrow:last-child{border-bottom:none}.vrow .vt{font-weight:600}.vrow .vd{color:var(--muted);font-size:.82rem}
+.overlay{position:fixed;inset:0;background:var(--overlay);display:flex;align-items:flex-end;justify-content:center;z-index:50}
+@media(min-width:640px){.overlay{align-items:center;padding:24px}}
+.dialog{background:var(--bg);border-radius:16px 16px 0 0;max-width:640px;width:100%;max-height:88vh;overflow:auto;padding:20px}
+@media(min-width:640px){.dialog{border-radius:16px}}
+.dialog h2{margin-top:0}.kv{font-size:.88rem;margin:6px 0}.kv b{color:var(--muted);font-weight:600}
+.dactions{display:flex;gap:8px;margin-top:16px;flex-wrap:wrap}
+.btn{border:1px solid var(--border);background:var(--card);color:var(--fg);border-radius:8px;padding:8px 16px;cursor:pointer}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.empty{color:var(--muted);padding:24px;text-align:center}
+.note{font-size:.78rem;color:var(--muted);margin-top:20px}
 </style></head>
-<body><div class="wrap"><header class="top"><div></div>
-<button class="theme" id="themeBtn">Light / dark</button></header>
-<a class="back" href="../">← All watches</a><h1>US Others</h1><p class="sub">Second 10-creator list — Everything Money, Sven Carlin, Brian Feroldi, Daniel Pronk, Tom Nash, Joseph Hogue, UNRIVALEDD Investing, Asymmetric Investing, Jose Najarro, Patient Investor.</p><p class="cadence">One scan daily · 05:00 UK</p><div class="stats"><div class="stat"><b>10</b><span>creators</span></div><div class="stat"><b>9</b><span>videos analysed</span></div><div class="stat"><b>65</b><span>explicit calls</span></div></div><h3>Creators</h3><div class="creators"><span class="creator">Everything Money <span style="color:var(--muted)">@EverythingMoney</span></span><span class="creator">Sven Carlin <span style="color:var(--muted)">@value-investing</span></span><span class="creator">Brian Feroldi <span style="color:var(--muted)">@BrianFeroldiYT</span></span><span class="creator">Daniel Pronk <span style="color:var(--muted)">@danielpronk</span></span><span class="creator">Tom Nash <span style="color:var(--muted)">@TomNashTV</span></span><span class="creator">Joseph Hogue, CFA <span style="color:var(--muted)">@josephhogue</span></span><span class="creator">UNRIVALEDD INVESTING <span style="color:var(--muted)">@UnrivaledInvesting</span></span><span class="creator">Asymmetric Investing <span style="color:var(--muted)">@asymmetricinvesting</span></span><span class="creator">Jose Najarro Stocks <span style="color:var(--muted)">@josenajarrostocks</span></span><span class="creator">Patient Investor <span style="color:var(--muted)">@patientinvestor</span></span></div><h3>Latest calls</h3><table><tr><th>Ticker</th><th>Call</th><th>Creator</th><th>Date</th><th>Thesis</th></tr><tr><td><b>MU</b></td><td><span class='dir BUY'>BUY</span></td><td>Jose Najarro Stocks</td><td>2026-10-01</td><td>Triple beat + tight supply through 2027-28 (35% of revenue covered by multi-year take-or-pay, $150B RPO, $32B customer deposits); HBM repricing starts 2027; buy</td></tr><tr><td><b>META</b></td><td><span class='dir BUY'>BUY</span></td><td>Daniel Pronk</td><td>2026-09-30</td><td>Still undervalued despite +30% rally; Muse adoption (3M+ US downloads, #1 app) + free distribution across Instagram/WhatsApp; ad-ROI upside from user data; forw</td></tr><tr><td><b>TCEHY</b></td><td><span class='dir CONDITIONAL_BUY'>CONDITIONAL_BUY</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>P/E ~15 with dividends + buybacks and double-digit growth; his framework: buy on bad mood / sentiment lows, sell into exuberance peaks. He owns Prosus (Tencent </td></tr><tr><td><b>JD</b></td><td><span class='dir BUY'>BUY</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>He owns it: investment/profitability cycle swings 50-70%, very high cash flow per share, dividend + 3.7% buyback yield, logistics moat vs delivery competitors.</td></tr><tr><td><b>KUAIS</b></td><td><span class='dir BUY'>BUY</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>Kuaishou (garbled as &quot;qua technologies&quot;/&quot;Cling AI&quot; in auto-captions): core business stable/profitable at P/E ~7; owns 68% of Kling AI (raised ~$3B, growing 200%</td></tr><tr><td><b>BIDU</b></td><td><span class='dir CONDITIONAL_BUY'>CONDITIONAL_BUY</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>Market cap ~RMB 30B vs ~RMB 40B cash/investments - &quot;practically buying cash at book value&quot; plus AI/robotaxi/kunin-chip bets; watching for dividend policy and bu</td></tr><tr><td><b>TCOM</b></td><td><span class='dir CONDITIONAL_BUY'>CONDITIONAL_BUY</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>Trip.com: P/E 10, dominant online travel agency in China, ~RMB 14B cash on balance sheet; recent fine compresses margins but moat intact; analysts see it higher</td></tr><tr><td><b>TME</b></td><td><span class='dir CONDITIONAL_BUY'>CONDITIONAL_BUY</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>Tencent Music: low P/E inside the Tencent ecosystem, profitable, buybacks + dividends; &quot;very interesting&quot;.</td></tr><tr><td><b>NTES</b></td><td><span class='dir HOLD'>HOLD</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>NetEase: P/E 15, dividend + buybacks (recently cut, program to 2029), stable games business - &quot;fairly priced&quot;; he admits he knows little about gaming.</td></tr><tr><td><b>LNVGY</b></td><td><span class='dir HOLD'>HOLD</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>Lenovo: AI-revenue growth story at P/E ~15, &quot;probably fairly priced&quot; if it keeps executing; he waits for a downturn before AI-exposed names.</td></tr><tr><td><b>BEKE</b></td><td><span class='dir AVOID'>AVOID</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>KE Holdings: real estate transaction market frozen, shifting to rent; P/E 26 with no miracle ahead - &quot;I don&#x27;t see it&quot;.</td></tr><tr><td><b>YMM</b></td><td><span class='dir HOLD'>HOLD</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>Full Truck Alliance: dividend yield, growing, stable, &quot;fair and cheaply priced&quot;; key risk is the Chinese economy.</td></tr><tr><td><b>BILI</b></td><td><span class='dir AVOID'>AVOID</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>Bilibili: &quot;I&#x27;m not seeing it&quot; - TikTok changed the game, government pushed on reward mechanics.</td></tr><tr><td><b>GDS</b></td><td><span class='dir AVOID'>AVOID</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>&quot;Not for me&quot; - data-center boom/bust cyclicality; &quot;maybe the Oracle of AI China&quot; but not his.</td></tr><tr><td><b>KC</b></td><td><span class='dir AVOID'>AVOID</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>Kingsoft Cloud: &quot;just not for me&quot;.</td></tr><tr><td><b>JDHEALTH</b></td><td><span class='dir HOLD'>HOLD</span></td><td>Sven Carlin</td><td>2026-09-30</td><td>JD Health: &quot;fairly priced&quot; - growth and profit returning, stock down ~80% from 2020s spin-out era.</td></tr><tr><td><b>BRK.B</b></td><td><span class='dir BUY'>BUY</span></td><td>Joseph Hogue, CFA</td><td>2026-09-30</td><td>Buffett&#x27;s cash pile is the best rate play: collects tens of billions on higher rates; biggest holdings are financials/insurers that earn more interest income.</td></tr><tr><td><b>CME</b></td><td><span class='dir BUY'>BUY</span></td><td>Joseph Hogue, CFA</td><td>2026-09-30</td><td>Exchange benefits from rate uncertainty/volatility as investors hedge rate moves; selloff on prediction-market fears overdone; near-term bounce coming.</td></tr><tr><td><b>CBOE</b></td><td><span class='dir BUY'>BUY</span></td><td>Joseph Hogue, CFA</td><td>2026-09-30</td><td>Same as CME: volatility/hedging volume from rate chaos; bounce coming.</td></tr><tr><td><b>GDX</b></td><td><span class='dir BUY'>BUY</span></td><td>Joseph Hogue, CFA</td><td>2026-09-30</td><td>If investors fear inflation, deficits, dollar purchasing power, gold becomes attractive; spread the bet across miners via GDX.</td></tr></table><p class="sub" style="margin-top:24px">Full ledger: <code>us-others/calls.json</code> · summaries: <code>us-others/video_summaries.json</code> · per-run notes: <code>us-others/digests/</code></p></div>
-<script>(function(){var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);
-document.getElementById('themeBtn').onclick=function(){var cur=document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark';
-document.documentElement.setAttribute('data-theme',cur);localStorage.setItem('theme',cur);};})();</script>
-</body></html>
+<body><div class="wrap">
+<div class="topbar"><a class="back" href="../">← All watches</a>
+<button class="theme" id="themeBtn">Light / dark</button></div>
+<h1>US Others</h1><p class="sub">Second 10-creator list — Everything Money, Sven Carlin, Brian Feroldi, Daniel Pronk, Tom Nash, Joseph Hogue, UNRIVALEDD Investing, Asymmetric Investing, Jose Najarro, Patient Investor.</p><p class="cadence">One scan daily · 05:00 UK</p>
+<div id="app"><div class="empty">Loading…</div></div>
+<p class="note">Data snapshot as pushed to the repo — refreshed on each data push. Prices shown are the creators' stated levels, not live quotes.</p>
+</div><script>
+var DIRS=["BUY","CONDITIONAL_BUY","HOLD","SELL","AVOID"];
+var CCY="$";
+var CALLS=[],SUMMARIES={},CHANNELS=[];
+var state={view:"home",tab:"calls",q:"",fdir:"ALL",sort:"recent",ticker:null,inf:null,subtab:"calls"};
+function esc(s){return String(s==null?"":s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+function fmtDate(iso){if(!iso)return "—";var d=new Date(iso);if(isNaN(d))return String(iso).slice(0,10);
+ return d.toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"});}
+function callDate(c){return c.published_at||c.analyzed_at||"";}
+function parsePrice(v){if(v==null)return null;var m=String(v).replace(/,/g,"").match(/\d+(\.\d+)?/);return m?parseFloat(m[0]):null;}
+function fmtMoney(n){if(n==null||isNaN(n))return "—";return CCY+Number(n).toLocaleString("en-US",{maximumFractionDigits:2});}
+function dirChip(d,n){return '<span class="chip '+esc(d)+'">'+esc(d.replace("_"," "))+(n!=null?" · "+n:"")+"</span>";}
+function load(){return Promise.all([fetch("calls.json").then(function(r){return r.json();}),
+ fetch("video_summaries.json").then(function(r){return r.json();}),
+ fetch("channels.json").then(function(r){return r.json();}).catch(function(){return[];})])
+ .then(function(a){CALLS=a[0];SUMMARIES=a[1];CHANNELS=a[2];render();})
+ .catch(function(){document.getElementById("app").innerHTML='<div class="empty">Could not load data files.</div>';});}
+function explicit(){return CALLS.filter(function(c){return DIRS.indexOf(c.direction)>=0;});}
+function buildTickers(){
+ var byT={};
+ explicit().forEach(function(c){(byT[c.ticker]=byT[c.ticker]||[]).push(c);});
+ return Object.keys(byT).map(function(t){
+  var cs=byT[t].slice().sort(function(a,b){return String(callDate(b)).localeCompare(String(callDate(a)));});
+  var latest={};cs.forEach(function(c){if(!latest[c.channel])latest[c.channel]=c;});
+  var infs=Object.keys(latest).sort(function(a,b){return String(callDate(latest[b])).localeCompare(String(callDate(latest[a])));});
+  var counts={},avgs={};
+  infs.forEach(function(f){var d=latest[f].direction;counts[d]=(counts[d]||0)+1;
+   var p=parsePrice(latest[f].price_at_call);(avgs[d]=avgs[d]||[]).push(p);});
+  var chips=DIRS.filter(function(d){return counts[d];}).map(function(d){
+   var ps=(avgs[d]||[]).filter(function(p){return p!=null;});
+   var avg=ps.length?fmtMoney(ps.reduce(function(a,b){return a+b;},0)/ps.length):null;
+   return {dir:d,n:counts[d],avg:avg};});
+  var lastStated=null,lastDate="";
+  cs.forEach(function(c){if(c.price_at_call&&String(c.price_at_call).toLowerCase().indexOf("not stated")<0&&!lastStated){lastStated=c.price_at_call;lastDate=callDate(c);}});
+  return {ticker:t,calls:cs,latest:latest,infs:infs,chips:chips,lastDate:callDate(cs[0]),
+   lastStated:lastStated,lastStatedDate:lastDate,nCalls:cs.length};
+ }).filter(function(t){return t.infs.length>0;});
+}
+function tickerRow(t){
+ var chips=t.chips.map(function(c){return dirChip(c.dir,c.n)+(c.avg?' <span style="font-size:.76rem;color:var(--muted)">avg '+esc(c.avg)+"</span>":"");}).join(" ");
+ return '<div class="trow" data-t="'+esc(t.ticker)+'"><div class="th"><span class="ticker">'+esc(t.ticker)+'</span>'
+ +'<span style="font-size:.8rem;color:var(--muted)">'+esc(fmtDate(t.lastDate))+"</span></div>"
+ +'<div class="chips">'+chips+"</div>"
+ +'<div class="tmeta">'+t.infs.map(esc).join(" · ")+(t.lastStated?' · last stated: '+esc(String(t.lastStated).slice(0,60)):"")+"</div></div>";
+}
+function renderHome(){
+ var T=buildTickers(),h="";
+ if(state.tab==="calls"){
+  var q=state.q.toLowerCase();
+  var list=T.filter(function(t){
+   if(q&&t.ticker.toLowerCase().indexOf(q)<0)return false;
+   if(state.fdir!=="ALL"&&!t.chips.some(function(c){return c.dir===state.fdir;}))return false;
+   return true;});
+  list.sort(function(a,b){return state.sort==="az"?a.ticker.localeCompare(b.ticker):String(b.lastDate).localeCompare(String(a.lastDate));});
+  var fchips=['<button data-f="ALL" class="'+(state.fdir==="ALL"?"on":"")+'">All</button>'].concat(
+   DIRS.map(function(d){return '<button data-f="'+d+'" class="'+(state.fdir===d?"on":"")+'">'+d.replace("_"," ")+"</button>";})).join("");
+  h+='<div class="toolbar"><input type="search" id="q" placeholder="Search ticker…" value="'+esc(state.q)+'">'
+   +'<select id="sort"><option value="recent"'+(state.sort==="recent"?" selected":"")+'>Most recent</option>'
+   +'<option value="az"'+(state.sort==="az"?" selected":"")+'>Ticker A–Z</option></select></div>'
+   +'<div class="fchips">'+fchips+"</div>";
+  h+=list.length?list.map(tickerRow).join(""):'<div class="empty">No tickers match.</div>';
+ }else{
+  var infs={};
+  explicit().forEach(function(c){(infs[c.channel]=infs[c.channel]||[]).push(c);});
+  var names=Object.keys(infs).sort();
+  h+=names.length?names.map(function(n){
+   var vids={};infs[n].forEach(function(c){vids[c.video_id]=1;});
+   return '<div class="irow" data-inf="'+esc(n)+'"><div class="nm">'+esc(n)+'</div>'
+   +'<div class="hd">'+infs[n].length+" calls · "+Object.keys(vids).length+" videos</div></div>";}).join("")
+   :'<div class="empty">No influencers yet.</div>';
+ }
+ return '<div class="maintabs"><button data-tab="calls" class="'+(state.tab==="calls"?"on":"")+'">Active Calls</button>'
+ +'<button data-tab="influencers" class="'+(state.tab==="influencers"?"on":"")+'">Influencers</button></div><div id="list">'+h+"</div>";
+}
+function callDetailHTML(c){
+ var v=SUMMARIES[c.video_id];
+ return "<h2>"+esc(c.ticker)+" "+dirChip(c.direction)+"</h2>"
+ +'<div class="kv"><b>Creator</b> '+esc(c.channel)+'</div>'
+ +'<div class="kv"><b>Date</b> '+esc(fmtDate(callDate(c)))+'</div>'
+ +(c.price_at_call?'<div class="kv"><b>Stated price</b> '+esc(String(c.price_at_call))+"</div>":"")
+ +(c.thesis?'<div class="kv"><b>Thesis</b> '+esc(c.thesis)+"</div>":"")
+ +(c.base_case?'<div class="kv"><b>Base</b> '+esc(c.base_case)+"</div>":"")
+ +(c.bull_case?'<div class="kv"><b>Bull</b> '+esc(c.bull_case)+"</div>":"")
+ +(c.bear_case?'<div class="kv"><b>Bear</b> '+esc(c.bear_case)+"</div>":"")
+ +(c.video_title?'<div class="kv"><b>Video</b> '+esc(c.video_title)+"</div>":"")
+ +(v?'<div class="dactions"><button class="btn primary" data-vid="'+esc(c.video_id)+'">Video summary</button></div>':"");
+}
+function videoSummaryHTML(vid){
+ var v=SUMMARIES[vid];if(!v)return '<div class="empty">No summary for this video.</div>';
+ var calls=CALLS.filter(function(c){return c.video_id===vid&&DIRS.indexOf(c.direction)>=0;});
+ var h="<h2>"+esc(v.title||"Video summary")+"</h2>"
+ +'<div class="kv"><b>Creator</b> '+esc(v.creator||"")+'</div>'
+ +'<div class="kv"><b>Published</b> '+esc(fmtDate(v.published_at))+"</div>"
+ +(v.source_note?'<div class="kv" style="color:var(--muted)">'+esc(v.source_note)+"</div>":"")
+ +'<p style="white-space:pre-wrap">'+esc(v.summary||"")+"</p>";
+ if(calls.length){h+="<h3>Calls in this video</h3>"+calls.map(function(c){
+  return '<div class="callrow" data-call="'+c.video_id+"|"+esc(c.ticker)+'|'+esc(String(callDate(c)))+'">'
+  +"<b>"+esc(c.ticker)+"</b> "+dirChip(c.direction)+"</div>";}).join("");}
+ else{h+='<div class="empty">No explicit calls in this video.</div>';}
+ return h;
+}
+function openDialog(html){closeDialog();
+ var o=document.createElement("div");o.className="overlay";o.id="ovl";
+ o.innerHTML='<div class="dialog">'+html+'<div class="dactions"><button class="btn" id="closeDlg">Close</button></div></div>';
+ o.addEventListener("click",function(e){if(e.target===o)closeDialog();});
+ document.body.appendChild(o);
+ document.getElementById("closeDlg").onclick=closeDialog;
+ o.querySelectorAll("[data-vid]").forEach(function(b){b.onclick=function(){openDialog(videoSummaryHTML(b.getAttribute("data-vid")));};});
+ o.querySelectorAll("[data-call]").forEach(function(b){b.onclick=function(){
+  var p=b.getAttribute("data-call").split("|");
+  var c=CALLS.filter(function(x){return x.video_id===p[0]&&x.ticker===p[1]&&String(callDate(x))===p[2];})[0];
+  if(c)openDialog(callDetailHTML(c));};});
+}
+function closeDialog(){var o=document.getElementById("ovl");if(o)o.remove();}
+function renderTicker(){
+ var T=buildTickers().filter(function(t){return t.ticker===state.ticker;})[0];
+ if(!T){state.view="home";render();return;}
+ var rows=T.infs.map(function(f){var c=T.latest[f];
+  return '<div class="callrow" data-call="'+c.video_id+"|"+esc(c.ticker)+'|'+esc(String(callDate(c)))+'">'
+  +"<b>"+esc(f)+"</b> "+dirChip(c.direction)
+  +'<div class="tmeta">'+esc(fmtDate(callDate(c)))+(c.price_at_call?" · "+esc(String(c.price_at_call)).slice(0,80):"")
+  +(c.thesis?" · "+esc(c.thesis).slice(0,120):"")+"</div></div>";}).join("");
+ return '<a class="back" href="#" id="bk">← Active Calls</a><h1>'+esc(T.ticker)+"</h1>"
+ +'<div class="chips">'+T.chips.map(function(c){return dirChip(c.dir,c.n);}).join("")+"</div>"
+ +'<h3>By influencer (latest stance)</h3>'+rows;
+}
+function infVideos(name){
+ var out={},seen={};
+ explicit().forEach(function(c){if(c.channel===name)seen[c.video_id]=1;});
+ Object.keys(SUMMARIES).forEach(function(vid){var v=SUMMARIES[vid];
+  if(v.creator===name||seen[vid])out[vid]=v;});
+ return Object.keys(out).map(function(vid){return out[vid];})
+  .sort(function(a,b){return String(b.published_at||"").localeCompare(String(a.published_at||""));});
+}
+function renderInf(){
+ var name=state.inf;
+ var calls=explicit().filter(function(c){return c.channel===name;})
+  .sort(function(a,b){return String(callDate(b)).localeCompare(String(callDate(a)));});
+ var h='<a class="back" href="#" id="bk">← Influencers</a><h1>'+esc(name)+"</h1>"
+ +'<div class="subtabs" style="display:flex;gap:8px;margin:12px 0">'
+ +'<button data-sub="calls" class="'+(state.subtab==="calls"?"on":"")+'">Calls</button>'
+ +'<button data-sub="videos" class="'+(state.subtab==="videos"?"on":"")+'">Videos</button></div>';
+ if(state.subtab==="calls"){
+  h+=calls.length?calls.map(function(c){
+   return '<div class="callrow" data-call="'+c.video_id+"|"+esc(c.ticker)+'|'+esc(String(callDate(c)))+'">'
+   +"<b>"+esc(c.ticker)+"</b> "+dirChip(c.direction)
+   +'<div class="tmeta">'+esc(fmtDate(callDate(c)))+(c.price_at_call?" · "+esc(String(c.price_at_call)).slice(0,80):"")+"</div></div>";}).join("")
+   :'<div class="empty">No calls yet.</div>';
+ }else{
+  var vs=infVideos(name);
+  h+=vs.length?vs.map(function(v){
+   var n=CALLS.filter(function(c){return c.video_id===v.video_id&&DIRS.indexOf(c.direction)>=0;}).length;
+   return '<div class="vrow" data-vid="'+esc(v.video_id)+'"><div class="vt">'+esc(v.title||"(untitled)")+"</div>"
+   +'<div class="vd">'+esc(fmtDate(v.published_at))+" · "+n+" call"+(n===1?"":"s")+"</div></div>";}).join("")
+   :'<div class="empty">No analysed videos yet.</div>';
+ }
+ return h;
+}
+function render(){
+ var app=document.getElementById("app"),h="";
+ if(state.view==="home")h=renderHome();
+ else if(state.view==="ticker")h=renderTicker();
+ else if(state.view==="inf")h=renderInf();
+ app.innerHTML=h;
+ app.querySelectorAll("[data-tab]").forEach(function(b){b.onclick=function(){state.tab=b.getAttribute("data-tab");state.view="home";render();};});
+ app.querySelectorAll("[data-sub]").forEach(function(b){b.onclick=function(){state.subtab=b.getAttribute("data-sub");render();};});
+ app.querySelectorAll("[data-t]").forEach(function(b){b.onclick=function(){state.ticker=b.getAttribute("data-t");state.view="ticker";render();window.scrollTo(0,0);};});
+ app.querySelectorAll("[data-inf]").forEach(function(b){b.onclick=function(){state.inf=b.getAttribute("data-inf");state.subtab="calls";state.view="inf";render();window.scrollTo(0,0);};});
+ app.querySelectorAll("[data-f]").forEach(function(b){b.onclick=function(){state.fdir=b.getAttribute("data-f");render();};});
+ app.querySelectorAll("[data-vid]").forEach(function(b){b.onclick=function(){openDialog(videoSummaryHTML(b.getAttribute("data-vid")));};});
+ app.querySelectorAll("[data-call]").forEach(function(b){b.onclick=function(){
+  var p=b.getAttribute("data-call").split("|");
+  var c=CALLS.filter(function(x){return x.video_id===p[0]&&x.ticker===p[1]&&String(callDate(x))===p[2];})[0];
+  if(c)openDialog(callDetailHTML(c));};});
+ var bk=document.getElementById("bk");if(bk)bk.onclick=function(e){e.preventDefault();state.view="home";render();window.scrollTo(0,0);};
+ var q=document.getElementById("q");if(q){q.oninput=function(){state.q=q.value;var pos=q.selectionStart;render();
+  var nq=document.getElementById("q");if(nq){nq.focus();nq.setSelectionRange(pos,pos);}};}
+ var s=document.getElementById("sort");if(s)s.onchange=function(){state.sort=s.value;render();};
+}
+document.addEventListener("DOMContentLoaded",function(){
+ var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("data-theme",t);
+ document.getElementById("themeBtn").onclick=function(){var c=document.documentElement.getAttribute("data-theme")==="dark"?"light":"dark";
+  document.documentElement.setAttribute("data-theme",c);localStorage.setItem("theme",c);};
+ load();});
+</script></body></html>
