@@ -1,0 +1,23 @@
+{
+ "ticker": "EXPE",
+ "slug": "EXPE",
+ "calls": [
+  {
+   "video_id": "jbtxHHpX_u0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "EXPE",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Rebound play: Expedia is partnering with Muse, which could redirect bookings through Expedia at Booking's expense. Trading 16x P/E vs 25x avg (~36% discount) — but still cautious on the whole travel-middleman group.",
+   "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
+   "base_case": "Muse partnership redirects bookings via Expedia.",
+   "bear_case": "AI agents + weak consumer both hit travel middlemen; cheapness isn't safety."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
