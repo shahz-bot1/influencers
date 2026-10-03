@@ -1,0 +1,28 @@
+{
+ "ticker": "AAPL",
+ "slug": "AAPL",
+ "calls": [
+  {
+   "video_id": "QxqManKEg4U",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "AAPL",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$342 (avg analyst PT $342 = current price; 36.7x forward PE)",
+   "thesis": "Loves the business, NOT buying: 36.7x forward PE for single-digit earnings growth is 'way too expensive'; waiting for a better entry if volatility gives him his price.",
+   "base_case": "Base: services/AI drive modest growth; fairly valued at best.",
+   "bull_case": "Bull: AI upgrade cycle + margin expansion justifies premium on a pullback.",
+   "bear_case": "Bear: multiple compression if growth stays single-digit; 10Y >5% raises required return.",
+   "published_at": "2026-09-27T13:59:57+00:00",
+   "analyzed_at": "2026-09-27T19:00:00+01:00",
+   "stance_flip": null,
+   "video_title": "I LOVE These 3 Stocks — But I'm NOT Buying Yet"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
