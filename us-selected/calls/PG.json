@@ -1,0 +1,27 @@
+{
+ "ticker": "PG",
+ "slug": "PG",
+ "calls": [
+  {
+   "ticker": "PG",
+   "direction": "BUY",
+   "thesis": "DCF fair value not captured in captions; $146 market price with 14% upside in 12-18 months; called one of the best-managed companies he follows with a brand engine that should run for decades.",
+   "price_at_call": "$146 (stated)",
+   "bull_case": "Proven management and leadership pipeline; 3% yield, growing.",
+   "bear_case": "Same consumer trade-down headwinds hitting the other three names.",
+   "base_case": null,
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "lV4gJKmzRxg",
+   "video_title": "Forever Stocks: 4 Undervalued Dividend Stocks Investors Can Buy Now and Hold Forever",
+   "published_at": "2026-09-29T11:59:59.109610+00:00",
+   "analyzed_at": "2026-09-29T18:01:32.562233+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
