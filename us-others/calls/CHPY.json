@@ -1,0 +1,22 @@
+{
+ "ticker": "CHPY",
+ "slug": "CHPY",
+ "calls": [
+  {
+   "video_id": "gkt3BnXJf9s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "CHPY",
+   "direction": "BUY",
+   "thesis": "YieldMax Semiconductor Portfolio Options Income ETF: 15-30 semiconductor names (MU, MRVL, NVDA); call-spread strategy targeting ~40% annualized distribution with weekly payouts. Income anchor balancing AI growth with cash flow now.",
+   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+   "price_at_call": "~40% targeted annualized distribution (weekly payouts, $0.38-$0.71/share range this year)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
