@@ -1,0 +1,28 @@
+{
+ "ticker": "UROY",
+ "slug": "UROY",
+ "calls": [
+  {
+   "video_id": "oEXzLq-q5cY",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "UROY",
+   "direction": "BUY",
+   "price_at_call": "was in high $2s/low $3s when first shared ~1 year ago (guest)",
+   "thesis": "Guest still really likes Uranium Royalty Corp after >1 year bullish: uranium royalty model as a lower-direct-risk way to be long uranium; sector has pulled back but long-term demand growth is unchanged. Ticker spoken as U Roy/URI in captions; actual ticker UROY.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-02T23:00:23.042483+00:00",
+   "analyzed_at": "2026-10-03T06:29:52.571646+00:00",
+   "stance_flip": null,
+   "video_title": "This Stock Dropped 52% Then Jumped 83% (Here's How to Profit from Market Volatility)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
