@@ -1,0 +1,23 @@
+{
+ "ticker": "GDS",
+ "slug": "GDS",
+ "calls": [
+  {
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "GDS",
+   "direction": "AVOID",
+   "thesis": "\"Not for me\" - data-center boom/bust cyclicality; \"maybe the Oracle of AI China\" but not his.",
+   "video_id": "WHzxbGZoTPQ",
+   "video_title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+   "published_at": "2026-09-30T16:55:34.672871+00:00",
+   "analyzed_at": "2026-10-02T04:20:49.983648+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
