@@ -1,0 +1,25 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-24",
+ "title": "Why I Doubled Down on Amazon Stock",
+ "source_note": "Detailed summary generated from video captions; captions garbled in places (sponsor line, 'negative $40 in free cash flow' phrasing)",
+ "summary": "Parkevtate Vosianc explains why he doubled his Amazon (AMZN) position to ~6% of his portfolio (from ~3%), buying near $250. He calls Amazon one of the 'Hall of Fame' businesses that rarely trades at fair value, and estimates fair value at $306 vs ~$258 market price (~20% upside over 12-18 months). The discount exists because of soaring AI capex: he estimates Amazon could spend $200-220B in capex this year against $125-150B operating cash flow, implying sharply negative FCF. He argues investors are overly concerned about returns on that capex: ROIC improved from ~8% (2017) to over 22%, and crucially the investment mix has shifted — pre-2023 assets went mostly to the sub-10%-margin e-commerce/logistics build-out, while since 2023 most capex has gone to AWS, which historically earns 30%+ operating margins and by end of next year could be 60-75% of the asset base, so margins and ROIC should improve. Demand exceeds supply for the next few years, AI assets are nearly fully subscribed (customers waiting in line for years), and even at forward P/E ~25 Amazon looks cheaper than Walmart (~33) and Costco (~36). Bear case: the $200B+ capex fails to earn adequate returns. Call: AMZN — BUY @ ~$250 stated buy price (fair value $306). Also previews a members-only live on Micron earnings Sep 30.",
+ "video_id": "w45BZ8xdhqk",
+ "calls": [
+  {
+   "video_id": "w45BZ8xdhqk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why I Doubled Down on Amazon Stock",
+   "published_at": "2026-09-24T12:00:00.951899+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "~$250 (stated: his buy price; fair value $306)",
+   "thesis": "Doubled position to ~6% of portfolio: hall-of-fame business bought at a discount; fair value $306 implies ~20% upside in 12-18 months.",
+   "base_case": "AWS/AI capex earns ROIC above WACC; margins improve as high-margin AWS assets dominate the base.",
+   "bull_case": "AI demand exceeds supply for years; ROIC re-rates toward 22%+ track record.",
+   "bear_case": "$200B+ capex cycle fails to earn adequate returns; negative ~$40 FCF this year.",
+   "analyzed_at": "2026-09-24T18:02:23.972154+00:00"
+  }
+ ]
+}
