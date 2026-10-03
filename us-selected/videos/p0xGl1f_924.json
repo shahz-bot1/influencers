@@ -1,0 +1,25 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-23T12:03:55+00:00",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "In this September 23 video, Parkevtate Vosianc CFA revisits Meta Platforms after a 13% single-day surge to ~$749, triggered by a Wells Fargo price-target raise from $640 to $796 on news that Meta's Muse AI agent app hit the top of Apple's App Store, alongside successful AI model launches including the Spark offering. Parkevtate owns Meta and has ranked it his top, then second-best, stock to buy in 2026 since January, reiterating the buy call through months of frustrating red performance — the stock ran from ~$540 to $747 in about a month. His core argument: the market's year-long concern that hundreds of billions in AI investment was wasteful was wrong; Meta's AI (recommendation systems, ad targeting, Spark, the Muse assistant) is now demonstrably paying off, and its competitive moat over smaller rivals (Pinterest, Reddit, Snap, X) is widening because only Meta can invest in its capabilities at this scale. On valuation, he sees ~8%+ upside to his fair value estimate over 12-18 months plus ~12% equity-risk return (weighted average cost of capital), with a forward P/E of 21.4 looking cheap against 20-30% revenue growth and high, improving margins. He expects free cash flow to trough through 2026-2028 (negative $6B, then negative $24B, turning positive at ~$3.2B in 2028) before returning to ~$50B in 2029 — roughly 2024's $49.5B level — framing 2026-2028 as the heavy investment years. He also notes he'll cover Micron's September 30 earnings in a members-only livestream. Calls per supplied list: META BUY @ $749 stated.",
+ "title": "Fantastic News for Meta Stock Investors",
+ "video_id": "p0xGl1f_924",
+ "calls": [
+  {
+   "video_id": "p0xGl1f_924",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Fantastic News for Meta Stock Investors",
+   "published_at": "2026-09-23T12:03:55+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "$749 (stated)",
+   "thesis": "Reiterated as his #2 best buy: AI capex starting to pay off, forward PE 21.4 on ~20-30% revenue growth.",
+   "base_case": "Fair value $796 = ~8% upside over 12-18 months plus ~12% equity risk premium.",
+   "bull_case": "Wells Fargo raised PT $640->$796 on Muse AI app hitting #1 on App Store; FCF returns to $50B+ by 2029.",
+   "bear_case": "FCF deeply negative 2026-2028 (as low as -$24B) on data-center spend.",
+   "analyzed_at": "2026-09-23T15:05:00.270761+00:00"
+  }
+ ]
+}
