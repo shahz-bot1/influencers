@@ -1,0 +1,22 @@
+{
+ "title": "Alphabet's Not-so-Secret Advantage in the Race to Develop Artificial Intelligence | GOOG Stock News",
+ "creator": "Parkevtate Vosianc CFA",
+ "summary": "He examines whether Alphabet's AI advantage makes the stock a buying opportunity and concludes it is an excellent BUY with HIGH conviction — his highest of three conviction levels. Key arguments: at the Goldman Sachs Communacopia conference, Alphabet disclosed 2.7x better AI performance than competitors and 80% better inference price-performance; it owns the entire stack (custom TPUs, models, products with billions of users across six product lines), letting it spread AI investment across a broad customer base. AI surpassed a $100B annual run rate with ~$500B cloud backlog; revenue/employee rose to ~$2.15M from ~$1.65M in 2024 (a ~25-33% productivity gain in ~18 months) with headcount flat. Risks: hundreds of billions in unprecedented AI capex peaking 2027-28, and his forecast has FCF of +$7.8B this year, -$32B next year, then exploding to $146B in 2029 as investments bear fruit. Valuation: DCF fair value $338 vs $342 market (fairly valued) but 22.7x forward PE looks undervalued for ~20% revenue growth — fairly priced to slightly underpriced. He ranks Alphabet a 'Hall of Fame' business, has owned it since 2020, and has ranked it a BUY for nearly a decade — this is a reiteration. Other tickers discussed: none material; Meta/Amazon/Microsoft mentioned only as fellow hyperscalers.",
+ "video_id": "MgyF6WSteJE",
+ "published_at": "2026-09-27 ~11:55 BST",
+ "calls": [
+  {
+   "video_id": "MgyF6WSteJE",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "conviction": "high",
+   "stated_price": 342.0,
+   "fair_value": 338.0,
+   "thesis": "Hall of Fame business: full AI stack with 2.7x performance edge, AI at $100B run rate, 22.7x fwd PE reasonable for ~20% revenue growth; priced fairly to slightly underpriced.",
+   "bull": "146B free cash flow in 2029 as AI capex peaks 2027-28 and investments bear fruit.",
+   "bear": "Hundreds of billions in unprecedented AI spend; FCF forecast negative $32B next year.",
+   "analyzed_at": "2026-09-27T13:56:51.947282+00:00"
+  }
+ ]
+}
