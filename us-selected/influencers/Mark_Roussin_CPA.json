@@ -1,0 +1,183 @@
+{
+ "name": "Mark Roussin CPA",
+ "handle": "@markroussincpa",
+ "slug": "Mark_Roussin_CPA",
+ "calls": [
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-01T17:50:56.781021+00:00",
+   "price": "buyer on pullback to ~$950/share (stated); no current-price buy",
+   "video_id": "LdRD7UsaQKc"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-09-29T13:59:59.109610+00:00",
+   "price": null,
+   "video_id": "bBelRFgAqE0"
+  },
+  {
+   "ticker": "AAPL",
+   "tickerSlug": "AAPL",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-09-27T13:59:57+00:00",
+   "price": "~$342 (avg analyst PT $342 = current price; 36.7x forward PE)",
+   "video_id": "QxqManKEg4U"
+  },
+  {
+   "ticker": "CRWD",
+   "tickerSlug": "CRWD",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-09-27T13:59:57+00:00",
+   "price": "~$260 (avg analyst PT $234, ~10% below current; 186x forward PE, 40x sales)",
+   "video_id": "QxqManKEg4U"
+  },
+  {
+   "ticker": "ABBV",
+   "tickerSlug": "ABBV",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-09-27T13:59:57+00:00",
+   "price": "$260 (stated; was a buy under $200)",
+   "video_id": "QxqManKEg4U"
+  },
+  {
+   "ticker": "SCHD",
+   "tickerSlug": "SCHD",
+   "direction": "HOLD",
+   "date": "2026-09-23T14:03:55+00:00",
+   "price": "not stated (holds 700 shares, ~$25k)",
+   "video_id": "8Psvl8j3JmQ"
+  },
+  {
+   "ticker": "SCHD",
+   "tickerSlug": "SCHD",
+   "direction": "BUY",
+   "date": "2026-04-15T15:45:00+00:00",
+   "price": "not stated",
+   "video_id": "pDsQs_qPELs"
+  },
+  {
+   "ticker": "UNH",
+   "tickerSlug": "UNH",
+   "direction": "BUY",
+   "date": "2026-04-15T15:45:00+00:00",
+   "price": "not stated",
+   "video_id": "pDsQs_qPELs"
+  },
+  {
+   "ticker": "QCOM",
+   "tickerSlug": "QCOM",
+   "direction": "BUY",
+   "date": "2026-04-15T15:45:00+00:00",
+   "price": "not stated",
+   "video_id": "pDsQs_qPELs"
+  },
+  {
+   "ticker": "ABBV",
+   "tickerSlug": "ABBV",
+   "direction": "HOLD",
+   "date": "2026-04-15T15:45:00+00:00",
+   "price": "not stated",
+   "video_id": "pDsQs_qPELs"
+  },
+  {
+   "ticker": "VIG",
+   "tickerSlug": "VIG",
+   "direction": "HOLD",
+   "date": "2026-04-15T15:45:00+00:00",
+   "price": "not stated",
+   "video_id": "pDsQs_qPELs"
+  },
+  {
+   "ticker": "DGRO",
+   "tickerSlug": "DGRO",
+   "direction": "HOLD",
+   "date": "2026-04-15T15:45:00+00:00",
+   "price": "not stated",
+   "video_id": "pDsQs_qPELs"
+  },
+  {
+   "ticker": "VOO",
+   "tickerSlug": "VOO",
+   "direction": "HOLD",
+   "date": "2026-04-15T15:45:00+00:00",
+   "price": "not stated",
+   "video_id": "pDsQs_qPELs"
+  },
+  {
+   "ticker": "VOO",
+   "tickerSlug": "VOO",
+   "direction": "BUY",
+   "date": "2026-04-04T15:00:15+00:00",
+   "price": "not stated",
+   "video_id": "DQoFZ_AMKi0"
+  },
+  {
+   "ticker": "SCHD",
+   "tickerSlug": "SCHD",
+   "direction": "BUY",
+   "date": "2026-04-04T15:00:15+00:00",
+   "price": "not stated",
+   "video_id": "DQoFZ_AMKi0"
+  },
+  {
+   "ticker": "CIBR",
+   "tickerSlug": "CIBR",
+   "direction": "BUY",
+   "date": "2026-04-04T15:00:15+00:00",
+   "price": "not stated",
+   "video_id": "DQoFZ_AMKi0"
+  },
+  {
+   "ticker": "AIQ",
+   "tickerSlug": "AIQ",
+   "direction": "BUY",
+   "date": "2026-04-04T15:00:15+00:00",
+   "price": "not stated",
+   "video_id": "DQoFZ_AMKi0"
+  },
+  {
+   "ticker": "IJR",
+   "tickerSlug": "IJR",
+   "direction": "BUY",
+   "date": "2026-04-04T15:00:15+00:00",
+   "price": "not stated",
+   "video_id": "DQoFZ_AMKi0"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-02-25T16:45:00+00:00",
+   "price": "not stated",
+   "video_id": "i2p1PcQWsqw"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-02-25T16:45:00+00:00",
+   "price": "not stated",
+   "video_id": "i2p1PcQWsqw"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-02-25T16:45:00+00:00",
+   "price": "not stated (forward PE ~24 referenced)",
+   "video_id": "i2p1PcQWsqw"
+  },
+  {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "BUY",
+   "date": "2026-02-25T16:45:00+00:00",
+   "price": "not stated",
+   "video_id": "i2p1PcQWsqw"
+  }
+ ]
+}
