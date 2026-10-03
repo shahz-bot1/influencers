@@ -1,0 +1,28 @@
+{
+ "ticker": "IJR",
+ "slug": "IJR",
+ "calls": [
+  {
+   "video_id": "DQoFZ_AMKi0",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "IJR",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "His pick: quality small caps over IWM; size carefully in high-rate regimes (5% of his model).",
+   "collab": true,
+   "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
+   "base": "656 quality-screened holdings; 0.06% expense ratio.",
+   "bull": "Small-cap rerating when the environment turns.",
+   "bear": "High rates and tariffs weigh on small caps.",
+   "collab_byline": "Mark Roussin, CPA and Let's Talk Money! with Joseph Hogue, CFA",
+   "published_at": "2026-04-04T15:00:15+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
