@@ -1,0 +1,41 @@
+{
+ "title": "Should Investors Buy Costco Stock Instead of Walmart Stock? | COST Stock Analysis | WMT Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "summary": "Head-to-head of the two retail giants. Revenue: Walmart $736B TTM vs Costco $294B, but Costco does nearly half the revenue with under 1/10th the store count (<1,000 vs >10,000 locations) -- an expansion runway. Margins: Walmart 4.4% vs Costco 3.82% operating; both thin for the industry. Key metric for him is inventory turnover: Costco world-class at 15.1 vs Walmart 12. E-commerce: Walmart leads (using stores to fulfill faster than Amazon, gaining share against AMZN); Costco's e-commerce grows at ~2x its overall revenue rate but from a smaller base. Valuation: both rich -- Costco 36.3x forward PE, Walmart 34x; his DCF fair values are $843 for Costco (~$900 market, fairly valued) and $70 for Walmart (~$110 market, ~36% overvalued). Verdict: Costco is the comparative pick (BUY, more fairly valued, expansion + e-commerce as premium re-igniters; bull: margin-mix improvement; bear: still rich at 36x); Walmart is an AVOID (bull: marketplace/ads could structurally lift margins; bear: multiple compression on any growth wobble). Consistent with his prior calls (COST BUY, WMT AVOID).",
+ "video_id": "sF_4vrPXkUY",
+ "published_at": "2026-09-26 ~16:00 BST",
+ "calls": [
+  {
+   "video_id": "sF_4vrPXkUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Costco Stock Instead of Walmart Stock? | COST Stock Analysis WMT Stock Analysis",
+   "published_at": "2026-09-26T16:00:06.028267+00:00",
+   "ticker": "COST",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "DCF fair value $843 vs ~$900 market (stated)",
+   "thesis": "Comparative pick over WMT — Costco more fairly valued; inventory turnover 15.1 vs Walmart 12, expansion runway (less than 1/10th Walmart's store count yet nearly half the revenue).",
+   "base_case": "DCF $843 vs market $900; consistent with his prior COST BUY — no flip.",
+   "bull_case": "Store expansion + e-commerce growth (nearly 2x overall revenue growth) reignites the premium multiple.",
+   "bear_case": "Forward P/E 36.3 is still rich for a 3.8% margin retailer; any comp-sales miss de-rates it.",
+   "analyzed_at": "2026-09-26T18:03:33.207240+00:00"
+  },
+  {
+   "video_id": "sF_4vrPXkUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Costco Stock Instead of Walmart Stock? | COST Stock Analysis WMT Stock Analysis",
+   "published_at": "2026-09-26T16:00:06.028267+00:00",
+   "ticker": "WMT",
+   "direction": "AVOID",
+   "flip": false,
+   "price_at_call": "DCF fair value $70 vs ~$110 market (stated)",
+   "thesis": "Loses the head-to-head vs Costco — DCF says ~36% overvalued despite excellent e-commerce execution.",
+   "base_case": "DCF fair value $70; consistent with his prior WMT AVOID — no flip.",
+   "bull_case": "E-commerce scale and ad/marketplace mix could lift 4.4% margins structurally.",
+   "bear_case": "Rich 34x forward P/E compresses on any growth wobble.",
+   "analyzed_at": "2026-09-26T18:03:33.207240+00:00"
+  }
+ ]
+}
