@@ -3,6 +3,21 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "41frp-gUMCE",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "$500 PT (12 mo)",
+   "thesis": "AI infrastructure intact: networking + custom accelerators; analyst avg PT $510 (+40%), edge score 79.",
+   "base": "Q revenue $29.6B (+86%), $13.7B FCF; DCF >10% above current price.",
+   "bear": "10-yr Treasury at 5.3% and oil/geopolitics are the macro risks he flags.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:59:59.567519+00:00",
+   "video_title": "5 Best Stocks to BUY in October"
+  },
+  {
    "video_id": "8pOD-5dG1KM",
    "channel": "Parkevtate Vosianc CFA",
    "ticker": "AVGO",
@@ -121,16 +136,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
+   "channel": "Couch Investor",
+   "idx": 2
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
