@@ -3,6 +3,17 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "jAtRNbIWaOw",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "stated_price": "No new target; stock ~$238 (Friday all-time high, ~$5.7T market cap); year-to-date +23%",
+   "thesis": "Bullish continuation (he is an excited NVDA shareholder): GPT-6 Astra runs on Blackwell at up to 18x faster token generation (Oct 1 blog), undercutting the Cerebras speed-moat story; OpenAI's Dots agentic AI drives more token demand; AWS raising GPU prices ~15% (B300/B200/H100/H200/A100, from Oct 2) signals persistent token supply/demand imbalance. Sees the AI capex cycle extending ~2 more years (through ~Oct 2028).",
+   "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
+   "price_at_call": null
+  },
+  {
    "video_id": "7Lm8O0CuvLs",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
