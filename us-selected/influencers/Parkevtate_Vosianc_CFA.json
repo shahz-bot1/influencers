@@ -6,6 +6,22 @@
   {
    "ticker": "FTNT",
    "tickerSlug": "FTNT",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": "~$176 (DCF FV $97)",
+   "video_id": "MhJNvSPOivk"
+  },
+  {
+   "ticker": "PANW",
+   "tickerSlug": "PANW",
+   "direction": "AVOID",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": "DCF FV $164 (~50% overvalued)",
+   "video_id": "MhJNvSPOivk"
+  },
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
    "direction": "HOLD",
    "date": "2026-10-03T16:59:58.313953+00:00",
    "price": "DCF fair value $97; market price >45% above fair value; fwd P/E >46 (was ~20 entering year)",
