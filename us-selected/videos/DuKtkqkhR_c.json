@@ -1,0 +1,54 @@
+{
+ "video_id": "DuKtkqkhR_c",
+ "title": "I Just Bought $8,000 of These 2 Stocks. Here's Why",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-04T15:59:59.567519+00:00",
+ "summary": "Weekly Kosh portfolio update: the portfolio fell 0.22% on the week but is up 44.24% YTD versus the S&P 500's +12.86%. He added 150 NU shares at ~$12.60 (~$1,900, ~10.5% position increase) on the Monzo-rumor dip — Nu said it is 'not interested in buying Monzo' and is focused on core markets and US expansion, and he called the rumor 'just a rumor' that created a buying opportunity. He also added 26 NVDA shares (~$6k at ~$230), treating Nvidia as a 'lucrative cash position' to keep building. Funding partly came from selling HALF the Netflix position (down 21.7%); he keeps the other half purely as a value play into Q3 earnings (trailing PE 21.1x, forward 19.4x, PEG under 1), noting cash might have been better but 'it's better than sitting in cash'. The rest of the video is a technical-analysis walk through the watchlist (SOFI, AMZN, GOOGL, META, RKLB, MELI, AXON, UBER, RDDT, NBIS, CRWV and the PYPL bull spreads — untouched), plus commentary on CoreWeave (up 12.8% YTD, still in a 35% drawdown; analysts say sold out for 2027, which he reads as a pricing-power question for the next report) and a short Micron setup ahead of earnings. Calls: NU BUY @$12.60, NVDA BUY, NFLX SELL/trim.",
+ "calls": [
+  {
+   "video_id": "DuKtkqkhR_c",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NU",
+   "direction": "BUY",
+   "price_at_call": "$12.60",
+   "thesis": "Added 150 shares (~10.5% more) on the Monzo-rumor dip; calls it just a rumor.",
+   "base": "Nu walked away from Monzo; focus on core markets + US expansion.",
+   "bear": "Stock under pressure on the rumor; Brazilian-election overhang shared with MELI.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "I Just Bought $8,000 of These 2 Stocks. Here's Why"
+  },
+  {
+   "video_id": "DuKtkqkhR_c",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "~$230 (26 shares, ~$6k)",
+   "thesis": "Added 26 shares; treats NVDA as a 'lucrative cash position' to keep building.",
+   "base": "Sold-out 2027 capacity; analyst avg PT $141 — he expects upside.",
+   "bear": "Flat for long stretches is possible (like NVDA's 7-month flat earlier).",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "I Just Bought $8,000 of These 2 Stocks. Here's Why"
+  },
+  {
+   "video_id": "DuKtkqkhR_c",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NFLX",
+   "direction": "SELL",
+   "price_at_call": null,
+   "thesis": "Sold HALF the position (down 21.7%); keeping half as a 'value play' into Q3 earnings.",
+   "base": "Cheap: trailing PE 21.1x, forward 19.4x, PEG < 1; ad CPMs best-in-class ($37).",
+   "bear": "Engagement growth only 2%; waiting on earnings — could close it all out after.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "I Just Bought $8,000 of These 2 Stocks. Here's Why"
+  }
+ ]
+}
