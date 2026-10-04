@@ -7,6 +7,166 @@
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": null,
+   "video_id": "JYF40KTxQpA"
+  },
+  {
+   "ticker": "LSCC",
+   "tickerSlug": "LSCC",
+   "direction": "HOLD",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": null,
+   "video_id": "JYF40KTxQpA"
+  },
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
+   "direction": "SELL",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": null,
+   "video_id": "JYF40KTxQpA"
+  },
+  {
+   "ticker": "CSCO",
+   "tickerSlug": "CSCO",
+   "direction": "SELL",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": null,
+   "video_id": "JYF40KTxQpA"
+  },
+  {
+   "ticker": "HPE",
+   "tickerSlug": "HPE",
+   "direction": "BUY",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": null,
+   "video_id": "JYF40KTxQpA"
+  },
+  {
+   "ticker": "ZS",
+   "tickerSlug": "ZS",
+   "direction": "HOLD",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": null,
+   "video_id": "JYF40KTxQpA"
+  },
+  {
+   "ticker": "PANW",
+   "tickerSlug": "PANW",
+   "direction": "SELL",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": null,
+   "video_id": "JYF40KTxQpA"
+  },
+  {
+   "ticker": "CRWD",
+   "tickerSlug": "CRWD",
+   "direction": "SELL",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": null,
+   "video_id": "JYF40KTxQpA"
+  },
+  {
+   "ticker": "MSFT",
+   "tickerSlug": "MSFT",
+   "direction": "HOLD",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": null,
+   "video_id": "JYF40KTxQpA"
+  },
+  {
+   "ticker": "CRM",
+   "tickerSlug": "CRM",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": "~$250",
+   "video_id": "JYF40KTxQpA"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-04T13:02:39.234637+00:00",
+   "price": "not stated",
+   "video_id": "IUIlVXlB4vw"
+  },
+  {
+   "ticker": "LSCC",
+   "tickerSlug": "LSCC",
+   "direction": "HOLD",
+   "date": "2026-10-04T13:02:39.234637+00:00",
+   "price": "not stated",
+   "video_id": "IUIlVXlB4vw"
+  },
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
+   "direction": "SELL",
+   "date": "2026-10-04T13:02:39.234637+00:00",
+   "price": "not stated",
+   "video_id": "IUIlVXlB4vw"
+  },
+  {
+   "ticker": "CSCO",
+   "tickerSlug": "CSCO",
+   "direction": "SELL",
+   "date": "2026-10-04T13:02:39.234637+00:00",
+   "price": "not stated",
+   "video_id": "IUIlVXlB4vw"
+  },
+  {
+   "ticker": "HPE",
+   "tickerSlug": "HPE",
+   "direction": "BUY",
+   "date": "2026-10-04T13:02:39.234637+00:00",
+   "price": "not stated",
+   "video_id": "IUIlVXlB4vw"
+  },
+  {
+   "ticker": "ZS",
+   "tickerSlug": "ZS",
+   "direction": "HOLD",
+   "date": "2026-10-04T13:02:39.234637+00:00",
+   "price": "not stated",
+   "video_id": "IUIlVXlB4vw"
+  },
+  {
+   "ticker": "PANW",
+   "tickerSlug": "PANW",
+   "direction": "SELL",
+   "date": "2026-10-04T13:02:39.234637+00:00",
+   "price": "not stated",
+   "video_id": "IUIlVXlB4vw"
+  },
+  {
+   "ticker": "CRWD",
+   "tickerSlug": "CRWD",
+   "direction": "SELL",
+   "date": "2026-10-04T13:02:39.234637+00:00",
+   "price": "not stated",
+   "video_id": "IUIlVXlB4vw"
+  },
+  {
+   "ticker": "MSFT",
+   "tickerSlug": "MSFT",
+   "direction": "HOLD",
+   "date": "2026-10-04T13:02:39.234637+00:00",
+   "price": "not stated",
+   "video_id": "IUIlVXlB4vw"
+  },
+  {
+   "ticker": "CRM",
+   "tickerSlug": "CRM",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-04T13:02:39.234637+00:00",
+   "price": "~$250",
+   "video_id": "IUIlVXlB4vw"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
    "date": "2026-06-20T13:00:08+00:00",
    "price": "not stated",
    "video_id": "i3NittyekA4"
