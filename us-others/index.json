@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T22:43:36.606402+00:00",
+ "updated": "2026-10-04T03:59:11.021061+00:00",
  "tickers": [
   {
    "ticker": "ABNB",
@@ -450,6 +450,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "GENI",
+   "slug": "GENI",
+   "lastDate": "2026-10-04T03:58:03.785081+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "JBLU",
    "slug": "JBLU",
    "lastDate": "2026-09-30T15:55:34.672871+00:00",
@@ -628,7 +645,7 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-10-01T01:55:34.672871+00:00",
+   "lastDate": "2026-10-04T03:58:03.785081+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -646,7 +663,7 @@
     "Asymmetric Investing"
    ],
    "lastStated": "",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "NBIS",
@@ -685,19 +702,19 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-09-29T03:56:43.894526+00:00",
+   "lastDate": "2026-10-04T03:58:03.785081+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$19"
+     "avg": null
     }
    ],
    "influencers": [
     "Jose Najarro Stocks"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "NVDY",
@@ -1031,8 +1048,13 @@
   {
    "ticker": "Z",
    "slug": "Z",
-   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "lastDate": "2026-10-04T03:58:03.785081+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
     {
      "dir": "AVOID",
      "n": 1,
@@ -1040,10 +1062,11 @@
     }
    ],
    "influencers": [
+    "Asymmetric Investing",
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   }
  ],
  "influencers": [
@@ -1051,8 +1074,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 5,
-   "nVideos": 1
+   "nCalls": 6,
+   "nVideos": 2
   },
   {
    "name": "Brian Feroldi",
@@ -1079,15 +1102,15 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 3,
-   "nVideos": 2
+   "nCalls": 5,
+   "nVideos": 3
   },
   {
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 41,
-   "nVideos": 3
+   "nCalls": 42,
+   "nVideos": 4
   },
   {
    "name": "Patient Investor",
@@ -1119,6 +1142,36 @@
   }
  ],
  "videos": [
+  {
+   "id": "jAtRNbIWaOw",
+   "title": "NVIDIA Just Changed the AI Market AGAIN — Here's What Comes Next",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-04T02:55:36.200568+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "4e4bnSjMDsg",
+   "title": "The 10x Stock I'm Loading Up On This Month",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-10-02T17:00:22.210558+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "HWGUIaBgdd4",
+   "title": "[BUY HEAVY!] THIS ONE Stock Runs the Sports Economy",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-10-02T16:00:22.210558+00:00",
+   "nCalls": 1
+  },
   {
    "id": "Ad2Pn32TWSs",
    "title": "Micron Stock Is STILL Dirt Cheap After This Massive Beat!!",
