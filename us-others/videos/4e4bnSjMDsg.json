@@ -1,0 +1,24 @@
+{
+ "video_id": "4e4bnSjMDsg",
+ "title": "The 10x Stock I'm Loading Up On This Month",
+ "creator": "Asymmetric Investing",
+ "handle": "@asymmetricinvesting",
+ "published_at": "2026-10-02T17:00:22.210558+00:00",
+ "summary": "In 'The 10x Stock I'm Loading Up On This Month' (published 2 Oct 2026), Travis Hoeft reveals his October buy for the Asymmetric (ACE Metro) portfolio: Zillow (Z), which he is buying as a 10x-over-10-years compounder despite the stock being down 61% over the past year. His four-part checklist — revenue growth, margin expansion, multiple expansion, buybacks — is, he argues, all present. Revenue is growing 17.7% and accelerating even in a weak housing market, driven by rentals ($734M TTM, +34% CAGR) and the mortgage leg rather than the traditional 8%-growth residential business; the company now positions itself as where people answer all housing questions, an aggregator that owns customer demand. Operating margin flipped from -13.5% (Mar-2024 quarter) to slightly positive, with $258M TTM free cash flow and ~$800M of recent buybacks shrinking shares from ~242M. Valuation looks unloved: ~11x forward P/E, ~15x forward P/FCF, 2.2x sales. His main criticism is stock-based compensation (still $363M, down from $423M) and he admits the housing market could get worse short-term, but sees that as the launching pad. Note: this is a cross-creator divergence — Joseph Hogue had Z as AVOID on 30 Sep on housing-supply-chain weakness. Call: Z BUY.",
+ "calls": [
+  {
+   "video_id": "4e4bnSjMDsg",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "Z",
+   "direction": "BUY",
+   "stated_price": "No explicit target; ~11x forward P/E, ~15x forward P/FCF (24x trailing), 2.2x sales; stock down 61% over the past year",
+   "thesis": "October buy for the Asymmetric portfolio: Zillow is the aggregator of US housing demand (residential + mortgage + rentals). Revenue growth 17.7% and accelerating; rentals segment $734M TTM at +34% CAGR; op margin flipped from -13.5% to positive; FCF $258M TTM; ~$800M of buybacks, net cash on balance sheet. Expects market outperformance over 5-10 years.",
+   "base_case": "Accelerating growth + margin expansion + multiple expansion as the market re-rates a profitable compounder.",
+   "bull_case": "Multi-trillion-dollar housing market network effect compounds; buybacks retire meaningful share count at depressed multiples.",
+   "bear_case": "Stock-based comp still too high ($363M, down from $423M); housing transaction volumes could worsen with mortgage rates elevated; FCF lumpy.",
+   "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
+   "price_at_call": null
+  }
+ ]
+}
