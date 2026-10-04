@@ -1,0 +1,24 @@
+{
+ "video_id": "HWGUIaBgdd4",
+ "title": "[BUY HEAVY!] THIS ONE Stock Runs the Sports Economy",
+ "creator": "Joseph Hogue, CFA",
+ "handle": "@josephhogue",
+ "published_at": "2026-10-02T16:00:22.210558+00:00",
+ "summary": "In '[BUY HEAVY!] THIS ONE Stock Runs the Sports Economy' (published 2 Oct 2026), Joseph Hogue follows up on his earlier Genius Sports video, arguing the market still prices GENI as a narrow sports-betting data vendor while it is becoming the critical infrastructure layer of the $100B+ sports economy. He lays out five pillars: sportsbooks (Genius supplies official real-time data, streaming and trading tech into a $111B global betting market); leagues and teams (NFL, Premier League, NCAA partnerships turn games into monetizable digital products; PWC sees team valuations accelerating); broadcasters and the advertising layer (live game data plus the fan-graph/moments engine won 174 new advertisers in Q2, incl. McDonald's, Airbnb and YouTube TV; the Legend acquisition adds 320M+ annual visits); and prediction markets, where Genius already partners with Kalshi and Polymarket as trusted arbiter (their combined volume rose ~5x in 7 months). These reinforce each other as a flywheel. On valuation he stays near-term conservative: $12/share from 2026E $1.02B revenue at his 5-year average 3.2x P/S, then argues ~$20/share (~270% upside from under $6) if 2027 sales reach ~$1.4B and the stock re-rates to 4x sales (2024 level). He flags the bear case honestly: rising league-rights renewal costs, competition from Sportradar, and that the flywheel must convert into sustained cash flow (guidance: 60% FCF conversion by 2028). Call: GENI BUY.",
+ "calls": [
+  {
+   "video_id": "HWGUIaBgdd4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "GENI",
+   "direction": "BUY",
+   "stated_price": "~$6 current; near-term fair value ~$12 (3.2x P/S on 2026E $1.02B rev); bull ~$20 (4x P/S on 2027E ~$1.4B rev)",
+   "thesis": "Genius Sports is the critical data + AI (Genius IQ) infrastructure layer across the $100B+ sports economy: official league data feeds sportsbooks, leagues/teams, broadcasters, advertisers (174 new advertisers in Q2 incl. McDonald's, Airbnb, YouTube TV) and prediction markets (Kalshi, Polymarket). Flywheel: more data -> more partners -> more engagement -> more ad value. Revenue +25% CAGR over 3y, OCF $86M in 2025, WS expects >$1B 2026 sales (+51%).",
+   "base_case": "~$12/share on 2026E $1.02B sales at his 5-year average 3.2x P/S.",
+   "bull_case": "~$20/share (~270% upside) on 2027E $1.4B sales re-rating to 4x P/S (2024 level; hit 5x in 2021).",
+   "bear_case": "League/data-rights renewal costs could compress margins; Sportradar and new tech threaten the moat; the flywheel must convert into sustained cash flow (mgmt guides 60% FCF conversion by 2028).",
+   "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
+   "price_at_call": null
+  }
+ ]
+}
