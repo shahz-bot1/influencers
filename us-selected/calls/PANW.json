@@ -3,6 +3,51 @@
  "slug": "PANW",
  "calls": [
   {
+   "video_id": "MhJNvSPOivk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "PANW",
+   "direction": "AVOID",
+   "price_at_call": "DCF FV $164 (~50% overvalued)",
+   "thesis": "Delay buying until the price is more attractive; op margin collapsed to 5.4%, ROIC to 1.8%.",
+   "base": "Revenue ~10x over a decade; AI-agent demand is real tailwind.",
+   "bear": "Trades at 79x forward earnings, near its most expensive level in years.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Better Buy: Fortinet or Palo Alto Networks? | FTNT Stock vs. PANW Stock"
+  },
+  {
+   "video_id": "JYF40KTxQpA",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "PANW",
+   "direction": "SELL",
+   "price_at_call": null,
+   "thesis": "Trim a little more: extremely hot at ~92x next year's earnings; system forecasts it giving back gains.",
+   "base": "Great business; $100M/yr AI firewall is its fastest product start ever.",
+   "bear": "Priced like the SolarWinds-era losers at the start of their fall.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Nvidia Just Delivered Massive News for These 10 Stocks"
+  },
+  {
+   "video_id": "IUIlVXlB4vw",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "PANW",
+   "direction": "SELL",
+   "price_at_call": "not stated",
+   "thesis": "Running 'extremely hot' at ~92x next year's earnings; own systems forecast has the stock giving back gains — watch and wait, not buy.",
+   "analyzed_at": "2026-10-04T13:57:43.921785+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:02:39.234637+00:00",
+   "video_title": "Rogue AI Is Already Here. 10 Stocks Are Building Nvidia's Playpen",
+   "base": "Fastest product start in company history ($100M/yr AI firewall on Nvidia's card); great business.",
+   "bear": "~92x next year's earnings; ~3-4x the sales multiple going into the post-SolarWinds run that ended with expensive names falling by half or more."
+  },
+  {
    "video_id": "0cKiqQZpgF0",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -19,8 +64,12 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   }
  ]
 }
