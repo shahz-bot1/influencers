@@ -4,6 +4,30 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "NU",
+   "tickerSlug": "NU",
+   "direction": "BUY",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": "$12.60",
+   "video_id": "DuKtkqkhR_c"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": "~$230 (26 shares, ~$6k)",
+   "video_id": "DuKtkqkhR_c"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "SELL",
+   "date": "2026-10-04T15:59:59.567519+00:00",
+   "price": null,
+   "video_id": "DuKtkqkhR_c"
+  },
+  {
    "ticker": "MU",
    "tickerSlug": "MU",
    "direction": "HOLD",
