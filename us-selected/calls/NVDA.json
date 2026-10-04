@@ -3,6 +3,52 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "DuKtkqkhR_c",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "~$230 (26 shares, ~$6k)",
+   "thesis": "Added 26 shares; treats NVDA as a 'lucrative cash position' to keep building.",
+   "base": "Sold-out 2027 capacity; analyst avg PT $141 — he expects upside.",
+   "bear": "Flat for long stretches is possible (like NVDA's 7-month flat earlier).",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "I Just Bought $8,000 of These 2 Stocks. Here's Why"
+  },
+  {
+   "video_id": "JYF40KTxQpA",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Signal ladder 'buy a lot': PEG 0.36, no analyst profit cuts since July; build a position over time.",
+   "base": "~80-90% of AI chips; 100+ companies on its agent-safety platform; system forecast +36%/yr for 3 yrs.",
+   "bear": "Margin to slip to ~71-72c per dollar by January as memory gets scarce; earnings may be near a peak.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Nvidia Just Delivered Massive News for These 10 Stocks"
+  },
+  {
+   "video_id": "IUIlVXlB4vw",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Hardware checkpoint of his AI-agent 'playpen' thesis: Vera Rubin racks carry the safety net, ~90% AI-chip share, PEG ~0.36; ladder at 'buy a lot'.",
+   "analyzed_at": "2026-10-04T13:57:43.921785+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:02:39.234637+00:00",
+   "video_title": "Rogue AI Is Already Here. 10 Stocks Are Building Nvidia's Playpen",
+   "base": "Sales more than doubled in a year; CEO expects another big jump next year; analysts raising forecasts since July.",
+   "bull": "Systems forecast ~36%/yr over 3 years; ~$5T market cap still growing fast.",
+   "bear": "Earnings may be near a peak; gross margin expected to slip to ~71-72% in Jan on scarce/expensive memory."
+  },
+  {
    "video_id": "8pOD-5dG1KM",
    "channel": "Parkevtate Vosianc CFA",
    "ticker": "NVDA",
@@ -164,20 +210,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 2
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 3
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 7
+   "channel": "Mark Roussin CPA",
+   "idx": 5
   }
  ]
 }
