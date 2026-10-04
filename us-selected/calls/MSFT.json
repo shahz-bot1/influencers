@@ -3,6 +3,36 @@
  "slug": "MSFT",
  "calls": [
   {
+   "video_id": "JYF40KTxQpA",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "MSFT",
+   "direction": "HOLD",
+   "price_at_call": null,
+   "thesis": "Hold: great business, 45c op profit per dollar, 18% growth; prefer to pick it up on a pullback.",
+   "base": "Agent 365: ~40M agents registered in 2 months; uptrend intact; 17%/yr system forecast.",
+   "bear": "Bundling hasn't crushed independents; price not at his buy zone.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Nvidia Just Delivered Massive News for These 10 Stocks"
+  },
+  {
+   "video_id": "IUIlVXlB4vw",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "MSFT",
+   "direction": "HOLD",
+   "price_at_call": "not stated",
+   "thesis": "Still growing ~18% with ~45c operating margin and Agent 365 at ~40M registered agents; prefer to pick it up on a pullback — watch the buy zone.",
+   "analyzed_at": "2026-10-04T13:57:43.921785+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:02:39.234637+00:00",
+   "video_title": "Rogue AI Is Already Here. 10 Stocks Are Building Nvidia's Playpen",
+   "base": "Uptrend intact, both moving averages climbing; systems forecast ~17%/yr over 3 years.",
+   "bull": "~40M agents registered on Agent 365 in 2 months; security bundled into Office without killing independents."
+  },
+  {
    "video_id": "0DD1Kh8id3E",
    "channel": "Parkevtate Vosianc CFA",
    "ticker": "MSFT",
@@ -29,12 +59,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 1
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   }
  ]
 }
