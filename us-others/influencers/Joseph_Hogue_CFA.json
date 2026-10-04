@@ -4,6 +4,14 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "GENI",
+   "tickerSlug": "GENI",
+   "direction": "BUY",
+   "date": "2026-10-04T03:58:03.785081+00:00",
+   "price": null,
+   "video_id": "HWGUIaBgdd4"
+  },
+  {
    "ticker": "BRK.B",
    "tickerSlug": "BRK_B",
    "direction": "BUY",
