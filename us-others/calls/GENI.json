@@ -1,0 +1,26 @@
+{
+ "ticker": "GENI",
+ "slug": "GENI",
+ "calls": [
+  {
+   "video_id": "HWGUIaBgdd4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "GENI",
+   "direction": "BUY",
+   "stated_price": "~$6 current; near-term fair value ~$12 (3.2x P/S on 2026E $1.02B rev); bull ~$20 (4x P/S on 2027E ~$1.4B rev)",
+   "thesis": "Genius Sports is the critical data + AI (Genius IQ) infrastructure layer across the $100B+ sports economy: official league data feeds sportsbooks, leagues/teams, broadcasters, advertisers (174 new advertisers in Q2 incl. McDonald's, Airbnb, YouTube TV) and prediction markets (Kalshi, Polymarket). Flywheel: more data -> more partners -> more engagement -> more ad value. Revenue +25% CAGR over 3y, OCF $86M in 2025, WS expects >$1B 2026 sales (+51%).",
+   "base_case": "~$12/share on 2026E $1.02B sales at his 5-year average 3.2x P/S.",
+   "bull_case": "~$20/share (~270% upside) on 2027E $1.4B sales re-rating to 4x P/S (2024 level; hit 5x in 2021).",
+   "bear_case": "League/data-rights renewal costs could compress margins; Sportradar and new tech threaten the moat; the flywheel must convert into sustained cash flow (mgmt guides 60% FCF conversion by 2028).",
+   "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
+   "price_at_call": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
