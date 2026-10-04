@@ -1,0 +1,32 @@
+{
+ "video_id": "jAtRNbIWaOw",
+ "title": "NVIDIA Just Changed the AI Market AGAIN — Here's What Comes Next",
+ "creator": "Jose Najarro Stocks",
+ "handle": "@josenajarrostocks",
+ "published_at": "2026-10-04T02:55:36.200568+00:00",
+ "summary": "In 'NVIDIA Just Changed the AI Market AGAIN — Here's What Comes Next' (published 4 Oct 2026), Jose Najarro walks through a week of Nvidia news he calls one 'oh snap' and several bullish moments. The 'oh snap': Nvidia's 1 Oct blog showing GPT-6 Astra running on Blackwell at up to 18x faster token generation undercuts the speed-moat story of Cerebras (CBRS, +~20% in five days pre-news), whose OpenAI ultra-fast partnership now looks exposed — though he says it is too early to call it game over and notes Altman's reassuring partnership comments as mildly bullish for Cerebras. Bullish for Nvidia: stock ~$238 (all-time high, ~$5.7T market cap, +23% YTD), OpenAI's Dots agentic AI driving more token consumption (he sees the supply/demand imbalance lasting through ~Oct 2028), and AWS raising GPU prices ~15% from 2 Oct (B300/B200, H100/H200, A100) as evidence demand still outstrips supply. He also reinforces his 1 Oct post-earnings MU BUY: the new 64GB DGX Spark at ~$5,000 (half the memory of the $4,000 128GB original, now $7,000) shows memory pricing is 'insane' and the shortage persists; Pixel 10a's $100 price hike is memory-driven too. Other names: neoclouds and hyperscalers broadly bullish, no specific calls; Cerebras discussed at length but no call (captions garble it as Cerebrus/soas/surreal shareholder). Calls: NVDA BUY (bullish continuation), MU BUY (thesis reinforced).",
+ "calls": [
+  {
+   "video_id": "jAtRNbIWaOw",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "stated_price": "No new target; stock ~$238 (Friday all-time high, ~$5.7T market cap); year-to-date +23%",
+   "thesis": "Bullish continuation (he is an excited NVDA shareholder): GPT-6 Astra runs on Blackwell at up to 18x faster token generation (Oct 1 blog), undercutting the Cerebras speed-moat story; OpenAI's Dots agentic AI drives more token demand; AWS raising GPU prices ~15% (B300/B200/H100/H200/A100, from Oct 2) signals persistent token supply/demand imbalance. Sees the AI capex cycle extending ~2 more years (through ~Oct 2028).",
+   "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
+   "price_at_call": null
+  },
+  {
+   "video_id": "jAtRNbIWaOw",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "MU",
+   "direction": "BUY",
+   "stated_price": "No new target",
+   "thesis": "Reinforces the bullish memory thesis from his Oct 1 post-earnings BUY: Nvidia's new 64GB DGX Spark at ~$5,000 (half the memory of the $4,000 128GB original) shows memory pricing is 'insane' and the supply constraint is not easing; Pixel 10a price up $100 on memory costs.",
+   "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
+   "price_at_call": null
+  }
+ ]
+}
