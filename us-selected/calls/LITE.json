@@ -3,6 +3,21 @@
  "slug": "LITE",
  "calls": [
   {
+   "video_id": "41frp-gUMCE",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "LITE",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Highest risk/reward of the five: AI optical bottleneck (1.6T modules, optical circuit switching); size lightly.",
+   "base": "Next-year EPS expected +150% to $18.58; PEG < 1 even at 58x fwd PE.",
+   "bear": "Up 560% in 12 months at an all-time high — expect big volatility.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:59:59.567519+00:00",
+   "video_title": "5 Best Stocks to BUY in October"
+  },
+  {
    "video_id": "RgK-UsB_d6w",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -19,8 +34,12 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 0
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 1
   }
  ]
 }
