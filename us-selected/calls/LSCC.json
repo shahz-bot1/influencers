@@ -1,0 +1,42 @@
+{
+ "ticker": "LSCC",
+ "slug": "LSCC",
+ "calls": [
+  {
+   "video_id": "JYF40KTxQpA",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "LSCC",
+   "direction": "HOLD",
+   "price_at_call": null,
+   "thesis": "Loves the business (server boot-security chips + AMI acquisition) but at 58x next year's earnings the comeback is priced in; 50-day sliding.",
+   "base": "Record quarterly sales; analysts raising next-year profit forecasts since July, none cutting.",
+   "bear": "Chip-market slump in 2024 showed cyclicality; forecast has it +27%/yr but buyers have backed off.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Nvidia Just Delivered Massive News for These 10 Stocks"
+  },
+  {
+   "video_id": "IUIlVXlB4vw",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "LSCC",
+   "direction": "HOLD",
+   "price_at_call": "not stated",
+   "thesis": "Loves the Lattice business (startup-security chips + AMI acquisition) but ~58x next year's earnings prices in the comeback; wait for the buy zone.",
+   "analyzed_at": "2026-10-04T13:57:43.921785+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:02:39.234637+00:00",
+   "video_title": "Rogue AI Is Already Here. 10 Stocks Are Building Nvidia's Playpen",
+   "base": "Record quarterly sales; analysts raising next year's profit forecast since July, no cuts; systems forecast ~27%/yr over 3 years.",
+   "bear": "50-day moving average sliding; buyers have backed off at this price."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
