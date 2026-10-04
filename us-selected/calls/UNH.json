@@ -3,6 +3,21 @@
  "slug": "UNH",
  "calls": [
   {
+   "video_id": "41frp-gUMCE",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "UNH",
+   "direction": "BUY",
+   "price_at_call": "analyst avg $475 (+25%)",
+   "thesis": "Turnaround + depressed valuation: fwd PE 17.5x vs 5-yr avg 19.7x; raised FY EPS guide to $19.75.",
+   "base": "Q3 earnings Oct 13 is the confirmation test; sitting above the 200-day MA.",
+   "bear": "Medicare Advantage/ACA policy risks and utilization pressures still live.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:59:59.567519+00:00",
+   "video_title": "5 Best Stocks to BUY in October"
+  },
+  {
    "video_id": "nGpwJHq0zVo",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -36,11 +51,11 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   }
  ]
