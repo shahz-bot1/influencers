@@ -1,0 +1,43 @@
+{
+ "ticker": "ZS",
+ "slug": "ZS",
+ "calls": [
+  {
+   "video_id": "JYF40KTxQpA",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "ZS",
+   "direction": "HOLD",
+   "price_at_call": null,
+   "thesis": "Wait for a better price / first GAAP operating profit (quarter ending Oct) — then it gets much more interesting.",
+   "base": "AI-protect contracts passed $100M and grew ~50% in 3 months; losses shrinking fast.",
+   "bear": "Still GAAP-unprofitable (~2c loss per dollar of sales).",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Nvidia Just Delivered Massive News for These 10 Stocks"
+  },
+  {
+   "video_id": "IUIlVXlB4vw",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "ZS",
+   "direction": "HOLD",
+   "price_at_call": "not stated",
+   "thesis": "Zero-trust leader; wait — gets much more interesting once it posts its first real operating profit (quarter ending Oct).",
+   "analyzed_at": "2026-10-04T13:57:43.921785+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:02:39.234637+00:00",
+   "video_title": "Rogue AI Is Already Here. 10 Stocks Are Building Nvidia's Playpen",
+   "base": "AI-protect contracts >$100M/yr, +50% in 3 months; GAAP loss shrinking fast (6c to <2c per dollar of sales).",
+   "bull": "First real operating profit in the October quarter would be a re-rating trigger.",
+   "bear": "Still slightly loss-making on GAAP accounting."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
