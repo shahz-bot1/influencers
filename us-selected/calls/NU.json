@@ -3,6 +3,21 @@
  "slug": "NU",
  "calls": [
   {
+   "video_id": "DuKtkqkhR_c",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NU",
+   "direction": "BUY",
+   "price_at_call": "$12.60",
+   "thesis": "Added 150 shares (~10.5% more) on the Monzo-rumor dip; calls it just a rumor.",
+   "base": "Nu walked away from Monzo; focus on core markets + US expansion.",
+   "bear": "Stock under pressure on the rumor; Brazilian-election overhang shared with MELI.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "I Just Bought $8,000 of These 2 Stocks. Here's Why"
+  },
+  {
    "video_id": "pW_7A50jY_8",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
