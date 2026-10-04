@@ -3,6 +3,21 @@
  "slug": "MELI",
  "calls": [
   {
+   "video_id": "41frp-gUMCE",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Use the pullback to accumulate a world-class compounder: fwd PE 30.4x, PEG 0.6 on ~50% EPS growth.",
+   "base": "30th straight quarter of >30% growth; payments/ad volume at records.",
+   "bear": "Brazil elections (Oct 4) could hit the stock short term; he's bought twice in 2026 already.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:59:59.567519+00:00",
+   "video_title": "5 Best Stocks to BUY in October"
+  },
+  {
    "video_id": "D-P5ryvcIAA",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -34,12 +49,16 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Couch Investor",
    "idx": 1
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 2
   }
  ]
 }
