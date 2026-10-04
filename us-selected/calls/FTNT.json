@@ -3,6 +3,52 @@
  "slug": "FTNT",
  "calls": [
   {
+   "video_id": "MhJNvSPOivk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "FTNT",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$176 (DCF FV $97)",
+   "thesis": "Picks FTNT over PANW if forced to buy today — record 32.3% op margin, ~100% ROIC — but says DELAY buying both until cheaper (~45% overvalued).",
+   "base": "Revenue accelerating with margins at record highs; better productivity story than PANW.",
+   "bear": "Both names up >100% in 2026 and trading near their most expensive forward P/E in years.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Better Buy: Fortinet or Palo Alto Networks? | FTNT Stock vs. PANW Stock"
+  },
+  {
+   "video_id": "JYF40KTxQpA",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "FTNT",
+   "direction": "SELL",
+   "price_at_call": null,
+   "thesis": "Trim: running too hot at ~40x next year's earnings despite great business (34c op profit per dollar).",
+   "base": "Hardware sales growing 2x the company; strong uptrend, both moving averages climbing.",
+   "bear": "If you didn't own it: be patient, let the price come to you.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Nvidia Just Delivered Massive News for These 10 Stocks"
+  },
+  {
+   "video_id": "IUIlVXlB4vw",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "FTNT",
+   "direction": "SELL",
+   "price_at_call": "not stated",
+   "thesis": "Great business running too hot: ladder at 'trim' — take some profit or wait for price to come to him (~40x next year's earnings).",
+   "analyzed_at": "2026-10-04T13:57:43.921785+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:02:39.234637+00:00",
+   "video_title": "Rogue AI Is Already Here. 10 Stocks Are Building Nvidia's Playpen",
+   "base": "Designs own security chips for firewalls; hardware sales growing 2x company overall; ~34 cents operating profit per dollar.",
+   "bull": "Strong uptrend, both moving averages climbing.",
+   "bear": "At ~40x next year's earnings; price has outrun the business."
+  },
+  {
    "video_id": "uqL5NccHcKo",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -25,6 +71,10 @@
   {
    "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   }
  ]
 }
