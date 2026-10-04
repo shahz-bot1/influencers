@@ -3,6 +3,21 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "DuKtkqkhR_c",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NFLX",
+   "direction": "SELL",
+   "price_at_call": null,
+   "thesis": "Sold HALF the position (down 21.7%); keeping half as a 'value play' into Q3 earnings.",
+   "base": "Cheap: trailing PE 21.1x, forward 19.4x, PEG < 1; ad CPMs best-in-class ($37).",
+   "bear": "Engagement growth only 2%; waiting on earnings — could close it all out after.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "I Just Bought $8,000 of These 2 Stocks. Here's Why"
+  },
+  {
    "video_id": "DFQjG012fRk",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -51,12 +66,12 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
-   "idx": 2
+   "channel": "Joseph Carlson After Hours",
+   "idx": 1
   }
  ]
 }
