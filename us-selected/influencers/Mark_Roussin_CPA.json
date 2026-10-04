@@ -4,6 +4,46 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-04T13:59:59.567519+00:00",
+   "price": "$500 PT (12 mo)",
+   "video_id": "41frp-gUMCE"
+  },
+  {
+   "ticker": "MELI",
+   "tickerSlug": "MELI",
+   "direction": "BUY",
+   "date": "2026-10-04T13:59:59.567519+00:00",
+   "price": null,
+   "video_id": "41frp-gUMCE"
+  },
+  {
+   "ticker": "UNH",
+   "tickerSlug": "UNH",
+   "direction": "BUY",
+   "date": "2026-10-04T13:59:59.567519+00:00",
+   "price": "analyst avg $475 (+25%)",
+   "video_id": "41frp-gUMCE"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-10-04T13:59:59.567519+00:00",
+   "price": "~$80 by year-end (DCF $82)",
+   "video_id": "41frp-gUMCE"
+  },
+  {
+   "ticker": "LITE",
+   "tickerSlug": "LITE",
+   "direction": "BUY",
+   "date": "2026-10-04T13:59:59.567519+00:00",
+   "price": null,
+   "video_id": "41frp-gUMCE"
+  },
+  {
    "ticker": "MU",
    "tickerSlug": "MU",
    "direction": "CONDITIONAL_BUY",
