@@ -1,0 +1,39 @@
+{
+ "video_id": "MhJNvSPOivk",
+ "title": "Better Buy: Fortinet or Palo Alto Networks? | FTNT Stock vs. PANW Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-04T15:59:59.567519+00:00",
+ "summary": "Head-to-head comparison of Fortinet and Palo Alto Networks as rogue-AI headlines pull cybersecurity demand and both stocks are up over 100% in 2026. Parkevtate compares a decade of revenue, operating profitability and returns on capital: Palo Alto's revenue 10x'd to $11.5B and Fortinet's to $7.5B, but profitability diverged — Fortinet's operating margin hit a record 32.3% (~100% ROIC, near the best of any company he follows) while Palo Alto's collapsed to 5.4% (ROIC 1.8%). His DCFs still say both are expensive: FTNT fair value $97 versus ~$176 (~45% overvalued) and PANW fair value $164 (~50% overvalued). Verdict: delay buying BOTH until prices are more attractive; if forced to pick one today, FTNT — the relative winner on margins, ROIC and free cash flow. Calls: FTNT CONDITIONAL_BUY (a relative-preference stance flip from his Oct 3 HOLD — not a price-target call, he still says wait for a cheaper price), PANW AVOID (first call on record; no prior stance, so not a flip).",
+ "calls": [
+  {
+   "video_id": "MhJNvSPOivk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "FTNT",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$176 (DCF FV $97)",
+   "thesis": "Picks FTNT over PANW if forced to buy today — record 32.3% op margin, ~100% ROIC — but says DELAY buying both until cheaper (~45% overvalued).",
+   "base": "Revenue accelerating with margins at record highs; better productivity story than PANW.",
+   "bear": "Both names up >100% in 2026 and trading near their most expensive forward P/E in years.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Better Buy: Fortinet or Palo Alto Networks? | FTNT Stock vs. PANW Stock"
+  },
+  {
+   "video_id": "MhJNvSPOivk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "PANW",
+   "direction": "AVOID",
+   "price_at_call": "DCF FV $164 (~50% overvalued)",
+   "thesis": "Delay buying until the price is more attractive; op margin collapsed to 5.4%, ROIC to 1.8%.",
+   "base": "Revenue ~10x over a decade; AI-agent demand is real tailwind.",
+   "bear": "Trades at 79x forward earnings, near its most expensive level in years.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Better Buy: Fortinet or Palo Alto Networks? | FTNT Stock vs. PANW Stock"
+  }
+ ]
+}
