@@ -3,6 +3,36 @@
  "slug": "CRM",
  "calls": [
   {
+   "video_id": "JYF40KTxQpA",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "CRM",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$250",
+   "thesis": "Cheapest of the 10 (~14x next year's earnings); may start a small position IF it holds above the 50-day and pushes back through ~$250 by late Oct.",
+   "base": "Solidly profitable, operating cash flow jumped, raised full-year forecast; golden cross just printed.",
+   "bear": "Organic growth only ~6% ex-Informatica — could be a value trap if the business is breaking.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Nvidia Just Delivered Massive News for These 10 Stocks"
+  },
+  {
+   "video_id": "IUIlVXlB4vw",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "CRM",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$250",
+   "thesis": "Cheapest of the 10 (~14x next year's earnings); may start a small position — condition: price holds above the 50-day and pushes back through ~$250 (post-earnings close) by late Oct.",
+   "analyzed_at": "2026-10-04T13:57:43.921785+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:02:39.234637+00:00",
+   "video_title": "Rogue AI Is Already Here. 10 Stocks Are Building Nvidia's Playpen",
+   "base": "Solidly profitable; operating cash flow jumped; forecast raised — organic growth only ~6% though.",
+   "bear": "Could be a value trap: cheap because the business is breaking; wants news confirming a better trajectory."
+  },
+  {
    "video_id": "qwAY1V5SLRU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -20,8 +50,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   }
  ]
 }
