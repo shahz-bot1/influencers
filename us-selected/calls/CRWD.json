@@ -3,6 +3,36 @@
  "slug": "CRWD",
  "calls": [
   {
+   "video_id": "JYF40KTxQpA",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "CRWD",
+   "direction": "SELL",
+   "price_at_call": null,
+   "thesis": "Trim: most expensive of the 10 at 48x sales — no-brainer vs ZS growing as fast at 9x sales.",
+   "base": "AI-agent protection business nearly tripled in a quarter; CEO says it can outgrow the core product.",
+   "bear": "In the SolarWinds-losers price zone; valuation, not business, is the problem.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Nvidia Just Delivered Massive News for These 10 Stocks"
+  },
+  {
+   "video_id": "IUIlVXlB4vw",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "CRWD",
+   "direction": "SELL",
+   "price_at_call": "not stated",
+   "thesis": "Most expensive of the 10 at ~$48 per dollar of sales; price sits inside the range where the SolarWinds losers started — too hot to own here.",
+   "analyzed_at": "2026-10-04T13:57:43.921785+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:02:39.234637+00:00",
+   "video_title": "Rogue AI Is Already Here. 10 Stocks Are Building Nvidia's Playpen",
+   "base": "AI-agent protection business nearly tripled in a quarter; founding member of the Okta cross-checkpoint group.",
+   "bear": "~$48 per dollar of sales vs ~$9 for Zscaler growing about as fast."
+  },
+  {
    "video_id": "QxqManKEg4U",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -34,12 +64,12 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 1
+   "channel": "Mark Roussin CPA",
+   "idx": 2
   }
  ]
 }
