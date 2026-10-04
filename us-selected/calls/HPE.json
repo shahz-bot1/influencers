@@ -1,0 +1,42 @@
+{
+ "ticker": "HPE",
+ "slug": "HPE",
+ "calls": [
+  {
+   "video_id": "JYF40KTxQpA",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "HPE",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Signal ladder 'buy a little': only 16x next year's earnings, networking orders +36% (Juniper in both years).",
+   "base": "Analysts raising forecasts with no cuts; uptrend with both moving averages climbing; 17%/yr forecast.",
+   "bear": "Servers remain cyclical; the networking mix shift is still early.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Nvidia Just Delivered Massive News for These 10 Stocks"
+  },
+  {
+   "video_id": "IUIlVXlB4vw",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "HPE",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Second-cheapest of the 10 at ~16x next year's earnings with networking orders +36% YoY; business, forecast and price all moving the same way; ladder at 'buy a little'.",
+   "analyzed_at": "2026-10-04T13:57:43.921785+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:02:39.234637+00:00",
+   "video_title": "Rogue AI Is Already Here. 10 Stocks Are Building Nvidia's Playpen",
+   "base": "Networking orders +36% YoY (Juniper in both years), ~3.5x as fast as sales growth.",
+   "bull": "Systems forecast ~17%/yr over 3 years; analysts raising forecasts since July, no cuts."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
