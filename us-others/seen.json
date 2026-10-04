@@ -1,84 +1,109 @@
 {
- "jbtxHHpX_u0": {
-  "channel": "Joseph Hogue, CFA",
-  "title": "20 Stocks Just Got Crushed by AI\u2026 Here are the 5 I'm Buying",
-  "published_at": "2026-09-27T16:55:35.550296+00:00",
-  "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
-  "alerted": true
- },
- "7Lm8O0CuvLs": {
-  "channel": "Jose Najarro Stocks",
-  "title": "AMD Just Spent $8.2 Billion on Its Next AI Bet!!",
-  "published_at": "2026-09-29T00:55:38.541174+00:00",
-  "analyzed_at": "2026-09-29T03:56:43.894526+00:00",
-  "alerted": true
- },
- "gkt3BnXJf9s": {
-  "channel": "Joseph Hogue, CFA",
-  "title": "My New Favorite Stocks for AI Growth AND Income",
-  "published_at": "2026-09-29T15:55:38.764762+00:00",
-  "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
-  "alerted": true
- },
- "_X0c2A-Ln9c": {
-  "channel": "Asymmetric Investing",
-  "title": "Risk Warning: 5 Stocks to Sell Before It's Too Late",
-  "published_at": "2026-09-29T16:55:38.764762+00:00",
-  "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
-  "alerted": true
- },
- "sY9DIuxZzmc": {
-  "channel": "Daniel Pronk",
-  "title": "Why I Plan To Continue Buying Meta Stock",
-  "published_at": "2026-09-30T21:55:34.672871+00:00",
-  "analyzed_at": "2026-10-01T03:57:29.822305+00:00",
-  "alerted": true
- },
- "989CUhoOUg8": {
-  "channel": "Joseph Hogue, CFA",
-  "title": "Buffett\u2019s \u201cGoing to Hell\u201d Warning [5 Stocks to Buy Before It Gets Worse]",
-  "published_at": "2026-09-30T15:55:34.672871+00:00",
-  "analyzed_at": "2026-10-01T03:57:29.822305+00:00",
-  "alerted": true
- },
- "Ad2Pn32TWSs": {
-  "channel": "Jose Najarro Stocks",
-  "title": "Micron Stock Is STILL Dirt Cheap After This Massive Beat!!",
-  "published_at": "2026-10-01T01:55:34.672871+00:00",
-  "analyzed_at": "2026-10-01T03:57:29.822305+00:00",
-  "alerted": true
- },
- "WHzxbGZoTPQ": {
-  "channel": "Sven Carlin",
-  "title": "Unloved Chinese Stocks - Value, Buy for 2X?",
-  "published_at": "2026-09-30T16:55:34.672871+00:00",
-  "analyzed_at": "2026-10-02T04:20:24.829374+00:00",
-  "alerted": true,
-  "caption_recovered": true
- },
- "F6ds1vqtOTY": {
-  "channel": "Tom Nash",
-  "title": "A Once in a Lifetime Financial Reset is Coming. (Why Stocks Are Next)",
-  "published_at": "2026-09-30T15:55:34.672871+00:00",
-  "analyzed_at": "2026-10-02T04:20:24.829374+00:00",
-  "alerted": true,
-  "caption_recovered": true
- },
- "Of4_80Z_cvY": {
-  "channel": "Asymmetric Investing",
-  "title": "Asymmetric Portfolio: October Stock Buys",
-  "published_at": "2026-10-01T21:58:30.576059+00:00",
-  "analyzed_at": "2026-10-02T04:20:24.829374+00:00",
-  "alerted": false,
-  "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
- },
- "cduwJEIVyKs": {
-  "channel": "Asymmetric Investing",
-  "title": "5 Undervalued Stocks to BUY Today!",
-  "published_at": "2026-09-30T15:55:34.672871+00:00",
-  "analyzed_at": "2026-10-02T04:20:24.829374+00:00",
-  "alerted": false,
-  "caption_retries": 3,
-  "caption_failed": true
- }
+  "jbtxHHpX_u0": {
+    "channel": "Joseph Hogue, CFA",
+    "title": "20 Stocks Just Got Crushed by AI\u2026 Here are the 5 I'm Buying",
+    "published_at": "2026-09-27T16:55:35.550296+00:00",
+    "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
+    "alerted": true
+  },
+  "7Lm8O0CuvLs": {
+    "channel": "Jose Najarro Stocks",
+    "title": "AMD Just Spent $8.2 Billion on Its Next AI Bet!!",
+    "published_at": "2026-09-29T00:55:38.541174+00:00",
+    "analyzed_at": "2026-09-29T03:56:43.894526+00:00",
+    "alerted": true
+  },
+  "gkt3BnXJf9s": {
+    "channel": "Joseph Hogue, CFA",
+    "title": "My New Favorite Stocks for AI Growth AND Income",
+    "published_at": "2026-09-29T15:55:38.764762+00:00",
+    "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+    "alerted": true
+  },
+  "_X0c2A-Ln9c": {
+    "channel": "Asymmetric Investing",
+    "title": "Risk Warning: 5 Stocks to Sell Before It's Too Late",
+    "published_at": "2026-09-29T16:55:38.764762+00:00",
+    "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
+    "alerted": true
+  },
+  "sY9DIuxZzmc": {
+    "channel": "Daniel Pronk",
+    "title": "Why I Plan To Continue Buying Meta Stock",
+    "published_at": "2026-09-30T21:55:34.672871+00:00",
+    "analyzed_at": "2026-10-01T03:57:29.822305+00:00",
+    "alerted": true
+  },
+  "989CUhoOUg8": {
+    "channel": "Joseph Hogue, CFA",
+    "title": "Buffett\u2019s \u201cGoing to Hell\u201d Warning [5 Stocks to Buy Before It Gets Worse]",
+    "published_at": "2026-09-30T15:55:34.672871+00:00",
+    "analyzed_at": "2026-10-01T03:57:29.822305+00:00",
+    "alerted": true
+  },
+  "Ad2Pn32TWSs": {
+    "channel": "Jose Najarro Stocks",
+    "title": "Micron Stock Is STILL Dirt Cheap After This Massive Beat!!",
+    "published_at": "2026-10-01T01:55:34.672871+00:00",
+    "analyzed_at": "2026-10-01T03:57:29.822305+00:00",
+    "alerted": true
+  },
+  "WHzxbGZoTPQ": {
+    "channel": "Sven Carlin",
+    "title": "Unloved Chinese Stocks - Value, Buy for 2X?",
+    "published_at": "2026-09-30T16:55:34.672871+00:00",
+    "analyzed_at": "2026-10-02T04:20:24.829374+00:00",
+    "alerted": true,
+    "caption_recovered": true
+  },
+  "F6ds1vqtOTY": {
+    "channel": "Tom Nash",
+    "title": "A Once in a Lifetime Financial Reset is Coming. (Why Stocks Are Next)",
+    "published_at": "2026-09-30T15:55:34.672871+00:00",
+    "analyzed_at": "2026-10-02T04:20:24.829374+00:00",
+    "alerted": true,
+    "caption_recovered": true
+  },
+  "Of4_80Z_cvY": {
+    "channel": "Asymmetric Investing",
+    "title": "Asymmetric Portfolio: October Stock Buys",
+    "published_at": "2026-10-01T21:58:30.576059+00:00",
+    "analyzed_at": "2026-10-02T04:20:24.829374+00:00",
+    "alerted": false,
+    "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
+  },
+  "cduwJEIVyKs": {
+    "channel": "Asymmetric Investing",
+    "title": "5 Undervalued Stocks to BUY Today!",
+    "published_at": "2026-09-30T15:55:34.672871+00:00",
+    "analyzed_at": "2026-10-02T04:20:24.829374+00:00",
+    "alerted": false,
+    "caption_retries": 3,
+    "caption_failed": true,
+    "failure_reported": true
+  },
+  "HWGUIaBgdd4": {
+    "channel": "Joseph Hogue, CFA",
+    "handle": "@josephhogue",
+    "title": "[BUY HEAVY!] THIS ONE Stock Runs the Sports Economy",
+    "published_at": "2026-10-02T16:00:22.210558+00:00",
+    "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
+    "alerted": true
+  },
+  "4e4bnSjMDsg": {
+    "channel": "Asymmetric Investing",
+    "handle": "@asymmetricinvesting",
+    "title": "The 10x Stock I\u2019m Loading Up On This Month",
+    "published_at": "2026-10-02T17:00:22.210558+00:00",
+    "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
+    "alerted": true
+  },
+  "jAtRNbIWaOw": {
+    "channel": "Jose Najarro Stocks",
+    "handle": "@josenajarrostocks",
+    "title": "NVIDIA Just Changed the AI Market AGAIN \u2014 Here\u2019s What Comes Next",
+    "published_at": "2026-10-04T02:55:36.200568+00:00",
+    "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
+    "alerted": true
+  }
 }
