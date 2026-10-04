@@ -3,6 +3,21 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "41frp-gUMCE",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": "~$80 by year-end (DCF $82)",
+   "thesis": "Market misunderstands Uber in autonomy: it can be both marketplace and fleet operator; longer-term play.",
+   "base": "35k Lucid robo-taxis committed, 100k AV fleet target across 28 cities by 2028; analyst avg $105 (+50%).",
+   "bear": "Robo-taxi headlines keep whipsawing the stock; Meta's AI agent is a perceived threat.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:59:59.567519+00:00",
+   "video_title": "5 Best Stocks to BUY in October"
+  },
+  {
    "video_id": "ps7HQgBsw5I",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -35,12 +50,16 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 2
   }
  ]
 }
