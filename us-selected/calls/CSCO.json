@@ -1,0 +1,42 @@
+{
+ "ticker": "CSCO",
+ "slug": "CSCO",
+ "calls": [
+  {
+   "video_id": "JYF40KTxQpA",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "CSCO",
+   "direction": "SELL",
+   "price_at_call": null,
+   "thesis": "Trim: price got ahead of the business; 50-day MA heading down.",
+   "base": "Biggest quarter in company history; networking >50% of sales and growing 2x its security business.",
+   "bear": "Momentum cooling even as fundamentals improved.",
+   "analyzed_at": "2026-10-04T18:03:36.382999+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T15:59:59.567519+00:00",
+   "video_title": "Nvidia Just Delivered Massive News for These 10 Stocks"
+  },
+  {
+   "video_id": "IUIlVXlB4vw",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "CSCO",
+   "direction": "SELL",
+   "price_at_call": "not stated",
+   "thesis": "Ladder at 'trim': price has gotten ahead of the business and the 50-day is heading down.",
+   "analyzed_at": "2026-10-04T13:57:43.921785+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T13:02:39.234637+00:00",
+   "video_title": "Rogue AI Is Already Here. 10 Stocks Are Building Nvidia's Playpen",
+   "base": "Biggest quarter in history; networking >50% of sales, growing 2x the security business.",
+   "bear": "50-day moving average now heading down; price cooling off."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
