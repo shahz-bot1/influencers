@@ -3,6 +3,17 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "jAtRNbIWaOw",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "MU",
+   "direction": "BUY",
+   "stated_price": "No new target",
+   "thesis": "Reinforces the bullish memory thesis from his Oct 1 post-earnings BUY: Nvidia's new 64GB DGX Spark at ~$5,000 (half the memory of the $4,000 128GB original) shows memory pricing is 'insane' and the supply constraint is not easing; Pixel 10a price up $100 on memory costs.",
+   "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
+   "price_at_call": null
+  },
+  {
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "ticker": "MU",
@@ -35,7 +46,7 @@
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
