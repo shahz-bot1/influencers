@@ -1,0 +1,27 @@
+{
+ "ticker": "URI",
+ "slug": "URI",
+ "calls": [
+  {
+   "video_id": "Wq3qfQnevls",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "URI",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "United Rentals, equipment rental: needs equipment to build data centers, power plants and fiber; benefits from broader reshoring/nearshoring capex too; market prices earnings flat vs 2023-24, missing the story.",
+   "base": "Capex $200B to $465B to $800B trajectory plus specialty-rental scale/moat (12% ROA on uniform basis); he calls it '100% a buying opportunity'.",
+   "bear": "Equipment rental is cyclical; a capex slowdown would hit utilization and pricing.",
+   "analyzed_at": "2026-10-05T05:56:50.744087+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T22:55:19.341103+00:00",
+   "video_title": "The AI Boom Is Creating Blue Collar Millionaires (3 Stocks You'll Wish You Bought)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
