@@ -4,6 +4,38 @@
  "slug": "Joseph_Carlson_After_Hours",
  "calls": [
   {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-10-05T20:58:26.932338+00:00",
+   "price": 67.0,
+   "video_id": "lDJ3befNmS8"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-10-05T20:58:26.932338+00:00",
+   "price": 69.0,
+   "video_id": "lDJ3befNmS8"
+  },
+  {
+   "ticker": "SPGI",
+   "tickerSlug": "SPGI",
+   "direction": "BUY",
+   "date": "2026-10-05T20:58:26.932338+00:00",
+   "price": null,
+   "video_id": "lDJ3befNmS8"
+  },
+  {
+   "ticker": "NKE",
+   "tickerSlug": "NKE",
+   "direction": "AVOID",
+   "date": "2026-10-05T20:58:26.932338+00:00",
+   "price": null,
+   "video_id": "lDJ3befNmS8"
+  },
+  {
    "ticker": "GOOGL",
    "tickerSlug": "GOOGL",
    "direction": "HOLD",
