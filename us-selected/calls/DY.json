@@ -1,0 +1,27 @@
+{
+ "ticker": "DY",
+ "slug": "DY",
+ "calls": [
+  {
+   "video_id": "Wq3qfQnevls",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "DY",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Dycom, fiber-optic contractor for telecoms now also building data-center power solutions: US rural-fiber mandate plus dark-fiber exhaustion; down ~45% in 3 months on capex-question fears.",
+   "base": "Rural-fiber buildout + data-center power work + replacement cycle in fiber; growth over next 3 years not priced in.",
+   "bear": "Same AI-capex narrative overhang; chart looks ugly and the drawdown could continue if capex fears persist.",
+   "analyzed_at": "2026-10-05T05:56:50.744087+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T22:55:19.341103+00:00",
+   "video_title": "The AI Boom Is Creating Blue Collar Millionaires (3 Stocks You'll Wish You Bought)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
