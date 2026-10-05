@@ -1,0 +1,61 @@
+{
+ "video_id": "lDJ3befNmS8",
+ "title": "Three Turn-Around Stocks I'm Buying Today",
+ "creator": "Joseph Carlson After Hours",
+ "published_at": "2026-10-05T20:58:26.932338+00:00",
+ "summary": "Joseph Carlson spent $5,000 on three turnaround buys, framing each as a high-quality business priced like a dying one. Netflix: he added $2,000 to an existing $88,000 position (6% of portfolio); the stock trades at $67, down ~50% from $122 highs, at an 18.5x forward PE, with revenue growing 10%+ in every region, 24% organic EPS growth (5.8% reported including the one-time Warner Bros. payout), and $11B trailing free cash flow. He argues the Warner Bros.-Paramount merger's $80-90B debt mountain forces content licensing onto Netflix (Disney already licensing its best content there), and rebuts the engagement/content-quality myths via the Ben Affleck correction of the Matt Damon plot-restatement story. Uber: he bought $2,000 at $69 (down 30% YTD); 17x forward PE, ~5-6% FCF yield; robo-taxi disruption fears are overpriced — Uber does 297M weekly rides versus Waymo's 500k and is growing faster, staying profitable even in San Francisco. S&P Global: he added $1,000 to a $114,000 position (down 24% YTD on Anthropic-plugin 'SaaS apocalypse' fears); ratings and indices are wide-moat, high-margin businesses, and ETF AUM doubling from $3T to ~$6T since 2023 plus a debt-refinancing wall support activity. He passes on Nike (revenue $51B to $45B, declining EPS, fading brand) and stays on the fence on FICO (great fundamentals, but CEO selling and self-inflicted moat damage). Also covered: a Tom Lee bullish market interview and Apple as 'fail of the week' for tightening Mac AI-agent data controls to defend its App Store toll booth against Meta's Muse. Calls: NFLX BUY @ $67 (FLIP from HOLD Oct 2), UBER BUY @ $69 (reiterated), SPGI BUY (adding, reiterated), NKE AVOID (first call), FICO UNCERTAIN.",
+ "calls": [
+  {
+   "video_id": "lDJ3befNmS8",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": 67.0,
+   "thesis": "Bought another $2,000 (already an $88k position, 6% of portfolio). Stock $67, down ~50% from $122 highs; 18.5x forward PE; revenue growing 10%+ in every region; organic EPS growth 24% (reported 5.8% incl. one-time WBD payout); $11B TTM free cash flow. WBD-Paramount merger's $80-90B debt mountain forces content licensing onto Netflix (Disney already doing the same). FLIP: was HOLD (Oct 2), now BUY.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T20:58:26.932338+00:00",
+   "video_title": "Three Turn-Around Stocks I'm Buying Today"
+  },
+  {
+   "video_id": "lDJ3befNmS8",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": 69.0,
+   "thesis": "Bought $2,000. Stock $69, down 30% YTD from ~$100; 17x forward PE, ~5-6% FCF yield ex-insurance float. Robo-taxi disruption fears overpriced: Uber does 297M weekly rides vs Waymo's 500k (595x) and is growing faster; still profitable and growing in SF where Waymo operates. Prior BUY (Sep 28), no flip.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T20:58:26.932338+00:00",
+   "video_title": "Three Turn-Around Stocks I'm Buying Today"
+  },
+  {
+   "video_id": "lDJ3befNmS8",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "SPGI",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Added $1,000 to a $114k position (gains down to ~$7k). Stock down 24% YTD on 'SaaS apocalypse' Anthropic-plugin fears plus rates. Market intelligence is ~30% of revenue but lower-margin than the ratings/indices wide-moat businesses; ETF AUM $3T->~$6T since 2023 is a tailwind; debt-refi wall sustains issuance activity. Prior BUY (Sep 28), no flip.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T20:58:26.932338+00:00",
+   "video_title": "Three Turn-Around Stocks I'm Buying Today"
+  },
+  {
+   "video_id": "lDJ3befNmS8",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "NKE",
+   "direction": "AVOID",
+   "price_at_call": null,
+   "thesis": "Passing: revenue $51B->$45B in full-on contraction, net income and EPS declining for ~5 years, brand fading with younger shoppers vs competent rivals; stock still at a higher multiple than the turnaround buys. First NKE call on record.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T20:58:26.932338+00:00",
+   "video_title": "Three Turn-Around Stocks I'm Buying Today"
+  }
+ ]
+}
