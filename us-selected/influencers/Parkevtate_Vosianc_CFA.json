@@ -4,6 +4,78 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-10-05T11:56:12.550380+00:00",
+   "price": 251.0,
+   "video_id": "25pD3BJgsy8"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-10-05T11:56:12.550380+00:00",
+   "price": 728.0,
+   "video_id": "25pD3BJgsy8"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-10-05T11:56:12.550380+00:00",
+   "price": 67.0,
+   "video_id": "25pD3BJgsy8"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-05T11:56:12.550380+00:00",
+   "price": null,
+   "video_id": "25pD3BJgsy8"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-10-05T11:56:12.550380+00:00",
+   "price": 68.0,
+   "video_id": "25pD3BJgsy8"
+  },
+  {
+   "ticker": "PINS",
+   "tickerSlug": "PINS",
+   "direction": "BUY",
+   "date": "2026-10-05T11:56:12.550380+00:00",
+   "price": 19.0,
+   "video_id": "25pD3BJgsy8"
+  },
+  {
+   "ticker": "V",
+   "tickerSlug": "V",
+   "direction": "BUY",
+   "date": "2026-10-05T11:56:12.550380+00:00",
+   "price": 361.0,
+   "video_id": "25pD3BJgsy8"
+  },
+  {
+   "ticker": "ADBE",
+   "tickerSlug": "ADBE",
+   "direction": "BUY",
+   "date": "2026-10-05T11:56:12.550380+00:00",
+   "price": 238.0,
+   "video_id": "25pD3BJgsy8"
+  },
+  {
+   "ticker": "MCD",
+   "tickerSlug": "MCD",
+   "direction": "BUY",
+   "date": "2026-10-05T11:56:12.550380+00:00",
+   "price": 232.0,
+   "video_id": "25pD3BJgsy8"
+  },
+  {
    "ticker": "FTNT",
    "tickerSlug": "FTNT",
    "direction": "CONDITIONAL_BUY",
