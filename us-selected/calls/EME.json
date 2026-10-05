@@ -1,0 +1,27 @@
+{
+ "ticker": "EME",
+ "slug": "EME",
+ "calls": [
+  {
+   "video_id": "Wq3qfQnevls",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "EME",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Emcor, electrical/HVAC contractor: half of revenue from data centers; backlog grew $12B to $17B (~50%) and blue-collar workforce from 34k to 44k; market is not pricing the next few years of growth.",
+   "base": "Hyperscaler capex $800B this year toward $1.2T; skilled-labor bottleneck (500k-1M more electricians needed) keeps revenue opportunity durable.",
+   "bear": "AI-capex air pocket (election-year NIMBYism narrative) has already dragged AI-infrastructure names down 20-30%.",
+   "analyzed_at": "2026-10-05T05:56:50.744087+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T22:55:19.341103+00:00",
+   "video_title": "The AI Boom Is Creating Blue Collar Millionaires (3 Stocks You'll Wish You Bought)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
