@@ -4,6 +4,22 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-05T18:58:26.932338+00:00",
+   "price": 360.0,
+   "video_id": "MGQuMM1AgQM"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-05T18:58:26.932338+00:00",
+   "price": null,
+   "video_id": "MGQuMM1AgQM"
+  },
+  {
    "ticker": "NU",
    "tickerSlug": "NU",
    "direction": "BUY",
