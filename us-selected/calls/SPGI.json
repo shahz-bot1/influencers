@@ -3,6 +3,19 @@
  "slug": "SPGI",
  "calls": [
   {
+   "video_id": "lDJ3befNmS8",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "SPGI",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Added $1,000 to a $114k position (gains down to ~$7k). Stock down 24% YTD on 'SaaS apocalypse' Anthropic-plugin fears plus rates. Market intelligence is ~30% of revenue but lower-margin than the ratings/indices wide-moat businesses; ETF AUM $3T->~$6T since 2023 is a tailwind; debt-refi wall sustains issuance activity. Prior BUY (Sep 28), no flip.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T20:58:26.932338+00:00",
+   "video_title": "Three Turn-Around Stocks I'm Buying Today"
+  },
+  {
    "video_id": "ps7HQgBsw5I",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
