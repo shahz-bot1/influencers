@@ -3,6 +3,19 @@
  "slug": "NVO",
  "calls": [
   {
+   "video_id": "cIqFhqpTL0g",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "ticker": "NVO",
+   "direction": "HOLD",
+   "price_at_call": 34.0,
+   "thesis": "Re-evaluating his own holding (8.7% of community portfolio, avg ~EUR44, -23%). Down ~75% from 2024 ATH while adjusted operating profit is higher; PE ~10 vs 14-38 historically, div yield 4.6%, but moat at risk: semaglutide is 74% of revenue, Wegovy revenue -22% in Q2 2026 (price cuts, US govt deal, Lilly share gains), patent cliffs 2026 ex-US / 2032 US. Buy threshold tightened to ~180 DKK, currently 'right at the hold threshold', sell zone from 400 DKK. First NVO call on record.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T19:58:26.932338+00:00",
+   "video_title": "Novo Nordisk Stock After the Crash: Time to Buy?"
+  },
+  {
    "video_id": "dLLAFMZ75BQ",
    "channel": "Parkevtate Vosianc CFA",
    "ticker": "NVO",
@@ -19,8 +32,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
