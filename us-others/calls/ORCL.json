@@ -3,6 +3,18 @@
  "slug": "ORCL",
  "calls": [
   {
+   "video_id": "Zrbf8mXwsG4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ORCL",
+   "direction": "AVOID",
+   "thesis": "Reiterated: 'the only one that I would say definitely avoid' — legacy software drag, only 32% expected revenue growth; the 2.4GW New Mexico data-center delay/force majeure is 'the first crack in the AI trade'.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "analyzed_at": "2026-10-05T03:58:02.949500+00:00"
+  },
+  {
    "video_id": "_X0c2A-Ln9c",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -25,11 +37,11 @@
  ],
  "byInf": [
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Asymmetric Investing",
    "idx": 1
   }
  ]
