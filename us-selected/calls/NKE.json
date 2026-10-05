@@ -3,6 +3,19 @@
  "slug": "NKE",
  "calls": [
   {
+   "video_id": "lDJ3befNmS8",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "NKE",
+   "direction": "AVOID",
+   "price_at_call": null,
+   "thesis": "Passing: revenue $51B->$45B in full-on contraction, net income and EPS declining for ~5 years, brand fading with younger shoppers vs competent rivals; stock still at a higher multiple than the turnaround buys. First NKE call on record.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T20:58:26.932338+00:00",
+   "video_title": "Three Turn-Around Stocks I'm Buying Today"
+  },
+  {
    "video_id": "9ky70loGTMo",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -21,8 +34,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
