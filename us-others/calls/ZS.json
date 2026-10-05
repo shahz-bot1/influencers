@@ -1,0 +1,25 @@
+{
+ "ticker": "ZS",
+ "slug": "ZS",
+ "calls": [
+  {
+   "video_id": "Zrbf8mXwsG4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "thesis": "Cheapest cybersecurity name at 2x PEG; 20% expected revenue growth; he owns shares — 'I would take a second look at Zscaler... for a new pickup'. Market's AI-replacement fear is overdone.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "analyzed_at": "2026-10-05T03:58:02.949500+00:00",
+   "stated_price": "no stated price; 2x PEG, 20% expected rev growth"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
