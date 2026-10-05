@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "EME",
+   "tickerSlug": "EME",
+   "direction": "BUY",
+   "date": "2026-10-04T22:55:19.341103+00:00",
+   "price": null,
+   "video_id": "Wq3qfQnevls"
+  },
+  {
+   "ticker": "DY",
+   "tickerSlug": "DY",
+   "direction": "BUY",
+   "date": "2026-10-04T22:55:19.341103+00:00",
+   "price": null,
+   "video_id": "Wq3qfQnevls"
+  },
+  {
+   "ticker": "URI",
+   "tickerSlug": "URI",
+   "direction": "BUY",
+   "date": "2026-10-04T22:55:19.341103+00:00",
+   "price": null,
+   "video_id": "Wq3qfQnevls"
+  },
+  {
    "ticker": "RBRK",
    "tickerSlug": "RBRK",
    "direction": "BUY",
