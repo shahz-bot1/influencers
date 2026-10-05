@@ -1,0 +1,25 @@
+{
+ "ticker": "PLTR",
+ "slug": "PLTR",
+ "calls": [
+  {
+   "video_id": "Zrbf8mXwsG4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "thesis": "62% revenue growth, ~2x PEG — third-cheapest of the software group; expensive but relatively cheap vs industry on growth-adjusted basis. Softer of the two software picks ('maybe even').",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "analyzed_at": "2026-10-05T03:58:02.949500+00:00",
+   "stated_price": "no stated price; ~2x PEG, 62% rev growth"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
