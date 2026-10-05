@@ -1,0 +1,22 @@
+{
+ "video_id": "cIqFhqpTL0g",
+ "title": "Novo Nordisk Stock After the Crash: Time to Buy?",
+ "creator": "The German Value Investor",
+ "published_at": "2026-10-05T19:58:26.932338+00:00",
+ "summary": "The German Value Investor critically re-evaluates his Novo Nordisk holding after a ~75% fall from the 2024 all-time high. His community portfolio holds it at an 8.7% weight with an average purchase price of ~EUR44, now trading just under EUR34 (-23%, about -20% with dividends). The setup looks like a bargain at first glance: PE around 10 versus a historical 14-38 range, 4.6% dividend yield, 1.1 trillion DKK market cap, net margins consistently 30-35%, high ROE, foundation ownership and a strong brand — scoring 2.79 in his own stock tool. But the moat is at risk: Wegovy prescription revenue fell ~22% in Q2 2026 after self-pay price cuts ($499 to $349), a US government price agreement, and market-share losses to Eli Lilly (just over 51% to just under 45%); 74% of revenue depends on semaglutide, patents already expired in India, Brazil, Canada and China (generics up to 85% cheaper) with US expiry in 2032; and net cash is negative. His scenarios: bear case fair price 132 DKK (further -50%), base case roughly fair value today, bull case +60% on mid-single-digit growth. After tightening his valuation method, his buying threshold dropped to ~180 DKK — currently 'right at the hold threshold', just below the sell check, with a definite sell zone from 400 DKK. Call: NVO HOLD (first call on record). He closes by plugging his Lululemon crash video (LULU HOLD was Sep 30; no new call here).",
+ "calls": [
+  {
+   "video_id": "cIqFhqpTL0g",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "ticker": "NVO",
+   "direction": "HOLD",
+   "price_at_call": 34.0,
+   "thesis": "Re-evaluating his own holding (8.7% of community portfolio, avg ~EUR44, -23%). Down ~75% from 2024 ATH while adjusted operating profit is higher; PE ~10 vs 14-38 historically, div yield 4.6%, but moat at risk: semaglutide is 74% of revenue, Wegovy revenue -22% in Q2 2026 (price cuts, US govt deal, Lilly share gains), patent cliffs 2026 ex-US / 2032 US. Buy threshold tightened to ~180 DKK, currently 'right at the hold threshold', sell zone from 400 DKK. First NVO call on record.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T19:58:26.932338+00:00",
+   "video_title": "Novo Nordisk Stock After the Crash: Time to Buy?"
+  }
+ ]
+}
