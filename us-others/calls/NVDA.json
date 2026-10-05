@@ -3,6 +3,19 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "Zrbf8mXwsG4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Second-cheapest infra name at 0.48x PEG; 73% expected revenue growth tops AMD/AVGO; 66% EBIT margin vs AMD's 23% shows pricing power — 'now is the time you start buying Nvidia'.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "analyzed_at": "2026-10-05T03:58:02.949500+00:00",
+   "stated_price": "no stated price; 0.48x PEG, 73% expected rev growth"
+  },
+  {
    "video_id": "jAtRNbIWaOw",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -26,8 +39,12 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
+  },
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 1
   }
  ]
 }
