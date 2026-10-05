@@ -1,0 +1,24 @@
+{
+ "ticker": "CRWD",
+ "slug": "CRWD",
+ "calls": [
+  {
+   "video_id": "Zrbf8mXwsG4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "CRWD",
+   "direction": "HOLD",
+   "thesis": "Owns it (up 137%); 7.3x PEG too expensive to add, but holding — Falcon platform dominates its segment.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "analyzed_at": "2026-10-05T03:58:02.949500+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
