@@ -1,0 +1,35 @@
+{
+ "video_id": "MGQuMM1AgQM",
+ "title": "The Best AI Buying Opportunity I've Seen in Months Is Hiding Here",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-05T18:58:26.932338+00:00",
+ "summary": "Couch Investor makes the case that Broadcom (AVGO) is the best AI risk-reward name he has seen in months. He has opened a $15,000 position at roughly $360 and plans to increase it, arguing a $1.7T market cap should not scare investors away when the valuation is mispriced: 46x trailing PE but 20.8x forward earnings with a 0.5 PEG. His DCF — base 50%, bull 30%, bear 20% — lands at a probability-weighted $527, about 46% above the current price. The core argument is management's own guidance: AI revenue doubling to $115B in fiscal 27 and again to $230B in fiscal 28, which he treats as a floor, with analyst estimates he considers too low. He walks through the margin profile (all improving), the two revenue segments ($20.8B semiconductor solutions, $8.75B infrastructure software last quarter), and the Anthropic financing headline — Broadcom backstopping up to $42B of bank-funded chip leases, with Anthropic becoming one of its biggest customers. Key risks flagged: customer concentration (OpenAI, Anthropic, Google among 8 named/unnamed hyperscalers) and the stock trading under its 50-day moving average. Also discussed: he is increasing his Nvidia position beyond 7 shares, believes AMD has 'a lot of tailwinds ahead' but is pricier than AVGO, and shows analyst revenue-per-megawatt forecasts for CoreWeave and Nebius as modeling context. Calls: AVGO BUY @ ~$360 (reiterated), NVDA BUY (adding, reiterated).",
+ "calls": [
+  {
+   "video_id": "MGQuMM1AgQM",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": 360.0,
+   "thesis": "Opened a $15,000 position and plans to add; calls AVGO the best risk-reward AI name for the next ~3 years. DCF probability-weighted fair value $527 (+46% upside): 20.8x forward PE, PEG 0.5, AI revenue guided to $115B FY27 doubling to $230B FY28. Risks flagged: trading under 50-day MA; customer concentration (Anthropic/OpenAI/Google) and the $42B Anthropic chip-lease backstop.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T18:58:26.932338+00:00",
+   "video_title": "The Best AI Buying Opportunity I've Seen in Months Is Hiding Here"
+  },
+  {
+   "video_id": "MGQuMM1AgQM",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Increasing his position beyond the prior 7 shares; NVDA still growing much faster than 90% of the sector and 'still a very, very good name to own' alongside Broadcom. Prior BUY (Oct 4), no flip.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T18:58:26.932338+00:00",
+   "video_title": "The Best AI Buying Opportunity I've Seen in Months Is Hiding Here"
+  }
+ ]
+}
