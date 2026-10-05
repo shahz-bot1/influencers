@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T03:59:11.021061+00:00",
+ "updated": "2026-10-05T03:58:42.452094+00:00",
  "tickers": [
   {
    "ticker": "ABNB",
@@ -138,6 +138,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "AVGO",
+   "slug": "AVGO",
+   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "BAC",
    "slug": "BAC",
    "lastDate": "2026-09-30T15:55:34.672871+00:00",
@@ -153,6 +170,23 @@
    ],
    "lastStated": "",
    "nCalls": 2
+  },
+  {
+   "ticker": "BE",
+   "slug": "BE",
+   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "BEKE",
@@ -359,6 +393,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "CRWD",
+   "slug": "CRWD",
+   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "CRWV",
    "slug": "CRWV",
    "lastDate": "2026-09-30T03:57:13.629546+00:00",
@@ -405,6 +456,23 @@
    "chips": [
     {
      "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "FTNT",
+   "slug": "FTNT",
+   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
      "n": 1,
      "avg": null
     }
@@ -683,6 +751,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "NOW",
+   "slug": "NOW",
+   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "NTES",
    "slug": "NTES",
    "lastDate": "2026-09-30T16:55:34.672871+00:00",
@@ -702,19 +787,20 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-10-04T03:58:03.785081+00:00",
+   "lastDate": "2026-10-05T03:58:02.949500+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": null
     }
    ],
    "influencers": [
+    "Joseph Hogue, CFA",
     "Jose Najarro Stocks"
    ],
    "lastStated": "",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "NVDY",
@@ -736,7 +822,7 @@
   {
    "ticker": "ORCL",
    "slug": "ORCL",
-   "lastDate": "2026-09-30T03:57:13.629546+00:00",
+   "lastDate": "2026-10-05T03:58:02.949500+00:00",
    "chips": [
     {
      "dir": "SELL",
@@ -746,15 +832,32 @@
     {
      "dir": "AVOID",
      "n": 1,
-     "avg": "$6.5"
+     "avg": null
     }
    ],
    "influencers": [
-    "Asymmetric Investing",
-    "Joseph Hogue, CFA"
+    "Joseph Hogue, CFA",
+    "Asymmetric Investing"
    ],
    "lastStated": "-6.5% on the week / -53% since May",
-   "nCalls": 2
+   "nCalls": 3
+  },
+  {
+   "ticker": "PANW",
+   "slug": "PANW",
+   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "PGR",
@@ -797,6 +900,23 @@
    "chips": [
     {
      "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "PLTR",
+   "slug": "PLTR",
+   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
      "n": 1,
      "avg": null
     }
@@ -1067,6 +1187,23 @@
    ],
    "lastStated": "",
    "nCalls": 2
+  },
+  {
+   "ticker": "ZS",
+   "slug": "ZS",
+   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   }
  ],
  "influencers": [
@@ -1109,8 +1246,8 @@
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 42,
-   "nVideos": 4
+   "nCalls": 52,
+   "nVideos": 5
   },
   {
    "name": "Patient Investor",
@@ -1142,6 +1279,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "Zrbf8mXwsG4",
+   "title": "I Rank the 7 Best Stocks to Buy Right Now October 2026",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-10-04T16:55:34.596981+00:00",
+   "nCalls": 10
+  },
   {
    "id": "jAtRNbIWaOw",
    "title": "NVIDIA Just Changed the AI Market AGAIN — Here's What Comes Next",
