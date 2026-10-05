@@ -3,6 +3,32 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "lDJ3befNmS8",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": 67.0,
+   "thesis": "Bought another $2,000 (already an $88k position, 6% of portfolio). Stock $67, down ~50% from $122 highs; 18.5x forward PE; revenue growing 10%+ in every region; organic EPS growth 24% (reported 5.8% incl. one-time WBD payout); $11B TTM free cash flow. WBD-Paramount merger's $80-90B debt mountain forces content licensing onto Netflix (Disney already doing the same). FLIP: was HOLD (Oct 2), now BUY.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T20:58:26.932338+00:00",
+   "video_title": "Three Turn-Around Stocks I'm Buying Today"
+  },
+  {
+   "video_id": "25pD3BJgsy8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": 67.0,
+   "thesis": "Fair value 'over $' (caption garbled) vs $67 near 52-week low; one of most undervalued in his view; largest allocation in his portfolio.",
+   "analyzed_at": "2026-10-05T14:01:12.650750+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T11:56:12.550380+00:00",
+   "video_title": "The 9 Best Stocks to Buy Right Now in October (2026)"
+  },
+  {
    "video_id": "DuKtkqkhR_c",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -66,12 +92,16 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 2
   }
  ]
 }
