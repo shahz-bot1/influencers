@@ -3,6 +3,19 @@
  "slug": "ADBE",
  "calls": [
   {
+   "video_id": "25pD3BJgsy8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "ADBE",
+   "direction": "BUY",
+   "price_at_call": 238.0,
+   "thesis": "DCF fair value $339; high switching costs vs AI competition; owns it.",
+   "analyzed_at": "2026-10-05T14:01:12.650750+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T11:56:12.550380+00:00",
+   "video_title": "The 9 Best Stocks to Buy Right Now in October (2026)"
+  },
+  {
    "video_id": "D-P5ryvcIAA",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -21,8 +34,12 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
   }
  ]
 }
