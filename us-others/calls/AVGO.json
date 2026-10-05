@@ -1,0 +1,25 @@
+{
+ "ticker": "AVGO",
+ "slug": "AVGO",
+ "calls": [
+  {
+   "video_id": "Zrbf8mXwsG4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "thesis": "Among the most products going into a data center; core AI-buildout/AI-infrastructure theme; competes with MRVL in accelerator chips — 'pick up shares here'.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "analyzed_at": "2026-10-05T03:58:02.949500+00:00",
+   "stated_price": "no stated price; ~50% expected rev growth"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
