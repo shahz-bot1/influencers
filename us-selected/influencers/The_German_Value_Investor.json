@@ -4,6 +4,14 @@
  "slug": "The_German_Value_Investor",
  "calls": [
   {
+   "ticker": "NVO",
+   "tickerSlug": "NVO",
+   "direction": "HOLD",
+   "date": "2026-10-05T19:58:26.932338+00:00",
+   "price": 34.0,
+   "video_id": "cIqFhqpTL0g"
+  },
+  {
    "ticker": "LULU",
    "tickerSlug": "LULU",
    "direction": "HOLD",
