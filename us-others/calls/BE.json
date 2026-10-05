@@ -1,0 +1,25 @@
+{
+ "ticker": "BE",
+ "slug": "BE",
+ "calls": [
+  {
+   "video_id": "Zrbf8mXwsG4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BE",
+   "direction": "BUY",
+   "thesis": "0.44x PEG (GAAP basis) despite 66% expected revenue growth (after 90% last year); best at colocating power generation at data centers (as fast as 90 days) — 'definitely be picking up more shares' as AI buildout resumes post-midterms.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "analyzed_at": "2026-10-05T03:58:02.949500+00:00",
+   "stated_price": "no stated price; 0.44x PEG, 66% expected rev growth"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
