@@ -3,6 +3,32 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "lDJ3befNmS8",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": 69.0,
+   "thesis": "Bought $2,000. Stock $69, down 30% YTD from ~$100; 17x forward PE, ~5-6% FCF yield ex-insurance float. Robo-taxi disruption fears overpriced: Uber does 297M weekly rides vs Waymo's 500k (595x) and is growing faster; still profitable and growing in SF where Waymo operates. Prior BUY (Sep 28), no flip.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T20:58:26.932338+00:00",
+   "video_title": "Three Turn-Around Stocks I'm Buying Today"
+  },
+  {
+   "video_id": "25pD3BJgsy8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": 68.0,
+   "thesis": "DCF fair value $113; trading near 52-week low as driverless fears overblown (autonomy <1% of rides); bought, adding more.",
+   "analyzed_at": "2026-10-05T14:01:12.650750+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T11:56:12.550380+00:00",
+   "video_title": "The 9 Best Stocks to Buy Right Now in October (2026)"
+  },
+  {
    "video_id": "41frp-gUMCE",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -50,16 +76,20 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 2
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 4
   }
  ]
 }
