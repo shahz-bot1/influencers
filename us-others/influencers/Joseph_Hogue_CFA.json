@@ -4,6 +4,86 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "NOW",
+   "tickerSlug": "NOW",
+   "direction": "BUY",
+   "date": "2026-10-05T03:58:02.949500+00:00",
+   "price": null,
+   "video_id": "Zrbf8mXwsG4"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-10-05T03:58:02.949500+00:00",
+   "price": null,
+   "video_id": "Zrbf8mXwsG4"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-05T03:58:02.949500+00:00",
+   "price": null,
+   "video_id": "Zrbf8mXwsG4"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-05T03:58:02.949500+00:00",
+   "price": null,
+   "video_id": "Zrbf8mXwsG4"
+  },
+  {
+   "ticker": "ZS",
+   "tickerSlug": "ZS",
+   "direction": "BUY",
+   "date": "2026-10-05T03:58:02.949500+00:00",
+   "price": null,
+   "video_id": "Zrbf8mXwsG4"
+  },
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
+   "direction": "BUY",
+   "date": "2026-10-05T03:58:02.949500+00:00",
+   "price": null,
+   "video_id": "Zrbf8mXwsG4"
+  },
+  {
+   "ticker": "BE",
+   "tickerSlug": "BE",
+   "direction": "BUY",
+   "date": "2026-10-05T03:58:02.949500+00:00",
+   "price": null,
+   "video_id": "Zrbf8mXwsG4"
+  },
+  {
+   "ticker": "PANW",
+   "tickerSlug": "PANW",
+   "direction": "HOLD",
+   "date": "2026-10-05T03:58:02.949500+00:00",
+   "price": null,
+   "video_id": "Zrbf8mXwsG4"
+  },
+  {
+   "ticker": "CRWD",
+   "tickerSlug": "CRWD",
+   "direction": "HOLD",
+   "date": "2026-10-05T03:58:02.949500+00:00",
+   "price": null,
+   "video_id": "Zrbf8mXwsG4"
+  },
+  {
+   "ticker": "ORCL",
+   "tickerSlug": "ORCL",
+   "direction": "AVOID",
+   "date": "2026-10-05T03:58:02.949500+00:00",
+   "price": null,
+   "video_id": "Zrbf8mXwsG4"
+  },
+  {
    "ticker": "GENI",
    "tickerSlug": "GENI",
    "direction": "BUY",
