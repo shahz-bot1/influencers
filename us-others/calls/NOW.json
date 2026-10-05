@@ -1,0 +1,25 @@
+{
+ "ticker": "NOW",
+ "slug": "NOW",
+ "calls": [
+  {
+   "video_id": "Zrbf8mXwsG4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "thesis": "Cheapest software name at 1.3x PEG (non-GAAP fwd); 22% revenue growth last year with ~20% expected; best-positioned for the 'agentic orchestration' theme (middleman between enterprise AI agents and models); still down 26% over the year = real opportunity.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "analyzed_at": "2026-10-05T03:58:02.949500+00:00",
+   "stated_price": "no stated price; 1.3x PEG, 22% rev growth"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
