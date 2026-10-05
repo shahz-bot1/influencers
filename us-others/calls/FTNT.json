@@ -1,0 +1,25 @@
+{
+ "ticker": "FTNT",
+ "slug": "FTNT",
+ "calls": [
+  {
+   "video_id": "Zrbf8mXwsG4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FTNT",
+   "direction": "BUY",
+   "thesis": "Second-cheapest cyber at 3.1x PEG; 15% revenue growth — 'I would be picking up shares of Fortinet and Zscaler' on the broader cybersecurity theme.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "analyzed_at": "2026-10-05T03:58:02.949500+00:00",
+   "stated_price": "no stated price; 3.1x PEG, 15% rev growth"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
