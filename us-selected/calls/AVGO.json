@@ -3,6 +3,19 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "MGQuMM1AgQM",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": 360.0,
+   "thesis": "Opened a $15,000 position and plans to add; calls AVGO the best risk-reward AI name for the next ~3 years. DCF probability-weighted fair value $527 (+46% upside): 20.8x forward PE, PEG 0.5, AI revenue guided to $115B FY27 doubling to $230B FY28. Risks flagged: trading under 50-day MA; customer concentration (Anthropic/OpenAI/Google) and the $42B Anthropic chip-lease backstop.",
+   "analyzed_at": "2026-10-05T22:08:34.494815+00:00",
+   "collab": false,
+   "published_at": "2026-10-05T18:58:26.932338+00:00",
+   "video_title": "The Best AI Buying Opportunity I've Seen in Months Is Hiding Here"
+  },
+  {
    "video_id": "41frp-gUMCE",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -136,20 +149,20 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
