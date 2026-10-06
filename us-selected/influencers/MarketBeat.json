@@ -4,6 +4,70 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "FCX",
+   "tickerSlug": "FCX",
+   "direction": "BUY",
+   "date": "2026-10-06T11:00:10.331747+00:00",
+   "price": null,
+   "video_id": "mkV5w37RI8M"
+  },
+  {
+   "ticker": "SCCO",
+   "tickerSlug": "SCCO",
+   "direction": "BUY",
+   "date": "2026-10-06T11:00:10.331747+00:00",
+   "price": null,
+   "video_id": "mkV5w37RI8M"
+  },
+  {
+   "ticker": "TDW",
+   "tickerSlug": "TDW",
+   "direction": "BUY",
+   "date": "2026-10-06T11:00:10.331747+00:00",
+   "price": null,
+   "video_id": "mkV5w37RI8M"
+  },
+  {
+   "ticker": "RIO",
+   "tickerSlug": "RIO",
+   "direction": "BUY",
+   "date": "2026-10-06T11:00:10.331747+00:00",
+   "price": null,
+   "video_id": "mkV5w37RI8M"
+  },
+  {
+   "ticker": "VLO",
+   "tickerSlug": "VLO",
+   "direction": "HOLD",
+   "date": "2026-10-06T11:00:10.331747+00:00",
+   "price": null,
+   "video_id": "mkV5w37RI8M"
+  },
+  {
+   "ticker": "MPC",
+   "tickerSlug": "MPC",
+   "direction": "HOLD",
+   "date": "2026-10-06T11:00:10.331747+00:00",
+   "price": null,
+   "video_id": "mkV5w37RI8M"
+  },
+  {
+   "ticker": "GLD",
+   "tickerSlug": "GLD",
+   "direction": "BUY",
+   "date": "2026-10-06T11:00:10.331747+00:00",
+   "price": null,
+   "video_id": "mkV5w37RI8M"
+  },
+  {
+   "ticker": "UUP",
+   "tickerSlug": "UUP",
+   "direction": "BUY",
+   "date": "2026-10-06T11:00:10.331747+00:00",
+   "price": null,
+   "video_id": "mkV5w37RI8M"
+  },
+  {
    "ticker": "EME",
    "tickerSlug": "EME",
    "direction": "BUY",
