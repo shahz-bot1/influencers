@@ -4,6 +4,30 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "DKNG",
+   "tickerSlug": "DKNG",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-06T16:00:10.331747+00:00",
+   "price": null,
+   "video_id": "pRlZ2UuMc7M"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-10-06T13:45:42.968067+00:00",
+   "price": null,
+   "video_id": "x_VEI4OnjaU"
+  },
+  {
+   "ticker": "BE",
+   "tickerSlug": "BE",
+   "direction": "HOLD",
+   "date": "2026-10-06T12:55:42.968067+00:00",
+   "price": null,
+   "video_id": "8Py9Cm_qD-A"
+  },
+  {
    "ticker": "AMZN",
    "tickerSlug": "AMZN",
    "direction": "BUY",
