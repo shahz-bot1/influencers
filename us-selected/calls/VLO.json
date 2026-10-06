@@ -1,0 +1,28 @@
+{
+ "ticker": "VLO",
+ "slug": "VLO",
+ "calls": [
+  {
+   "video_id": "mkV5w37RI8M",
+   "channel": "MarketBeat",
+   "video_title": "Dan Ferris: Copper Could Double—and He Says You Have to Own It | SIH",
+   "published_at": "2026-10-06T11:00:10.331747+00:00",
+   "analyzed_at": "2026-10-06T18:05:57.119715+00:00",
+   "ticker": "VLO",
+   "direction": "HOLD",
+   "price": null,
+   "thesis": "Recommended last December, up ~120%+: \"I'm not selling\"; buying here is \"not a terrible idea\" with lower expectations. Crack spreads near records; refiners now ~1x replacement cost.",
+   "bull": "Crack spreads stay elevated; stocks could remain elevated for some time.",
+   "bear": "Not nearly the bet it was 10 months ago; cyclical run-up could retreat.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
