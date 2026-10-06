@@ -4,6 +4,38 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "SCHD",
+   "tickerSlug": "SCHD",
+   "direction": "BUY",
+   "date": "2026-10-06T15:00:10.331747+00:00",
+   "price": null,
+   "video_id": "a26sm048Tzg"
+  },
+  {
+   "ticker": "AIPO",
+   "tickerSlug": "AIPO",
+   "direction": "BUY",
+   "date": "2026-10-06T15:00:10.331747+00:00",
+   "price": null,
+   "video_id": "a26sm048Tzg"
+  },
+  {
+   "ticker": "XLG",
+   "tickerSlug": "XLG",
+   "direction": "BUY",
+   "date": "2026-10-06T15:00:10.331747+00:00",
+   "price": null,
+   "video_id": "a26sm048Tzg"
+  },
+  {
+   "ticker": "XLI",
+   "tickerSlug": "XLI",
+   "direction": "BUY",
+   "date": "2026-10-06T15:00:10.331747+00:00",
+   "price": null,
+   "video_id": "a26sm048Tzg"
+  },
+  {
    "ticker": "AVGO",
    "tickerSlug": "AVGO",
    "direction": "BUY",
