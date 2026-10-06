@@ -3,6 +3,22 @@
  "slug": "BE",
  "calls": [
   {
+   "video_id": "8Py9Cm_qD-A",
+   "channel": "Parkevtate Vosianc CFA",
+   "video_title": "Should Investors Buy Bloom Energy Stock Right Now in October?",
+   "published_at": "2026-10-06T12:55:42.968067+00:00",
+   "analyzed_at": "2026-10-06T13:58:08.176030+00:00",
+   "ticker": "BE",
+   "direction": "HOLD",
+   "price": null,
+   "thesis": "First call on BE: data-center power tailwind driving ~100% 2026 revenue growth with margins inflecting (11.2% TTM op margin, beta 3.1), but DCF fair value sits well below the ~3x-run market price — wants a better entry.",
+   "bull": "Hyperscaler/data-center power demand + electrification tailwinds sustain triple-digit growth.",
+   "bear": "After a 200%+ 2026 run, DCF says it's expensive; beta 3.1 means 3x S&P volatility.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  },
+  {
    "video_id": "0BDw9kwNh4Q",
    "channel": "MarketBeat",
    "title": "Is the Rally Real? 5 Stocks to Buy Now Before Election Day",
@@ -19,8 +35,12 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 1
   }
  ]
 }
