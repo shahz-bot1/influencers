@@ -3,6 +3,22 @@
  "slug": "SCHD",
  "calls": [
   {
+   "video_id": "a26sm048Tzg",
+   "channel": "Mark Roussin CPA",
+   "video_title": "4 ETFs to BUY for the Rest of 2026",
+   "published_at": "2026-10-06T15:00:10.331747+00:00",
+   "analyzed_at": "2026-10-06T18:05:57.119715+00:00",
+   "ticker": "SCHD",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "Quality US dividend ETF (3.2% yield, ~7%/yr growth, ~20% TTM) offsets tech overexposure; ~10% pullback improves valuation. 30% sleeve.",
+   "bull": "Broadening market leadership and valuation-conscious rotation lift quality dividend payers.",
+   "bear": "If mega-cap tech keeps cruising, SCHD lags.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  },
+  {
    "video_id": "8Psvl8j3JmQ",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
