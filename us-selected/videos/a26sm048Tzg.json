@@ -1,0 +1,73 @@
+{
+ "video_id": "a26sm048Tzg",
+ "title": "4 ETFs to BUY for the Rest of 2026",
+ "creator": "Mark Roussin CPA",
+ "published_at": "2026-10-06T15:00:10.331747+00:00",
+ "summary": "Mark Roussin CPA recommends four ETFs to buy for the rest of 2026, framed as portfolio completion around an AI-heavy core. His #1 pick (35% sleeve): XLG — the S&P 500 top-50 mega-cap earnings ETF, a quality mega-cap tilt. SCHD — BUY (reiteration of his Oct 3 BUY): the quality-dividend ETF with ~3.2% yield and ~7%/yr dividend growth, positioned as the offset to tech overexposure. XLI — BUY: industrials after roughly a 10% pullback, which he recently bought himself; a play on physical-economy capex at a 20% sleeve. AIPO — BUY: the Defiance AI & Power Infrastructure ETF, his highest-risk pick at a 15% sleeve, with ~55% industrials exposure including names like Eaton, Quanta, and GE Vernova — a direct AI-infrastructure buildout play. The video is pure ETF positioning (no individual stock calls), pairing dividend quality and industrials with continued mega-cap tech exposure through year-end. Calls: SCHD BUY (reiteration), XLG BUY, XLI BUY, AIPO BUY — all BUY, no flips. No single-stock recommendations; brief mentions of Eaton, Quanta, and GE Vernova are only as AIPO constituents, not calls.",
+ "calls": [
+  {
+   "video_id": "a26sm048Tzg",
+   "channel": "Mark Roussin CPA",
+   "video_title": "4 ETFs to BUY for the Rest of 2026",
+   "published_at": "2026-10-06T15:00:10.331747+00:00",
+   "analyzed_at": "2026-10-06T18:05:57.119715+00:00",
+   "ticker": "SCHD",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "Quality US dividend ETF (3.2% yield, ~7%/yr growth, ~20% TTM) offsets tech overexposure; ~10% pullback improves valuation. 30% sleeve.",
+   "bull": "Broadening market leadership and valuation-conscious rotation lift quality dividend payers.",
+   "bear": "If mega-cap tech keeps cruising, SCHD lags.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  },
+  {
+   "video_id": "a26sm048Tzg",
+   "channel": "Mark Roussin CPA",
+   "video_title": "4 ETFs to BUY for the Rest of 2026",
+   "published_at": "2026-10-06T15:00:10.331747+00:00",
+   "analyzed_at": "2026-10-06T18:05:57.119715+00:00",
+   "ticker": "AIPO",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "Defiance AI & Power Infrastructure ETF: industrials 55% (Eaton, Quanta, GE Vernova), a concentrated play on AI power/grid/data-center capex. Highest-risk pick — sized 15%.",
+   "bull": "Multi-year AI power/infrastructure buildout drives concentrated upside.",
+   "bear": "Volatile, high expense ratio; thesis fails if AI capex stalls.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  },
+  {
+   "video_id": "a26sm048Tzg",
+   "channel": "Mark Roussin CPA",
+   "video_title": "4 ETFs to BUY for the Rest of 2026",
+   "published_at": "2026-10-06T15:00:10.331747+00:00",
+   "analyzed_at": "2026-10-06T18:05:57.119715+00:00",
+   "ticker": "XLG",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "S&P 500 top-50 ETF: deliberate overweight of mega-cap earnings machines (NVDA, AAPL, MSFT, AMZN). His #1 pick — 35% sleeve.",
+   "bull": "Mega-caps keep compounding strongest earnings/cash-flow growth in the market.",
+   "bear": "Concentration risk: ~60% in top positions.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  },
+  {
+   "video_id": "a26sm048Tzg",
+   "channel": "Mark Roussin CPA",
+   "video_title": "4 ETFs to BUY for the Rest of 2026",
+   "published_at": "2026-10-06T15:00:10.331747+00:00",
+   "analyzed_at": "2026-10-06T18:05:57.119715+00:00",
+   "ticker": "XLI",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "Industrial sector ETF after ~10% pullback (recent portfolio purchase): physical-economy capex supporting the AI buildout. 20% sleeve.",
+   "bull": "Resilient capex and earnings growth keep industrials in the rotation.",
+   "bear": "Cyclical: struggles if the economy rolls over.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  }
+ ]
+}
