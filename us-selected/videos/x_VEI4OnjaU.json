@@ -1,0 +1,25 @@
+{
+ "video_id": "x_VEI4OnjaU",
+ "title": "Micron Stock: Buy or Sell? (My Final Verdict) | MU Stock Deep Dive Part 4",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-06T13:45:42.968067+00:00",
+ "summary": "Parkevtate Vosianc delivers his final verdict on Micron after the company reported what he calls fantastic quarterly results, concluding a four-part deep dive. The centerpiece is management guidance: NAND bit shipments growing mid-20% in 2027 and 2028 with the industry supply-constrained in both years, and DRAM growing low-20% with the same constraint — meaning shortages for Micron's core memory and storage products likely persist through 2028 and possibly into 2029, with management unable to see when supply/demand balances. Micron is raising 2027 capex to accelerate space availability for 2028+. Parkevtate argues the capex is strategically calibrated (overbuilding would hand competitors an opening; he likens it to poker bluffing dynamics from his pro-poker past). On valuation, he notes two straight quarters of 80%+ operating margins with the next expected the same, yet the stock trades at just 5.8x forward P/E — about one-fifth of the S&P 500 average — proof the market treats Micron as a cyclical peak-earnings business. His DCF fair value is $1,439 vs ~$1,097 market price. Verdict: MU — BUY, high conviction (a flip from his UNCERTAIN stance on Oct 5). Bull: shortages hold and ASPs stay elevated. Bear: the cycle turns and earnings compress.",
+ "calls": [
+  {
+   "video_id": "x_VEI4OnjaU",
+   "channel": "Parkevtate Vosianc CFA",
+   "video_title": "Micron Stock: Buy or Sell? (My Final Verdict) | MU Stock Deep Dive Part 4",
+   "published_at": "2026-10-06T13:45:42.968067+00:00",
+   "analyzed_at": "2026-10-06T13:58:08.176030+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "Post-earnings verdict: supply/demand imbalance persisting through 2028 (mgt says shortages likely to 2029), priced at 5.8x forward PE like a cyclical at peak cycle — DCF fair value $1,439 vs ~$1.1k market price, still undervalued.",
+   "bull": "Memory shortages persist into 2028-2029, ASPs stay elevated, capex acceleration signals demand visibility.",
+   "bear": "Cycle turns; oversupply returns and earnings compress as the 5.8x multiple implies.",
+   "stance_flip": true,
+   "flip_from": "UNCERTAIN",
+   "alerted": true
+  }
+ ]
+}
