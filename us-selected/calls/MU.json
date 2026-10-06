@@ -3,6 +3,22 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "x_VEI4OnjaU",
+   "channel": "Parkevtate Vosianc CFA",
+   "video_title": "Micron Stock: Buy or Sell? (My Final Verdict) | MU Stock Deep Dive Part 4",
+   "published_at": "2026-10-06T13:45:42.968067+00:00",
+   "analyzed_at": "2026-10-06T13:58:08.176030+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "Post-earnings verdict: supply/demand imbalance persisting through 2028 (mgt says shortages likely to 2029), priced at 5.8x forward PE like a cyclical at peak cycle — DCF fair value $1,439 vs ~$1.1k market price, still undervalued.",
+   "bull": "Memory shortages persist into 2028-2029, ASPs stay elevated, capex acceleration signals demand visibility.",
+   "bear": "Cycle turns; oversupply returns and earnings compress as the 5.8x multiple implies.",
+   "stance_flip": true,
+   "flip_from": "UNCERTAIN",
+   "alerted": true
+  },
+  {
    "video_id": "TMKFZx5xaC8",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -134,15 +150,15 @@
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 1
-  },
-  {
-   "channel": "Couch Investor",
    "idx": 2
   },
   {
+   "channel": "Couch Investor",
+   "idx": 3
+  },
+  {
    "channel": "MarketBeat",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
