@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T22:17:29.738730+00:00",
+ "updated": "2026-10-06T22:06:12.917036+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -73,6 +73,23 @@
     "MarketBeat"
    ],
    "lastStated": "n/a (guest pick)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "AIPO",
+   "slug": "AIPO",
+   "lastDate": "2026-10-06T15:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Mark Roussin CPA"
+   ],
+   "lastStated": "",
    "nCalls": 1
   },
   {
@@ -283,19 +300,25 @@
   {
    "ticker": "BE",
    "slug": "BE",
-   "lastDate": "2026-09-27T00:00:00+00:00",
+   "lastDate": "2026-10-06T12:55:42.968067+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
      "avg": null
+    },
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "MarketBeat"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "CELH",
@@ -527,6 +550,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "DKNG",
+   "slug": "DKNG",
+   "lastDate": "2026-10-06T16:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "DUOL",
    "slug": "DUOL",
    "lastDate": "2026-09-28T18:01:07.968666+00:00",
@@ -614,7 +654,7 @@
   {
    "ticker": "FCX",
    "slug": "FCX",
-   "lastDate": "2026-10-02T23:00:23.042483+00:00",
+   "lastDate": "2026-10-06T11:00:10.331747+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -626,7 +666,7 @@
     "MarketBeat"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "FICO",
@@ -700,6 +740,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "just under $34 (stated)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "GLD",
+   "slug": "GLD",
+   "lastDate": "2026-10-06T11:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
    "nCalls": 1
   },
   {
@@ -1086,6 +1143,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "MPC",
+   "slug": "MPC",
+   "lastDate": "2026-10-06T11:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "MRVL",
    "slug": "MRVL",
    "lastDate": "2026-09-29T05:56:28.042154+00:00",
@@ -1130,12 +1204,12 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-10-02T11:00:45.184344+00:00",
+   "lastDate": "2026-10-06T13:45:42.968067+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$1,430"
+     "avg": null
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -1155,7 +1229,7 @@
     "MarketBeat"
    ],
    "lastStated": "FV ~$1,430 vs market ~$1,165 (caption-garbled figures); FV to be revised higher",
-   "nCalls": 8
+   "nCalls": 9
   },
   {
    "ticker": "NBIS",
@@ -1623,6 +1697,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "RIO",
+   "slug": "RIO",
+   "lastDate": "2026-10-06T11:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "SBUX",
    "slug": "SBUX",
    "lastDate": "2026-09-27T13:56:51.947282+00:00",
@@ -1640,21 +1731,38 @@
    "nCalls": 1
   },
   {
-   "ticker": "SCHD",
-   "slug": "SCHD",
-   "lastDate": "2026-09-23T14:03:55+00:00",
+   "ticker": "SCCO",
+   "slug": "SCCO",
+   "lastDate": "2026-10-06T11:00:10.331747+00:00",
    "chips": [
     {
-     "dir": "HOLD",
+     "dir": "BUY",
      "n": 1,
-     "avg": "$700"
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SCHD",
+   "slug": "SCHD",
+   "lastDate": "2026-10-06T15:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
     }
    ],
    "influencers": [
     "Mark Roussin CPA"
    ],
    "lastStated": "",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "SMH",
@@ -1743,6 +1851,23 @@
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TDW",
+   "slug": "TDW",
+   "lastDate": "2026-10-06T11:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
    ],
    "lastStated": "",
    "nCalls": 1
@@ -1945,6 +2070,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "UUP",
+   "slug": "UUP",
+   "lastDate": "2026-10-06T11:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "V",
    "slug": "V",
    "lastDate": "2026-10-05T11:56:12.550380+00:00",
@@ -1975,6 +2117,23 @@
    ],
    "influencers": [
     "Mark Roussin CPA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "VLO",
+   "slug": "VLO",
+   "lastDate": "2026-10-06T11:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
    ],
    "lastStated": "",
    "nCalls": 1
@@ -2071,6 +2230,40 @@
    "nCalls": 3
   },
   {
+   "ticker": "XLG",
+   "slug": "XLG",
+   "lastDate": "2026-10-06T15:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Mark Roussin CPA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "XLI",
+   "slug": "XLI",
+   "lastDate": "2026-10-06T15:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Mark Roussin CPA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "ZS",
    "slug": "ZS",
    "lastDate": "2026-10-04T15:59:59.567519+00:00",
@@ -2114,22 +2307,22 @@
    "name": "Mark Roussin CPA",
    "handle": "@markroussincpa",
    "slug": "Mark_Roussin_CPA",
-   "nCalls": 27,
-   "nVideos": 8
+   "nCalls": 31,
+   "nVideos": 9
   },
   {
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 33,
-   "nVideos": 13
+   "nCalls": 41,
+   "nVideos": 14
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 68,
-   "nVideos": 48
+   "nCalls": 71,
+   "nVideos": 51
   },
   {
    "name": "The German Value Investor",
@@ -2140,6 +2333,56 @@
   }
  ],
  "videos": [
+  {
+   "id": "pRlZ2UuMc7M",
+   "title": "Why Is DraftKings Stock Crashing, and is it a Buying Opportunity? | DKNG Stock Near 52 Week Low",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-06T16:00:10.331747+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "a26sm048Tzg",
+   "title": "4 ETFs to BUY for the Rest of 2026",
+   "creator": "Mark Roussin CPA",
+   "channels": [
+    "Mark Roussin CPA"
+   ],
+   "published_at": "2026-10-06T15:00:10.331747+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "x_VEI4OnjaU",
+   "title": "Micron Stock: Buy or Sell? (My Final Verdict) | MU Stock Deep Dive Part 4",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-06T13:45:42.968067+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "8Py9Cm_qD-A",
+   "title": "Should Investors Buy Bloom Energy Stock Right Now in October?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-06T12:55:42.968067+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "mkV5w37RI8M",
+   "title": "Dan Ferris: Copper Could Double—and He Says You Have to Own It | SIH",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-06T11:00:10.331747+00:00",
+   "nCalls": 8
+  },
   {
    "id": "lDJ3befNmS8",
    "title": "Three Turn-Around Stocks I'm Buying Today",
