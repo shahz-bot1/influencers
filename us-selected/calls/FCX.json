@@ -3,6 +3,22 @@
  "slug": "FCX",
  "calls": [
   {
+   "video_id": "mkV5w37RI8M",
+   "channel": "MarketBeat",
+   "video_title": "Dan Ferris: Copper Could Double—and He Says You Have to Own It | SIH",
+   "published_at": "2026-10-06T11:00:10.331747+00:00",
+   "analyzed_at": "2026-10-06T18:05:57.119715+00:00",
+   "ticker": "FCX",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "Large profitable dividend-paying copper producer; \"you have to own copper\" over the next ~5 years (copper near $7/lb; price has to rise to fund $250B of needed supply investment). Reiteration of Oct 3 BUY.",
+   "bull": "Copper could double by early 2027; Freeport has massive reserve leverage.",
+   "bear": "Could retest $4-5/lb first; requires tolerance for drawdowns.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  },
+  {
    "video_id": "oEXzLq-q5cY",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
