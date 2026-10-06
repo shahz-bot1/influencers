@@ -1,0 +1,25 @@
+{
+ "video_id": "8Py9Cm_qD-A",
+ "title": "Should Investors Buy Bloom Energy Stock Right Now in October?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-06T12:55:42.968067+00:00",
+ "summary": "Parkevtate Vosianc gives his first-ever call on Bloom Energy, a fuel-cell power company riding the AI data-center buildout. The business case: explosive demand for power to fuel data centers, plus longer-run drivers — vehicle electrification, home electrification, robots, and driverless cars — all requiring significant new power generation, and Bloom is well positioned. The numbers are strong: ~100% 2026 revenue growth and operating margins inflecting positive (11.2% TTM). But the 200%+ 2026 stock run is the problem: on forward P/E the stock actually looks cheap, yet his DCF fair value sits well below the market price, so he can't justify entering at current levels. He also flags risk: beta of 3.1, among the riskiest of everything he covers — the stock typically moves more than 3% for every 1% move in the S&P 500. Verdict: BE — HOLD, low conviction, and he cautions he could change the rating in the very near term if the dynamic situation shifts. This is a HOLD-without-ownership: he likes the business but wants a better valuation. Bull: hyperscaler power demand sustains the growth. Bear: expensive on DCF, 3x market volatility. No other tickers discussed. (He also briefly promotes his new book on his six-step investing framework.)",
+ "calls": [
+  {
+   "video_id": "8Py9Cm_qD-A",
+   "channel": "Parkevtate Vosianc CFA",
+   "video_title": "Should Investors Buy Bloom Energy Stock Right Now in October?",
+   "published_at": "2026-10-06T12:55:42.968067+00:00",
+   "analyzed_at": "2026-10-06T13:58:08.176030+00:00",
+   "ticker": "BE",
+   "direction": "HOLD",
+   "price": null,
+   "thesis": "First call on BE: data-center power tailwind driving ~100% 2026 revenue growth with margins inflecting (11.2% TTM op margin, beta 3.1), but DCF fair value sits well below the ~3x-run market price — wants a better entry.",
+   "bull": "Hyperscaler/data-center power demand + electrification tailwinds sustain triple-digit growth.",
+   "bear": "After a 200%+ 2026 run, DCF says it's expensive; beta 3.1 means 3x S&P volatility.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  }
+ ]
+}
