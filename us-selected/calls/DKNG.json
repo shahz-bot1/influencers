@@ -1,0 +1,28 @@
+{
+ "ticker": "DKNG",
+ "slug": "DKNG",
+ "calls": [
+  {
+   "video_id": "pRlZ2UuMc7M",
+   "channel": "Parkevtate Vosianc CFA",
+   "video_title": "Why Is DraftKings Stock Crashing, and is it a Buying Opportunity? | DKNG Stock Near 52 Week Low",
+   "published_at": "2026-10-06T16:00:10.331747+00:00",
+   "analyzed_at": "2026-10-06T18:05:57.119715+00:00",
+   "ticker": "DKNG",
+   "direction": "CONDITIONAL_BUY",
+   "price": "$18.59 (~52wk low $18.52)",
+   "thesis": "Prediction markets flipped from headwind to growth driver (1M+ customers, millions expected by end of NFL season); wins in either regulatory outcome; forward P/E 11; DCF still attractive after raising beta for elevated risk. High-risk-tolerance investors only.",
+   "bull": "Prediction-market customer growth returns DraftKings to its growth trajectory.",
+   "bear": "Fiercest-ever competition, marketing spend pulled forward into 2026, regulatory uncertainty.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
