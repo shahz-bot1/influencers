@@ -1,0 +1,28 @@
+{
+ "ticker": "AIPO",
+ "slug": "AIPO",
+ "calls": [
+  {
+   "video_id": "a26sm048Tzg",
+   "channel": "Mark Roussin CPA",
+   "video_title": "4 ETFs to BUY for the Rest of 2026",
+   "published_at": "2026-10-06T15:00:10.331747+00:00",
+   "analyzed_at": "2026-10-06T18:05:57.119715+00:00",
+   "ticker": "AIPO",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "Defiance AI & Power Infrastructure ETF: industrials 55% (Eaton, Quanta, GE Vernova), a concentrated play on AI power/grid/data-center capex. Highest-risk pick — sized 15%.",
+   "bull": "Multi-year AI power/infrastructure buildout drives concentrated upside.",
+   "bear": "Volatile, high expense ratio; thesis fails if AI capex stalls.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
