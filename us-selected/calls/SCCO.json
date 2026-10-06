@@ -1,0 +1,28 @@
+{
+ "ticker": "SCCO",
+ "slug": "SCCO",
+ "calls": [
+  {
+   "video_id": "mkV5w37RI8M",
+   "channel": "MarketBeat",
+   "video_title": "Dan Ferris: Copper Could Double—and He Says You Have to Own It | SIH",
+   "published_at": "2026-10-06T11:00:10.331747+00:00",
+   "analyzed_at": "2026-10-06T18:05:57.119715+00:00",
+   "ticker": "SCCO",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "Largest proven copper reserves in the world — \"a good conservative bet\" for longer-horizon commodity exposure in a retirement-style portfolio.",
+   "bull": "Reserve leverage means copper price gains flow straight through without new capex.",
+   "bear": "Small-cap explorers offer more upside but he advises against them for most investors.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
