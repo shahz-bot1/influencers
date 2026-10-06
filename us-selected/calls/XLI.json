@@ -1,0 +1,28 @@
+{
+ "ticker": "XLI",
+ "slug": "XLI",
+ "calls": [
+  {
+   "video_id": "a26sm048Tzg",
+   "channel": "Mark Roussin CPA",
+   "video_title": "4 ETFs to BUY for the Rest of 2026",
+   "published_at": "2026-10-06T15:00:10.331747+00:00",
+   "analyzed_at": "2026-10-06T18:05:57.119715+00:00",
+   "ticker": "XLI",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "Industrial sector ETF after ~10% pullback (recent portfolio purchase): physical-economy capex supporting the AI buildout. 20% sleeve.",
+   "bull": "Resilient capex and earnings growth keep industrials in the rotation.",
+   "bear": "Cyclical: struggles if the economy rolls over.",
+   "stance_flip": false,
+   "flip_from": null,
+   "alerted": true
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
