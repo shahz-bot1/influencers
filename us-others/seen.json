@@ -67,10 +67,10 @@
  "Of4_80Z_cvY": {
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio: October Stock Buys",
-  "published_at": "2026-10-02T03:55:34.596981+00:00",
-  "analyzed_at": "2026-10-05T03:58:02.949500+00:00",
+  "published_at": "2026-10-02T04:00:40.826176+00:00",
+  "analyzed_at": "2026-10-07T04:05:00+00:00",
   "alerted": false,
-  "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
+  "skipped": "members-only (Billionaire tier)"
  },
  "cduwJEIVyKs": {
   "channel": "Asymmetric Investing",
@@ -111,6 +111,13 @@
   "title": "I Rank the 7 Best Stocks to Buy Right Now October 2026",
   "published_at": "2026-10-04T16:55:34.596981+00:00",
   "analyzed_at": "2026-10-05T03:58:02.949500+00:00",
+  "alerted": true
+ },
+ "951xEYynOGo": {
+  "channel": "Jose Najarro Stocks",
+  "title": "The AI Stock Investors Just Got Another MASSIVE Bull Signal!!",
+  "published_at": "2026-10-06T23:00:40.826176+00:00",
+  "analyzed_at": "2026-10-07T04:05:00+00:00",
   "alerted": true
  }
 }
