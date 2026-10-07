@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "JOBY",
+   "tickerSlug": "JOBY",
+   "direction": "BUY",
+   "date": "2026-10-07T05:56:37.005034+00:00",
+   "price": null,
+   "video_id": "1Xudf_oPtJ0"
+  },
+  {
+   "ticker": "CASY",
+   "tickerSlug": "CASY",
+   "direction": "BUY",
+   "date": "2026-10-07T05:56:37.005034+00:00",
+   "price": null,
+   "video_id": "1Xudf_oPtJ0"
+  },
+  {
+   "ticker": "LLY",
+   "tickerSlug": "LLY",
+   "direction": "BUY",
+   "date": "2026-10-07T05:56:37.005034+00:00",
+   "price": null,
+   "video_id": "1Xudf_oPtJ0"
+  },
+  {
    "ticker": "FCX",
    "tickerSlug": "FCX",
    "direction": "BUY",
