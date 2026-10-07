@@ -3,6 +3,19 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "951xEYynOGo",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "thesis": "Lisa Su's Taipei comments (expanding CPU/GPU production, wafer capacity for several years of demand) add another 'brick' to his bullish thesis house; market wants constant confirmation and got it.",
+   "base": "Server CPU revenue expected to grow >70% in 2027; total data center revenue expected to more than double.",
+   "bull": "Server CPU TAM grew from $60B (Nov 2025) to $220B; MI450/Halos ramp with capacity build.",
+   "bear": "None stated in this video beyond general long-dated-guidance caution.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-07T04:05:00+00:00"
+  },
+  {
    "video_id": "7Lm8O0CuvLs",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
