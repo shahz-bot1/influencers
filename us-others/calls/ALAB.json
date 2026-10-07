@@ -1,0 +1,25 @@
+{
+ "ticker": "ALAB",
+ "slug": "ALAB",
+ "calls": [
+  {
+   "video_id": "951xEYynOGo",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "ALAB",
+   "direction": "BUY",
+   "thesis": "Part of his 'ETF approach' trio; scale-up/scale-out networking demand confirmed by Marvell's raised outlook; stock up ~8% on the day.",
+   "base": "Networking/connectivity is the shared driver behind both Marvell raises.",
+   "bull": "Others in optics/scale-up-scale-out could benefit too.",
+   "bear": null,
+   "stated_price": null,
+   "analyzed_at": "2026-10-07T04:05:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 0
+  }
+ ]
+}
