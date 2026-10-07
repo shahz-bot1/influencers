@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T03:59:22.106433+00:00",
+ "updated": "2026-10-07T04:39:00.146850+00:00",
  "tickers": [
   {
    "ticker": "ABNB",
@@ -31,6 +31,23 @@
    ],
    "influencers": [
     "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "ALAB",
+   "slug": "ALAB",
+   "lastDate": "2026-10-07T04:05:00+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Jose Najarro Stocks"
    ],
    "lastStated": "",
    "nCalls": 1
@@ -72,19 +89,19 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-09-29T03:56:43.894526+00:00",
+   "lastDate": "2026-10-07T04:05:00+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$67"
+     "avg": null
     }
    ],
    "influencers": [
     "Jose Najarro Stocks"
    ],
    "lastStated": "~$67 (auto-captions garble this line; price approximate)",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "AMDY",
@@ -140,19 +157,20 @@
   {
    "ticker": "AVGO",
    "slug": "AVGO",
-   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "lastDate": "2026-10-07T04:05:00+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": null
     }
    ],
    "influencers": [
+    "Jose Najarro Stocks",
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "BAC",
@@ -388,6 +406,23 @@
    ],
    "influencers": [
     "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CRDO",
+   "slug": "CRDO",
+   "lastDate": "2026-10-07T04:05:00+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Jose Najarro Stocks"
    ],
    "lastStated": "",
    "nCalls": 1
@@ -692,6 +727,23 @@
    ],
    "lastStated": "",
    "nCalls": 2
+  },
+  {
+   "ticker": "MRVL",
+   "slug": "MRVL",
+   "lastDate": "2026-10-07T04:05:00+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Jose Najarro Stocks"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "MTCH",
@@ -1239,8 +1291,8 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 5,
-   "nVideos": 3
+   "nCalls": 10,
+   "nVideos": 4
   },
   {
    "name": "Joseph Hogue, CFA",
@@ -1279,6 +1331,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "951xEYynOGo",
+   "title": "The AI Stock Investors Just Got Another MASSIVE Bull Signal!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-06T23:00:40.826176+00:00",
+   "nCalls": 5
+  },
   {
    "id": "Zrbf8mXwsG4",
    "title": "I Rank the 7 Best Stocks to Buy Right Now October 2026",
