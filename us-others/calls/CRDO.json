@@ -1,0 +1,25 @@
+{
+ "ticker": "CRDO",
+ "slug": "CRDO",
+ "calls": [
+  {
+   "video_id": "951xEYynOGo",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRDO",
+   "direction": "BUY",
+   "thesis": "Part of his 'ETF approach' trio (MRVL/CRDO/ALAB); the drop into the $150s-$160s was a buying opportunity; Marvell's networking raise confirms the scale-up/scale-out demand thesis.",
+   "base": "Marvell's latest $2B raise and August raise both driven by the same connectivity/networking business Credo benefits from; stock up ~4% on the day.",
+   "bull": "He says these dips in networking/optics names are 'massive opportunities'.",
+   "bear": null,
+   "stated_price": "dip into $150s-$160s was the buy zone",
+   "analyzed_at": "2026-10-07T04:05:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 0
+  }
+ ]
+}
