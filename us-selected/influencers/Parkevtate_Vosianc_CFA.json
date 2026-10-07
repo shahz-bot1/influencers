@@ -4,6 +4,30 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-10-07T22:00:26.736189+00:00",
+   "price": "~$484 (stated market price)",
+   "video_id": "4exaXv3rWiA"
+  },
+  {
+   "ticker": "MSFT",
+   "tickerSlug": "MSFT",
+   "direction": "HOLD",
+   "date": "2026-10-07T18:01:52.469534+00:00",
+   "price": "~$525",
+   "video_id": "8he7DPaNNX4"
+  },
+  {
+   "ticker": "CCL",
+   "tickerSlug": "CCL",
+   "direction": "BUY",
+   "date": "2026-10-07T05:56:37.005034+00:00",
+   "price": 26.0,
+   "video_id": "oz5PKccN5Gw"
+  },
+  {
    "ticker": "DKNG",
    "tickerSlug": "DKNG",
    "direction": "CONDITIONAL_BUY",
