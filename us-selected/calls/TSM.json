@@ -3,6 +3,19 @@
  "slug": "TSM",
  "calls": [
   {
+   "video_id": "4exaXv3rWiA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price_at_call": "~$484 (stated market price)",
+   "thesis": "Reiterates BUY: TSMC is \"the best manufacturing company in the world, period\" — sold-out capacity, record 34% ROIC, 55.8% trailing operating margins (57% forecast next quarter), Q3 revenue expected +37% YoY. SpaceX/Tesla Terrafab fab talks (Musk confirmed on X Oct 3) are pure upside not in his numbers. DCF fair value $670 vs ~$484.",
+   "base_case": "DCF fair value $670 (~38% upside); forward PE ~22 looks attractive given how much the business has improved.",
+   "bull_case": "Terrafab deal lands — TSMC builds/operates a new fab with SpaceX/Tesla committing to buy output; adds to Apple/Nvidia/AMD customer base; full utilization keeps margins expanding.",
+   "bear_case": "Geographic diversification is less profitable (US/Japan/Europe fabs cost more than Taiwan); management warns long-term margins will compress; Intel could win the Terrafab deal as the US-based option.",
+   "analyzed_at": "2026-10-07T22:00:26.736189+00:00"
+  },
+  {
    "video_id": "8pOD-5dG1KM",
    "channel": "Parkevtate Vosianc CFA",
    "ticker": "TSM",
