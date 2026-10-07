@@ -4,6 +4,46 @@
  "slug": "Jose_Najarro_Stocks",
  "calls": [
   {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "BUY",
+   "date": "2026-10-07T04:05:00+00:00",
+   "price": null,
+   "video_id": "951xEYynOGo"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-10-07T04:05:00+00:00",
+   "price": null,
+   "video_id": "951xEYynOGo"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-07T04:05:00+00:00",
+   "price": null,
+   "video_id": "951xEYynOGo"
+  },
+  {
+   "ticker": "CRDO",
+   "tickerSlug": "CRDO",
+   "direction": "BUY",
+   "date": "2026-10-07T04:05:00+00:00",
+   "price": null,
+   "video_id": "951xEYynOGo"
+  },
+  {
+   "ticker": "ALAB",
+   "tickerSlug": "ALAB",
+   "direction": "BUY",
+   "date": "2026-10-07T04:05:00+00:00",
+   "price": null,
+   "video_id": "951xEYynOGo"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
