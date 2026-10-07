@@ -1,0 +1,25 @@
+{
+ "ticker": "CCL",
+ "slug": "CCL",
+ "calls": [
+  {
+   "video_id": "oz5PKccN5Gw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "CCL",
+   "direction": "BUY",
+   "price_at_call": 26.0,
+   "thesis": "Reiterated buying opportunity after Q3 beat on yields/EBITDA/NI/EPS and raised full-year profit expectations; 2027 half-booked, 2028 strong; $1.2B buybacks YTD, $5B+ of high-rate debt repaid. Fair value $43 vs $26 market price.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-10-07T05:56:37.005034+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
