@@ -3,6 +3,19 @@
  "slug": "LLY",
  "calls": [
   {
+   "video_id": "1Xudf_oPtJ0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "LLY",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Whitney Tilson (Stansberry): Eli Lilly at ~28x forward earnings (below recent years), earnings exploding ~70% YoY; retatrutide (29% avg weight loss) phase 3 could dominate; GLP-1 TAM expanding beyond weight loss/diabetes.",
+   "base_case": null,
+   "bull_case": "Nvidia-style run: $1T to multi-trillion if GLP-1s become near-universal.",
+   "bear_case": "~40x trailing earnings prices in a lot; regulatory/pricing pressure on GLP-1s.",
+   "analyzed_at": "2026-10-07T05:56:37.005034+00:00"
+  },
+  {
    "video_id": "Gw2IlH5msQE",
    "channel": "Parkevtate Vosianc CFA",
    "title": "3 Undervalued Healthcare Stocks Invstors Can Buy Right Now",
@@ -32,8 +45,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
