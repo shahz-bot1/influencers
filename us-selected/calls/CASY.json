@@ -1,0 +1,25 @@
+{
+ "ticker": "CASY",
+ "slug": "CASY",
+ "calls": [
+  {
+   "video_id": "1Xudf_oPtJ0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "CASY",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Whitney Tilson (Stansberry): Casey's General Stores down 34% in 2 months to 26x forward earnings (was 35x); pullback from guidance miss not thesis-breaking; 3,000 Midwestern c-stores, huge expansion runway, Walmart-in-1988 analogue.",
+   "base_case": null,
+   "bull_case": "Double-digit earnings growth for 10+ years makes 26x a bargain; could nearly double footprint on Texas small towns alone.",
+   "bear_case": "Premium multiple still needs flawless execution; higher fuel prices squeeze inside-store (high-margin) spend.",
+   "analyzed_at": "2026-10-07T05:56:37.005034+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
