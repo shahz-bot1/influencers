@@ -1,0 +1,22 @@
+{
+ "video_id": "4exaXv3rWiA",
+ "title": "Elon Musk Delivered Massive News for Taiwan Semiconductor Stock Investors",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-07T20:58:12.941055+00:00",
+ "summary": "Parkevtate Vosianc CFA revisits Taiwan Semiconductor after Elon Musk confirmed on X (Saturday Oct 3) that SpaceX and Tesla are in discussions with TSMC over the Terrafab manufacturing facilities — a blow to Intel, which had been positioned as the likely sole provider. Per a Motley Fool article he cites, two structures are possible: TSMC builds and runs a new fab with SpaceX/Tesla investing and committing to buy output, or SpaceX takes the majority stake while TSMC contributes technology and operating know-how. Either way, it's TSMC's proprietary manufacturing skill Musk is after. He restates that TSMC is \"the best manufacturing company in the world, period,\" noting Intel's appeal was being US-based with spare capacity, while TSMC is sold out with more customers than it can serve. Financially: record 34% ROIC, trailing operating margins of 55.8–56% (57% forecast next quarter), Q3 revenue expected +37% YoY. Long-term margin pressure from less-profitable US/Japan/Europe fabs is known, but elevated utilization keeps beating management's warnings. He also compares TSMC with Micron: Micron likely wins near-term (12–24 months), TSMC over a 15-year horizon. Calls: TSM — BUY (reiteration) — DCF fair value $670 vs ~$484 market price, forward PE ~22; none of the Terrafab upside is in his numbers. No explicit Intel call; SpaceX/Tesla discussed only as potential partners.",
+ "calls": [
+  {
+   "video_id": "4exaXv3rWiA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price_at_call": "~$484 (stated market price)",
+   "thesis": "Reiterates BUY: TSMC is \"the best manufacturing company in the world, period\" — sold-out capacity, record 34% ROIC, 55.8% trailing operating margins (57% forecast next quarter), Q3 revenue expected +37% YoY. SpaceX/Tesla Terrafab fab talks (Musk confirmed on X Oct 3) are pure upside not in his numbers. DCF fair value $670 vs ~$484.",
+   "base_case": "DCF fair value $670 (~38% upside); forward PE ~22 looks attractive given how much the business has improved.",
+   "bull_case": "Terrafab deal lands — TSMC builds/operates a new fab with SpaceX/Tesla committing to buy output; adds to Apple/Nvidia/AMD customer base; full utilization keeps margins expanding.",
+   "bear_case": "Geographic diversification is less profitable (US/Japan/Europe fabs cost more than Taiwan); management warns long-term margins will compress; Intel could win the Terrafab deal as the US-based option.",
+   "analyzed_at": "2026-10-07T22:00:26.736189+00:00"
+  }
+ ]
+}
