@@ -1,0 +1,25 @@
+{
+ "ticker": "JOBY",
+ "slug": "JOBY",
+ "calls": [
+  {
+   "video_id": "1Xudf_oPtJ0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "JOBY",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Whitney Tilson (Stansberry Research): speculative — eVTOL leader retraced to $7 (~$6B mkt cap), no revenue/FAA approval yet; unlimited upside, size appropriately. First commercial flights in UAE the catalyst.",
+   "base_case": null,
+   "bull_case": "Buyout for motor/battery tech and engineers by an EV maker or defense contractor if air-taxi story fails.",
+   "bear_case": "No near-term catalyst; FAA approval 1-2+ years out; could run out of runway if delays persist (he argues cash is fine).",
+   "analyzed_at": "2026-10-07T05:56:37.005034+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
