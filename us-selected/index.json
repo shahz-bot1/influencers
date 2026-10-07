@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T22:06:12.917036+00:00",
+ "updated": "2026-10-07T22:08:08.177783+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -319,6 +319,57 @@
    ],
    "lastStated": "",
    "nCalls": 2
+  },
+  {
+   "ticker": "BKNG",
+   "slug": "BKNG",
+   "lastDate": "2026-10-07T09:59:45.041989+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$162"
+    }
+   ],
+   "influencers": [
+    "The German Value Investor"
+   ],
+   "lastStated": "$162 (stated; his buy limit $136)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CASY",
+   "slug": "CASY",
+   "lastDate": "2026-10-07T05:56:37.005034+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CCL",
+   "slug": "CCL",
+   "lastDate": "2026-10-07T05:56:37.005034+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$26"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "26.0",
+   "nCalls": 1
   },
   {
    "ticker": "CELH",
@@ -911,6 +962,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "JOBY",
+   "slug": "JOBY",
+   "lastDate": "2026-10-07T05:56:37.005034+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "LBRT",
    "slug": "LBRT",
    "lastDate": "2026-09-30T22:55:15.965630+00:00",
@@ -948,19 +1016,20 @@
   {
    "ticker": "LLY",
    "slug": "LLY",
-   "lastDate": "2026-09-28T11:55:37.807225+00:00",
+   "lastDate": "2026-10-07T05:56:37.005034+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": null
     }
    ],
    "influencers": [
+    "MarketBeat",
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "$1,151 (his fair value $1,494 — ~30% upside over 12-18 months)",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "LOW",
@@ -1186,20 +1255,20 @@
   {
    "ticker": "MSFT",
    "slug": "MSFT",
-   "lastDate": "2026-10-04T15:59:59.567519+00:00",
+   "lastDate": "2026-10-07T18:01:52.469534+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 2,
-     "avg": null
+     "avg": "$525"
     }
    ],
    "influencers": [
-    "BWB - Business With Brian",
-    "Parkevtate Vosianc CFA"
+    "Parkevtate Vosianc CFA",
+    "BWB - Business With Brian"
    ],
-   "lastStated": "analyst 12-month upside ~18% (stated, not his target)",
-   "nCalls": 4
+   "lastStated": "~$525",
+   "nCalls": 5
   },
   {
    "ticker": "MU",
@@ -1915,19 +1984,19 @@
   {
    "ticker": "TSM",
    "slug": "TSM",
-   "lastDate": "2026-10-01T13:56:45.560695+00:00",
+   "lastDate": "2026-10-07T22:00:26.736189+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$484"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "$445 (stated market price)",
-   "nCalls": 2
+   "lastStated": "~$484 (stated market price)",
+   "nCalls": 3
   },
   {
    "ticker": "TTD",
@@ -2314,25 +2383,35 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 41,
+   "nCalls": 44,
    "nVideos": 14
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 71,
-   "nVideos": 51
+   "nCalls": 74,
+   "nVideos": 52
   },
   {
    "name": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
    "slug": "The_German_Value_Investor",
-   "nCalls": 3,
+   "nCalls": 4,
    "nVideos": 3
   }
  ],
  "videos": [
+  {
+   "id": "4exaXv3rWiA",
+   "title": "Elon Musk Delivered Massive News for Taiwan Semiconductor Stock Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-07T20:58:12.941055+00:00",
+   "nCalls": 1
+  },
   {
    "id": "pRlZ2UuMc7M",
    "title": "Why Is DraftKings Stock Crashing, and is it a Buying Opportunity? | DKNG Stock Near 52 Week Low",
