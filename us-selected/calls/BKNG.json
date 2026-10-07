@@ -1,0 +1,25 @@
+{
+ "ticker": "BKNG",
+ "slug": "BKNG",
+ "calls": [
+  {
+   "video_id": "-bU2yQuUZb4",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "ticker": "BKNG",
+   "direction": "HOLD",
+   "price_at_call": "$162 (stated; his buy limit $136)",
+   "thesis": "Stock -30% on AI-agent booking disruption fears (Meta's 'News' agent + Expedia partnership), but business still superb: ~25% net margins, P/FCF ~14, 5%/yr buybacks; his weighted 3-scenario model rates it HOLD, not buy, at $162.",
+   "base_case": "Normal: 11% EPS growth 5y, fair PE 18 -> fair value $220 (+35%); buy price ~$164.",
+   "bull_case": "Positive scenario: higher growth, fair PE 21 -> expected return >17%/yr.",
+   "bear_case": "Negative (35% weight): AI agents take over, EPS declines 2%/yr -> fair PE 11, ~$42 (-73%).",
+   "analyzed_at": "2026-10-07T09:59:45.041989+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "The German Value Investor",
+   "idx": 0
+  }
+ ]
+}
