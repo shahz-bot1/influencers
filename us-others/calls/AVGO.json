@@ -3,6 +3,19 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "951xEYynOGo",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "thesis": "Bullish read-through from Marvell's investor day: if the non-leading ASIC player sees this demand, the semi-custom leader benefits even more.",
+   "base": "Broadcom is the big semi-custom player; Marvell strength implies stronger demand for the leader.",
+   "bull": "ASIC/custom-silicon demand inflecting; networking upside shared.",
+   "bear": null,
+   "stated_price": null,
+   "analyzed_at": "2026-10-07T04:05:00+00:00"
+  },
+  {
    "video_id": "Zrbf8mXwsG4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -18,8 +31,12 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Jose Najarro Stocks",
    "idx": 0
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 1
   }
  ]
 }
