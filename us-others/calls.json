@@ -1120,5 +1120,70 @@
   "bull": null,
   "bear": null,
   "analyzed_at": "2026-10-05T03:58:02.949500+00:00"
+ },
+ {
+  "video_id": "951xEYynOGo",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "MRVL",
+  "direction": "BUY",
+  "thesis": "Marvell investor day: FY2028 revenue outlook raised to ~$20B, $30 EPS guided for CY2030; at a 30x PE that implies a potential ~$600 stock price.",
+  "base": "FY2028 guide raised $18B->$20B (from $16.5B two quarters prior), driven by networking/scale-up-scale-out; custom silicon FY2029 target >$12B vs $10B+; data-center revenue $18B FY2028, target pulled a year early.",
+  "bull": "FY2031 model $70-90B revenue implying >$30 non-GAAP EPS at midpoint; he argues management is conservative and real numbers could be much higher.",
+  "bear": "Numbers are 4-5 years out ('blurriness'); new technologies/networking solutions could end the thesis; no sure thing in this space.",
+  "stated_price": "~$600 potential (CY2030 model, 30x PE on $30 EPS)",
+  "analyzed_at": "2026-10-07T04:05:00+00:00"
+ },
+ {
+  "video_id": "951xEYynOGo",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "AMD",
+  "direction": "BUY",
+  "thesis": "Lisa Su's Taipei comments (expanding CPU/GPU production, wafer capacity for several years of demand) add another 'brick' to his bullish thesis house; market wants constant confirmation and got it.",
+  "base": "Server CPU revenue expected to grow >70% in 2027; total data center revenue expected to more than double.",
+  "bull": "Server CPU TAM grew from $60B (Nov 2025) to $220B; MI450/Halos ramp with capacity build.",
+  "bear": "None stated in this video beyond general long-dated-guidance caution.",
+  "stated_price": null,
+  "analyzed_at": "2026-10-07T04:05:00+00:00"
+ },
+ {
+  "video_id": "951xEYynOGo",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "AVGO",
+  "direction": "BUY",
+  "thesis": "Bullish read-through from Marvell's investor day: if the non-leading ASIC player sees this demand, the semi-custom leader benefits even more.",
+  "base": "Broadcom is the big semi-custom player; Marvell strength implies stronger demand for the leader.",
+  "bull": "ASIC/custom-silicon demand inflecting; networking upside shared.",
+  "bear": null,
+  "stated_price": null,
+  "analyzed_at": "2026-10-07T04:05:00+00:00"
+ },
+ {
+  "video_id": "951xEYynOGo",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "CRDO",
+  "direction": "BUY",
+  "thesis": "Part of his 'ETF approach' trio (MRVL/CRDO/ALAB); the drop into the $150s-$160s was a buying opportunity; Marvell's networking raise confirms the scale-up/scale-out demand thesis.",
+  "base": "Marvell's latest $2B raise and August raise both driven by the same connectivity/networking business Credo benefits from; stock up ~4% on the day.",
+  "bull": "He says these dips in networking/optics names are 'massive opportunities'.",
+  "bear": null,
+  "stated_price": "dip into $150s-$160s was the buy zone",
+  "analyzed_at": "2026-10-07T04:05:00+00:00"
+ },
+ {
+  "video_id": "951xEYynOGo",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "ALAB",
+  "direction": "BUY",
+  "thesis": "Part of his 'ETF approach' trio; scale-up/scale-out networking demand confirmed by Marvell's raised outlook; stock up ~8% on the day.",
+  "base": "Networking/connectivity is the shared driver behind both Marvell raises.",
+  "bull": "Others in optics/scale-up-scale-out could benefit too.",
+  "bear": null,
+  "stated_price": null,
+  "analyzed_at": "2026-10-07T04:05:00+00:00"
  }
 ]
