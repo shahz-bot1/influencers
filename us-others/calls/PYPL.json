@@ -3,6 +3,19 @@
  "slug": "PYPL",
  "calls": [
   {
+   "video_id": "czgmVfoNao4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PYPL",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (Sep 28): money-movement beneficiary of agentic finance; cheap at 1.4x PEG despite just 4.4% growth.",
+   "base": null,
+   "bull": "Margin expansion as growth stabilizes.",
+   "bear": "Slow growth keeps multiple compressed.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  },
+  {
    "video_id": "jbtxHHpX_u0",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
