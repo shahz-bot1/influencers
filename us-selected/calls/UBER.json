@@ -3,6 +3,19 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "HpcADJa_Mdk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": 69.0,
+   "thesis": "ezCater $2.3B all-cash deal may be a slight overpay (~0.9x gross bookings vs Uber's own ~0.6x), but strategically sound as robotaxi defense; using cash not equity signals management views shares as undervalued; FV $115, still one of the best stocks to buy.",
+   "base_case": "Acquisition near-neutral to slightly positive; FV $115 vs ~$69 price.",
+   "bull_case": "FV $115 implies ~66% upside if delivery scale and AV defense re-rate it.",
+   "bear_case": "If overpay thesis is right, paid above its own multiple for slower-growing bookings.",
+   "analyzed_at": "2026-10-08T14:02:54.863293+00:00"
+  },
+  {
    "video_id": "lDJ3befNmS8",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -76,20 +89,20 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Couch Investor",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
