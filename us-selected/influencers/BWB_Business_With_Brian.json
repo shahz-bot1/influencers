@@ -4,6 +4,38 @@
  "slug": "BWB_Business_With_Brian",
  "calls": [
   {
+   "ticker": "SMH",
+   "tickerSlug": "SMH",
+   "direction": "BUY",
+   "date": "2026-10-08T19:58:13.710928+00:00",
+   "price": "not stated",
+   "video_id": "3ZvWbsE_tFQ"
+  },
+  {
+   "ticker": "VOO",
+   "tickerSlug": "VOO",
+   "direction": "BUY",
+   "date": "2026-10-08T19:58:13.710928+00:00",
+   "price": "not stated",
+   "video_id": "3ZvWbsE_tFQ"
+  },
+  {
+   "ticker": "SCHD",
+   "tickerSlug": "SCHD",
+   "direction": "BUY",
+   "date": "2026-10-08T19:58:13.710928+00:00",
+   "price": "not stated",
+   "video_id": "3ZvWbsE_tFQ"
+  },
+  {
+   "ticker": "TREASURY",
+   "tickerSlug": "TREASURY",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-08T19:58:13.710928+00:00",
+   "price": "yields >5%",
+   "video_id": "3ZvWbsE_tFQ"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
