@@ -1,0 +1,25 @@
+{
+ "ticker": "SOFI",
+ "slug": "SOFI",
+ "calls": [
+  {
+   "video_id": "czgmVfoNao4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "thesis": "32% expected revenue growth at 0.69x PEG - \"a great deal\"; prime winner as AI agents move lazy deposits to 4.5% SoFi Plus accounts.",
+   "base": null,
+   "bull": "Deposit-share wave accelerates as agentic banking goes mainstream.",
+   "bear": "Valuation still 1.85x book; fintech selloff resumes.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
