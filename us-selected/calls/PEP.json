@@ -5,6 +5,20 @@
   {
    "ticker": "PEP",
    "direction": "BUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "OEix-QmVjME",
+   "video_title": "1 Undervalued Dividend Stock You Can Buy and Hold Forever",
+   "published_at": "2026-10-08T16:00:01.192818+00:00",
+   "analyzed_at": "2026-10-08T18:03:38.548238+00:00",
+   "thesis": "BUY reiterated: DCF fair value $178 vs $125 (-40%), cheapest fwd P/E (14x) in years; buy-and-hold-forever quality.",
+   "bull_case": "Tariff refunds lift margins; ROIC 14.5% > WACC; mgmt guides 6-8% revenue growth.",
+   "bear_case": "Near-term: war-driven demand drop + fuel/diesel cost pressure; long-term: healthier-choice shift away from sugary drinks/salty snacks.",
+   "price_at_call": "~$125 (stated)"
+  },
+  {
+   "ticker": "PEP",
+   "direction": "BUY",
    "thesis": "DCF fair value $180 vs $128 (+40% upside in 12-18 months); snacks segment thriving alongside beverages.",
    "price_at_call": "$128 (stated)",
    "bull_case": "Snacks doing as well or better than beverages; 4.5% yield.",
