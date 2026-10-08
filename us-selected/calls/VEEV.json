@@ -1,0 +1,24 @@
+{
+ "ticker": "VEEV",
+ "slug": "VEEV",
+ "calls": [
+  {
+   "video_id": "QoCLjUVDRDU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Pete Carmacito (Chaken Analytics)",
+   "ticker": "VEEV",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Overlooked pharma-software name that 'runs pharmaceutical companies' end to end — sales through R&D — with 'a lot of legs' left; chart is at a turning point like the other three.",
+   "base_case": "Rebounded nicely but still in the 'opportunity zone'; big pharma keeps buying more of its services.",
+   "bull_case": "The cornerstone of medical R&D commercialization; AI in drug research multiplies demand for the secure data platform pharma already depends on."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
