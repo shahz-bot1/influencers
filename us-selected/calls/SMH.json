@@ -3,6 +3,20 @@
  "slug": "SMH",
  "calls": [
   {
+   "ticker": "SMH",
+   "direction": "BUY",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_id": "3ZvWbsE_tFQ",
+   "video_title": "Invest $580 a Month Into These ETFs. Retire a Millionaire",
+   "published_at": "2026-10-08T19:58:13.710928+00:00",
+   "analyzed_at": "2026-10-08T22:02:15.217526+00:00",
+   "thesis": "Growth-bucket ETF pick; semiconductor fund weighted by size, Nvidia ~23%; $10k 10 years ago would be ~$185k today.",
+   "bull_case": "Chip sales expected to nearly double to ~$1.5T this year, ~$1.9T by 2027, mostly AI memory chips.",
+   "bear_case": "Heavy Nvidia concentration (23%); chips had best 15 years ever — 2000-2011 chip sales grew ~50% while stocks lost money.",
+   "price_at_call": "not stated"
+  },
+  {
    "video_id": "JgkqRJ4PCTc",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
