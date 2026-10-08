@@ -1,0 +1,25 @@
+{
+ "ticker": "COIN",
+ "slug": "COIN",
+ "calls": [
+  {
+   "video_id": "czgmVfoNao4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "COIN",
+   "direction": "BUY",
+   "thesis": "3.5% rewards on USDC deposits; up 4.2% past month; stablecoin/tokenization tailwind plus the AI deposit-share wave.",
+   "base": null,
+   "bull": "Crypto rebound + agentic deposit flows compound.",
+   "bear": "Rewards cut if rates fall; regulatory overhang.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
