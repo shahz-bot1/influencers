@@ -1,0 +1,25 @@
+{
+ "ticker": "C",
+ "slug": "C",
+ "calls": [
+  {
+   "video_id": "czgmVfoNao4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "C",
+   "direction": "AVOID",
+   "thesis": "New: 1.1x book but ~$5.5B (~9%) of interest income at risk if forced to pay 3.5% on deposits; single-digit growth offers no cushion.",
+   "base": null,
+   "bull": "Restructuring lifts returns anyway.",
+   "bear": "Deposit beta proves higher than modeled.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
