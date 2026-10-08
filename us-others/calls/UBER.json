@@ -1,0 +1,25 @@
+{
+ "ticker": "UBER",
+ "slug": "UBER",
+ "calls": [
+  {
+   "video_id": "1Js-3kgdOMw",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "UBER",
+   "direction": "AVOID",
+   "thesis": "New: \"no Uber for me\" - no durable moat, growth by acquisition ($14B Delivery Hero); intrinsic value 50% below price at 10% growth.",
+   "base": null,
+   "bull": "Growth surprises to the high side; 4-5x.",
+   "bear": "Autonomous competition commoditizes the network.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
