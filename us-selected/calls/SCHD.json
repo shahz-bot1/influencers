@@ -3,6 +3,20 @@
  "slug": "SCHD",
  "calls": [
   {
+   "ticker": "SCHD",
+   "direction": "BUY",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_id": "3ZvWbsE_tFQ",
+   "video_title": "Invest $580 a Month Into These ETFs. Retire a Millionaire",
+   "published_at": "2026-10-08T19:58:13.710928+00:00",
+   "analyzed_at": "2026-10-08T22:02:15.217526+00:00",
+   "thesis": "Dividend-bucket (defensive) pick; SCHD fell only 3.2% in 2022 vs S&P 500 -18.2%; pays cash while held.",
+   "bull_case": "Defensive tilt raises mix yield and cushions drawdowns as growth weight dials down with age.",
+   "bear_case": "Dividend funds overlap less with SCHD but still equity risk; growth historically outperforms over long horizons.",
+   "price_at_call": "not stated"
+  },
+  {
    "video_id": "a26sm048Tzg",
    "channel": "Mark Roussin CPA",
    "video_title": "4 ETFs to BUY for the Rest of 2026",
@@ -68,8 +82,12 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 1
   }
  ]
 }
