@@ -354,6 +354,38 @@
    "date": "2026-07-24T15:45:25+00:00",
    "price": "not stated",
    "video_id": "gOHxvGj1ap0"
+  },
+  {
+   "ticker": "CRM",
+   "tickerSlug": "CRM",
+   "direction": "BUY",
+   "date": "",
+   "price": null,
+   "video_id": "QoCLjUVDRDU"
+  },
+  {
+   "ticker": "CRWD",
+   "tickerSlug": "CRWD",
+   "direction": "BUY",
+   "date": "",
+   "price": null,
+   "video_id": "QoCLjUVDRDU"
+  },
+  {
+   "ticker": "PANW",
+   "tickerSlug": "PANW",
+   "direction": "BUY",
+   "date": "",
+   "price": null,
+   "video_id": "QoCLjUVDRDU"
+  },
+  {
+   "ticker": "VEEV",
+   "tickerSlug": "VEEV",
+   "direction": "BUY",
+   "date": "",
+   "price": null,
+   "video_id": "QoCLjUVDRDU"
   }
  ]
 }
