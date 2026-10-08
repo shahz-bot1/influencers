@@ -3,6 +3,19 @@
  "slug": "KUAIS",
  "calls": [
   {
+   "video_id": "1Js-3kgdOMw",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "KUAIS",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Softened from BUY (Oct 2): P/E 7, 400M daily users; Kling AI IPO next year (68% stake ~HKD 12B vs legacy valued at ~HKD 4B); \"positive risk and reward bet\", not a core value investment.",
+   "base": null,
+   "bull": "Kling IPO unlocks sum-of-parts value in 2027.",
+   "bear": "AI capex keeps pressuring margins; spin never comes.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  },
+  {
    "channel": "Sven Carlin",
    "handle": "@value-investing",
    "ticker": "KUAIS",
