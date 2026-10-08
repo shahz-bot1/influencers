@@ -1,0 +1,25 @@
+{
+ "ticker": "WFC",
+ "slug": "WFC",
+ "calls": [
+  {
+   "video_id": "czgmVfoNao4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "WFC",
+   "direction": "AVOID",
+   "thesis": "New: 1.5x book on just 4% expected revenue growth; worst growth of the five with the same AI deposit-disruption risk.",
+   "base": null,
+   "bull": "Asset-cap removal unlocks growth.",
+   "bear": "Growth stalls and deposits leave anyway.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
