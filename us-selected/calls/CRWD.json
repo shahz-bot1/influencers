@@ -60,6 +60,18 @@
    "analyzed_at": "2026-10-03T22:09:46.394850+00:00",
    "collab_byline": "BWB - Business With Brian and Dividendology",
    "published_at": "2025-08-14T14:45:01+00:00"
+  },
+  {
+   "video_id": "QoCLjUVDRDU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Pete Carmacito (Chaken Analytics)",
+   "ticker": "CRWD",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Called 'an absolute own right now': pure-play cybersecurity at the top of its 52-week range with price momentum validated; cybersecurity is 'not a nice to have, a have to have' as AI gives bad actors new attack surfaces — he advises owning both CRWD and PANW.",
+   "base_case": "AI-fear headlines are a direct tailwind; more firms adopt layered protection to use AI safely.",
+   "bull_case": "Never been more important to have cybersecurity; AI models won't replace the security layer, they make it essential."
   }
  ],
  "byInf": [
@@ -70,6 +82,10 @@
   {
    "channel": "Mark Roussin CPA",
    "idx": 2
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 4
   }
  ]
 }
