@@ -1,0 +1,25 @@
+{
+ "ticker": "HOOD",
+ "slug": "HOOD",
+ "calls": [
+  {
+   "video_id": "czgmVfoNao4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "HOOD",
+   "direction": "BUY",
+   "thesis": "31-32% expected revenue growth, 2.4x PEG; tokenization and crypto trends plus AI-driven deposit competition favor it.",
+   "base": null,
+   "bull": "Growth re-accelerates as markets rebound.",
+   "bear": "Pays for growth at 10.8x book; crypto pullback drags.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
