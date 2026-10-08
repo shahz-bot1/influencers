@@ -1,0 +1,22 @@
+{
+ "video_id": "NAVLUH9egdU",
+ "title": "Why I Bought More Netflix Stock Near 52 Week Lows | NFLX Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-08T11:55:43.281534+00:00",
+ "summary": "Parkevtate Vosianc explains adding to Netflix near the 52-week low ~$67: record 30.25% operating margin, ROIC 3x WACC, fwd P/E 17.7, FV $115 (+71% upside). Biggest risk is shifting consumer preference toward short-form content; levers include re-reporting subscriber counts and a free ad-supported tier. Largest portfolio position, interested in adding more.",
+ "calls": [
+  {
+   "video_id": "NAVLUH9egdU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": 67.0,
+   "thesis": "Bought more near the 52-week low ~$67; FV $115 (+71% upside); 30.25% operating margin, ROIC ~3x WACC, fwd P/E 17.7 cheapest in years; largest position, interested in adding more at these levels; biggest risk is the shift to short-form content.",
+   "base_case": "Double-digit growth 2026-28 with pricing power and record margins.",
+   "bull_case": "Levers: re-report subscriber numbers, free ad-supported tier, own short-form product.",
+   "bear_case": "Structural shift to TikTok/Reels/Shorts erodes long-form viewing.",
+   "analyzed_at": "2026-10-08T14:02:54.863293+00:00"
+  }
+ ]
+}
