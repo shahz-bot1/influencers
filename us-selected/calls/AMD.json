@@ -3,6 +3,20 @@
  "slug": "AMD",
  "calls": [
   {
+   "ticker": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_id": "xuZ8IRS90J8",
+   "video_title": "3 Stocks with MASSIVE Upside",
+   "published_at": "2026-10-08T14:00:01.192818+00:00",
+   "analyzed_at": "2026-10-08T18:03:38.548238+00:00",
+   "thesis": "Extremely bullish long-term (calls $1,000 within 12-18 months); at fresh ATHs (~$633) so conditional entry only: sell Dec 18 $450 cash-secured put (~$440 premium); needs a meaningful correction.",
+   "bull_case": "Q rev $11.5B +50%, data center $6.7B +100% YoY; Helios rack-scale stack closing gap with Nvidia.",
+   "bear_case": "Stock up ~188% YTD at ATHs — any entry now is chasing.",
+   "price_at_call": "entry via $450 put (stock ~$633)"
+  },
+  {
    "video_id": "UFkvt5QjRWI",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -93,12 +107,16 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "MarketBeat",
    "idx": 1
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 2
   }
  ]
 }
