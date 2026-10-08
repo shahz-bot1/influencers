@@ -1,0 +1,25 @@
+{
+ "ticker": "KSPI",
+ "slug": "KSPI",
+ "calls": [
+  {
+   "video_id": "1Js-3kgdOMw",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "KSPI",
+   "direction": "HOLD",
+   "thesis": "New: owns it in his diversified portfolio; Pabrai-sourced idea he is comfortable holding.",
+   "base": null,
+   "bull": "Fintech growth compounds.",
+   "bear": "Kazakhstan concentration risk.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
