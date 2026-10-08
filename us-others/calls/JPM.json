@@ -3,6 +3,19 @@
  "slug": "JPM",
  "calls": [
   {
+   "video_id": "czgmVfoNao4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "JPM",
+   "direction": "AVOID",
+   "thesis": "Reiterated AVOID (Sep 28): 2.5x book \"extremely expensive\" on 6.5% growth; his stress test puts ~$30B of interest income at risk.",
+   "base": null,
+   "bull": "Sticky deposits prove resilient.",
+   "bear": "Agentic deposit flight triggers the repricing.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  },
+  {
    "video_id": "jbtxHHpX_u0",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
