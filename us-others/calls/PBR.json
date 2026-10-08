@@ -1,0 +1,25 @@
+{
+ "ticker": "PBR",
+ "slug": "PBR",
+ "calls": [
+  {
+   "video_id": "1Js-3kgdOMw",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "PBR",
+   "direction": "AVOID",
+   "thesis": "New: offshore drilling squeeze bet he no longer takes - \"not a bet I would take anymore\" (was buy-on-dividend a year ago).",
+   "base": null,
+   "bull": "Day-rate squeeze sends it to $30.",
+   "bear": "Contracts roll off; the squeeze never comes.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
