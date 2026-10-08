@@ -1,0 +1,25 @@
+{
+ "ticker": "GOOGL",
+ "slug": "GOOGL",
+ "calls": [
+  {
+   "video_id": "1Js-3kgdOMw",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "GOOGL",
+   "direction": "AVOID",
+   "thesis": "New: \"no way Jose\" - search moat at risk, capex commitments make risk/reward unattractive.",
+   "base": null,
+   "bull": "AI monetization offsets search share loss.",
+   "bear": "Search disruption accelerates.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
