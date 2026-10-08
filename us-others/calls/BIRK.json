@@ -1,0 +1,25 @@
+{
+ "ticker": "BIRK",
+ "slug": "BIRK",
+ "calls": [
+  {
+   "video_id": "1Js-3kgdOMw",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "BIRK",
+   "direction": "AVOID",
+   "thesis": "New: \"I would not go\" - quality deterioration anecdote (sandals lasting one season vs ten years) plus post-PE ownership change.",
+   "base": null,
+   "bull": "Brand heat returns; margins recover.",
+   "bear": "Quality complaints spread; pricing power erodes.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
