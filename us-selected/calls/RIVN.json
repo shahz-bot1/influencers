@@ -1,0 +1,26 @@
+{
+ "ticker": "RIVN",
+ "slug": "RIVN",
+ "calls": [
+  {
+   "ticker": "RIVN",
+   "direction": "HOLD",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "COBZW0gPNQM",
+   "video_title": "Rivian Reports Quarterly Production and Delivery Numbers | RIVN Stock Analysis",
+   "published_at": "2026-10-08T17:00:01.192818+00:00",
+   "analyzed_at": "2026-10-08T18:03:38.548238+00:00",
+   "thesis": "Fairly priced at DCF $13 fair value (fwd P/S 1.7, inside 5-10% margin of safety); Q3 production 19,700 / deliveries 19,200 in line, FY guide 65-70k; but not upgrading yet — still needs ~200k units toward self-sustaining cash flow and uses only ~1/3 of capacity.",
+   "bull_case": "R2 ramps volume toward 200k-unit self-sustaining scale; bad news now fully priced.",
+   "bear_case": "Lower ASPs from R2 mix, cash down $17.5B→$5.3B despite raises, persistent negative bottom line.",
+   "price_at_call": "DCF fair value $13"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
