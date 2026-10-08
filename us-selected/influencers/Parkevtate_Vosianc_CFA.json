@@ -4,6 +4,46 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "RIVN",
+   "tickerSlug": "RIVN",
+   "direction": "HOLD",
+   "date": "2026-10-08T17:00:01.192818+00:00",
+   "price": "DCF fair value $13",
+   "video_id": "COBZW0gPNQM"
+  },
+  {
+   "ticker": "PEP",
+   "tickerSlug": "PEP",
+   "direction": "BUY",
+   "date": "2026-10-08T16:00:01.192818+00:00",
+   "price": "~$125 (stated)",
+   "video_id": "OEix-QmVjME"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-10-08T14:02:54.863293+00:00",
+   "price": 69.0,
+   "video_id": "HpcADJa_Mdk"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-10-08T14:02:54.863293+00:00",
+   "price": 189.0,
+   "video_id": "fpxGxoeAQRM"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-10-08T14:02:54.863293+00:00",
+   "price": 67.0,
+   "video_id": "NAVLUH9egdU"
+  },
+  {
    "ticker": "TSM",
    "tickerSlug": "TSM",
    "direction": "BUY",
