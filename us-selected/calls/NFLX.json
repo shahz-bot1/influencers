@@ -3,6 +3,19 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "NAVLUH9egdU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": 67.0,
+   "thesis": "Bought more near the 52-week low ~$67; FV $115 (+71% upside); 30.25% operating margin, ROIC ~3x WACC, fwd P/E 17.7 cheapest in years; largest position, interested in adding more at these levels; biggest risk is the shift to short-form content.",
+   "base_case": "Double-digit growth 2026-28 with pricing power and record margins.",
+   "bull_case": "Levers: re-report subscriber numbers, free ad-supported tier, own short-form product.",
+   "bear_case": "Structural shift to TikTok/Reels/Shorts erodes long-form viewing.",
+   "analyzed_at": "2026-10-08T14:02:54.863293+00:00"
+  },
+  {
    "video_id": "lDJ3befNmS8",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -92,16 +105,16 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
    "channel": "Couch Investor",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
