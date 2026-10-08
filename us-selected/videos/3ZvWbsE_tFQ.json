@@ -1,0 +1,65 @@
+{
+ "video_id": "3ZvWbsE_tFQ",
+ "title": "Invest $580 a Month Into These ETFs. Retire a Millionaire",
+ "creator": "BWB - Business With Brian",
+ "published_at": "2026-10-08T19:58:13.710928+00:00",
+ "summary": "Brian's retirement catch-up playbook: ditch the age-based 60/40 rule for four ETF buckets dialed by decade — growth (his pick SMH; 60% weight in 20s/30s, citing $10k->$185k over 10 years), market index (VOO, never below 40% at any age; 84% of pro funds trailed the S&P over 10 years), dividends/defense (SCHD; only -3.2% in 2022 vs -18.2%), and bonds (he holds 0% himself, but calls treasuries >5% a 'no-brainer' for investors in their 60s since 5% beats the 4% rule — buy the treasury directly, not a fund). His mixes averaged 23.9%/21%/19% per year since 2012 for the 20s-30s/40s/50s brackets vs ~11% for traditional mixes, but fell 27% in 2022 vs -16.7% traditional. The headline math: $580/month from age 30 at 7% growth reaches $1M by 65 ($1,300/mo from 40, $3,200/mo from 50; $250k head start at 50 cuts it to ~$1,000/mo). Four explicit calls: SMH BUY, VOO BUY, SCHD BUY, TREASURY CONDITIONAL_BUY (60s only).",
+ "calls": [
+  {
+   "ticker": "SMH",
+   "direction": "BUY",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_id": "3ZvWbsE_tFQ",
+   "video_title": "Invest $580 a Month Into These ETFs. Retire a Millionaire",
+   "published_at": "2026-10-08T19:58:13.710928+00:00",
+   "analyzed_at": "2026-10-08T22:02:15.217526+00:00",
+   "thesis": "Growth-bucket ETF pick; semiconductor fund weighted by size, Nvidia ~23%; $10k 10 years ago would be ~$185k today.",
+   "bull_case": "Chip sales expected to nearly double to ~$1.5T this year, ~$1.9T by 2027, mostly AI memory chips.",
+   "bear_case": "Heavy Nvidia concentration (23%); chips had best 15 years ever — 2000-2011 chip sales grew ~50% while stocks lost money.",
+   "price_at_call": "not stated"
+  },
+  {
+   "ticker": "VOO",
+   "direction": "BUY",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_id": "3ZvWbsE_tFQ",
+   "video_title": "Invest $580 a Month Into These ETFs. Retire a Millionaire",
+   "published_at": "2026-10-08T19:58:13.710928+00:00",
+   "analyzed_at": "2026-10-08T22:02:15.217526+00:00",
+   "thesis": "Market-index bucket pick (Vanguard S&P 500); never drops below 40% of his mix at any age; 84% of pro funds trailed the index over 10 years.",
+   "bull_case": "Core anchor; compounding at 7% with consistent contributions closes the retirement gap.",
+   "bear_case": "Still falls hard in crashes (2008-style: bucket mix fell ~37%).",
+   "price_at_call": "not stated"
+  },
+  {
+   "ticker": "SCHD",
+   "direction": "BUY",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_id": "3ZvWbsE_tFQ",
+   "video_title": "Invest $580 a Month Into These ETFs. Retire a Millionaire",
+   "published_at": "2026-10-08T19:58:13.710928+00:00",
+   "analyzed_at": "2026-10-08T22:02:15.217526+00:00",
+   "thesis": "Dividend-bucket (defensive) pick; SCHD fell only 3.2% in 2022 vs S&P 500 -18.2%; pays cash while held.",
+   "bull_case": "Defensive tilt raises mix yield and cushions drawdowns as growth weight dials down with age.",
+   "bear_case": "Dividend funds overlap less with SCHD but still equity risk; growth historically outperforms over long horizons.",
+   "price_at_call": "not stated"
+  },
+  {
+   "ticker": "TREASURY",
+   "direction": "CONDITIONAL_BUY",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_id": "3ZvWbsE_tFQ",
+   "video_title": "Invest $580 a Month Into These ETFs. Retire a Millionaire",
+   "published_at": "2026-10-08T19:58:13.710928+00:00",
+   "analyzed_at": "2026-10-08T22:02:15.217526+00:00",
+   "thesis": "Conditional: for investors in their 60s while treasuries yield >5% — a guaranteed 5% exceeds the 4% withdrawal rule; buy the treasury itself and hold to maturity, not a bond fund.",
+   "bull_case": "Guaranteed 5% interest alone beats the 4% rule; 2008-style crash: bonds gained 6.9% while market fell 36.8%.",
+   "bear_case": "Holds 0% bonds personally at all other ages; bonds fell 13.1% in 2022 when rates jumped.",
+   "price_at_call": "yields >5%"
+  }
+ ]
+}
