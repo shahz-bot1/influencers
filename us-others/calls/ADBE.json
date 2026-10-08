@@ -3,6 +3,19 @@
  "slug": "ADBE",
  "calls": [
   {
+   "video_id": "1Js-3kgdOMw",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "ADBE",
+   "direction": "AVOID",
+   "thesis": "New: legacy creative business in slow decline under AI competition; \"just not for me\".",
+   "base": null,
+   "bull": "Pricing power holds; AI tools upsell.",
+   "bear": "Free AI alternatives keep taking share.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  },
+  {
    "video_id": "jbtxHHpX_u0",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -14,8 +27,12 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Sven Carlin",
    "idx": 0
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 1
   }
  ]
 }
