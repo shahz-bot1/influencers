@@ -1,0 +1,22 @@
+{
+ "video_id": "HpcADJa_Mdk",
+ "title": "Huge News for Uber Stock Investors as it Makes Multibillion Dollar Acquisition",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-08T13:45:43.281534+00:00",
+ "summary": "Parkevtate Vosianc breaks down Uber's $2.3B all-cash acquisition of ezCater (workplace catering platform, $2.5B TTM gross bookings, high-teens growth, $400+ avg orders): likely a slight overpay but strategically sound as defense against driverless-car risk; using cash signals management views the shares as undervalued. Reaffirms UBER as one of the best stocks to buy at $69 with FV $115.",
+ "calls": [
+  {
+   "video_id": "HpcADJa_Mdk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": 69.0,
+   "thesis": "ezCater $2.3B all-cash deal may be a slight overpay (~0.9x gross bookings vs Uber's own ~0.6x), but strategically sound as robotaxi defense; using cash not equity signals management views shares as undervalued; FV $115, still one of the best stocks to buy.",
+   "base_case": "Acquisition near-neutral to slightly positive; FV $115 vs ~$69 price.",
+   "bull_case": "FV $115 implies ~66% upside if delivery scale and AV defense re-rate it.",
+   "bear_case": "If overpay thesis is right, paid above its own multiple for slower-growing bookings.",
+   "analyzed_at": "2026-10-08T14:02:54.863293+00:00"
+  }
+ ]
+}
