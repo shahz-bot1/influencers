@@ -4,6 +4,86 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "BUY",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "czgmVfoNao4"
+  },
+  {
+   "ticker": "COIN",
+   "tickerSlug": "COIN",
+   "direction": "BUY",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "czgmVfoNao4"
+  },
+  {
+   "ticker": "HOOD",
+   "tickerSlug": "HOOD",
+   "direction": "BUY",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "czgmVfoNao4"
+  },
+  {
+   "ticker": "PYPL",
+   "tickerSlug": "PYPL",
+   "direction": "BUY",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "czgmVfoNao4"
+  },
+  {
+   "ticker": "ALLY",
+   "tickerSlug": "ALLY",
+   "direction": "BUY",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "czgmVfoNao4"
+  },
+  {
+   "ticker": "BAC",
+   "tickerSlug": "BAC",
+   "direction": "AVOID",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "czgmVfoNao4"
+  },
+  {
+   "ticker": "JPM",
+   "tickerSlug": "JPM",
+   "direction": "AVOID",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "czgmVfoNao4"
+  },
+  {
+   "ticker": "C",
+   "tickerSlug": "C",
+   "direction": "AVOID",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "czgmVfoNao4"
+  },
+  {
+   "ticker": "USB",
+   "tickerSlug": "USB",
+   "direction": "AVOID",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "czgmVfoNao4"
+  },
+  {
+   "ticker": "WFC",
+   "tickerSlug": "WFC",
+   "direction": "AVOID",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "czgmVfoNao4"
+  },
+  {
    "ticker": "NOW",
    "tickerSlug": "NOW",
    "direction": "BUY",
