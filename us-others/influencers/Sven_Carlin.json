@@ -4,6 +4,78 @@
  "slug": "Sven_Carlin",
  "calls": [
   {
+   "ticker": "KUAIS",
+   "tickerSlug": "KUAIS",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "1Js-3kgdOMw"
+  },
+  {
+   "ticker": "PDD",
+   "tickerSlug": "PDD",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "1Js-3kgdOMw"
+  },
+  {
+   "ticker": "CHTR",
+   "tickerSlug": "CHTR",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "1Js-3kgdOMw"
+  },
+  {
+   "ticker": "BIRK",
+   "tickerSlug": "BIRK",
+   "direction": "AVOID",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "1Js-3kgdOMw"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "AVOID",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "1Js-3kgdOMw"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "AVOID",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "1Js-3kgdOMw"
+  },
+  {
+   "ticker": "ADBE",
+   "tickerSlug": "ADBE",
+   "direction": "AVOID",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "1Js-3kgdOMw"
+  },
+  {
+   "ticker": "PBR",
+   "tickerSlug": "PBR",
+   "direction": "AVOID",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "1Js-3kgdOMw"
+  },
+  {
+   "ticker": "KSPI",
+   "tickerSlug": "KSPI",
+   "direction": "HOLD",
+   "date": "2026-10-08T05:10:00+00:00",
+   "price": null,
+   "video_id": "1Js-3kgdOMw"
+  },
+  {
    "ticker": "TCEHY",
    "tickerSlug": "TCEHY",
    "direction": "CONDITIONAL_BUY",
