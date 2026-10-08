@@ -3,6 +3,20 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "ticker": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_id": "xuZ8IRS90J8",
+   "video_title": "3 Stocks with MASSIVE Upside",
+   "published_at": "2026-10-08T14:00:01.192818+00:00",
+   "analyzed_at": "2026-10-08T18:03:38.548238+00:00",
+   "thesis": "Highest-conviction long-term holding (largest position); not adding at ~$350 — conditional entry: sell Dec 18 $300 cash-secured put (~$400 premium); would happily take 100 more shares at $300.",
+   "bull_case": "Broadest AI ecosystem (Search, YouTube, Cloud, Gemini, TPU, Waymo); avg target $432 (+25%).",
+   "bear_case": "Macro headwinds (rates, inflation, midterms) + index at ATHs = patience over chasing.",
+   "price_at_call": "entry via $300 put (stock ~$350)"
+  },
+  {
    "video_id": "DFQjG012fRk",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -146,24 +160,24 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 8
+   "channel": "Couch Investor",
+   "idx": 3
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 9
+   "idx": 10
   }
  ]
 }
