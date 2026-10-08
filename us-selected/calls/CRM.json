@@ -46,6 +46,18 @@
    "bull_case": "High switching costs keep enterprise customers sticky; AI products improve the value proposition.",
    "bear_case": "OpenAI/Anthropic-style agents could bypass Salesforce altogether.",
    "analyzed_at": "2026-09-25T13:58:32.207911+00:00"
+  },
+  {
+   "video_id": "QoCLjUVDRDU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Pete Carmacito (Chaken Analytics)",
+   "ticker": "CRM",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Pete Carmacito is 'very bullish long term' on Salesforce: institutions and smart money accumulated through the Q1 software selloff, momentum and money-flow indicators have flipped (the 'validation' he waits for), and it was oversold 'for no reason at all'. Salesforce was the first to push agentic AI; CRM stickiness is near-unreplaceable for enterprise.",
+   "base_case": "Chart has formed a turning point and recovered sharply since end of July; still trades well below analyst targets.",
+   "bull_case": "AI-first CRM that owns the enterprise customer dataset benefits from a 'dark fiber' moment — cheap AI compute layered onto data customers can't leave."
   }
  ],
  "byInf": [
@@ -56,6 +68,10 @@
   {
    "channel": "Parkevtate Vosianc CFA",
    "idx": 2
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 3
   }
  ]
 }
