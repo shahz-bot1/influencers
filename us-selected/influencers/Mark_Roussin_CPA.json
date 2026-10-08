@@ -4,6 +4,30 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "CRDO",
+   "tickerSlug": "CRDO",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-08T14:00:01.192818+00:00",
+   "price": "entry via $150 put (stock ~$220)",
+   "video_id": "xuZ8IRS90J8"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-08T14:00:01.192818+00:00",
+   "price": "entry via $300 put (stock ~$350)",
+   "video_id": "xuZ8IRS90J8"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-08T14:00:01.192818+00:00",
+   "price": "entry via $450 put (stock ~$633)",
+   "video_id": "xuZ8IRS90J8"
+  },
+  {
    "ticker": "SCHD",
    "tickerSlug": "SCHD",
    "direction": "BUY",
