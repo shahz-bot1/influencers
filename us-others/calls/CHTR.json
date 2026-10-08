@@ -1,0 +1,25 @@
+{
+ "ticker": "CHTR",
+ "slug": "CHTR",
+ "calls": [
+  {
+   "video_id": "1Js-3kgdOMw",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "CHTR",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "New: adjusted market cap ~$16B vs $5-6B FCF -> ~3x FCF; rate-sensitive with $120B debt; \"a 2x easily\" if rates turn, 4x off last year's lows.",
+   "base": null,
+   "bull": "Rates fall; capex decline releases $2B in 2027.",
+   "bear": "Refinancing at 7.5%+ while EBITDA declines.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
