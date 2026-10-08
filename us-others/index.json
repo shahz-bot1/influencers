@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T04:39:00.146850+00:00",
+ "updated": "2026-10-08T03:59:14.400000+00:00",
  "tickers": [
   {
    "ticker": "ABNB",
@@ -21,19 +21,20 @@
   {
    "ticker": "ADBE",
    "slug": "ADBE",
-   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "lastDate": "2026-10-08T05:10:00+00:00",
    "chips": [
     {
      "dir": "AVOID",
-     "n": 1,
+     "n": 2,
      "avg": null
     }
    ],
    "influencers": [
+    "Sven Carlin",
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "ALAB",
@@ -72,7 +73,7 @@
   {
    "ticker": "ALLY",
    "slug": "ALLY",
-   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "lastDate": "2026-10-08T05:10:00+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -84,7 +85,7 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "AMD",
@@ -175,10 +176,10 @@
   {
    "ticker": "BAC",
    "slug": "BAC",
-   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "lastDate": "2026-10-08T05:10:00+00:00",
    "chips": [
     {
-     "dir": "BUY",
+     "dir": "AVOID",
      "n": 1,
      "avg": null
     }
@@ -187,7 +188,7 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "BE",
@@ -244,6 +245,23 @@
    "ticker": "BILI",
    "slug": "BILI",
    "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "BIRK",
+   "slug": "BIRK",
+   "lastDate": "2026-10-08T05:10:00+00:00",
    "chips": [
     {
      "dir": "AVOID",
@@ -326,6 +344,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "C",
+   "slug": "C",
+   "lastDate": "2026-10-08T05:10:00+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "CB",
    "slug": "CB",
    "lastDate": "2026-09-30T15:55:34.672871+00:00",
@@ -394,9 +429,43 @@
    "nCalls": 1
   },
   {
+   "ticker": "CHTR",
+   "slug": "CHTR",
+   "lastDate": "2026-10-08T05:10:00+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "CME",
    "slug": "CME",
    "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "COIN",
+   "slug": "COIN",
+   "lastDate": "2026-10-08T05:10:00+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -570,6 +639,40 @@
    "nCalls": 1
   },
   {
+   "ticker": "GOOGL",
+   "slug": "GOOGL",
+   "lastDate": "2026-10-08T05:10:00+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "HOOD",
+   "slug": "HOOD",
+   "lastDate": "2026-10-08T05:10:00+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "JBLU",
    "slug": "JBLU",
    "lastDate": "2026-09-30T15:55:34.672871+00:00",
@@ -623,7 +726,7 @@
   {
    "ticker": "JPM",
    "slug": "JPM",
-   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "lastDate": "2026-10-08T05:10:00+00:00",
    "chips": [
     {
      "dir": "AVOID",
@@ -635,7 +738,7 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "KC",
@@ -655,12 +758,12 @@
    "nCalls": 1
   },
   {
-   "ticker": "KUAIS",
-   "slug": "KUAIS",
-   "lastDate": "2026-09-30T16:55:34.672871+00:00",
+   "ticker": "KSPI",
+   "slug": "KSPI",
+   "lastDate": "2026-10-08T05:10:00+00:00",
    "chips": [
     {
-     "dir": "BUY",
+     "dir": "HOLD",
      "n": 1,
      "avg": null
     }
@@ -670,6 +773,23 @@
    ],
    "lastStated": "",
    "nCalls": 1
+  },
+  {
+   "ticker": "KUAIS",
+   "slug": "KUAIS",
+   "lastDate": "2026-10-08T05:10:00+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 2
   },
   {
    "ticker": "LNVGY",
@@ -912,6 +1032,40 @@
    "nCalls": 1
   },
   {
+   "ticker": "PBR",
+   "slug": "PBR",
+   "lastDate": "2026-10-08T05:10:00+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "PDD",
+   "slug": "PDD",
+   "lastDate": "2026-10-08T05:10:00+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "PGR",
    "slug": "PGR",
    "lastDate": "2026-09-28T03:57:07.794861+00:00",
@@ -999,19 +1153,19 @@
   {
    "ticker": "PYPL",
    "slug": "PYPL",
-   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "lastDate": "2026-10-08T05:10:00+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$50"
+     "avg": null
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
    "lastStated": "~$50 (bought when it cratered back to ~$50/share)",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "RJF",
@@ -1071,6 +1225,23 @@
    "chips": [
     {
      "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SOFI",
+   "slug": "SOFI",
+   "lastDate": "2026-10-08T05:10:00+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
      "n": 1,
      "avg": null
     }
@@ -1201,6 +1372,57 @@
    "nCalls": 1
   },
   {
+   "ticker": "UBER",
+   "slug": "UBER",
+   "lastDate": "2026-10-08T05:10:00+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Sven Carlin"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "USB",
+   "slug": "USB",
+   "lastDate": "2026-10-08T05:10:00+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "WFC",
+   "slug": "WFC",
+   "lastDate": "2026-10-08T05:10:00+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "YMM",
    "slug": "YMM",
    "lastDate": "2026-09-30T16:55:34.672871+00:00",
@@ -1298,8 +1520,8 @@
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 52,
-   "nVideos": 5
+   "nCalls": 62,
+   "nVideos": 6
   },
   {
    "name": "Patient Investor",
@@ -1312,8 +1534,8 @@
    "name": "Sven Carlin",
    "handle": "@value-investing",
    "slug": "Sven_Carlin",
-   "nCalls": 14,
-   "nVideos": 1
+   "nCalls": 23,
+   "nVideos": 2
   },
   {
    "name": "Tom Nash",
@@ -1331,6 +1553,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "czgmVfoNao4",
+   "title": "5 Stocks to Buy BEFORE the 2027 AI Bank Crash",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-10-07T15:55:34.587739+00:00",
+   "nCalls": 10
+  },
+  {
+   "id": "1Js-3kgdOMw",
+   "title": "3 Positive Asymmetric Buys From The Bets Quadrant...",
+   "creator": "Sven Carlin",
+   "channels": [
+    "Sven Carlin"
+   ],
+   "published_at": "2026-10-07T15:55:34.587739+00:00",
+   "nCalls": 9
+  },
   {
    "id": "951xEYynOGo",
    "title": "The AI Stock Investors Just Got Another MASSIVE Bull Signal!!",
