@@ -3,6 +3,19 @@
  "slug": "BAC",
  "calls": [
   {
+   "video_id": "czgmVfoNao4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BAC",
+   "direction": "AVOID",
+   "thesis": "FLIP from BUY (Oct 1): best deal of the legacy banks (1.37x book, 8.5% rev growth) but AI agents forcing deposit rates to 3.5% could cost ~$2B interest income; avoid until the picture clears.",
+   "base": null,
+   "bull": "Banks raise rates only mildly; spread holds.",
+   "bear": "Deposit flight forces the full rate match.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  },
+  {
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "ticker": "BAC",
