@@ -3,6 +3,20 @@
  "slug": "VOO",
  "calls": [
   {
+   "ticker": "VOO",
+   "direction": "BUY",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_id": "3ZvWbsE_tFQ",
+   "video_title": "Invest $580 a Month Into These ETFs. Retire a Millionaire",
+   "published_at": "2026-10-08T19:58:13.710928+00:00",
+   "analyzed_at": "2026-10-08T22:02:15.217526+00:00",
+   "thesis": "Market-index bucket pick (Vanguard S&P 500); never drops below 40% of his mix at any age; 84% of pro funds trailed the index over 10 years.",
+   "bull_case": "Core anchor; compounding at 7% with consistent contributions closes the retirement gap.",
+   "bear_case": "Still falls hard in crashes (2008-style: bucket mix fell ~37%).",
+   "price_at_call": "not stated"
+  },
+  {
    "video_id": "pDsQs_qPELs",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -35,8 +49,12 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 1
   }
  ]
 }
