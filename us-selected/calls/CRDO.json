@@ -3,6 +3,20 @@
  "slug": "CRDO",
  "calls": [
   {
+   "ticker": "CRDO",
+   "direction": "CONDITIONAL_BUY",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_id": "xuZ8IRS90J8",
+   "video_title": "3 Stocks with MASSIVE Upside",
+   "published_at": "2026-10-08T14:00:01.192818+00:00",
+   "analyzed_at": "2026-10-08T18:03:38.548238+00:00",
+   "thesis": "Extremely bullish (already owns; ~+30% since his $165 video); conditional entry: sell Dec 18 $150 cash-secured put (~$500 premium), effective basis ~$145.",
+   "bull_case": "FY revenue tripled to $1.3B, non-GAAP net income 5x; Street avg target $270 (+25%); edge score 76.",
+   "bear_case": "Down ~30% from recent highs; chasing at ~$212 after run is the risk he refuses.",
+   "price_at_call": "entry via $150 put (stock ~$220)"
+  },
+  {
    "video_id": "0BDw9kwNh4Q",
    "channel": "MarketBeat",
    "title": "Is the Rally Real? 5 Stocks to Buy Now Before Election Day",
@@ -19,8 +33,12 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 0
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 1
   }
  ]
 }
