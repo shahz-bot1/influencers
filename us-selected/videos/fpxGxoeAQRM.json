@@ -1,0 +1,22 @@
+{
+ "video_id": "fpxGxoeAQRM",
+ "title": "Is it Too Late to Buy Palantir Stock? | PLTR Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-08T12:55:43.281534+00:00",
+ "summary": "Parkevtate Vosianc revisits Palantir after its run to ~$189: enterprise expansion is real (US commercial +149%, $2.1B TCV +271%), but his updated DCF puts fair value at $184 — fairly valued. Updates the BUY but lowers conviction from high to medium; he'd be more excited at a lower price.",
+ "calls": [
+  {
+   "video_id": "fpxGxoeAQRM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "price_at_call": 189.0,
+   "thesis": "US commercial revenue +149% and $2.1B TCV (+271%) with 93% revenue growth and 63% FCF margin; but updated DCF gives FV $184 vs ~$189 market — fairly valued, so conviction lowered from high to medium. No flip in direction.",
+   "base_case": "Great business at fair value; growth and retention evidence support the premium.",
+   "bull_case": "Enterprise expansion could push fair value above $184 over time.",
+   "bear_case": "Forward P/E of 80 vs 60 a few months ago; less excited at these levels.",
+   "analyzed_at": "2026-10-08T14:02:54.863293+00:00"
+  }
+ ]
+}
