@@ -1,7 +1,7 @@
 {
  "jbtxHHpX_u0": {
   "channel": "Joseph Hogue, CFA",
-  "title": "20 Stocks Just Got Crushed by AI\u2026 Here are the 5 I'm Buying",
+  "title": "20 Stocks Just Got Crushed by AI… Here are the 5 I'm Buying",
   "published_at": "2026-09-27T16:55:35.550296+00:00",
   "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
   "alerted": true
@@ -36,7 +36,7 @@
  },
  "989CUhoOUg8": {
   "channel": "Joseph Hogue, CFA",
-  "title": "Buffett\u2019s \u201cGoing to Hell\u201d Warning [5 Stocks to Buy Before It Gets Worse]",
+  "title": "Buffett’s “Going to Hell” Warning [5 Stocks to Buy Before It Gets Worse]",
   "published_at": "2026-09-30T15:55:34.672871+00:00",
   "analyzed_at": "2026-10-01T03:57:29.822305+00:00",
   "alerted": true
@@ -66,11 +66,12 @@
  },
  "Of4_80Z_cvY": {
   "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
   "title": "Asymmetric Portfolio: October Stock Buys",
-  "published_at": "2026-10-02T04:00:40.826176+00:00",
-  "analyzed_at": "2026-10-07T04:05:00+00:00",
+  "published_at": "2026-10-02T03:55:34.587739+00:00",
+  "analyzed_at": "2026-10-08T05:10:00+00:00",
   "alerted": false,
-  "skipped": "members-only (Billionaire tier)"
+  "skipped": "members-only: available to this channel's members on level: Billionaire (or any higher priced level)"
  },
  "cduwJEIVyKs": {
   "channel": "Asymmetric Investing",
@@ -93,7 +94,7 @@
  "4e4bnSjMDsg": {
   "channel": "Asymmetric Investing",
   "handle": "@asymmetricinvesting",
-  "title": "The 10x Stock I\u2019m Loading Up On This Month",
+  "title": "The 10x Stock I’m Loading Up On This Month",
   "published_at": "2026-10-02T17:00:22.210558+00:00",
   "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
   "alerted": true
@@ -101,7 +102,7 @@
  "jAtRNbIWaOw": {
   "channel": "Jose Najarro Stocks",
   "handle": "@josenajarrostocks",
-  "title": "NVIDIA Just Changed the AI Market AGAIN \u2014 Here\u2019s What Comes Next",
+  "title": "NVIDIA Just Changed the AI Market AGAIN — Here’s What Comes Next",
   "published_at": "2026-10-04T02:55:36.200568+00:00",
   "analyzed_at": "2026-10-04T03:58:03.785081+00:00",
   "alerted": true
@@ -118,6 +119,22 @@
   "title": "The AI Stock Investors Just Got Another MASSIVE Bull Signal!!",
   "published_at": "2026-10-06T23:00:40.826176+00:00",
   "analyzed_at": "2026-10-07T04:05:00+00:00",
+  "alerted": true
+ },
+ "1Js-3kgdOMw": {
+  "channel": "Sven Carlin",
+  "handle": "@value-investing",
+  "title": "3 Positive Asymmetric Buys From The Bets Quadrant...",
+  "published_at": "2026-10-07T15:55:34.587739+00:00",
+  "analyzed_at": "2026-10-08T05:10:00+00:00",
+  "alerted": true
+ },
+ "czgmVfoNao4": {
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "title": "5 Stocks to Buy BEFORE the 2027 AI Bank Crash",
+  "published_at": "2026-10-07T15:55:34.587739+00:00",
+  "analyzed_at": "2026-10-08T05:10:00+00:00",
   "alerted": true
  }
 }
