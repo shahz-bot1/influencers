@@ -60,6 +60,18 @@
    "note": "Joint pick - Joseph proposed, Brian agreed (holds it).",
    "collab_byline": "Let's Talk Money! with Joseph Hogue, CFA and BWB - Business With Brian",
    "published_at": "2026-01-28T16:45:00+00:00"
+  },
+  {
+   "video_id": "QoCLjUVDRDU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Pete Carmacito (Chaken Analytics)",
+   "ticker": "PANW",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Palo Alto is the second cybersecurity 'powerhouse' alongside CrowdStrike — adds networking and software components to the pure play; paired recommendation is to own both, with price momentum on both names the trigger and validated indicator.",
+   "base_case": "Already in a momentum phase for several months; same AI-fear tailwind as CrowdStrike.",
+   "bull_case": "Valuation concerns exist, but price dictates direction and it's moving — AI adoption expands the protected surface indefinitely."
   }
  ],
  "byInf": [
@@ -70,6 +82,10 @@
   {
    "channel": "BWB - Business With Brian",
    "idx": 1
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 4
   }
  ]
 }
