@@ -1,0 +1,25 @@
+{
+ "ticker": "USB",
+ "slug": "USB",
+ "calls": [
+  {
+   "video_id": "czgmVfoNao4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "USB",
+   "direction": "AVOID",
+   "thesis": "New: 1.5x book, 6.8% expected growth, down 9% past month; same agentic deposit-sweep threat as the other legacy banks.",
+   "base": null,
+   "bull": "Regional deposit franchise holds.",
+   "bear": "Rate competition compresses NIM.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
