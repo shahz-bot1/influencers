@@ -1,0 +1,25 @@
+{
+ "ticker": "PDD",
+ "slug": "PDD",
+ "calls": [
+  {
+   "video_id": "1Js-3kgdOMw",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "PDD",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Upgraded from UNCERTAIN (Oct 2): $107B market cap vs $66B cash -> P/E ~4 ex-cash; investing RMB 100B to build a third business; could be a 2-3x if it works.",
+   "base": null,
+   "bull": "Third business replicates the first two fast builds.",
+   "bear": "Investment burns cash with no return; China risk.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Sven Carlin",
+   "idx": 0
+  }
+ ]
+}
