@@ -3,6 +3,19 @@
  "slug": "ALLY",
  "calls": [
   {
+   "video_id": "czgmVfoNao4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ALLY",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (Oct 1): 0.85x book on a growing bank, 0.3x PEG - the cheapest risk/reward of the five fintechs.",
+   "base": null,
+   "bull": "Multiple re-rates toward 1x book on deposit inflows.",
+   "bear": "Auto-loan credit deterioration.",
+   "stated_price": null,
+   "analyzed_at": "2026-10-08T05:10:00+00:00"
+  },
+  {
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "ticker": "ALLY",
