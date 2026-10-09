@@ -1,0 +1,29 @@
+{
+ "ticker": "CEG",
+ "slug": "CEG",
+ "calls": [
+  {
+   "video_id": "4Rh8fxlUvVQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "Massive News for Alphabet Stock and Constellation Energy Stock Investors | GOOG Stock | CEG Stock",
+   "ticker": "CEG",
+   "direction": "BUY",
+   "stated_price": null,
+   "price_at_call": "~$300 (after +12% spike on news)",
+   "thesis": "Google's $4.3B 20-year PPA for 890 MW + 15-yr 2.7 GW deal; updated DCF fair value $387 implies ~30% upside",
+   "fair_value": "$387",
+   "conviction": "low - sees CEG as a commodity provider, can't yet identify the differentiator hyperscalers pay a premium for",
+   "base": "Forward P/E 22.5x ≈ its historical average since 2024; data-center power demand still outstripping supply",
+   "bull": "Big-5 hyperscaler capex $850B+ in 2026, rising further 2027-28; existing-site upgrades mean no greenfield build cost",
+   "bear": "Down 15% YTD even after the pop; stock up 691% over 5 years; undifferentiated vs Vistra and other nuclear suppliers",
+   "analyzed_at": "2026-10-09T13:57:41.664942+00:00",
+   "flip": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
