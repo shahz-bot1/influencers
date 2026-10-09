@@ -1,0 +1,27 @@
+{
+ "video_id": "4Rh8fxlUvVQ",
+ "title": "Massive News for Alphabet Stock and Constellation Energy Stock Investors | GOOG Stock | CEG Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-09T12:55:48.696923+00:00",
+ "source_note": "Detailed summary generated from video captions (manual English captions)",
+ "summary": "Parkevtate Vosianc covers Google's $4.3B, 20-year power purchase agreement with Constellation Energy for 890 MW of nuclear (via upgrades at existing sites, no new build required), plus a separate 15-year deal for another 2.7 GW. He places it in the hyperscaler nuclear wave: Amazon signed with Constellation in January, Microsoft signed a 20-year deal in 2024 tied to the Three Mile Island restart by 2028, while Meta chose Vistra. His macro frame: data-center power demand is the binding constraint on AI buildout (alongside memory shortages), and he estimates just five companies will spend ~$850B in capex in 2026, exceeding $1T in 2027. CEG popped 12% on the news but is still down 15% YTD (though up 691% over five years); it trades at a forward P/E of 22.5x, roughly its average since 2024. His updated DCF gives a $387 fair value versus ~$300 market, implying ~30% upside over 12–18 months. Call: CEG BUY with low conviction — he views Constellation as a commodity power provider and can't yet identify what differentiates one nuclear supplier from another in hyperscalers' eyes. First tracked call on CEG; no flip.",
+ "calls": [
+  {
+   "video_id": "4Rh8fxlUvVQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "Massive News for Alphabet Stock and Constellation Energy Stock Investors | GOOG Stock | CEG Stock",
+   "ticker": "CEG",
+   "direction": "BUY",
+   "stated_price": null,
+   "price_at_call": "~$300 (after +12% spike on news)",
+   "thesis": "Google's $4.3B 20-year PPA for 890 MW + 15-yr 2.7 GW deal; updated DCF fair value $387 implies ~30% upside",
+   "fair_value": "$387",
+   "conviction": "low - sees CEG as a commodity provider, can't yet identify the differentiator hyperscalers pay a premium for",
+   "base": "Forward P/E 22.5x ≈ its historical average since 2024; data-center power demand still outstripping supply",
+   "bull": "Big-5 hyperscaler capex $850B+ in 2026, rising further 2027-28; existing-site upgrades mean no greenfield build cost",
+   "bear": "Down 15% YTD even after the pop; stock up 691% over 5 years; undifferentiated vs Vistra and other nuclear suppliers",
+   "analyzed_at": "2026-10-09T13:57:41.664942+00:00",
+   "flip": false
+  }
+ ]
+}
