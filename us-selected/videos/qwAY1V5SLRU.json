@@ -1,0 +1,25 @@
+{
+ "video_id": "qwAY1V5SLRU",
+ "title": "Is it Safe to Buy Salesforce Stock Right Now? | CRM Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-25",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "\"Is it Safe to Buy Salesforce Stock Right Now? | CRM Stock Analysis\" by Parkevtate Vosianc CFA, published 2026-09-25 (about an hour before the scan), is a post-SaaS-apocalypse update on Salesforce. He points to reaccelerating revenue (13% last quarter), AI upsell lifting pricing, and a record 12.7% ROIC, and he reiterates the buy ranking he gave on Aug 27. The digest records one call: CRM — BUY @ $233 (DCF fair value $280, implying ~20% upside over 12–18 months); bull case: switching costs; bear case: AI agents bypassing Salesforce. No flip is recorded — he says he is reiterating a buy from Aug 27, but calls.json has no prior Parkevtate CRM call, so nothing counts as a flip.",
+ "calls": [
+  {
+   "video_id": "qwAY1V5SLRU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is it Safe to Buy Salesforce Stock Right Now? | CRM STock Analysis",
+   "published_at": "2026-09-25T12:55:39+00:00",
+   "ticker": "CRM",
+   "direction": "BUY",
+   "price_at_call": "$233 (stated; DCF fair value $280)",
+   "thesis": "Reiterates buy after the rebound from under $150: revenue reaccelerated to 13%, AI upsell lifting seat pricing, record 12.7% ROIC; 14.6x forward P/E near historic lows.",
+   "base_case": "DCF fair value $280 vs $233 = ~20% upside over 12-18 months.",
+   "bull_case": "High switching costs keep enterprise customers sticky; AI products improve the value proposition.",
+   "bear_case": "OpenAI/Anthropic-style agents could bypass Salesforce altogether.",
+   "analyzed_at": "2026-09-25T13:58:32.207911+00:00"
+  }
+ ]
+}
