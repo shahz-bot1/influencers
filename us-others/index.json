@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T03:59:14.400000+00:00",
+ "updated": "2026-10-09T04:02:18.151830+00:00",
  "tickers": [
   {
    "ticker": "ABNB",
@@ -158,7 +158,7 @@
   {
    "ticker": "AVGO",
    "slug": "AVGO",
-   "lastDate": "2026-10-07T04:05:00+00:00",
+   "lastDate": "2026-10-09T04:01:30.944983+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -171,7 +171,7 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "BAC",
@@ -189,6 +189,23 @@
    ],
    "lastStated": "",
    "nCalls": 3
+  },
+  {
+   "ticker": "BAM",
+   "slug": "BAM",
+   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Daniel Pronk"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "BE",
@@ -316,6 +333,23 @@
    "chips": [
     {
      "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "BOT",
+   "slug": "BOT",
+   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
      "n": 1,
      "avg": null
     }
@@ -516,8 +550,13 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-09-30T03:57:13.629546+00:00",
+   "lastDate": "2026-10-09T04:01:30.944983+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
     {
      "dir": "SELL",
      "n": 1,
@@ -530,11 +569,12 @@
     }
    ],
    "influencers": [
+    "Jose Najarro Stocks",
     "Asymmetric Investing",
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "DHI",
@@ -668,6 +708,23 @@
    ],
    "influencers": [
     "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "IREN",
+   "slug": "IREN",
+   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Jose Najarro Stocks"
    ],
    "lastStated": "",
    "nCalls": 1
@@ -826,6 +883,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "LYFT",
+   "slug": "LYFT",
+   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "META",
    "slug": "META",
    "lastDate": "2026-09-30T21:55:34.672871+00:00",
@@ -847,6 +921,23 @@
    ],
    "lastStated": "",
    "nCalls": 2
+  },
+  {
+   "ticker": "MGM",
+   "slug": "MGM",
+   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "MRVL",
@@ -1185,6 +1276,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "ROAD",
+   "slug": "ROAD",
+   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Daniel Pronk"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "SCHW",
    "slug": "SCHW",
    "lastDate": "2026-09-28T03:57:07.794861+00:00",
@@ -1374,8 +1482,13 @@
   {
    "ticker": "UBER",
    "slug": "UBER",
-   "lastDate": "2026-10-08T05:10:00+00:00",
+   "lastDate": "2026-10-09T04:01:30.944983+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
     {
      "dir": "AVOID",
      "n": 1,
@@ -1383,10 +1496,11 @@
     }
    ],
    "influencers": [
+    "Asymmetric Investing",
     "Sven Carlin"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "USB",
@@ -1485,8 +1599,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 6,
-   "nVideos": 2
+   "nCalls": 9,
+   "nVideos": 3
   },
   {
    "name": "Brian Feroldi",
@@ -1499,8 +1613,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 1,
-   "nVideos": 1
+   "nCalls": 3,
+   "nVideos": 2
   },
   {
    "name": "Everything Money",
@@ -1513,15 +1627,15 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 10,
-   "nVideos": 4
+   "nCalls": 13,
+   "nVideos": 5
   },
   {
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 62,
-   "nVideos": 6
+   "nCalls": 63,
+   "nVideos": 7
   },
   {
    "name": "Patient Investor",
@@ -1554,6 +1668,36 @@
  ],
  "videos": [
   {
+   "id": "TgDV_-LeQSE",
+   "title": "AI Stocks Just Crashed - But Wall Street Missed Something BIG!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-09T03:18:37.889631+00:00",
+   "nCalls": 3
+  },
+  {
+   "id": "vAYeWqe9edU",
+   "title": "2 Stocks I'm Buying While The Market Panics",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-10-08T22:55:37.889631+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "RL8-R7QY7jU",
+   "title": "Why I'm Buying These 3 Stocks (Ignore the AI Hype)",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-10-08T19:55:37.889631+00:00",
+   "nCalls": 3
+  },
+  {
    "id": "czgmVfoNao4",
    "title": "5 Stocks to Buy BEFORE the 2027 AI Bank Crash",
    "creator": "Joseph Hogue, CFA",
@@ -1582,6 +1726,16 @@
    ],
    "published_at": "2026-10-06T23:00:40.826176+00:00",
    "nCalls": 5
+  },
+  {
+   "id": "vFGkr80KPBw",
+   "title": "ONE Stock is All You Need in This $5 Trillion Opportunity",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-10-06T16:00:40.826176+00:00",
+   "nCalls": 1
   },
   {
    "id": "Zrbf8mXwsG4",
