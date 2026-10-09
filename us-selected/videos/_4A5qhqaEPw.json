@@ -1,0 +1,9 @@
+{
+ "video_id": "_4A5qhqaEPw",
+ "title": "AI Is Running Out of Power in the U.S. (Big Tech Is Betting Billions Somewhere Else)",
+ "creator": "MarketBeat",
+ "published_at": "2026-10-08T22:55:15.436431+00:00",
+ "source_note": "Detailed summary generated from video captions (manual English captions)",
+ "summary": "MarketBeat interviews Muhammad, CEO of Bitzero, a data center and energy company operating in Finland and Norway, on why hyperscalers are shifting AI buildout to the Nordics. The core argument: the US buildout is hitting a wall of public opposition — local protests and blocked permits — while Finland and Norway offer surplus power, the world's most stable grids (Finland rated 99.999; Norway ~99% green hydro), clear regulation, community acceptance, and pre-existing nuclear/hydro infrastructure that removes years of build time. Google just committed $13B over two years to Finnish AI data centers; Applied Digital entered Finland; Anthropic, OpenAI, Crusoe and CoreWeave already run Nordic deployments. Bitzero, founded 2020/21 as a Bitcoin miner on owned land (40 MW online), is pivoting to AI compute with a 1.5 GW runway across three sites and 190–230 MW deliverable for GPU offtake by end-2027/early-2028; it holds a utility facility license for its own high-voltage lines in Norway. On supply/demand, he says it comes down to NVDA/AMD chip output, and a power surplus is possible if the build race continues. He claims Bitzero's bare real estate alone exceeds its market cap (ticker AIBZ, NASDAQ). No explicit host call — AIBZ featured, IREN/APLD mentioned as successful miner-to-AI pivots.",
+ "calls": []
+}
