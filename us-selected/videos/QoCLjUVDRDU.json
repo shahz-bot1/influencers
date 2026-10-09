@@ -1,0 +1,58 @@
+{
+ "video_id": "QoCLjUVDRDU",
+ "title": "Institutions Just Bought the Fear (4 Stocks to Buy Now)",
+ "creator": "MarketBeat",
+ "published_at": "2026-10-07",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "In \"Institutions Just Bought the Fear (4 Stocks to Buy Now),\" published ~11pm UK on 7 Oct 2026, MarketBeat hosts guest Pete Carmacito of Chaken Analytics, who makes the institutional-accumulation case for four software names beaten down in the Q1 \"AI will eat software\" selloff and rebounding since late July: institutions bought the lows, momentum/money-flow indicators flipped (his validation signal), and a coming \"American Atlas\" catalyst road-map from Chaken Analytics frames the pitch. Four BUYs, no flips, no stated prices — all first-ever MarketBeat-tracked calls. CRM — BUY: Salesforce \"very bullish long term\" — smart-money accumulation, agentic-AI first-mover, CRM near-unreplaceable in enterprise; chart turning point, still below analyst targets; bull case: a \"dark-fiber moment\" — cheap AI compute layered onto captive customer data. CRWD — BUY: \"absolute own right now\" — pure-play cybersecurity at 52-week highs; AI bad-actor risk makes it a \"have to have.\" PANW — BUY: cybersecurity powerhouse #2 alongside CrowdStrike, plus networking/software components; price momentum is the trigger, AI-fear headlines the tailwind. VEEV — BUY: overlooked pharma-software lifeblood (sales through R&D), \"a lot of legs\"; chart turning point, big pharma buying more of its services. These are guest picks, all first calls on record.",
+ "calls": [
+  {
+   "video_id": "QoCLjUVDRDU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Pete Carmacito (Chaken Analytics)",
+   "ticker": "CRM",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Pete Carmacito is 'very bullish long term' on Salesforce: institutions and smart money accumulated through the Q1 software selloff, momentum and money-flow indicators have flipped (the 'validation' he waits for), and it was oversold 'for no reason at all'. Salesforce was the first to push agentic AI; CRM stickiness is near-unreplaceable for enterprise.",
+   "base_case": "Chart has formed a turning point and recovered sharply since end of July; still trades well below analyst targets.",
+   "bull_case": "AI-first CRM that owns the enterprise customer dataset benefits from a 'dark fiber' moment — cheap AI compute layered onto data customers can't leave."
+  },
+  {
+   "video_id": "QoCLjUVDRDU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Pete Carmacito (Chaken Analytics)",
+   "ticker": "CRWD",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Called 'an absolute own right now': pure-play cybersecurity at the top of its 52-week range with price momentum validated; cybersecurity is 'not a nice to have, a have to have' as AI gives bad actors new attack surfaces — he advises owning both CRWD and PANW.",
+   "base_case": "AI-fear headlines are a direct tailwind; more firms adopt layered protection to use AI safely.",
+   "bull_case": "Never been more important to have cybersecurity; AI models won't replace the security layer, they make it essential."
+  },
+  {
+   "video_id": "QoCLjUVDRDU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Pete Carmacito (Chaken Analytics)",
+   "ticker": "PANW",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Palo Alto is the second cybersecurity 'powerhouse' alongside CrowdStrike — adds networking and software components to the pure play; paired recommendation is to own both, with price momentum on both names the trigger and validated indicator.",
+   "base_case": "Already in a momentum phase for several months; same AI-fear tailwind as CrowdStrike.",
+   "bull_case": "Valuation concerns exist, but price dictates direction and it's moving — AI adoption expands the protected surface indefinitely."
+  },
+  {
+   "video_id": "QoCLjUVDRDU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Pete Carmacito (Chaken Analytics)",
+   "ticker": "VEEV",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Overlooked pharma-software name that 'runs pharmaceutical companies' end to end — sales through R&D — with 'a lot of legs' left; chart is at a turning point like the other three.",
+   "base_case": "Rebounded nicely but still in the 'opportunity zone'; big pharma keeps buying more of its services.",
+   "bull_case": "The cornerstone of medical R&D commercialization; AI in drug research multiplies demand for the secure data platform pharma already depends on."
+  }
+ ]
+}
