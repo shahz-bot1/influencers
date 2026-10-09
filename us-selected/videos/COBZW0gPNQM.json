@@ -1,0 +1,24 @@
+{
+ "video_id": "COBZW0gPNQM",
+ "title": "Rivian Reports Quarterly Production and Delivery Numbers | RIVN Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-08",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "In \"Rivian Reports Quarterly Production and Delivery Numbers | RIVN Stock Analysis,\" published 8 Oct 2026, Parkevtate Vosianc CFA reacts to Rivian's Q3 production of 19,700 and deliveries of 19,200 — in line — plus full-year guidance of 65–70k units. The call: RIVN — HOLD. His DCF fair value of $13 is roughly his margin of safety, and the stock trades at a forward P/S of 1.7. He is warming from a years-long AVOID (\"not overvalued anymore... fairly priced\") but explicitly NOT upgrading yet: Rivian still needs ~200k units to be self-sustaining, is using only ~1/3 of capacity, and faces lower ASPs from the R2 mix. No flip vs logged calls (no prior RIVN call recorded). The digest excerpt also bundles same-day summaries of two other videos: Parkevtate's PEP BUY @ ~$125 reiterated from \"1 Undervalued Dividend Stock You Can Buy and Hold Forever\" (DCF FV $178, ~40% upside, cheapest fwd P/E 14x in years; prior BUY 2026-09-29 @ $128, no flip) and Mark Roussin's \"3 Stocks with MASSIVE Upside\" conditional-buy put-selling plays — CRDO CONDITIONAL_BUY via the Dec 18 $150 put (~$500 premium, effective basis ~$145; stock ~$220), GOOGL CONDITIONAL_BUY via the Dec 18 $300 put (~$400 premium; stock ~$350), and AMD CONDITIONAL_BUY via the Dec 18 $450 put (~$440 premium; stock ~$633 at ATHs, $1,000 call in 12–18 months).",
+ "calls": [
+  {
+   "ticker": "RIVN",
+   "direction": "HOLD",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "COBZW0gPNQM",
+   "video_title": "Rivian Reports Quarterly Production and Delivery Numbers | RIVN Stock Analysis",
+   "published_at": "2026-10-08T17:00:01.192818+00:00",
+   "analyzed_at": "2026-10-08T18:03:38.548238+00:00",
+   "thesis": "Fairly priced at DCF $13 fair value (fwd P/S 1.7, inside 5-10% margin of safety); Q3 production 19,700 / deliveries 19,200 in line, FY guide 65-70k; but not upgrading yet — still needs ~200k units toward self-sustaining cash flow and uses only ~1/3 of capacity.",
+   "bull_case": "R2 ramps volume toward 200k-unit self-sustaining scale; bad news now fully priced.",
+   "bear_case": "Lower ASPs from R2 mix, cash down $17.5B→$5.3B despite raises, persistent negative bottom line.",
+   "price_at_call": "DCF fair value $13"
+  }
+ ]
+}
