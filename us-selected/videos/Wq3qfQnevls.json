@@ -1,0 +1,55 @@
+{
+ "video_id": "Wq3qfQnevls",
+ "title": "The AI Boom Is Creating Blue Collar Millionaires (3 Stocks You'll Wish You Bought)",
+ "creator": "MarketBeat",
+ "published_at": "2026-10-04",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "In \"The AI Boom Is Creating Blue Collar Millionaires (3 Stocks You'll Wish You Bought),\" published 4 Oct 2026, MarketBeat hosts guest Rob Spibbey of Altimetry, who pitches data-center infrastructure plays — the physical, blue-collar side of the AI buildout that the market hasn't priced. He makes three BUY calls with no stated prices: EME (EMCOR, electrical/HVAC) — roughly half of revenue comes from data centers and backlog grew from $12B to $17B, with the market not pricing the next few years of growth; DY (Dycom fiber-optic contractor) — down ~45% in three months on capex-question fears; and URI (United Rentals equipment rental). The digest notes the EME ticker was corrected in the run after captions garbled it as \"MCOR\" (verified NYSE:EME). These are guest picks framed as infrastructure beneficiaries of the AI boom rather than the hyperscaler/software side. No prior calls were recorded for these names, so there are no flips.",
+ "calls": [
+  {
+   "video_id": "Wq3qfQnevls",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "EME",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Emcor, electrical/HVAC contractor: half of revenue from data centers; backlog grew $12B to $17B (~50%) and blue-collar workforce from 34k to 44k; market is not pricing the next few years of growth.",
+   "base": "Hyperscaler capex $800B this year toward $1.2T; skilled-labor bottleneck (500k-1M more electricians needed) keeps revenue opportunity durable.",
+   "bear": "AI-capex air pocket (election-year NIMBYism narrative) has already dragged AI-infrastructure names down 20-30%.",
+   "analyzed_at": "2026-10-05T05:56:50.744087+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T22:55:19.341103+00:00",
+   "video_title": "The AI Boom Is Creating Blue Collar Millionaires (3 Stocks You'll Wish You Bought)"
+  },
+  {
+   "video_id": "Wq3qfQnevls",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "DY",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Dycom, fiber-optic contractor for telecoms now also building data-center power solutions: US rural-fiber mandate plus dark-fiber exhaustion; down ~45% in 3 months on capex-question fears.",
+   "base": "Rural-fiber buildout + data-center power work + replacement cycle in fiber; growth over next 3 years not priced in.",
+   "bear": "Same AI-capex narrative overhang; chart looks ugly and the drawdown could continue if capex fears persist.",
+   "analyzed_at": "2026-10-05T05:56:50.744087+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T22:55:19.341103+00:00",
+   "video_title": "The AI Boom Is Creating Blue Collar Millionaires (3 Stocks You'll Wish You Bought)"
+  },
+  {
+   "video_id": "Wq3qfQnevls",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "URI",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "United Rentals, equipment rental: needs equipment to build data centers, power plants and fiber; benefits from broader reshoring/nearshoring capex too; market prices earnings flat vs 2023-24, missing the story.",
+   "base": "Capex $200B to $465B to $800B trajectory plus specialty-rental scale/moat (12% ROA on uniform basis); he calls it '100% a buying opportunity'.",
+   "bear": "Equipment rental is cyclical; a capex slowdown would hit utilization and pricing.",
+   "analyzed_at": "2026-10-05T05:56:50.744087+00:00",
+   "collab": false,
+   "published_at": "2026-10-04T22:55:19.341103+00:00",
+   "video_title": "The AI Boom Is Creating Blue Collar Millionaires (3 Stocks You'll Wish You Bought)"
+  }
+ ]
+}
