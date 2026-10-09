@@ -1,0 +1,48 @@
+{
+ "video_id": "RL8-R7QY7jU",
+ "title": "Why I'm Buying These 3 Stocks (Ignore the AI Hype)",
+ "creator": "Asymmetric Investing",
+ "published_at": "2026-10-08T19:55:37.889631+00:00",
+ "summary": "Travis Hoium pitches his three cheapest current holdings - all trading at single-digit forward multiples he expects to re-rate as growth and margins compound - and says he has been accumulating all three through 2026, rebutting the market's two core fears (autonomous vehicles killing ride-hail, gaming demand peaking). Lyft (LYFT) - BUY: >30M active riders, ~1B rides a year, $1.1B TTM free cash flow, net-cash balance sheet; ~8x forward P/E, ~5x forward P/FCF; the AV-disruption fear is overblown given the Waymo partnership, the European taxi foothold and potential acquirer appeal at this multiple (he would not be surprised if \"a Waymo buys them, a Zoox buys them\"); his stated bear case is Lyft falling to #4 in autonomy if Tesla and Waymo enter. Uber (UBER) - BUY: gross bookings, trips, monthly riders (28M) and delivery all compounding; mobility CAGR 22%, delivery ~19%; his bull case is Uber as the demand-aggregator for every AV player a decade out. MGM Resorts (MGM) - BUY: EV/EBITDA and P/FCF both below 8x on a $7.5B market cap with ~$1B/year buybacks (~15% of shares); the real catalyst is 2030 MGM Japan in Osaka (~$10B property), where a Marina Bay Sands proxy (~$6B revenue, ~$3B adjusted EBITDA) implies MGM's 44% stake alone could be worth the whole market cap. TSLA appears only as an AV competitive risk (his standing Sep 30 SELL unchanged); IAC (Barry Diller's company, failed MGM buyout), Entain, LVS and Lucid are passing mentions with no calls. Caption garbles: \"Whimo\"/\"Zuks\" for Waymo/Zoox, \"People, Inc.\" for IAC, \"Antain\" for Entain; no price targets were garbled because none were given.",
+ "calls": [
+  {
+   "video_id": "RL8-R7QY7jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "LYFT",
+   "direction": "BUY",
+   "thesis": ">30M active riders, ~1B rides/yr, $1.1B TTM FCF, net-cash balance sheet; AV-disruption fear overblown given Waymo partnership, Europe taxi foothold and acquirer appeal at ~8x fwd P/E, ~5x fwd P/FCF.",
+   "base": "Growth + margin expansion + multiple expansion.",
+   "bull": "Acquisition target: 'wouldn't be surprised if a Waymo buys them, a Zoox buys them' - low-risk acquisition at this multiple.",
+   "bear": "If Tesla and Waymo enter and Lyft falls to #4 in autonomy, 'that could be a real problem.'",
+   "stated_price": "No target; ~8x forward P/E, ~5x forward P/FCF; $5.9B market cap, $5.3B EV",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  },
+  {
+   "video_id": "RL8-R7QY7jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "thesis": "Gross bookings, trips, monthly riders (28M) and delivery all compounding; mobility CAGR 22%, delivery ~19%; Uber becomes the demand-aggregator for all AV players in an autonomous world.",
+   "base": null,
+   "bull": "'A decade from now if you can go on Uber and pick what kind of autonomous vehicle you want' - multi-vehicle demand network.",
+   "bear": "The bear case he argues against: riders going directly to a Tesla/Waymo network instead of an aggregator.",
+   "stated_price": "No target; ~$140B market cap",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  },
+  {
+   "video_id": "RL8-R7QY7jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "MGM",
+   "direction": "BUY",
+   "thesis": "EV/EBITDA and P/FCF both below 8x on $7.5B market cap with ~$1B/yr buybacks (~15% of shares); 2030 MGM Japan (Osaka, ~$10B property) is the real catalyst - MBS proxy (~$6B rev, ~$3B adj. EBITDA) implies his 44% stake alone could be worth the whole market cap.",
+   "base": null,
+   "bull": "'That property could be worth 10, 20 billion... even just the 44% stake MGM has could be worth their entire market cap today.'",
+   "bear": "Las Vegas Strip revenue slightly down past two years post 2022-23 surge; Japan 2030+ timeline needs capital spending before payoff.",
+   "stated_price": "No target; EV/EBITDA and P/FCF both below 8x, P/FCF ~5x",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  }
+ ]
+}
