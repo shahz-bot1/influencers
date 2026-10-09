@@ -4,6 +4,22 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "BAM",
+   "tickerSlug": "BAM",
+   "direction": "BUY",
+   "date": "2026-10-09T04:01:30.944983+00:00",
+   "price": null,
+   "video_id": "vAYeWqe9edU"
+  },
+  {
+   "ticker": "ROAD",
+   "tickerSlug": "ROAD",
+   "direction": "BUY",
+   "date": "2026-10-09T04:01:30.944983+00:00",
+   "price": null,
+   "video_id": "vAYeWqe9edU"
+  },
+  {
    "ticker": "META",
    "tickerSlug": "META",
    "direction": "BUY",
