@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T08:04:07.194471+00:00",
+ "updated": "2026-10-09T22:10:53.245275+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -129,7 +129,7 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-10-08T14:00:01.192818+00:00",
+   "lastDate": "2026-10-09T18:03:19.799081+00:00",
    "chips": [
     {
      "dir": "CONDITIONAL_BUY",
@@ -137,28 +137,29 @@
      "avg": "$450"
     },
     {
-     "dir": "SELL",
-     "n": 1,
-     "avg": "$261"
+     "dir": "HOLD",
+     "n": 2,
+     "avg": null
     }
    ],
    "influencers": [
+    "Couch Investor",
+    "Parkevtate Vosianc CFA",
     "Mark Roussin CPA",
-    "MarketBeat",
-    "Couch Investor"
+    "MarketBeat"
    ],
    "lastStated": "entry via $450 put (stock ~$633)",
-   "nCalls": 7
+   "nCalls": 9
   },
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-10-05T11:56:12.550380+00:00",
+   "lastDate": "2026-10-09T13:57:41.664942+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$251"
+     "avg": null
     },
     {
      "dir": "HOLD",
@@ -174,7 +175,7 @@
     "BWB - Business With Brian"
    ],
    "lastStated": "251.0",
-   "nCalls": 7
+   "nCalls": 8
   },
   {
    "ticker": "APLD",
@@ -370,6 +371,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "26.0",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CEG",
+   "slug": "CEG",
+   "lastDate": "2026-10-09T13:57:41.664942+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$300"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "~$300 (after +12% spike on news)",
    "nCalls": 1
   },
   {
@@ -1346,7 +1364,7 @@
   {
    "ticker": "NFLX",
    "slug": "NFLX",
-   "lastDate": "2026-10-08T14:02:54.863293+00:00",
+   "lastDate": "2026-10-09T18:03:19.799081+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1354,18 +1372,35 @@
      "avg": "$67"
     },
     {
-     "dir": "SELL",
+     "dir": "HOLD",
      "n": 1,
      "avg": null
     }
    ],
    "influencers": [
+    "Couch Investor",
     "Parkevtate Vosianc CFA",
-    "Joseph Carlson After Hours",
-    "Couch Investor"
+    "Joseph Carlson After Hours"
    ],
    "lastStated": "67.0",
-   "nCalls": 7
+   "nCalls": 8
+  },
+  {
+   "ticker": "NICE",
+   "slug": "NICE",
+   "lastDate": "2026-10-09T18:03:19.799081+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "NKE",
@@ -1501,6 +1536,23 @@
    ],
    "lastStated": "34.0",
    "nCalls": 2
+  },
+  {
+   "ticker": "NVTS",
+   "slug": "NVTS",
+   "lastDate": "2026-10-09T18:03:19.799081+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "ONDS",
@@ -1732,7 +1784,7 @@
   {
    "ticker": "RBRK",
    "slug": "RBRK",
-   "lastDate": "2026-10-02T23:00:23.042483+00:00",
+   "lastDate": "2026-10-09T18:03:19.799081+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1740,17 +1792,17 @@
      "avg": "$115"
     },
     {
-     "dir": "SELL",
+     "dir": "HOLD",
      "n": 1,
-     "avg": "$114"
+     "avg": null
     }
    ],
    "influencers": [
-    "MarketBeat",
-    "Couch Investor"
+    "Couch Investor",
+    "MarketBeat"
    ],
    "lastStated": "stock ~$115 reference (guest); Jan 2028 $145 call activity noted",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "RCAT",
@@ -1772,19 +1824,19 @@
   {
    "ticker": "RDDT",
    "slug": "RDDT",
-   "lastDate": "2026-07-01T14:30:34+00:00",
+   "lastDate": "2026-10-09T18:03:19.799081+00:00",
    "chips": [
     {
-     "dir": "BUY",
+     "dir": "HOLD",
      "n": 1,
-     "avg": "$174.75"
+     "avg": null
     }
    ],
    "influencers": [
     "Couch Investor"
    ],
    "lastStated": "bought at $174.75",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "RIO",
@@ -1892,25 +1944,20 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-09-26T05:59:20.040279+00:00",
+   "lastDate": "2026-10-09T18:03:19.799081+00:00",
    "chips": [
     {
-     "dir": "BUY",
-     "n": 1,
-     "avg": null
-    },
-    {
      "dir": "HOLD",
-     "n": 1,
+     "n": 2,
      "avg": "$16.58"
     }
    ],
    "influencers": [
-    "MarketBeat",
-    "Couch Investor"
+    "Couch Investor",
+    "MarketBeat"
    ],
    "lastStated": "~$16.58; 34x earnings; consensus ~33% upside; Citigroup PT $30",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "SPGI",
@@ -2441,8 +2488,8 @@
    "name": "Couch Investor",
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
-   "nCalls": 44,
-   "nVideos": 42
+   "nCalls": 49,
+   "nVideos": 43
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -2463,14 +2510,14 @@
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
    "nCalls": 48,
-   "nVideos": 20
+   "nVideos": 21
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 79,
-   "nVideos": 83
+   "nCalls": 84,
+   "nVideos": 88
   },
   {
    "name": "The German Value Investor",
@@ -2481,6 +2528,76 @@
   }
  ],
  "videos": [
+  {
+   "id": "J1BVUTa-52s",
+   "title": "I Own These 4 Stocks. I Wouldn’t Buy Them Today",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-09T17:00:00.885894+00:00",
+   "nCalls": 5
+  },
+  {
+   "id": "dAqnRb0I_C4",
+   "title": "NICE Stock Analysis: Buy or Sell?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-09T17:00:00.885894+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "GlnqbglLpkg",
+   "title": "Should Investors Buy Navitas Semiconductor Stock on the Dip?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-09T16:00:00.885894+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "38fm2cEEk_c",
+   "title": "Massive Update for AMD Stock Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-09T15:00:00.885894+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "4Rh8fxlUvVQ",
+   "title": "Massive News for Alphabet Stock and Constellation Energy Stock Investors | GOOG Stock | CEG Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-09T12:55:48.696923+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "MAsEF53_pd0",
+   "title": "Is the Upside Worth the Risk in Amazon Stock Right Now in October?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-09T11:55:48.696923+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "_4A5qhqaEPw",
+   "title": "AI Is Running Out of Power in the U.S. (Big Tech Is Betting Billions Somewhere Else)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-08T22:55:15.436431+00:00",
+   "nCalls": 0
+  },
   {
    "id": "Z9vdHjI_B0I",
    "title": "Ray Dalio Is Warning About an AI Bubble. Here's What I'm Doing",
