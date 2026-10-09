@@ -1,0 +1,26 @@
+{
+ "video_id": "9ky70loGTMo",
+ "title": "Massive Update for Nike Stock Investors! | NKE Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-02",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc CFA revisits his recent Nike buy upgrade and admits he was too early, published 2026-10-02. After a disappointing quarter he is walking the stance back: Q1 sales fell 4%, FY27 revenue is guided down high-single-digits, and he sees at least 3–4 more difficult quarters before the business stabilizes — his advice is to wait 1–2 quarters rather than buy now. The call: NKE — HOLD at a market price a little above $30 as stated, with his own fair value at $29, leaving essentially no margin of safety at the quoted price. The digest notes there was no prior NKE call in calls.json, so no formal stance flip is flagged against the track record. No bull/bear breakdown or price target beyond the $29 fair value is given in the excerpt.",
+ "calls": [
+  {
+   "video_id": "9ky70loGTMo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "NKE",
+   "direction": "HOLD",
+   "price_at_call": "market a little above $30 (stated); his FV $29",
+   "thesis": "Downgrading back to HOLD after a recent BUY upgrade he now calls too early: Q1 sales -4%, FY27 revenue guided down high-single-digits, at least 3-4 more difficult quarters before stabilisation; not a buying opportunity yet, wait 1-2 quarters.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-02T20:00:45.184344+00:00",
+   "analyzed_at": "2026-10-03T06:29:52.571646+00:00",
+   "stance_flip": null,
+   "video_title": "Massive Update for Nike Stock Investors! | NKE Stock Analysis"
+  }
+ ]
+}
