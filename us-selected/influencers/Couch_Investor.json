@@ -4,6 +4,46 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "HOLD",
+   "date": "2026-10-09T18:03:19.799081+00:00",
+   "price": null,
+   "video_id": "J1BVUTa-52s"
+  },
+  {
+   "ticker": "RBRK",
+   "tickerSlug": "RBRK",
+   "direction": "HOLD",
+   "date": "2026-10-09T18:03:19.799081+00:00",
+   "price": null,
+   "video_id": "J1BVUTa-52s"
+  },
+  {
+   "ticker": "RDDT",
+   "tickerSlug": "RDDT",
+   "direction": "HOLD",
+   "date": "2026-10-09T18:03:19.799081+00:00",
+   "price": null,
+   "video_id": "J1BVUTa-52s"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "HOLD",
+   "date": "2026-10-09T18:03:19.799081+00:00",
+   "price": null,
+   "video_id": "J1BVUTa-52s"
+  },
+  {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "HOLD",
+   "date": "2026-10-09T18:03:19.799081+00:00",
+   "price": null,
+   "video_id": "J1BVUTa-52s"
+  },
+  {
    "ticker": "AVGO",
    "tickerSlug": "AVGO",
    "direction": "BUY",
