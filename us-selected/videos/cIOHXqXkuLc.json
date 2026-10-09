@@ -1,0 +1,42 @@
+{
+ "video_id": "cIOHXqXkuLc",
+ "title": "Micron Just Posted Insane Numbers. The Market Doesn't Care",
+ "creator": "Couch Investor",
+ "published_at": "2026-09-30",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "\"Micron Just Posted Insane Numbers. The Market Doesn't Care\" by Couch Investor, published 2026-09-30, is a post-earnings breakdown of Micron's Sep 30 print: beats across the board — a record revenue ramp, $33.2B free cash flow, and 87% gross margin — but the stock didn't move; the only small miss was on the Q1 FY27 gross-margin guide. The video also touches on Anthropic ARR stalling and why market perception matters more than numbers in the short term. The digest records two calls: MU — HOLD (no change; he holds his own position with no plans to add) — he may reallocate to AVGO/NVDA if the 7.2x forward multiple stays \"disrespected.\" AVGO — BUY restated (no flip; position initiated last week) — he still views it as undervalued, wants to grow the position, and cites AI revenue visibility doubling to $115B. No stance flips.",
+ "calls": [
+  {
+   "video_id": "cIOHXqXkuLc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "MU",
+   "direction": "HOLD",
+   "price_at_call": "n/a (holding; post-earnings Sep 30)",
+   "thesis": "Beats across the board but stock flat; owns position, no plans to add — may reallocate to AVGO/NVDA if the 7.2x forward multiple stays 'disrespected'.",
+   "base_case": "Base: FY27 record revenue, Q1 margin floor at 86.25%, then improving; 26 SCAs de-risk cyclicality.",
+   "bull_case": "Bull: rerating toward a 'normal' multiple + large buyback authorization (allowed from Dec 9).",
+   "bear_case": "Bear: 2027-28 peak narrative wins; DRAM pricing turns and margins mean-revert.",
+   "published_at": "2026-09-30T23:55:15.965630+00:00",
+   "analyzed_at": "2026-10-01T05:57:02.043190+00:00",
+   "stance_flip": null,
+   "video_title": "Micron Just Posted Insane Numbers. The Market Doesn't Care"
+  },
+  {
+   "video_id": "cIOHXqXkuLc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "n/a (restating BUY; initiated position last week)",
+   "thesis": "Still views Broadcom as undervalued; wants to grow the position — AI revenue visibility to double to $115B and double again.",
+   "base_case": "Base: AI revenue doubles next year on steady hyperscaler demand.",
+   "bull_case": "Bull: $115B AI revenue, then doubles again to $230B; multiple rerating.",
+   "bear_case": "Bear: OpenAI/Anthropic ARR flatness undercuts the AI capex commitments feeding Broadcom.",
+   "published_at": "2026-09-30T23:55:15.965630+00:00",
+   "analyzed_at": "2026-10-01T05:57:02.043190+00:00",
+   "stance_flip": null,
+   "video_title": "Micron Just Posted Insane Numbers. The Market Doesn't Care"
+  }
+ ]
+}
