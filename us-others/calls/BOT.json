@@ -1,0 +1,25 @@
+{
+ "ticker": "BOT",
+ "slug": "BOT",
+ "calls": [
+  {
+   "video_id": "vFGkr80KPBw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BOT",
+   "direction": "BUY",
+   "thesis": "Robo Strategy closed-end fund gives Main Street pre-IPO access to private robotics/humanoid leaders (Figure, Apptronik, Dyna, Standard Bots) with public liquidity; long-term sized position for the $5T robotics wave.",
+   "base": null,
+   "bull": "Robo Strategy's $60T TAM scenario for robotics + physical AI; Morgan Stanley's ~930M humanoids by 2050.",
+   "bear": "Closed-end premium/discount to NAV is the central risk; illustrated $25 market vs $11.35 NAV = 2x+ premium.",
+   "stated_price": "NAV $11.35/share (Aug 31, 2026; ~$277M net assets); market price not stated in video",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
