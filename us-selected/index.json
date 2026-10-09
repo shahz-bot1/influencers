@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T22:08:58.616604+00:00",
+ "updated": "2026-10-09T08:04:07.194471+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -2442,42 +2442,42 @@
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
    "nCalls": 44,
-   "nVideos": 40
+   "nVideos": 42
   },
   {
    "name": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
    "slug": "Joseph_Carlson_After_Hours",
    "nCalls": 18,
-   "nVideos": 3
+   "nVideos": 4
   },
   {
    "name": "Mark Roussin CPA",
    "handle": "@markroussincpa",
    "slug": "Mark_Roussin_CPA",
    "nCalls": 34,
-   "nVideos": 9
+   "nVideos": 11
   },
   {
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
    "nCalls": 48,
-   "nVideos": 14
+   "nVideos": 20
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
    "nCalls": 79,
-   "nVideos": 55
+   "nVideos": 83
   },
   {
    "name": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
    "slug": "The_German_Value_Investor",
    "nCalls": 4,
-   "nVideos": 3
+   "nVideos": 4
   }
  ],
  "videos": [
@@ -2542,6 +2542,36 @@
    "nCalls": 1
   },
   {
+   "id": "OEix-QmVjME",
+   "title": "1 Undervalued Dividend Stock You Can Buy and Hold Forever",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-08",
+   "nCalls": 1
+  },
+  {
+   "id": "COBZW0gPNQM",
+   "title": "Rivian Reports Quarterly Production and Delivery Numbers | RIVN Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-08",
+   "nCalls": 1
+  },
+  {
+   "id": "xuZ8IRS90J8",
+   "title": "3 Stocks with MASSIVE Upside",
+   "creator": "Mark Roussin CPA",
+   "channels": [
+    "Mark Roussin CPA"
+   ],
+   "published_at": "2026-10-08",
+   "nCalls": 3
+  },
+  {
    "id": "4exaXv3rWiA",
    "title": "Elon Musk Delivered Massive News for Taiwan Semiconductor Stock Investors",
    "creator": "Parkevtate Vosianc CFA",
@@ -2550,6 +2580,46 @@
    ],
    "published_at": "2026-10-07T20:58:12.941055+00:00",
    "nCalls": 1
+  },
+  {
+   "id": "8he7DPaNNX4",
+   "title": "Massive Update for Microsoft Stock Investors! | MSFT Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-07",
+   "nCalls": 1
+  },
+  {
+   "id": "YX-lgAOFxCE",
+   "title": "The U.S. Economy Is Strong, but People Are Losing Purchasing Power Due to the Soaring Cost of Living",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-07",
+   "nCalls": 0
+  },
+  {
+   "id": "jFbY9pbPWok",
+   "title": "The Space Economy Is Exploding — 4 Stocks to Watch",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-07",
+   "nCalls": 0
+  },
+  {
+   "id": "QoCLjUVDRDU",
+   "title": "Institutions Just Bought the Fear (4 Stocks to Buy Now)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-07",
+   "nCalls": 4
   },
   {
    "id": "pRlZ2UuMc7M",
@@ -2602,6 +2672,36 @@
    "nCalls": 8
   },
   {
+   "id": "oz5PKccN5Gw",
+   "title": "Is it Too Late to Buy Carnival Cruise Stock? | CCL Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-06",
+   "nCalls": 1
+  },
+  {
+   "id": "1Xudf_oPtJ0",
+   "title": "Only 20 Stocks Are Holding Up the Market (3 Buy the Dip Stocks Outside of AI)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-06",
+   "nCalls": 3
+  },
+  {
+   "id": "-bU2yQuUZb4",
+   "title": "Booking Holdings Stock Down 30%: Is the AI Fear Overblown?",
+   "creator": "The German Value Investor",
+   "channels": [
+    "The German Value Investor"
+   ],
+   "published_at": "2026-10-06",
+   "nCalls": 1
+  },
+  {
    "id": "lDJ3befNmS8",
    "title": "Three Turn-Around Stocks I'm Buying Today",
    "creator": "Joseph Carlson After Hours",
@@ -2630,6 +2730,26 @@
    ],
    "published_at": "2026-10-05T18:58:26.932338+00:00",
    "nCalls": 2
+  },
+  {
+   "id": "ziCHfEr5Twc",
+   "title": "You Might Not Believe This Prediction from Micron | MU Stock Deep Dive Part 3",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-05",
+   "nCalls": 0
+  },
+  {
+   "id": "25pD3BJgsy8",
+   "title": "The 9 Best Stocks to Buy Right Now in October (2026)",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-05",
+   "nCalls": 9
   },
   {
    "id": "JYF40KTxQpA",
@@ -2692,6 +2812,206 @@
    "nCalls": 10
   },
   {
+   "id": "826_if8uGdI",
+   "title": "Tesla Reports Quarterly Production and Delivery Figures. Here's What It Means for Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-04",
+   "nCalls": 0
+  },
+  {
+   "id": "Wq3qfQnevls",
+   "title": "The AI Boom Is Creating Blue Collar Millionaires (3 Stocks You'll Wish You Bought)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-04",
+   "nCalls": 3
+  },
+  {
+   "id": "uqL5NccHcKo",
+   "title": "Does the Proliferation of Agentic AI Make Fortinet Stock a No Brainer? | FTNT STock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-03",
+   "nCalls": 1
+  },
+  {
+   "id": "Z1ZgKx2L-QA",
+   "title": "Massive Update for Home Depot Stock Investors | HD Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-03",
+   "nCalls": 1
+  },
+  {
+   "id": "_gHUNTNSyXQ",
+   "title": "1 Ridiculously Cheap Stock Investors Can Buy Now in October (2026)",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-03",
+   "nCalls": 1
+  },
+  {
+   "id": "MqaCcQQtC_c",
+   "title": "What's Going on With Micron Stock? | MU Stock Deep Dive Part 1",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-03",
+   "nCalls": 0
+  },
+  {
+   "id": "y88TX8VFijw",
+   "title": "Massive News for Broadcom Stock Investors | AVGO Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-03",
+   "nCalls": 0
+  },
+  {
+   "id": "VUnl7IGEuJE",
+   "title": "Clorox is Dealing With Several Years of Challenging Circumstances | CLX Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-02",
+   "nCalls": 1
+  },
+  {
+   "id": "f-Qy5Qp1S-Q",
+   "title": "Anthropic Delivers Massive News for AI Stock Investors | NVDA, AMD, MU, AMZN, GOOG, MSFT, AVGO, MRVL",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-02",
+   "nCalls": 0
+  },
+  {
+   "id": "0sj4CTkOw6Q",
+   "title": "IBM Stock: Buy, Hold, or Sell?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-02",
+   "nCalls": 1
+  },
+  {
+   "id": "TMKFZx5xaC8",
+   "title": "I've Reviewed Thousands of Financial Reports: Micron Just Did Something I've Never Seen Before",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-02",
+   "nCalls": 1
+  },
+  {
+   "id": "Yd_P2jHyNdg",
+   "title": "The End of Uber As We Know It?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-02",
+   "nCalls": 0
+  },
+  {
+   "id": "9ky70loGTMo",
+   "title": "Massive Update for Nike Stock Investors! | NKE Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-02",
+   "nCalls": 1
+  },
+  {
+   "id": "oEXzLq-q5cY",
+   "title": "This Stock Dropped 52% Then Jumped 83% (Here's How to Profit from Market Volatility)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-02",
+   "nCalls": 4
+  },
+  {
+   "id": "8pOD-5dG1KM",
+   "title": "4 Surprisingly Cheap Semiconductor Stocks to Buy Now in October (2026)",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-01",
+   "nCalls": 4
+  },
+  {
+   "id": "0DD1Kh8id3E",
+   "title": "Better Buy: Microsoft or Alphabet? | MSFT Stock vs. GOOG Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-01",
+   "nCalls": 2
+  },
+  {
+   "id": "htLYrLT9rHQ",
+   "title": "Massive News for FICO Stock Investors Sending Shares Crashing",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-01",
+   "nCalls": 1
+  },
+  {
+   "id": "ANoYJTT0Amg",
+   "title": "Trump's Playbook: 1 to Buy and 1 to Dump",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-01",
+   "nCalls": 2
+  },
+  {
+   "id": "LdRD7UsaQKc",
+   "title": "Micron Just CRUSHED Earnings — Is MU Stock a BUY?",
+   "creator": "Mark Roussin CPA",
+   "channels": [
+    "Mark Roussin CPA"
+   ],
+   "published_at": "2026-10-01",
+   "nCalls": 1
+  },
+  {
+   "id": "DFQjG012fRk",
+   "title": "Google And Meta Will Beat OpenAI And Anthropic",
+   "creator": "Joseph Carlson After Hours",
+   "channels": [
+    "Joseph Carlson After Hours"
+   ],
+   "published_at": "2026-10-01",
+   "nCalls": 3
+  },
+  {
    "id": "w8Anz3AlKM8",
    "title": "3 Stocks You’ll Wish You Bought Sooner",
    "creator": "Couch Investor",
@@ -2700,6 +3020,26 @@
    ],
    "published_at": "2026-09-30",
    "nCalls": 0
+  },
+  {
+   "id": "cIOHXqXkuLc",
+   "title": "Micron Just Posted Insane Numbers. The Market Doesn't Care",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-09-30",
+   "nCalls": 2
+  },
+  {
+   "id": "HbkvoRgodmw",
+   "title": "Buy the Dip in These 4 Energy Stocks (The Next AI Boom Needs Them)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-09-30",
+   "nCalls": 7
   },
   {
    "id": "-kJ3c3kbXr4",
@@ -2979,6 +3319,66 @@
    "creator": "The German Value Investor",
    "channels": [
     "The German Value Investor"
+   ],
+   "published_at": "2026-09-25",
+   "nCalls": 1
+  },
+  {
+   "id": "FAIuzFLcO4s",
+   "title": "Walmart Has Arguably Been the Best E-Commerce Business in Recent Years | WMT Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-09-25",
+   "nCalls": 1
+  },
+  {
+   "id": "ZaTNOelzTpo",
+   "title": "Do Food Delivery Robots Make DoorDash Stock a No-Brainer Buy? | DASH Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-09-25",
+   "nCalls": 1
+  },
+  {
+   "id": "cZj7HcT8mA8",
+   "title": "Should Investors Buy Visa Instead of Mastercard? | V Stock vs. MA Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-09-25",
+   "nCalls": 2
+  },
+  {
+   "id": "qwAY1V5SLRU",
+   "title": "Is it Safe to Buy Salesforce Stock Right Now? | CRM Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-09-25",
+   "nCalls": 1
+  },
+  {
+   "id": "Fu7xcx-BTTk",
+   "title": "Is This AI Stock a Massive Bubble? (ServiceNow Breakdown)",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-09-25",
+   "nCalls": 1
+  },
+  {
+   "id": "jGIQhe9YgIs",
+   "title": "Great News for IonQ Stock Investors!",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
    ],
    "published_at": "2026-09-25",
    "nCalls": 1
