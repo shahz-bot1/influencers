@@ -3,6 +3,22 @@
  "slug": "RBRK",
  "calls": [
   {
+   "video_id": "J1BVUTa-52s",
+   "channel": "Couch Investor",
+   "title": "I Own These 4 Stocks. I Wouldn't Buy Them Today",
+   "ticker": "RBRK",
+   "direction": "HOLD",
+   "stated_price": null,
+   "thesis": "Took profits after +60.7% YTD; forward P/E ~250x, PEG ~12 - a lot of future success baked in; only re-buys on a big pullback or faster-than-expected profitability",
+   "fair_value": null,
+   "conviction": "medium",
+   "base": "Revenue >20% growth expected, gross margin ~80%, FCF margin ~20%, but op margin -18.3%",
+   "bull": "AI cybersecurity tailwinds; beats expectations consistently",
+   "bear": "Priced to perfection; one soft print could crash it",
+   "flip_from": "SELL",
+   "analyzed_at": "2026-10-09T18:03:19.799081+00:00"
+  },
+  {
    "video_id": "oEXzLq-q5cY",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -37,11 +53,11 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "MarketBeat",
    "idx": 1
   }
  ]
