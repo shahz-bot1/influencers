@@ -1,0 +1,52 @@
+{
+ "video_id": "xuZ8IRS90J8",
+ "title": "3 Stocks with MASSIVE Upside",
+ "creator": "Mark Roussin CPA",
+ "published_at": "2026-10-08",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "In \"3 Stocks with MASSIVE Upside,\" published 8 Oct 2026, Mark Roussin CPA's stance is: not chasing anything at all-time highs — instead \"get paid to wait\" by selling Dec 18 cash-secured puts. His three calls are all CONDITIONAL_BUYs: CRDO — sell the Dec 18 $150 put (~$500 premium, effective basis ~$145; stock ~$220). He is extremely bullish, already owns it; FY revenue tripled to $1.3B, net income 5x, Street average $270. First tracked Roussin CRDO call. GOOGL — sell the Dec 18 $300 put (~$400 premium; stock ~$350). His largest holding and highest conviction; not adding at $350. Prior BUY (2026-10-03 collab) maintained — this is an entry-only stance, not a flip. AMD — sell the Dec 18 $450 put (~$440 premium; stock ~$633 at ATHs). Long-term extremely bullish, calls $1,000 within 12–18 months; quarterly revenue $11.5B +50%, data-center revenue $6.7B +100%. First tracked Roussin AMD call. The unifying argument: at record prices the risk/reward favors collecting premium over chasing entries; the Dec 18 puts set discounted effective bases if assigned. No flips on any of the three names.",
+ "calls": [
+  {
+   "ticker": "CRDO",
+   "direction": "CONDITIONAL_BUY",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_id": "xuZ8IRS90J8",
+   "video_title": "3 Stocks with MASSIVE Upside",
+   "published_at": "2026-10-08T14:00:01.192818+00:00",
+   "analyzed_at": "2026-10-08T18:03:38.548238+00:00",
+   "thesis": "Extremely bullish (already owns; ~+30% since his $165 video); conditional entry: sell Dec 18 $150 cash-secured put (~$500 premium), effective basis ~$145.",
+   "bull_case": "FY revenue tripled to $1.3B, non-GAAP net income 5x; Street avg target $270 (+25%); edge score 76.",
+   "bear_case": "Down ~30% from recent highs; chasing at ~$212 after run is the risk he refuses.",
+   "price_at_call": "entry via $150 put (stock ~$220)"
+  },
+  {
+   "ticker": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_id": "xuZ8IRS90J8",
+   "video_title": "3 Stocks with MASSIVE Upside",
+   "published_at": "2026-10-08T14:00:01.192818+00:00",
+   "analyzed_at": "2026-10-08T18:03:38.548238+00:00",
+   "thesis": "Highest-conviction long-term holding (largest position); not adding at ~$350 — conditional entry: sell Dec 18 $300 cash-secured put (~$400 premium); would happily take 100 more shares at $300.",
+   "bull_case": "Broadest AI ecosystem (Search, YouTube, Cloud, Gemini, TPU, Waymo); avg target $432 (+25%).",
+   "bear_case": "Macro headwinds (rates, inflation, midterms) + index at ATHs = patience over chasing.",
+   "price_at_call": "entry via $300 put (stock ~$350)"
+  },
+  {
+   "ticker": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_id": "xuZ8IRS90J8",
+   "video_title": "3 Stocks with MASSIVE Upside",
+   "published_at": "2026-10-08T14:00:01.192818+00:00",
+   "analyzed_at": "2026-10-08T18:03:38.548238+00:00",
+   "thesis": "Extremely bullish long-term (calls $1,000 within 12-18 months); at fresh ATHs (~$633) so conditional entry only: sell Dec 18 $450 cash-secured put (~$440 premium); needs a meaningful correction.",
+   "bull_case": "Q rev $11.5B +50%, data center $6.7B +100% YoY; Helios rack-scale stack closing gap with Nvidia.",
+   "bear_case": "Stock up ~188% YTD at ATHs — any entry now is chasing.",
+   "price_at_call": "entry via $450 put (stock ~$633)"
+  }
+ ]
+}
