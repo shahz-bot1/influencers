@@ -1,0 +1,42 @@
+{
+ "video_id": "ANoYJTT0Amg",
+ "title": "Trump's Playbook: 1 to Buy and 1 to Dump",
+ "creator": "MarketBeat",
+ "published_at": "2026-10-01",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "\"Trump's Playbook: 1 to Buy and 1 to Dump,\" published 2026-10-01 on MarketBeat, features Prof. Joel Litman of Altimetry Research on the regulation-vs-deregulation theme: banks benefit from Bowman-led Fed deregulation, while government equity stakes ensure survival, not profits. Two calls: FCNCA — BUY (first call on record, no flip), First Citizens as a nimble deregulation winner — 20 acquisitions including the SVB clean-up, commercial-and-industrial loan growth, uniform ROE above GAAP; the guest's guide is under $2,150–$2,200. MP — AVOID (first call on record, no flip), MP Materials: lost money in 2024–2026, down roughly 50% since the US government investment, needs unattainable margins and market share — the guest would not buy, would sell if held, and says it could fall another 50%. No stance flips this run.",
+ "calls": [
+  {
+   "video_id": "ANoYJTT0Amg",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "FCNCA",
+   "direction": "BUY",
+   "price_at_call": "under $2,150–$2,200 (guest entry guide; ~$2,000 reference)",
+   "thesis": "Deregulation beneficiary: nimble acquirer (20 deals incl. SVB clean-up) set to grow by M&A plus organic C&I lending as Bowman-led Fed eases exams/capital; uniform ROE above GAAP.",
+   "base_case": "High double-digit % opportunity on deregulation-led loan growth; 3:1 upside/downside margin of safety.",
+   "bull_case": "More bank M&A allowed + lower capital requirements let FCNCA keep compounding via acquisitions.",
+   "bear_case": null,
+   "published_at": "2026-10-01T22:58:20.857323+00:00",
+   "analyzed_at": "2026-10-02T06:16:07.959243+00:00",
+   "stance_flip": null,
+   "video_title": "Trump's Playbook: 1 to Buy and 1 to Dump"
+  },
+  {
+   "video_id": "ANoYJTT0Amg",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "MP",
+   "direction": "AVOID",
+   "price_at_call": null,
+   "thesis": "Government-backed rare-earths name: lost money 2024-2026, stock -~50% since US investment; needs unattainable margins and near-total market share; guest would not buy, sell if held.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Could fall another 50%; government ownership ensures survival not profitability.",
+   "published_at": "2026-10-01T22:58:20.857323+00:00",
+   "analyzed_at": "2026-10-02T06:16:07.959243+00:00",
+   "stance_flip": null,
+   "video_title": "Trump's Playbook: 1 to Buy and 1 to Dump"
+  }
+ ]
+}
