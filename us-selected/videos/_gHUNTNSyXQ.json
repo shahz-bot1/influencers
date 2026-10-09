@@ -1,0 +1,26 @@
+{
+ "video_id": "_gHUNTNSyXQ",
+ "title": "1 Ridiculously Cheap Stock Investors Can Buy Now in October (2026)",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-03",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "In \"1 Ridiculously Cheap Stock Investors Can Buy Now in October (2026),\" published 2026-10-03, Parkevtate Vosianc CFA names one stock he calls ridiculously cheap: Pinterest. He owns it himself (bought around $34, added lower) and reiterates a top-10 ranking with high conviction. The math: market price around $19 vs his $35 fair value, implying more than 85% upside, on a forward P/E of 7.8 — and that's on his own below-Street growth forecasts of 7–10% for 2027–28, with a raised beta to reflect Meta's widening AI-scale advantage. Call: PINS — BUY (new, first call on record; no flip). The same digest entry also notes two other videos from the day with no explicit calls: \"What's Going on With Micron Stock? | MU Stock Deep Dive Part 1\" (Part 1 of a 4-part deep dive on the blowout quarter — 80%+ operating margins, supply seen tighter through 2028 — verdict deferred to Part 4, existing MU BUY unchanged) and \"Massive News for Broadcom Stock Investors | AVGO Stock Analysis\" (explains the reported ~$42B Broadcom lending to Anthropic, flags circular-financing/demand-quality concerns, no direction stated, existing AVGO BUY unchanged).",
+ "calls": [
+  {
+   "video_id": "_gHUNTNSyXQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "PINS",
+   "direction": "BUY",
+   "price_at_call": "market ~$19 (stated); his FV $35; he bought ~$34 and added lower",
+   "thesis": "New BUY / reiterated top-10 ranking, high conviction (updated Sep 30): forward PE 7.8 'ridiculously cheap' despite his below-Street growth forecasts (7-10% for 2027-28 vs Street 13%/11.5%); >85% upside to his $35 FV even after raising beta for the widening AI-scale gap vs Meta.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-03T11:57:53.964581+00:00",
+   "analyzed_at": "2026-10-03T14:13:54.942491+00:00",
+   "stance_flip": null,
+   "video_title": "1 Ridiculously Cheap Stock Investors Can Buy Now in October (2026)"
+  }
+ ]
+}
