@@ -3,6 +3,22 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "MAsEF53_pd0",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "Is the Upside Worth the Risk in Amazon Stock Right Now in October? | AMZN Stock Analysis",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "stated_price": null,
+   "thesis": "AWS growth accelerating 5 quarters straight (36.7%), ROIC at record highs even at $1T+ asset scale, forward P/E 24 vs 20% revenue growth",
+   "fair_value": null,
+   "conviction": "high - named one of his top 10 stocks to buy; recently doubled his own position, wants to add more",
+   "base": "DCF: negative FCF in 2026-27 ($34B then -$5.6B), capex plateaus ~2028, FCF inflects to $41B+ from 2028",
+   "bull": "$496B backlog with triple-digit YoY growth; Graviton/Trainium chips $25B run rate up triple digits; LLM catalyst not yet launched",
+   "bear": "Two consecutive years of negative FCF; hyperscaler capex cycle could extend past 2028",
+   "analyzed_at": "2026-10-09T13:57:41.664942+00:00",
+   "flip": false
+  },
+  {
    "video_id": "25pD3BJgsy8",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -115,19 +131,19 @@
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 1
-  },
-  {
-   "channel": "Couch Investor",
    "idx": 2
   },
   {
+   "channel": "Couch Investor",
+   "idx": 3
+  },
+  {
    "channel": "Mark Roussin CPA",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
