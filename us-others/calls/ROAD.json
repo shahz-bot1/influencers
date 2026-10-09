@@ -1,0 +1,25 @@
+{
+ "ticker": "ROAD",
+ "slug": "ROAD",
+ "calls": [
+  {
+   "video_id": "vAYeWqe9edU",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ROAD",
+   "direction": "BUY",
+   "thesis": "Unjustified selloff after a good Q3 with guidance raised a 3rd time this year; 80-85% of next year's revenue contractually locked; oil/asphalt cost pass-throughs protect margins; doubled business by 2030.",
+   "base": "Continue compounding revenue/EBITDA/cash flow; meet-and-beat history.",
+   "bull": "Doubler by 2030 with margin expansion.",
+   "bear": null,
+   "stated_price": "No stated price; trading around six-year lows on a price-to-EBITDA basis",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Daniel Pronk",
+   "idx": 0
+  }
+ ]
+}
