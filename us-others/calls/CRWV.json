@@ -3,6 +3,19 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "TgDV_-LeQSE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "thesis": "Dip-buy (~$81, caption-rendered/approx) on the AI selloff overreaction (FT OpenAI ARR report); already a huge holding; AI compute demand still growing per TSMC Sep revenue +54% YoY, Micron supply imbalance, Marvell's raised FY28.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "stated_price": "~$81 (caption-rendered, approximate); 'seems like a no-brainer' at these levels",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  },
+  {
    "video_id": "_X0c2A-Ln9c",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -24,12 +37,16 @@
  ],
  "byInf": [
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Jose Najarro Stocks",
    "idx": 0
   },
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Asymmetric Investing",
    "idx": 1
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 2
   }
  ]
 }
