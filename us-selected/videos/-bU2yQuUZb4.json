@@ -1,0 +1,23 @@
+{
+ "video_id": "-bU2yQuUZb4",
+ "title": "Booking Holdings Stock Down 30%: Is the AI Fear Overblown?",
+ "creator": "The German Value Investor",
+ "published_at": "2026-10-06",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "\"Booking Holdings Stock Down 30%: Is the AI Fear Overblown?,\" published 6 Oct 2026 by The German Value Investor, asks whether the ~30% AI-fear selloff in Booking Holdings is overdone. The call: BKNG — HOLD @ $162 (stated), against his weighted buy limit of $136 — a first BKNG call on record with no flip. His normal-case fair value is $220 (+35%), but the HOLD says he wants it cheaper before committing. The digest excerpt is thin (one digest bullet), so the video's deeper fundamental arguments aren't recoverable from this source — the essence is a watch-and-wait posture: checking whether the derating is justified rather than declaring a bottom. One ticker discussed, one first-time HOLD, no stated timing for entry beyond the $136 buy-limit reference.",
+ "calls": [
+  {
+   "video_id": "-bU2yQuUZb4",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "ticker": "BKNG",
+   "direction": "HOLD",
+   "price_at_call": "$162 (stated; his buy limit $136)",
+   "thesis": "Stock -30% on AI-agent booking disruption fears (Meta's 'News' agent + Expedia partnership), but business still superb: ~25% net margins, P/FCF ~14, 5%/yr buybacks; his weighted 3-scenario model rates it HOLD, not buy, at $162.",
+   "base_case": "Normal: 11% EPS growth 5y, fair PE 18 -> fair value $220 (+35%); buy price ~$164.",
+   "bull_case": "Positive scenario: higher growth, fair PE 21 -> expected return >17%/yr.",
+   "bear_case": "Negative (35% weight): AI agents take over, EPS declines 2%/yr -> fair PE 11, ~$42 (-73%).",
+   "analyzed_at": "2026-10-07T09:59:45.041989+00:00"
+  }
+ ]
+}
