@@ -1,0 +1,25 @@
+{
+ "ticker": "MGM",
+ "slug": "MGM",
+ "calls": [
+  {
+   "video_id": "RL8-R7QY7jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "MGM",
+   "direction": "BUY",
+   "thesis": "EV/EBITDA and P/FCF both below 8x on $7.5B market cap with ~$1B/yr buybacks (~15% of shares); 2030 MGM Japan (Osaka, ~$10B property) is the real catalyst - MBS proxy (~$6B rev, ~$3B adj. EBITDA) implies his 44% stake alone could be worth the whole market cap.",
+   "base": null,
+   "bull": "'That property could be worth 10, 20 billion... even just the 44% stake MGM has could be worth their entire market cap today.'",
+   "bear": "Las Vegas Strip revenue slightly down past two years post 2022-23 surge; Japan 2030+ timeline needs capital spending before payoff.",
+   "stated_price": "No target; EV/EBITDA and P/FCF both below 8x, P/FCF ~5x",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  }
+ ]
+}
