@@ -4,6 +4,30 @@
  "slug": "Jose_Najarro_Stocks",
  "calls": [
   {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-10-09T04:01:30.944983+00:00",
+   "price": null,
+   "video_id": "TgDV_-LeQSE"
+  },
+  {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "BUY",
+   "date": "2026-10-09T04:01:30.944983+00:00",
+   "price": null,
+   "video_id": "TgDV_-LeQSE"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-09T04:01:30.944983+00:00",
+   "price": null,
+   "video_id": "TgDV_-LeQSE"
+  },
+  {
    "ticker": "MRVL",
    "tickerSlug": "MRVL",
    "direction": "BUY",
