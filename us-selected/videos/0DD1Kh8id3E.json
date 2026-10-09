@@ -1,0 +1,28 @@
+{
+ "video_id": "0DD1Kh8id3E",
+ "title": "Better Buy: Microsoft or Alphabet? | MSFT Stock vs. GOOG Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-01",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "\"Better Buy: Microsoft or Alphabet? | MSFT Stock vs. GOOG Stock\" by Parkevtate Vosianc CFA, published 2026-10-01, is a \"next-dollar\" head-to-head between the two mega-caps. The digest records: GOOGL — CONDITIONAL_BUY (his \"next-dollar\" pick vs MSFT; prior BUY 2026-09-27, no flip) — slightly undervalued: DCF fair value $331 vs $343 market; cited metrics: 46% ROIC, $2.15M revenue per employee, and AI further along. MSFT — HOLD (no prior MSFT call on record) — he owns it with no intention of selling; DCF fair value $420 vs $509 means slightly overvalued on DCF but fair on forward PE; margin 47%. No stance flips. No other tickers are discussed in the excerpt.",
+ "calls": [
+  {
+   "video_id": "0DD1Kh8id3E",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "price": null,
+   "thesis": "Preferred next-dollar buy vs MSFT: slightly undervalued (DCF FV $331 vs $343 market), superior ROIC 46% and $2.15M revenue/employee.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  },
+  {
+   "video_id": "0DD1Kh8id3E",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "MSFT",
+   "direction": "HOLD",
+   "price": null,
+   "thesis": "Owns it, no intention of selling; DCF says slightly overvalued (FV $420 vs $509) but forward PE fair, quality Hall of Fame business.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  }
+ ]
+}
