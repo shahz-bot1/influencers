@@ -1,0 +1,48 @@
+{
+ "video_id": "TgDV_-LeQSE",
+ "title": "AI Stocks Just Crashed - But Wall Street Missed Something BIG!!",
+ "creator": "Jose Najarro Stocks",
+ "published_at": "2026-10-09T03:18:37.889631+00:00",
+ "summary": "Najarro reacts to a sharp AI/semiconductor selloff - 7-9% single-day drops across names like CRWV, IREN, COHR and ALAB - triggered by an FT report that OpenAI's end-September ARR was near $50B versus ~$70B expected. He argues the market overreacted: the $50B figure excludes revenue-sharing partnerships, which the $70B estimate included. His stance is that the dip is a buying opportunity. CoreWeave (CRWV) - BUY (first tracked): dip-buy near ~$81 (caption-rendered, approximate) on an already-huge holding; AI compute demand still growing, citing TSMC's September revenue (+54% YoY), Micron's two-year supply imbalance and Marvell's raised FY28 outlook. IREN - BUY (first tracked): he would buy at these levels if he didn't already hold a position. Broadcom (AVGO) - BUY: he doesn't own it but \"definitely see the bullish cases\" at ~20x forward P/E; this reiterates his Oct 7 BUY with no flip. He stresses he is not buying every dip and won't add to already-massive positions - the stances are bullish conviction, not new additions. COHR, ALAB, Lumentum (\"Light\" in captions), ORCL, INTC, ARM and TSM appear as selloff context or bullish datapoints with no explicit calls. Caption garbles: \"Core\"/\"Core Weef\" for CoreWeave, \"Iran\" for IREN, \"Marll\" for Marvell, \"4 PE ratios of 20\" for \"forward PE ratios of 20\" (AVGO).",
+ "calls": [
+  {
+   "video_id": "TgDV_-LeQSE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "thesis": "Dip-buy (~$81, caption-rendered/approx) on the AI selloff overreaction (FT OpenAI ARR report); already a huge holding; AI compute demand still growing per TSMC Sep revenue +54% YoY, Micron supply imbalance, Marvell's raised FY28.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "stated_price": "~$81 (caption-rendered, approximate); 'seems like a no-brainer' at these levels",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  },
+  {
+   "video_id": "TgDV_-LeQSE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "IREN",
+   "direction": "BUY",
+   "thesis": "Would buy at these levels on the AI selloff if he didn't already hold a position; neocloud selloff overreaction.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "stated_price": "'these levels' (no price stated)",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  },
+  {
+   "video_id": "TgDV_-LeQSE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "thesis": "Doesn't own it but 'definitely see the bullish cases'; market wrong at ~20x forward P/E; continuation of his Oct 7 BUY.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "stated_price": "Forward PE ratios of ~20 (caption-rendered)",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  }
+ ]
+}
