@@ -4,6 +4,30 @@
  "slug": "Asymmetric_Investing",
  "calls": [
   {
+   "ticker": "LYFT",
+   "tickerSlug": "LYFT",
+   "direction": "BUY",
+   "date": "2026-10-09T04:01:30.944983+00:00",
+   "price": null,
+   "video_id": "RL8-R7QY7jU"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-10-09T04:01:30.944983+00:00",
+   "price": null,
+   "video_id": "RL8-R7QY7jU"
+  },
+  {
+   "ticker": "MGM",
+   "tickerSlug": "MGM",
+   "direction": "BUY",
+   "date": "2026-10-09T04:01:30.944983+00:00",
+   "price": null,
+   "video_id": "RL8-R7QY7jU"
+  },
+  {
    "ticker": "Z",
    "tickerSlug": "Z",
    "direction": "BUY",
