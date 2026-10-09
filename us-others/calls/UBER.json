@@ -3,6 +3,19 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "RL8-R7QY7jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "thesis": "Gross bookings, trips, monthly riders (28M) and delivery all compounding; mobility CAGR 22%, delivery ~19%; Uber becomes the demand-aggregator for all AV players in an autonomous world.",
+   "base": null,
+   "bull": "'A decade from now if you can go on Uber and pick what kind of autonomous vehicle you want' - multi-vehicle demand network.",
+   "bear": "The bear case he argues against: riders going directly to a Tesla/Waymo network instead of an aggregator.",
+   "stated_price": "No target; ~$140B market cap",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  },
+  {
    "video_id": "1Js-3kgdOMw",
    "channel": "Sven Carlin",
    "handle": "@value-investing",
@@ -18,8 +31,12 @@
  ],
  "byInf": [
   {
-   "channel": "Sven Carlin",
+   "channel": "Asymmetric Investing",
    "idx": 0
+  },
+  {
+   "channel": "Sven Carlin",
+   "idx": 1
   }
  ]
 }
