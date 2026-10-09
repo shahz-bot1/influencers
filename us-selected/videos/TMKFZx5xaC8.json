@@ -1,0 +1,26 @@
+{
+ "video_id": "TMKFZx5xaC8",
+ "title": "I've Reviewed Thousands of Financial Reports: Micron Just Did Something I've Never Seen Before",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-02",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "In \"I've Reviewed Thousands of Financial Reports: Micron Just Did Something I've Never Seen Before,\" published 2026-10-02, Parkevtate Vosianc CFA explains why Micron stock was flat on what he calls unprecedented results, and updates his Micron ranking ahead of a deeper dive. The headline numbers: two straight quarters of 80%+ operating margins (80.7%), revenue of $54.2B up roughly 5x year-over-year, and guidance of $61.5B at about an 86% gross margin, with longer-term customer agreements improving visibility. His stance is very high conviction despite the muted price reaction. Call: MU — BUY, at approximately $1,165 market vs a ~$1,430 fair value (caption-garbled figures); reiterating the buy with very high conviction. No flip — the prior MU call was already BUY. No other tickers discussed.",
+ "calls": [
+  {
+   "video_id": "TMKFZx5xaC8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": "FV ~$1,430 vs market ~$1,165 (caption-garbled figures); FV to be revised higher",
+   "thesis": "Reiterating BUY, very high conviction: two straight quarters of 80%+ operating margins (80.7%), revenue $54.2B ~5x YoY, next-quarter guide $61.5B at ~86% gross margin; longer-term customer agreements improving visibility, though current margins are not sustainable long-term.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-02T11:00:45.184344+00:00",
+   "analyzed_at": "2026-10-03T06:29:52.571646+00:00",
+   "stance_flip": null,
+   "video_title": "I've Reviewed Thousands of Financial Reports: Micron Just Did Something I've Never Seen Before"
+  }
+ ]
+}
