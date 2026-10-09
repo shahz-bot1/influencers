@@ -1,0 +1,25 @@
+{
+ "ticker": "IREN",
+ "slug": "IREN",
+ "calls": [
+  {
+   "video_id": "TgDV_-LeQSE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "IREN",
+   "direction": "BUY",
+   "thesis": "Would buy at these levels on the AI selloff if he didn't already hold a position; neocloud selloff overreaction.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "stated_price": "'these levels' (no price stated)",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 0
+  }
+ ]
+}
