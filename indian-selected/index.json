@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T22:43:36.694185+00:00",
+ "updated": "2026-10-09T07:52:53.585375+00:00",
  "tickers": [
   {
    "ticker": "GOLD",
@@ -246,14 +246,14 @@
    "handle": "@AkshatZayn",
    "slug": "Akshat_Shrivastava",
    "nCalls": 0,
-   "nVideos": 6
+   "nVideos": 7
   },
   {
    "name": "Rahul Jain",
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
    "nCalls": 15,
-   "nVideos": 13
+   "nVideos": 16
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -265,6 +265,36 @@
  ],
  "videos": [
   {
+   "id": "iUFTetH7ifY",
+   "title": "Harsimran x rahul 4k",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-08",
+   "nCalls": 0
+  },
+  {
+   "id": "4WvqWxmPynM",
+   "title": "The upcoming stock market collapse (& how to prepare for it)",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-10-07",
+   "nCalls": 0
+  },
+  {
+   "id": "sX2UJQcBbIA",
+   "title": "3 Couple Therapists reveal secrets to 100x love life, marriage, intimacy & relationship - G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-04",
+   "nCalls": 0
+  },
+  {
    "id": "k6OvCeQqLGA",
    "title": "Is This The BEST Time to Invest In Banking Stocks? | Watch Before It's Too Late !! | Rahul Jain",
    "creator": "Rahul Jain",
@@ -272,6 +302,16 @@
     "Rahul Jain"
    ],
    "published_at": "2026-10-03",
+   "nCalls": 0
+  },
+  {
+   "id": "t2PIJ0N8vLw",
+   "title": "100x your clarity on life, health, money, relations, parenting to live a meaningful life - G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-02",
    "nCalls": 0
   },
   {
