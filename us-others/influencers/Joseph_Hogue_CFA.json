@@ -4,6 +4,14 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "BOT",
+   "tickerSlug": "BOT",
+   "direction": "BUY",
+   "date": "2026-10-09T04:01:30.944983+00:00",
+   "price": null,
+   "video_id": "vFGkr80KPBw"
+  },
+  {
    "ticker": "SOFI",
    "tickerSlug": "SOFI",
    "direction": "BUY",
