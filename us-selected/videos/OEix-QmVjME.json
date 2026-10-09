@@ -1,0 +1,24 @@
+{
+ "video_id": "OEix-QmVjME",
+ "title": "1 Undervalued Dividend Stock You Can Buy and Hold Forever",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-08",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "In \"1 Undervalued Dividend Stock You Can Buy and Hold Forever,\" published 8 Oct 2026, Parkevtate Vosianc CFA reiterates his PepsiCo case: PEP — BUY @ ~$125 (reiterated, no flip; prior BUY was 2026-09-29 @ $128). His DCF fair value of $178 implies ~40% upside, and Pepsi trades at its cheapest forward P/E (14x) in years. Headwinds named: war-driven demand drop, fuel costs, and the long-term consumer shift toward healthier choices. The digest excerpt bundles a same-day summary of Mark Roussin CPA's \"3 Stocks with MASSIVE Upside,\" a separate video whose thesis is not chasing anything at all-time highs but \"getting paid to wait\" via Dec 18 cash-secured puts. Roussin's calls there (not attributed to Parkevtate's video): CRDO — CONDITIONAL_BUY via selling the Dec 18 $150 put (~$500 premium, effective basis ~$145; stock ~$220; FY revenue tripled to $1.3B, net income 5x, Street avg $270); GOOGL — CONDITIONAL_BUY via selling the Dec 18 $300 put (~$400 premium; stock ~$350; his largest, highest-conviction holding, not adding at $350); AMD — CONDITIONAL_BUY via selling the Dec 18 $450 put (~$440 premium; stock ~$633 at ATHs; long-term extremely bullish, calls $1,000 within 12–18 months, Q revenue $11.5B +50%, DC revenue $6.7B +100%).",
+ "calls": [
+  {
+   "ticker": "PEP",
+   "direction": "BUY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_id": "OEix-QmVjME",
+   "video_title": "1 Undervalued Dividend Stock You Can Buy and Hold Forever",
+   "published_at": "2026-10-08T16:00:01.192818+00:00",
+   "analyzed_at": "2026-10-08T18:03:38.548238+00:00",
+   "thesis": "BUY reiterated: DCF fair value $178 vs $125 (-40%), cheapest fwd P/E (14x) in years; buy-and-hold-forever quality.",
+   "bull_case": "Tariff refunds lift margins; ROIC 14.5% > WACC; mgmt guides 6-8% revenue growth.",
+   "bear_case": "Near-term: war-driven demand drop + fuel/diesel cost pressure; long-term: healthier-choice shift away from sugary drinks/salty snacks.",
+   "price_at_call": "~$125 (stated)"
+  }
+ ]
+}
