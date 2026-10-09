@@ -1,0 +1,42 @@
+{
+ "video_id": "cZj7HcT8mA8",
+ "title": "Should Investors Buy Visa Instead of Mastercard? | V Stock vs. MA Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-25",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "\"Should Investors Buy Visa Instead of Mastercard? | V Stock vs. MA Stock\" by Parkevtate Vosianc CFA, published 2026-09-25, is a head-to-head comparison of the payment duopoly, published about 15 minutes before the scan. Both names trade at 24x forward earnings, but his DCF analysis finds Visa slightly undervalued (worth $377 vs a $364 market price) while Mastercard is slightly overvalued (worth $523 vs $559 market). He would pick Visa today — it has better margins (67% vs 59%) and mild undervaluation — while owning both as long-term compounders. The digest records two calls: V — BUY @ $364 (DCF $377); bull case: duopoly economics, bear case: regulators and stablecoins. MA — HOLD @ $559 (DCF $523); a Hall of Fame company at fair prices that he prefers less than Visa today; bull: faster growth; bear: the same disruption and regulatory risks, but at a premium. No stance flips (no prior V/MA calls on record).",
+ "calls": [
+  {
+   "video_id": "cZj7HcT8mA8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "MA",
+   "direction": "HOLD",
+   "price_at_call": "$559 (DCF $523 stated)",
+   "thesis": "Hall of Fame company at fair prices; prefers V today on better margins (67% vs 59%) and mild undervaluation — MA slightly overvalued at $559 vs $523 DCF.",
+   "base_case": "DCF fair value $523.",
+   "bull_case": "Faster growth than Visa.",
+   "bear_case": "Same disruption/regulatory risks as V, but priced at a premium.",
+   "video_title": "Should Investors Buy Visa Instead of Mastercard? | V Stock vs. MA Stock",
+   "published_at": "2026-09-25T13:58:18+00:00",
+   "analyzed_at": "2026-09-25T22:06:06.990084+00:00",
+   "flip": false,
+   "backfilled": "15:00 intraday digest had MA HOLD but calls.json was missing it; added in 23:00 run"
+  },
+  {
+   "video_id": "cZj7HcT8mA8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Visa Instead of Mastercard? | V Stock vs. MA Stock",
+   "published_at": "2026-09-25T13:45:39+00:00",
+   "ticker": "V",
+   "direction": "BUY",
+   "price_at_call": "$364 (stated market price; DCF fair value $377)",
+   "thesis": "Would buy Visa instead of Mastercard today: better operating margins (67% vs 59%), trading at 24x forward earnings below historic average; owns both as long-term compounders.",
+   "base_case": "DCF fair value $377 vs $364 market = mildly undervalued.",
+   "bull_case": "Lax duopoly keeps margins the best of any company he follows; nominal spending growth compounds.",
+   "bear_case": "Regulators increasingly hostile to US payment networks; stablecoins could bypass Visa/Mastercard.",
+   "analyzed_at": "2026-09-25T13:58:32.207911+00:00"
+  }
+ ]
+}
