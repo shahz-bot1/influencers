@@ -1,0 +1,25 @@
+{
+ "video_id": "Fu7xcx-BTTk",
+ "title": "Is This AI Stock a Massive Bubble? (ServiceNow Breakdown)",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-25",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "\"Is This AI Stock a Massive Bubble? (ServiceNow Breakdown)\" by Parkevtate Vosianc CFA, published 2026-09-25 (about two hours before the scan), is a deep dive on ServiceNow. Key points from the digest: a $30–32B revenue target by 2030 and the AI revenue guide raised from $1B to $1.5B for 2026 — though his conviction is lower than it was at sub-$100 prices. The digest records one call: NOW — BUY @ $138 (fair value $158, ~14% upside over 12–18 months); bull case: the SMB AI implementation lane; bear case: fast-moving AI dynamics demanding a bigger margin of safety. No flip. No other tickers are discussed in the excerpt.",
+ "calls": [
+  {
+   "video_id": "Fu7xcx-BTTk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is This AI Stock a Massive Bubble? (ServiceNow Breakdown)",
+   "published_at": "2026-09-25T11:55:39+00:00",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "price_at_call": "$138 (stated; DCF fair value $158)",
+   "thesis": "Still a buying opportunity but with lower conviction than at sub-$100: slightly undervalued; $30-32B revenue target by 2030 (2x TTM $14.7B), AI revenue guide raised to $1.5B for 2026.",
+   "base_case": "DCF fair value $158 vs $138 = ~14% upside over 12-18 months.",
+   "bull_case": "SMB AI implementation services open a new growth lane bridging LLM capabilities to small business.",
+   "bear_case": "Fast-moving AI dynamics warrant a larger margin of safety at $140.",
+   "analyzed_at": "2026-09-25T13:58:32.207911+00:00"
+  }
+ ]
+}
