@@ -3,6 +3,22 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "J1BVUTa-52s",
+   "channel": "Couch Investor",
+   "title": "I Own These 4 Stocks. I Wouldn't Buy Them Today",
+   "ticker": "NFLX",
+   "direction": "HOLD",
+   "stated_price": "~$71",
+   "thesis": "Owns a small remainder (cut position by half, down 16%); growth decelerating to ~10% expected by fiscal 28 - wants mid-teens growth and margin confirmation before adding",
+   "fair_value": "~$71 undervalued on his DCF",
+   "conviction": "medium - says it's undervalued but won't buy without better growth",
+   "base": "16% revenue growth TTM, operating margin nearing 30%, FCF margin 23.1%",
+   "bull": "Price hikes and ad-supported tier working well; cheap on DCF at $71",
+   "bear": "Growth keeps decelerating; even the co-CEO flagged growth as insufficient",
+   "flip_from": "SELL",
+   "analyzed_at": "2026-10-09T18:03:19.799081+00:00"
+  },
+  {
    "video_id": "NAVLUH9egdU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -105,16 +121,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
-   "idx": 3
+   "channel": "Joseph Carlson After Hours",
+   "idx": 2
   }
  ]
 }
