@@ -3,6 +3,22 @@
  "slug": "RDDT",
  "calls": [
   {
+   "video_id": "J1BVUTa-52s",
+   "channel": "Couch Investor",
+   "title": "I Own These 4 Stocks. I Wouldn't Buy Them Today",
+   "ticker": "RDDT",
+   "direction": "HOLD",
+   "stated_price": null,
+   "thesis": "Starter position held; DCF says undervalued (trailing P/E 36.5, forward 26, PEG 0.7) but waiting for next earnings and an AI data-licensing deal catalyst before adding",
+   "fair_value": "undervalued on DCF",
+   "conviction": "medium",
+   "base": "$30B company, global ARPU doubled in 3 years, margins improving across the board",
+   "bull": "AI data licensing deals monetize its corpus; US/Canada user growth re-accelerates",
+   "bear": "No data-licensing deal materializes; monetization stalls",
+   "flip_from": "BUY",
+   "analyzed_at": "2026-10-09T18:03:19.799081+00:00"
+  },
+  {
    "video_id": "D-P5ryvcIAA",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
