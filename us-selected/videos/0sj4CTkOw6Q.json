@@ -1,0 +1,26 @@
+{
+ "video_id": "0sj4CTkOw6Q",
+ "title": "IBM Stock: Buy, Hold, or Sell?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-02",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "In \"IBM Stock: Buy, Hold, or Sell?,\" published 2026-10-02, Parkevtate Vosianc CFA updates his IBM ranking on improving margins, productivity and valuation following the recent quarterly revenue miss. The digest notes he comes in slightly more bullish than his last look on 27 July. Key numbers: revenue growth guide of about 5%, operating margin expanded from roughly 11% in 2021 to around 21%, and his DCF fair value of $254 vs a $220 market price, implying roughly 15% upside over 12–18 months. Call: IBM — BUY at $220 market (stated), medium conviction, reiterating the buy. No flip — this is the first IBM call on record. No other tickers discussed.",
+ "calls": [
+  {
+   "video_id": "0sj4CTkOw6Q",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "IBM",
+   "direction": "BUY",
+   "price_at_call": "market $220 (stated); DCF FV $254",
+   "thesis": "Reiterating BUY, medium conviction, slightly more bullish than his 27 Jul ranking: revenue ~5% growth guide, operating margin ~11% to ~21% since 2021, AI-driven revenue/employee at record levels, ~15% upside to FV over 12-18 months.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-02T17:00:45.184344+00:00",
+   "analyzed_at": "2026-10-03T06:29:52.571646+00:00",
+   "stance_flip": null,
+   "video_title": "IBM Stock: Buy, Hold, or Sell?"
+  }
+ ]
+}
