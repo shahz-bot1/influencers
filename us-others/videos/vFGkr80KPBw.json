@@ -1,0 +1,22 @@
+{
+ "video_id": "vFGkr80KPBw",
+ "title": "ONE Stock is All You Need in This $5 Trillion Opportunity",
+ "creator": "Joseph Hogue, CFA",
+ "published_at": "2026-10-06T16:00:40.826176+00:00",
+ "summary": "Hogue frames humanoid robotics as the \"$5 trillion opportunity\" (Morgan Stanley's estimate of a ~930M-humanoid market by 2050) and pitches Robo Strategy (BOT), a Nasdaq-listed closed-end fund, as the single vehicle giving everyday investors pre-IPO access to private robotics leaders - Figure, Apptronik, Dyna Robotics and Standard Bots - they would otherwise never reach. He walks through the closed-end mechanics investors must understand: the difference between the fund's NAV ($11.35/share as of Aug 31, ~$277M net assets) and its market price, with an illustrative $25 vs $11.35 NAV example showing a 2x+ premium. He stresses it is a long-term, sized position - \"not an all-in, all-at-once idea\" - and lays out the milestones that matter: pilots converting to production deployments, operating hours and intervention rates, and unit economics (cost per robot, cost per productive hour). His upside framing goes beyond Morgan Stanley: Robo Strategy's own $60T total-addressable-market scenario for robotics plus physical AI. Call: BOT - BUY (first tracked; market price not stated, premium/discount to NAV is the central risk). MU gets only a passing market-cap comparison (his UNCERTAIN stance unchanged); SK Hynix, Sanctuary and the private holdings are passing mentions with no calls. Caption garbles: \"Joseph Ogg\" for Hogue, \"Daina\" for Dyna Robotics; a Standard Bots Series C figure is unreliable as captioned.",
+ "calls": [
+  {
+   "video_id": "vFGkr80KPBw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BOT",
+   "direction": "BUY",
+   "thesis": "Robo Strategy closed-end fund gives Main Street pre-IPO access to private robotics/humanoid leaders (Figure, Apptronik, Dyna, Standard Bots) with public liquidity; long-term sized position for the $5T robotics wave.",
+   "base": null,
+   "bull": "Robo Strategy's $60T TAM scenario for robotics + physical AI; Morgan Stanley's ~930M humanoids by 2050.",
+   "bear": "Closed-end premium/discount to NAV is the central risk; illustrated $25 market vs $11.35 NAV = 2x+ premium.",
+   "stated_price": "NAV $11.35/share (Aug 31, 2026; ~$277M net assets); market price not stated in video",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  }
+ ]
+}
