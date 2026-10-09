@@ -4,6 +4,46 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "NICE",
+   "tickerSlug": "NICE",
+   "direction": "BUY",
+   "date": "2026-10-09T18:03:19.799081+00:00",
+   "price": null,
+   "video_id": "dAqnRb0I_C4"
+  },
+  {
+   "ticker": "NVTS",
+   "tickerSlug": "NVTS",
+   "direction": "HOLD",
+   "date": "2026-10-09T18:03:19.799081+00:00",
+   "price": null,
+   "video_id": "GlnqbglLpkg"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "HOLD",
+   "date": "2026-10-09T18:03:19.799081+00:00",
+   "price": null,
+   "video_id": "38fm2cEEk_c"
+  },
+  {
+   "ticker": "CEG",
+   "tickerSlug": "CEG",
+   "direction": "BUY",
+   "date": "2026-10-09T13:57:41.664942+00:00",
+   "price": "~$300 (after +12% spike on news)",
+   "video_id": "4Rh8fxlUvVQ"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-10-09T13:57:41.664942+00:00",
+   "price": null,
+   "video_id": "MAsEF53_pd0"
+  },
+  {
    "ticker": "RIVN",
    "tickerSlug": "RIVN",
    "direction": "HOLD",
