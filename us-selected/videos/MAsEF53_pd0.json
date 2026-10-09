@@ -1,0 +1,26 @@
+{
+ "video_id": "MAsEF53_pd0",
+ "title": "Is the Upside Worth the Risk in Amazon Stock Right Now in October?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-09T11:55:48.696923+00:00",
+ "source_note": "Detailed summary generated from video captions (manual English captions)",
+ "summary": "Parkevtate Vosianc asks whether Amazon is a buy in October. The bull case: revenue growth accelerated to 20%, operating income +43%, and AWS is the driver — 36.7% growth (five straight accelerating quarters, fastest in 18 quarters) at ~40% operating margins versus <10% in e-commerce, with a ~$496B backlog growing triple digits. His key chart shows total assets soaring from ~$100B (2017) to over $1T while return on invested capital hits record highs — a rare feat at that scale, which he contrasts with Starbucks' declining ROIC. Proprietary chips (Graviton/Trainium) run at a $25B annual revenue rate, up triple digits; AI revenue run-rate also exceeds $25B. The bear case: two years of negative free cash flow ahead (his DCF: -$34B this year, -$5.6B next) before inflecting in 2028, which he believes will be hyperscalers' final year of rising data-center capex. At a forward P/E of 24 against 20% revenue and 43% op-income growth, he finds it attractive. Call: AMZN BUY — named one of his top 10 stocks to buy now; he recently doubled his own position and wants to add more. Reiteration of his Oct 5 BUY; no flip.",
+ "calls": [
+  {
+   "video_id": "MAsEF53_pd0",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "Is the Upside Worth the Risk in Amazon Stock Right Now in October? | AMZN Stock Analysis",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "stated_price": null,
+   "thesis": "AWS growth accelerating 5 quarters straight (36.7%), ROIC at record highs even at $1T+ asset scale, forward P/E 24 vs 20% revenue growth",
+   "fair_value": null,
+   "conviction": "high - named one of his top 10 stocks to buy; recently doubled his own position, wants to add more",
+   "base": "DCF: negative FCF in 2026-27 ($34B then -$5.6B), capex plateaus ~2028, FCF inflects to $41B+ from 2028",
+   "bull": "$496B backlog with triple-digit YoY growth; Graviton/Trainium chips $25B run rate up triple digits; LLM catalyst not yet launched",
+   "bear": "Two consecutive years of negative FCF; hyperscaler capex cycle could extend past 2028",
+   "analyzed_at": "2026-10-09T13:57:41.664942+00:00",
+   "flip": false
+  }
+ ]
+}
