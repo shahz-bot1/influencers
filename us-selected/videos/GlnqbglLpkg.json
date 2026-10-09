@@ -1,0 +1,26 @@
+{
+ "video_id": "GlnqbglLpkg",
+ "title": "Should Investors Buy Navitas Semiconductor Stock on the Dip?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-09T16:00:00.885894+00:00",
+ "source_note": "Detailed summary generated from video captions (manual English captions)",
+ "summary": "Parkevtate Vosianc asks whether Navitas Semiconductor is a buy on the dip. The story is exciting — high-voltage GaN/SiC power semiconductors for AI, defense and infrastructure, with signed contracts and a multi-year backlog driving Wall Street forecasts of +56% revenue growth in 2027 and +67% in 2028. But the financials are grim: revenue collapsed from >$90M TTM a couple of years ago to $36.5M TTM (-46%), 2025 revenue fell 45% YoY, cash flow from operations-to-sales is -182% and worsening, and ROIC is -64%. With negative earnings and cash flow, he uses forward price-to-sales: over 42x — expensive even for the expected growth. His DCF fair value is just over $3 versus ~$12 market. The stock whipsawed from ~$7 to over $30 and back below $10 in a matter of months. Call: NVTS HOLD with low conviction — 'right business, wrong price'; he's waiting on the sidelines for a cheaper entry or business improvement before it becomes attractive for long-term investors. First tracked call on NVTS; no flip.",
+ "calls": [
+  {
+   "video_id": "GlnqbglLpkg",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "Should Investors Buy Navitas Semiconductor Stock on the Dip? | NVTS Stock Analysis",
+   "ticker": "NVTS",
+   "direction": "HOLD",
+   "stated_price": "~$12",
+   "thesis": "Right business at the right time (AI/defense power semis) but overvalued - waiting on the sidelines for a better price or business improvement",
+   "fair_value": "~$3",
+   "conviction": "low",
+   "base": "Revenue collapsed from $90M+ to $36.5M TTM; analysts expect +56% in 2027, +67% in 2028",
+   "bull": "Backlog converts, 2027-28 growth materializes, margins turn",
+   "bear": "Negative cash flow worsens (-182% CFO-to-sales); roller-coaster volatility continues",
+   "flip_from": null,
+   "analyzed_at": "2026-10-09T18:03:19.799081+00:00"
+  }
+ ]
+}
