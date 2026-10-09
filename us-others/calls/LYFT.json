@@ -1,0 +1,25 @@
+{
+ "ticker": "LYFT",
+ "slug": "LYFT",
+ "calls": [
+  {
+   "video_id": "RL8-R7QY7jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "LYFT",
+   "direction": "BUY",
+   "thesis": ">30M active riders, ~1B rides/yr, $1.1B TTM FCF, net-cash balance sheet; AV-disruption fear overblown given Waymo partnership, Europe taxi foothold and acquirer appeal at ~8x fwd P/E, ~5x fwd P/FCF.",
+   "base": "Growth + margin expansion + multiple expansion.",
+   "bull": "Acquisition target: 'wouldn't be surprised if a Waymo buys them, a Zoox buys them' - low-risk acquisition at this multiple.",
+   "bear": "If Tesla and Waymo enter and Lyft falls to #4 in autonomy, 'that could be a real problem.'",
+   "stated_price": "No target; ~8x forward P/E, ~5x forward P/FCF; $5.9B market cap, $5.3B EV",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  }
+ ]
+}
