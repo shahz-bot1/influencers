@@ -1,0 +1,23 @@
+{
+ "video_id": "oz5PKccN5Gw",
+ "title": "Is it Too Late to Buy Carnival Cruise Stock? | CCL Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-06",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc CFA's Carnival Cruise video, published 2026-10-06 and picked up in the 2026-10-07 overnight digest, asks whether the ship has already sailed for buyers — and answers with a reiterated buy. The single digest bullet records: CCL — BUY (reiteration), with his fair value at $43 against a ~$26 market price after a Q3 beat in which yields, EBITDA and EPS all came in above expectations and FY guidance was raised. No further argument detail, bull/bear breakdown, or valuation walkthrough is given in the excerpt. The same digest notes 13 members-only videos still caption-gated (covering NICE, NVTS, AMZN, PLTR, NFLX, UBER, the MU deep dive, '1 Ridiculously Cheap Semiconductor Stock,' LCID, RIVN, a UBER 'Multibillion Dollar Acquisition' video, an AMD update, and a dividend stock), moved to seen with a skipped marker for automatic retry in later scans. No stance flips in the run.",
+ "calls": [
+  {
+   "video_id": "oz5PKccN5Gw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "CCL",
+   "direction": "BUY",
+   "price_at_call": 26.0,
+   "thesis": "Reiterated buying opportunity after Q3 beat on yields/EBITDA/NI/EPS and raised full-year profit expectations; 2027 half-booked, 2028 strong; $1.2B buybacks YTD, $5B+ of high-rate debt repaid. Fair value $43 vs $26 market price.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-10-07T05:56:37.005034+00:00"
+  }
+ ]
+}
