@@ -3,6 +3,38 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "J1BVUTa-52s",
+   "channel": "Couch Investor",
+   "title": "I Own These 4 Stocks. I Wouldn't Buy Them Today",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "stated_price": null,
+   "thesis": "Trimmed 25-30% after +184% YTD run; valuation stretched, parks marginal capital in NVDA/AVGO; wants evidence of capacity-led acceleration beyond expectations before re-adding",
+   "fair_value": null,
+   "conviction": "medium",
+   "base": "FCF to grow from $7.5B to $30.3B by fiscal 28 per his estimates; net margin rising",
+   "bull": "Capacity unlock in 2027 drives Nvidia-style growth surprise",
+   "bear": "Growth decelerates into fiscal 28 as analysts expect",
+   "flip_from": null,
+   "analyzed_at": "2026-10-09T18:03:19.799081+00:00"
+  },
+  {
+   "video_id": "38fm2cEEk_c",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "Massive Update for AMD Stock Investors",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "stated_price": "~$655",
+   "thesis": "Downgrade from his Sep 3 BUY (stock +37% since, now $655+) - price well above $419 intrinsic value; fundamentals excellent but valuation ahead of itself",
+   "fair_value": "$419",
+   "conviction": "medium (upgraded from low on recent accuracy)",
+   "base": "FCF $7.5B this year to $44B in 2030 (6x); Meta/agentic AI tailwinds",
+   "bull": "Growth far exceeds even his robust estimates",
+   "bear": "Sentiment extreme; mean reversion toward intrinsic value",
+   "flip_from": "BUY (self-reported Sep 3 upgrade; first tracked in calls.json)",
+   "analyzed_at": "2026-10-09T18:03:19.799081+00:00"
+  },
+  {
    "ticker": "AMD",
    "direction": "CONDITIONAL_BUY",
    "channel": "Mark Roussin CPA",
@@ -107,16 +139,20 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 2
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 3
   }
  ]
 }
