@@ -1,0 +1,28 @@
+{
+ "ticker": "NVTS",
+ "slug": "NVTS",
+ "calls": [
+  {
+   "video_id": "GlnqbglLpkg",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "Should Investors Buy Navitas Semiconductor Stock on the Dip? | NVTS Stock Analysis",
+   "ticker": "NVTS",
+   "direction": "HOLD",
+   "stated_price": "~$12",
+   "thesis": "Right business at the right time (AI/defense power semis) but overvalued - waiting on the sidelines for a better price or business improvement",
+   "fair_value": "~$3",
+   "conviction": "low",
+   "base": "Revenue collapsed from $90M+ to $36.5M TTM; analysts expect +56% in 2027, +67% in 2028",
+   "bull": "Backlog converts, 2027-28 growth materializes, margins turn",
+   "bear": "Negative cash flow worsens (-182% CFO-to-sales); roller-coaster volatility continues",
+   "flip_from": null,
+   "analyzed_at": "2026-10-09T18:03:19.799081+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
