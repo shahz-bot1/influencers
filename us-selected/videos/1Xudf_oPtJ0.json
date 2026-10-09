@@ -1,0 +1,49 @@
+{
+ "video_id": "1Xudf_oPtJ0",
+ "title": "Only 20 Stocks Are Holding Up the Market (3 Buy the Dip Stocks Outside of AI)",
+ "creator": "MarketBeat",
+ "published_at": "2026-10-06",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "In \"Only 20 Stocks Are Holding Up the Market (3 Buy the Dip Stocks Outside of AI),\" published 6 Oct 2026, MarketBeat hosts guest Whitney Tilson, who names three buy-the-dip picks deliberately outside AI: JOBY — BUY (flagged speculative), CASY — BUY, and LLY — BUY. All three are first calls on record with no flips, and the digest gives no stated prices, valuations, or further argument detail beyond the buy-the-dip framing. The thesis is simply that only about 20 stocks are holding up the market, and these three beaten-down non-AI names are the guest's dip-buy candidates. Nothing else in the excerpt adds valuation math or a broader argument, so the summary stays narrow: three first-time BUYs from a guest, no prior stances to flip against.",
+ "calls": [
+  {
+   "video_id": "1Xudf_oPtJ0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "JOBY",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Whitney Tilson (Stansberry Research): speculative — eVTOL leader retraced to $7 (~$6B mkt cap), no revenue/FAA approval yet; unlimited upside, size appropriately. First commercial flights in UAE the catalyst.",
+   "base_case": null,
+   "bull_case": "Buyout for motor/battery tech and engineers by an EV maker or defense contractor if air-taxi story fails.",
+   "bear_case": "No near-term catalyst; FAA approval 1-2+ years out; could run out of runway if delays persist (he argues cash is fine).",
+   "analyzed_at": "2026-10-07T05:56:37.005034+00:00"
+  },
+  {
+   "video_id": "1Xudf_oPtJ0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "CASY",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Whitney Tilson (Stansberry): Casey's General Stores down 34% in 2 months to 26x forward earnings (was 35x); pullback from guidance miss not thesis-breaking; 3,000 Midwestern c-stores, huge expansion runway, Walmart-in-1988 analogue.",
+   "base_case": null,
+   "bull_case": "Double-digit earnings growth for 10+ years makes 26x a bargain; could nearly double footprint on Texas small towns alone.",
+   "bear_case": "Premium multiple still needs flawless execution; higher fuel prices squeeze inside-store (high-margin) spend.",
+   "analyzed_at": "2026-10-07T05:56:37.005034+00:00"
+  },
+  {
+   "video_id": "1Xudf_oPtJ0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "LLY",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Whitney Tilson (Stansberry): Eli Lilly at ~28x forward earnings (below recent years), earnings exploding ~70% YoY; retatrutide (29% avg weight loss) phase 3 could dominate; GLP-1 TAM expanding beyond weight loss/diabetes.",
+   "base_case": null,
+   "bull_case": "Nvidia-style run: $1T to multi-trillion if GLP-1s become near-universal.",
+   "bear_case": "~40x trailing earnings prices in a lot; regulatory/pricing pressure on GLP-1s.",
+   "analyzed_at": "2026-10-07T05:56:37.005034+00:00"
+  }
+ ]
+}
