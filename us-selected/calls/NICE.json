@@ -1,0 +1,28 @@
+{
+ "ticker": "NICE",
+ "slug": "NICE",
+ "calls": [
+  {
+   "video_id": "dAqnRb0I_C4",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "NICE Stock Analysis: Buy or Sell?",
+   "ticker": "NICE",
+   "direction": "BUY",
+   "stated_price": "$116",
+   "thesis": "Revenue accelerating (7.7% 2025 to 11.8% 2028), AI bookings and backlog growing; stock looks undervalued on forward P/E and DCF",
+   "fair_value": "$188 (62% upside)",
+   "conviction": "low - margin stabilization not yet seen",
+   "base": "Revenue $1B to $3B+ over decade, headed to ~$3.9B by 2028",
+   "bull": "Margins stabilize/inflect higher with revenue scale",
+   "bear": "CFO-to-sales keeps slipping; ROIC 10.8% below WACC",
+   "flip_from": null,
+   "analyzed_at": "2026-10-09T18:03:19.799081+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
