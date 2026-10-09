@@ -1,0 +1,26 @@
+{
+ "video_id": "jGIQhe9YgIs",
+ "title": "Great News for IonQ Stock Investors!",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-25",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "\"Great News for IonQ Stock Investors!\" by Parkevtate Vosianc CFA, published 2026-09-25. The digest entry lists this video only as a members-only title alongside seven other members-only videos (Target, Costco vs. Walmart, Walmart, DoorDash, Visa vs. Mastercard, Salesforce, and an \"I'm Going All In\" growth stock video) — no captions were analyzed and no analytical content is recorded in the digest text. Because the video is members-only, its thesis, arguments, numbers, and any stock calls are unknown from the digest. No explicit calls in this one.",
+ "calls": [
+  {
+   "video_id": "jGIQhe9YgIs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Great News for IonQ Stock Investors!",
+   "published_at": "2026-09-25T17:00:02.626065+00:00",
+   "ticker": "IONQ",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "fair value $50 (stated)",
+   "thesis": "Reiterated buy (upgraded Sep 2): quantum error-correction milestone shows progress; valuation far cheaper than frenzy peak (forward P/S 20 vs ~60); $2B+ cash runway; only for very high risk tolerance.",
+   "base_case": "DCF fair value $50, ~17%+ upside over 12-18 months.",
+   "bull_case": "+1,000% if milestones keep landing; long-term trillion-dollar company potential.",
+   "bear_case": "-85% possible; burning cash, R&D 182% of revenue; one failed test could crash it.",
+   "analyzed_at": "2026-09-25T18:02:20.958674+00:00"
+  }
+ ]
+}
