@@ -1,0 +1,46 @@
+{
+ "video_id": "8pOD-5dG1KM",
+ "title": "4 Surprisingly Cheap Semiconductor Stocks to Buy Now in October (2026)",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-01",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "\"4 Surprisingly Cheap Semiconductor Stocks to Buy Now in October (2026)\" by Parkevtate Vosianc CFA, published 2026-10-01, names four semiconductor BUYs, all DCF-based, with no stance flips. The digest records: AVGO — BUY (prior BUY on record, no flip) — DCF fair value $523 vs $353 market (~48% upside); he owns it and is buying more. TSM — BUY (prior BUY 2026-09-24, no flip) — DCF fair value $647 vs $451 (~43% upside); he doesn't own it but is very interested. NVDA — BUY (prior BUY 2026-09-30, no flip) — DCF fair value $332 (~47% upside); he owns it and is buying more. QCOM — BUY (first call on record) — DCF fair value $268 vs $204 (~31% upside) on AI data-center optionality including Meta and Amazon agreements; he doesn't own it but is very interested. No other arguments or tickers are stated in the digest excerpt.",
+ "calls": [
+  {
+   "video_id": "8pOD-5dG1KM",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "DCF fair value $523 vs $353 market (~48% upside); owns since earlier this year, interested in buying more.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  },
+  {
+   "video_id": "8pOD-5dG1KM",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "DCF fair value $647 vs $451 (~43% upside); does not own yet, very interested in buying.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  },
+  {
+   "video_id": "8pOD-5dG1KM",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "DCF fair value $332 (~47% upside); owns, interested in buying more.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  },
+  {
+   "video_id": "8pOD-5dG1KM",
+   "channel": "Parkevtate Vosianc CFA",
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "price": null,
+   "thesis": "DCF fair value $268 vs $204 (~31% upside) on AI data-center optionality; does not own, very interested in starting position.",
+   "analyzed_at": "2026-10-01T13:56:45.560695+00:00"
+  }
+ ]
+}
