@@ -1,0 +1,58 @@
+{
+ "video_id": "DFQjG012fRk",
+ "title": "Google And Meta Will Beat OpenAI And Anthropic",
+ "creator": "Joseph Carlson After Hours",
+ "published_at": "2026-10-01",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Joseph Carlson After Hours makes the case that Google and Meta will outlast OpenAI and Anthropic in the AI race, published 2026-10-01. His argument: Gemini 4's frontier claims plus the incumbents' distribution, full-stack control and cash-flow funding give them staying power against rivals that must monetize aggressively to service their obligations. The video also includes a Netflix growth defense and a FICO post-mortem — he stayed out of FICO, with no forward call recorded there. All three of his recorded stances are unchanged holds: GOOGL — HOLD (prior HOLD 2026-09-28, no flip), described as his roughly $200k largest position, not selling. META — HOLD (prior HOLD 2026-09-28, no flip), fully invested with about $400k combined with GOOGL; he notes the free Muse tier is funded by Facebook/Instagram cash flows. NFLX — HOLD (prior HOLD 2026-09-28, no flip), which he considers the most undervalued name in his portfolio on his DCF, with territories up 10% and trailing returns up 16%. No flips and no new buys anywhere in this one.",
+ "calls": [
+  {
+   "video_id": "DFQjG012fRk",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "price_at_call": "~$200k position, largest holding (stated); not selling",
+   "thesis": "Still holding and not selling: Gemini 4 looks frontier/well-rounded, and Google's distribution, full stack and half-price positioning let it undercut debt-laden OpenAI/Anthropic without needing direct Gemini monetization.",
+   "base_case": null,
+   "bull_case": "Gemini 4 benchmarks hold up and Google converts distribution (Android/Gmail/YouTube/Drive) into AI share.",
+   "bear_case": null,
+   "published_at": "2026-10-01T21:02:09.000658+00:00",
+   "analyzed_at": "2026-10-02T10:16:22.954782+00:00",
+   "stance_flip": null,
+   "video_title": "Google And Meta Will Beat OpenAI And Anthropic"
+  },
+  {
+   "video_id": "DFQjG012fRk",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "META",
+   "direction": "HOLD",
+   "price_at_call": "fully invested; ~$400k combined GOOGL+META (stated)",
+   "thesis": "Still holding: Muse is free/uncapped and funded by Facebook/Instagram cash flows with unmatched distribution (WhatsApp/Instagram/Facebook), so Meta can outlast rivals that must raise prices to service obligations.",
+   "base_case": null,
+   "bull_case": "Free, streamlined Muse keeps taking consumer share while OpenAI gates agents/raises prices.",
+   "bear_case": null,
+   "published_at": "2026-10-01T21:02:09.000658+00:00",
+   "analyzed_at": "2026-10-02T10:16:22.954782+00:00",
+   "stance_flip": null,
+   "video_title": "Google And Meta Will Beat OpenAI And Anthropic"
+  },
+  {
+   "video_id": "DFQjG012fRk",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "NFLX",
+   "direction": "HOLD",
+   "price_at_call": null,
+   "thesis": "Still holding: calls Netflix the most undervalued name in his portfolio on DCF; defends growth quality (territories +10%, trailing +16%) and says the Sarandos 'not growing as fast' headline misleads — live trades hours for signups/retention.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "published_at": "2026-10-01T21:02:09.000658+00:00",
+   "analyzed_at": "2026-10-02T10:16:22.954782+00:00",
+   "stance_flip": null,
+   "video_title": "Google And Meta Will Beat OpenAI And Anthropic"
+  }
+ ]
+}
