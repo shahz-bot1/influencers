@@ -1,0 +1,26 @@
+{
+ "video_id": "LdRD7UsaQKc",
+ "title": "Micron Just CRUSHED Earnings — Is MU Stock a BUY?",
+ "creator": "Mark Roussin CPA",
+ "published_at": "2026-10-01",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Mark Roussin CPA's post-earnings reaction to Micron's quarter, published 2026-10-01. Revenue, EPS and guidance all beat, with HBM strength and a tighter 2027–28 supply outlook strengthening the underlying thesis — but Roussin stresses the stock already ran into the print, so the stance is buy the pullback, not any price. The base case: AI memory demand outgrows supply and the cycle runs long. The bear case: supply catches up, margins normalize, and the low P/E is a signal of peak earnings rather than cheapness. His only call is a conditional one: MU — CONDITIONAL_BUY (first call on record, no flip), buyer on a pullback to about $950 per share as stated. AMD and MRVL get retrospective mentions only with no current call, and a DRAM ETF is floated as alternative exposure with no explicit call recorded.",
+ "calls": [
+  {
+   "video_id": "LdRD7UsaQKc",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "MU",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "buyer on pullback to ~$950/share (stated); no current-price buy",
+   "thesis": "Earnings crushed (revenue/EPS/guide beats, HBM sold forward, supply seen tighter in 2027-28) and thesis is stronger, but stock already ran and prices in the story — enter on a pullback, not at any price.",
+   "base_case": "AI memory demand + tight supply keep pricing/margins elevated near term; management guides next quarter higher again.",
+   "bull_case": "AI demand outgrows new supply (HBM/custom NV-HBM integration), so the cycle lasts far longer than prior memory cycles.",
+   "bear_case": "Memory stays cyclical: new fabs/supply catch up, margins normalize, and a low forward PE proves to be peak earnings.",
+   "published_at": "2026-10-01T17:50:56.781021+00:00",
+   "analyzed_at": "2026-10-02T10:16:22.954782+00:00",
+   "stance_flip": null,
+   "video_title": "Micron Just CRUSHED Earnings — Is MU Stock a BUY?"
+  }
+ ]
+}
