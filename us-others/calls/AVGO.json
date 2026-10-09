@@ -3,6 +3,19 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "TgDV_-LeQSE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "thesis": "Doesn't own it but 'definitely see the bullish cases'; market wrong at ~20x forward P/E; continuation of his Oct 7 BUY.",
+   "base": null,
+   "bull": null,
+   "bear": null,
+   "stated_price": "Forward PE ratios of ~20 (caption-rendered)",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  },
+  {
    "video_id": "951xEYynOGo",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -36,7 +49,7 @@
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
