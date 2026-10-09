@@ -1,0 +1,26 @@
+{
+ "video_id": "FAIuzFLcO4s",
+ "title": "Walmart Has Arguably Been the Best E-Commerce Business in Recent Years | WMT Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-09-25",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "\"Walmart Has Arguably Been the Best E-Commerce Business in Recent Years | WMT Stock Analysis\" by Parkevtate Vosianc CFA, published 2026-09-25. The digest entry lists this video only as a members-only title alongside five other members-only videos (DoorDash, Visa vs. Mastercard, Salesforce, ServiceNow, and an \"I'm Going All In\" growth stock video) — no captions were analyzed and no analytical content is recorded in the digest text. Because the video is members-only, its thesis, arguments, numbers, and any stock calls are unknown from the digest. No explicit calls in this one.",
+ "calls": [
+  {
+   "video_id": "FAIuzFLcO4s",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Walmart Has Arguably Been the Best E-Commerce Business in Recent Years | WMT Stock Analysis",
+   "published_at": "2026-09-25T15:00:02.626065+00:00",
+   "ticker": "WMT",
+   "direction": "AVOID",
+   "flip": false,
+   "price_at_call": "DCF $70 vs ~$110 (stated)",
+   "thesis": "Business thriving and beating Amazon on logistics, but forward PE 34 is rich for a retailer with 4.3% operating margins; DCF says overvalued.",
+   "base_case": "DCF fair value $70, ~36% below market price.",
+   "bull_case": "Third-party marketplace + advertising growth could lift margins toward Amazon-like levels.",
+   "bear_case": "Margin recovery stalls; rich multiple compresses on any growth wobble.",
+   "analyzed_at": "2026-09-25T18:02:20.958674+00:00"
+  }
+ ]
+}
