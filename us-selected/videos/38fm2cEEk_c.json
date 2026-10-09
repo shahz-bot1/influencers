@@ -1,0 +1,26 @@
+{
+ "video_id": "38fm2cEEk_c",
+ "title": "Massive Update for AMD Stock Investors",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-09T15:00:00.885894+00:00",
+ "source_note": "Detailed summary generated from video captions (manual English captions)",
+ "summary": "Parkevtate Vosianc downgrades AMD from BUY to HOLD, +37% since his Sep 3 upgrade (entered ~$452; stock now above $655, up 205% YTD). The downgrade is purely valuation: his $419 intrinsic value is far below the market price. He recaps an unusually well-timed year of AMD calls — upgrading near ~$190 earlier in the year, downgrading to HOLD above $500, re-upgrading at ~$455 on Sep 3 — and says the price has tracked his fair-value estimates more closely than usual, which lifts his confidence in the framework from low to medium. Fundamentals remain excellent: Meta as a major customer, strong agentic-AI positioning, and his forecast of FCF growing ~6x from $7.5B this year to $44B in 2030. But with sentiment extremely positive and the price well ahead of intrinsic value, he sees no buying opportunity at these levels. Call: AMD HOLD (downgrade announced in-video; first tracked in calls.json, so no flip flagged against a prior tracked stance).",
+ "calls": [
+  {
+   "video_id": "38fm2cEEk_c",
+   "channel": "Parkevtate Vosianc CFA",
+   "title": "Massive Update for AMD Stock Investors",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "stated_price": "~$655",
+   "thesis": "Downgrade from his Sep 3 BUY (stock +37% since, now $655+) - price well above $419 intrinsic value; fundamentals excellent but valuation ahead of itself",
+   "fair_value": "$419",
+   "conviction": "medium (upgraded from low on recent accuracy)",
+   "base": "FCF $7.5B this year to $44B in 2030 (6x); Meta/agentic AI tailwinds",
+   "bull": "Growth far exceeds even his robust estimates",
+   "bear": "Sentiment extreme; mean reversion toward intrinsic value",
+   "flip_from": "BUY (self-reported Sep 3 upgrade; first tracked in calls.json)",
+   "analyzed_at": "2026-10-09T18:03:19.799081+00:00"
+  }
+ ]
+}
