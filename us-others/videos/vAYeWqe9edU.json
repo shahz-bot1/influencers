@@ -1,0 +1,35 @@
+{
+ "video_id": "vAYeWqe9edU",
+ "title": "2 Stocks I'm Buying While The Market Panics",
+ "creator": "Daniel Pronk",
+ "published_at": "2026-10-08T22:55:37.889631+00:00",
+ "summary": "Pronk opens bearish - walking through Michael Burry's tweets (market in denial, a 2000-2008-style event within 6-9 months, AI circular financing as fraud) and Ray Dalio's warning of a crash within 3 years - then rebuts both, arguing real third-party AI demand exists (he concludes Nvidia's revenue is not fraud, though he questions its sustainability given the 19x forward P/E) and that rate fears are short-term, driven by the Iran conflict and oil prices. He closes optimistic with a Bruce Flatt/Howard Marks clip and names the two stocks where the majority of his capital is flowing. Brookfield Asset Management (BAM) - BUY: hit unjustifiably by rate fears despite accelerating fundamentals; investor-day guide of 15-20% annual earnings compounding for 5 years, 4.5% dividend yield growing ~15%/yr, ~21x forward P/E near public-market lows - \"one of the most attractive stocks in terms of risk/reward in the entire market.\" Construction Partners (ROAD) - BUY: unjustified selloff after a good Q3 with guidance raised a third time this year, 80-85% of next year's revenue contractually locked, oil/asphalt cost pass-throughs protecting margins, a doubled business by 2030; trading around six-year lows on price-to-EBITDA. NVDA gets extended discussion but no call (UNCERTAIN); LULU, the Brookfield family names and the hyperscalers are passing mentions. Caption garbles: \"road\" for ROAD, \"Ebeta\"/\"Ibata\" for EBITDA, \"Bruce Flatt\" for Bruce Flatt, \"Michael Bur\" for Burry, \"Ray Dallio\" for Dalio.",
+ "calls": [
+  {
+   "video_id": "vAYeWqe9edU",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "BAM",
+   "direction": "BUY",
+   "thesis": "Hit unjustifiably by rate fears despite accelerating fundamentals; investor-day guide 15-20% annual earnings compounding for 5 yrs; 4.5% yield growing ~15%/yr; 21x fwd P/E near public-market lows; one of the market's best risk/rewards.",
+   "base": "4.5% starting yield + ~5.5% annual price compounding = ~10% long-term CAGR.",
+   "bull": "Dividend yield-on-cost doubles every 5 years (9%/18%/36% over 5/10/15 yrs) if compounding holds.",
+   "bear": "No formal bear case; caveat only: keeps adding 'if it remains in this range'; does not expect 30%+ annual returns.",
+   "stated_price": "No number; 'will continue to buy if it remains in this range'",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  },
+  {
+   "video_id": "vAYeWqe9edU",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ROAD",
+   "direction": "BUY",
+   "thesis": "Unjustified selloff after a good Q3 with guidance raised a 3rd time this year; 80-85% of next year's revenue contractually locked; oil/asphalt cost pass-throughs protect margins; doubled business by 2030.",
+   "base": "Continue compounding revenue/EBITDA/cash flow; meet-and-beat history.",
+   "bull": "Doubler by 2030 with margin expansion.",
+   "bear": null,
+   "stated_price": "No stated price; trading around six-year lows on a price-to-EBITDA basis",
+   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+  }
+ ]
+}
