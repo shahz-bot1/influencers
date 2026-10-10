@@ -1,0 +1,26 @@
+{
+ "ticker": "CMG",
+ "slug": "CMG",
+ "calls": [
+  {
+   "video_id": "cTvk5J3F9XQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "CMG",
+   "direction": "HOLD",
+   "price_at_call": "~$33",
+   "thesis": "Ranked a buying opportunity for months; after the +7% takeover pop it sits at fair value ($32 DCF) — fairly priced, no longer a buying opportunity.",
+   "base_case": "",
+   "bull_case": "Nickel returns to the helm; synergies on purchasing/ops/real estate could lift performance.",
+   "bear_case": "SBUX may overpay for the acquisition (typical acquirer discount); CMG at full value.",
+   "analyzed_at": "2026-10-10T19:00:00+00:00",
+   "flip_note": "Was BUY (his own stated prior ranking), now fairly valued/HOLD"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
