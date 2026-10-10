@@ -4,6 +4,46 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "CMG",
+   "tickerSlug": "CMG",
+   "direction": "HOLD",
+   "date": "2026-10-10T19:00:00+00:00",
+   "price": "~$33",
+   "video_id": "cTvk5J3F9XQ"
+  },
+  {
+   "ticker": "KO",
+   "tickerSlug": "KO",
+   "direction": "BUY",
+   "date": "2026-10-10T19:00:00+00:00",
+   "price": "~$86.60 FV (market near FV)",
+   "video_id": "qk5nGs1k1IA"
+  },
+  {
+   "ticker": "LCID",
+   "tickerSlug": "LCID",
+   "direction": "AVOID",
+   "date": "2026-10-10T19:00:00+00:00",
+   "price": "$4.22 (FV $3.83)",
+   "video_id": "-sntisUbsZs"
+  },
+  {
+   "ticker": "ZS",
+   "tickerSlug": "ZS",
+   "direction": "BUY",
+   "date": "2026-10-10T19:00:00+00:00",
+   "price": "~$213 (FV $203)",
+   "video_id": "OF-sVsizTFI"
+  },
+  {
+   "ticker": "QCOM",
+   "tickerSlug": "QCOM",
+   "direction": "BUY",
+   "date": "2026-10-10T14:05:00+00:00",
+   "price": 181,
+   "video_id": "3ttTaAhEGUk"
+  },
+  {
    "ticker": "NICE",
    "tickerSlug": "NICE",
    "direction": "BUY",
