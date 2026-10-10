@@ -66,12 +66,11 @@
  },
  "Of4_80Z_cvY": {
   "channel": "Asymmetric Investing",
-  "handle": "@asymmetricinvesting",
   "title": "Asymmetric Portfolio: October Stock Buys",
-  "published_at": "2026-10-02T03:55:34.587739+00:00",
-  "analyzed_at": "2026-10-08T05:10:00+00:00",
+  "published_at": "2026-10-02T03:55:37.400479+00:00",
+  "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
   "alerted": false,
-  "skipped": "members-only: available to this channel's members on level: Billionaire (or any higher priced level)"
+  "skipped": "members-only: Billionaire level (captions unavailable)"
  },
  "cduwJEIVyKs": {
   "channel": "Asymmetric Investing",
@@ -163,6 +162,20 @@
   "title": "AI Stocks Just Crashed - But Wall Street Missed Something BIG!!",
   "published_at": "2026-10-09T03:18:37.889631+00:00",
   "analyzed_at": "2026-10-09T04:01:30.944983+00:00",
+  "alerted": true
+ },
+ "eKQsjwdRrhA": {
+  "channel": "Tom Nash",
+  "title": "A Once In A 100 Year Investment Opportunity Just Started (Most Aren\u2019t Ready)",
+  "published_at": "2026-10-09T18:55:37.400479+00:00",
+  "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
+  "alerted": true
+ },
+ "6scmMOSLPM4": {
+  "channel": "Asymmetric Investing",
+  "title": "Are These the Best 5 Growth Stocks to Buy?",
+  "published_at": "2026-10-09T15:55:37.400479+00:00",
+  "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
   "alerted": true
  }
 }
