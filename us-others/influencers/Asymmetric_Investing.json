@@ -4,6 +4,46 @@
  "slug": "Asymmetric_Investing",
  "calls": [
   {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "BUY",
+   "date": "2026-10-10T03:56:54.429840+00:00",
+   "price": "down 44% over past year",
+   "video_id": "6scmMOSLPM4"
+  },
+  {
+   "ticker": "HOOD",
+   "tickerSlug": "HOOD",
+   "direction": "BUY",
+   "date": "2026-10-10T03:56:54.429840+00:00",
+   "price": "down 29% over past year; ~50x earnings",
+   "video_id": "6scmMOSLPM4"
+  },
+  {
+   "ticker": "ZETA",
+   "tickerSlug": "ZETA",
+   "direction": "BUY",
+   "date": "2026-10-10T03:56:54.429840+00:00",
+   "price": "up 67% over past year",
+   "video_id": "6scmMOSLPM4"
+  },
+  {
+   "ticker": "DUOL",
+   "tickerSlug": "DUOL",
+   "direction": "BUY",
+   "date": "2026-10-10T03:56:54.429840+00:00",
+   "price": "down 56% over past year; up 66% over past 6 months",
+   "video_id": "6scmMOSLPM4"
+  },
+  {
+   "ticker": "HIMS",
+   "tickerSlug": "HIMS",
+   "direction": "BUY",
+   "date": "2026-10-10T03:56:54.429840+00:00",
+   "price": "forward P/E 81 (not yet profitable)",
+   "video_id": "6scmMOSLPM4"
+  },
+  {
    "ticker": "LYFT",
    "tickerSlug": "LYFT",
    "direction": "BUY",
