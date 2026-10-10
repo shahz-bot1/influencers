@@ -3,6 +3,19 @@
  "slug": "ZS",
  "calls": [
   {
+   "video_id": "OF-sVsizTFI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "price_at_call": "~$213 (FV $203)",
+   "thesis": "Buy ranking reiterated (first issued 11 Aug @ ~$160-170): AI-agent demand tailwind, 80%+ gross margins, DCF near fair value — one of the few cybersecurity names he still ranks a buy; PANW/FTNT were downgraded weeks ago on valuation.",
+   "base_case": "",
+   "bull_case": "Management targets $8-10B ARR by 2031 vs $3.3B today on agentic-AI security demand.",
+   "bear_case": "Street sees growth decelerating to ~18% then ~16%; stock already +$125 to $212 in months.",
+   "analyzed_at": "2026-10-10T19:00:00+00:00"
+  },
+  {
    "video_id": "JYF40KTxQpA",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -36,8 +49,12 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   }
  ]
 }
