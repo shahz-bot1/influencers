@@ -1,0 +1,62 @@
+{
+ "video_id": "8O85npme9ow",
+ "title": "The Next AI Wave Will Change Humanity Forever. These 4 Stocks Will Lead the Market.",
+ "creator": "MarketBeat",
+ "published_at": "2026-10-09T22:55:18.315319+00:00",
+ "source_note": "Detailed summary generated from video captions (auto captions; guest Keith Kaplan, TradeSmith CEO)",
+ "summary": "MarketBeat hosts TradeSmith CEO Keith Kaplan on the 'biointelligence' wave: AI turned on human biology, which he frames as the biggest dataset on Earth (8 billion people) and an industry that never runs out of customers — cancer, heart disease, dementia and aging becoming engineering problems. Kaplan details 4 of 12 names from a free TradeSmith report, grouped by 'jobs'. 1) Guardant Health (GH) — BUY (first-tracked): the 'reader' pick; its Shield blood test screens for colorectal cancer from a simple draw, revenue tripled last quarter, ACS guideline inclusion, UnitedHealthcare coverage giving 94M people access; $23B market cap, +65% YTD, earnings late October. 2) Eli Lilly (LLY) — BUY, reiteration of Whitney Tilson's Oct 7 BUY: guiding $85-87B revenue vs $65B last year, Orforglipron pill approved in April, retatrutide filing early 2027, 42 phase-3 programs. 3) Moderna (MRNA) — CONDITIONAL_BUY (first-tracked): personalized cancer vaccine passed phase 3 in August, full data due Oct 24; guest says wait until after end-of-October earnings; high conviction but highest risk of the four, 'size speculative'. 4) Illumina (ILMN) — BUY (first-tracked): the 'toolmaker/shovel' pick; Grail chapter closed, guidance raised, back in the S&P 500. Passing mentions only: Medtronic (closest public door to brain interfaces), Merck (cancer-vaccine trial partner), Tempus AI. Caption quality: auto-captions garble names ('Eli Liy', 'Mjouro', 'Madna', 'Merc', 'Aluminina ILM') and some dollar figures.",
+ "calls": [
+  {
+   "video_id": "8O85npme9ow",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "GH",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Keith Kaplan (TradeSmith CEO): Guardant Health 'fantastic stock and trend for the next couple of years'; Shield blood test for colorectal cancer — revenue tripled last quarter, ACS guideline inclusion, UnitedHealthcare coverage (94M people access); $23B mkt cap, up 65% this year; earnings late Oct.",
+   "base_case": null,
+   "bull_case": "Earnings blowout late Oct; AI-driven test improves with every test run.",
+   "bear_case": "At all-time high after 10% pullback; crowded biotech trade.",
+   "analyzed_at": "2026-10-10T05:57:13.563160+00:00"
+  },
+  {
+   "video_id": "8O85npme9ow",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "LLY",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Kaplan: Eli Lilly guiding $85-87B revenue this year (vs $65B last year); Orforglipron GLP-1 pill approved April, retatrutide (avg -71lb) filing early 2027; 42 phase-3 programs, $2.75B AI drug-discovery platform acquisition. Reiteration of Tilson's Oct 7 BUY — no flip.",
+   "base_case": null,
+   "bull_case": "AI drug discovery compresses trial timelines; 3/4 of new medicines outside GLP-1s.",
+   "bear_case": "Chart volatility on GLP-1 headlines; valuation.",
+   "analyzed_at": "2026-10-10T05:57:13.563160+00:00"
+  },
+  {
+   "video_id": "8O85npme9ow",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "MRNA",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": null,
+   "thesis": "Kaplan: high-conviction but highest-risk name; personalized cancer vaccine passed phase 3 in Aug, full data Oct 24, earnings end of month; suggests waiting until after earnings to see what happens. Up 550% this year, still 60% below pandemic peak; joining Nasdaq-100.",
+   "base_case": null,
+   "bull_case": "9 cancer trials with Merck; vaccine costs 'hundreds of dollars'; AI-accelerated discovery.",
+   "bear_case": "$700M quarterly revenue vs $800M loss; speculative, size small; post-earnings volatility.",
+   "analyzed_at": "2026-10-10T05:57:13.563160+00:00"
+  },
+  {
+   "video_id": "8O85npme9ow",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "ILMN",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Kaplan: Illumina 'now is the time to buy' — botched Grail acquisition chapter closed, guidance raised, back in S&P 500 last month; the 'shovel' (sequencers + recurring reagent kits) behind every biotech trial; $41B mkt cap, up 160% from last year's low.",
+   "base_case": null,
+   "bull_case": "Benefits from every trial in the report; exponential growth in sequencing demand.",
+   "bear_case": "Mixed analyst views — some say it's run ahead of itself.",
+   "analyzed_at": "2026-10-10T05:57:13.563160+00:00"
+  }
+ ]
+}
