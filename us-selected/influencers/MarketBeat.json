@@ -4,6 +4,38 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "GH",
+   "tickerSlug": "GH",
+   "direction": "BUY",
+   "date": "2026-10-10T05:57:13.563160+00:00",
+   "price": null,
+   "video_id": "8O85npme9ow"
+  },
+  {
+   "ticker": "LLY",
+   "tickerSlug": "LLY",
+   "direction": "BUY",
+   "date": "2026-10-10T05:57:13.563160+00:00",
+   "price": null,
+   "video_id": "8O85npme9ow"
+  },
+  {
+   "ticker": "MRNA",
+   "tickerSlug": "MRNA",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-10T05:57:13.563160+00:00",
+   "price": null,
+   "video_id": "8O85npme9ow"
+  },
+  {
+   "ticker": "ILMN",
+   "tickerSlug": "ILMN",
+   "direction": "BUY",
+   "date": "2026-10-10T05:57:13.563160+00:00",
+   "price": null,
+   "video_id": "8O85npme9ow"
+  },
+  {
    "ticker": "JOBY",
    "tickerSlug": "JOBY",
    "direction": "BUY",
