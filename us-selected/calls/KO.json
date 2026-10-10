@@ -1,0 +1,25 @@
+{
+ "ticker": "KO",
+ "slug": "KO",
+ "calls": [
+  {
+   "video_id": "qk5nGs1k1IA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "KO",
+   "direction": "BUY",
+   "price_at_call": "~$86.60 FV (market near FV)",
+   "thesis": "Excellent business at a fair price: record 32% op margins, ROIC 17.9% vs 10% WACC; high conviction buy reiterated.",
+   "base_case": "",
+   "bull_case": "Away-from-home channel dominance compounds as consumers keep going out.",
+   "bear_case": "Premium forward PE 24; macro headwinds for consumer spending.",
+   "analyzed_at": "2026-10-10T19:00:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
