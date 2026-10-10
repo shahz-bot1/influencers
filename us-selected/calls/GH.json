@@ -1,0 +1,25 @@
+{
+ "ticker": "GH",
+ "slug": "GH",
+ "calls": [
+  {
+   "video_id": "8O85npme9ow",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "GH",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Keith Kaplan (TradeSmith CEO): Guardant Health 'fantastic stock and trend for the next couple of years'; Shield blood test for colorectal cancer — revenue tripled last quarter, ACS guideline inclusion, UnitedHealthcare coverage (94M people access); $23B mkt cap, up 65% this year; earnings late Oct.",
+   "base_case": null,
+   "bull_case": "Earnings blowout late Oct; AI-driven test improves with every test run.",
+   "bear_case": "At all-time high after 10% pullback; crowded biotech trade.",
+   "analyzed_at": "2026-10-10T05:57:13.563160+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
