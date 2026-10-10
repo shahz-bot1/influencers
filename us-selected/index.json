@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T22:10:53.245275+00:00",
+ "updated": "2026-10-10T22:09:53.754117+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -442,6 +442,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "CMG",
+   "slug": "CMG",
+   "lastDate": "2026-10-10T19:00:00+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$33"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "~$33",
+   "nCalls": 1
+  },
+  {
    "ticker": "COIN",
    "slug": "COIN",
    "lastDate": "2026-09-26T05:59:20.040279+00:00",
@@ -809,6 +826,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "GH",
+   "slug": "GH",
+   "lastDate": "2026-10-10T05:57:13.563160+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "GIS",
    "slug": "GIS",
    "lastDate": "2026-09-29T11:59:59.109610+00:00",
@@ -959,6 +993,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "ILMN",
+   "slug": "ILMN",
+   "lastDate": "2026-10-10T05:57:13.563160+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "IONQ",
    "slug": "IONQ",
    "lastDate": "2026-09-25T17:00:02.626065+00:00",
@@ -1011,6 +1062,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "KO",
+   "slug": "KO",
+   "lastDate": "2026-10-10T19:00:00+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$86.6"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "~$86.60 FV (market near FV)",
+   "nCalls": 1
+  },
+  {
    "ticker": "LBRT",
    "slug": "LBRT",
    "lastDate": "2026-09-30T22:55:15.965630+00:00",
@@ -1025,6 +1093,23 @@
     "MarketBeat"
    ],
    "lastStated": "n/a (guest pick)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "LCID",
+   "slug": "LCID",
+   "lastDate": "2026-10-10T19:00:00+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$4.22"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "$4.22 (FV $3.83)",
    "nCalls": 1
   },
   {
@@ -1048,7 +1133,7 @@
   {
    "ticker": "LLY",
    "slug": "LLY",
-   "lastDate": "2026-10-07T05:56:37.005034+00:00",
+   "lastDate": "2026-10-10T05:57:13.563160+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1061,7 +1146,7 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "$1,151 (his fair value $1,494 — ~30% upside over 12-18 months)",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "LOW",
@@ -1250,6 +1335,23 @@
    "chips": [
     {
      "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "MRNA",
+   "slug": "MRNA",
+   "lastDate": "2026-10-10T05:57:13.563160+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
      "n": 1,
      "avg": null
     }
@@ -1749,20 +1851,20 @@
   {
    "ticker": "QCOM",
    "slug": "QCOM",
-   "lastDate": "2026-10-01T13:56:45.560695+00:00",
+   "lastDate": "2026-10-10T14:05:00+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": null
+     "avg": "$181"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA",
     "Mark Roussin CPA"
    ],
-   "lastStated": "",
-   "nCalls": 2
+   "lastStated": "181",
+   "nCalls": 3
   },
   {
    "ticker": "QQQM",
@@ -2461,8 +2563,13 @@
   {
    "ticker": "ZS",
    "slug": "ZS",
-   "lastDate": "2026-10-04T15:59:59.567519+00:00",
+   "lastDate": "2026-10-10T19:00:00+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$213"
+    },
     {
      "dir": "HOLD",
      "n": 1,
@@ -2470,10 +2577,11 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "",
-   "nCalls": 2
+   "lastStated": "~$213 (FV $203)",
+   "nCalls": 3
   }
  ],
  "influencers": [
@@ -2509,15 +2617,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 48,
-   "nVideos": 21
+   "nCalls": 52,
+   "nVideos": 22
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 84,
-   "nVideos": 88
+   "nCalls": 89,
+   "nVideos": 93
   },
   {
    "name": "The German Value Investor",
@@ -2528,6 +2636,66 @@
   }
  ],
  "videos": [
+  {
+   "id": "cTvk5J3F9XQ",
+   "title": "Massive News for Chipotle and Starbucks Investors | CMG Stock SBUX Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-10T17:16:13.426651+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "qk5nGs1k1IA",
+   "title": "Is Coca Cola an Excellent Dividend Stock to Buy Right Now in October?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-10T17:00:13.426651+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "-sntisUbsZs",
+   "title": "Lucid Reports Quarterly Production and Delivery Numbers",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-10T16:00:13.426651+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "OF-sVsizTFI",
+   "title": "Is Zscaler an Undervalued Cybersecurity Stock to Buy Right Now in October?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-10T15:00:13.426651+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "3ttTaAhEGUk",
+   "title": "1 Ridiculously Cheap Semiconductor Stock I Just Bought",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-10T11:55:53.703081+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "8O85npme9ow",
+   "title": "The Next AI Wave Will Change Humanity Forever. These 4 Stocks Will Lead the Market.",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-09T22:55:18.315319+00:00",
+   "nCalls": 4
+  },
   {
    "id": "J1BVUTa-52s",
    "title": "I Own These 4 Stocks. I Wouldn’t Buy Them Today",
