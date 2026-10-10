@@ -3,6 +3,16 @@
  "slug": "HOOD",
  "calls": [
   {
+   "video_id": "6scmMOSLPM4",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "HOOD",
+   "direction": "BUY",
+   "thesis": "Maturing from YOLO trading to interest/margin revenue; 30% revenue growth past year, retirement accounts growing fast; 35x P/FCF is rich but revenue can compound 30%+ for a decade. (Trimmed a little late last year on stretched valuation.)",
+   "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
+   "price_at_call": "down 29% over past year; ~50x earnings"
+  },
+  {
    "video_id": "czgmVfoNao4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -18,8 +28,12 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Asymmetric Investing",
    "idx": 0
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 1
   }
  ]
 }
