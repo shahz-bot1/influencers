@@ -1,0 +1,22 @@
+{
+ "ticker": "DUOL",
+ "slug": "DUOL",
+ "calls": [
+  {
+   "video_id": "6scmMOSLPM4",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "DUOL",
+   "direction": "BUY",
+   "thesis": "Contrarian turnaround: down 56% but DCA'd into the position; growth deceleration blamed on over-monetization in 2025, engagement (DAU) inflecting; 18x P/E and 17x P/FCF on ~29% revenue growth.",
+   "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
+   "price_at_call": "down 56% over past year; up 66% over past 6 months"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  }
+ ]
+}
