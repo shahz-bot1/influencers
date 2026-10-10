@@ -1,0 +1,22 @@
+{
+ "ticker": "HIMS",
+ "slug": "HIMS",
+ "calls": [
+  {
+   "video_id": "6scmMOSLPM4",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "HIMS",
+   "direction": "BUY",
+   "thesis": "GLP-1 compounding disruption settled (Novo/Eli Lilly products now on platform); guidance of 50% revenue growth in H2 2026 after Eucalyptus/Zava acquisitions; EV/sales ~2.8 with a ~$400B+ pharma TAM to attack.",
+   "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
+   "price_at_call": "forward P/E 81 (not yet profitable)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  }
+ ]
+}
