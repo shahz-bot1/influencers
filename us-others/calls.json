@@ -1575,5 +1575,55 @@
   "bear": null,
   "stated_price": "Forward PE ratios of ~20 (caption-rendered)",
   "analyzed_at": "2026-10-09T04:01:30.944983+00:00"
+ },
+ {
+  "video_id": "6scmMOSLPM4",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "SOFI",
+  "direction": "BUY",
+  "thesis": "Compelling valuation after multiple compression: P/B fell from ~5 (Sep 2025) to ~1.8 vs big banks ~2x, while revenue is up 41% YoY (35% member CAGR since 2023, 15.8M members, cross-sell runway).",
+  "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
+  "price_at_call": "down 44% over past year"
+ },
+ {
+  "video_id": "6scmMOSLPM4",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "HOOD",
+  "direction": "BUY",
+  "thesis": "Maturing from YOLO trading to interest/margin revenue; 30% revenue growth past year, retirement accounts growing fast; 35x P/FCF is rich but revenue can compound 30%+ for a decade. (Trimmed a little late last year on stretched valuation.)",
+  "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
+  "price_at_call": "down 29% over past year; ~50x earnings"
+ },
+ {
+  "video_id": "6scmMOSLPM4",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "ZETA",
+  "direction": "BUY",
+  "thesis": "34% 3-yr revenue CAGR, accelerating after Athena platform launch; operating margin just turning positive; best-performing 2026 holding. EV/sales ~5, forward P/E ~30.",
+  "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
+  "price_at_call": "up 67% over past year"
+ },
+ {
+  "video_id": "6scmMOSLPM4",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "DUOL",
+  "direction": "BUY",
+  "thesis": "Contrarian turnaround: down 56% but DCA'd into the position; growth deceleration blamed on over-monetization in 2025, engagement (DAU) inflecting; 18x P/E and 17x P/FCF on ~29% revenue growth.",
+  "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
+  "price_at_call": "down 56% over past year; up 66% over past 6 months"
+ },
+ {
+  "video_id": "6scmMOSLPM4",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "HIMS",
+  "direction": "BUY",
+  "thesis": "GLP-1 compounding disruption settled (Novo/Eli Lilly products now on platform); guidance of 50% revenue growth in H2 2026 after Eucalyptus/Zava acquisitions; EV/sales ~2.8 with a ~$400B+ pharma TAM to attack.",
+  "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
+  "price_at_call": "forward P/E 81 (not yet profitable)"
  }
 ]
