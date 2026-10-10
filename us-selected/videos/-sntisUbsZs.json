@@ -1,0 +1,23 @@
+{
+ "video_id": "-sntisUbsZs",
+ "title": "Lucid Reports Quarterly Production and Delivery Numbers",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-10T16:00:13.426651+00:00",
+ "source_note": "Detailed summary generated from video captions (auto captions; some figures garbled)",
+ "summary": "Parkevtate Vosianc reviews Lucid's Q3 production and delivery figures: 3,806 deliveries vs ~2,900 produced — roughly 900 more sales than production, deliberately drawing down inventory, which he calls prudent given US EV sales are growing far slower than Lucid, Rivian and Tesla once forecast. Gravity SUV demand is regaining momentum and he calls Lucid's cars his favorite EVs in the market, but six-figure prices limit the buyer pool. The core problem is scale: the business was built for far larger volumes to break even and is nowhere near it; ~$800M cash remains on the balance sheet against hundreds of millions (to billions) of annual burn, operating margins deeply negative (improved from -500% but far too slowly), and capex needs not even reflected in that. Valuation: trading at a forward price-to-sales of 0.457, the lowest in its history, yet his $3.83 fair value sits below the $4.22 market price — even ~95% off all-time highs it is not attractive. Macro crosscurrents: higher oil prices push buyers toward EVs but higher interest rates dominate and suppress car buying overall. Call: LCID AVOID @ $4.22 (first-tracked LCID call) — would wait for a better entry. Caption quality: several figures garbled or dropped (the exact production number, the '$6B+' prior cash figure, the operating-margin number).",
+ "calls": [
+  {
+   "video_id": "-sntisUbsZs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "LCID",
+   "direction": "AVOID",
+   "price_at_call": "$4.22 (FV $3.83)",
+   "thesis": "Q3 deliveries 3,806 (above production, inventory drawn down) but scale far below breakeven; still not an attractive buying opportunity — wait for better entry.",
+   "base_case": "",
+   "bull_case": "Gravity SUV demand momentum; ~$800m cash and prudent inventory management.",
+   "bear_case": "Burning hundreds of millions quarterly; EV demand well below industry forecasts.",
+   "analyzed_at": "2026-10-10T19:00:00+00:00"
+  }
+ ]
+}
