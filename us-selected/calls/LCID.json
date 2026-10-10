@@ -1,0 +1,25 @@
+{
+ "ticker": "LCID",
+ "slug": "LCID",
+ "calls": [
+  {
+   "video_id": "-sntisUbsZs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "LCID",
+   "direction": "AVOID",
+   "price_at_call": "$4.22 (FV $3.83)",
+   "thesis": "Q3 deliveries 3,806 (above production, inventory drawn down) but scale far below breakeven; still not an attractive buying opportunity — wait for better entry.",
+   "base_case": "",
+   "bull_case": "Gravity SUV demand momentum; ~$800m cash and prudent inventory management.",
+   "bear_case": "Burning hundreds of millions quarterly; EV demand well below industry forecasts.",
+   "analyzed_at": "2026-10-10T19:00:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
