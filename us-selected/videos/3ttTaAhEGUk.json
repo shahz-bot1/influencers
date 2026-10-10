@@ -1,0 +1,23 @@
+{
+ "video_id": "3ttTaAhEGUk",
+ "title": "1 Ridiculously Cheap Semiconductor Stock I Just Bought",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-10T11:55:53.703081+00:00",
+ "source_note": "Detailed summary generated from video captions (manual English captions)",
+ "summary": "Parkevtate Vosianc reveals he bought Qualcomm for his own portfolio at ~$181, disclosing a personal buy for the first time in this series. Qualcomm started the year poorly (down to ~$125, when he first upgraded it to a best-stock-to-buy), surged to ~$250 (almost doubling; he then dropped it from the best-buys list), and fell back to ~$150-181 — trading at a forward P/E of just 14, among the cheapest semiconductor names and far below Marvell/Broadcom multiples. Near-term smartphone headwinds (memory/storage prices up triple digits, hurting handset sales) are offset longer-term by the trend to pricier, more capable phones, automotive/driverless growth (more components per vehicle plus licensing royalties), and — the catalyst he is most excited about — AI data centers: Meta has signed, Amazon is evaluating, and with hyperscalers spending $850B+ this year, even 1% share would add ~$10B to Qualcomm's $44B trailing revenue. Asset-light model; trailing operating margin 23.5% (peaked 34%) with room beyond 30% on AI wins. DCF fair value in the ~$250s implies 40%+ upside over 12-18 months, larger over 24-48 months; meaningful AI revenue ramps H2 2027 through 2028-2029. Call: QCOM BUY reiteration of his 1 Oct BUY — no flip. Says he will likely add if the price stays around $181 over the next 6-12 months. Passing mention: Micron as a cheaper-but-cyclical comparison.",
+ "calls": [
+  {
+   "video_id": "3ttTaAhEGUk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "price_at_call": 181,
+   "thesis": "Bought it himself at ~$181: cheapest it's traded in years at forward P/E 14; DCF fair value in the ~$250s implies 40%+ upside over 12-18 months, with AI data-center customer wins (Meta signed, Amazon evaluating) and automotive/driverless expansion as the next growth legs.",
+   "base_case": null,
+   "bull_case": "Asset-light model plus multi-billion AI deals could push operating margins beyond 30% from 23.5%; 1% data-center market share = ~$10B annual revenue.",
+   "bear_case": "Smartphone demand weakness from soaring memory/storage component prices; AI revenue doesn't ramp until H2 2027 into 2028.",
+   "analyzed_at": "2026-10-10T14:05:00+00:00"
+  }
+ ]
+}
