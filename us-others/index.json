@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T04:02:18.151830+00:00",
+ "updated": "2026-10-10T03:57:37.816912+00:00",
  "tickers": [
   {
    "ticker": "ABNB",
@@ -594,6 +594,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "DUOL",
+   "slug": "DUOL",
+   "lastDate": "2026-10-10T03:56:54.429840+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$56"
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "down 56% over past year; up 66% over past 6 months",
+   "nCalls": 1
+  },
+  {
    "ticker": "EXPE",
    "slug": "EXPE",
    "lastDate": "2026-09-28T03:57:07.794861+00:00",
@@ -696,21 +713,39 @@
    "nCalls": 1
   },
   {
-   "ticker": "HOOD",
-   "slug": "HOOD",
-   "lastDate": "2026-10-08T05:10:00+00:00",
+   "ticker": "HIMS",
+   "slug": "HIMS",
+   "lastDate": "2026-10-10T03:56:54.429840+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$81"
     }
    ],
    "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "forward P/E 81 (not yet profitable)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "HOOD",
+   "slug": "HOOD",
+   "lastDate": "2026-10-10T03:56:54.429840+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 2,
+     "avg": "$29"
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "down 29% over past year; ~50x earnings",
+   "nCalls": 2
   },
   {
    "ticker": "IREN",
@@ -1346,19 +1381,20 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-10-08T05:10:00+00:00",
+   "lastDate": "2026-10-10T03:56:54.429840+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
-     "avg": null
+     "n": 2,
+     "avg": "$44"
     }
    ],
    "influencers": [
+    "Asymmetric Investing",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "down 44% over past year",
+   "nCalls": 2
   },
   {
    "ticker": "SOXY",
@@ -1577,6 +1613,23 @@
    "nCalls": 2
   },
   {
+   "ticker": "ZETA",
+   "slug": "ZETA",
+   "lastDate": "2026-10-10T03:56:54.429840+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$67"
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "up 67% over past year",
+   "nCalls": 1
+  },
+  {
    "ticker": "ZS",
    "slug": "ZS",
    "lastDate": "2026-10-05T03:58:02.949500+00:00",
@@ -1599,8 +1652,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 9,
-   "nVideos": 3
+   "nCalls": 14,
+   "nVideos": 4
   },
   {
    "name": "Brian Feroldi",
@@ -1656,7 +1709,7 @@
    "handle": "@TomNashTV",
    "slug": "Tom_Nash",
    "nCalls": 1,
-   "nVideos": 1
+   "nVideos": 2
   },
   {
    "name": "UNRIVALEDD INVESTING",
@@ -1667,6 +1720,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "eKQsjwdRrhA",
+   "title": "A Once In A 100 Year Investment Opportunity Just Started (Most Aren’t Ready)",
+   "creator": "Tom Nash",
+   "channels": [
+    "Tom Nash"
+   ],
+   "published_at": "2026-10-09T18:55:37.400479+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "6scmMOSLPM4",
+   "title": "Are These the Best 5 Growth Stocks to Buy?",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-10-09T15:55:37.400479+00:00",
+   "nCalls": 5
+  },
   {
    "id": "TgDV_-LeQSE",
    "title": "AI Stocks Just Crashed - But Wall Street Missed Something BIG!!",
