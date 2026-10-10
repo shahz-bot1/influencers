@@ -3,6 +3,19 @@
  "slug": "LLY",
  "calls": [
   {
+   "video_id": "8O85npme9ow",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "LLY",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Kaplan: Eli Lilly guiding $85-87B revenue this year (vs $65B last year); Orforglipron GLP-1 pill approved April, retatrutide (avg -71lb) filing early 2027; 42 phase-3 programs, $2.75B AI drug-discovery platform acquisition. Reiteration of Tilson's Oct 7 BUY — no flip.",
+   "base_case": null,
+   "bull_case": "AI drug discovery compresses trial timelines; 3/4 of new medicines outside GLP-1s.",
+   "bear_case": "Chart volatility on GLP-1 headlines; valuation.",
+   "analyzed_at": "2026-10-10T05:57:13.563160+00:00"
+  },
+  {
    "video_id": "1Xudf_oPtJ0",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -50,7 +63,7 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
