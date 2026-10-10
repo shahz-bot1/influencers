@@ -1,0 +1,25 @@
+{
+ "ticker": "MRNA",
+ "slug": "MRNA",
+ "calls": [
+  {
+   "video_id": "8O85npme9ow",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "MRNA",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": null,
+   "thesis": "Kaplan: high-conviction but highest-risk name; personalized cancer vaccine passed phase 3 in Aug, full data Oct 24, earnings end of month; suggests waiting until after earnings to see what happens. Up 550% this year, still 60% below pandemic peak; joining Nasdaq-100.",
+   "base_case": null,
+   "bull_case": "9 cancer trials with Merck; vaccine costs 'hundreds of dollars'; AI-accelerated discovery.",
+   "bear_case": "$700M quarterly revenue vs $800M loss; speculative, size small; post-earnings volatility.",
+   "analyzed_at": "2026-10-10T05:57:13.563160+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
