@@ -1,0 +1,23 @@
+{
+ "video_id": "OF-sVsizTFI",
+ "title": "Is Zscaler an Undervalued Cybersecurity Stock to Buy Right Now in October?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-10T15:00:13.426651+00:00",
+ "source_note": "Detailed summary generated from video captions (manual English captions)",
+ "summary": "Parkevtate Vosianc re-examines Zscaler as agentic AI drives a new wave of cybersecurity spending. Management forecasts at least $8B ARR by 2031 (upside $10B) against $3.3B trailing revenue — up 10x since 2017's ~$250M — with 80%+ gross margins and a strongly improved cash-flow-to-sales ratio, evidence of organic, demand-driven growth. Wall Street is less optimistic: analysts see revenue growth slowing to 18% in FY2027 (ending July 2027), then 16.5% and 16.2% in the following years ($5.3B by FY2029), calling management's target ambitious. The stock has re-rated down on that deceleration (forward P/E 38, near the low end of its historical range) but has also soared from a $125 low to above $212. His DCF puts fair value at $203 vs ~$213 — fairly valued within his margin of safety, slightly undervalued on the P/E multiple. Call: ZS BUY reiterated (first issued 11 Aug when the stock was ~$160-170) — one of the few cybersecurity names he still ranks a buy after downgrading Palo Alto Networks and Fortinet on valuation in recent weeks (past action, not new calls). Bear case: continued growth deceleration and sentiment tied to a stock that has already run hard.",
+ "calls": [
+  {
+   "video_id": "OF-sVsizTFI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "price_at_call": "~$213 (FV $203)",
+   "thesis": "Buy ranking reiterated (first issued 11 Aug @ ~$160-170): AI-agent demand tailwind, 80%+ gross margins, DCF near fair value — one of the few cybersecurity names he still ranks a buy; PANW/FTNT were downgraded weeks ago on valuation.",
+   "base_case": "",
+   "bull_case": "Management targets $8-10B ARR by 2031 vs $3.3B today on agentic-AI security demand.",
+   "bear_case": "Street sees growth decelerating to ~18% then ~16%; stock already +$125 to $212 in months.",
+   "analyzed_at": "2026-10-10T19:00:00+00:00"
+  }
+ ]
+}
