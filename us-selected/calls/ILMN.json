@@ -1,0 +1,25 @@
+{
+ "ticker": "ILMN",
+ "slug": "ILMN",
+ "calls": [
+  {
+   "video_id": "8O85npme9ow",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "ILMN",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Kaplan: Illumina 'now is the time to buy' — botched Grail acquisition chapter closed, guidance raised, back in S&P 500 last month; the 'shovel' (sequencers + recurring reagent kits) behind every biotech trial; $41B mkt cap, up 160% from last year's low.",
+   "base_case": null,
+   "bull_case": "Benefits from every trial in the report; exponential growth in sequencing demand.",
+   "bear_case": "Mixed analyst views — some say it's run ahead of itself.",
+   "analyzed_at": "2026-10-10T05:57:13.563160+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
