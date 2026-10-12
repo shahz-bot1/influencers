@@ -1,0 +1,25 @@
+{
+ "ticker": "MDB",
+ "slug": "MDB",
+ "calls": [
+  {
+   "video_id": "2X2q3QYGou8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "MDB",
+   "direction": "HOLD",
+   "price_at_call": 386,
+   "thesis": "Reiterated Aug 20 rating: CEO poached, transition disruptive, but business booming (TTM rev $2.78B, 24% OCF/sales, 20%+ growth guided 3y); 49x forward P/E is fair but DCF FV $293 vs $386 = overvalued.",
+   "base_case": null,
+   "bull_case": "GAAP profitable by end-2027; expanding R&D scale (55%->28% of sales)",
+   "bear_case": "New CEO missteps; growth slows below 20%",
+   "analyzed_at": "2026-10-12T13:59:07.675072+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
