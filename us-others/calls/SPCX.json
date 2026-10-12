@@ -1,0 +1,22 @@
+{
+ "ticker": "SPCX",
+ "slug": "SPCX",
+ "calls": [
+  {
+   "video_id": "yn_cvSds3lw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SPCX",
+   "direction": "HOLD",
+   "thesis": "New: SpaceX rallied 54% from July low (+$750B market cap) on $254 Barclays initiation and low-band spectrum deal; valuation rich at ~80x earnings on $2/share next-yr profits; lockup overhang through early Dec keeps him sidelined.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "Post-IPO pop ~$225; holding off another month"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
