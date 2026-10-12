@@ -3,6 +3,21 @@
  "slug": "ASML",
  "calls": [
   {
+   "video_id": "vjhRZBn7dbI",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "The Entire Market Relies On These Stocks",
+   "published_at": "2026-10-12T21:06:30.463501+00:00",
+   "ticker": "ASML",
+   "direction": "HOLD",
+   "price_at_call": "$124k position (his holding; sold some near $2,000/share)",
+   "thesis": "HOLD reiterated: remaining fully invested and holding into Wednesday earnings despite 33x forward P/E and very high expectations (revenue +50-55%, EPS ~+89% expected); sees a true monopoly whose moat widens over the next decade, with installed-base management potentially tripling to $25-30B.",
+   "base_case": null,
+   "bull_case": "High-NA EUV lead widens; every chip still has to go through ASML's machines; supplier/customer/logistics moats deepen.",
+   "bear_case": "Expectations are extreme this quarter; a miss would hurt the stock badly and the market has sold ASML down incorrectly before.",
+   "analyzed_at": "2026-10-12T22:01:51.884049+00:00"
+  },
+  {
    "video_id": "ps7HQgBsw5I",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
