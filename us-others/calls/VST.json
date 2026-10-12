@@ -1,0 +1,22 @@
+{
+ "ticker": "VST",
+ "slug": "VST",
+ "calls": [
+  {
+   "video_id": "yn_cvSds3lw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "VST",
+   "direction": "BUY",
+   "thesis": "New: Vistra preferred over Constellation (CEG) on valuation — 0.5x PEG vs CEG 1.5x; nuclear names catching a bid after Google's 20-yr deal with CEG; quicker-growing than CEG.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "0.5x PEG; down 23% over last year"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
