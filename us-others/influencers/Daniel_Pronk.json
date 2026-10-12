@@ -4,6 +4,30 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "ROAD",
+   "tickerSlug": "ROAD",
+   "direction": "BUY",
+   "date": "2026-10-12T03:57:21.387889+00:00",
+   "price": "DCF fair value $178; ~5.4% of his portfolio",
+   "video_id": "H12AMJAOSE4"
+  },
+  {
+   "ticker": "BAM",
+   "tickerSlug": "BAM",
+   "direction": "BUY",
+   "date": "2026-10-12T03:57:21.387889+00:00",
+   "price": "4.4% yield; fwd P/E 21.7 (~30x+ historically); >6% of his portfolio",
+   "video_id": "H12AMJAOSE4"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-10-12T03:57:21.387889+00:00",
+   "price": "DCF fair value $371 (~$500 by 2028, +88% 3yr); 2nd-largest position >13% of portfolio",
+   "video_id": "H12AMJAOSE4"
+  },
+  {
    "ticker": "BAM",
    "tickerSlug": "BAM",
    "direction": "BUY",
