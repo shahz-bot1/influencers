@@ -3,6 +3,19 @@
  "slug": "MRVL",
  "calls": [
   {
+   "video_id": "bQjNidzf00c",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "MRVL",
+   "direction": "AVOID",
+   "price_at_call": 287,
+   "thesis": "Overvalued vs his $200 DCF fair value; already benefiting from AI spend but valuation has run ahead of fundamentals. Not interested in owning anywhere near current prices.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Continued premium re-rating if AI networking demand accelerates further; valuation multiple could stay elevated.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  },
+  {
    "video_id": "RgK-UsB_d6w",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -48,16 +61,16 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
