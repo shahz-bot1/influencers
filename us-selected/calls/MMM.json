@@ -1,0 +1,25 @@
+{
+ "ticker": "MMM",
+ "slug": "MMM",
+ "calls": [
+  {
+   "video_id": "6o0f9xYy1qQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "MMM",
+   "direction": "AVOID",
+   "price_at_call": "~$163",
+   "thesis": "'No, not yet': slightly overvalued on DCF fair value $143 and forward P/E 16.6; wants a pullback or more restructuring evidence first. First tracked call.",
+   "base_case": null,
+   "bull_case": "Restructuring pushes operating margins toward 25%; divestitures keep working.",
+   "bear_case": "Tariffs/oil costs and investor optimism are already priced in.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
