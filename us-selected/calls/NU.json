@@ -3,6 +3,19 @@
  "slug": "NU",
  "calls": [
   {
+   "video_id": "sXGem-t2cRI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NU",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Will continue building his position; 15x next-year adjusted earnings for ~50% revenue growth; Monzo takeover report denied by Nu.",
+   "base_case": null,
+   "bull_case": "US launch works: even a small win in the US is a huge deal on $74B market cap.",
+   "bear_case": "Credit-portfolio and execution risk as they scale lending and geographies.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  },
+  {
    "video_id": "DuKtkqkhR_c",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
