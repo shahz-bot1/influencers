@@ -1,0 +1,23 @@
+{
+ "video_id": "7kTPgbUy5eA",
+ "title": "Is Planet Labs an Undervalued Space Stock to Buy Right Now in October? | PL Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-11",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate Vosianc asks whether Planet Labs' ~50% six-month slide is a buying opportunity. He likes the business: it turned cash-flow positive ($68M operating cash flow YTD, $21M free cash flow even after capex), holds ~$865M in cash after prudently raising ~$120M at ~$32 during the SpaceX-IPO space-stock frenzy (shares now $17.50), and remaining performance obligations grew ~9% to $753M with Q2 revenue pulled forward. Wall Street expects revenue growth of 47%/30%/28% over the next three fiscal years, and demand is shifting toward premium AI-enhanced analytics, not just imagery. But valuation kills it: his DCF fair value is $5.50 vs $17.50 market, so despite the improving fundamentals he would need roughly a 50% drop to ~$8 before buying. Call: PL AVOID at $17.50 (first tracked call on the name). Captions are garbled in spots but the numbers come through clearly.",
+ "calls": [
+  {
+   "video_id": "7kTPgbUy5eA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "PL",
+   "direction": "AVOID",
+   "price_at_call": 17.5,
+   "thesis": "Likes the business — FCF positive, ~$865M cash, RPOs up ~9% — but his DCF fair value is $5.50 vs $17.50 market. Would need roughly a 50% drop to ~$8 before meaningfully considering a buy. First tracked Parkevtate call on PL.",
+   "base_case": null,
+   "bull_case": "Revenue re-acceleration plus AI-enhanced imagery services could drive premium margins and justify a higher multiple.",
+   "bear_case": "Post-SpaceX-IPO euphoria has already faded; high forward P/S of ~11 can compress further on any contract slowdown.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  }
+ ]
+}
