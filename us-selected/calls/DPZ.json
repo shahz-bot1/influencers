@@ -1,0 +1,25 @@
+{
+ "ticker": "DPZ",
+ "slug": "DPZ",
+ "calls": [
+  {
+   "video_id": "ADlAND_uysQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "DPZ",
+   "direction": "BUY",
+   "price_at_call": "~$307",
+   "thesis": "Forward P/E 14.72 near cheapest in years; 19.3% operating margin, 51% ROIC; best value proposition in QSR; DCF $326 ~6% above current price. First tracked call.",
+   "base_case": null,
+   "bull_case": "Top-of-app on Uber Eats/DoorDash drives order frequency higher.",
+   "bear_case": "Average order value falling; squeezed consumer trades down.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
