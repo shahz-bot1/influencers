@@ -4,6 +4,38 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-10-11T18:04:45.730459+00:00",
+   "price": null,
+   "video_id": "sXGem-t2cRI"
+  },
+  {
+   "ticker": "MELI",
+   "tickerSlug": "MELI",
+   "direction": "BUY",
+   "date": "2026-10-11T18:04:45.730459+00:00",
+   "price": null,
+   "video_id": "sXGem-t2cRI"
+  },
+  {
+   "ticker": "NU",
+   "tickerSlug": "NU",
+   "direction": "BUY",
+   "date": "2026-10-11T18:04:45.730459+00:00",
+   "price": null,
+   "video_id": "sXGem-t2cRI"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-11T18:04:45.730459+00:00",
+   "price": "~$200",
+   "video_id": "sXGem-t2cRI"
+  },
+  {
    "ticker": "NFLX",
    "tickerSlug": "NFLX",
    "direction": "HOLD",
