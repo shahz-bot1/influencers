@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T07:52:53.585375+00:00",
+ "updated": "2026-10-12T01:32:41.285854+00:00",
  "tickers": [
   {
    "ticker": "GOLD",
@@ -253,7 +253,7 @@
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
    "nCalls": 15,
-   "nVideos": 16
+   "nVideos": 17
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -264,6 +264,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "gRT1FwpLl7I",
+   "title": "Start Your Solar Business & Build Generational Wealth - Rahul Jain G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 0
+  },
   {
    "id": "iUFTetH7ifY",
    "title": "Harsimran x rahul 4k",
