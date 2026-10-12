@@ -1,0 +1,22 @@
+{
+ "ticker": "SNDK",
+ "slug": "SNDK",
+ "calls": [
+  {
+   "video_id": "yn_cvSds3lw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SNDK",
+   "direction": "BUY",
+   "thesis": "New: SanDisk is the other AI-memory focus alongside Micron — 0.9x PEG, revenue expected to double, ~278% EBITD growth; key memory-chip player benefiting from shortage pricing power.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "0.9x PEG; down ~8% last week; up ~100% over last year"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
