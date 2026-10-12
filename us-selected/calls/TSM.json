@@ -3,6 +3,21 @@
  "slug": "TSM",
  "calls": [
   {
+   "video_id": "vjhRZBn7dbI",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "The Entire Market Relies On These Stocks",
+   "published_at": "2026-10-12T21:06:30.463501+00:00",
+   "ticker": "TSM",
+   "direction": "HOLD",
+   "price_at_call": "21x forward P/E (stated)",
+   "thesis": "HOLD (first tracked Joseph call on TSM): no reason to sell — near-monopoly at the top of the AI food chain, benefits whichever chip designer wins, lower expectations than ASML at 21x forward P/E and 1.5% FCF yield; expects great earnings.",
+   "base_case": null,
+   "bull_case": "AI/robotics/device demand keeps chip production growing for a decade.",
+   "bear_case": null,
+   "analyzed_at": "2026-10-12T22:01:51.884049+00:00"
+  },
+  {
    "video_id": "4exaXv3rWiA",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -42,8 +57,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
