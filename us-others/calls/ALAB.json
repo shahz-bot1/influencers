@@ -3,6 +3,16 @@
  "slug": "ALAB",
  "calls": [
   {
+   "video_id": "yn_cvSds3lw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ALAB",
+   "direction": "BUY",
+   "thesis": "New: Astera Labs is a key AI-supply-chain bottleneck (data-center networking rival to AVGO/ANET); sideways since June, likes it on the theme; among Amazon's 13F holdings via extended partnerships.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "No explicit price given"
+  },
+  {
    "video_id": "951xEYynOGo",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -18,8 +28,12 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
+  },
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 1
   }
  ]
 }
