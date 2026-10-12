@@ -3,6 +3,16 @@
  "slug": "JPM",
  "calls": [
   {
+   "video_id": "yn_cvSds3lw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "JPM",
+   "direction": "AVOID",
+   "thesis": "Reiterated AVOID (Oct 8): 2.5x price-to-book is very expensive on ~6-6.5% expected growth; wouldn't touch it here.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "2.5x price-to-book; down ~6% over last month"
+  },
+  {
    "video_id": "czgmVfoNao4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
