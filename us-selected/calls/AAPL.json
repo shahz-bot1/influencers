@@ -3,6 +3,19 @@
  "slug": "AAPL",
  "calls": [
   {
+   "video_id": "eaSWGeFsxD0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "AAPL",
+   "direction": "HOLD",
+   "price_at_call": 336,
+   "thesis": "Reiterated Oct 9: iPhone 18 Pro demand reportedly slowing on $100 price hikes (Nikkei Asia: Oct orders cut 15-20%); pricing power stretched at 31x forward P/E; FV $195 vs $336 market — not a buying opportunity.",
+   "base_case": null,
+   "bull_case": "iPhone Duo foldable (10/23 launch) could top his 20M-unit estimate vs 10M consensus",
+   "bear_case": "Consumers stretched by housing/food/insurance costs; further demand cuts on premium phones",
+   "analyzed_at": "2026-10-12T13:59:07.675072+00:00"
+  },
+  {
    "video_id": "QxqManKEg4U",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -21,8 +34,12 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 1
   }
  ]
 }
