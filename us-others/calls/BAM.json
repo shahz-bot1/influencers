@@ -3,6 +3,16 @@
  "slug": "BAM",
  "calls": [
   {
+   "video_id": "H12AMJAOSE4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "BAM",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (Oct 9): 4.4% dividend growing ~15%/yr (targeting double every ~5 yrs); fwd P/E 21.7 vs 26.9 median; record 2026 fundraising, fee-related earnings +16%/yr since 2020.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "4.4% yield; fwd P/E 21.7 (~30x+ historically); >6% of his portfolio"
+  },
+  {
    "video_id": "vAYeWqe9edU",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
