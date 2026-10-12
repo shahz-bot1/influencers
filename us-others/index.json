@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T03:57:37.816912+00:00",
+ "updated": "2026-10-12T04:00:24.139799+00:00",
  "tickers": [
   {
    "ticker": "ABNB",
@@ -39,19 +39,20 @@
   {
    "ticker": "ALAB",
    "slug": "ALAB",
-   "lastDate": "2026-10-07T04:05:00+00:00",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": null
     }
    ],
    "influencers": [
+    "Joseph Hogue, CFA",
     "Jose Najarro Stocks"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "No explicit price given",
+   "nCalls": 2
   },
   {
    "ticker": "ALL",
@@ -141,8 +142,13 @@
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-09-30T03:57:13.629546+00:00",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$371"
+    },
     {
      "dir": "SELL",
      "n": 1,
@@ -150,10 +156,11 @@
     }
    ],
    "influencers": [
+    "Daniel Pronk",
     "Asymmetric Investing"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "DCF fair value $371 (~$500 by 2028, +88% 3yr); 2nd-largest position >13% of port",
+   "nCalls": 2
   },
   {
    "ticker": "AVGO",
@@ -176,53 +183,53 @@
   {
    "ticker": "BAC",
    "slug": "BAC",
-   "lastDate": "2026-10-08T05:10:00+00:00",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
    "chips": [
     {
-     "dir": "AVOID",
+     "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$1.4"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 3
+   "lastStated": "1.4x price-to-book; down ~13% over last month",
+   "nCalls": 4
   },
   {
    "ticker": "BAM",
    "slug": "BAM",
-   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$4.4"
     }
    ],
    "influencers": [
     "Daniel Pronk"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "4.4% yield; fwd P/E 21.7 (~30x+ historically); >6% of his portfolio",
+   "nCalls": 2
   },
   {
    "ticker": "BE",
    "slug": "BE",
-   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$0.4"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "0.4x PEG; +223% over last year",
+   "nCalls": 2
   },
   {
    "ticker": "BEKE",
@@ -818,19 +825,19 @@
   {
    "ticker": "JPM",
    "slug": "JPM",
-   "lastDate": "2026-10-08T05:10:00+00:00",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
    "chips": [
     {
      "dir": "AVOID",
      "n": 1,
-     "avg": null
+     "avg": "$2.5"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 2
+   "lastStated": "2.5x price-to-book; down ~6% over last month",
+   "nCalls": 3
   },
   {
    "ticker": "KC",
@@ -977,19 +984,20 @@
   {
    "ticker": "MRVL",
    "slug": "MRVL",
-   "lastDate": "2026-10-07T04:05:00+00:00",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": null
     }
    ],
    "influencers": [
+    "Joseph Hogue, CFA",
     "Jose Najarro Stocks"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "No explicit price given",
+   "nCalls": 2
   },
   {
    "ticker": "MTCH",
@@ -1011,12 +1019,12 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-10-04T03:58:03.785081+00:00",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
-     "avg": null
+     "n": 2,
+     "avg": "$0.09"
     },
     {
      "dir": "SELL",
@@ -1025,11 +1033,12 @@
     }
    ],
    "influencers": [
+    "Joseph Hogue, CFA",
     "Jose Najarro Stocks",
     "Asymmetric Investing"
    ],
-   "lastStated": "",
-   "nCalls": 3
+   "lastStated": "0.09x PEG; down ~3% last week",
+   "nCalls": 4
   },
   {
    "ticker": "NBIS",
@@ -1313,19 +1322,19 @@
   {
    "ticker": "ROAD",
    "slug": "ROAD",
-   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$178"
     }
    ],
    "influencers": [
     "Daniel Pronk"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "DCF fair value $178; ~5.4% of his portfolio",
+   "nCalls": 2
   },
   {
    "ticker": "SCHW",
@@ -1379,6 +1388,40 @@
    "nCalls": 1
   },
   {
+   "ticker": "SNDK",
+   "slug": "SNDK",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$0.9"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "0.9x PEG; down ~8% last week; up ~100% over last year",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SNPS",
+   "slug": "SNPS",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$10"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Surged 10% on investor day; no explicit price given",
+   "nCalls": 1
+  },
+  {
    "ticker": "SOFI",
    "slug": "SOFI",
    "lastDate": "2026-10-10T03:56:54.429840+00:00",
@@ -1411,6 +1454,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "12% targeted income (monthly payouts, $0.65-$1.00+/share this year)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SPCX",
+   "slug": "SPCX",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$225"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Post-IPO pop ~$225; holding off another month",
    "nCalls": 1
   },
   {
@@ -1556,6 +1616,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "VST",
+   "slug": "VST",
+   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$0.5"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "0.5x PEG; down 23% over last year",
+   "nCalls": 1
+  },
+  {
    "ticker": "WFC",
    "slug": "WFC",
    "lastDate": "2026-10-08T05:10:00+00:00",
@@ -1666,8 +1743,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 3,
-   "nVideos": 2
+   "nCalls": 6,
+   "nVideos": 3
   },
   {
    "name": "Everything Money",
@@ -1687,8 +1764,8 @@
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 63,
-   "nVideos": 7
+   "nCalls": 73,
+   "nVideos": 8
   },
   {
    "name": "Patient Investor",
@@ -1709,7 +1786,7 @@
    "handle": "@TomNashTV",
    "slug": "Tom_Nash",
    "nCalls": 1,
-   "nVideos": 2
+   "nVideos": 3
   },
   {
    "name": "UNRIVALEDD INVESTING",
@@ -1720,6 +1797,36 @@
   }
  ],
  "videos": [
+  {
+   "id": "6pm5KqQw6RI",
+   "title": "The UNTHINKABLE is About to Happen to Stocks (but most will invest wrong)",
+   "creator": "Tom Nash",
+   "channels": [
+    "Tom Nash"
+   ],
+   "published_at": "2026-10-11T18:55:34.303086+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "H12AMJAOSE4",
+   "title": "I Added $15,000 To These 3 Stocks",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-10-11T17:55:34.303086+00:00",
+   "nCalls": 3
+  },
+  {
+   "id": "yn_cvSds3lw",
+   "title": "BE READY! Tuesday Could Change Everything for Stocks",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-10-11T16:55:34.303086+00:00",
+   "nCalls": 10
+  },
   {
    "id": "eKQsjwdRrhA",
    "title": "A Once In A 100 Year Investment Opportunity Just Started (Most Aren’t Ready)",
