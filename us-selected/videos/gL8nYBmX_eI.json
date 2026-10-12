@@ -1,0 +1,62 @@
+{
+ "video_id": "gL8nYBmX_eI",
+ "title": "SpaceX Delivers Unfortunate News for Verizon, ATT, T-Mobile, and AST Space Mobile Stock Investors",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-11",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc reacts to SpaceX's late-Thursday announcement that it will acquire nationwide low-band spectrum, positioning Starlink to challenge legacy wireless carriers — AT&T, Verizon and T-Mobile each fell over 10%, with AST SpaceMobile down over 20%. He treats the dip as opportunity for the incumbents but not for ASTS. TMUS (BUY at ~$149, first tracked call) trades near its 52-week low vs his $223 DCF fair value. VZ (BUY at ~$41, reiterated) offers a 28% margin of safety to his $53 fair value even with some share loss, plus a dividend angle for income investors. T (BUY at ~$22, reiterated) trades well below his $30+ intrinsic value; he cites AT&T's CEO arguing Starlink's threat stays niche (rural, aviation, IoT). ASTS (AVOID at ~$50, first tracked call) still sits above his $35 intrinsic value despite the drop — he has warned all year that it is overvalued and sees more downside before it becomes buyable. Calls: TMUS/VZ/T BUY, ASTS AVOID.",
+ "calls": [
+  {
+   "video_id": "gL8nYBmX_eI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "TMUS",
+   "direction": "BUY",
+   "price_at_call": "~$149",
+   "thesis": "SpaceX low-band spectrum deal crushed carriers; near 52-week low at ~$149 vs $223 DCF fair value — buying opportunity on the dip.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "SpaceX takes more land-mobile share than expected over time.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  },
+  {
+   "video_id": "gL8nYBmX_eI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "VZ",
+   "direction": "BUY",
+   "price_at_call": "~$41",
+   "thesis": "Disruption fear overdone: $41 vs $53 DCF fair value = 28% margin of safety even with incremental share loss; dividend angle for passive-income investors.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Prolonged wireless share loss to satellite-based competition.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  },
+  {
+   "video_id": "gL8nYBmX_eI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "T",
+   "direction": "BUY",
+   "price_at_call": "~$22",
+   "thesis": "Same SpaceX overreaction dip: ~$22 vs $30+ intrinsic value leaves significant upside; AT&T CEO says Starlink threat is niche (rural/aviation/IoT).",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Faster-than-expected satellite encroachment into urban wireless.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  },
+  {
+   "video_id": "gL8nYBmX_eI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "ASTS",
+   "direction": "AVOID",
+   "price_at_call": "~$50",
+   "thesis": "Still above his $35 intrinsic value despite the 10%+ drop; more room to fall before it becomes an attractive buying opportunity (he has warned all year).",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  }
+ ]
+}
