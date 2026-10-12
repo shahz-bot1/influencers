@@ -1,0 +1,22 @@
+{
+ "ticker": "SNPS",
+ "slug": "SNPS",
+ "calls": [
+  {
+   "video_id": "yn_cvSds3lw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SNPS",
+   "direction": "BUY",
+   "thesis": "New: starting to really like it — $1B+ Amazon IP deal (Trainium/Graviton royalties), OpenAI partnership on GPT-like chip-design AI with revenue share, 15%/yr growth to 2030 guide far above Street, operating margins 44%->50%.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "Surged 10% on investor day; no explicit price given"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
