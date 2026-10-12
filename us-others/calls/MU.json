@@ -3,6 +3,16 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "yn_cvSds3lw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "MU",
+   "direction": "BUY",
+   "thesis": "FLIP from UNCERTAIN (Oct 5): cheapest of the memory quartet at 0.09x PEG; ~104% expected revenue growth and 151% EBITD growth; focus for pickups after last week's selloff.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "0.09x PEG; down ~3% last week"
+  },
+  {
    "video_id": "jAtRNbIWaOw",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -41,12 +51,16 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
   },
   {
+   "channel": "Jose Najarro Stocks",
+   "idx": 1
+  },
+  {
    "channel": "Asymmetric Investing",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
