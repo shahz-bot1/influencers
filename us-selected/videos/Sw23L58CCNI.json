@@ -1,0 +1,23 @@
+{
+ "video_id": "Sw23L58CCNI",
+ "title": "Should Investors Buy Planet Labs Stock Instead of Rocket Lab Stock? | PL Stock vs. RKLB Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-12T11:55:40.319717+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc compares two space stocks head-to-head and reverses his Oct 11 stance on Planet Labs. He stresses both names look considerably overvalued on his DCFs — Planet Labs' fair value is $5.52 versus a $17.43 market price, and Rocket Lab's is $24 versus $70-plus — but if forced to pick one he would now buy Planet Labs, making it a CONDITIONAL_BUY relative to Rocket Lab rather than an absolute buy. His reasons: Planet Labs is cheaper at 11x forward sales versus Rocket Lab's 31x, is free-cash-flow positive with operating cash flow at 31% of sales, and holds $867M in cash. Rocket Lab, by contrast, runs negative operating cash flow of −29% of sales despite $2.3B of cash and revenue growth from under $50M in 2022 to $769M trailing. He makes no explicit directional call on Rocket Lab (UNCERTAIN). Calls made: PL CONDITIONAL_BUY at $17.43 — a flip from AVOID at $17.50 on Oct 11 — and RKLB UNCERTAIN at ~$70. Summary is based on the captions analysis recorded in the 15:00 run on 2026-10-12; auto-captions garble some names and figures.",
+ "calls": [
+  {
+   "video_id": "Sw23L58CCNI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "PL",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": 17.43,
+   "thesis": "Flip vs Oct 11 AVOID: of PL vs RKLB, he'd buy PL — cheaper (11x fwd sales vs 31x), FCF positive (31% OCF/sales), $867M cash; BUT DCF FV $5.52 vs $17.43 = still 'considerably overvalued'. Buy only vs RKLB, not absolute.",
+   "base_case": null,
+   "bull_case": "Cash-generating earth-imaging fleet; can raise opportunistically, not desperately",
+   "bear_case": "Space-stock frenzy unwinds toward his $5.52 FV",
+   "analyzed_at": "2026-10-12T13:59:07.675072+00:00"
+  }
+ ]
+}
