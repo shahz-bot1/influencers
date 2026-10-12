@@ -1,0 +1,23 @@
+{
+ "video_id": "6o0f9xYy1qQ",
+ "title": "Revenue Growth is Accelerating at 3M | MMM Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-11",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc examines 3M's multi-year restructuring — divesting commodity-like businesses (revenue fell from $35B to ~$25B as a result), cutting manufacturing sites from ~110 to ~100, raising prices ~1.5% to offset oil costs, and using AI to trim overhead — and finds early signs it is working: organic revenue growth is accelerating and management guides operating margins toward 25% from ~21%. The question is whether the stock, near investor-optimism highs, is a buy. On valuation he says no: forward P/E of 16.6 sits near the high end of its recent range, and his DCF fair value is $143 vs ~$163 market, making it slightly overvalued on both lenses. He would not argue with 'fairly valued' — it is close — but wants either a pullback or more evidence the restructuring gains are durable before buying. Call: MMM AVOID at ~$163 (first tracked call on the name).",
+ "calls": [
+  {
+   "video_id": "6o0f9xYy1qQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "MMM",
+   "direction": "AVOID",
+   "price_at_call": "~$163",
+   "thesis": "'No, not yet': slightly overvalued on DCF fair value $143 and forward P/E 16.6; wants a pullback or more restructuring evidence first. First tracked call.",
+   "base_case": null,
+   "bull_case": "Restructuring pushes operating margins toward 25%; divestitures keep working.",
+   "bear_case": "Tariffs/oil costs and investor optimism are already priced in.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  }
+ ]
+}
