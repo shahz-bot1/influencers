@@ -3,6 +3,16 @@
  "slug": "BE",
  "calls": [
   {
+   "video_id": "yn_cvSds3lw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BE",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (Oct 5): still the best deal of the AI-power plays at 0.4x PEG despite 223% run over last year; ~66% expected revenue growth this year; collocated on-demand power is the bottleneck.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "0.4x PEG; +223% over last year"
+  },
+  {
    "video_id": "Zrbf8mXwsG4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
