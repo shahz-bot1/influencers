@@ -1,0 +1,62 @@
+{
+ "video_id": "I3tyDUSTRq4",
+ "title": "If You Missed Palantir in 2023, These 4 Stocks Are Spring-Loaded",
+ "creator": "BWB - Business With Brian",
+ "published_at": "2026-10-11",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Brian's 'coiled spring' framework: great stocks sit flat while the business strengthens, then snap upward — illustrated by Palantir, whose first profitable quarter (Feb 13, 2023) turned $10k into ~$310k despite five 25%+ drawdowns along the way. Palantir itself is explicitly 'not a pick for today'; instead four candidates: AMZN (BUY) — AWS grew 37% to ~$42B/quarter and is sold out into 2027, but ~$220B of data-center capex crushed free cash flow; ex-Anthropic paper gains the P/E is ~31 with PEG just over 1, and institutional 'whales' trimmed 9%, so the spring is still compressing. AVGO (BUY) — custom 'tailor-made' AI chips vs Nvidia's off-the-rack, $179B non-cancellable backlog, PEG ~0.5. SNDK (BUY) — 'pantry' memory for AI workloads, sales +175% to ~$20B and expected to double again, ~7x next-year earnings. APLD (CONDITIONAL_BUY, soft flip from BUY on Oct 3) — speculative AI data-center landlord with ~$36B of ~15-year leases; back-of-napkin fair value $10-14B vs ~$7B today, DCA only. A sponsored segment for Greenland Mines runs mid-video. Calls: AMZN/AVGO/SNDK BUY, APLD CONDITIONAL_BUY.",
+ "calls": [
+  {
+   "video_id": "I3tyDUSTRq4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "'Coiled spring': AWS grew 37% to ~$42B/quarter, capacity sold out into 2026-27; ex-Anthropic-paper-gains P/E ~31 with PEG just over 1 — fair price for the growth. His system says buy a little (he's already maxed out from prior-employer stock so adds nothing himself).",
+   "base_case": null,
+   "bull_case": "Once new data-center capacity comes online, the spring releases — 2023 AWS re-acceleration drove ~70% gains in 18 months.",
+   "bear_case": "~$220B annual capex keeps FCF near zero; whales trimmed 9% last quarter and big money hasn't returned.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  },
+  {
+   "video_id": "I3tyDUSTRq4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Custom 'tailor-made' AI chips vs Nvidia's off-the-rack; $179B in non-cancellable backlog, PEG ~0.5 — growth at a serious discount. System says buy a little; wants proof Anthropic/customers keep paying.",
+   "base_case": null,
+   "bull_case": "2027 AI revenue guided to double to ~$115B with supply secured; customer concentration pays off.",
+   "bear_case": "~$120B of backlog from one contract; $42B Anthropic financing is circular — if Anthropic can't pay, Broadcom is on the hook.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  },
+  {
+   "video_id": "I3tyDUSTRq4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "SNDK",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "'Pantry' memory for AI workloads; sales +175% to ~$20B, expected to double again, ~7x next-year earnings — market is pricing the bust as if it's already here. DCA because of volatility.",
+   "base_case": null,
+   "bull_case": "Data-center spend on SanDisk up ~14x YoY with ~$91B of signed multi-year contracts; memory may be structurally less cyclical this cycle.",
+   "bear_case": "Growth was mostly price hikes on 2/3 legacy business (phones/PCs/cards); long-term contracts cover only a quarter to a third of next year's sales; big funds cut ~30%.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  },
+  {
+   "video_id": "I3tyDUSTRq4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "APLD",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": null,
+   "thesis": "Speculative long-distance play: AI data-center landlord with ~$36B of ~15-year leases signed; back-of-napkin ~$10-14B fair value vs ~$7B today. Easy DCA candidate for patient investors; spring releases when rent pulls ahead of the interest bill (~end 2026). Soften from his Oct 3 BUY.",
+   "base_case": null,
+   "bull_case": "Buildings come online on schedule and next leases reprice higher given power/permit scarcity.",
+   "bear_case": "Rent still ~$90M/year short of interest bill; ~20% short interest; 25% below the 200-day with more slide expected.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  }
+ ]
+}
