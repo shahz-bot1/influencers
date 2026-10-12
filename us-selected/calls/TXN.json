@@ -1,0 +1,29 @@
+{
+ "ticker": "TXN",
+ "slug": "TXN",
+ "calls": [
+  {
+   "video_id": "pIr0vI06g50",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive Update for Texas Instruments Stock Investors",
+   "published_at": "2026-10-12T15:00:27.856497+00:00",
+   "ticker": "TXN",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "BUY->HOLD (downgrade stated in video; prior BUY reiterated 28 Aug 2026 per creator, not in tracked calls.json)",
+   "price_at_call": "$288 (stated market)",
+   "thesis": "Downgraded to HOLD: no longer a buying opportunity after +66% YTD — revenue +23%, 61% gross margins, $6.5B TTM FCF, price hikes and industrial/auto/data-center recovery, but valuation stretched.",
+   "base_case": "Forward P/E ~27 (near most expensive this year) vs ~14-15 at start of 2026; DCF also points to stretched (fair-value figure garbled in captions, not recorded).",
+   "bull_case": "Operating margins (now >38%) could surpass prior peak in next 18 months; ROIC 19.4% is ~2x WACC even off lows, >40% at peaks.",
+   "bear_case": "Semiconductor cyclicality evident over past decade — TTM revenue $19.45B still below 2023 peak >$20B; no margin of safety at current price.",
+   "analyzed_at": "2026-10-12T18:02:55.844684+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
