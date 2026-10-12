@@ -67,10 +67,10 @@
  "Of4_80Z_cvY": {
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio: October Stock Buys",
-  "published_at": "2026-10-02T03:55:37.400479+00:00",
-  "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
+  "published_at": "2026-10-02T03:55:34.303086+00:00",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
   "alerted": false,
-  "skipped": "members-only: Billionaire level (captions unavailable)"
+  "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
  "cduwJEIVyKs": {
   "channel": "Asymmetric Investing",
@@ -176,6 +176,27 @@
   "title": "Are These the Best 5 Growth Stocks to Buy?",
   "published_at": "2026-10-09T15:55:37.400479+00:00",
   "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
+  "alerted": true
+ },
+ "H12AMJAOSE4": {
+  "channel": "Daniel Pronk",
+  "title": "I Added $15,000 To These 3 Stocks",
+  "published_at": "2026-10-11T17:55:34.303086+00:00",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "alerted": true
+ },
+ "6pm5KqQw6RI": {
+  "channel": "Tom Nash",
+  "title": "The UNTHINKABLE is About to Happen to Stocks (but most will invest wrong)",
+  "published_at": "2026-10-11T18:55:34.303086+00:00",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "alerted": true
+ },
+ "yn_cvSds3lw": {
+  "channel": "Joseph Hogue, CFA",
+  "title": "BE READY! Tuesday Could Change Everything for Stocks",
+  "published_at": "2026-10-11T16:55:34.303086+00:00",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
   "alerted": true
  }
 }
