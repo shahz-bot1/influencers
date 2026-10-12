@@ -3,6 +3,19 @@
  "slug": "QCOM",
  "calls": [
   {
+   "video_id": "bQjNidzf00c",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Prefers Qualcomm over Marvell at current prices; owns it himself. Forward P/E ~14 vs Marvell ~42.5x; his DCF says QCOM is undervalued, with Meta signed and Amazon evaluating for AI data-center chips ramping from mid/late 2027.",
+   "base_case": null,
+   "bull_case": "Multi-billion AI data-center deals plus automotive/PC expansion re-accelerate growth on the asset-light model.",
+   "bear_case": "Smartphone weakness from soaring component prices; AI revenue doesn't ramp until H2 2027 into 2028.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  },
+  {
    "video_id": "3ttTaAhEGUk",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -45,7 +58,7 @@
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
