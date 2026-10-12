@@ -3,6 +3,22 @@
  "slug": "KO",
  "calls": [
   {
+   "video_id": "Iwsy5DZbBj8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Better Buy: PepsiCo or Coca-Cola?",
+   "published_at": "2026-10-12T16:00:27.856497+00:00",
+   "ticker": "KO",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "$85.80 (stated market; DCF fair value $86.61)",
+   "thesis": "BUY reiterated: fairly valued, not cheap — record ~32% operating margins (more than double PEP), ROIC 17.9% vs PEP 14.5%, away-from-home strength; ranked a buying opportunity alongside PEP.",
+   "base_case": "DCF fair value $86.61 vs $85.80 market = fairly valued.",
+   "bull_case": "Away-from-home channels (restaurants, theme parks, cinemas, sports) keep compounding; margin/ROIC edge over PEP persists.",
+   "bear_case": "Premium 24x forward P/E vs PEP at 13.9x; little margin of safety at fair value.",
+   "analyzed_at": "2026-10-12T18:02:55.844684+00:00"
+  },
+  {
    "video_id": "qk5nGs1k1IA",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
