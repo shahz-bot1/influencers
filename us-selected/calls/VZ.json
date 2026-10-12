@@ -3,6 +3,19 @@
  "slug": "VZ",
  "calls": [
   {
+   "video_id": "gL8nYBmX_eI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "VZ",
+   "direction": "BUY",
+   "price_at_call": "~$41",
+   "thesis": "Disruption fear overdone: $41 vs $53 DCF fair value = 28% margin of safety even with incremental share loss; dividend angle for passive-income investors.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Prolonged wireless share loss to satellite-based competition.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  },
+  {
    "ticker": "VZ",
    "direction": "BUY",
    "thesis": "Ranked BUY with 5.9% yield; DCF fair value $55 vs $47 market price; undervalued but less so than AT&T; pair with AT&T in a 50/50 split if holding both.",
