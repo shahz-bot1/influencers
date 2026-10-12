@@ -1625,5 +1625,135 @@
   "thesis": "GLP-1 compounding disruption settled (Novo/Eli Lilly products now on platform); guidance of 50% revenue growth in H2 2026 after Eucalyptus/Zava acquisitions; EV/sales ~2.8 with a ~$400B+ pharma TAM to attack.",
   "analyzed_at": "2026-10-10T03:56:54.429840+00:00",
   "price_at_call": "forward P/E 81 (not yet profitable)"
+ },
+ {
+  "video_id": "H12AMJAOSE4",
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "ticker": "ROAD",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY (Oct 9): Q3 (Aug 7) was strong \u2014 record revenue/backlog, guidance raised \u2014 yet stock sold off ~30% on inflation/oil and rate fears; pass-through cost model and record 2030 guide make bear case overblown.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "DCF fair value $178; ~5.4% of his portfolio"
+ },
+ {
+  "video_id": "H12AMJAOSE4",
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "ticker": "BAM",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY (Oct 9): 4.4% dividend growing ~15%/yr (targeting double every ~5 yrs); fwd P/E 21.7 vs 26.9 median; record 2026 fundraising, fee-related earnings +16%/yr since 2020.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "4.4% yield; fwd P/E 21.7 (~30x+ historically); >6% of his portfolio"
+ },
+ {
+  "video_id": "H12AMJAOSE4",
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "ticker": "AMZN",
+  "direction": "BUY",
+  "thesis": "New: added more Friday \u2014 AWS GPU price hikes +15% on excess demand, 100+ data centers considered, sale-leaseback of chips is liquidity move not oversupply; DCF conservative FV $371.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "DCF fair value $371 (~$500 by 2028, +88% 3yr); 2nd-largest position >13% of portfolio"
+ },
+ {
+  "video_id": "yn_cvSds3lw",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "SPCX",
+  "direction": "HOLD",
+  "thesis": "New: SpaceX rallied 54% from July low (+$750B market cap) on $254 Barclays initiation and low-band spectrum deal; valuation rich at ~80x earnings on $2/share next-yr profits; lockup overhang through early Dec keeps him sidelined.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "Post-IPO pop ~$225; holding off another month"
+ },
+ {
+  "video_id": "yn_cvSds3lw",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "SNPS",
+  "direction": "BUY",
+  "thesis": "New: starting to really like it \u2014 $1B+ Amazon IP deal (Trainium/Graviton royalties), OpenAI partnership on GPT-like chip-design AI with revenue share, 15%/yr growth to 2030 guide far above Street, operating margins 44%->50%.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "Surged 10% on investor day; no explicit price given"
+ },
+ {
+  "video_id": "yn_cvSds3lw",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "ALAB",
+  "direction": "BUY",
+  "thesis": "New: Astera Labs is a key AI-supply-chain bottleneck (data-center networking rival to AVGO/ANET); sideways since June, likes it on the theme; among Amazon's 13F holdings via extended partnerships.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "No explicit price given"
+ },
+ {
+  "video_id": "yn_cvSds3lw",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "MRVL",
+  "direction": "BUY",
+  "thesis": "FLIP from UNCERTAIN (Oct 5): now one of his favorite AI stocks and a key accelerator-chip player vs NVDA; Nvidia bringing Marvell into its own ecosystem adds to the case.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "No explicit price given"
+ },
+ {
+  "video_id": "yn_cvSds3lw",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "MU",
+  "direction": "BUY",
+  "thesis": "FLIP from UNCERTAIN (Oct 5): cheapest of the memory quartet at 0.09x PEG; ~104% expected revenue growth and 151% EBITD growth; focus for pickups after last week's selloff.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "0.09x PEG; down ~3% last week"
+ },
+ {
+  "video_id": "yn_cvSds3lw",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "SNDK",
+  "direction": "BUY",
+  "thesis": "New: SanDisk is the other AI-memory focus alongside Micron \u2014 0.9x PEG, revenue expected to double, ~278% EBITD growth; key memory-chip player benefiting from shortage pricing power.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "0.9x PEG; down ~8% last week; up ~100% over last year"
+ },
+ {
+  "video_id": "yn_cvSds3lw",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "BE",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY (Oct 5): still the best deal of the AI-power plays at 0.4x PEG despite 223% run over last year; ~66% expected revenue growth this year; collocated on-demand power is the bottleneck.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "0.4x PEG; +223% over last year"
+ },
+ {
+  "video_id": "yn_cvSds3lw",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "VST",
+  "direction": "BUY",
+  "thesis": "New: Vistra preferred over Constellation (CEG) on valuation \u2014 0.5x PEG vs CEG 1.5x; nuclear names catching a bid after Google's 20-yr deal with CEG; quicker-growing than CEG.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "0.5x PEG; down 23% over last year"
+ },
+ {
+  "video_id": "yn_cvSds3lw",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "BAC",
+  "direction": "BUY",
+  "thesis": "FLIP from AVOID (Oct 8): Bank of America now the one to look at \u2014 1.4x book, fastest revenue growth of the big five at 8.5%; cheap relative to JPM at 2.5x book.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "1.4x price-to-book; down ~13% over last month"
+ },
+ {
+  "video_id": "yn_cvSds3lw",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "JPM",
+  "direction": "AVOID",
+  "thesis": "Reiterated AVOID (Oct 8): 2.5x price-to-book is very expensive on ~6-6.5% expected growth; wouldn't touch it here.",
+  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "price_at_call": "2.5x price-to-book; down ~6% over last month"
  }
 ]
