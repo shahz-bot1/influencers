@@ -1,0 +1,25 @@
+{
+ "ticker": "SNDK",
+ "slug": "SNDK",
+ "calls": [
+  {
+   "video_id": "I3tyDUSTRq4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "SNDK",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "'Pantry' memory for AI workloads; sales +175% to ~$20B, expected to double again, ~7x next-year earnings — market is pricing the bust as if it's already here. DCA because of volatility.",
+   "base_case": null,
+   "bull_case": "Data-center spend on SanDisk up ~14x YoY with ~$91B of signed multi-year contracts; memory may be structurally less cyclical this cycle.",
+   "bear_case": "Growth was mostly price hikes on 2/3 legacy business (phones/PCs/cards); long-term contracts cover only a quarter to a third of next year's sales; big funds cut ~30%.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
