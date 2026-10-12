@@ -1,0 +1,23 @@
+{
+ "video_id": "eaSWGeFsxD0",
+ "title": "Interesting News for Apple Stock Investors | AAPL Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-12T13:45:40.319717+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc reviews reported softening demand for Apple's iPhone 18 Pro, citing Nikkei Asia reporting that October orders were cut roughly 15–20% versus estimates after $100 price hikes, and argues Apple's pricing power is stretched with consumers squeezed by housing, food and insurance costs. At ~$336 and 31x forward earnings the stock sits far above his $195 DCF fair value, so he reiterates HOLD rather than treating it as a buying opportunity — a stance he also held on Oct 9 and Aug 31. The offsetting bull case is the iPhone Duo foldable launching Oct 23, which he thinks could beat his own 20M-unit estimate against a 10M consensus. Other discussion centres on premium-phone demand elasticity and whether further hikes trigger more order cuts. Call made: AAPL HOLD at ~$336 (stated), DCF fair value $195. Summary is based on the captions analysis recorded in the 15:00 run on 2026-10-12; auto-captions garble some names and figures.",
+ "calls": [
+  {
+   "video_id": "eaSWGeFsxD0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "AAPL",
+   "direction": "HOLD",
+   "price_at_call": 336,
+   "thesis": "Reiterated Oct 9: iPhone 18 Pro demand reportedly slowing on $100 price hikes (Nikkei Asia: Oct orders cut 15-20%); pricing power stretched at 31x forward P/E; FV $195 vs $336 market — not a buying opportunity.",
+   "base_case": null,
+   "bull_case": "iPhone Duo foldable (10/23 launch) could top his 20M-unit estimate vs 10M consensus",
+   "bear_case": "Consumers stretched by housing/food/insurance costs; further demand cuts on premium phones",
+   "analyzed_at": "2026-10-12T13:59:07.675072+00:00"
+  }
+ ]
+}
