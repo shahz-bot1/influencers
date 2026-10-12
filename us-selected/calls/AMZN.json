@@ -3,6 +3,19 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "I3tyDUSTRq4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "'Coiled spring': AWS grew 37% to ~$42B/quarter, capacity sold out into 2026-27; ex-Anthropic-paper-gains P/E ~31 with PEG just over 1 — fair price for the growth. His system says buy a little (he's already maxed out from prior-employer stock so adds nothing himself).",
+   "base_case": null,
+   "bull_case": "Once new data-center capacity comes online, the spring releases — 2023 AWS re-acceleration drove ~70% gains in 18 months.",
+   "bear_case": "~$220B annual capex keeps FCF near zero; whales trimmed 9% last quarter and big money hasn't returned.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  },
+  {
    "video_id": "MAsEF53_pd0",
    "channel": "Parkevtate Vosianc CFA",
    "title": "Is the Upside Worth the Risk in Amazon Stock Right Now in October? | AMZN Stock Analysis",
@@ -126,23 +139,23 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 2
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 3
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 5
+   "channel": "Couch Investor",
+   "idx": 4
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Mark Roussin CPA",
    "idx": 6
   }
  ]
