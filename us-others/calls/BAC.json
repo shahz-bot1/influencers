@@ -3,6 +3,16 @@
  "slug": "BAC",
  "calls": [
   {
+   "video_id": "yn_cvSds3lw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BAC",
+   "direction": "BUY",
+   "thesis": "FLIP from AVOID (Oct 8): Bank of America now the one to look at — 1.4x book, fastest revenue growth of the big five at 8.5%; cheap relative to JPM at 2.5x book.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "1.4x price-to-book; down ~13% over last month"
+  },
+  {
    "video_id": "czgmVfoNao4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
