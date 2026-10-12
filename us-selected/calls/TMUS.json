@@ -1,0 +1,25 @@
+{
+ "ticker": "TMUS",
+ "slug": "TMUS",
+ "calls": [
+  {
+   "video_id": "gL8nYBmX_eI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "TMUS",
+   "direction": "BUY",
+   "price_at_call": "~$149",
+   "thesis": "SpaceX low-band spectrum deal crushed carriers; near 52-week low at ~$149 vs $223 DCF fair value — buying opportunity on the dip.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "SpaceX takes more land-mobile share than expected over time.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
