@@ -3,6 +3,16 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "H12AMJAOSE4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "thesis": "New: added more Friday — AWS GPU price hikes +15% on excess demand, 100+ data centers considered, sale-leaseback of chips is liquidity move not oversupply; DCF conservative FV $371.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "DCF fair value $371 (~$500 by 2028, +88% 3yr); 2nd-largest position >13% of portfolio"
+  },
+  {
    "video_id": "_X0c2A-Ln9c",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -15,8 +25,12 @@
  ],
  "byInf": [
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Daniel Pronk",
    "idx": 0
+  },
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 1
   }
  ]
 }
