@@ -1,0 +1,27 @@
+{
+ "video_id": "pIr0vI06g50",
+ "title": "Massive Update for Texas Instruments Stock Investors",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-12T15:00:27.856497+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc downgrades Texas Instruments from BUY to HOLD — a stance flip — saying the stock is no longer a buying opportunity after rising about 66% year-to-date to $288. The business update itself is strong: revenue up 23%, gross margins around 61%, operating margins above 38%, $6.5B of trailing free cash flow, price hikes, and recovery across industrial, auto and data-center demand, with ROIC of 19.4% at roughly twice the cost of capital. Valuation is the problem: the forward P/E has expanded from about 14–15x at the start of 2026 to around 27x, near its most expensive this year, and his DCF also points to stretched value, though the exact fair-value figure was garbled in the captions and is not recorded. He also notes semiconductor cyclicality — trailing revenue of $19.45B is still below the 2023 peak above $20B — so there is no margin of safety at the current price. He dates this update Oct 8 and says he last reiterated the BUY on 28 Aug 2026. Call made: TXN HOLD at $288, flipped from BUY. Summary is based on the captions analysis recorded in the 19:00 run on 2026-10-12; one DCF figure was garbled in captions.",
+ "calls": [
+  {
+   "video_id": "pIr0vI06g50",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive Update for Texas Instruments Stock Investors",
+   "published_at": "2026-10-12T15:00:27.856497+00:00",
+   "ticker": "TXN",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "BUY->HOLD (downgrade stated in video; prior BUY reiterated 28 Aug 2026 per creator, not in tracked calls.json)",
+   "price_at_call": "$288 (stated market)",
+   "thesis": "Downgraded to HOLD: no longer a buying opportunity after +66% YTD — revenue +23%, 61% gross margins, $6.5B TTM FCF, price hikes and industrial/auto/data-center recovery, but valuation stretched.",
+   "base_case": "Forward P/E ~27 (near most expensive this year) vs ~14-15 at start of 2026; DCF also points to stretched (fair-value figure garbled in captions, not recorded).",
+   "bull_case": "Operating margins (now >38%) could surpass prior peak in next 18 months; ROIC 19.4% is ~2x WACC even off lows, >40% at peaks.",
+   "bear_case": "Semiconductor cyclicality evident over past decade — TTM revenue $19.45B still below 2023 peak >$20B; no margin of safety at current price.",
+   "analyzed_at": "2026-10-12T18:02:55.844684+00:00"
+  }
+ ]
+}
