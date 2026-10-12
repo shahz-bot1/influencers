@@ -1,0 +1,36 @@
+{
+ "video_id": "bQjNidzf00c",
+ "title": "Better Buy: Marvell or Qualcomm? | MRVL Stock vs. QCOM Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-11",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc runs a head-to-head on two asset-light chipmakers to answer which is the better buy today. On revenue, Qualcomm is the larger business ($44B TTM, up from ~$25B a decade ago) while Marvell grew from under $1B to $9.45B TTM with more explosive recent growth. Qualcomm's core smartphone segment is struggling as higher component prices weigh on consumers, but it has signed Meta and is in talks with Amazon on data-center silicon — revenue unlikely before mid-to-late 2027, though its track record expanding into auto and PCs makes success plausible. On profitability Qualcomm leads in absolute terms (23.5% operating margin, 22.9% ROIC) while Marvell's margins have inflected from -10% to 16.8%. Valuation decides it: Marvell trades at 42.5x forward earnings — nearly 3x Qualcomm's ~14x — because it is already capturing the AI spend while Qualcomm only feels the negative side. His DCF puts Marvell's fair value at $200 vs $287 market (overvalued) and Qualcomm as undervalued. Calls: QCOM BUY (reiterated — he owns it), MRVL AVOID at $287.",
+ "calls": [
+  {
+   "video_id": "bQjNidzf00c",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Prefers Qualcomm over Marvell at current prices; owns it himself. Forward P/E ~14 vs Marvell ~42.5x; his DCF says QCOM is undervalued, with Meta signed and Amazon evaluating for AI data-center chips ramping from mid/late 2027.",
+   "base_case": null,
+   "bull_case": "Multi-billion AI data-center deals plus automotive/PC expansion re-accelerate growth on the asset-light model.",
+   "bear_case": "Smartphone weakness from soaring component prices; AI revenue doesn't ramp until H2 2027 into 2028.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  },
+  {
+   "video_id": "bQjNidzf00c",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "MRVL",
+   "direction": "AVOID",
+   "price_at_call": 287,
+   "thesis": "Overvalued vs his $200 DCF fair value; already benefiting from AI spend but valuation has run ahead of fundamentals. Not interested in owning anywhere near current prices.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Continued premium re-rating if AI networking demand accelerates further; valuation multiple could stay elevated.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  }
+ ]
+}
