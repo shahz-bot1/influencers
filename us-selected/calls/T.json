@@ -3,6 +3,19 @@
  "slug": "T",
  "calls": [
   {
+   "video_id": "gL8nYBmX_eI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "T",
+   "direction": "BUY",
+   "price_at_call": "~$22",
+   "thesis": "Same SpaceX overreaction dip: ~$22 vs $30+ intrinsic value leaves significant upside; AT&T CEO says Starlink threat is niche (rural/aviation/IoT).",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Faster-than-expected satellite encroachment into urban wireless.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  },
+  {
    "ticker": "T",
    "direction": "BUY",
    "thesis": "Ranked BUY with 4.4% yield; DCF fair value $34.60 vs $25 market price; if forced to pick one, AT&T is the better stock (he suggests a 50/50 split of the two otherwise).",
