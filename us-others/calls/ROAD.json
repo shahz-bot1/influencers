@@ -3,6 +3,16 @@
  "slug": "ROAD",
  "calls": [
   {
+   "video_id": "H12AMJAOSE4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ROAD",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (Oct 9): Q3 (Aug 7) was strong — record revenue/backlog, guidance raised — yet stock sold off ~30% on inflation/oil and rate fears; pass-through cost model and record 2030 guide make bear case overblown.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "DCF fair value $178; ~5.4% of his portfolio"
+  },
+  {
    "video_id": "vAYeWqe9edU",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
