@@ -3,6 +3,19 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "sXGem-t2cRI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$200",
+   "thesis": "AI cloud at $61.6B; revenue guided $3.3B -> $12.3B -> ~$23B; adds only if it pulls back to ~$200 ahead of earnings (DCF almost finished).",
+   "base_case": null,
+   "bull_case": "2027 ARR far above Street estimates; exit run-rate ~$40B.",
+   "bear_case": "Execution delays on the data-center buildout; AI demand must keep running.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  },
+  {
    "video_id": "HbkvoRgodmw",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -52,16 +65,16 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
