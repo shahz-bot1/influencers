@@ -3,6 +3,21 @@
  "slug": "UNH",
  "calls": [
   {
+   "video_id": "vjhRZBn7dbI",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "The Entire Market Relies On These Stocks",
+   "published_at": "2026-10-12T21:06:30.463501+00:00",
+   "ticker": "UNH",
+   "direction": "AVOID",
+   "price_at_call": null,
+   "thesis": "AVOID (first tracked): staying out — dislikes insurers where every customer hates the company, questions why insurers earn more than hospitals, and sees legislative/regulatory risk; accepts it may eventually work as a deep-value turnaround but the industry is not for him.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Regulatory/legislative backlash against insurer margins.",
+   "analyzed_at": "2026-10-12T22:01:51.884049+00:00"
+  },
+  {
    "video_id": "41frp-gUMCE",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -51,12 +66,16 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 1
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   }
  ]
 }
