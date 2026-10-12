@@ -1,0 +1,25 @@
+{
+ "ticker": "ASTS",
+ "slug": "ASTS",
+ "calls": [
+  {
+   "video_id": "gL8nYBmX_eI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "ASTS",
+   "direction": "AVOID",
+   "price_at_call": "~$50",
+   "thesis": "Still above his $35 intrinsic value despite the 10%+ drop; more room to fall before it becomes an attractive buying opportunity (he has warned all year).",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
