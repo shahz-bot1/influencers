@@ -1,0 +1,70 @@
+{
+ "video_id": "vjhRZBn7dbI",
+ "title": "The Entire Market Relies On These Stocks",
+ "creator": "Joseph Carlson After Hours",
+ "published_at": "2026-10-12T21:06:30.463501+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Joseph Carlson frames Q3 earnings season as unusually consequential: S&P 500 earnings growth is expected above 35%, with the bulk driven by a small set of AI and energy companies, while bond yields rise and the index sits near highs — so the rally needs confirmation. He previews this week's reporters in depth. ASML (reporting Wednesday, his fifth-largest position at ~$124k) is expected to grow revenue 50–55% and EPS ~89%; despite a 33x forward P/E he holds into earnings, arguing ASML is a true monopoly whose high-NA EUV, supplier, customer and installed-base moats are widening. TSM shares the same top-of-the-food-chain bull case at a cheaper 21x forward P/E, and he sees no reason to sell. On JPMorgan he is positive into earnings but no longer holds it; on UnitedHealth he is staying out over business-model and regulatory dislike; Domino's he views coolly as DoorDash erodes its delivery edge. He then covers Meta's Muse Wonder launch — benchmark parity with Claude Opus, a personalised-agent advantage, and a stock he still calls undervalued — before a 'fail of the week' segment criticising Kelly Clarkson's viral post against a small Brooklyn business as disproportionate. Calls: ASML HOLD, TSM HOLD, META HOLD, UNH AVOID; JPM and DPZ mentioned without explicit calls.",
+ "calls": [
+  {
+   "video_id": "vjhRZBn7dbI",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "The Entire Market Relies On These Stocks",
+   "published_at": "2026-10-12T21:06:30.463501+00:00",
+   "ticker": "ASML",
+   "direction": "HOLD",
+   "price_at_call": "$124k position (his holding; sold some near $2,000/share)",
+   "thesis": "HOLD reiterated: remaining fully invested and holding into Wednesday earnings despite 33x forward P/E and very high expectations (revenue +50-55%, EPS ~+89% expected); sees a true monopoly whose moat widens over the next decade, with installed-base management potentially tripling to $25-30B.",
+   "base_case": null,
+   "bull_case": "High-NA EUV lead widens; every chip still has to go through ASML's machines; supplier/customer/logistics moats deepen.",
+   "bear_case": "Expectations are extreme this quarter; a miss would hurt the stock badly and the market has sold ASML down incorrectly before.",
+   "analyzed_at": "2026-10-12T22:01:51.884049+00:00"
+  },
+  {
+   "video_id": "vjhRZBn7dbI",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "The Entire Market Relies On These Stocks",
+   "published_at": "2026-10-12T21:06:30.463501+00:00",
+   "ticker": "TSM",
+   "direction": "HOLD",
+   "price_at_call": "21x forward P/E (stated)",
+   "thesis": "HOLD (first tracked Joseph call on TSM): no reason to sell — near-monopoly at the top of the AI food chain, benefits whichever chip designer wins, lower expectations than ASML at 21x forward P/E and 1.5% FCF yield; expects great earnings.",
+   "base_case": null,
+   "bull_case": "AI/robotics/device demand keeps chip production growing for a decade.",
+   "bear_case": null,
+   "analyzed_at": "2026-10-12T22:01:51.884049+00:00"
+  },
+  {
+   "video_id": "vjhRZBn7dbI",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "The Entire Market Relies On These Stocks",
+   "published_at": "2026-10-12T21:06:30.463501+00:00",
+   "ticker": "META",
+   "direction": "HOLD",
+   "price_at_call": "stock up ~4% on the day (stated); he argues it should trade at 26-27x forward P/E",
+   "thesis": "HOLD reiterated, increasingly bullish: Muse Wonder launch puts Meta's frontier model virtually level with Claude Opus, Meta is the only company with a personalised agent (Muse), and he still sees the stock as undervalued with room for multiple expansion.",
+   "base_case": null,
+   "bull_case": "Frontier-model parity plus unmatched personal-agent distribution drives re-rating to 26-27x forward P/E.",
+   "bear_case": null,
+   "analyzed_at": "2026-10-12T22:01:51.884049+00:00"
+  },
+  {
+   "video_id": "vjhRZBn7dbI",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "The Entire Market Relies On These Stocks",
+   "published_at": "2026-10-12T21:06:30.463501+00:00",
+   "ticker": "UNH",
+   "direction": "AVOID",
+   "price_at_call": null,
+   "thesis": "AVOID (first tracked): staying out — dislikes insurers where every customer hates the company, questions why insurers earn more than hospitals, and sees legislative/regulatory risk; accepts it may eventually work as a deep-value turnaround but the industry is not for him.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Regulatory/legislative backlash against insurer margins.",
+   "analyzed_at": "2026-10-12T22:01:51.884049+00:00"
+  }
+ ]
+}
