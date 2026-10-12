@@ -3,6 +3,22 @@
  "slug": "PEP",
  "calls": [
   {
+   "video_id": "Iwsy5DZbBj8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Better Buy: PepsiCo or Coca-Cola?",
+   "published_at": "2026-10-12T16:00:27.856497+00:00",
+   "ticker": "PEP",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "$124 (stated market; DCF fair value $178)",
+   "thesis": "BUY reiterated and his preferred pick head-to-head: undervalued at 13.9x forward P/E (near cheapest ever), DCF $178 vs $124, despite structural headwinds and very negative sentiment.",
+   "base_case": "DCF fair value $178 vs $124 market = ~44% upside over 12-18 months.",
+   "bull_case": "Sentiment/valuation discount closes as snack + beverage business stabilises; larger revenue base than KO.",
+   "bear_case": "Margins worsened 17% to 15.5% over a decade vs KO at 32%; healthier-choice shift hits at-home snacks/sugary drinks.",
+   "analyzed_at": "2026-10-12T18:02:55.844684+00:00"
+  },
+  {
    "ticker": "PEP",
    "direction": "BUY",
    "channel": "Parkevtate Vosianc CFA",
