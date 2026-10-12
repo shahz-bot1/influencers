@@ -1,22 +1,28 @@
 {
- "updated": "2026-10-10T22:09:53.754117+00:00",
+ "updated": "2026-10-12T22:08:56.898768+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
    "slug": "AAPL",
-   "lastDate": "2026-09-27T13:59:57+00:00",
+   "lastDate": "2026-10-12T13:59:07.675072+00:00",
    "chips": [
     {
      "dir": "CONDITIONAL_BUY",
      "n": 1,
      "avg": "$342"
+    },
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$336"
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Mark Roussin CPA"
    ],
-   "lastStated": "~$342 (avg analyst PT $342 = current price; 36.7x forward PE)",
-   "nCalls": 1
+   "lastStated": "336",
+   "nCalls": 2
   },
   {
    "ticker": "ABBV",
@@ -154,7 +160,7 @@
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-10-09T13:57:41.664942+00:00",
+   "lastDate": "2026-10-11T14:04:01.115917+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -168,22 +174,22 @@
     }
    ],
    "influencers": [
+    "BWB - Business With Brian",
     "Parkevtate Vosianc CFA",
     "Joseph Carlson After Hours",
     "Couch Investor",
-    "Mark Roussin CPA",
-    "BWB - Business With Brian"
+    "Mark Roussin CPA"
    ],
    "lastStated": "251.0",
-   "nCalls": 8
+   "nCalls": 9
   },
   {
    "ticker": "APLD",
    "slug": "APLD",
-   "lastDate": "2025-12-10T15:00:46+00:00",
+   "lastDate": "2026-10-11T14:04:01.115917+00:00",
    "chips": [
     {
-     "dir": "BUY",
+     "dir": "CONDITIONAL_BUY",
      "n": 1,
      "avg": null
     }
@@ -192,7 +198,7 @@
     "BWB - Business With Brian"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "ARKQ",
@@ -231,18 +237,35 @@
   {
    "ticker": "ASML",
    "slug": "ASML",
-   "lastDate": "2026-09-28T22:02:12.212482+00:00",
+   "lastDate": "2026-10-12T21:06:30.463501+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$126"
+     "avg": "$124"
     }
    ],
    "influencers": [
     "Joseph Carlson After Hours"
    ],
-   "lastStated": "$126k position, +$93k gains (his holding)",
+   "lastStated": "$124k position (his holding; sold some near $2,000/share)",
+   "nCalls": 2
+  },
+  {
+   "ticker": "ASTS",
+   "slug": "ASTS",
+   "lastDate": "2026-10-11T18:04:45.730459+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$50"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "~$50",
    "nCalls": 1
   },
   {
@@ -265,7 +288,7 @@
   {
    "ticker": "AVGO",
    "slug": "AVGO",
-   "lastDate": "2026-10-05T18:58:26.932338+00:00",
+   "lastDate": "2026-10-11T14:04:01.115917+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -274,13 +297,13 @@
     }
    ],
    "influencers": [
+    "BWB - Business With Brian",
     "Couch Investor",
     "Mark Roussin CPA",
-    "Parkevtate Vosianc CFA",
-    "BWB - Business With Brian"
+    "Parkevtate Vosianc CFA"
    ],
    "lastStated": "360.0",
-   "nCalls": 10
+   "nCalls": 11
   },
   {
    "ticker": "AXON",
@@ -664,6 +687,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "DPZ",
+   "slug": "DPZ",
+   "lastDate": "2026-10-11T18:04:45.730459+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$307"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "~$307",
    "nCalls": 1
   },
   {
@@ -1064,19 +1104,19 @@
   {
    "ticker": "KO",
    "slug": "KO",
-   "lastDate": "2026-10-10T19:00:00+00:00",
+   "lastDate": "2026-10-12T16:00:27.856497+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$86.6"
+     "avg": "$85.8"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "~$86.60 FV (market near FV)",
-   "nCalls": 1
+   "lastStated": "$85.80 (stated market; DCF fair value $86.61)",
+   "nCalls": 2
   },
   {
    "ticker": "LBRT",
@@ -1252,47 +1292,81 @@
    "nCalls": 2
   },
   {
+   "ticker": "MDB",
+   "slug": "MDB",
+   "lastDate": "2026-10-12T13:59:07.675072+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$386"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "386",
+   "nCalls": 1
+  },
+  {
    "ticker": "MELI",
    "slug": "MELI",
-   "lastDate": "2026-10-04T13:59:59.567519+00:00",
+   "lastDate": "2026-10-11T18:04:45.730459+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 3,
-     "avg": "$806"
+     "avg": "$12"
     }
    ],
    "influencers": [
-    "Mark Roussin CPA",
     "Couch Investor",
+    "Mark Roussin CPA",
     "BWB - Business With Brian"
    ],
    "lastStated": "~$1,600-1,700; $80B market cap",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-10-05T11:56:12.550380+00:00",
+   "lastDate": "2026-10-12T21:06:30.463501+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$684"
+     "avg": "$728"
     },
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$400"
+     "avg": "$4"
     }
    ],
    "influencers": [
-    "Parkevtate Vosianc CFA",
     "Joseph Carlson After Hours",
-    "Couch Investor"
+    "Couch Investor",
+    "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "728.0",
-   "nCalls": 6
+   "lastStated": "stock up ~4% on the day (stated); he argues it should trade at 26-27x forward P/",
+   "nCalls": 8
+  },
+  {
+   "ticker": "MMM",
+   "slug": "MMM",
+   "lastDate": "2026-10-11T18:04:45.730459+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$163"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "~$163",
+   "nCalls": 1
   },
   {
    "ticker": "MOD",
@@ -1365,7 +1439,7 @@
   {
    "ticker": "MRVL",
    "slug": "MRVL",
-   "lastDate": "2026-09-29T05:56:28.042154+00:00",
+   "lastDate": "2026-10-11T14:04:01.115917+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1375,16 +1449,16 @@
     {
      "dir": "AVOID",
      "n": 1,
-     "avg": null
+     "avg": "$287"
     }
    ],
    "influencers": [
-    "MarketBeat",
     "Parkevtate Vosianc CFA",
+    "MarketBeat",
     "Mark Roussin CPA"
    ],
-   "lastStated": "",
-   "nCalls": 3
+   "lastStated": "287",
+   "nCalls": 4
   },
   {
    "ticker": "MSFT",
@@ -1437,7 +1511,7 @@
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-09-30T22:55:15.965630+00:00",
+   "lastDate": "2026-10-11T18:04:45.730459+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1445,9 +1519,9 @@
      "avg": null
     },
     {
-     "dir": "HOLD",
+     "dir": "CONDITIONAL_BUY",
      "n": 1,
-     "avg": "$240"
+     "avg": "$200"
     },
     {
      "dir": "AVOID",
@@ -1456,12 +1530,12 @@
     }
    ],
    "influencers": [
-    "MarketBeat",
     "Couch Investor",
+    "MarketBeat",
     "BWB - Business With Brian"
    ],
-   "lastStated": "n/a (guest call)",
-   "nCalls": 3
+   "lastStated": "~$200",
+   "nCalls": 4
   },
   {
    "ticker": "NFLX",
@@ -1565,19 +1639,19 @@
   {
    "ticker": "NU",
    "slug": "NU",
-   "lastDate": "2026-10-04T15:59:59.567519+00:00",
+   "lastDate": "2026-10-11T18:04:45.730459+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$12.6"
+     "avg": null
     }
    ],
    "influencers": [
     "Couch Investor"
    ],
    "lastStated": "$12.60",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "NUKZ",
@@ -1757,19 +1831,19 @@
   {
    "ticker": "PEP",
    "slug": "PEP",
-   "lastDate": "2026-10-08T16:00:01.192818+00:00",
+   "lastDate": "2026-10-12T16:00:27.856497+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$125"
+     "avg": "$124"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "~$125 (stated)",
-   "nCalls": 2
+   "lastStated": "$124 (stated market; DCF fair value $178)",
+   "nCalls": 3
   },
   {
    "ticker": "PG",
@@ -1803,6 +1877,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "19.0",
+   "nCalls": 2
+  },
+  {
+   "ticker": "PL",
+   "slug": "PL",
+   "lastDate": "2026-10-12T13:59:07.675072+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$17.43"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "17.43",
    "nCalls": 2
   },
   {
@@ -1851,12 +1942,12 @@
   {
    "ticker": "QCOM",
    "slug": "QCOM",
-   "lastDate": "2026-10-10T14:05:00+00:00",
+   "lastDate": "2026-10-11T14:04:01.115917+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$181"
+     "avg": null
     }
    ],
    "influencers": [
@@ -1864,7 +1955,7 @@
     "Mark Roussin CPA"
    ],
    "lastStated": "181",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "QQQM",
@@ -2044,6 +2135,23 @@
    "nCalls": 2
   },
   {
+   "ticker": "SNDK",
+   "slug": "SNDK",
+   "lastDate": "2026-10-11T14:04:01.115917+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "SOFI",
    "slug": "SOFI",
    "lastDate": "2026-10-09T18:03:19.799081+00:00",
@@ -2081,19 +2189,19 @@
   {
    "ticker": "T",
    "slug": "T",
-   "lastDate": "2026-09-29T15:59:59.109610+00:00",
+   "lastDate": "2026-10-11T18:04:45.730459+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$25"
+     "avg": "$22"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "$25 (stated)",
-   "nCalls": 2
+   "lastStated": "~$22",
+   "nCalls": 3
   },
   {
    "ticker": "TDOC",
@@ -2170,6 +2278,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "TMUS",
+   "slug": "TMUS",
+   "lastDate": "2026-10-11T18:04:45.730459+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$149"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "~$149",
+   "nCalls": 1
+  },
+  {
    "ticker": "TREASURY",
    "slug": "TREASURY",
    "lastDate": "2026-10-08T19:58:13.710928+00:00",
@@ -2189,19 +2314,25 @@
   {
    "ticker": "TSM",
    "slug": "TSM",
-   "lastDate": "2026-10-07T22:00:26.736189+00:00",
+   "lastDate": "2026-10-12T21:06:30.463501+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
      "avg": "$484"
+    },
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$21"
     }
    ],
    "influencers": [
+    "Joseph Carlson After Hours",
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "~$484 (stated market price)",
-   "nCalls": 3
+   "lastStated": "21x forward P/E (stated)",
+   "nCalls": 4
   },
   {
    "ticker": "TTD",
@@ -2235,6 +2366,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TXN",
+   "slug": "TXN",
+   "lastDate": "2026-10-12T15:00:27.856497+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$288"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "$288 (stated market)",
    "nCalls": 1
   },
   {
@@ -2277,20 +2425,26 @@
   {
    "ticker": "UNH",
    "slug": "UNH",
-   "lastDate": "2026-10-04T13:59:59.567519+00:00",
+   "lastDate": "2026-10-12T21:06:30.463501+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
      "avg": "$496.5"
+    },
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
     }
    ],
    "influencers": [
+    "Joseph Carlson After Hours",
     "Mark Roussin CPA",
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "analyst avg $475 (+25%)",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "UPST",
@@ -2489,19 +2643,19 @@
   {
    "ticker": "VZ",
    "slug": "VZ",
-   "lastDate": "2026-09-29T15:59:59.109610+00:00",
+   "lastDate": "2026-10-11T18:04:45.730459+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$47"
+     "avg": "$41"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "$47 (stated)",
-   "nCalls": 1
+   "lastStated": "~$41",
+   "nCalls": 2
   },
   {
    "ticker": "WMT",
@@ -2589,43 +2743,43 @@
    "name": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
    "slug": "BWB_Business_With_Brian",
-   "nCalls": 53,
-   "nVideos": 8
+   "nCalls": 57,
+   "nVideos": 9
   },
   {
    "name": "Couch Investor",
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
-   "nCalls": 49,
-   "nVideos": 43
+   "nCalls": 53,
+   "nVideos": 44
   },
   {
    "name": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
    "slug": "Joseph_Carlson_After_Hours",
-   "nCalls": 18,
-   "nVideos": 4
+   "nCalls": 22,
+   "nVideos": 5
   },
   {
    "name": "Mark Roussin CPA",
    "handle": "@markroussincpa",
    "slug": "Mark_Roussin_CPA",
    "nCalls": 34,
-   "nVideos": 11
+   "nVideos": 12
   },
   {
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
    "nCalls": 52,
-   "nVideos": 22
+   "nVideos": 23
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 89,
-   "nVideos": 93
+   "nCalls": 104,
+   "nVideos": 104
   },
   {
    "name": "The German Value Investor",
@@ -2636,6 +2790,166 @@
   }
  ],
  "videos": [
+  {
+   "id": "vjhRZBn7dbI",
+   "title": "The Entire Market Relies On These Stocks",
+   "creator": "Joseph Carlson After Hours",
+   "channels": [
+    "Joseph Carlson After Hours"
+   ],
+   "published_at": "2026-10-12T21:06:30.463501+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "Iwsy5DZbBj8",
+   "title": "Better Buy: PepsiCo or Coca-Cola?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-12T16:00:27.856497+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "pIr0vI06g50",
+   "title": "Massive Update for Texas Instruments Stock Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-12T15:00:27.856497+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "eaSWGeFsxD0",
+   "title": "Interesting News for Apple Stock Investors | AAPL Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-12T13:45:40.319717+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "2X2q3QYGou8",
+   "title": "Why Is MongoDB Stock Crashing and is it a Buying Opportunity? | MDB Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-12T12:55:40.319717+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "Sw23L58CCNI",
+   "title": "Should Investors Buy Planet Labs Stock Instead of Rocket Lab Stock? | PL Stock vs. RKLB Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-12T11:55:40.319717+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "ueAzP6zPP64",
+   "title": "If You Don't Understand the FDA, You Don't Understand Biotech Stocks (Industry Expert Explains)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 0
+  },
+  {
+   "id": "bQjNidzf00c",
+   "title": "Better Buy: Marvell or Qualcomm? | MRVL Stock vs. QCOM Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 2
+  },
+  {
+   "id": "7kTPgbUy5eA",
+   "title": "Is Planet Labs an Undervalued Space Stock to Buy Right Now in October? | PL Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 1
+  },
+  {
+   "id": "I3tyDUSTRq4",
+   "title": "If You Missed Palantir in 2023, These 4 Stocks Are Spring-Loaded",
+   "creator": "BWB - Business With Brian",
+   "channels": [
+    "BWB - Business With Brian"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 4
+  },
+  {
+   "id": "sXGem-t2cRI",
+   "title": "4 Stocks I'd Load Up on Before 2027",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 4
+  },
+  {
+   "id": "gL8nYBmX_eI",
+   "title": "SpaceX Delivers Unfortunate News for Verizon, ATT, T-Mobile, and AST Space Mobile Stock Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 4
+  },
+  {
+   "id": "6o0f9xYy1qQ",
+   "title": "Revenue Growth is Accelerating at 3M | MMM Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 1
+  },
+  {
+   "id": "ADlAND_uysQ",
+   "title": "Domino's Analysis: Value Stock or Value Trap? | DPZ Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 1
+  },
+  {
+   "id": "Gvg-LurhONQ",
+   "title": "What's Going on With Nike Stock? | NKE Stock Deep Dive Part 1",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 0
+  },
+  {
+   "id": "-rHgp0klREo",
+   "title": "Is the Stock Market About to SELL-OFF?",
+   "creator": "Mark Roussin CPA",
+   "channels": [
+    "Mark Roussin CPA"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 0
+  },
   {
    "id": "cTvk5J3F9XQ",
    "title": "Massive News for Chipotle and Starbucks Investors | CMG Stock SBUX Stock",
