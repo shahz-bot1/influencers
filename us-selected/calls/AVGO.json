@@ -3,6 +3,19 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "I3tyDUSTRq4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Custom 'tailor-made' AI chips vs Nvidia's off-the-rack; $179B in non-cancellable backlog, PEG ~0.5 — growth at a serious discount. System says buy a little; wants proof Anthropic/customers keep paying.",
+   "base_case": null,
+   "bull_case": "2027 AI revenue guided to double to ~$115B with supply secured; customer concentration pays off.",
+   "bear_case": "~$120B of backlog from one contract; $42B Anthropic financing is circular — if Anthropic can't pay, Broadcom is on the hook.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  },
+  {
    "video_id": "MGQuMM1AgQM",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -149,20 +162,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 2
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 8
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 3
   }
  ]
 }
