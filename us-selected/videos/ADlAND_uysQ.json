@@ -1,0 +1,23 @@
+{
+ "video_id": "ADlAND_uysQ",
+ "title": "Domino's Analysis: Value Stock or Value Trap? | DPZ Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-11",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc weighs Domino's after it secured the top slot on Uber Eats and DoorDash, with management reporting record order frequency but a falling average order value — the near-term worry. The long-term record impresses him: sales more than doubled from under $2.5B (2017) to over $5B TTM, holding up even after the pandemic reopening, which he reads as proof of the customer value proposition (chapter one of his investing book). Unit economics (chapter two) are elite: 19.3% operating margin near decade highs and 51% ROIC against a sub-15% WACC, powered by the franchise model. Valuation is the kicker: forward P/E of 14.72 is near the cheapest in years, depressed by macro headwinds (higher rates lifting the opportunity cost of capital, squeezed consumer disposable income), and his DCF values the business at $326 — about 6% above the market price. Verdict: a genuine value stock, not a trap. Call: DPZ BUY at ~$307 (first tracked call on the name).",
+ "calls": [
+  {
+   "video_id": "ADlAND_uysQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "DPZ",
+   "direction": "BUY",
+   "price_at_call": "~$307",
+   "thesis": "Forward P/E 14.72 near cheapest in years; 19.3% operating margin, 51% ROIC; best value proposition in QSR; DCF $326 ~6% above current price. First tracked call.",
+   "base_case": null,
+   "bull_case": "Top-of-app on Uber Eats/DoorDash drives order frequency higher.",
+   "bear_case": "Average order value falling; squeezed consumer trades down.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  }
+ ]
+}
