@@ -1,0 +1,39 @@
+{
+ "video_id": "H12AMJAOSE4",
+ "title": "I Added $15,000 To These 3 Stocks",
+ "creator": "Daniel Pronk",
+ "published_at": "2026-10-11T17:55:34.303086+00:00",
+ "summary": "Daniel Pronk walks through the three stocks he bought over the past week, calling them the best risk-reward opportunities in the market right now. First is Construction Partners (ROAD), now ~5.4% of his portfolio: the stock is down ~30% (~40% off highs) after what he saw as a strong Q3 (record revenue, ~30% YoY profit growth, record backlog, guidance raised every quarter). He rebuts the bear cases — inflation/oil costs are handled by a pass-through cost model, and higher rates barely dent $565M EBITDA vs $17.6M per 1% rate rise — and shows the stock at its cheapest P/EBITDA (~10.3x) since Sept 2020. His DCF gives FV $178 (27% CAGR, 231% 5-yr return), and even bear-case inputs (13% EBITDA growth, 12x exit) yield 15% CAGR. Second is Brookfield Asset Management (BAM), >6% of his portfolio: a 4.4% dividend targeted to grow ~15%/yr (yield-on-cost ~9% in 5 years), fwd P/E 21.7 vs 26.9 median, record 2026 fundraising, and fee-related earnings +16%/yr since 2020; he expects ~15-20% annual returns. Third is Amazon (AMZN), his second-largest position (>13%): AWS raised GPU pricing 15% on demand > supply, the chip sale-leaseback is a liquidity move for $200B+ CapEx (100+ data centers considered), and his conservative DCF gives FV $371 (~$500 by 2028, +88% 3yr). No new tickers beyond these three; Patreon/Discord pitch closes the video. Caption note: several metrics were read aloud without on-screen numbers, so DCF figures are per his narration.",
+ "calls": [
+  {
+   "video_id": "H12AMJAOSE4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ROAD",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (Oct 9): Q3 (Aug 7) was strong — record revenue/backlog, guidance raised — yet stock sold off ~30% on inflation/oil and rate fears; pass-through cost model and record 2030 guide make bear case overblown.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "DCF fair value $178; ~5.4% of his portfolio"
+  },
+  {
+   "video_id": "H12AMJAOSE4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "BAM",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (Oct 9): 4.4% dividend growing ~15%/yr (targeting double every ~5 yrs); fwd P/E 21.7 vs 26.9 median; record 2026 fundraising, fee-related earnings +16%/yr since 2020.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "4.4% yield; fwd P/E 21.7 (~30x+ historically); >6% of his portfolio"
+  },
+  {
+   "video_id": "H12AMJAOSE4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "thesis": "New: added more Friday — AWS GPU price hikes +15% on excess demand, 100+ data centers considered, sale-leaseback of chips is liquidity move not oversupply; DCF conservative FV $371.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "DCF fair value $371 (~$500 by 2028, +88% 3yr); 2nd-largest position >13% of portfolio"
+  }
+ ]
+}
