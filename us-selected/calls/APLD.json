@@ -3,6 +3,19 @@
  "slug": "APLD",
  "calls": [
   {
+   "video_id": "I3tyDUSTRq4",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "APLD",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": null,
+   "thesis": "Speculative long-distance play: AI data-center landlord with ~$36B of ~15-year leases signed; back-of-napkin ~$10-14B fair value vs ~$7B today. Easy DCA candidate for patient investors; spring releases when rent pulls ahead of the interest bill (~end 2026). Soften from his Oct 3 BUY.",
+   "base_case": null,
+   "bull_case": "Buildings come online on schedule and next leases reprice higher given power/permit scarcity.",
+   "bear_case": "Rent still ~$90M/year short of interest bill; ~20% short interest; 25% below the 200-day with more slide expected.",
+   "analyzed_at": "2026-10-11T14:04:01.115917+00:00"
+  },
+  {
    "video_id": "JgkqRJ4PCTc",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
