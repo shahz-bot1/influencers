@@ -1,0 +1,62 @@
+{
+ "video_id": "sXGem-t2cRI",
+ "title": "4 Stocks I'd Load Up on Before 2027",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-11",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Couch Investor's rest-of-2026 shopping list after a strong year for AI/semis (AMD +190%, MU +263%, CRWD +124% YTD), arguing underperformers like Meta, Amazon and Google are not bad companies — 'we measure investments in years, not quarters.' Four names: META (BUY, reiterated) — still cheap at 22.4x forward earnings with PEG 1.1, up 32% off the lows; the core ads business is firing while capex funds AI products he believes will go viral, and the Muse model launch changed his view on monetization. MELI (BUY, reiterated) — 'one of the best-run businesses on the planet,' ~30 straight quarters of 30%+ growth; the current investment cycle is compressing margins but he expects a rebound like prior cycles. NU (BUY, reiterated) — 15x next-year adjusted earnings for ~50% revenue growth; he keeps building the position and notes the Monzo takeover report was denied. NBIS (CONDITIONAL_BUY at ~$200, soft flip from HOLD on Oct 3) — AI cloud revenue guided $3.3B to $12.3B to ~$23B; he adds only on a pullback toward ~$200 ahead of earnings. Broadcom gets a passing mention with no detail.",
+ "calls": [
+  {
+   "video_id": "sXGem-t2cRI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Still undervalued at 22.4x forward earnings (PEG 1.1), +32% off the lows; core ads business firing while capex funds AI products he believes will go viral and monetize.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Capex keeps rising and FCF is out the door while the AI bets take time.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  },
+  {
+   "video_id": "sXGem-t2cRI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "One of the best-run businesses; ~30 straight quarters of 30%+ growth; current investment cycle compressing margins, will rebound as before.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Never cheap (forward P/E 43.8x); heavy investment cycles can drag margins for quarters.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  },
+  {
+   "video_id": "sXGem-t2cRI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NU",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Will continue building his position; 15x next-year adjusted earnings for ~50% revenue growth; Monzo takeover report denied by Nu.",
+   "base_case": null,
+   "bull_case": "US launch works: even a small win in the US is a huge deal on $74B market cap.",
+   "bear_case": "Credit-portfolio and execution risk as they scale lending and geographies.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  },
+  {
+   "video_id": "sXGem-t2cRI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$200",
+   "thesis": "AI cloud at $61.6B; revenue guided $3.3B -> $12.3B -> ~$23B; adds only if it pulls back to ~$200 ahead of earnings (DCF almost finished).",
+   "base_case": null,
+   "bull_case": "2027 ARR far above Street estimates; exit run-rate ~$40B.",
+   "bear_case": "Execution delays on the data-center buildout; AI demand must keep running.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  }
+ ]
+}
