@@ -4,6 +4,38 @@
  "slug": "BWB_Business_With_Brian",
  "calls": [
   {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-10-11T14:04:01.115917+00:00",
+   "price": null,
+   "video_id": "I3tyDUSTRq4"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-11T14:04:01.115917+00:00",
+   "price": null,
+   "video_id": "I3tyDUSTRq4"
+  },
+  {
+   "ticker": "SNDK",
+   "tickerSlug": "SNDK",
+   "direction": "BUY",
+   "date": "2026-10-11T14:04:01.115917+00:00",
+   "price": null,
+   "video_id": "I3tyDUSTRq4"
+  },
+  {
+   "ticker": "APLD",
+   "tickerSlug": "APLD",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-11T14:04:01.115917+00:00",
+   "price": null,
+   "video_id": "I3tyDUSTRq4"
+  },
+  {
    "ticker": "SMH",
    "tickerSlug": "SMH",
    "direction": "BUY",
