@@ -3,6 +3,34 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "vjhRZBn7dbI",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "The Entire Market Relies On These Stocks",
+   "published_at": "2026-10-12T21:06:30.463501+00:00",
+   "ticker": "META",
+   "direction": "HOLD",
+   "price_at_call": "stock up ~4% on the day (stated); he argues it should trade at 26-27x forward P/E",
+   "thesis": "HOLD reiterated, increasingly bullish: Muse Wonder launch puts Meta's frontier model virtually level with Claude Opus, Meta is the only company with a personalised agent (Muse), and he still sees the stock as undervalued with room for multiple expansion.",
+   "base_case": null,
+   "bull_case": "Frontier-model parity plus unmatched personal-agent distribution drives re-rating to 26-27x forward P/E.",
+   "bear_case": null,
+   "analyzed_at": "2026-10-12T22:01:51.884049+00:00"
+  },
+  {
+   "video_id": "sXGem-t2cRI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Still undervalued at 22.4x forward earnings (PEG 1.1), +32% off the lows; core ads business firing while capex funds AI products he believes will go viral and monetize.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Capex keeps rising and FCF is out the door while the AI bets take time.",
+   "analyzed_at": "2026-10-11T18:04:45.730459+00:00"
+  },
+  {
    "video_id": "25pD3BJgsy8",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -95,16 +123,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
-   "idx": 4
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   }
  ]
 }
