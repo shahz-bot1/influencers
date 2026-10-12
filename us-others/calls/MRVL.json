@@ -3,6 +3,16 @@
  "slug": "MRVL",
  "calls": [
   {
+   "video_id": "yn_cvSds3lw",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "thesis": "FLIP from UNCERTAIN (Oct 5): now one of his favorite AI stocks and a key accelerator-chip player vs NVDA; Nvidia bringing Marvell into its own ecosystem adds to the case.",
+   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+   "price_at_call": "No explicit price given"
+  },
+  {
    "video_id": "951xEYynOGo",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -18,8 +28,12 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
+  },
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 1
   }
  ]
 }
