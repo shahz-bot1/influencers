@@ -3,6 +3,16 @@
  "slug": "MRVL",
  "calls": [
   {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: Microsoft's Maia 300 is believed to be part of the Marvell ecosystem, bullish for Marvell as it expands in ASICs (high production from 2027); Nvidia's 576-GPU scale-up/scale-out networking news is also very bullish for Marvell.",
+   "price_at_call": "down ~3% on the day (no level stated)",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  },
+  {
    "video_id": "yn_cvSds3lw",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -28,11 +38,11 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Jose Najarro Stocks",
    "idx": 0
   },
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 1
   }
  ]
