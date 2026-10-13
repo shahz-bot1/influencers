@@ -3,6 +3,22 @@
  "slug": "SPGI",
  "calls": [
   {
+   "video_id": "Ius91VorkgE",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "S&P Global Stock: Buy, Hold, or Sell? | SPGI Stock Analysis",
+   "published_at": "2026-10-13T16:00:14.760255+00:00",
+   "ticker": "SPGI",
+   "direction": "AVOID",
+   "price_at_call": "$403 (stated market; DCF fair value $311)",
+   "thesis": "AVOID / not a buying opportunity — reiterates his 19 Aug verdict: 'I don't think so' at these valuations. Stock down 18%+ in 2026 and still not recovered from the SaaS-apocalypse lows, but DCF $311 is well below the $403 market price; first tracked Parkevtate SPGI call, no flip.",
+   "base_case": "DCF fair value $311 vs $403 market; forward P/E 19.95 looks fairly priced but rich on DCF. Sales tripled $5B (2017) to $16B+ TTM; operating margin ~44%, guided +~50bp.",
+   "bull_case": "Strong data-quality moat; API usage up 5x Q1->Q2 as business shifts seat-based to consumption pricing; ratings guided low-to-mid single-digit growth.",
+   "bear_case": "ROIC fell from 35%+ pre-2022 to ~10.5%, barely above WACC; higher rates delay bond issuance; consumption-model monetisation still unproven.",
+   "analyzed_at": "2026-10-13T18:04:57.484408+00:00",
+   "collab": false
+  },
+  {
    "video_id": "lDJ3befNmS8",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -32,8 +48,12 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 1
   }
  ]
 }
