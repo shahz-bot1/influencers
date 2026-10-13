@@ -4,6 +4,30 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "SPGI",
+   "tickerSlug": "SPGI",
+   "direction": "AVOID",
+   "date": "2026-10-13T16:00:14.760255+00:00",
+   "price": "$403 (stated market; DCF fair value $311)",
+   "video_id": "Ius91VorkgE"
+  },
+  {
+   "ticker": "WDAY",
+   "tickerSlug": "WDAY",
+   "direction": "BUY",
+   "date": "2026-10-13T15:00:14.760255+00:00",
+   "price": "not stated (forward P/E 14.1 stated)",
+   "video_id": "MhnkaZSNv3Q"
+  },
+  {
+   "ticker": "ZETA",
+   "tickerSlug": "ZETA",
+   "direction": "BUY",
+   "date": "2026-10-13T11:55:56.455117+00:00",
+   "price": "$33.54 (stated market; DCF fair value $33.70)",
+   "video_id": "Ngrx4ZNDWI0"
+  },
+  {
    "ticker": "KO",
    "tickerSlug": "KO",
    "direction": "BUY",
