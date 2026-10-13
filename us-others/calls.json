@@ -1755,5 +1755,95 @@
   "thesis": "Reiterated AVOID (Oct 8): 2.5x price-to-book is very expensive on ~6-6.5% expected growth; wouldn't touch it here.",
   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
   "price_at_call": "2.5x price-to-book; down ~6% over last month"
+ },
+ {
+  "video_id": "Swhi7Bqtukg",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "ZETA",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY, more bullish after Zeta Live: Zeta is the #2 position in the Asymmetric portfolio; the new Athena OS expands Zeta from demand/marketing into supply-side operations, potentially 10x-ing the business over the next decade; revenue compounding, margins improving.",
+  "price_at_call": "$8.4B market cap; EV/sales ~5; revenue compounded 37.6% since Mar 2024 quarter",
+  "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+ },
+ {
+  "video_id": "1fg4FpDs5Sg",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "MRVL",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY: Microsoft's Maia 300 is believed to be part of the Marvell ecosystem, bullish for Marvell as it expands in ASICs (high production from 2027); Nvidia's 576-GPU scale-up/scale-out networking news is also very bullish for Marvell.",
+  "price_at_call": "down ~3% on the day (no level stated)",
+  "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+ },
+ {
+  "video_id": "1fg4FpDs5Sg",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "NVDA",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY: Microsoft building its own Maia inference chip is NOT bearish for Nvidia \u2014 compute demand is so large it does not dent Nvidia demand, and Nvidia remains best on total cost of ownership.",
+  "price_at_call": "down over 1% on the day, below $226",
+  "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+ },
+ {
+  "video_id": "1fg4FpDs5Sg",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "AMD",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY (he is a shareholder): reported CPU price hikes by Intel, Qualcomm and AMD are extremely bullish \u2014 agentic demand far exceeds supply, so pricing restores balance and lifts margins.",
+  "price_at_call": "down ~2% on the day (no level stated)",
+  "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+ },
+ {
+  "video_id": "1fg4FpDs5Sg",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "CRDO",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY: Nvidia's 576-GPU / scale-up and scale-out networking updates at the semiconductor networking conference are very bullish for Credo and the networking names; better TCO lowers token costs and grows AI demand long-term.",
+  "price_at_call": "down ~7% on the day (no level stated)",
+  "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+ },
+ {
+  "video_id": "1fg4FpDs5Sg",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "ALAB",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY: same networking read-through \u2014 Nvidia's scale-up/scale-out domain improvements are very bullish for Astera Labs alongside Marvell and Credo.",
+  "price_at_call": "no price stated",
+  "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+ },
+ {
+  "video_id": "1fg4FpDs5Sg",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "META",
+  "direction": "BUY",
+  "thesis": "New BUY stance: extremely bullish on Meta \u2014 now #3 in AI models behind only Anthropic (ahead of OpenAI and Google) after the market wrote it off a few quarters ago; with its infrastructure it should sell tokens at great value.",
+  "price_at_call": "no price stated",
+  "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+ },
+ {
+  "video_id": "1fg4FpDs5Sg",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "QCOM",
+  "direction": "UNCERTAIN",
+  "thesis": "First tracked mention: named among the CPU price-hike beneficiaries (bullish for margins), and he is starting to take a closer look at Qualcomm \u2014 watchlist interest only, no buy call stated.",
+  "price_at_call": "no price stated",
+  "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+ },
+ {
+  "video_id": "1fg4FpDs5Sg",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "INTC",
+  "direction": "UNCERTAIN",
+  "thesis": "First tracked mention: named among the CPU price-hike beneficiaries (demand far above supply, pricing lifts margins) \u2014 industry read-through only, no individual Intel thesis or buy call stated.",
+  "price_at_call": "no price stated",
+  "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
  }
 ]
