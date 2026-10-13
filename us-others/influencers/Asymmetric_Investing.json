@@ -4,6 +4,14 @@
  "slug": "Asymmetric_Investing",
  "calls": [
   {
+   "ticker": "ZETA",
+   "tickerSlug": "ZETA",
+   "direction": "BUY",
+   "date": "2026-10-13T03:58:37.822741+00:00",
+   "price": "$8.4B market cap; EV/sales ~5; revenue compounded 37.6% since Mar 2024 quarter",
+   "video_id": "Swhi7Bqtukg"
+  },
+  {
    "ticker": "SOFI",
    "tickerSlug": "SOFI",
    "direction": "BUY",
