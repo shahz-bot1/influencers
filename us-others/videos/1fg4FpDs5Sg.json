@@ -1,0 +1,69 @@
+{
+ "video_id": "1fg4FpDs5Sg",
+ "title": "AI Stocks Are Crashing...But Something BIG Is Happening!!",
+ "creator": "Jose Najarro Stocks",
+ "published_at": "2026-10-13T02:55:46.332736+00:00",
+ "summary": "Jose Najarro, filming while on vacation with his family, runs through a red day for semiconductors — the Korean market down roughly 6%, AMD down ~2%, Nvidia down over 1% to below $226, Credo down ~7%, Micron back in the 900s and down a further 1.4% after hours, Marvell down ~3% — and argues the news underneath is mostly bullish, though he cautions the market will stay volatile and this may not be the bottom. First, Microsoft plans to make its Maia chip its primary AI inference system with multi-gigawatt deployment from 2027: he says this is not bearish for Nvidia, whose total cost of ownership is still the best and whose demand is not dented given how much compute is needed, and it is bullish for Marvell, which he understands is part of the Maia 300 ecosystem. Second, Meta is now #3 in AI models behind only Anthropic and ahead of OpenAI and Google — extremely bullish, in his view, with the infrastructure to sell tokens at great value. Third, Taiwanese media reports that Intel, Qualcomm and AMD have raised or plan to raise CPU prices: with agentic demand far above supply, pricing restores balance and lifts margins — extremely bullish for all three; he holds AMD and is starting to look more closely at Qualcomm. Fourth, from the networking-focused semiconductor conference, Nvidia's 576-GPU scale-up/scale-out advances are very bullish for Marvell, Credo and Astera Labs. He also defends Broadcom's CEO against blame for the selloff, reading the 'casino gamblers' comments as a warning to use capital wisely rather than a bearish call, and notes Nvidia partnership updates with Meta, Google, Microsoft and Cisco as positive but not revolutionary. Calls made: MRVL, NVDA, AMD, CRDO and ALAB — BUY reiterated; META — BUY, first tracked; QCOM and INTC — UNCERTAIN, first tracked mentions. Auto-captions repeatedly garble Marvell as 'Marll' and some product names, so figures are taken from context.",
+ "calls": [
+  {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: Microsoft's Maia 300 is believed to be part of the Marvell ecosystem, bullish for Marvell as it expands in ASICs (high production from 2027); Nvidia's 576-GPU scale-up/scale-out networking news is also very bullish for Marvell.",
+   "price_at_call": "down ~3% on the day (no level stated)",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  },
+  {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: Microsoft building its own Maia inference chip is NOT bearish for Nvidia — compute demand is so large it does not dent Nvidia demand, and Nvidia remains best on total cost of ownership.",
+   "price_at_call": "down over 1% on the day, below $226",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  },
+  {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (he is a shareholder): reported CPU price hikes by Intel, Qualcomm and AMD are extremely bullish — agentic demand far exceeds supply, so pricing restores balance and lifts margins.",
+   "price_at_call": "down ~2% on the day (no level stated)",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  },
+  {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRDO",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: Nvidia's 576-GPU / scale-up and scale-out networking updates at the semiconductor networking conference are very bullish for Credo and the networking names; better TCO lowers token costs and grows AI demand long-term.",
+   "price_at_call": "down ~7% on the day (no level stated)",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  },
+  {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "ALAB",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: same networking read-through — Nvidia's scale-up/scale-out domain improvements are very bullish for Astera Labs alongside Marvell and Credo.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  },
+  {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "META",
+   "direction": "BUY",
+   "thesis": "New BUY stance: extremely bullish on Meta — now #3 in AI models behind only Anthropic (ahead of OpenAI and Google) after the market wrote it off a few quarters ago; with its infrastructure it should sell tokens at great value.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  }
+ ]
+}
