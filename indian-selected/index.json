@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T01:33:05.094869+00:00",
+ "updated": "2026-10-13T01:33:34.972131+00:00",
  "tickers": [
   {
    "ticker": "GOLD",
@@ -253,7 +253,7 @@
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
    "nCalls": 15,
-   "nVideos": 17
+   "nVideos": 18
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -264,6 +264,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "s8wQK44BfZs",
+   "title": "If you take these 10 Money Challenges for 2027, your life will CHANGE forever - Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-12",
+   "nCalls": 0
+  },
   {
    "id": "gRT1FwpLl7I",
    "title": "Start Your Solar Business & Build Generational Wealth - Rahul Jain G2G",
