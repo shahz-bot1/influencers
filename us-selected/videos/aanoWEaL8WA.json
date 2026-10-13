@@ -1,0 +1,27 @@
+{
+ "video_id": "aanoWEaL8WA",
+ "title": "I Just Bought $2,500 More of This Stock. Here’s Why",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-13T20:58:27.472045+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Couch Investor's delayed portfolio update leads with an actual purchase: he bought seven more Broadcom shares at $362, increasing the position by 16.28% (about $2,500, matching the title), taking Broadcom to roughly 3% of the portfolio. The portfolio fell 2.57% over the week against the S&P 500's 0.13% fall. He spends much of the video rebutting misleading headlines, in particular 'Broadcom CEO calls AI a casino after co-founder dumps $750 million': with fuller context from a translated report of the Singapore conference, Hock Tan defended OpenAI's business, said AI chip demand has at least a two-year runway, warned supply constraints will tighten, and called panic over a single data point — OpenAI ARR of $50 billion versus an expected $70 billion that itself included about $20 billion from partners — gambling. He previews earnings season (ASML and TSMC this week, big tech and Meta soon after) and argues results and guidance, not headlines, will settle whether the AI trade continues. His technical walk-through puts Alphabet, Sofi (near $15, ahead of earnings in about two weeks) and Nebius (near $200) in or near buy zones while he waits, Rocket Lab's buy zone at $57 to $68, Netflix around its $70 buy zone, Meta no longer in its buy zone though still undervalued in his view, and Uber undervalued with no momentum or catalyst. Other positions noted unchanged: PayPal bull spreads and CoreWeave January 2028 $100 calls. Call made: AVGO BUY at $362, reiterated.",
+ "calls": [
+  {
+   "video_id": "aanoWEaL8WA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Just Bought $2,500 More of This Stock. Here’s Why",
+   "published_at": "2026-10-13T20:58:27.472045+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "$362 (stated, bought 7 extra shares, +16.28% position, ~$2,500)",
+   "thesis": "BUY reiterated (prior explicit BUY 2026-10-05 @ ~$360; the intervening 2026-10-11 entry was UNCERTAIN/passing, so no flip): bought 7 more Broadcom shares at $362 after a headline-driven pullback. He rebuts the 'Broadcom CEO calls AI a casino' headline with fuller context from the Singapore conference — Tan defended OpenAI, said AI chip demand has a 2-year runway and supply will tighten, and called panic over a single ARR data point gambling. Portfolio was down 2.57% on the week vs S&P -0.13%.",
+   "base_case": "Broadcom guided to ~100% more AI revenue next year and double again the year after (as discussed in his Oct 5 video); position now ~3% of portfolio.",
+   "bull_case": "Frontier-lab demand (OpenAI/Anthropic are major Broadcom customers) keeps AI revenue doubling; earnings season, not headlines, will settle the AI trade.",
+   "bear_case": "Headline risk and customer concentration remain; OpenAI ARR reported at $50B vs $70B expected (the $70B included ~$20B from partners) triggered the pullback.",
+   "analyzed_at": "2026-10-13T22:02:41.444350+00:00",
+   "collab": false
+  }
+ ]
+}
