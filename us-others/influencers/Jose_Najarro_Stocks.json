@@ -4,6 +4,54 @@
  "slug": "Jose_Najarro_Stocks",
  "calls": [
   {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "BUY",
+   "date": "2026-10-13T03:58:37.822741+00:00",
+   "price": "down ~3% on the day (no level stated)",
+   "video_id": "1fg4FpDs5Sg"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-13T03:58:37.822741+00:00",
+   "price": "down over 1% on the day, below $226",
+   "video_id": "1fg4FpDs5Sg"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-10-13T03:58:37.822741+00:00",
+   "price": "down ~2% on the day (no level stated)",
+   "video_id": "1fg4FpDs5Sg"
+  },
+  {
+   "ticker": "CRDO",
+   "tickerSlug": "CRDO",
+   "direction": "BUY",
+   "date": "2026-10-13T03:58:37.822741+00:00",
+   "price": "down ~7% on the day (no level stated)",
+   "video_id": "1fg4FpDs5Sg"
+  },
+  {
+   "ticker": "ALAB",
+   "tickerSlug": "ALAB",
+   "direction": "BUY",
+   "date": "2026-10-13T03:58:37.822741+00:00",
+   "price": "no price stated",
+   "video_id": "1fg4FpDs5Sg"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-10-13T03:58:37.822741+00:00",
+   "price": "no price stated",
+   "video_id": "1fg4FpDs5Sg"
+  },
+  {
    "ticker": "CRWV",
    "tickerSlug": "CRWV",
    "direction": "BUY",
