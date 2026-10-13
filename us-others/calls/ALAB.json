@@ -3,6 +3,16 @@
  "slug": "ALAB",
  "calls": [
   {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "ALAB",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: same networking read-through — Nvidia's scale-up/scale-out domain improvements are very bullish for Astera Labs alongside Marvell and Credo.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  },
+  {
    "video_id": "yn_cvSds3lw",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -28,11 +38,11 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Jose Najarro Stocks",
    "idx": 0
   },
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 1
   }
  ]
