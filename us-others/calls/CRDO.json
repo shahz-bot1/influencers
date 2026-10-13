@@ -3,6 +3,16 @@
  "slug": "CRDO",
  "calls": [
   {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRDO",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: Nvidia's 576-GPU / scale-up and scale-out networking updates at the semiconductor networking conference are very bullish for Credo and the networking names; better TCO lowers token costs and grows AI demand long-term.",
+   "price_at_call": "down ~7% on the day (no level stated)",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  },
+  {
    "video_id": "951xEYynOGo",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
