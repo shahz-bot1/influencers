@@ -3,6 +3,39 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "aanoWEaL8WA",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Just Bought $2,500 More of This Stock. Here’s Why",
+   "published_at": "2026-10-13T20:58:27.472045+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "$362 (stated, bought 7 extra shares, +16.28% position, ~$2,500)",
+   "thesis": "BUY reiterated (prior explicit BUY 2026-10-05 @ ~$360; the intervening 2026-10-11 entry was UNCERTAIN/passing, so no flip): bought 7 more Broadcom shares at $362 after a headline-driven pullback. He rebuts the 'Broadcom CEO calls AI a casino' headline with fuller context from the Singapore conference — Tan defended OpenAI, said AI chip demand has a 2-year runway and supply will tighten, and called panic over a single ARR data point gambling. Portfolio was down 2.57% on the week vs S&P -0.13%.",
+   "base_case": "Broadcom guided to ~100% more AI revenue next year and double again the year after (as discussed in his Oct 5 video); position now ~3% of portfolio.",
+   "bull_case": "Frontier-lab demand (OpenAI/Anthropic are major Broadcom customers) keeps AI revenue doubling; earnings season, not headlines, will settle the AI trade.",
+   "bear_case": "Headline risk and customer concentration remain; OpenAI ARR reported at $50B vs $70B expected (the $70B included ~$20B from partners) triggered the pullback.",
+   "analyzed_at": "2026-10-13T22:02:41.444350+00:00",
+   "collab": false
+  },
+  {
+   "video_id": "lD_4hYVqWPA",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 BEST AI Stocks for the Next 5 Years",
+   "published_at": "2026-10-13T14:00:14.760255+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "~$370 (stated)",
+   "thesis": "BUY reiterated (was BUY 2026-10-04; no flip): one of his strongest long-term conviction plays — custom AI accelerators + AI networking plus infrastructure software. Stock flat (+~2% in a year) while revenue/FCF/operating income climb — he calls this the accumulation phase.",
+   "base_case": "InvestingPro models fair value ~$470 vs ~$370 market (~30% upside); analyst 12-month PT $531; forward P/E 18.6x on FY27 EPS $19.39, PEG well below 1.",
+   "bull_case": "Earnings expected +70% this year and +70% next; management has given bullish revenue targets for the next two years on custom silicon demand.",
+   "bear_case": "Custom chips do not replace GPUs across every workload; value depends on translating revenue growth into FCF.",
+   "analyzed_at": "2026-10-13T18:04:57.484408+00:00",
+   "collab": false
+  },
+  {
    "video_id": "I3tyDUSTRq4",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -162,20 +195,20 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "idx": 5
   }
  ]
 }
