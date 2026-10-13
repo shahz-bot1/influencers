@@ -1,0 +1,26 @@
+{
+ "video_id": "Ngrx4ZNDWI0",
+ "title": "Zeta Global Stock: Buy, Hold, or Sell in October 2026?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-13T11:55:56.455117+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc asks whether Zeta Global is a buying opportunity in October 2026 and answers yes, reiterating a BUY he says he has held all year (ranking updated 9 Oct 2026, previously 7 Aug 2026). The growth record is the core of the case: revenue has risen roughly fivefold, from about $300 million on a trailing basis in 2021 to $1.57 billion, while cash flow from operations to sales has more than doubled from about 7% to 15.3%, making the business self-funding and able to raise capital from strength rather than desperation. Research and development has fallen to 9.36% of revenue even as AI improves the product — one example he cites is custom application build time dropping from about a week to minutes. On valuation the stock is not cheap: at $33.54 it trades at 28x forward earnings, in the middle of its recent range, and his discounted cash flow fair value is $33.70, essentially the market price, after a rise of more than 65% year to date. His reason to buy anyway is that free-cash-flow estimates keep being revised higher as the business outperforms. He gives no specific bear case; the summary is based on the captions analysis recorded in the 15:00 run on 2026-10-13. Call made: ZETA BUY at $33.54 (DCF $33.70), medium conviction, no flip.",
+ "calls": [
+  {
+   "video_id": "Ngrx4ZNDWI0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Zeta Global Stock: Buy, Hold, or Sell in October 2026?",
+   "published_at": "2026-10-13T11:55:56.455117+00:00",
+   "ticker": "ZETA",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "$33.54 (stated market; DCF fair value $33.70)",
+   "thesis": "BUY reiterated (ranking updated 9 Oct 2026, previously updated 7 Aug 2026; held as buying opportunity all year): fairly valued at 28x forward P/E and DCF $33.70 vs $33.54, but FCF estimates keep being revised higher; revenue $300M (2021 TTM) to $1.57B TTM, CFO/sales 7% to 15.3%, R&D/revenue down to 9.36%, stock up 65%+ YTD; medium conviction.",
+   "base_case": "DCF fair value $33.70 vs $33.54 market = fairly valued; forward P/E 28 is mid-range (10 in 2025 to 55 in 2024) and near highest since Jan 2025.",
+   "bull_case": "AI-driven product gains (custom app build time from ~1 week to minutes) and repeated upward FCF revisions as business outperforms in 2026.",
+   "bear_case": "Risk noted generically — no specific bear case stated; valuation no longer cheap after 65%+ YTD run, so little margin of safety at fair value.",
+   "analyzed_at": "2026-10-13T13:58:12.600884+00:00"
+  }
+ ]
+}
