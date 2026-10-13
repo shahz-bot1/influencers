@@ -3,6 +3,24 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "o-p4u_6B1hw",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "3 AI Stocks With Massive Upside",
+   "published_at": "2026-10-13T18:58:27.472045+00:00",
+   "ticker": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "price_at_call": "~$60B market cap (stated); no share price stated in this video",
+   "thesis": "CONDITIONAL_BUY reiterated (was CONDITIONAL_BUY 2026-10-11 @ ~$200; no flip) — Couch's own pick in the collaboration: Nebius (ex-Yandex team, HQ Amsterdam) rents AI compute, Q2 revenue $582M +454% YoY / +46% QoQ, AI cloud +514%, ARR $3B (from $1.9B a quarter earlier), adj. EBITDA $236M at ~41% margin, ~$40B contracted backlog (Microsoft, Meta). No buy-now price call in this video, and in his same-day portfolio update he said Nebius is in his buy zone but he is waiting, comfortable with his existing position — so the conditional stance stands.",
+   "base_case": "Management guides ARR to $7–9B; capex guided $20–25B to fund the buildout; 2027 capacity could be sold today but is partly held back because auction prices cleared 15% above the highest price ever charged for Blackwell chips.",
+   "bull_case": "Token Factory managed-inference platform (Tavily, Agon AI, Clarifai/Clarify and new ~$150M Infrise acquisitions) raises GPU utilisation and margins toward an AWS/GCP-like enterprise cloud; CRO path cited toward $100B revenue.",
+   "bear_case": "Very high premium, capital-intensive execution, data-centre permits/delays/lawsuits; large Microsoft/Meta contracts are not high-margin; ARR annualising one month can mislead.",
+   "analyzed_at": "2026-10-13T22:02:41.444350+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor"
+  },
+  {
    "video_id": "sXGem-t2cRI",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -70,11 +88,11 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
