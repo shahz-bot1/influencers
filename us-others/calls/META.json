@@ -3,6 +3,16 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "META",
+   "direction": "BUY",
+   "thesis": "New BUY stance: extremely bullish on Meta — now #3 in AI models behind only Anthropic (ahead of OpenAI and Google) after the market wrote it off a few quarters ago; with its infrastructure it should sell tokens at great value.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  },
+  {
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
    "ticker": "META",
@@ -29,12 +39,16 @@
  ],
  "byInf": [
   {
-   "channel": "Daniel Pronk",
+   "channel": "Jose Najarro Stocks",
    "idx": 0
   },
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Daniel Pronk",
    "idx": 1
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 2
   }
  ]
 }
