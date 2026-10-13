@@ -3,6 +3,16 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (he is a shareholder): reported CPU price hikes by Intel, Qualcomm and AMD are extremely bullish — agentic demand far exceeds supply, so pricing restores balance and lifts margins.",
+   "price_at_call": "down ~2% on the day (no level stated)",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  },
+  {
    "video_id": "951xEYynOGo",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
