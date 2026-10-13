@@ -3,6 +3,24 @@
  "slug": "CRDO",
  "calls": [
   {
+   "video_id": "lD_4hYVqWPA",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 BEST AI Stocks for the Next 5 Years",
+   "published_at": "2026-10-13T14:00:14.760255+00:00",
+   "ticker": "CRDO",
+   "direction": "BUY",
+   "price_at_call": "not stated (models value ~$230; analyst PT $280)",
+   "thesis": "BUY — SOFT FLIP / upgrade (was CONDITIONAL_BUY 2026-10-08): highest-risk, biggest-upside name on the list; in his portfolio and he 'will be building a bigger position in' it, and in all five names. Expects a $300+ share price ('three handle') in 2027. Credo solves the AI connectivity bottleneck with active electrical cables.",
+   "base_case": "Models value ~$230, analyst PT $280 for the next 12 months; stock has swung $86-$309, so position sizing matters.",
+   "bull_case": "If AI infrastructure keeps expanding, thousands of accelerators must move data quickly and reliably regardless of which GPU vendor wins — Credo is positioned in that layer.",
+   "bear_case": "Highest risk of the five; different AI architectures use different connectivity technologies, so Credo does not benefit equally from every design; very volatile.",
+   "analyzed_at": "2026-10-13T18:04:57.484408+00:00",
+   "collab": false,
+   "flip": true,
+   "flip_note": "Soft flip / upgrade: was CONDITIONAL_BUY on 2026-10-08 (conditional put-based entry), now BUY — building a bigger position outright, $300+ expected in 2027."
+  },
+  {
    "ticker": "CRDO",
    "direction": "CONDITIONAL_BUY",
    "channel": "Mark Roussin CPA",
@@ -38,7 +56,7 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
