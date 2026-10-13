@@ -3,6 +3,24 @@
  "slug": "MRVL",
  "calls": [
   {
+   "video_id": "lD_4hYVqWPA",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 BEST AI Stocks for the Next 5 Years",
+   "published_at": "2026-10-13T14:00:14.760255+00:00",
+   "ticker": "MRVL",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$280 (stated, models value ~$280; analyst PT $340)",
+   "thesis": "CONDITIONAL_BUY — SOFT FLIP (was BUY 2026-02-25): likes Marvell for custom silicon + connectivity and believes it is a $400 stock over the next two years, but 'use patience rather than jumping right in' after +200% in 12 months / a big past-month run.",
+   "base_case": "Models value ~$280, about where it trades; analyst PT $340; FY28 revenue outlook raised to ~$20B at investor day, custom chip revenue ~$12B projected for FY29.",
+   "bull_case": "Earnings expected +48% this year then +70% in each of the next two years; data centre was 79% of revenue ($2.2B, +46% YoY) in fiscal Q2; Celestial AI optical acquisition adds connectivity upside.",
+   "bear_case": "Projections depend on product execution, customer demand and manufacturing capacity; valuation full after the run — wait for a better entry.",
+   "analyzed_at": "2026-10-13T18:04:57.484408+00:00",
+   "collab": false,
+   "flip": true,
+   "flip_note": "Soft flip: was BUY on 2026-02-25, now CONDITIONAL_BUY — still bullish long-term ($400 over 2 years) but explicitly patient at current prices after a 200%+ run."
+  },
+  {
    "video_id": "bQjNidzf00c",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -61,16 +79,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 3
+   "channel": "MarketBeat",
+   "idx": 2
   }
  ]
 }
