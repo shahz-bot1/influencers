@@ -3,6 +3,22 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "lD_4hYVqWPA",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 BEST AI Stocks for the Next 5 Years",
+   "published_at": "2026-10-13T14:00:14.760255+00:00",
+   "ticker": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$1T market cap (stated, just under; no share price stated)",
+   "thesis": "CONDITIONAL_BUY reiterated (was CONDITIONAL_BUY 2026-10-08; no flip): owns it, one of his absolute favourite AI names for 5+ years, but 'not saying this stock is a cheap buy right now' after +180% in 12 months / +~25% in a month — will buy further only on pullbacks. Expects $1,000/share in 2027 and a $3T market cap over 5 years.",
+   "base_case": "Forward P/E 38.7x on 2027 estimates but PEG well below 1 as earnings are expected to double again next year.",
+   "bull_case": "Hyperscalers (MSFT/META/AMZN) want a credible second source to Nvidia; Helios rack-scale platform plus dominant server CPUs give AMD two ways to win.",
+   "bear_case": "Huge recent run leaves no margin for chasing; needs a meaningful pullback to add.",
+   "analyzed_at": "2026-10-13T18:04:57.484408+00:00",
+   "collab": false
+  },
+  {
    "video_id": "J1BVUTa-52s",
    "channel": "Couch Investor",
    "title": "I Own These 4 Stocks. I Wouldn't Buy Them Today",
@@ -139,20 +155,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
    "channel": "MarketBeat",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
