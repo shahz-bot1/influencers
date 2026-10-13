@@ -3,6 +3,22 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "lD_4hYVqWPA",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 BEST AI Stocks for the Next 5 Years",
+   "published_at": "2026-10-13T14:00:14.760255+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "~$260 (stated)",
+   "thesis": "BUY reiterated (was BUY 2026-02-25; no flip): one of his largest holdings and favourite long-term names — 'a stock we can nibble at around here', much more aggressive on meaningful pullbacks. AWS is the AI angle, plus Trainium custom silicon, retail, advertising and logistics.",
+   "base_case": "Models value $285 and analyst PT $331 vs ~$260 today; ~25x earnings with ~26% earnings growth expected next year, PEG slightly below 1; AWS revenue $42.2B (+~40%) with $16.6B operating income.",
+   "bull_case": "AI is already a business at AWS scale, not a promise; Amazon both sells AI services and deploys AI across its own operations.",
+   "bear_case": "Diversified but largest name on the list at $2.8T market cap — upside depends on multiple levers continuing to fire; aggressive buying reserved for pullbacks.",
+   "analyzed_at": "2026-10-13T18:04:57.484408+00:00",
+   "collab": false
+  },
+  {
    "video_id": "I3tyDUSTRq4",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -139,24 +155,24 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 3
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 4
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 6
+   "channel": "Couch Investor",
+   "idx": 5
   }
  ]
 }
