@@ -1,0 +1,28 @@
+{
+ "ticker": "WDAY",
+ "slug": "WDAY",
+ "calls": [
+  {
+   "video_id": "MhnkaZSNv3Q",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Workday Forecasting Double Digit Revenue Growth",
+   "published_at": "2026-10-13T15:00:14.760255+00:00",
+   "ticker": "WDAY",
+   "direction": "BUY",
+   "price_at_call": "not stated (forward P/E 14.1 stated)",
+   "thesis": "BUY, low conviction: 'does Workday look like a buying opportunity? I would say yes' — forward P/E 14.1 near cheapest since late 2023 (was 40x+) for double-digit growth with expanding margins; caveat he has not yet run a DCF and does not follow the name frequently. First tracked Parkevtate WDAY call, no flip.",
+   "base_case": "FY28 revenue guided +~11% (double-digit); non-GAAP operating margin guidance 31% next quarter, +200bp improvement while investing in AI; revenue ~10x in a decade to $10.16B TTM; CFO/sales ~30%.",
+   "bull_case": "AI recurring revenue $600M TTM; 25,000+ custom agents built by customers; R&D/revenue fell 44% -> 27%, with scale leverage still to come.",
+   "bear_case": "Growth decelerating vs prior decade CAGR; AI segment still small vs legacy business; no DCF done yet — low conviction stated by the creator himself.",
+   "analyzed_at": "2026-10-13T18:04:57.484408+00:00",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
