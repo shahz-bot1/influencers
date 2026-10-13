@@ -4,6 +4,46 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-13T14:00:14.760255+00:00",
+   "price": "~$1T market cap (stated, just under; no share price stated)",
+   "video_id": "lD_4hYVqWPA"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-13T14:00:14.760255+00:00",
+   "price": "~$370 (stated)",
+   "video_id": "lD_4hYVqWPA"
+  },
+  {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-13T14:00:14.760255+00:00",
+   "price": "~$280 (stated, models value ~$280; analyst PT $340)",
+   "video_id": "lD_4hYVqWPA"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-10-13T14:00:14.760255+00:00",
+   "price": "~$260 (stated)",
+   "video_id": "lD_4hYVqWPA"
+  },
+  {
+   "ticker": "CRDO",
+   "tickerSlug": "CRDO",
+   "direction": "BUY",
+   "date": "2026-10-13T14:00:14.760255+00:00",
+   "price": "not stated (models value ~$230; analyst PT $280)",
+   "video_id": "lD_4hYVqWPA"
+  },
+  {
    "ticker": "CRDO",
    "tickerSlug": "CRDO",
    "direction": "CONDITIONAL_BUY",
