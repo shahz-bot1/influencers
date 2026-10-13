@@ -1,0 +1,26 @@
+{
+ "video_id": "MhnkaZSNv3Q",
+ "title": "Workday Forecasting Double Digit Revenue Growth",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-13T15:00:14.760255+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc asks whether Workday is a buying opportunity after the company forecast double-digit revenue growth for fiscal 2028, and answers yes, but with explicitly low conviction. Revenue has grown nearly tenfold in a decade to $10.16 billion trailing, although the roughly 11% growth guided for fiscal 2028 is a marked slowdown from the prior decade's compounding. Profitability is improving alongside growth: non-GAAP operating margin is guided to 31% next quarter, a 200-basis-point improvement even while AI investment rises, cash flow from operations runs at about 30% of sales, and research and development has fallen from 44% to 27% of revenue, with further scale leverage expected. The AI business is real but still small relative to the legacy business — AI recurring revenue is $600 million trailing and customers have built more than 25,000 custom agents. Valuation carries the call: at a 14.1x forward P/E the stock is near its cheapest since late 2023, versus more than 40x historically, which he calls relatively cheap for double-digit growth with expanding margins. He is candid about the limits of the call: he has not yet run a discounted cash flow valuation and does not follow Workday frequently. Call made: WDAY BUY, low conviction, no price stated, first tracked Parkevtate WDAY call, no flip. Based on the captions analysis recorded in the 19:00 run on 2026-10-13.",
+ "calls": [
+  {
+   "video_id": "MhnkaZSNv3Q",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Workday Forecasting Double Digit Revenue Growth",
+   "published_at": "2026-10-13T15:00:14.760255+00:00",
+   "ticker": "WDAY",
+   "direction": "BUY",
+   "price_at_call": "not stated (forward P/E 14.1 stated)",
+   "thesis": "BUY, low conviction: 'does Workday look like a buying opportunity? I would say yes' — forward P/E 14.1 near cheapest since late 2023 (was 40x+) for double-digit growth with expanding margins; caveat he has not yet run a DCF and does not follow the name frequently. First tracked Parkevtate WDAY call, no flip.",
+   "base_case": "FY28 revenue guided +~11% (double-digit); non-GAAP operating margin guidance 31% next quarter, +200bp improvement while investing in AI; revenue ~10x in a decade to $10.16B TTM; CFO/sales ~30%.",
+   "bull_case": "AI recurring revenue $600M TTM; 25,000+ custom agents built by customers; R&D/revenue fell 44% -> 27%, with scale leverage still to come.",
+   "bear_case": "Growth decelerating vs prior decade CAGR; AI segment still small vs legacy business; no DCF done yet — low conviction stated by the creator himself.",
+   "analyzed_at": "2026-10-13T18:04:57.484408+00:00",
+   "collab": false
+  }
+ ]
+}
