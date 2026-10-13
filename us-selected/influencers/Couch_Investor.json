@@ -4,6 +4,30 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-13T20:58:27.472045+00:00",
+   "price": "$362 (stated, bought 7 extra shares, +16.28% position, ~$2,500)",
+   "video_id": "aanoWEaL8WA"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-10-13T18:58:27.472045+00:00",
+   "price": null,
+   "video_id": "o-p4u_6B1hw"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-13T18:58:27.472045+00:00",
+   "price": "~$60B market cap (stated); no share price stated in this video",
+   "video_id": "o-p4u_6B1hw"
+  },
+  {
    "ticker": "META",
    "tickerSlug": "META",
    "direction": "BUY",
