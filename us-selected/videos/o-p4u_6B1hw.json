@@ -1,0 +1,46 @@
+{
+ "video_id": "o-p4u_6B1hw",
+ "title": "3 AI Stocks With Massive Upside",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-13T18:58:27.472045+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "A collaboration hosted with Rachel for The Motley Fool and Couch Investor, presenting three AI stocks for a watch or buy list. Rachel, a long-term Alphabet shareholder, picks Alphabet first: AI is monetising the core search, advertising and cloud businesses rather than cannibalising search, with second-quarter 2026 revenue up 24%, search and other advertising up 17%, Google Cloud up 82% with a $514 billion backlog, the Gemini app at 950 million monthly users and Gemini Enterprise used by nearly 90% of the Fortune 100; heavy capex and regulatory risk are the offsets, and she calls it a continued compelling buy, which Couch endorses. Couch's own pick is Nebius, the ex-Yandex team headquartered in Amsterdam renting out AI compute: second-quarter revenue of $582 million, up 454% year over year, ARR of $3 billion, adjusted EBITDA margin around 41% and a roughly $40 billion contracted backlog including Microsoft and Meta, with a Token Factory strategy built through the Tavily, Agon AI, Clarify and Infrise acquisitions to raise GPU utilisation and move toward higher-margin enterprise cloud; execution, permits and huge capex are the risks. Rachel closes with Arista Networks, the Ethernet networking layer for AI clusters, presented as a watch-list name: fiscal second-quarter revenue above $3 billion, 2026 guidance raised to $12.6 billion and an AI revenue target of about $3.6 billion, offset by hyperscaler customer concentration. Calls made, attributed to Couch Investor as the watched creator: GOOGL BUY (Rachel's pick, endorsed), NBIS CONDITIONAL_BUY reiterated, ANET UNCERTAIN (watch list only). Auto-captions garble some company names and figures, including Nebius and several acquisition names.",
+ "calls": [
+  {
+   "video_id": "o-p4u_6B1hw",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "3 AI Stocks With Massive Upside",
+   "published_at": "2026-10-13T18:58:27.472045+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (prior Couch GOOGL BUY; no flip) — collaboration with Rachel (The Motley Fool and Couch Investor): Rachel, a long-term Alphabet shareholder, calls Alphabet a 'continued compelling buy' and Couch explicitly agrees, saying Google/Alphabet is a name he would put on any list. Q2 2026: revenue +24% YoY, search/ads +17%, Google Cloud +82% with $514B backlog; Gemini app 950M MAU, Gemini Enterprise used by ~90% of Fortune 100.",
+   "base_case": "AI is layered onto search/cloud rather than cannibalising search; search is now ~50% of revenue as Cloud grows faster and becomes extremely profitable; funded by the profitable ads business.",
+   "bull_case": "TPUs reduce reliance on outside suppliers; Waymo leads US autonomy and is expanding internationally; Isomorphic Labs and other Other Bets add optionality.",
+   "bear_case": "Heavy AI capex pressures near-term profitability (stock fell after a recent earnings report on spend); regulatory risk is a permanent background factor.",
+   "analyzed_at": "2026-10-13T22:02:41.444350+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor"
+  },
+  {
+   "video_id": "o-p4u_6B1hw",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "3 AI Stocks With Massive Upside",
+   "published_at": "2026-10-13T18:58:27.472045+00:00",
+   "ticker": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "price_at_call": "~$60B market cap (stated); no share price stated in this video",
+   "thesis": "CONDITIONAL_BUY reiterated (was CONDITIONAL_BUY 2026-10-11 @ ~$200; no flip) — Couch's own pick in the collaboration: Nebius (ex-Yandex team, HQ Amsterdam) rents AI compute, Q2 revenue $582M +454% YoY / +46% QoQ, AI cloud +514%, ARR $3B (from $1.9B a quarter earlier), adj. EBITDA $236M at ~41% margin, ~$40B contracted backlog (Microsoft, Meta). No buy-now price call in this video, and in his same-day portfolio update he said Nebius is in his buy zone but he is waiting, comfortable with his existing position — so the conditional stance stands.",
+   "base_case": "Management guides ARR to $7–9B; capex guided $20–25B to fund the buildout; 2027 capacity could be sold today but is partly held back because auction prices cleared 15% above the highest price ever charged for Blackwell chips.",
+   "bull_case": "Token Factory managed-inference platform (Tavily, Agon AI, Clarifai/Clarify and new ~$150M Infrise acquisitions) raises GPU utilisation and margins toward an AWS/GCP-like enterprise cloud; CRO path cited toward $100B revenue.",
+   "bear_case": "Very high premium, capital-intensive execution, data-centre permits/delays/lawsuits; large Microsoft/Meta contracts are not high-margin; ARR annualising one month can mislead.",
+   "analyzed_at": "2026-10-13T22:02:41.444350+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor"
+  }
+ ]
+}
