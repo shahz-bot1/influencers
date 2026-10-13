@@ -3,6 +3,24 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "o-p4u_6B1hw",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "3 AI Stocks With Massive Upside",
+   "published_at": "2026-10-13T18:58:27.472045+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (prior Couch GOOGL BUY; no flip) — collaboration with Rachel (The Motley Fool and Couch Investor): Rachel, a long-term Alphabet shareholder, calls Alphabet a 'continued compelling buy' and Couch explicitly agrees, saying Google/Alphabet is a name he would put on any list. Q2 2026: revenue +24% YoY, search/ads +17%, Google Cloud +82% with $514B backlog; Gemini app 950M MAU, Gemini Enterprise used by ~90% of Fortune 100.",
+   "base_case": "AI is layered onto search/cloud rather than cannibalising search; search is now ~50% of revenue as Cloud grows faster and becomes extremely profitable; funded by the profitable ads business.",
+   "bull_case": "TPUs reduce reliance on outside suppliers; Waymo leads US autonomy and is expanding internationally; Isomorphic Labs and other Other Bets add optionality.",
+   "bear_case": "Heavy AI capex pressures near-term profitability (stock fell after a recent earnings report on spend); regulatory risk is a permanent background factor.",
+   "analyzed_at": "2026-10-13T22:02:41.444350+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor"
+  },
+  {
    "ticker": "GOOGL",
    "direction": "CONDITIONAL_BUY",
    "channel": "Mark Roussin CPA",
@@ -160,24 +178,24 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 2
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 3
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 10
+   "idx": 11
   }
  ]
 }
