@@ -1,0 +1,28 @@
+{
+ "ticker": "ZETA",
+ "slug": "ZETA",
+ "calls": [
+  {
+   "video_id": "Ngrx4ZNDWI0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Zeta Global Stock: Buy, Hold, or Sell in October 2026?",
+   "published_at": "2026-10-13T11:55:56.455117+00:00",
+   "ticker": "ZETA",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "$33.54 (stated market; DCF fair value $33.70)",
+   "thesis": "BUY reiterated (ranking updated 9 Oct 2026, previously updated 7 Aug 2026; held as buying opportunity all year): fairly valued at 28x forward P/E and DCF $33.70 vs $33.54, but FCF estimates keep being revised higher; revenue $300M (2021 TTM) to $1.57B TTM, CFO/sales 7% to 15.3%, R&D/revenue down to 9.36%, stock up 65%+ YTD; medium conviction.",
+   "base_case": "DCF fair value $33.70 vs $33.54 market = fairly valued; forward P/E 28 is mid-range (10 in 2025 to 55 in 2024) and near highest since Jan 2025.",
+   "bull_case": "AI-driven product gains (custom app build time from ~1 week to minutes) and repeated upward FCF revisions as business outperforms in 2026.",
+   "bear_case": "Risk noted generically — no specific bear case stated; valuation no longer cheap after 65%+ YTD run, so little margin of safety at fair value.",
+   "analyzed_at": "2026-10-13T13:58:12.600884+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
