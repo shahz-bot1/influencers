@@ -1,0 +1,19 @@
+{
+ "video_id": "Swhi7Bqtukg",
+ "title": "Why Zeta Global Could Be a Multi-Bagger",
+ "creator": "Asymmetric Investing",
+ "published_at": "2026-10-12T18:55:46.332736+00:00",
+ "summary": "Travis Hornsby of Asymmetric Investing follows up Zeta Live, saying he was already bullish on Zeta Global (ZETA) — it is the #2 position in the Asymmetric portfolio — and the announcements make him even more bullish long-term, with 10x potential over the next decade or more. The headline launch is Athena OS, which expands Zeta beyond its demand/marketing business (using proprietary and customer data to decide where ad spend goes across connected TV, email, SMS and social) into the supply side: matching inventory, demand and pricing and planning moves for clients, which expands the total addressable market. Athena OS is heading into beta, initially free for early users, with fixed plus variable pricing to come. Also announced: an MCP connection so clients can query Zeta data and build plans inside ChatGPT, Gemini or Claude; specialized Athena inference models built with Fireworks on Nvidia's open-model stack, fine-tuned for domain language and brand voice while keeping enterprise data proprietary — a data-sovereignty pitch he links to Palantir's Alex Karp, who appeared on stage; and custom silicon, possibly arriving around 2027. Fundamentals cited: revenue compounded at 37.6% since the March 2024 quarter with growth accelerating, operating leverage improving, management guiding growth above 20% through at least 2028 with 2028 adjusted EBITDA and free-cash-flow margin targets, and goals possibly extended to 2031/2032. Valuation: an $8.4B market cap at about 5x enterprise value to sales on a ~30% growth rate. Call made: ZETA — BUY reiterated, more bullish. One caption spot is garbled (the scaled / super-scaled customer count), so that figure is not relied on. Other tickers are mentioned only as examples or partners (Palantir, Nvidia, Nike, Gap, Lululemon), with no calls on them.",
+ "calls": [
+  {
+   "video_id": "Swhi7Bqtukg",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "ZETA",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY, more bullish after Zeta Live: Zeta is the #2 position in the Asymmetric portfolio; the new Athena OS expands Zeta from demand/marketing into supply-side operations, potentially 10x-ing the business over the next decade; revenue compounding, margins improving.",
+   "price_at_call": "$8.4B market cap; EV/sales ~5; revenue compounded 37.6% since Mar 2024 quarter",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  }
+ ]
+}
