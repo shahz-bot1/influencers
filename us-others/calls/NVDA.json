@@ -3,6 +3,16 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "1fg4FpDs5Sg",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: Microsoft building its own Maia inference chip is NOT bearish for Nvidia — compute demand is so large it does not dent Nvidia demand, and Nvidia remains best on total cost of ownership.",
+   "price_at_call": "down over 1% on the day, below $226",
+   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+  },
+  {
    "video_id": "Zrbf8mXwsG4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -39,11 +49,11 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Jose Najarro Stocks",
    "idx": 0
   },
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 1
   }
  ]
