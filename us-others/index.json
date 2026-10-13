@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T04:00:24.139799+00:00",
+ "updated": "2026-10-13T03:59:12.812564+00:00",
  "tickers": [
   {
    "ticker": "ABNB",
@@ -39,7 +39,7 @@
   {
    "ticker": "ALAB",
    "slug": "ALAB",
-   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "lastDate": "2026-10-13T03:58:37.822741+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -48,11 +48,11 @@
     }
    ],
    "influencers": [
-    "Joseph Hogue, CFA",
-    "Jose Najarro Stocks"
+    "Jose Najarro Stocks",
+    "Joseph Hogue, CFA"
    ],
-   "lastStated": "No explicit price given",
-   "nCalls": 2
+   "lastStated": "no price stated",
+   "nCalls": 3
   },
   {
    "ticker": "ALL",
@@ -91,19 +91,19 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-10-07T04:05:00+00:00",
+   "lastDate": "2026-10-13T03:58:37.822741+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$2"
     }
    ],
    "influencers": [
     "Jose Najarro Stocks"
    ],
-   "lastStated": "~$67 (auto-captions garble this line; price approximate)",
-   "nCalls": 2
+   "lastStated": "down ~2% on the day (no level stated)",
+   "nCalls": 3
   },
   {
    "ticker": "AMDY",
@@ -523,19 +523,19 @@
   {
    "ticker": "CRDO",
    "slug": "CRDO",
-   "lastDate": "2026-10-07T04:05:00+00:00",
+   "lastDate": "2026-10-13T03:58:37.822741+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$7"
     }
    ],
    "influencers": [
     "Jose Najarro Stocks"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "down ~7% on the day (no level stated)",
+   "nCalls": 2
   },
   {
    "ticker": "CRWD",
@@ -944,11 +944,11 @@
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-09-30T21:55:34.672871+00:00",
+   "lastDate": "2026-10-13T03:58:37.822741+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": null
     },
     {
@@ -958,11 +958,12 @@
     }
    ],
    "influencers": [
+    "Jose Najarro Stocks",
     "Daniel Pronk",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 2
+   "lastStated": "no price stated",
+   "nCalls": 3
   },
   {
    "ticker": "MGM",
@@ -984,20 +985,20 @@
   {
    "ticker": "MRVL",
    "slug": "MRVL",
-   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "lastDate": "2026-10-13T03:58:37.822741+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": null
+     "avg": "$3"
     }
    ],
    "influencers": [
-    "Joseph Hogue, CFA",
-    "Jose Najarro Stocks"
+    "Jose Najarro Stocks",
+    "Joseph Hogue, CFA"
    ],
-   "lastStated": "No explicit price given",
-   "nCalls": 2
+   "lastStated": "down ~3% on the day (no level stated)",
+   "nCalls": 3
   },
   {
    "ticker": "MTCH",
@@ -1094,20 +1095,20 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "lastDate": "2026-10-13T03:58:37.822741+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": null
+     "avg": "$1"
     }
    ],
    "influencers": [
-    "Joseph Hogue, CFA",
-    "Jose Najarro Stocks"
+    "Jose Najarro Stocks",
+    "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 3
+   "lastStated": "down over 1% on the day, below $226",
+   "nCalls": 4
   },
   {
    "ticker": "NVDY",
@@ -1692,19 +1693,19 @@
   {
    "ticker": "ZETA",
    "slug": "ZETA",
-   "lastDate": "2026-10-10T03:56:54.429840+00:00",
+   "lastDate": "2026-10-13T03:58:37.822741+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$67"
+     "avg": "$8.4"
     }
    ],
    "influencers": [
     "Asymmetric Investing"
    ],
-   "lastStated": "up 67% over past year",
-   "nCalls": 1
+   "lastStated": "$8.4B market cap; EV/sales ~5; revenue compounded 37.6% since Mar 2024 quarter",
+   "nCalls": 2
   },
   {
    "ticker": "ZS",
@@ -1729,8 +1730,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 14,
-   "nVideos": 4
+   "nCalls": 15,
+   "nVideos": 5
   },
   {
    "name": "Brian Feroldi",
@@ -1757,8 +1758,8 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 13,
-   "nVideos": 5
+   "nCalls": 19,
+   "nVideos": 6
   },
   {
    "name": "Joseph Hogue, CFA",
@@ -1797,6 +1798,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "1fg4FpDs5Sg",
+   "title": "AI Stocks Are Crashing...But Something BIG Is Happening!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-13T02:55:46.332736+00:00",
+   "nCalls": 6
+  },
+  {
+   "id": "Swhi7Bqtukg",
+   "title": "Why Zeta Global Could Be a Multi-Bagger",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-10-12T18:55:46.332736+00:00",
+   "nCalls": 1
+  },
   {
    "id": "6pm5KqQw6RI",
    "title": "The UNTHINKABLE is About to Happen to Stocks (but most will invest wrong)",
