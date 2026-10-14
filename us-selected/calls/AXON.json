@@ -3,6 +3,24 @@
  "slug": "AXON",
  "calls": [
   {
+   "video_id": "-6wR6p9pmlg",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Selloff Just Got Ugly. Here’s Everything You Need to Know",
+   "published_at": "2026-10-14T19:59:00.406752+00:00",
+   "analyzed_at": "2026-10-14T22:01:55.653815+00:00",
+   "ticker": "AXON",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (prior explicit BUY 2026-09-16 after a ~10% dip; no flip) — closing: 'I'm looking to buy more Axon.' No price stated; name unrelated to the AI selloff, flagged as a dip-buy alongside Nebius.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "collab": false
+  },
+  {
    "video_id": "FXDiB6n-5RU",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
