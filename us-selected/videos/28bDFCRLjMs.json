@@ -1,0 +1,61 @@
+{
+ "video_id": "28bDFCRLjMs",
+ "title": "Urgent: Buy Before October 28 (Investors Will FLOOD Into These Stocks)",
+ "creator": "MarketBeat",
+ "published_at": "2026-10-13T22:55:26.540873+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "MarketBeat host Bridget interviews analyst Chris Marotch ahead of the late-October Fed meeting, where Cleveland Fed President Beth Hammack has argued rates may need to rise further with inflation above target for over five years. With the 10-year Treasury yielding about 5.2%, Marotch argues investors need not flee to bonds: three stocks under $30 each yield more than the 10-year while offering price upside. Pfizer (PFE, BUY, under $30 stated) trades at roughly 9.5x forward earnings with a ~6% yield; post-Covid revenue has normalised and the story is slow-and-steady, hinging on a deep pipeline of 'shots on goal' rather than a return to Covid highs. Energy Transfer (ET, BUY, under $30) is called the most attractive on total return: ~11.7x forward earnings, a 6.67% yield raised fractionally every quarter, consensus target near $24.50, and natural gas — the near-term winner for AI data-centre power — moving through one of the largest US midstream networks. Plains All American (PAA, BUY, under $30) is the focused Permian-to-Gulf crude play: ~14.2x forward / ~8x trailing earnings, 6.8% yield, fee-based so it is paid whether oil is $60 or $160, with UBS and Mizuho targets of $31 and $30. All three are first tracked calls; no stance flips. Caption names are garbled in places ('Fizer', 'P AAA').",
+ "calls": [
+  {
+   "video_id": "28bDFCRLjMs",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Urgent: Buy Before October 28 (Investors Will FLOOD Into These Stocks)",
+   "published_at": "2026-10-13T22:55:26.540873+00:00",
+   "analyzed_at": "2026-10-14T05:57:05.696107+00:00",
+   "ticker": "PFE",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "under $30 (stated); ~9.5x forward P/E, ~6% dividend yield",
+   "thesis": "Guest Chris Marotch: Pfizer as a high-yield alternative to 5.2% Treasuries ahead of the late-Oct Fed meeting — revenue/earnings normalised post-Covid, large pipeline/acquisitions give many 'shots on goal', slow-and-steady growth story; up ~17% in last 3 months.",
+   "base_case": "Slow and steady total return: ~14% price gain YTD plus ~6% dividend (~20% total).",
+   "bull_case": "Pipeline drugs get approved through trials, including autoimmune/oncology candidates where it is a 'forgotten name' vs GLP-1 leaders.",
+   "bear_case": "Getting back to Covid-era highs requires pipeline successes actually crossing the finish line."
+  },
+  {
+   "video_id": "28bDFCRLjMs",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Urgent: Buy Before October 28 (Investors Will FLOOD Into These Stocks)",
+   "published_at": "2026-10-13T22:55:26.540873+00:00",
+   "analyzed_at": "2026-10-14T05:57:05.696107+00:00",
+   "ticker": "ET",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "under $30 (stated); ~11.7x forward P/E, 6.67% yield ($1.36/yr), consensus PT ~$24.50 cited as ~20% upside",
+   "thesis": "Guest Chris Marotch: Energy Transfer — called the most attractive of the three on total return; largest US midstream network moves oil/gas to refiners/export, natural gas is the near-term winner for AI data-centre power, dividend raised fractionally every quarter.",
+   "base_case": "Fee-based midstream cash flows plus quarterly dividend growth compound steadily, early stages of a long pipeline bull market.",
+   "bull_case": "AI/infrastructure power demand lifts gas transport volumes; analyst targets could move above the $24.50 consensus.",
+   "bear_case": "Stock prices can fall despite yield; thesis relies on sustained energy-transport demand."
+  },
+  {
+   "video_id": "28bDFCRLjMs",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Urgent: Buy Before October 28 (Investors Will FLOOD Into These Stocks)",
+   "published_at": "2026-10-13T22:55:26.540873+00:00",
+   "analyzed_at": "2026-10-14T05:57:05.696107+00:00",
+   "ticker": "PAA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "under $30 (stated); ~14.2x forward P/E (~8x trailing), 6.8% yield ($1.67/yr); UBS PT $31 / Mizuho PT $30 cited",
+   "thesis": "Guest Chris Marotch: Plains All American — focused crude pipeline from Permian Basin to Gulf Coast refiners/export terminals, right where US export action is; fee-based so paid whether oil is $60 or $160, attractive up-and-to-the-right chart.",
+   "base_case": "Fee-based volumes keep growing as US crude moves to Gulf export; possible dividend increase after ~10% rise four quarters ago.",
+   "bull_case": "Price targets rise significantly from the ~4.8% consensus upside as UBS/Mizuho $30-31 targets are followed.",
+   "bear_case": "Depends on continued Permian-to-Gulf crude demand; analyst consensus upside currently thin (~4.8%)."
+  }
+ ]
+}
