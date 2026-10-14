@@ -3,6 +3,16 @@
  "slug": "BOT",
  "calls": [
   {
+   "video_id": "PaTsaOCSUo0",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BOT",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (first tracked 9 Oct): follow-up interview with Robo Strategy CEO Andrew Kang; title frames BOT as 'the ONE stock I'm buying' — the Nasdaq closed-end fund as the vehicle for pre-IPO robotics/physical-AI exposure (Figure AI, Apptronik, Dyna Robotics, Standard Bots, Path Robotics). Kang: NAV/share up >50% (~55%) in ~4 months since launch, driven mostly by crystallising the NAV premium via new issuance ('multiple arbitrage'), not markups; fund trades at a premium to NAV today.",
+   "price_at_call": "no market price stated; 2.5% management fee (expense ratio a bit higher on one-time listing costs, expected to compress); premium-to-NAV is the central risk",
+   "analyzed_at": "2026-10-14T04:01:06.698133+00:00"
+  },
+  {
    "video_id": "vFGkr80KPBw",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
