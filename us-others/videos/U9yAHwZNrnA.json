@@ -1,0 +1,19 @@
+{
+ "video_id": "U9yAHwZNrnA",
+ "title": "Bumble Stock Jumps 135% -- Buy or Sell NOW?",
+ "creator": "Asymmetric Investing",
+ "published_at": "2026-10-13T16:55:48.041552+00:00",
+ "summary": "Travis Hornsby of Asymmetric Investing explains why Bumble (BMBL) has jumped about 135% in two days and why, as a shareholder, he will take the money rather than hold on. Bumble has agreed a take-private buyout — board-approved, with Blackstone affiliates and founder/CEO Whitney Wolfe Herd's affiliates backing it, Herd herself not voting and effectively being pushed out in favour of Ithaca-appointed co-CEOs Ravi Gupta and John Higgaman. Hornsby is candid that his thesis, built over roughly a year of accumulating shares, did not work as planned: revenue has fallen since late 2024, paying users on the Bumble app have dropped to about 2.1 million, and while Herd's strategy of serving fewer, more serious customers at higher prices lifted revenue per payer from about $24.80 to about $27.60 and improved free cash flow, the turnaround was slower than expected and competition has intensified — the stock was down about 30% year-to-date before the offer and is still down about 58% over three years even after the jump. What saved the position, in his telling, was buying a free-cash-flow-positive business cheaply: enterprise value to sales was about 0.5 before buyout rumours (about 1.1 now) and forward price to free cash flow about 5, which is what attracted the buyers. His decision: sell at about $5.95 rather than hold for the buyout price, giving up roughly ten cents to remove the risk that the deal falls through and the stock drops back to $2–$3, and accepting the small chance of a higher competing bid; the position ends up roughly 30–40% in profit and he will redeploy into better opportunities. Call made: BMBL — SELL (first tracked), take the buyout. Caption caution: the captions render the buyout offer as '$65 per share' at a 138% premium, which is inconsistent with the $5.95 sell price and ~10-cent gap he describes later in the same video, so the headline offer figure as captioned is garbled and not relied on.",
+ "calls": [
+  {
+   "video_id": "U9yAHwZNrnA",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "BMBL",
+   "direction": "SELL",
+   "thesis": "First tracked BMBL call — SELL / take the buyout: Travis Hornsby holds Bumble in the Asymmetric portfolio (~30-40% gain after the ~135% two-day jump) but will sell into the agreed take-private (Ithaca/Blackstone-affiliated buyers, founder Whitney Wolfe Herd pushed out) rather than hold for completion — thesis had not worked (revenue falling since late 2024, paying users down to 2.1M, turnaround slower than planned, more competition), and he will redeploy into better opportunities. If the deal fails, stock could fall back to $2-$3.",
+   "price_at_call": "sellable ~$5.95 vs buyout offer ~10c higher per captions; captions garble the headline offer as '$65/share, 138% premium' — inconsistent with the $5.95 figure, so the offer price as captioned is unreliable; stock was down ~30% YTD before the offer, EV/sales ~1.1 (was ~0.5), forward P/FCF ~5",
+   "analyzed_at": "2026-10-14T04:01:06.698133+00:00"
+  }
+ ]
+}
