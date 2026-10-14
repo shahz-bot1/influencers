@@ -1845,5 +1845,25 @@
   "thesis": "First tracked mention: named among the CPU price-hike beneficiaries (demand far above supply, pricing lifts margins) \u2014 industry read-through only, no individual Intel thesis or buy call stated.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
+ },
+ {
+  "video_id": "PaTsaOCSUo0",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "BOT",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY (first tracked 9 Oct): follow-up interview with Robo Strategy CEO Andrew Kang; title frames BOT as 'the ONE stock I'm buying' \u2014 the Nasdaq closed-end fund as the vehicle for pre-IPO robotics/physical-AI exposure (Figure AI, Apptronik, Dyna Robotics, Standard Bots, Path Robotics). Kang: NAV/share up >50% (~55%) in ~4 months since launch, driven mostly by crystallising the NAV premium via new issuance ('multiple arbitrage'), not markups; fund trades at a premium to NAV today.",
+  "price_at_call": "no market price stated; 2.5% management fee (expense ratio a bit higher on one-time listing costs, expected to compress); premium-to-NAV is the central risk",
+  "analyzed_at": "2026-10-14T04:01:06.698133+00:00"
+ },
+ {
+  "video_id": "U9yAHwZNrnA",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "BMBL",
+  "direction": "SELL",
+  "thesis": "First tracked BMBL call \u2014 SELL / take the buyout: Travis Hornsby holds Bumble in the Asymmetric portfolio (~30-40% gain after the ~135% two-day jump) but will sell into the agreed take-private (Ithaca/Blackstone-affiliated buyers, founder Whitney Wolfe Herd pushed out) rather than hold for completion \u2014 thesis had not worked (revenue falling since late 2024, paying users down to 2.1M, turnaround slower than planned, more competition), and he will redeploy into better opportunities. If the deal fails, stock could fall back to $2-$3.",
+  "price_at_call": "sellable ~$5.95 vs buyout offer ~10c higher per captions; captions garble the headline offer as '$65/share, 138% premium' \u2014 inconsistent with the $5.95 figure, so the offer price as captioned is unreliable; stock was down ~30% YTD before the offer, EV/sales ~1.1 (was ~0.5), forward P/FCF ~5",
+  "analyzed_at": "2026-10-14T04:01:06.698133+00:00"
  }
 ]
