@@ -1,0 +1,46 @@
+{
+ "video_id": "-6wR6p9pmlg",
+ "title": "The AI Selloff Just Got Ugly. Here’s Everything You Need to Know",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-14T19:59:00.406752+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Couch Investor's self-described 'therapy session' on a broad AI/growth selloff day. He argues the market remains headline-driven: delayed OpenAI/Anthropic IPOs and a hotter CPI print — driven mostly by fuel, oil and gasoline, with core readings only slightly hot — knocked names down without changing fundamentals, and portfolios having a strong year are simply giving some back. The core segment examines CoreWeave's spiking bond yields (2032s around 14.3%, 2031s around 15.7%, quarterly interest heading toward $900–950M) as a trust problem around delivering data centres and paying interest on time, while Oracle's rising yields are less concerning given its profitable core; CoreWeave's CEO blames rivals' IPO delays bleeding into its narrative. He then rebuts Paul Tudor Jones's renewed '1999, challenging 2027' call — the same comparison as a year ago, in a market now funded by trillion-dollar companies generating huge free cash flow — while conceding 2027 risks (capex growth slowing, inflation, recession, more hikes, three possible $2T IPOs draining flows). ASML's strong earnings and raised margin outlook (stock down ~2% anyway) illustrate demand outstripping supply into 2028–30. Calls: AXON BUY (reiterated, no price), NBIS CONDITIONAL_BUY — Nebius down ~10%, he adds if it dips back under $200; AVGO, CRWV, ORCL and ASML are UNCERTAIN mentions. Auto-captions garble several names ('Nebus', 'Entropic', 'Tudtor Jones').",
+ "calls": [
+  {
+   "video_id": "-6wR6p9pmlg",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Selloff Just Got Ugly. Here’s Everything You Need to Know",
+   "published_at": "2026-10-14T19:59:00.406752+00:00",
+   "analyzed_at": "2026-10-14T22:01:55.653815+00:00",
+   "ticker": "AXON",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (prior explicit BUY 2026-09-16 after a ~10% dip; no flip) — closing: 'I'm looking to buy more Axon.' No price stated; name unrelated to the AI selloff, flagged as a dip-buy alongside Nebius.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "collab": false
+  },
+  {
+   "video_id": "-6wR6p9pmlg",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Selloff Just Got Ugly. Here’s Everything You Need to Know",
+   "published_at": "2026-10-14T19:59:00.406752+00:00",
+   "analyzed_at": "2026-10-14T22:01:55.653815+00:00",
+   "ticker": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": 200.0,
+   "thesis": "CONDITIONAL_BUY reiterated (was CONDITIONAL_BUY 2026-10-13 and 2026-10-11 @ ~$200; no flip) — Nebius down ~10% on the day; 'if we do dip back under $200, yes I will be adding a little bit more.' Frames the selloff as opportunity in good businesses, not broken theses.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "collab": false
+  }
+ ]
+}
