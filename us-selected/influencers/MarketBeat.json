@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "PFE",
+   "tickerSlug": "PFE",
+   "direction": "BUY",
+   "date": "2026-10-13T22:55:26.540873+00:00",
+   "price": "under $30 (stated); ~9.5x forward P/E, ~6% dividend yield",
+   "video_id": "28bDFCRLjMs"
+  },
+  {
+   "ticker": "ET",
+   "tickerSlug": "ET",
+   "direction": "BUY",
+   "date": "2026-10-13T22:55:26.540873+00:00",
+   "price": "under $30 (stated); ~11.7x forward P/E, 6.67% yield ($1.36/yr), consensus PT ~$24.50 cited as ~20% upside",
+   "video_id": "28bDFCRLjMs"
+  },
+  {
+   "ticker": "PAA",
+   "tickerSlug": "PAA",
+   "direction": "BUY",
+   "date": "2026-10-13T22:55:26.540873+00:00",
+   "price": "under $30 (stated); ~14.2x forward P/E (~8x trailing), 6.8% yield ($1.67/yr); UBS PT $31 / Mizuho PT $30 cited",
+   "video_id": "28bDFCRLjMs"
+  },
+  {
    "ticker": "GH",
    "tickerSlug": "GH",
    "direction": "BUY",
