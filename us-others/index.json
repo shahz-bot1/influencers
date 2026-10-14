@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T03:59:12.812564+00:00",
+ "updated": "2026-10-14T04:03:08.612398+00:00",
  "tickers": [
   {
    "ticker": "ABNB",
@@ -351,21 +351,38 @@
    "nCalls": 1
   },
   {
+   "ticker": "BMBL",
+   "slug": "BMBL",
+   "lastDate": "2026-10-14T04:01:06.698133+00:00",
+   "chips": [
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": "$5.95"
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "sellable ~$5.95 vs buyout offer ~10c higher per captions; captions garble the he",
+   "nCalls": 1
+  },
+  {
    "ticker": "BOT",
    "slug": "BOT",
-   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "lastDate": "2026-10-14T04:01:06.698133+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$2.5"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "no market price stated; 2.5% management fee (expense ratio a bit higher on one-t",
+   "nCalls": 2
   },
   {
    "ticker": "BRK.B",
@@ -1730,8 +1747,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 15,
-   "nVideos": 5
+   "nCalls": 16,
+   "nVideos": 6
   },
   {
    "name": "Brian Feroldi",
@@ -1765,8 +1782,8 @@
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 73,
-   "nVideos": 8
+   "nCalls": 74,
+   "nVideos": 9
   },
   {
    "name": "Patient Investor",
@@ -1798,6 +1815,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "U9yAHwZNrnA",
+   "title": "Bumble Stock Jumps 135% -- Buy or Sell NOW?",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-10-13T16:55:48.041552+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "PaTsaOCSUo0",
+   "title": "The Next AI Revolution Is Here… THIS is the ONE Stock I'm Buying",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-10-13T15:55:48.041552+00:00",
+   "nCalls": 1
+  },
   {
    "id": "1fg4FpDs5Sg",
    "title": "AI Stocks Are Crashing...But Something BIG Is Happening!!",
