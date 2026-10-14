@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T22:08:39.620786+00:00",
+ "updated": "2026-10-14T22:12:01.782702+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -308,19 +308,19 @@
   {
    "ticker": "AXON",
    "slug": "AXON",
-   "lastDate": "2026-09-16T01:35:30+00:00",
+   "lastDate": "2026-10-14T19:59:00.406752+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$10"
+     "avg": null
     }
    ],
    "influencers": [
     "Couch Investor"
    ],
    "lastStated": "bought more today after ~10% dip",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "BE",
@@ -767,6 +767,23 @@
     "MarketBeat"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "ET",
+   "slug": "ET",
+   "lastDate": "2026-10-13T22:55:26.540873+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$30"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "under $30 (stated); ~11.7x forward P/E, 6.67% yield ($1.36/yr), consensus PT ~$2",
    "nCalls": 1
   },
   {
@@ -1481,12 +1498,12 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-10-06T13:45:42.968067+00:00",
+   "lastDate": "2026-10-14T11:56:04.267425+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": null
+     "avg": "$989"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -1505,13 +1522,13 @@
     "Couch Investor",
     "MarketBeat"
    ],
-   "lastStated": "FV ~$1,430 vs market ~$1,165 (caption-garbled figures); FV to be revised higher",
-   "nCalls": 9
+   "lastStated": "$989 (stated); FV $1,400 (stated, ~42% upside over 12-18 months)",
+   "nCalls": 10
   },
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-10-13T18:58:27.472045+00:00",
+   "lastDate": "2026-10-14T19:59:00.406752+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1521,7 +1538,7 @@
     {
      "dir": "CONDITIONAL_BUY",
      "n": 1,
-     "avg": "$60"
+     "avg": "$200"
     },
     {
      "dir": "AVOID",
@@ -1534,18 +1551,18 @@
     "MarketBeat",
     "BWB - Business With Brian"
    ],
-   "lastStated": "~$60B market cap (stated); no share price stated in this video",
-   "nCalls": 5
+   "lastStated": "200.0",
+   "nCalls": 6
   },
   {
    "ticker": "NFLX",
    "slug": "NFLX",
-   "lastDate": "2026-10-09T18:03:19.799081+00:00",
+   "lastDate": "2026-10-14T13:46:04.267425+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$67"
+     "avg": "$68.5"
     },
     {
      "dir": "HOLD",
@@ -1554,12 +1571,12 @@
     }
    ],
    "influencers": [
-    "Couch Investor",
     "Parkevtate Vosianc CFA",
+    "Couch Investor",
     "Joseph Carlson After Hours"
    ],
-   "lastStated": "67.0",
-   "nCalls": 8
+   "lastStated": "$70 (stated current); FV $115 (stated, ~64% upside over 12-18 months)",
+   "nCalls": 9
   },
   {
    "ticker": "NICE",
@@ -1800,6 +1817,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "PAA",
+   "slug": "PAA",
+   "lastDate": "2026-10-13T22:55:26.540873+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$30"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "under $30 (stated); ~14.2x forward P/E (~8x trailing), 6.8% yield ($1.67/yr); UB",
+   "nCalls": 1
+  },
+  {
    "ticker": "PANW",
    "slug": "PANW",
    "lastDate": "2026-10-04T15:59:59.567519+00:00",
@@ -1844,6 +1878,23 @@
    ],
    "lastStated": "$124 (stated market; DCF fair value $178)",
    "nCalls": 3
+  },
+  {
+   "ticker": "PFE",
+   "slug": "PFE",
+   "lastDate": "2026-10-13T22:55:26.540873+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$30"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "under $30 (stated); ~9.5x forward P/E, ~6% dividend yield",
+   "nCalls": 1
   },
   {
    "ticker": "PG",
@@ -2137,19 +2188,25 @@
   {
    "ticker": "SNDK",
    "slug": "SNDK",
-   "lastDate": "2026-10-11T14:04:01.115917+00:00",
+   "lastDate": "2026-10-14T11:56:04.267425+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
      "avg": null
+    },
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$1,662"
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "SOFI",
@@ -2790,8 +2847,8 @@
    "name": "Couch Investor",
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
-   "nCalls": 56,
-   "nVideos": 46
+   "nCalls": 58,
+   "nVideos": 47
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -2811,15 +2868,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 52,
-   "nVideos": 23
+   "nCalls": 55,
+   "nVideos": 24
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 107,
-   "nVideos": 108
+   "nCalls": 110,
+   "nVideos": 111
   },
   {
    "name": "The German Value Investor",
@@ -2830,6 +2887,46 @@
   }
  ],
  "videos": [
+  {
+   "id": "-6wR6p9pmlg",
+   "title": "The AI Selloff Just Got Ugly. Here’s Everything You Need to Know",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-14T19:59:00.406752+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "Ffv6UZVk1Zg",
+   "title": "Should Investors Buy Netflix Stock Before the Huge Investor Update? | NFLX Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-14T13:46:04.267425+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "D-uuaNnNs-k",
+   "title": "Unfortunate News for Micron Stock and Sandisk Stock Investors | MU Stock | SNDK Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-14T11:56:04.267425+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "28bDFCRLjMs",
+   "title": "Urgent: Buy Before October 28 (Investors Will FLOOD Into These Stocks)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-13T22:55:26.540873+00:00",
+   "nCalls": 3
+  },
   {
    "id": "aanoWEaL8WA",
    "title": "I Just Bought $2,500 More of This Stock. Here’s Why",
@@ -2959,6 +3056,16 @@
    ],
    "published_at": "2026-10-12T11:55:40.319717+00:00",
    "nCalls": 1
+  },
+  {
+   "id": "ecNNnwcty7s",
+   "title": "Nike Is Restructuring the Business | NKE Stock Deep Dive Part 3",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-12T05:55:26.540873+00:00",
+   "nCalls": 0
   },
   {
    "id": "ueAzP6zPP64",
