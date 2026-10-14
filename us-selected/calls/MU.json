@@ -3,6 +3,23 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "D-uuaNnNs-k",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Unfortunate News for Micron Stock and Sandisk Stock Investors | MU Stock | SNDK Stock",
+   "published_at": "2026-10-14T11:56:04.267425+00:00",
+   "analyzed_at": "2026-10-14T13:59:41.927007+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$989 (stated); FV $1,400 (stated, ~42% upside over 12-18 months)",
+   "thesis": "China's CXMT announced a new higher-density memory-cell design, knocking memory names down 2-4% — he calls the dip a buying opportunity for MU: industry sold out 2026-27 and likely 2028, MU just posted 80%+ operating margins two straight quarters. Moat is weaker than NVDA's (why NVDA ranks higher), but the margin of safety still warrants buying.",
+   "base_case": "Sold-out supply through 2027 insulates the near term; any CXMT impact is not felt until 2028 at the earliest.",
+   "bull_case": "Supply/demand imbalance persists at extreme margins; FV $1,400 implies ~42% upside.",
+   "bear_case": "Price-range clauses in long-term customer agreements could cut ASPs as SK Hynix/Samsung/CXMT competition builds; 80%+ margins invite rivals."
+  },
+  {
    "video_id": "x_VEI4OnjaU",
    "channel": "Parkevtate Vosianc CFA",
    "video_title": "Micron Stock: Buy or Sell? (My Final Verdict) | MU Stock Deep Dive Part 4",
@@ -150,15 +167,15 @@
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 2
-  },
-  {
-   "channel": "Couch Investor",
    "idx": 3
   },
   {
+   "channel": "Couch Investor",
+   "idx": 4
+  },
+  {
    "channel": "MarketBeat",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
