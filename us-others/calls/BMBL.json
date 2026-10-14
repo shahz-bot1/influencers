@@ -1,0 +1,22 @@
+{
+ "ticker": "BMBL",
+ "slug": "BMBL",
+ "calls": [
+  {
+   "video_id": "U9yAHwZNrnA",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "BMBL",
+   "direction": "SELL",
+   "thesis": "First tracked BMBL call — SELL / take the buyout: Travis Hornsby holds Bumble in the Asymmetric portfolio (~30-40% gain after the ~135% two-day jump) but will sell into the agreed take-private (Ithaca/Blackstone-affiliated buyers, founder Whitney Wolfe Herd pushed out) rather than hold for completion — thesis had not worked (revenue falling since late 2024, paying users down to 2.1M, turnaround slower than planned, more competition), and he will redeploy into better opportunities. If the deal fails, stock could fall back to $2-$3.",
+   "price_at_call": "sellable ~$5.95 vs buyout offer ~10c higher per captions; captions garble the headline offer as '$65/share, 138% premium' — inconsistent with the $5.95 figure, so the offer price as captioned is unreliable; stock was down ~30% YTD before the offer, EV/sales ~1.1 (was ~0.5), forward P/FCF ~5",
+   "analyzed_at": "2026-10-14T04:01:06.698133+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  }
+ ]
+}
