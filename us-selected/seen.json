@@ -1152,8 +1152,8 @@
  "fyl-DJoeitA": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Is it Finally Time to Buy Nike Stock? | NKE Stock Deep Dive",
-  "published_at": "2026-10-09T21:58:30.463501+00:00",
-  "analyzed_at": "2026-10-13T22:02:41.444350+00:00",
+  "published_at": "2026-10-10T13:56:04.267425+00:00",
+  "analyzed_at": "2026-10-14T18:03:40.308909+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
@@ -1232,34 +1232,36 @@
  "Rj-uAO8wAPs": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "New Exclusive Channel Membership Feature and Exclusive Membership Content Schedule Update",
-  "published_at": "2026-10-11T21:58:30.463501+00:00",
-  "analyzed_at": "2026-10-13T22:02:41.444350+00:00",
+  "published_at": "2026-10-12T13:56:04.267425+00:00",
+  "analyzed_at": "2026-10-14T22:01:55.653815+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
  "OH6cXXo7bxM": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Nike Stock: Buy, Hold, or Sell? (My Final Verdict) | NKE Stock Deep Dive Part 5",
-  "published_at": "2026-10-11T21:58:30.463501+00:00",
-  "analyzed_at": "2026-10-13T22:02:41.444350+00:00",
+  "published_at": "2026-10-12T13:56:04.267425+00:00",
+  "analyzed_at": "2026-10-14T22:01:55.653815+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
  "cPMFm3zCmbo": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Does Nike Have the Right Strategy Moving Forward? | NKE Stock Deep Dive Part 4",
-  "published_at": "2026-10-11T21:58:30.463501+00:00",
-  "analyzed_at": "2026-10-13T22:02:41.444350+00:00",
+  "published_at": "2026-10-12T13:56:04.267425+00:00",
+  "analyzed_at": "2026-10-14T22:01:55.653815+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
  "ecNNnwcty7s": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Nike Is Restructuring the Business | NKE Stock Deep Dive Part 3",
-  "published_at": "2026-10-11T21:58:30.463501+00:00",
-  "analyzed_at": "2026-10-13T22:02:41.444350+00:00",
+  "published_at": "2026-10-12T05:55:26.540873+00:00",
+  "analyzed_at": "2026-10-14T18:03:40.308909+00:00",
   "alerted": false,
-  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+  "calls": [
+   "NKE:UNCERTAIN"
+  ]
  },
  "MhnkaZSNv3Q": {
   "channel": "Parkevtate Vosianc CFA",
@@ -1339,5 +1341,79 @@
   ],
   "collab": true,
   "collab_byline": "The Motley Fool and Couch Investor"
+ },
+ "ix4xFsnp0OA": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Better Buy: Home Depot or Lowe's?",
+  "published_at": "2026-10-14T01:56:04.267425+00:00",
+  "analyzed_at": "2026-10-14T22:01:55.653815+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "Ffv6UZVk1Zg": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Should Investors Buy Netflix Stock Before the Huge Investor Update? | NFLX Stock Analysis",
+  "published_at": "2026-10-14T13:46:04.267425+00:00",
+  "analyzed_at": "2026-10-14T13:59:41.927007+00:00",
+  "alerted": true,
+  "calls": [
+   "NFLX:BUY"
+  ]
+ },
+ "39moWMS6YQI": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Why Is SoFi Stock Crashing, and is it a Generational Buying Opportunity?",
+  "published_at": "2026-10-14T01:56:04.267425+00:00",
+  "analyzed_at": "2026-10-14T22:01:55.653815+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "D-uuaNnNs-k": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Unfortunate News for Micron Stock and Sandisk Stock Investors | MU Stock | SNDK Stock",
+  "published_at": "2026-10-14T11:56:04.267425+00:00",
+  "analyzed_at": "2026-10-14T13:59:41.927007+00:00",
+  "alerted": true,
+  "calls": [
+   "MU:BUY",
+   "SNDK:CONDITIONAL_BUY",
+   "NVDA:UNCERTAIN",
+   "TSM:UNCERTAIN"
+  ]
+ },
+ "28bDFCRLjMs": {
+  "channel": "MarketBeat",
+  "title": "Urgent: Buy Before October 28 (Investors Will FLOOD Into These Stocks)",
+  "published_at": "2026-10-13T22:55:26.540873+00:00",
+  "analyzed_at": "2026-10-14T05:57:05.696107+00:00",
+  "alerted": true,
+  "calls": [
+   "PFE:BUY",
+   "ET:BUY",
+   "PAA:BUY"
+  ]
+ },
+ "-6wR6p9pmlg": {
+  "channel": "Couch Investor",
+  "title": "The AI Selloff Just Got Ugly. Here’s Everything You Need to Know",
+  "published_at": "2026-10-14T19:59:00.406752+00:00",
+  "analyzed_at": "2026-10-14T22:01:55.653815+00:00",
+  "alerted": true,
+  "calls": [
+   "AXON:BUY",
+   "NBIS:CONDITIONAL_BUY",
+   "AVGO:UNCERTAIN",
+   "CRWV:UNCERTAIN",
+   "ORCL:UNCERTAIN",
+   "ASML:UNCERTAIN"
+  ]
+ },
+ "XUn_XZGb2tU": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Stock Market Sell-Off: 1 Beaten-Down AI Stock I Just Bought With Huge Upside",
+  "published_at": "2026-10-14T18:59:00.406752+00:00",
+  "analyzed_at": "2026-10-14T22:01:55.653815+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  }
 }
