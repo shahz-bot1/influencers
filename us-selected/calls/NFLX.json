@@ -3,6 +3,23 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "Ffv6UZVk1Zg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Netflix Stock Before the Huge Investor Update? | NFLX Stock Analysis",
+   "published_at": "2026-10-14T13:46:04.267425+00:00",
+   "analyzed_at": "2026-10-14T13:59:41.927007+00:00",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$70 (stated current); FV $115 (stated, ~64% upside over 12-18 months)",
+   "thesis": "Very bullish — NFLX is his largest position and ranked among the best stocks to buy; down 25% in 2026, fwd P/E 18.55 near historic lows while profits/FCF near records. Personally NOT adding before the Oct 20 earnings (position already large; leans to a revenue miss) — for non-holders: at most 25% before / 75% after earnings, risk-averse should wait.",
+   "base_case": "2026 guide ~$51.2B revenue at 31.5% operating margin; ~$12.5B FCF and $27B buyback capacity remaining despite revenue growth decelerating 17.6% -> 11.7% forecast.",
+   "bull_case": "Streaming tailwind accelerates as sports leaves cable; decade of original-content IP; ~$5B/quarter buybacks into negative sentiment.",
+   "bear_case": "Engagement only +2% H1 vs short-form competition (TikTok/Reels/Shorts); pricing power near its limit; less disclosure (no subscriber numbers, engagement report going annual from 2027); worsening macro."
+  },
+  {
    "video_id": "J1BVUTa-52s",
    "channel": "Couch Investor",
    "title": "I Own These 4 Stocks. I Wouldn't Buy Them Today",
@@ -121,16 +138,16 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
