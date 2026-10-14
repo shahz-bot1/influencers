@@ -1,0 +1,29 @@
+{
+ "ticker": "ET",
+ "slug": "ET",
+ "calls": [
+  {
+   "video_id": "28bDFCRLjMs",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Urgent: Buy Before October 28 (Investors Will FLOOD Into These Stocks)",
+   "published_at": "2026-10-13T22:55:26.540873+00:00",
+   "analyzed_at": "2026-10-14T05:57:05.696107+00:00",
+   "ticker": "ET",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "under $30 (stated); ~11.7x forward P/E, 6.67% yield ($1.36/yr), consensus PT ~$24.50 cited as ~20% upside",
+   "thesis": "Guest Chris Marotch: Energy Transfer — called the most attractive of the three on total return; largest US midstream network moves oil/gas to refiners/export, natural gas is the near-term winner for AI data-centre power, dividend raised fractionally every quarter.",
+   "base_case": "Fee-based midstream cash flows plus quarterly dividend growth compound steadily, early stages of a long pipeline bull market.",
+   "bull_case": "AI/infrastructure power demand lifts gas transport volumes; analyst targets could move above the $24.50 consensus.",
+   "bear_case": "Stock prices can fall despite yield; thesis relies on sustained energy-transport demand."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
