@@ -1,0 +1,29 @@
+{
+ "ticker": "PAA",
+ "slug": "PAA",
+ "calls": [
+  {
+   "video_id": "28bDFCRLjMs",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Urgent: Buy Before October 28 (Investors Will FLOOD Into These Stocks)",
+   "published_at": "2026-10-13T22:55:26.540873+00:00",
+   "analyzed_at": "2026-10-14T05:57:05.696107+00:00",
+   "ticker": "PAA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "under $30 (stated); ~14.2x forward P/E (~8x trailing), 6.8% yield ($1.67/yr); UBS PT $31 / Mizuho PT $30 cited",
+   "thesis": "Guest Chris Marotch: Plains All American — focused crude pipeline from Permian Basin to Gulf Coast refiners/export terminals, right where US export action is; fee-based so paid whether oil is $60 or $160, attractive up-and-to-the-right chart.",
+   "base_case": "Fee-based volumes keep growing as US crude moves to Gulf export; possible dividend increase after ~10% rise four quarters ago.",
+   "bull_case": "Price targets rise significantly from the ~4.8% consensus upside as UBS/Mizuho $30-31 targets are followed.",
+   "bear_case": "Depends on continued Permian-to-Gulf crude demand; analyst consensus upside currently thin (~4.8%)."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
