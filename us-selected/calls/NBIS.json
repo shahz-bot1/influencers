@@ -3,6 +3,24 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "-6wR6p9pmlg",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Selloff Just Got Ugly. Here’s Everything You Need to Know",
+   "published_at": "2026-10-14T19:59:00.406752+00:00",
+   "analyzed_at": "2026-10-14T22:01:55.653815+00:00",
+   "ticker": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": 200.0,
+   "thesis": "CONDITIONAL_BUY reiterated (was CONDITIONAL_BUY 2026-10-13 and 2026-10-11 @ ~$200; no flip) — Nebius down ~10% on the day; 'if we do dip back under $200, yes I will be adding a little bit more.' Frames the selloff as opportunity in good businesses, not broken theses.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "collab": false
+  },
+  {
    "video_id": "o-p4u_6B1hw",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -88,11 +106,11 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
