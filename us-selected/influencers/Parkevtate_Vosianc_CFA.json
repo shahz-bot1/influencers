@@ -4,6 +4,30 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-10-14T13:46:04.267425+00:00",
+   "price": "$70 (stated current); FV $115 (stated, ~64% upside over 12-18 months)",
+   "video_id": "Ffv6UZVk1Zg"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-10-14T11:56:04.267425+00:00",
+   "price": "$989 (stated); FV $1,400 (stated, ~42% upside over 12-18 months)",
+   "video_id": "D-uuaNnNs-k"
+  },
+  {
+   "ticker": "SNDK",
+   "tickerSlug": "SNDK",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-14T11:56:04.267425+00:00",
+   "price": "FV $1,662 (stated); ~11-12% upside stated, stock down 6% on the day; current price not stated",
+   "video_id": "D-uuaNnNs-k"
+  },
+  {
    "ticker": "SPGI",
    "tickerSlug": "SPGI",
    "direction": "AVOID",
