@@ -3,6 +3,23 @@
  "slug": "SNDK",
  "calls": [
   {
+   "video_id": "D-uuaNnNs-k",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Unfortunate News for Micron Stock and Sandisk Stock Investors | MU Stock | SNDK Stock",
+   "published_at": "2026-10-14T11:56:04.267425+00:00",
+   "analyzed_at": "2026-10-14T13:59:41.927007+00:00",
+   "ticker": "SNDK",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV $1,662 (stated); ~11-12% upside stated, stock down 6% on the day; current price not stated",
+   "thesis": "First tracked SNDK call. Same CXMT dip update with a refreshed FV: SNDK looks fairly valued to slightly undervalued — a buying opportunity only for higher-risk-tolerant investors; he prefers MU (and TSM/NVDA) for a larger margin of safety.",
+   "base_case": "Slight undervaluation: ~11-12% to his $1,662 fair value.",
+   "bull_case": null,
+   "bear_case": "Margin of safety thinner than he likes for a name he views as somewhat riskier than MU."
+  },
+  {
    "video_id": "I3tyDUSTRq4",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -18,8 +35,12 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   }
  ]
 }
