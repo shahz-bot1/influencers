@@ -4,6 +4,14 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "BOT",
+   "tickerSlug": "BOT",
+   "direction": "BUY",
+   "date": "2026-10-14T04:01:06.698133+00:00",
+   "price": "no market price stated; 2.5% management fee (expense ratio a bit higher on one-time listing costs, expected to compress); premium-to-NAV is the central risk",
+   "video_id": "PaTsaOCSUo0"
+  },
+  {
    "ticker": "SPCX",
    "tickerSlug": "SPCX",
    "direction": "HOLD",
