@@ -1,0 +1,29 @@
+{
+ "ticker": "PFE",
+ "slug": "PFE",
+ "calls": [
+  {
+   "video_id": "28bDFCRLjMs",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Urgent: Buy Before October 28 (Investors Will FLOOD Into These Stocks)",
+   "published_at": "2026-10-13T22:55:26.540873+00:00",
+   "analyzed_at": "2026-10-14T05:57:05.696107+00:00",
+   "ticker": "PFE",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "under $30 (stated); ~9.5x forward P/E, ~6% dividend yield",
+   "thesis": "Guest Chris Marotch: Pfizer as a high-yield alternative to 5.2% Treasuries ahead of the late-Oct Fed meeting — revenue/earnings normalised post-Covid, large pipeline/acquisitions give many 'shots on goal', slow-and-steady growth story; up ~17% in last 3 months.",
+   "base_case": "Slow and steady total return: ~14% price gain YTD plus ~6% dividend (~20% total).",
+   "bull_case": "Pipeline drugs get approved through trials, including autoimmune/oncology candidates where it is a 'forgotten name' vs GLP-1 leaders.",
+   "bear_case": "Getting back to Covid-era highs requires pipeline successes actually crossing the finish line."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
