@@ -4,6 +4,22 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "AXON",
+   "tickerSlug": "AXON",
+   "direction": "BUY",
+   "date": "2026-10-14T19:59:00.406752+00:00",
+   "price": null,
+   "video_id": "-6wR6p9pmlg"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-14T19:59:00.406752+00:00",
+   "price": 200.0,
+   "video_id": "-6wR6p9pmlg"
+  },
+  {
    "ticker": "AVGO",
    "tickerSlug": "AVGO",
    "direction": "BUY",
