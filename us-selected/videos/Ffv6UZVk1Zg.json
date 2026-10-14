@@ -1,0 +1,27 @@
+{
+ "video_id": "Ffv6UZVk1Zg",
+ "title": "Should Investors Buy Netflix Stock Before the Huge Investor Update? | NFLX Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-14T13:46:04.267425+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate previews Netflix's Q3 report after the close on October 20, with the stock down 25% in 2026 and sentiment extremely negative — yet Netflix remains the largest position in his portfolio and ranked among his best stocks to buy. He works through the headwinds in detail: revenue growth decelerating from 17.6% in Q4 2025 to a forecast 11.7%, first-half engagement up only 2% as short-form video (TikTok, Reels, Shorts) competes for attention, pricing power nearing its psychological limit, and management disclosing ever less — subscriber numbers already gone and the engagement report moving from twice-yearly to annual, a direction he openly criticises. He leans toward a revenue miss given worsening macro and no recent breakout hit. Against that: roughly $51.2B guided 2026 revenue at a 31.5% operating margin, about $12.5B of free cash flow, a record $4.7B Q2 buyback with $27B of capacity remaining, a forward P/E of 18.55 near historic lows, and a decade of original-content IP. His call: NFLX BUY at $70 stated, fair value $115 (about 64% upside over 12–18 months), reiterated with no flip — but he personally will not add before earnings and advises non-holders to put at most 25% in before the report and 75% after, or simply wait if risk-averse.",
+ "calls": [
+  {
+   "video_id": "Ffv6UZVk1Zg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Netflix Stock Before the Huge Investor Update? | NFLX Stock Analysis",
+   "published_at": "2026-10-14T13:46:04.267425+00:00",
+   "analyzed_at": "2026-10-14T13:59:41.927007+00:00",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$70 (stated current); FV $115 (stated, ~64% upside over 12-18 months)",
+   "thesis": "Very bullish — NFLX is his largest position and ranked among the best stocks to buy; down 25% in 2026, fwd P/E 18.55 near historic lows while profits/FCF near records. Personally NOT adding before the Oct 20 earnings (position already large; leans to a revenue miss) — for non-holders: at most 25% before / 75% after earnings, risk-averse should wait.",
+   "base_case": "2026 guide ~$51.2B revenue at 31.5% operating margin; ~$12.5B FCF and $27B buyback capacity remaining despite revenue growth decelerating 17.6% -> 11.7% forecast.",
+   "bull_case": "Streaming tailwind accelerates as sports leaves cable; decade of original-content IP; ~$5B/quarter buybacks into negative sentiment.",
+   "bear_case": "Engagement only +2% H1 vs short-form competition (TikTok/Reels/Shorts); pricing power near its limit; less disclosure (no subscriber numbers, engagement report going annual from 2027); worsening macro."
+  }
+ ]
+}
