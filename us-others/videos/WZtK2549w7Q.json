@@ -1,0 +1,19 @@
+{
+ "video_id": "WZtK2549w7Q",
+ "title": "CoreWeave Stock CRASHES 15% — Here's Why I'm BULLISH!!",
+ "creator": "Jose Najarro Stocks",
+ "published_at": "2026-10-14T16:55:46.857097+00:00",
+ "summary": "Jose Najarro, filming on vacation, argues the roughly 15% fall in CoreWeave (CRWV) is a buying opportunity rather than a thesis break. He says he is not worried, citing his own heavy daily AI use — increased further after recent OpenAI announcements — and ASML's earnings comment that chipmaking customers expect supply to fall short of demand until at least 2028, implying AI infrastructure providers should keep earning well. He explains the selloff through CoreWeave bond yields touching 15% and fears, sparked by Oracle asking regulators to expedite data-centre pipelines amid buildout delays, that CoreWeave could face similar delays collecting revenue. He stresses the 15% yield is the market price for existing July 2026 bonds, not what CoreWeave pays, though future debt could cost more. CoreWeave is hit hardest, he says, because it is the largest neocloud — it added 500 megawatts last quarter, more than Nebius and all other peers combined — carries the most debt, and has no other business leg to stand on, unlike the Mag 7. He also questions Elon Musk's motives in amplifying bubble warnings (SpaceX competes for customers) and sees Nvidia's $500 billion AI compute financing platform with Apollo, BlackRock, Blackstone, Brookfield and Goldman Sachs as a future funding backstop that could lower CoreWeave's financing costs. His closing valuation: 1.5 gigawatts of capacity at a ~$36 billion market cap versus ~$60 billion of value per gigawatt. Call: CRWV BUY (adding to neoclouds), no share price stated. Nebius (NBIS) and IREN, both down about 9%, are discussed as sector peers with no ticker-specific calls. Captions garble names throughout — 'Coree/Core Reef/Cororeef' for CoreWeave, 'Nebas/Nebia' for Nebius and 'Iran' for IREN.",
+ "calls": [
+  {
+   "video_id": "WZtK2549w7Q",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY / bullish dip-add (prior BUY): the ~15% crash is 'an opportunity for my portfolio to add more into the neocloud space' — he's not worried: his own heavy AI use keeps growing and ASML's earnings said chip customers expect supply to fall short of demand until at least 2028. The 15% bond yield is the market price on existing July 2026 bonds, not what CoreWeave pays (future debt could cost more). Valuation close: 1.5 GW of capacity at a ~$36B market cap vs ~$60B of value per GW — 'some wrong math happening here'. Long-term investor; ride will be choppy.",
+   "price_at_call": "no share price stated; down ~15% on the day; ~$36B market cap and 1.5 GW capacity cited; bond yields touching 15%",
+   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
+  }
+ ]
+}
