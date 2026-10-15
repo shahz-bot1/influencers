@@ -4,6 +4,22 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "IONQ",
+   "tickerSlug": "IONQ",
+   "direction": "BUY",
+   "date": "2026-10-15T13:46:10.087942+00:00",
+   "price": "$35 (stated); fair value $49 (stated)",
+   "video_id": "BK5tO8w8z5w"
+  },
+  {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "BUY",
+   "date": "2026-10-15T11:56:10.087942+00:00",
+   "price": "$15 (stated); fair value $19 (stated)",
+   "video_id": "39moWMS6YQI"
+  },
+  {
    "ticker": "NFLX",
    "tickerSlug": "NFLX",
    "direction": "BUY",
