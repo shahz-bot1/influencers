@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T03:59:40.380000+00:00",
+ "updated": "2026-10-15T04:02:15.478647+00:00",
  "tickers": [
   {
    "ticker": "ABNB",
@@ -1232,7 +1232,7 @@
   {
    "ticker": "ORCL",
    "slug": "ORCL",
-   "lastDate": "2026-10-15T03:59:03.849525+00:00",
+   "lastDate": "2026-10-05T03:58:02.949500+00:00",
    "chips": [
     {
      "dir": "SELL",
@@ -1249,8 +1249,8 @@
     "Joseph Hogue, CFA",
     "Asymmetric Investing"
    ],
-   "lastStated": "no price stated",
-   "nCalls": 4
+   "lastStated": "-6.5% on the week / -53% since May",
+   "nCalls": 3
   },
   {
    "ticker": "PANW",
@@ -1867,7 +1867,7 @@
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 84,
+   "nCalls": 83,
    "nVideos": 10
   },
   {
@@ -1918,7 +1918,7 @@
     "Joseph Hogue, CFA"
    ],
    "published_at": "2026-10-14T15:55:46.857097+00:00",
-   "nCalls": 10
+   "nCalls": 9
   },
   {
    "id": "U9yAHwZNrnA",
