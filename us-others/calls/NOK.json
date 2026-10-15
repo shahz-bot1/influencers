@@ -1,0 +1,22 @@
+{
+ "ticker": "NOK",
+ "slug": "NOK",
+ "calls": [
+  {
+   "video_id": "DOldWUpT3d8",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NOK",
+   "direction": "AVOID",
+   "thesis": "First tracked NOK call — AVOID: despite Nvidia's ~$2.2B investment and the AI-in-telecom/6G partnership, Nokia is 'still too much of a legacy telecom company' and 4-7% expected annual revenue growth 'just doesn't offer the growth I'm looking for' in AI names.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
