@@ -3,6 +3,16 @@
  "slug": "SNPS",
  "calls": [
   {
+   "video_id": "DOldWUpT3d8",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SNPS",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: 'I do like this one' — Synopsys' chip-design software is critical to the industry, its business isn't dependent on Nvidia financing, the market isn't watching it as closely and valuation is still very good on ~37% expected revenue growth this year; Nvidia holds ~$2.1B.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
+  },
+  {
    "video_id": "yn_cvSds3lw",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
