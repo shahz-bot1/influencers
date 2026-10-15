@@ -1,0 +1,22 @@
+{
+ "ticker": "COHR",
+ "slug": "COHR",
+ "calls": [
+  {
+   "video_id": "DOldWUpT3d8",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "COHR",
+   "direction": "BUY",
+   "thesis": "First tracked COHR call — BUY: optical interconnect is 'quickly becoming the next bottleneck'; Nvidia holds 7.8M shares (~$3B) AND committed multi-billion-dollar purchases plus secured capacity rights — 'a stronger signal than just buying the stock... one I would definitely be following Nvidia into', and 'I'd be buying both of these' (COHR and LITE).",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
