@@ -3,6 +3,21 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "zBe2yTeqTEc",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This Earnings Season Could Make Millionaires (6 Stocks to Watch)",
+   "published_at": "2026-10-14T22:55:31.471829+00:00",
+   "ticker": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Analyst Thomas Hughes: any pullback confirmed by a support signal is a good entry point — the recent pullback retested/confirmed support at the prior high; Helios deliveries starting and CPU/inference demand underpin the outlook; he says AMD can double within ~12 months and double again over time.",
+   "base_case": "Q3 report gives a first taste of Helios; Q4 is the first full Helios quarter and should be robust; market not pricing in projected growth.",
+   "bull_case": "Valuation at 'pennies on the dollar' vs forward outlook; stock can rise several hundred percent merely by growing into its outlook.",
+   "bear_case": "Helios could underperform heightened expectations; Q3 is only an initial read, with the real test in Q4.",
+   "analyzed_at": "2026-10-15T05:57:57.953607+00:00"
+  },
+  {
    "video_id": "lD_4hYVqWPA",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -155,20 +170,20 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
-   "channel": "MarketBeat",
-   "idx": 4
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 3
   }
  ]
 }
