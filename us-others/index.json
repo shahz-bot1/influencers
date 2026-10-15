@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T04:03:59.708711+00:00",
+ "updated": "2026-10-15T03:59:40.380000+00:00",
  "tickers": [
   {
    "ticker": "ABNB",
@@ -163,9 +163,26 @@
    "nCalls": 2
   },
   {
+   "ticker": "ANET",
+   "slug": "ANET",
+   "lastDate": "2026-10-15T03:59:03.849525+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "no price stated",
+   "nCalls": 1
+  },
+  {
    "ticker": "AVGO",
    "slug": "AVGO",
-   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "lastDate": "2026-10-15T03:59:03.849525+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -174,11 +191,11 @@
     }
    ],
    "influencers": [
-    "Jose Najarro Stocks",
-    "Joseph Hogue, CFA"
+    "Joseph Hogue, CFA",
+    "Jose Najarro Stocks"
    ],
-   "lastStated": "",
-   "nCalls": 3
+   "lastStated": "no price stated",
+   "nCalls": 4
   },
   {
    "ticker": "BAC",
@@ -521,6 +538,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "COHR",
+   "slug": "COHR",
+   "lastDate": "2026-10-15T03:59:03.849525+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "no price stated",
+   "nCalls": 1
+  },
+  {
    "ticker": "COIN",
    "slug": "COIN",
    "lastDate": "2026-10-08T05:10:00+00:00",
@@ -574,12 +608,12 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "lastDate": "2026-10-15T03:59:03.849525+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$15"
     },
     {
      "dir": "SELL",
@@ -597,8 +631,8 @@
     "Asymmetric Investing",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 3
+   "lastStated": "no share price stated; down ~15% on the day; ~$36B market cap and 1.5 GW capacit",
+   "nCalls": 4
   },
   {
    "ticker": "DHI",
@@ -772,6 +806,23 @@
    "nCalls": 2
   },
   {
+   "ticker": "INTC",
+   "slug": "INTC",
+   "lastDate": "2026-10-15T03:59:03.849525+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "no price stated",
+   "nCalls": 1
+  },
+  {
    "ticker": "IREN",
    "slug": "IREN",
    "lastDate": "2026-10-09T04:01:30.944983+00:00",
@@ -908,6 +959,23 @@
    "nCalls": 2
   },
   {
+   "ticker": "LITE",
+   "slug": "LITE",
+   "lastDate": "2026-10-15T03:59:03.849525+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "no price stated",
+   "nCalls": 1
+  },
+  {
    "ticker": "LNVGY",
    "slug": "LNVGY",
    "lastDate": "2026-09-30T16:55:34.672871+00:00",
@@ -1002,7 +1070,7 @@
   {
    "ticker": "MRVL",
    "slug": "MRVL",
-   "lastDate": "2026-10-13T03:58:37.822741+00:00",
+   "lastDate": "2026-10-15T03:59:03.849525+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1011,11 +1079,11 @@
     }
    ],
    "influencers": [
-    "Jose Najarro Stocks",
-    "Joseph Hogue, CFA"
+    "Joseph Hogue, CFA",
+    "Jose Najarro Stocks"
    ],
-   "lastStated": "down ~3% on the day (no level stated)",
-   "nCalls": 3
+   "lastStated": "no price stated",
+   "nCalls": 4
   },
   {
    "ticker": "MTCH",
@@ -1073,6 +1141,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "45x P/S headline, 9.8x growth-adjusted",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NOK",
+   "slug": "NOK",
+   "lastDate": "2026-10-15T03:59:03.849525+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "no price stated",
    "nCalls": 1
   },
   {
@@ -1147,7 +1232,7 @@
   {
    "ticker": "ORCL",
    "slug": "ORCL",
-   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "lastDate": "2026-10-15T03:59:03.849525+00:00",
    "chips": [
     {
      "dir": "SELL",
@@ -1164,8 +1249,8 @@
     "Joseph Hogue, CFA",
     "Asymmetric Investing"
    ],
-   "lastStated": "-6.5% on the week / -53% since May",
-   "nCalls": 3
+   "lastStated": "no price stated",
+   "nCalls": 4
   },
   {
    "ticker": "PANW",
@@ -1425,19 +1510,19 @@
   {
    "ticker": "SNPS",
    "slug": "SNPS",
-   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "lastDate": "2026-10-15T03:59:03.849525+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$10"
+     "avg": null
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Surged 10% on investor day; no explicit price given",
-   "nCalls": 1
+   "lastStated": "no price stated",
+   "nCalls": 2
   },
   {
    "ticker": "SOFI",
@@ -1477,19 +1562,19 @@
   {
    "ticker": "SPCX",
    "slug": "SPCX",
-   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "lastDate": "2026-10-15T03:59:03.849525+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$225"
+     "avg": null
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Post-IPO pop ~$225; holding off another month",
-   "nCalls": 1
+   "lastStated": "no price stated",
+   "nCalls": 2
   },
   {
    "ticker": "SPY",
@@ -1775,15 +1860,15 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 19,
-   "nVideos": 6
+   "nCalls": 20,
+   "nVideos": 7
   },
   {
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 74,
-   "nVideos": 9
+   "nCalls": 84,
+   "nVideos": 10
   },
   {
    "name": "Patient Investor",
@@ -1815,6 +1900,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "WZtK2549w7Q",
+   "title": "CoreWeave Stock CRASHES 15% — Here's Why I'm BULLISH!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-14T16:55:46.857097+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "DOldWUpT3d8",
+   "title": "Nvidia $63 Billion Secret Portfolio and 18 Stocks I’m Watching",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-10-14T15:55:46.857097+00:00",
+   "nCalls": 10
+  },
   {
    "id": "U9yAHwZNrnA",
    "title": "Bumble Stock Jumps 135% -- Buy or Sell NOW?",
