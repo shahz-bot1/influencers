@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T22:12:01.782702+00:00",
+ "updated": "2026-10-15T22:02:16.757216+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -135,7 +135,7 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-10-13T14:00:14.760255+00:00",
+   "lastDate": "2026-10-14T22:55:31.471829+00:00",
    "chips": [
     {
      "dir": "CONDITIONAL_BUY",
@@ -149,13 +149,13 @@
     }
    ],
    "influencers": [
+    "MarketBeat",
     "Mark Roussin CPA",
     "Couch Investor",
-    "Parkevtate Vosianc CFA",
-    "MarketBeat"
+    "Parkevtate Vosianc CFA"
    ],
    "lastStated": "~$1T market cap (stated, just under; no share price stated)",
-   "nCalls": 10
+   "nCalls": 11
   },
   {
    "ticker": "AMZN",
@@ -1064,20 +1064,20 @@
   {
    "ticker": "IONQ",
    "slug": "IONQ",
-   "lastDate": "2026-09-25T17:00:02.626065+00:00",
+   "lastDate": "2026-10-15T13:46:10.087942+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$31"
+     "avg": "$23.5"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "fair value $50 (stated)",
-   "nCalls": 2
+   "lastStated": "$35 (stated); fair value $49 (stated)",
+   "nCalls": 3
   },
   {
    "ticker": "IREN",
@@ -2211,8 +2211,13 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-10-09T18:03:19.799081+00:00",
+   "lastDate": "2026-10-15T11:56:10.087942+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$15"
+    },
     {
      "dir": "HOLD",
      "n": 2,
@@ -2220,11 +2225,12 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Couch Investor",
     "MarketBeat"
    ],
-   "lastStated": "~$16.58; 34x earnings; consensus ~33% upside; Citigroup PT $30",
-   "nCalls": 4
+   "lastStated": "$15 (stated); fair value $19 (stated)",
+   "nCalls": 5
   },
   {
    "ticker": "SPGI",
@@ -2848,7 +2854,7 @@
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
    "nCalls": 58,
-   "nVideos": 47
+   "nVideos": 48
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -2868,15 +2874,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 55,
-   "nVideos": 24
+   "nCalls": 56,
+   "nVideos": 25
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 110,
-   "nVideos": 111
+   "nCalls": 112,
+   "nVideos": 115
   },
   {
    "name": "The German Value Investor",
@@ -2887,6 +2893,56 @@
   }
  ],
  "videos": [
+  {
+   "id": "cPMFm3zCmbo",
+   "title": "Does Nike Have the Right Strategy Moving Forward? | NKE Stock Deep Dive Part 4",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-15T16:01:20.756270+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "BK5tO8w8z5w",
+   "title": "Massive News for IonQ Stock Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-15T13:46:10.087942+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "lNojTB9UhaA",
+   "title": "Why Are AI Stocks Crashing? Is The Market Cooked?",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-15T12:56:10.087942+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "39moWMS6YQI",
+   "title": "Why Is SoFi Stock Crashing, and is it a Generational Buying Opportunity?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-15T11:56:10.087942+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "zBe2yTeqTEc",
+   "title": "This Earnings Season Could Make Millionaires (6 Stocks to Watch)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-14T22:55:31.471829+00:00",
+   "nCalls": 1
+  },
   {
    "id": "-6wR6p9pmlg",
    "title": "The AI Selloff Just Got Ugly. Here’s Everything You Need to Know",
@@ -3163,6 +3219,16 @@
    "creator": "Mark Roussin CPA",
    "channels": [
     "Mark Roussin CPA"
+   ],
+   "published_at": "2026-10-11",
+   "nCalls": 0
+  },
+  {
+   "id": "-PP31UU49TA",
+   "title": "Why The Declining Consumer Sentiment is Important for Stock Market Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
    ],
    "published_at": "2026-10-11",
    "nCalls": 0
