@@ -3,6 +3,16 @@
  "slug": "SPCX",
  "calls": [
   {
+   "video_id": "DOldWUpT3d8",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SPCX",
+   "direction": "HOLD",
+   "thesis": "Reiterated HOLD / wait (prior HOLD): SpaceX could be a good long-term investment and has rebounded back around its IPO price, but he'd rather wait — valuation plus final lockup expirations coming off early investors over at least another month; Nvidia holds ~123M shares (~$21B) and SpaceX is reportedly seeking ~$40B largely to buy Nvidia chips.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
+  },
+  {
    "video_id": "yn_cvSds3lw",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
