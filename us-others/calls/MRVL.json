@@ -3,6 +3,16 @@
  "slug": "MRVL",
  "calls": [
   {
+   "video_id": "DOldWUpT3d8",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: 'I've been buying Marvell now for a while' — one of the only competitors to Broadcom in custom AI accelerators; Nvidia's $2B investment + NVLink partnership brings a competitor into its own ecosystem, and he likes both sides of that opportunity.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
+  },
+  {
    "video_id": "1fg4FpDs5Sg",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -38,11 +48,11 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Jose Najarro Stocks",
    "idx": 1
   }
  ]
