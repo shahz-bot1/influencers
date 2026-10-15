@@ -1,0 +1,24 @@
+{
+ "video_id": "BK5tO8w8z5w",
+ "title": "Massive News for IonQ Stock Investors",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-15T13:46:10.087942+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "IonQ (IONQ) is down ~20% in five sessions (-22% in 2026) after announcing a $1.3bn all-stock acquisition of zero-trust security specialist Elicity (caption spelling; ~$150m earnout, share collar $33-$49.61 on 20-day VWAP, closing expected Q4). Parkevtate says the selloff is about dilution/overvaluation signalling, not the deal itself, but IonQ had little choice: it must guard its ~$2.1bn cash/short-term investments while still loss-making. The target doubles revenue and customers annually with no churn and adds to IonQ's $246m TTM revenue. At forward P/S 16.26 (near multi-year lows, vs ~100 in the frenzy) he reiterates the BUY he upgraded to on 23 Sep 2026 — fair value $49 vs $35 price — while stressing very high risk (could lose 90% or 100x) and a wider 15-25% margin of safety.",
+ "calls": [
+  {
+   "video_id": "BK5tO8w8z5w",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive News for IonQ Stock Investors",
+   "published_at": "2026-10-15T13:46:10.087942+00:00",
+   "ticker": "IONQ",
+   "direction": "BUY",
+   "price_at_call": "$35 (stated); fair value $49 (stated)",
+   "thesis": "Reiterates BUY (upgraded 23 Sep 2026; prior tracked BUY 25 Sep, FV $50) after IonQ's $1.3bn all-stock acquisition of zero-trust specialist 'Elicity' knocked the stock ~20% in 5 days — all-stock payment is not a reason for alarm as IonQ must guard its ~$2.1bn cash; forward P/S 16.26 near multi-year lows. Very high risk: could lose 90% or 100x.",
+   "analyzed_at": "2026-10-15T13:59:13.738308+00:00",
+   "bull_case": "Acquired business doubling revenue/customer base annually with no churn adds to IonQ's $246m TTM revenue; huge long-run quantum upside.",
+   "bear_case": "All-stock deal dilutes holders; company still loss-making, far from self-sustaining revenue, outcomes extremely uncertain (he uses a 15-25% margin of safety)."
+  }
+ ]
+}
