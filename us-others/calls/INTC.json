@@ -1,0 +1,22 @@
+{
+ "ticker": "INTC",
+ "slug": "INTC",
+ "calls": [
+  {
+   "video_id": "DOldWUpT3d8",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "INTC",
+   "direction": "AVOID",
+   "thesis": "First tracked INTC call — AVOID / pass for now: Nvidia's ~215M-share (~$30B, ~half its 13F portfolio) stake and the x86/AI partnership prop Intel up, but he is not convinced Intel Foundry can compete with TSMC in advanced manufacturing, which is what the stock depends on.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
