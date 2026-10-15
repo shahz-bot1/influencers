@@ -3,6 +3,16 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "WZtK2549w7Q",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY / bullish dip-add (prior BUY): the ~15% crash is 'an opportunity for my portfolio to add more into the neocloud space' — he's not worried: his own heavy AI use keeps growing and ASML's earnings said chip customers expect supply to fall short of demand until at least 2028. The 15% bond yield is the market price on existing July 2026 bonds, not what CoreWeave pays (future debt could cost more). Valuation close: 1.5 GW of capacity at a ~$36B market cap vs ~$60B of value per GW — 'some wrong math happening here'. Long-term investor; ride will be choppy.",
+   "price_at_call": "no share price stated; down ~15% on the day; ~$36B market cap and 1.5 GW capacity cited; bond yields touching 15%",
+   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
+  },
+  {
    "video_id": "TgDV_-LeQSE",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -42,11 +52,11 @@
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
