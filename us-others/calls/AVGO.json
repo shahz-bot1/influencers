@@ -3,6 +3,16 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "DOldWUpT3d8",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: 'Broadcom is one of my favorites here' (tier 3 — benefits from Nvidia without depending on its financing); competes with MRVL in custom AI chips and also sells networking/other semis; he'd own AVGO, MRVL and ANET together.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
+  },
+  {
    "video_id": "TgDV_-LeQSE",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -44,12 +54,12 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Hogue, CFA",
-   "idx": 2
+   "channel": "Jose Najarro Stocks",
+   "idx": 1
   }
  ]
 }
