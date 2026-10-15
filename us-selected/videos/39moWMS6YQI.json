@@ -1,0 +1,24 @@
+{
+ "video_id": "39moWMS6YQI",
+ "title": "Why Is SoFi Stock Crashing, and is it a Generational Buying Opportunity?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-15T11:56:10.087942+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "SoFi (SOFI) is down 12% in a month and over 46% in 2026, mainly on higher interest rates. Parkevtate walks through the rate headwinds: the fair value of SoFi's $46.6bn loan book likely falls by billions, and default rates (personal loans 4.57% to 4.77% Mar-Jun, student 0.69% to 0.73%) likely rose again as consumers weaken, oil stays high and white-collar layoffs rise — partly offset by a booming lending business (Q2 lending segment revenue +63% YoY, strong third-party loan sales). At $15 and a forward P/E of 18.5 he updates his fair value to $19 (>24% upside over 12-18 months) and ranks it a buying opportunity — his first tracked SOFI call — while calling it above-average risk. He will cover Netflix earnings live for members on Tue 20 Oct.",
+ "calls": [
+  {
+   "video_id": "39moWMS6YQI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is SoFi Stock Crashing, and is it a Generational Buying Opportunity?",
+   "published_at": "2026-10-15T11:56:10.087942+00:00",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "price_at_call": "$15 (stated); fair value $19 (stated)",
+   "thesis": "First tracked Parkevtate SOFI call — BUY / 'buying opportunity' (he upgraded at ~$18 earlier). Stock down 12% in a month, -46% YTD on higher rates; forward P/E 18.5; sees >24% upside over 12-18 months to his $19 fair value. Above-average risk.",
+   "analyzed_at": "2026-10-15T13:59:13.738308+00:00",
+   "base_case": "Lending segment booming (Q2 segment revenue +63% YoY) with strong third-party loan demand.",
+   "bear_case": "Higher rates cut the fair value of its $46.6bn loan book (likely billions), default rates rising (personal loans 4.57%->4.77% Mar-Jun) and likely up again; consumer/macro headwinds worsening."
+  }
+ ]
+}
