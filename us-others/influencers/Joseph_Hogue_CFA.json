@@ -4,6 +4,86 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "INTC",
+   "tickerSlug": "INTC",
+   "direction": "AVOID",
+   "date": "2026-10-15T03:59:03.849525+00:00",
+   "price": "no price stated",
+   "video_id": "DOldWUpT3d8"
+  },
+  {
+   "ticker": "SPCX",
+   "tickerSlug": "SPCX",
+   "direction": "HOLD",
+   "date": "2026-10-15T03:59:03.849525+00:00",
+   "price": "no price stated",
+   "video_id": "DOldWUpT3d8"
+  },
+  {
+   "ticker": "ORCL",
+   "tickerSlug": "ORCL",
+   "direction": "AVOID",
+   "date": "2026-10-15T03:59:03.849525+00:00",
+   "price": "no price stated",
+   "video_id": "DOldWUpT3d8"
+  },
+  {
+   "ticker": "COHR",
+   "tickerSlug": "COHR",
+   "direction": "BUY",
+   "date": "2026-10-15T03:59:03.849525+00:00",
+   "price": "no price stated",
+   "video_id": "DOldWUpT3d8"
+  },
+  {
+   "ticker": "LITE",
+   "tickerSlug": "LITE",
+   "direction": "BUY",
+   "date": "2026-10-15T03:59:03.849525+00:00",
+   "price": "no price stated",
+   "video_id": "DOldWUpT3d8"
+  },
+  {
+   "ticker": "SNPS",
+   "tickerSlug": "SNPS",
+   "direction": "BUY",
+   "date": "2026-10-15T03:59:03.849525+00:00",
+   "price": "no price stated",
+   "video_id": "DOldWUpT3d8"
+  },
+  {
+   "ticker": "NOK",
+   "tickerSlug": "NOK",
+   "direction": "AVOID",
+   "date": "2026-10-15T03:59:03.849525+00:00",
+   "price": "no price stated",
+   "video_id": "DOldWUpT3d8"
+  },
+  {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "BUY",
+   "date": "2026-10-15T03:59:03.849525+00:00",
+   "price": "no price stated",
+   "video_id": "DOldWUpT3d8"
+  },
+  {
+   "ticker": "ANET",
+   "tickerSlug": "ANET",
+   "direction": "BUY",
+   "date": "2026-10-15T03:59:03.849525+00:00",
+   "price": "no price stated",
+   "video_id": "DOldWUpT3d8"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-15T03:59:03.849525+00:00",
+   "price": "no price stated",
+   "video_id": "DOldWUpT3d8"
+  },
+  {
    "ticker": "BOT",
    "tickerSlug": "BOT",
    "direction": "BUY",
