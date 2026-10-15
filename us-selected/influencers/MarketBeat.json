@@ -4,6 +4,14 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-14T22:55:31.471829+00:00",
+   "price": "not stated",
+   "video_id": "zBe2yTeqTEc"
+  },
+  {
    "ticker": "PFE",
    "tickerSlug": "PFE",
    "direction": "BUY",
