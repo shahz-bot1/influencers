@@ -1,0 +1,22 @@
+{
+ "ticker": "LITE",
+ "slug": "LITE",
+ "calls": [
+  {
+   "video_id": "DOldWUpT3d8",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "LITE",
+   "direction": "BUY",
+   "thesis": "First tracked LITE call — BUY: Lumentum (captions render 'Lummentum, ticker LIT') received a separate ~$2B Nvidia investment and similar purchase commitments for optical technology moving data between AI processors; 'I'd be buying both of these as well' (with COHR).",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
