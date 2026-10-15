@@ -4,6 +4,14 @@
  "slug": "Jose_Najarro_Stocks",
  "calls": [
   {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-10-15T03:59:03.849525+00:00",
+   "price": "no share price stated; down ~15% on the day; ~$36B market cap and 1.5 GW capacity cited; bond yields touching 15%",
+   "video_id": "WZtK2549w7Q"
+  },
+  {
    "ticker": "MRVL",
    "tickerSlug": "MRVL",
    "direction": "BUY",
