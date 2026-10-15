@@ -1911,8 +1911,8 @@
   "channel": "Joseph Hogue, CFA",
   "handle": "@josephhogue",
   "ticker": "ORCL",
-  "direction": "AVOID",
-  "thesis": "Reiterated AVOID stance: grouped with CRWV/NBIS/IREN as the neocloud 'real weakest links' — giant cash-flow problems against equally giant data-center commitments, and CRWV/ORCL sentiment shows how fast it can turn when capex is questioned.",
+  "direction": "UNCERTAIN",
+  "thesis": "Grouped with CRWV/NBIS/IREN as the neocloud 'real weakest links' — giant cash-flow problems against equally giant data-center commitments, and CRWV/ORCL sentiment shows how fast it can turn when capex is questioned. No explicit stance verb in this video, so recorded UNCERTAIN; his prior tracked stance (5 Oct) was AVOID, not explicitly reiterated here.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
