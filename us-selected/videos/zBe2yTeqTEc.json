@@ -1,0 +1,25 @@
+{
+ "video_id": "zBe2yTeqTEc",
+ "title": "This Earnings Season Could Make Millionaires (6 Stocks to Watch)",
+ "creator": "MarketBeat",
+ "published_at": "2026-10-14T22:55:31.471829+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "MarketBeat analyst Thomas Hughes previews Q3 earnings season, expecting S&P outperformance well above the historical 100-300bp range (Q1 +1,500bp, Q2 +2,700bp) and flagging the US midterm elections mid-season as a volatility factor. Six stocks to watch in three AI themes: (1) cybersecurity — CrowdStrike (CRWD), Cisco (CSCO) and Palantir (PLTR), working with Nvidia to secure AI from GPU to application layer after the feared 'SaaS apocalypse' failed to materialise; PLTR is bullish at new highs but could pull back on anything short of a blowout, while CSCO is supported at its 150-day moving average and Hughes sees it moving higher. (2) Marvell Technology (MRVL, garbled as 'Marvel') — raised long-term revenue targets at its investor day, deep value versus long-term forecasts, but now an execution story after a ~200% year. (3) CPUs for inference — Intel (INTC) and AMD: Helios deliveries are starting, Q3 is a first taste and Q4 the first full quarter. His one explicit call: AMD CONDITIONAL_BUY — any pullback confirmed by a support signal is a good entry point (the recent pullback confirmed support at the prior high), and he says AMD can double within about 12 months. CRWD, CSCO, PLTR, MRVL and INTC are UNCERTAIN watch/discussion names with no buy call; NVDA and MU are UNCERTAIN closing mentions, and JPMorgan/Citigroup are an earnings-recap only. No stance flips.",
+ "calls": [
+  {
+   "video_id": "zBe2yTeqTEc",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This Earnings Season Could Make Millionaires (6 Stocks to Watch)",
+   "published_at": "2026-10-14T22:55:31.471829+00:00",
+   "ticker": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Analyst Thomas Hughes: any pullback confirmed by a support signal is a good entry point — the recent pullback retested/confirmed support at the prior high; Helios deliveries starting and CPU/inference demand underpin the outlook; he says AMD can double within ~12 months and double again over time.",
+   "base_case": "Q3 report gives a first taste of Helios; Q4 is the first full Helios quarter and should be robust; market not pricing in projected growth.",
+   "bull_case": "Valuation at 'pennies on the dollar' vs forward outlook; stock can rise several hundred percent merely by growing into its outlook.",
+   "bear_case": "Helios could underperform heightened expectations; Q3 is only an initial read, with the real test in Q4.",
+   "analyzed_at": "2026-10-15T05:57:57.953607+00:00"
+  }
+ ]
+}
