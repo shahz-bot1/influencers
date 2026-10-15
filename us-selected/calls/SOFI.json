@@ -3,6 +3,20 @@
  "slug": "SOFI",
  "calls": [
   {
+   "video_id": "39moWMS6YQI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is SoFi Stock Crashing, and is it a Generational Buying Opportunity?",
+   "published_at": "2026-10-15T11:56:10.087942+00:00",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "price_at_call": "$15 (stated); fair value $19 (stated)",
+   "thesis": "First tracked Parkevtate SOFI call — BUY / 'buying opportunity' (he upgraded at ~$18 earlier). Stock down 12% in a month, -46% YTD on higher rates; forward P/E 18.5; sees >24% upside over 12-18 months to his $19 fair value. Above-average risk.",
+   "analyzed_at": "2026-10-15T13:59:13.738308+00:00",
+   "base_case": "Lending segment booming (Q2 segment revenue +63% YoY) with strong third-party loan demand.",
+   "bear_case": "Higher rates cut the fair value of its $46.6bn loan book (likely billions), default rates rising (personal loans 4.57%->4.77% Mar-Jun) and likely up again; consumer/macro headwinds worsening."
+  },
+  {
    "video_id": "J1BVUTa-52s",
    "channel": "Couch Investor",
    "title": "I Own These 4 Stocks. I Wouldn't Buy Them Today",
@@ -66,12 +80,16 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Couch Investor",
    "idx": 1
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 2
   }
  ]
 }
