@@ -1,0 +1,22 @@
+{
+ "ticker": "ANET",
+ "slug": "ANET",
+ "calls": [
+  {
+   "video_id": "DOldWUpT3d8",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ANET",
+   "direction": "BUY",
+   "thesis": "First tracked ANET call — BUY: Arista Networks is 'another favorite' — networking hardware connecting massive AI data centers, a big Broadcom competitor where demand lets both win; 'I see no problem owning all three' (AVGO, MRVL, ANET).",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
