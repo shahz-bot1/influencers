@@ -4,6 +4,14 @@
  "slug": "The_German_Value_Investor",
  "calls": [
   {
+   "ticker": "NKE",
+   "tickerSlug": "NKE",
+   "direction": "HOLD",
+   "date": "2026-10-16T17:45:13.686212+00:00",
+   "price": "~$34 (stated 'almost $34'; his buy limit ~$21)",
+   "video_id": "J7BNeWyVHGI"
+  },
+  {
    "ticker": "BKNG",
    "tickerSlug": "BKNG",
    "direction": "HOLD",
