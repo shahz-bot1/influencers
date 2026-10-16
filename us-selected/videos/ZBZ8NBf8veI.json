@@ -1,0 +1,28 @@
+{
+ "video_id": "ZBZ8NBf8veI",
+ "title": "Why Is CoreWeave Stock Crashing, and is it a Buying Opportunity? | CRWV Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-15T23:55:33.910850+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names in places (IREN rendered as IRUN/iRobot). Video was members-only in earlier runs and went public before this run.",
+ "summary": "Parkevtate Vosianc explains CoreWeave's ~15% crash on rising debt-cost fears (2032 bond yields ~14.5-15%) and upgrades it to BUY (dated 14 Oct, low conviction), reversing his earlier-this-year downgrade. Revenue is forecast to scale $5.1bn (2025) to $42.8bn (2028), but long-term debt has risen to >$51bn and he forecasts negative FCF through 2028, turning positive in 2029; his DCF is $81 vs $66 market. He stresses it is one of the riskiest stocks in the market, only for very high risk tolerance. First tracked Parkevtate CRWV call.",
+ "calls": [
+  {
+   "video_id": "ZBZ8NBf8veI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is CoreWeave Stock Crashing, and is it a Buying Opportunity? | CRWV Stock Analysis",
+   "published_at": "2026-10-15T23:55:33.910850+00:00",
+   "analyzed_at": "2026-10-16T13:57:58.379508+00:00",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$66 (stated, after ~14.5% drop); DCF fair value $81 (stated)",
+   "thesis": "Upgrade to BUY (stated in video, dated 14 Oct 2026), low conviction: after downgrading earlier this year when the risk/reward turned unattractive, the crash on rising debt-cost fears now makes it a buying opportunity — DCF $81 vs $66. First tracked Parkevtate CRWV call in calls.json — upgrade is vs his own prior downgrade stated in the video, not a tracked flip.",
+   "base_case": "Revenue scaling fast — $5.1bn (2025) to analyst-est. $12.87bn (2026), $26.3bn (2027, +104%), $42.8bn (2028, +63%) — giving a larger base to service debt; bond yield ~14.5% was already in his cost-of-debt maths, after-tax ~12.5%.",
+   "bull_case": "Data centres are built against waiting demand; FCF turns positive in 2029 (~$5bn est.) and grows from there.",
+   "bear_case": "Long-term debt >$51bn (vs ~$10bn Jan 2025), funded almost entirely with debt; est. FCF -$28.5bn (2026), -$32bn (2027), -$22bn (2028); WACC >14%; he calls it one of the riskiest stocks in the market, only for very high risk tolerance.",
+   "collab": false
+  }
+ ]
+}
