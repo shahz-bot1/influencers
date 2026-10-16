@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T22:02:16.757216+00:00",
+ "updated": "2026-10-16T22:03:27.415026+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -596,8 +596,13 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-09-30T22:55:15.965630+00:00",
+   "lastDate": "2026-10-15T23:55:33.910850+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$66"
+    },
     {
      "dir": "AVOID",
      "n": 1,
@@ -605,10 +610,11 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "MarketBeat"
    ],
-   "lastStated": "n/a (guest call)",
-   "nCalls": 1
+   "lastStated": "$66 (stated, after ~14.5% drop); DCF fair value $81 (stated)",
+   "nCalls": 2
   },
   {
    "ticker": "CSCO",
@@ -649,6 +655,23 @@
    ],
    "lastStated": "~$22k position, slightly green (his holding)",
    "nCalls": 2
+  },
+  {
+   "ticker": "DELL",
+   "slug": "DELL",
+   "lastDate": "2026-10-15T22:55:33.910850+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "DGRO",
@@ -962,19 +985,19 @@
   {
    "ticker": "HD",
    "slug": "HD",
-   "lastDate": "2026-10-03T14:59:58.313953+00:00",
+   "lastDate": "2026-10-14T21:58:32.389404+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$286"
+     "avg": "$291"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "$286 (market); DCF intrinsic value $263; fwd P/E 17.85",
-   "nCalls": 1
+   "lastStated": "$291 (stated market); DCF fair value $262",
+   "nCalls": 2
   },
   {
    "ticker": "HIMS",
@@ -1082,8 +1105,13 @@
   {
    "ticker": "IREN",
    "slug": "IREN",
-   "lastDate": "2026-09-30T22:55:15.965630+00:00",
+   "lastDate": "2026-10-16T00:55:33.910850+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$30.56"
+    },
     {
      "dir": "AVOID",
      "n": 1,
@@ -1091,10 +1119,11 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "MarketBeat"
    ],
-   "lastStated": "n/a (guest call; captions render as 'Iron')",
-   "nCalls": 1
+   "lastStated": "$30.56 (stated current); DCF fair value $46 (stated, ~50% upside)",
+   "nCalls": 2
   },
   {
    "ticker": "JOBY",
@@ -1167,7 +1196,7 @@
   {
    "ticker": "LITE",
    "slug": "LITE",
-   "lastDate": "2026-10-04T13:59:59.567519+00:00",
+   "lastDate": "2026-10-15T22:55:33.910850+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1176,11 +1205,11 @@
     }
    ],
    "influencers": [
-    "Mark Roussin CPA",
-    "MarketBeat"
+    "MarketBeat",
+    "Mark Roussin CPA"
    ],
    "lastStated": "",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "LLY",
@@ -1203,19 +1232,19 @@
   {
    "ticker": "LOW",
    "slug": "LOW",
-   "lastDate": "2026-09-30T16:53:12.133372+00:00",
+   "lastDate": "2026-10-14T21:58:32.389404+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$189"
+     "avg": "$186"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "189",
-   "nCalls": 1
+   "lastStated": "$186 (stated market); DCF fair value $230",
+   "nCalls": 2
   },
   {
    "ticker": "LPTH",
@@ -1598,12 +1627,12 @@
   {
    "ticker": "NKE",
    "slug": "NKE",
-   "lastDate": "2026-10-05T20:58:26.932338+00:00",
+   "lastDate": "2026-10-16T17:45:13.686212+00:00",
    "chips": [
     {
      "dir": "HOLD",
-     "n": 1,
-     "avg": "$30"
+     "n": 2,
+     "avg": "$34.5"
     },
     {
      "dir": "AVOID",
@@ -1612,11 +1641,12 @@
     }
    ],
    "influencers": [
-    "Joseph Carlson After Hours",
-    "Parkevtate Vosianc CFA"
+    "The German Value Investor",
+    "Parkevtate Vosianc CFA",
+    "Joseph Carlson After Hours"
    ],
-   "lastStated": "market a little above $30 (stated); his FV $29",
-   "nCalls": 2
+   "lastStated": "~$34 (stated 'almost $34'; his buy limit ~$21)",
+   "nCalls": 4
   },
   {
    "ticker": "NN",
@@ -1812,6 +1842,23 @@
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "P",
+   "slug": "P",
+   "lastDate": "2026-10-15T22:55:33.910850+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
    ],
    "lastStated": "",
    "nCalls": 1
@@ -2854,7 +2901,7 @@
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
    "nCalls": 58,
-   "nVideos": 48
+   "nVideos": 49
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -2874,25 +2921,85 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 56,
-   "nVideos": 25
+   "nCalls": 59,
+   "nVideos": 27
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 112,
-   "nVideos": 115
+   "nCalls": 117,
+   "nVideos": 119
   },
   {
    "name": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
    "slug": "The_German_Value_Investor",
-   "nCalls": 4,
-   "nVideos": 4
+   "nCalls": 5,
+   "nVideos": 5
   }
  ],
  "videos": [
+  {
+   "id": "oLi2I-49PdU",
+   "title": "Mr. Wonderful Warns Most AI Data Centers Will Shut Down (Here’s Who Wins)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-16T20:58:24.854163+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "J7BNeWyVHGI",
+   "title": "Nike Stock at a 13-Year Low: Bargain or Value Trap?",
+   "creator": "The German Value Investor",
+   "channels": [
+    "The German Value Investor"
+   ],
+   "published_at": "2026-10-16T17:45:13.686212+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "8GkazZmQ7AI",
+   "title": "AI Stocks Are Selling Off! Buying Opportunity or Warning Sign?",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-16T16:00:13.686212+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "XlKgjm-aFmQ",
+   "title": "Is IREN an Undervalued AI Stock to Buy Right Now?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-16T00:55:33.910850+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "ZBZ8NBf8veI",
+   "title": "Why Is CoreWeave Stock Crashing, and is it a Buying Opportunity? | CRWV Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-15T23:55:33.910850+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "6NOUMblSxqY",
+   "title": "Sold Out Until 2029. The Stock Is Still Falling.",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-15T22:55:33.910850+00:00",
+   "nCalls": 3
+  },
   {
    "id": "cPMFm3zCmbo",
    "title": "Does Nike Have the Right Strategy Moving Forward? | NKE Stock Deep Dive Part 4",
@@ -2942,6 +3049,16 @@
    ],
    "published_at": "2026-10-14T22:55:31.471829+00:00",
    "nCalls": 1
+  },
+  {
+   "id": "ix4xFsnp0OA",
+   "title": "Better Buy: Home Depot or Lowe's?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-14T21:58:32.389404+00:00",
+   "nCalls": 2
   },
   {
    "id": "-6wR6p9pmlg",
@@ -3122,6 +3239,16 @@
    ],
    "published_at": "2026-10-12T05:55:26.540873+00:00",
    "nCalls": 0
+  },
+  {
+   "id": "OH6cXXo7bxM",
+   "title": "Nike Stock: Buy, Hold, or Sell? (My Final Verdict) | NKE Stock Deep Dive Part 5",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-11T21:58:32.389404+00:00",
+   "nCalls": 1
   },
   {
    "id": "ueAzP6zPP64",
