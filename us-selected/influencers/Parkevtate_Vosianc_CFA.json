@@ -4,6 +4,22 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "BUY",
+   "date": "2026-10-16T00:55:33.910850+00:00",
+   "price": "$30.56 (stated current); DCF fair value $46 (stated, ~50% upside)",
+   "video_id": "XlKgjm-aFmQ"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-10-15T23:55:33.910850+00:00",
+   "price": "$66 (stated, after ~14.5% drop); DCF fair value $81 (stated)",
+   "video_id": "ZBZ8NBf8veI"
+  },
+  {
    "ticker": "IONQ",
    "tickerSlug": "IONQ",
    "direction": "BUY",
@@ -18,6 +34,22 @@
    "date": "2026-10-15T11:56:10.087942+00:00",
    "price": "$15 (stated); fair value $19 (stated)",
    "video_id": "39moWMS6YQI"
+  },
+  {
+   "ticker": "HD",
+   "tickerSlug": "HD",
+   "direction": "BUY",
+   "date": "2026-10-14T21:58:32.389404+00:00",
+   "price": "$291 (stated market); DCF fair value $262",
+   "video_id": "ix4xFsnp0OA"
+  },
+  {
+   "ticker": "LOW",
+   "tickerSlug": "LOW",
+   "direction": "BUY",
+   "date": "2026-10-14T21:58:32.389404+00:00",
+   "price": "$186 (stated market); DCF fair value $230",
+   "video_id": "ix4xFsnp0OA"
   },
   {
    "ticker": "NFLX",
@@ -114,6 +146,14 @@
    "date": "2026-10-12T13:59:07.675072+00:00",
    "price": 17.43,
    "video_id": "Sw23L58CCNI"
+  },
+  {
+   "ticker": "NKE",
+   "tickerSlug": "NKE",
+   "direction": "HOLD",
+   "date": "2026-10-11T21:58:32.389404+00:00",
+   "price": "$35 (stated market); fair value cut to $26.60",
+   "video_id": "OH6cXXo7bxM"
   },
   {
    "ticker": "TMUS",
