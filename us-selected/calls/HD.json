@@ -3,6 +3,21 @@
  "slug": "HD",
  "calls": [
   {
+   "video_id": "ix4xFsnp0OA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Better Buy: Home Depot or Lowe's?",
+   "published_at": "2026-10-14T21:58:32.389404+00:00",
+   "ticker": "HD",
+   "direction": "BUY",
+   "price_at_call": "$291 (stated market); DCF fair value $262",
+   "thesis": "Both HD and LOW ranked as buying opportunities at current prices; HD fairly valued (DCF $262 vs $291 market, within his 5-10% margin of safety), fwd P/E ~18 near its lowest ever, ROIC 18.5% still ~2x WACC despite margin fall 15.5%->12.4%. BUY reiterated (prior BUY 2026-10-03 @ $286) - no flip.",
+   "base_case": "Industry flat in 2026 (no/low single-digit growth), returning longer term to mid-to-high single-digit revenue growth.",
+   "bull_case": "Macro headwinds (except trade barriers) are temporary; hard-to-disrupt pro/heavy-goods model re-accelerates with the industry.",
+   "bear_case": "Near term (1-4 quarters) troublesome: flat revenue vs rising input/wage costs keeps margins falling.",
+   "analyzed_at": "2026-10-16T18:05:07.052826+00:00"
+  },
+  {
    "video_id": "Z1ZgKx2L-QA",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
