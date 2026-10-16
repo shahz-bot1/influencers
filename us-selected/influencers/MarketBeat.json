@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "LITE",
+   "tickerSlug": "LITE",
+   "direction": "BUY",
+   "date": "2026-10-15T22:55:33.910850+00:00",
+   "price": null,
+   "video_id": "6NOUMblSxqY"
+  },
+  {
+   "ticker": "DELL",
+   "tickerSlug": "DELL",
+   "direction": "BUY",
+   "date": "2026-10-15T22:55:33.910850+00:00",
+   "price": null,
+   "video_id": "6NOUMblSxqY"
+  },
+  {
+   "ticker": "P",
+   "tickerSlug": "P",
+   "direction": "BUY",
+   "date": "2026-10-15T22:55:33.910850+00:00",
+   "price": null,
+   "video_id": "6NOUMblSxqY"
+  },
+  {
    "ticker": "AMD",
    "tickerSlug": "AMD",
    "direction": "CONDITIONAL_BUY",
