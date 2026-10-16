@@ -1,0 +1,28 @@
+{
+ "video_id": "XlKgjm-aFmQ",
+ "title": "Is IREN an Undervalued AI Stock to Buy Right Now?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-16T00:55:33.910850+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names in places (IREN rendered as IRUN/iRobot). Video was members-only in earlier runs and went public before this run.",
+ "summary": "Parkevtate Vosianc re-evaluates IREN after a ~12% fall today (-19% YTD) amid debt/higher-rate fears for riskier AI neoclouds. Down ~33% since his 14 Sep ranking at ~$45, when he said it was not a buying opportunity, he now upgrades it to BUY (dated 14 Oct, low conviction): cash ~$7.6bn vs debt ~$7.8bn, contract prices +~125% since Nov 2025 and prepayments funding much of GPU capex support the case, and his updated DCF is $46 vs $30.56 market (~50% undervalued, even with a 10-20% margin of safety) — despite forecasting deeply negative FCF through FY29. First tracked Parkevtate IREN call.",
+ "calls": [
+  {
+   "video_id": "XlKgjm-aFmQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is IREN an Undervalued AI Stock to Buy Right Now?",
+   "published_at": "2026-10-16T00:55:33.910850+00:00",
+   "analyzed_at": "2026-10-16T13:57:58.379508+00:00",
+   "ticker": "IREN",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$30.56 (stated current); DCF fair value $46 (stated, ~50% upside)",
+   "thesis": "Upgrade to BUY (stated in video, dated 14 Oct 2026), low conviction: down ~33% since his 14 Sep 'not a buying opportunity' ranking at ~$45; even with a 10-20% margin of safety (up from usual 5-10%) and sharply lower FCF estimates, DCF $46 vs $30.56 looks ~50% undervalued. First tracked Parkevtate IREN call in calls.json — upgrade is vs his own prior ranking stated in the video, not a tracked flip.",
+   "base_case": "Cash/short-term investments ~$7.6bn vs long-term debt ~$7.8bn — one of the better neocloud balance sheets; 3-yr contract prices +~125% since Nov 2025; $6.5bn GPU financing secured, customer prepayments funding 45-55% of GPU capex.",
+   "bull_case": "Supply-short AI compute demand keeps pricing rising; FCF turns positive in 2030 (~$3.5bn est.) then grows rapidly.",
+   "bear_case": "Huge negative FCF ahead — est. -$21bn FY27, -$18bn FY28, -$17bn FY29 on raised capex; WACC 16.2% (after-tax cost of debt 12.5%); low conviction stated.",
+   "collab": false
+  }
+ ]
+}
