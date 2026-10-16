@@ -3,6 +3,25 @@
  "slug": "LITE",
  "calls": [
   {
+   "video_id": "6NOUMblSxqY",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Lucas Downey (TradeSmith)",
+   "video_title": "Sold Out Until 2029. The Stock Is Still Falling.",
+   "published_at": "2026-10-15T22:55:33.910850+00:00",
+   "ticker": "LITE",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Lucas Downey (TradeSmith) is bullish on Lumentum as a buy-the-dip AI optics leader: CEO says optical components for AI servers are sold out through early 2029, forward P/E has contracted to ~35x as earnings estimates rise while the price falls, and he 'would not be too scared to dip toes' into it after a ~15% one-week fall.",
+   "base_case": "Sales seen rising from just over $3bn (last 12 months) to ~$6.3bn next 12 months and ~$10bn the year after; FY27 EPS expected ~$21.70, more than doubling by FY29.",
+   "bull_case": null,
+   "bear_case": "Admits more downward pressure is possible near-term; bottom judged days to a couple of weeks away, not confirmed.",
+   "analyzed_at": "2026-10-16T05:57:50.815419+00:00",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false
+  },
+  {
    "video_id": "41frp-gUMCE",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -34,11 +53,11 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   }
  ]
