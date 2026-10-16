@@ -1,0 +1,31 @@
+{
+ "ticker": "DELL",
+ "slug": "DELL",
+ "calls": [
+  {
+   "video_id": "6NOUMblSxqY",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Lucas Downey (TradeSmith)",
+   "video_title": "Sold Out Until 2029. The Stock Is Still Falling.",
+   "published_at": "2026-10-15T22:55:33.910850+00:00",
+   "ticker": "DELL",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "First tracked MarketBeat DELL call. Downey bullish on Dell as an AI server/storage cornerstone after a huge beat-and-raise: Q3 guidance EPS $6.50 and revenue $49bn vs Street ~$41bn, forward P/E ~17x (cheaper than the market); sellers are 'selling great companies' into the AI sell-off.",
+   "base_case": "Full-year FY27 guidance also beat and raised; infrastructure business (servers, storage, networking) is firing on all cylinders.",
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-10-16T05:57:50.815419+00:00",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
