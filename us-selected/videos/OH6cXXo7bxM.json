@@ -1,0 +1,25 @@
+{
+ "video_id": "OH6cXXo7bxM",
+ "title": "Nike Stock: Buy, Hold, or Sell? (My Final Verdict) | NKE Stock Deep Dive Part 5",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-11T21:58:32.389404+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble numbers in places. Video was members-only in earlier runs and went public before this run; captions were fetched on a manual retry in this run after scan.py reported caption_ok:false (playability OK). Final part of the 5-part Nike deep dive (Parts 1-4 were UNCERTAIN, verdict deferred to Part 5).",
+ "summary": "Part 5 final verdict on Nike: management guides FY27 revenue down high single digits (-7/8/9%) with pressure worsening through the year and into FY28 - the opposite of the improving trend Parkevtate had modelled (-4/5/6% in Q1 improving to flat/+1-2% by Q4); operating income likely -15 to -20%. Stock -46% YTD in 2026. He recounts warning against buying all year, upgrading around $40, and now cutting fair value again to $26.60 vs the $35 market price (forward P/E 20, cheapest in years, but competitive position arguably the worst in decades). Verdict: not a buying opportunity now, not interested anywhere near $35 - more interested closer to $25 or on improved performance, and he does not want to be long while Nike figures it out. Recorded as HOLD (reiterating his 2026-10-02 HOLD at FV $29) - no flip.",
+ "calls": [
+  {
+   "video_id": "OH6cXXo7bxM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Nike Stock: Buy, Hold, or Sell? (My Final Verdict) | NKE Stock Deep Dive Part 5",
+   "published_at": "2026-10-11T21:58:32.389404+00:00",
+   "ticker": "NKE",
+   "direction": "HOLD",
+   "price_at_call": "$35 (stated market); fair value cut to $26.60",
+   "thesis": "Final verdict (Part 5): NOT a buying opportunity now. FY27 revenue guided down high single digits (-7/8/9%) and worsening through the year and into FY28 (he had expected improvement), operating income likely -15 to -20%; FV cut again to $26.60 (from $29 on 2026-10-02). Not interested anywhere near $35; more interested closer to $25 or on improved performance. HOLD reiterated vs his 2026-10-02 HOLD - no flip.",
+   "base_case": "Revenue -7 to -9% in FY27 with later quarters worse; profits fall by a larger percentage than revenue.",
+   "bull_case": "None given in this part; interest only closer to $25 or once performance actually improves.",
+   "bear_case": "Management may guide FY28 as another down year; competitive position arguably the worst in decades, forward P/E 20 is cheapest in years for a reason.",
+   "analyzed_at": "2026-10-16T18:05:07.052826+00:00"
+  }
+ ]
+}
