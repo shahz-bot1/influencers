@@ -1,0 +1,25 @@
+{
+ "video_id": "J7BNeWyVHGI",
+ "title": "Nike Stock at a 13-Year Low: Bargain or Value Trap?",
+ "creator": "The German Value Investor",
+ "published_at": "2026-10-16T17:45:13.686212+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble numbers in places (one '$94' price mention is a garble - the operative stated price is 'almost $34', consistent with the ~$50bn market cap, ~1.48bn shares and the ~5% dividend yield on $0.41/qtr).",
+ "summary": "The German Value Investor re-runs Nike at a 13-year low (-81% from ATH, -55% in a year): revenue $51bn peak -> ~$46bn, net margin <7% (was ~10%+) on inventory clearance discounting, ~12.5% Vietnam tariffs and competition-driven ad spend. Balance sheet solid but no buffer ( ~$8.5bn liquid assets vs ~$8bn debt); FY26 operating cash flow $2.9bn less $0.7bn SBC and $0.7bn capex = ~$1.4bn FCF vs $2.4bn dividends - the ~5% yield is paid from reserves, buybacks cut from >$4bn to ~$0.1bn. His 3-scenario tool: negative (earnings -7%/yr, fair P/E 7) fair ~$8.50; normal (7% then 9% growth, fair P/E 12) fair ~10% below current, ~5-6%/yr; positive (20% then 9%, fair P/E 15) fair ~$60. Verdict: HOLD / not getting in at ~$34 - his buy limit is ~$21, or he needs a significant operational improvement first. First tracked NKE call for this creator.",
+ "calls": [
+  {
+   "video_id": "J7BNeWyVHGI",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "Nike Stock at a 13-Year Low: Bargain or Value Trap?",
+   "published_at": "2026-10-16T17:45:13.686212+00:00",
+   "ticker": "NKE",
+   "direction": "HOLD",
+   "price_at_call": "~$34 (stated 'almost $34'; his buy limit ~$21)",
+   "thesis": "Not getting in at ~$34: stock -81% from ATH / at a 13-year low, but adjusted P/E ~22, P/FCF ~36 on ~$1.4bn FCF, and the ~5% dividend ($2.4bn) exceeds FCF so it is paid from reserves; margins collapsed to <7% on inventory clearance, Vietnam tariffs (~12.5%) and competition. First tracked German Value Investor NKE call - no flip.",
+   "base_case": "Normal scenario: 7% earnings growth for 5y then 9%, fair P/E 12 -> fair price ~10% below current, ~5-6%/yr returns over 10y ('okay, not great').",
+   "bull_case": "Positive scenario: 20% growth for 5y then 9%, fair P/E 15 -> fair price ~$60, >80% upside, ~15%/yr.",
+   "bear_case": "Negative scenario: earnings -7%/yr for 5y, fair P/E 7 -> fair price ~$8.50 (-75%). He weights the negative scenario heavily for margin of safety.",
+   "analyzed_at": "2026-10-16T18:05:07.052826+00:00"
+  }
+ ]
+}
