@@ -3,6 +3,21 @@
  "slug": "LOW",
  "calls": [
   {
+   "video_id": "ix4xFsnp0OA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Better Buy: Home Depot or Lowe's?",
+   "published_at": "2026-10-14T21:58:32.389404+00:00",
+   "ticker": "LOW",
+   "direction": "BUY",
+   "price_at_call": "$186 (stated market); DCF fair value $230",
+   "thesis": "Preferred pick of the pair: DCF $230 vs $186 market = ~24% upside, stock undervalued; fwd P/E 14.3 near its lowest ever, ROIC 20% above WACC despite margin fall 15.5%->11.3%. BUY reiterated (prior BUY 2026-09-30 @ $189, FV $241) - no flip.",
+   "base_case": "Industry flat in 2026, returning longer term to mid-to-high single-digit revenue growth.",
+   "bull_case": "Temporary macro headwinds lift; LOW keeps compounding above WACC (ROIC 20%).",
+   "bear_case": "Near term (1-4 quarters) troublesome: flat revenue vs rising input/wage costs keeps margins falling.",
+   "analyzed_at": "2026-10-16T18:05:07.052826+00:00"
+  },
+  {
    "ticker": "LOW",
    "direction": "BUY",
    "channel": "Parkevtate Vosianc CFA",
