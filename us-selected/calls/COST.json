@@ -3,6 +3,24 @@
  "slug": "COST",
  "calls": [
   {
+   "video_id": "gqNQ48XJGJA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Costco is One of the Best Retailers on the Planet | COST Stock Analysis",
+   "published_at": "2026-10-17T15:00:07.664117+00:00",
+   "ticker": "COST",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$956-957 (stated current); upgraded to BUY on 21 Sep at ~$890-898 (stated); forward P/E 38 (stated)",
+   "thesis": "BUY reiterated — he states in-video he is reiterating his buy recommendation (dated 13 Oct in the video) after upgrading COST to a buy on 21 Sep for the first time in many years: at 38x forward it still trades at a relatively attractive valuation it rarely reaches (usually 40s, even 50+), with a little more time to buy left; a further rise would evaporate the margin of safety. Consistent with his tracked 26 Sep COST BUY — no flip.",
+   "base_case": "$303B TTM revenue with roughly 10% of Walmart's locations yet almost half Walmart's sales; ~90% membership renewal; 3.85% operating margin by design (savings passed to customers); ROIC 22%, more than twice its cost of capital, helped by selling inventory before paying suppliers.",
+   "bull_case": "Sales per store, sales per square foot and inventory turnover outperform Walmart, Target and Home Depot; the premium multiple historically sits in the 40s-50s forward P/E.",
+   "bear_case": "Razor-thin margins leave little buffer, and if the price rises a little more he would say it is too late to buy and wait for a better opportunity, however great the business.",
+   "analyzed_at": "2026-10-17T18:04:16.116651+00:00",
+   "collab": false
+  },
+  {
    "video_id": "ps7HQgBsw5I",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -60,16 +78,16 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
