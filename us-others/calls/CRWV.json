@@ -3,6 +3,16 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "okKr-6faeVw",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "CRWV",
+   "direction": "AVOID",
+   "thesis": "Very risky, full of red flags, significantly overvalued at ~10x sales / ~$43B valuation. Bond yields reportedly ~15%; interest ~$640M last quarter (~25% of revenue), capex $14.1B YTD funded by $16.5B debt + $3B share issuance, current liabilities >$20B vs $9.5B current assets (~$10B net debt due within a year), adjusted EBITDA adds back $1.4B depreciation + interest, and heavy insider selling since 22 Oct per captions. Not interested in owning any neocloud.",
+   "analyzed_at": "2026-10-17T03:58:32.502406+00:00",
+   "price_at_call": "Down 33% over past month and another 12% on the day at recording (no share price stated)"
+  },
+  {
    "video_id": "WZtK2549w7Q",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -47,16 +57,20 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Daniel Pronk",
    "idx": 0
   },
   {
+   "channel": "Jose Najarro Stocks",
+   "idx": 1
+  },
+  {
    "channel": "Asymmetric Investing",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
