@@ -4,6 +4,30 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "AVOID",
+   "date": "2026-10-17T03:58:32.502406+00:00",
+   "price": "Down 33% over past month and another 12% on the day at recording (no share price stated)",
+   "video_id": "okKr-6faeVw"
+  },
+  {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "AVOID",
+   "date": "2026-10-17T03:58:32.502406+00:00",
+   "price": "Down 42% over past couple of weeks (no share price stated; captions render the name 'Irontock/Iron')",
+   "video_id": "okKr-6faeVw"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "AVOID",
+   "date": "2026-10-17T03:58:32.502406+00:00",
+   "price": "Down 33% (no share price stated)",
+   "video_id": "okKr-6faeVw"
+  },
+  {
    "ticker": "ROAD",
    "tickerSlug": "ROAD",
    "direction": "BUY",
