@@ -1,0 +1,39 @@
+{
+ "video_id": "okKr-6faeVw",
+ "title": "The AI Crash Is Here - What You Need to Know",
+ "creator": "Daniel Pronk",
+ "published_at": "2026-10-16T21:55:48.285000+00:00",
+ "summary": "Daniel Pronk, recording while sick and off camera, explains the selloff in neocloud and AI names that the S&P 500 level hides: CoreWeave down 33% in a month and another 12% on the day, IREN down 42% in a couple of weeks and Nebius down 33%. He traces the trigger to CoreWeave bond yields reportedly spiking to about 15%. His review finds revenue more than doubling year on year but negative operating income, about $640 million of quarterly interest on $2.6 billion of revenue, $14.1 billion of year-to-date capex funded by $16.5 billion of new debt and $3 billion of share issuance, and current liabilities above $20 billion against $9.5 billion of current assets. He dismisses the promoted 59% adjusted EBITDA margin because it adds back $1.4 billion of depreciation and the interest bill, and flags heavy insider selling plus management omitting the balance sheet and cash-flow statement from the Q3 deck. IREN has a much better balance sheet but remains expensive; Nebius has the group's best balance sheet, growth and cash flows — yet he would own none of them. Counterweights: token usage is up about 4x this year while token spending is flat as prices fall, GPU rental prices are rising, and ASML, TSMC and AWS management all describe AI demand as robust and supply-constrained. His conclusion: hyperscalers keep spending even if neoclouds fail, so the broad AI selloff may create opportunities; he is continuing to buy unnamed high-quality names that have been hit. Calls made: CRWV — AVOID, IREN — AVOID, NBIS — AVOID, no share prices stated. Other tickers discussed without calls: ORCL, VRT, FIX, AMD and NVDA, all down sharply in sympathy. Captions garble names — 'Cororeweave/Coree' for CoreWeave and 'Irontock/Iron' for IREN.",
+ "calls": [
+  {
+   "video_id": "okKr-6faeVw",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "CRWV",
+   "direction": "AVOID",
+   "thesis": "Very risky, full of red flags, significantly overvalued at ~10x sales / ~$43B valuation. Bond yields reportedly ~15%; interest ~$640M last quarter (~25% of revenue), capex $14.1B YTD funded by $16.5B debt + $3B share issuance, current liabilities >$20B vs $9.5B current assets (~$10B net debt due within a year), adjusted EBITDA adds back $1.4B depreciation + interest, and heavy insider selling since 22 Oct per captions. Not interested in owning any neocloud.",
+   "analyzed_at": "2026-10-17T03:58:32.502406+00:00",
+   "price_at_call": "Down 33% over past month and another 12% on the day at recording (no share price stated)"
+  },
+  {
+   "video_id": "okKr-6faeVw",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "IREN",
+   "direction": "AVOID",
+   "thesis": "Much better balance sheet than CoreWeave, but still a very expensive stock today; grouped in his 'not interested in owning any of these neocloud businesses' stance — long-term moats unclear, largely commodity GPU-rental beneficiaries of supply/demand.",
+   "analyzed_at": "2026-10-17T03:58:32.502406+00:00",
+   "price_at_call": "Down 42% over past couple of weeks (no share price stated; captions render the name 'Irontock/Iron')"
+  },
+  {
+   "video_id": "okKr-6faeVw",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "NBIS",
+   "direction": "AVOID",
+   "thesis": "Probably the best balance sheet, growth and cash flows in the neocloud group, but still grouped in his 'not interested in owning any of these businesses' stance; investors are exiting the sector in sympathy with CoreWeave weakness regardless.",
+   "analyzed_at": "2026-10-17T03:58:32.502406+00:00",
+   "price_at_call": "Down 33% (no share price stated)"
+  }
+ ]
+}
