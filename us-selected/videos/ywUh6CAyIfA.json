@@ -1,0 +1,27 @@
+{
+ "video_id": "ywUh6CAyIfA",
+ "title": "LVMH Stock Down 58%: Is the Luxury Crash Finally Over?",
+ "creator": "The German Value Investor",
+ "published_at": "2026-10-17T14:00:07.664117+00:00",
+ "summary": "The German Value Investor re-values LVMH, down 58% from its 2023 high to ~€380 at a P/E of ~18 (10-year median 24), and asks whether it is a bargain or a value trap. His scenarios: bear €240 (-37% on shrinking EPS), base €470 (+25%, ~10%/yr, 7% EPS growth), bull over 50% upside; his buy limit is €340 and sell zone ~€490, and he concludes you could definitely build a position here in a solid, broadly diversified luxury group, though he is not invested yet. Call: CONDITIONAL_BUY.",
+ "calls": [
+  {
+   "video_id": "ywUh6CAyIfA",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "LVMH Stock Down 58%: Is the Luxury Crash Finally Over?",
+   "published_at": "2026-10-17T14:00:07.664117+00:00",
+   "ticker": "LVMH",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "€380 (stated current, just under €400; -58% from the 2023 ~€900 all-time high); base-case fair value €470 (stated); his buy limit €340, sell zone ~€490 (stated)",
+   "thesis": "CONDITIONAL_BUY / build a position — 'you could definitely build a position here': a super company that is not expensively valued at a P/E of ~18 (10-year median 24), and the margin-of-safety price in his normal scenario sits within ~3% of the current price. He is not invested himself yet and his formal buy limit is €340, so the entry he describes is staged rather than all-in. First tracked German Value Investor LVMH call in calls.json — no flip.",
+   "base_case": "Normal scenario: 7% annual EPS growth for 5 years then 5%, fair P/E ~19, fair value €470 (~25% upside, ~10%/yr expected return). H1 revenue €38.6B (vs €39.8B a year earlier), net profit flat at €5.7B and EPS up from €11.43 to €11.52 on buybacks; operating cash flow €7.6B in H1.",
+   "bull_case": "Positive scenario gives over 50% upside potential in his model; watches and jewellery revenue grew 11% organically last quarter; the Arnault family holds over 50% after buying over €2B of shares in two years; dividends (~3.4% yield) plus buybacks total roughly a 5% shareholder payout.",
+   "bear_case": "Negative scenario: EPS falls 3%/yr for 5 years then grows 2%, fair value €240 (~37% downside). China luxury weakness, profits below the €14-15B peaks, and industry growth driven by price rises rather than volume; LVMH has had near-decade flat phases before.",
+   "analyzed_at": "2026-10-17T18:04:16.116651+00:00",
+   "collab": false
+  }
+ ]
+}
