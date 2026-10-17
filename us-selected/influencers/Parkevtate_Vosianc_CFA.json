@@ -4,6 +4,54 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "MELI",
+   "tickerSlug": "MELI",
+   "direction": "BUY",
+   "date": "2026-10-17T17:00:07.664117+00:00",
+   "price": "$1,876 (stated current); fair value $2,900 (stated, ~55% upside)",
+   "video_id": "lID8YfUBkZI"
+  },
+  {
+   "ticker": "SHOP",
+   "tickerSlug": "SHOP",
+   "direction": "AVOID",
+   "date": "2026-10-17T16:00:07.664117+00:00",
+   "price": "$177 (stated current, near 52-week high); fair value $66 (stated DCF)",
+   "video_id": "TkobBIJzPk0"
+  },
+  {
+   "ticker": "COST",
+   "tickerSlug": "COST",
+   "direction": "BUY",
+   "date": "2026-10-17T15:00:07.664117+00:00",
+   "price": "$956-957 (stated current); upgraded to BUY on 21 Sep at ~$890-898 (stated); forward P/E 38 (stated)",
+   "video_id": "gqNQ48XJGJA"
+  },
+  {
+   "ticker": "RKLB",
+   "tickerSlug": "RKLB",
+   "direction": "AVOID",
+   "date": "2026-10-17T00:55:29.280250+00:00",
+   "price": "$53 (stated current, after ~10% fall on the day); fair value $22 (stated)",
+   "video_id": "KTvx615Z4LQ"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "HOLD",
+   "date": "2026-10-16T05:55:29.280250+00:00",
+   "price": "$186 (stated current); fair value $225 (stated, ~21% upside)",
+   "video_id": "uTQXJ3kk49o"
+  },
+  {
+   "ticker": "APLD",
+   "tickerSlug": "APLD",
+   "direction": "BUY",
+   "date": "2026-10-16T05:55:29.280250+00:00",
+   "price": "$20.22 (stated current, after 10% fall on the day); fair value $26.50 (stated, ~30% upside over 12-18 months)",
+   "video_id": "dDw6-dXGIh4"
+  },
+  {
    "ticker": "IREN",
    "tickerSlug": "IREN",
    "direction": "BUY",
