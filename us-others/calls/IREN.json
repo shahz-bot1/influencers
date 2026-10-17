@@ -3,6 +3,16 @@
  "slug": "IREN",
  "calls": [
   {
+   "video_id": "okKr-6faeVw",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "IREN",
+   "direction": "AVOID",
+   "thesis": "Much better balance sheet than CoreWeave, but still a very expensive stock today; grouped in his 'not interested in owning any of these neocloud businesses' stance — long-term moats unclear, largely commodity GPU-rental beneficiaries of supply/demand.",
+   "analyzed_at": "2026-10-17T03:58:32.502406+00:00",
+   "price_at_call": "Down 42% over past couple of weeks (no share price stated; captions render the name 'Irontock/Iron')"
+  },
+  {
    "video_id": "TgDV_-LeQSE",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -18,8 +28,12 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Daniel Pronk",
    "idx": 0
+  },
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 1
   }
  ]
 }
