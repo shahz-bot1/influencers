@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T01:49:51.121765+00:00",
+ "updated": "2026-10-17T01:29:00.165270+00:00",
  "tickers": [
   {
    "ticker": "GOLD",
@@ -253,7 +253,7 @@
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
    "nCalls": 15,
-   "nVideos": 19
+   "nVideos": 20
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -267,6 +267,16 @@
   {
    "id": "enqz8b3faIY",
    "title": "Economist Explains Why AI Could Trigger a Bigger Crash Than 2008 | Rahul Jain G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-15",
+   "nCalls": 0
+  },
+  {
+   "id": "JZ5KhzNZnTA",
+   "title": "My Appeal to Nirmala Sitharaman Ji on LTCG & STT - Rahul Jain",
    "creator": "Rahul Jain",
    "channels": [
     "Rahul Jain"
