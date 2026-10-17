@@ -1,0 +1,19 @@
+{
+ "video_id": "zULtiUhBdZg",
+ "title": "How Much Of Our $1,000,000 Into Bitcoin?",
+ "creator": "Sven Carlin",
+ "published_at": "2026-10-16T18:55:48.285000+00:00",
+ "summary": "Sven Carlin continues his asset-class series for a hypothetical $1,000,000 portfolio — after stocks, bonds and gold — and asks how much should go into Bitcoin. His answer is zero. He recalls first covering Bitcoin nine years ago, on 15 August 2017, when it traded at a few thousand dollars: he said then it could rise above $100,000 but could also go to zero, because it has no transactional utility and is purely a speculative price instrument. That view is unchanged. He argues one Bitcoin transaction costs what Visa handles in roughly 100,000 transactions, so the payments case failed, and he does not accept the store-of-value case either. He recounts a wealthy Bitcoin friend urging him to buy for himself and his son; he declined, missed a roughly 15x gain, and accepts that as the cost of staying inside his strategy. He warns speculation fatigue and a liquidity need could hit the price, while conceding the market cap is still small enough that speculation could carry it to $500,000 or $1,000,000. He calls Bitcoin a gambling tool, quoting Charlie Munger, and says Wall Street embraced it only once fees on ETFs and products became visible. Call made: BTC — AVOID, zero allocation, no price target stated. No other tickers are given calls; Michael Saylor is mentioned critically as a promoter, with no call on his company.",
+ "calls": [
+  {
+   "video_id": "zULtiUhBdZg",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "BTC",
+   "direction": "AVOID",
+   "thesis": "Zero allocation for the $1M portfolio: Bitcoin has no transactional utility and no store-of-value case for him; price is driven purely by speculation/gambling demand and could go to zero (or far higher) on speculation alone. Not his strategy, despite a friend's tip that would have made 15x.",
+   "analyzed_at": "2026-10-17T03:58:32.502406+00:00",
+   "price_at_call": "No price stated; he notes it rose from a few thousand when he first covered it in Aug 2017 to above $100,000"
+  }
+ ]
+}
