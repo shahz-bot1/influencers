@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:03:27.415026+00:00",
+ "updated": "2026-10-17T22:07:10.463033+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -186,8 +186,13 @@
   {
    "ticker": "APLD",
    "slug": "APLD",
-   "lastDate": "2026-10-11T14:04:01.115917+00:00",
+   "lastDate": "2026-10-16T05:55:29.280250+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$20.22"
+    },
     {
      "dir": "CONDITIONAL_BUY",
      "n": 1,
@@ -195,10 +200,11 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "",
-   "nCalls": 2
+   "lastStated": "$20.22 (stated current, after 10% fall on the day); fair value $26.50 (stated, ~",
+   "nCalls": 3
   },
   {
    "ticker": "ARKQ",
@@ -501,12 +507,12 @@
   {
    "ticker": "COST",
    "slug": "COST",
-   "lastDate": "2026-09-28T22:02:12.212482+00:00",
+   "lastDate": "2026-10-17T15:00:07.664117+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$427.5"
+     "avg": "$484"
     },
     {
      "dir": "HOLD",
@@ -515,12 +521,12 @@
     }
    ],
    "influencers": [
-    "Joseph Carlson After Hours",
     "Parkevtate Vosianc CFA",
+    "Joseph Carlson After Hours",
     "BWB - Business With Brian"
    ],
-   "lastStated": "High valuation (stated); stock down a little",
-   "nCalls": 4
+   "lastStated": "$956-957 (stated current); upgraded to BUY on 21 Sep at ~$890-898 (stated); forw",
+   "nCalls": 5
   },
   {
    "ticker": "CRDO",
@@ -1298,6 +1304,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "LVMH",
+   "slug": "LVMH",
+   "lastDate": "2026-10-17T14:00:07.664117+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$380"
+    }
+   ],
+   "influencers": [
+    "The German Value Investor"
+   ],
+   "lastStated": "€380 (stated current, just under €400; -58% from the 2023 ~€900 all-time high); ",
+   "nCalls": 1
+  },
+  {
    "ticker": "MA",
    "slug": "MA",
    "lastDate": "2026-09-28T22:02:12.212482+00:00",
@@ -1352,21 +1375,22 @@
   {
    "ticker": "MELI",
    "slug": "MELI",
-   "lastDate": "2026-10-11T18:04:45.730459+00:00",
+   "lastDate": "2026-10-17T17:00:07.664117+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 3,
-     "avg": "$12"
+     "n": 4,
+     "avg": "$944"
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Couch Investor",
     "Mark Roussin CPA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "~$1,600-1,700; $80B market cap",
-   "nCalls": 4
+   "lastStated": "$1,876 (stated current); fair value $2,900 (stated, ~55% upside)",
+   "nCalls": 5
   },
   {
    "ticker": "META",
@@ -1557,7 +1581,7 @@
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-10-14T19:59:00.406752+00:00",
+   "lastDate": "2026-10-16T05:55:29.280250+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1570,18 +1594,24 @@
      "avg": "$200"
     },
     {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$186"
+    },
+    {
      "dir": "AVOID",
      "n": 1,
      "avg": null
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Couch Investor",
     "MarketBeat",
     "BWB - Business With Brian"
    ],
-   "lastStated": "200.0",
-   "nCalls": 6
+   "lastStated": "$186 (stated current); fair value $225 (stated, ~21% upside)",
+   "nCalls": 7
   },
   {
    "ticker": "NFLX",
@@ -2164,6 +2194,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "RKLB",
+   "slug": "RKLB",
+   "lastDate": "2026-10-17T00:55:29.280250+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$53"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "$53 (stated current, after ~10% fall on the day); fair value $22 (stated)",
+   "nCalls": 1
+  },
+  {
    "ticker": "SBUX",
    "slug": "SBUX",
    "lastDate": "2026-09-27T13:56:51.947282+00:00",
@@ -2214,6 +2261,23 @@
    ],
    "lastStated": "",
    "nCalls": 5
+  },
+  {
+   "ticker": "SHOP",
+   "slug": "SHOP",
+   "lastDate": "2026-10-17T16:00:07.664117+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$177"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "$177 (stated current, near 52-week high); fair value $66 (stated DCF)",
+   "nCalls": 1
   },
   {
    "ticker": "SMH",
@@ -2901,7 +2965,7 @@
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
    "nCalls": 58,
-   "nVideos": 49
+   "nVideos": 50
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -2922,24 +2986,84 @@
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
    "nCalls": 59,
-   "nVideos": 27
+   "nVideos": 28
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 117,
-   "nVideos": 119
+   "nCalls": 123,
+   "nVideos": 125
   },
   {
    "name": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
    "slug": "The_German_Value_Investor",
-   "nCalls": 5,
-   "nVideos": 5
+   "nCalls": 6,
+   "nVideos": 6
   }
  ],
  "videos": [
+  {
+   "id": "lID8YfUBkZI",
+   "title": "Mercadolibre Stock Analysis: Buy, Hold, or Sell? | MELI Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-17T17:00:07.664117+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "TkobBIJzPk0",
+   "title": "Is it Too Late to Buy Shopify Stock Right Now? | SHOP Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-17T16:00:07.664117+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "gqNQ48XJGJA",
+   "title": "Costco is One of the Best Retailers on the Planet | COST Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-17T15:00:07.664117+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "ywUh6CAyIfA",
+   "title": "LVMH Stock Down 58%: Is the Luxury Crash Finally Over?",
+   "creator": "The German Value Investor",
+   "channels": [
+    "The German Value Investor"
+   ],
+   "published_at": "2026-10-17T14:00:07.664117+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "KTvx615Z4LQ",
+   "title": "Unfortunate News for Rocket Lab Stock Investors | RKLB Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-17T00:55:29.280250+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "Z5gI10nu3Pk",
+   "title": "Dan Ives: The AI Boom Is Only 15% Over—Here's What Comes Next  | Top Stocks",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-16T21:58:29.472788+00:00",
+   "nCalls": 0
+  },
   {
    "id": "oLi2I-49PdU",
    "title": "Mr. Wonderful Warns Most AI Data Centers Will Shut Down (Here’s Who Wins)",
@@ -2971,6 +3095,26 @@
    "nCalls": 0
   },
   {
+   "id": "uTQXJ3kk49o",
+   "title": "Why Is Nebius Stock Falling, and is it a Buying Opportunity? | NBIS Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-16T05:55:29.280250+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "dDw6-dXGIh4",
+   "title": "Is Applied Digital Stock Stock an Undervalued AI Stock to Buy Right Now? | APLD Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-16T05:55:29.280250+00:00",
+   "nCalls": 1
+  },
+  {
    "id": "XlKgjm-aFmQ",
    "title": "Is IREN an Undervalued AI Stock to Buy Right Now?",
    "creator": "Parkevtate Vosianc CFA",
@@ -2979,6 +3123,16 @@
    ],
    "published_at": "2026-10-16T00:55:33.910850+00:00",
    "nCalls": 1
+  },
+  {
+   "id": "sR_VXL1e5RU",
+   "title": "Stocks Fell Again. Here’s the Level I’m Watching Before I Buy More",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-16",
+   "nCalls": 0
   },
   {
    "id": "ZBZ8NBf8veI",
