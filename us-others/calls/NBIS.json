@@ -3,6 +3,16 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "okKr-6faeVw",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "NBIS",
+   "direction": "AVOID",
+   "thesis": "Probably the best balance sheet, growth and cash flows in the neocloud group, but still grouped in his 'not interested in owning any of these businesses' stance; investors are exiting the sector in sympathy with CoreWeave weakness regardless.",
+   "analyzed_at": "2026-10-17T03:58:32.502406+00:00",
+   "price_at_call": "Down 33% (no share price stated)"
+  },
+  {
    "video_id": "jbtxHHpX_u0",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -17,8 +27,12 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Daniel Pronk",
    "idx": 0
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 1
   }
  ]
 }
