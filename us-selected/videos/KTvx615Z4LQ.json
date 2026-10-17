@@ -1,0 +1,27 @@
+{
+ "video_id": "KTvx615Z4LQ",
+ "title": "Unfortunate News for Rocket Lab Stock Investors | RKLB Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-17T00:55:29.280250+00:00",
+ "summary": "Parkevtate updates Rocket Lab after Neutron's first launch was delayed again, to 2027, over a forward propellant dome manufacturing issue — the stock fell ~10% on the day, is -23% YTD and ~66% below its $150 SpaceX-IPO euphoria high. He reiterates that RKLB is not a buying opportunity: his fair value is $22 vs the $53 market price, so he would wait for a better entry, while noting the $2.3B+ cash balance should carry the company to its next milestone and the delay alone is not a death knell. Call: AVOID.",
+ "calls": [
+  {
+   "video_id": "KTvx615Z4LQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Unfortunate News for Rocket Lab Stock Investors | RKLB Stock Analysis",
+   "published_at": "2026-10-17T00:55:29.280250+00:00",
+   "ticker": "RKLB",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$53 (stated current, after ~10% fall on the day); fair value $22 (stated)",
+   "thesis": "AVOID / not a buying opportunity — reiterates his 2 Sep stance: Neutron's first launch delayed again, to 2027 (forward propellant dome manufacturing issue), stock down ~10% on the day, -23% YTD and ~66% below the $150 SpaceX-IPO euphoria high; DCF fair value $22 vs $53 market is still far too expensive, wait for a better entry. Prior tracked Parkevtate RKLB entry was UNCERTAIN (12 Oct, overvalued assessment) — no flip vs an explicit stance.",
+   "base_case": "$2.3B+ cash and short-term investments should carry the company to the next milestone; the delay is not a death knell — rocket development is inherently uncertain and schedules are goals, not guarantees.",
+   "bull_case": "One of the most innovative companies in the world with a strong balance sheet; a successful Neutron launch would compete with SpaceX Falcon 9.",
+   "bear_case": "Repeated Neutron slips (unveiled 2021 targeting 2024, then mid-2025, 2026, now 2027; a first-stage tank ruptured in Jan testing); 23.5x forward sales; one of the riskiest stocks in the market, so the risk/reward is not yet attractive.",
+   "analyzed_at": "2026-10-17T13:59:47.122819+00:00",
+   "collab": false
+  }
+ ]
+}
