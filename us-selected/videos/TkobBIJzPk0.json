@@ -1,0 +1,27 @@
+{
+ "video_id": "TkobBIJzPk0",
+ "title": "Is it Too Late to Buy Shopify Stock Right Now? | SHOP Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-17T16:00:07.664117+00:00",
+ "summary": "Parkevtate asks whether Shopify's agentic-AI-driven run has made it too late to buy and answers yes for now: the forward P/E has nearly doubled in 2026 to 72 and his DCF fair value is $66 vs the $177 market price, near the 52-week high. He praises the asset-light model and improving margins/ROIC after the reversed logistics expansion, but says the valuation is rich and he would wait for a better opportunity. Call: AVOID.",
+ "calls": [
+  {
+   "video_id": "TkobBIJzPk0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is it Too Late to Buy Shopify Stock Right Now? | SHOP Stock Analysis",
+   "published_at": "2026-10-17T16:00:07.664117+00:00",
+   "ticker": "SHOP",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$177 (stated current, near 52-week high); fair value $66 (stated DCF)",
+   "thesis": "AVOID / not a buying opportunity — asked if it is too late to buy, he answers no to buying now: 'the valuation looks rich, I would wait for a better opportunity.' Forward P/E has nearly doubled in 2026 from ~36 to 72 and his DCF fair value is $66 vs $177 market. He likes the asset-light business (a former shareholder who sold when it expanded into logistics) but not at this price. First tracked Parkevtate SHOP call in calls.json — no flip.",
+   "base_case": "Revenue $13.3B TTM, up nearly 13x from ~$1B in 2017; operating margin improving to 17.82% and ROIC back to 14.6% (slightly above WACC) after reversing the failed delivery/logistics expansion; agentic AI is directing consumers to merchant sites, lifting traffic and transaction volume.",
+   "bull_case": "E-commerce is still a relatively small share of US transactions with a multi-trillion-dollar, decades-long runway, so a premium valuation is deserved — he puts a reasonable forward P/E at 40-55, not 72.",
+   "bear_case": "At 72x forward earnings the market is far more optimistic than his DCF ($66); agentic-AI optimism is already priced in near the 52-week high.",
+   "analyzed_at": "2026-10-17T18:04:16.116651+00:00",
+   "collab": false
+  }
+ ]
+}
