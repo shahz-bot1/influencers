@@ -4,6 +4,14 @@
  "slug": "Sven_Carlin",
  "calls": [
   {
+   "ticker": "BTC",
+   "tickerSlug": "BTC",
+   "direction": "AVOID",
+   "date": "2026-10-17T03:58:32.502406+00:00",
+   "price": "No price stated; he notes it rose from a few thousand when he first covered it in Aug 2017 to above $100,000",
+   "video_id": "zULtiUhBdZg"
+  },
+  {
    "ticker": "KUAIS",
    "tickerSlug": "KUAIS",
    "direction": "CONDITIONAL_BUY",
