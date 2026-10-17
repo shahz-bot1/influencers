@@ -3,6 +3,24 @@
  "slug": "MELI",
  "calls": [
   {
+   "video_id": "lID8YfUBkZI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Mercadolibre Stock Analysis: Buy, Hold, or Sell? | MELI Stock Analysis",
+   "published_at": "2026-10-17T17:00:07.664117+00:00",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$1,876 (stated current); fair value $2,900 (stated, ~55% upside)",
+   "thesis": "BUY reiterated — he says he last rated MELI an attractive buy on 28 Aug and, after refreshing his DCF and the Brazil election developments, it looks 'even more attractive': $2,900 fair value vs $1,876, trading near its lowest forward P/E in years. First tracked Parkevtate MELI call in calls.json — no flip.",
+   "base_case": "Revenue up from ~$1B in 2017 to over $35B TTM, first $10B quarter in its history; the lowered free-shipping threshold is lifting purchase frequency, new customers and retention, and the financial services segment grew 75% YoY — the two segments fuel each other.",
+   "bull_case": "A more favourable Brazil election outcome addresses one of the bigger concerns against the stock; the very positive customer response to the free-shipping change builds longer-term value while the valuation sits at a multi-year low.",
+   "bear_case": "Operating margin has fallen from ~16% in 2023 to 8% TTM and ROIC has declined on the cost of the free-shipping policy; Brazil's political volatility and bureaucratic burden on businesses remain a risk.",
+   "analyzed_at": "2026-10-17T18:04:16.116651+00:00",
+   "collab": false
+  },
+  {
    "video_id": "sXGem-t2cRI",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -62,16 +80,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
+   "channel": "Mark Roussin CPA",
+   "idx": 2
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
