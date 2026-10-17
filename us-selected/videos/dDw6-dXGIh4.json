@@ -1,0 +1,27 @@
+{
+ "video_id": "dDw6-dXGIh4",
+ "title": "Is Applied Digital Stock Stock an Undervalued AI Stock to Buy Right Now? | APLD Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-16T05:55:29.280250+00:00",
+ "summary": "Parkevtate asks whether Applied Digital's 10% dip on debt-cost concerns is a buying opportunity and answers yes, with low conviction: his refreshed DCF gives $26.50 vs the $20.22 price (~30% upside over 12-18 months) even after raising the cost of debt and applying a 10-20% margin of safety. The backlog is over $30B contracted, but the company holds $3.7B cash against $6.4B debt and must borrow tens of billions more to build — suitable only for very high risk tolerance. Call: BUY (low conviction).",
+ "calls": [
+  {
+   "video_id": "dDw6-dXGIh4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Applied Digital Stock Stock an Undervalued AI Stock to Buy Right Now? | APLD Stock Analysis",
+   "published_at": "2026-10-16T05:55:29.280250+00:00",
+   "ticker": "APLD",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$20.22 (stated current, after 10% fall on the day); fair value $26.50 (stated, ~30% upside over 12-18 months)",
+   "thesis": "BUY, low conviction — 'I do think this dip is a buying opportunity': stock down 10% today on debt-cost concerns across neoclouds; refreshed DCF (with a higher cost of debt and higher risk input) gives $26.50 vs $20.22, still undervalued even after a 10-20% margin of safety for one of the riskiest, hardest-to-value stocks in the market. Only for very high risk tolerance. First tracked Parkevtate APLD call in calls.json — no flip.",
+   "base_case": "Contracted backlog over $30B ($36B base contracted value, up to $86B if all renewal options are exercised); most recent quarter beat estimates with revenue up 322% YoY (absolute revenue figure garbled in auto-captions, not recorded); demand exceeds supply through 2026 and probably 2027.",
+   "bull_case": "Hyperscaler demand for third-party capacity keeps pricing and renewals strong; ~30% upside to his fair value over 12-18 months.",
+   "bear_case": "Cash $3.7B vs debt $6.4B and tens of billions more borrowing needed to build against the backlog, just as funding costs rise and debt markets could squeeze; from 2028 hyperscalers may meet needs with their own capacity and not renew; outcome range is highly uncertain — hence low conviction.",
+   "analyzed_at": "2026-10-17T13:59:47.122819+00:00",
+   "collab": false
+  }
+ ]
+}
