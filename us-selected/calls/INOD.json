@@ -1,0 +1,27 @@
+{
+ "ticker": "INOD",
+ "slug": "INOD",
+ "calls": [
+  {
+   "video_id": "k1xJbNAGmFg",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "This Hasn’t Happened Since 2006!",
+   "published_at": "2026-10-18T12:59:50.537284+00:00",
+   "ticker": "INOD",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Innodata: price slipped below bottom rung of signal ladder; re-review still checks out but no clear setup now. Record quarter (sales +58%), profits expected +27% next year, stock -15% since July at ~half June peak. Condition: hold off until early-November earnings; only riskiest slice of money, very small, add a little over time. First tracked BWB call on INOD.",
+   "base_case": "Neutrality vs Scale AI (half-owned by Meta) protects it as rivals shun a competitor-owned vendor.",
+   "bull_case": "Robot motion-data lab and US government AI testing are potential next growth legs, not yet in numbers.",
+   "bear_case": "Two big-tech customers = ~71% of sales; CEO changed end-September; up to $300M new stock sale plan caps rallies; 10%+ single-day moves 15 times this year.",
+   "analyzed_at": "2026-10-18T13:58:20.490959+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
