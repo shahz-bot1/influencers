@@ -3,6 +3,23 @@
  "slug": "AXON",
  "calls": [
   {
+   "video_id": "fH5DacZxQug",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Put $10,000 Into 5 Stocks During This Selloff. Here’s Why",
+   "published_at": "2026-10-18T16:00:08.085057+00:00",
+   "analyzed_at": "2026-10-18T18:03:21.343164+00:00",
+   "ticker": "AXON",
+   "direction": "BUY",
+   "price_at_call": "$409 (stated, +15% position increase)",
+   "thesis": "BUY reiterated (was BUY 2026-10-14; no flip): added 15% more Axon at $409; stock is back at the floor where he first opened the position after a round trip to $600.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "collab": false,
+   "flip": false
+  },
+  {
    "video_id": "-6wR6p9pmlg",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
