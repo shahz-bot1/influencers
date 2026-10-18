@@ -1,0 +1,26 @@
+{
+ "video_id": "XOmt1qanNWc",
+ "title": "Interesting News for Netflix Stock Investors | NFLX STock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-18T16:00:08.085057+00:00",
+ "summary": "Parkev Tatavosianc analyses Netflix's announcement that it will cut 6% of its workforce, roughly 1,000 employees — its largest reduction since 2022 — across product, HR, technology and legal. He reads the move, set out in an email from co-CEOs Ted Sarandos and Greg Peters, not as cost-cutting but as a reallocation toward AI-related hiring in content creation and productivity, noting Netflix will keep investing aggressively in high-impact areas without growing overall headcount. He supports that reading with revenue per employee above $3 million, up from about $2 million in 2017, which he says shows no bloating. The timing matters: Netflix reports earnings after the close on Tuesday 20 October, and it is the largest position in his portfolio. The bear side he acknowledges is engagement: growth was only low-single-digits in the first half of 2026 and in 2025, so Netflix is losing viewing share to short-form rivals such as TikTok, Instagram Reels and YouTube Shorts, and investors were unconvinced by management's acquisition and pricing answers. The shares are also well down since the Warner Bros bid episode, from which Netflix stepped back. His call is NFLX — BUY at $69.72 (stated), reiterated, with fair value implying about 65% upside over 12–18 months (about $115), a forward P/E of 18.5 he calls the cheapest in years, and interest in adding if it stays at these levels. No flip.",
+ "calls": [
+  {
+   "video_id": "XOmt1qanNWc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Interesting News for Netflix Stock Investors | NFLX STock Analysis",
+   "published_at": "2026-10-18T16:00:08.085057+00:00",
+   "analyzed_at": "2026-10-18T18:03:21.343164+00:00",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": "$69.72 (stated current); FV ~$115 (stated 65% upside over 12-18 months)",
+   "thesis": "BUY reiterated (was BUY 2026-10-14, FV $115; no flip): Netflix is his largest position and he is interested in adding more if it stays at these levels into Tue 20 Oct earnings. The 6% workforce cut (~1,000 roles) is, in his view, a reallocation toward AI roles, not overall cost-cutting; forward P/E 18.5 is the cheapest in years and revenue per employee is above $3M.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Engagement and revenue growth are only low-single-digits while the wider streaming market grows faster - Netflix is losing viewing share to short-form (TikTok/Reels/Shorts); AI-created content also raises competition.",
+   "collab": false,
+   "flip": false
+  }
+ ]
+}
