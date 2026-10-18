@@ -3,6 +3,40 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "fH5DacZxQug",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Put $10,000 Into 5 Stocks During This Selloff. Here’s Why",
+   "published_at": "2026-10-18T16:00:08.085057+00:00",
+   "analyzed_at": "2026-10-18T18:03:21.343164+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "~$328 (stated current; +10% position increase, buy price not stated)",
+   "thesis": "BUY reiterated (was BUY 2026-10-13 @ $362; no flip): increased his Broadcom position by 10% during the selloff; main buy zone $315-335, weekly-100 support ~$310; still calls it undervalued long term.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Could drop a bit lower toward the $310 support before recovering.",
+   "collab": false,
+   "flip": false
+  },
+  {
+   "video_id": "SzdxupnhTfY",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "The AI Sell Off is HERE   3 Stocks to BUY the DIP on",
+   "published_at": "2026-10-18T14:00:08.085057+00:00",
+   "analyzed_at": "2026-10-18T18:03:21.343164+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "not stated (added end of last week; ~20x trailing, ~17x forward earnings)",
+   "thesis": "BUY reiterated (was BUY 2026-10-13 @ ~$370; no flip): he added to Broadcom at the end of last week. Custom AI accelerators plus high-speed networking; revenue +86% over the past year, AI semiconductor revenue +220%, record free cash flow, yet the stock is ~5% down over the year.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Broadcom carries meaningful debt to monitor; all three of his picks share the same AI capex cycle, so owning all three is not diversification.",
+   "collab": false,
+   "flip": false
+  },
+  {
    "video_id": "aanoWEaL8WA",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -204,11 +238,11 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 4
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 5
+   "idx": 7
   }
  ]
 }
