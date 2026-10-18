@@ -3,6 +3,23 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "XOmt1qanNWc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Interesting News for Netflix Stock Investors | NFLX STock Analysis",
+   "published_at": "2026-10-18T16:00:08.085057+00:00",
+   "analyzed_at": "2026-10-18T18:03:21.343164+00:00",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": "$69.72 (stated current); FV ~$115 (stated 65% upside over 12-18 months)",
+   "thesis": "BUY reiterated (was BUY 2026-10-14, FV $115; no flip): Netflix is his largest position and he is interested in adding more if it stays at these levels into Tue 20 Oct earnings. The 6% workforce cut (~1,000 roles) is, in his view, a reallocation toward AI roles, not overall cost-cutting; forward P/E 18.5 is the cheapest in years and revenue per employee is above $3M.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Engagement and revenue growth are only low-single-digits while the wider streaming market grows faster - Netflix is losing viewing share to short-form (TikTok/Reels/Shorts); AI-created content also raises competition.",
+   "collab": false,
+   "flip": false
+  },
+  {
    "video_id": "Ffv6UZVk1Zg",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -143,11 +160,11 @@
   },
   {
    "channel": "Couch Investor",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
