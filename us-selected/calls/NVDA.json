@@ -3,6 +3,23 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "SzdxupnhTfY",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "The AI Sell Off is HERE   3 Stocks to BUY the DIP on",
+   "published_at": "2026-10-18T14:00:08.085057+00:00",
+   "analyzed_at": "2026-10-18T18:03:21.343164+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated (13.5x next-year earnings; he floats $315 by end of Q1 next year at 20x)",
+   "thesis": "BUY reiterated (was BUY 2026-02-25; no flip): shares are ~10% off recent highs while revenue and earnings keep growing; Nvidia is now a full AI computing platform (accelerators, networking, CUDA software) generating large profits today, financial health score 84.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Customers' AI capex ROI is being questioned; custom chips from cloud providers and AMD competition could take share.",
+   "collab": false,
+   "flip": false
+  },
+  {
    "video_id": "MGQuMM1AgQM",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -236,20 +253,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 3
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 7
+   "channel": "BWB - Business With Brian",
+   "idx": 4
   }
  ]
 }
