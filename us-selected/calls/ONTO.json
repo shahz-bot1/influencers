@@ -1,0 +1,27 @@
+{
+ "ticker": "ONTO",
+ "slug": "ONTO",
+ "calls": [
+  {
+   "video_id": "k1xJbNAGmFg",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "This Hasn’t Happened Since 2006!",
+   "published_at": "2026-10-18T12:59:50.537284+00:00",
+   "ticker": "ONTO",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Onto Innovation: price fallen just below bottom rung of signal ladder — no buying until full re-review, which it passes (record sales +35%, backlog >$1B first time, PEG ~0.6, profits expected +44% next year). Condition: let early-November earnings pass first, then keep small and DCA on the way down. First tracked BWB call on ONTO.",
+   "base_case": "Forecasts raised ~18% since July (10 raises, 0 cuts in last month) while stock -26% since July.",
+   "bull_case": "Advanced packaging inspection segment expected +80% this year; new long-term targets due Dec 17.",
+   "bear_case": "Big memory-maker exposure; Chinese memory design news hit the group; a >$200M order rests on a single customer; swings ~3x market.",
+   "analyzed_at": "2026-10-18T13:58:20.490959+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
