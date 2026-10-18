@@ -3,6 +3,38 @@
  "slug": "VRT",
  "calls": [
   {
+   "video_id": "SzdxupnhTfY",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "The AI Sell Off is HERE   3 Stocks to BUY the DIP on",
+   "published_at": "2026-10-18T14:00:08.085057+00:00",
+   "analyzed_at": "2026-10-18T18:03:21.343164+00:00",
+   "ticker": "VRT",
+   "direction": "BUY",
+   "price_at_call": "not stated (trading ~33x vs ~31x normal P/E; FastGraphs implies ~30-40% upside)",
+   "thesis": "First tracked Mark Roussin call on Vertiv: one of three AI dip-buys he is already buying - Vertiv supplies the power, thermal management and liquid cooling AI data centres need, so it wins whoever wins the chip race. Earnings expected +36% next year and +27% the year after (PEG below 1); financial health score ~80, net debt/EBITDA 0.2.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Not immune to an AI slowdown: if big tech cuts capex or delays data-centre projects, growth suffers.",
+   "collab": false,
+   "flip": false
+  },
+  {
+   "video_id": "k1xJbNAGmFg",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "This Hasn’t Happened Since 2006!",
+   "published_at": "2026-10-18T12:59:50.537284+00:00",
+   "ticker": "VRT",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Vertiv: signal ladder 'buy a lot', system agrees, PEG ~1, profits expected +36% next year and forecasts raised since July despite stock -31% since mid-July. Condition: wait until after Oct 28 earnings, then DCA in a little at a time, keep position small while trend has not turned. Softens his prior BUY.",
+   "base_case": "Analyst forecasts raised since July; EPS +60% last quarter, full-year outlook raised.",
+   "bull_case": "New 2027 Nvidia rack power design lines Vertiv up for an upgrade cycle; gear due end of this year.",
+   "bear_case": "Sales light last quarter on delayed giant projects; pricey acquisitions; most rate-sensitive name on the list.",
+   "analyzed_at": "2026-10-18T13:58:20.490959+00:00"
+  },
+  {
    "video_id": "i3NittyekA4",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -18,8 +50,12 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Mark Roussin CPA",
    "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   }
  ]
 }
