@@ -1,0 +1,27 @@
+{
+ "ticker": "NVT",
+ "slug": "NVT",
+ "calls": [
+  {
+   "video_id": "k1xJbNAGmFg",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "This Hasn’t Happened Since 2006!",
+   "published_at": "2026-10-18T12:59:50.537284+00:00",
+   "ticker": "NVT",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "nVent: signal 'buy a lot' stepped down by his system to BUY (still expensive vs own history). Sales +53% last quarter, data-centre gear >$2B expected this year, profits expected +27% next year, forecasts +14% since July while stock -9%. Condition: sit tight until after end-of-month earnings, then maybe start a small position. First tracked BWB call on NVT.",
+   "base_case": "Forecasts raised ~14% since July; stock ~9% below 50-day, just above 200-day.",
+   "bull_case": "Data centres now ~60% of business vs 12% at spin-out; cannot build fast enough.",
+   "bear_case": "Competition — Schneider Electric won cooling slot in AMD's new AI rack design; $1.75B acquisition debt at >6% interest.",
+   "analyzed_at": "2026-10-18T13:58:20.490959+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
