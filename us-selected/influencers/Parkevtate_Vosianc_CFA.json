@@ -4,6 +4,30 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-10-18T16:00:08.085057+00:00",
+   "price": "$69.72 (stated current); FV ~$115 (stated 65% upside over 12-18 months)",
+   "video_id": "XOmt1qanNWc"
+  },
+  {
+   "ticker": "HIMS",
+   "tickerSlug": "HIMS",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-18T15:00:08.085057+00:00",
+   "price": "DCF FV $26.90 (stated) vs current ~$26 (stated ~3% gap); forward P/E 37.6",
+   "video_id": "WZIfLpuA3eo"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-10-18T11:55:50.537284+00:00",
+   "price": "$734 (stated, at recording)",
+   "video_id": "YNdllTBJmJ0"
+  },
+  {
    "ticker": "MELI",
    "tickerSlug": "MELI",
    "direction": "BUY",
