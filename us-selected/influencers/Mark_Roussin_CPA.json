@@ -4,6 +4,38 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "VRT",
+   "tickerSlug": "VRT",
+   "direction": "BUY",
+   "date": "2026-10-18T14:00:08.085057+00:00",
+   "price": "not stated (trading ~33x vs ~31x normal P/E; FastGraphs implies ~30-40% upside)",
+   "video_id": "SzdxupnhTfY"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-18T14:00:08.085057+00:00",
+   "price": "not stated (13.5x next-year earnings; he floats $315 by end of Q1 next year at 20x)",
+   "video_id": "SzdxupnhTfY"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-18T14:00:08.085057+00:00",
+   "price": "not stated (added end of last week; ~20x trailing, ~17x forward earnings)",
+   "video_id": "SzdxupnhTfY"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-10-18T14:00:08.085057+00:00",
+   "price": "not stated (brief disclosure: recently added to his position)",
+   "video_id": "SzdxupnhTfY"
+  },
+  {
    "ticker": "AMD",
    "tickerSlug": "AMD",
    "direction": "CONDITIONAL_BUY",
