@@ -3,6 +3,24 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "fH5DacZxQug",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Put $10,000 Into 5 Stocks During This Selloff. Here’s Why",
+   "published_at": "2026-10-18T16:00:08.085057+00:00",
+   "analyzed_at": "2026-10-18T18:03:21.343164+00:00",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "price_at_call": "~$165 (stated current); bought twice, 10 shares each, prices not stated (above current)",
+   "thesis": "Stance flip CONDITIONAL_BUY->BUY (condition met, executed): his Oct 14 condition was to add on a dip under $200; Nebius is now ~$165 (buy zone $160-172) and he bought twice. He calls Nebius best-in-class among neoclouds and a future $100B+ company, less exposed to the issues hitting CoreWeave/Oracle.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Whole neocloud group gets hit on any peer's bad headlines; shares swing 10% in a day.",
+   "collab": false,
+   "flip": false,
+   "stance_flip": "CONDITIONAL_BUY->BUY (condition met, executed)"
+  },
+  {
    "video_id": "uTQXJ3kk49o",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -119,20 +137,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
