@@ -1,0 +1,24 @@
+{
+ "video_id": "YNdllTBJmJ0",
+ "title": "Should You Buy Meta Stock Before the Huge Investor Update?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-18T11:55:50.537284+00:00",
+ "summary": "Parkev Tatavosianc previews Meta Platforms ahead of its quarterly results after the close on Wednesday 21 October, a stock he has ranked as his best, then second-best, buy of the year and holds himself. He notes Meta Muse, its new personal agent, reached 5 million downloads faster than ChatGPT or Anthropic, and that the shares have recovered from about $550 to $734, up over 11.75% in 2026. The core case rests on the last quarter: revenue up 28% to $60.8 billion, ad impressions up 14% and price per ad up 12%, with 3.6 billion daily users — evidence, in his view, that AI spending is improving engagement rather than just adding ad load, even though operating income fell 8% to $18.8 billion and headcount fell 1%. He expects Q3 revenue near or above the $61–64 billion guide, helped by midterm-election ad spending, and expects the 2026 capex guide of $130–145 billion to be raised on component costs rather than extra capacity. His call is META — BUY at $734 (stated), ranked #2 best buy, with a DCF fair value of $914, about 24% upside over 12–18 months; he advises buying before earnings if you own none, splitting the purchase 75/25 or 50/50. No stance flip (was BUY).",
+ "calls": [
+  {
+   "video_id": "YNdllTBJmJ0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Meta Stock Before the Huge Investor Update?",
+   "published_at": "2026-10-18T11:55:50.537284+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "$734 (stated, at recording)",
+   "thesis": "Reiterated BUY, ranked #2 best stock to buy now (behind NVDA); bullish all year, owns it. Forward P/E 21.3 on 28% revenue growth; DCF fair value $914, ~24% upside over 12-18 months. Says buy before Oct 21 earnings if you own none — 75% before / 25% after, or 50/50 risk-neutral; he personally holds a large position and would only add after earnings.",
+   "base_case": "DCF $914 vs $734 = ~24% upside over 12-18 months.",
+   "bull_case": "He thinks his DCF is likely too conservative given AI-driven engagement, ad price +12% and impressions +14%.",
+   "bear_case": "CapEx guide $130-145B may rise on component costs; spending beyond operating cash flow (~$130B annualised) would concern him.",
+   "analyzed_at": "2026-10-18T13:58:20.490959+00:00"
+  }
+ ]
+}
