@@ -3,6 +3,21 @@
  "slug": "PEP",
  "calls": [
   {
+   "video_id": "J-OmpNfuFX0",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "PepsiCo Stock: A Dividend King at a 10-Year Low?",
+   "published_at": "2026-10-18T12:55:50.537284+00:00",
+   "ticker": "PEP",
+   "direction": "SELL",
+   "price_at_call": "$126 (stated)",
+   "thesis": "Conclusion: consider selling. Barely growing (core ~2%), margins shrinking, price-led growth exhausted — snack prices cut ~15% in early 2026 — and highly indebted (~$40B negative net cash). Adjusted P/E 19 for near-stagnation is not cheap; ~5% dividend yield does not beat >5% Treasuries on risk.",
+   "base_case": "Normal scenario (4% earnings growth): fair price $80, ~36% below current; expected return ~3% a year.",
+   "bull_case": "Not given — he notes the stock could rise or even double, but risk/reward still fails for him.",
+   "bear_case": "Refinancing at higher rates pressures profits; growth may fall below 2%; buy limit with margin of safety ~$56.",
+   "analyzed_at": "2026-10-18T13:58:20.490959+00:00"
+  },
+  {
    "video_id": "Iwsy5DZbBj8",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -50,8 +65,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
