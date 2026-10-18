@@ -1,0 +1,27 @@
+{
+ "ticker": "FIX",
+ "slug": "FIX",
+ "calls": [
+  {
+   "video_id": "k1xJbNAGmFg",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "This Hasn’t Happened Since 2006!",
+   "published_at": "2026-10-18T12:59:50.537284+00:00",
+   "ticker": "FIX",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Comfort Systems USA: signal 'buy a lot' dialled back by his system to 'buy a little' (priced near top of own range, PEG ~1.3). Sales +50% and EPS nearly doubled last quarter, backlog ~$14B (+73% YoY), profits expected +23% next year. Condition: wait for earnings in a few days, then build a case. First tracked BWB call on FIX.",
+   "base_case": "Forecasts raised ~11% since July (7 raises, 0 cuts in last month) while stock -16% since July.",
+   "bull_case": "Tech/data-centre customers now ~60% of sales vs 43% a year ago; beat estimates 4 quarters in a row.",
+   "bear_case": "Backlog depends on big-tech build pace; most jobs fixed-price, so labour/material overruns hit profit directly.",
+   "analyzed_at": "2026-10-18T13:58:20.490959+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
