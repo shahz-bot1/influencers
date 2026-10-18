@@ -1,0 +1,24 @@
+{
+ "video_id": "J-OmpNfuFX0",
+ "title": "PepsiCo Stock: A Dividend King at a 10-Year Low?",
+ "creator": "The German Value Investor",
+ "published_at": "2026-10-18T12:55:50.537284+00:00",
+ "summary": "The German Value Investor examines PepsiCo, a 54-year dividend grower now yielding nearly 5% after falling about 35% since 2023 to $126 — back at its 2019 price level, with a market cap of about $172 billion. He argues the apparent cheapness (headline P/E about 16) is misleading: since 2013 revenue has risen from $66 billion to about $94 billion while net income only moved from under $7 billion to about $8 billion, margins have shrunk below 9%, and recent growth came from price rises rather than volume. PepsiCo even cut snack prices about 15% in early 2026 to defend volume, which he reads as a weakening moat. The latest quarter's 17% profit jump flatters one-off comparisons; core growth was only about 2%, and management cut its core growth forecast on 8 October from 5–7% to 2.5–3.5%. Free cash flow of roughly $5.5 billion over three quarters is more than paid out in dividends and buybacks, while net debt is about $40 billion and refinancing will cost more; US Treasuries yielding over 5% look safer by comparison. His valuation puts a normal-scenario fair price near $80 with a buy limit around $56. His call is PEP — SELL at $126 (stated), suggesting holders consider selling. First tracked call on PEP, no flip.",
+ "calls": [
+  {
+   "video_id": "J-OmpNfuFX0",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "PepsiCo Stock: A Dividend King at a 10-Year Low?",
+   "published_at": "2026-10-18T12:55:50.537284+00:00",
+   "ticker": "PEP",
+   "direction": "SELL",
+   "price_at_call": "$126 (stated)",
+   "thesis": "Conclusion: consider selling. Barely growing (core ~2%), margins shrinking, price-led growth exhausted — snack prices cut ~15% in early 2026 — and highly indebted (~$40B negative net cash). Adjusted P/E 19 for near-stagnation is not cheap; ~5% dividend yield does not beat >5% Treasuries on risk.",
+   "base_case": "Normal scenario (4% earnings growth): fair price $80, ~36% below current; expected return ~3% a year.",
+   "bull_case": "Not given — he notes the stock could rise or even double, but risk/reward still fails for him.",
+   "bear_case": "Refinancing at higher rates pressures profits; growth may fall below 2%; buy limit with margin of safety ~$56.",
+   "analyzed_at": "2026-10-18T13:58:20.490959+00:00"
+  }
+ ]
+}
