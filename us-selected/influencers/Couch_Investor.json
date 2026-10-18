@@ -4,6 +4,38 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-18T16:00:08.085057+00:00",
+   "price": "~$328 (stated current; +10% position increase, buy price not stated)",
+   "video_id": "fH5DacZxQug"
+  },
+  {
+   "ticker": "RKLB",
+   "tickerSlug": "RKLB",
+   "direction": "BUY",
+   "date": "2026-10-18T16:00:08.085057+00:00",
+   "price": "~$50 (stated current); earlier +4.6% (25 shares @ $61-62) and +3.7% increases",
+   "video_id": "fH5DacZxQug"
+  },
+  {
+   "ticker": "AXON",
+   "tickerSlug": "AXON",
+   "direction": "BUY",
+   "date": "2026-10-18T16:00:08.085057+00:00",
+   "price": "$409 (stated, +15% position increase)",
+   "video_id": "fH5DacZxQug"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-10-18T16:00:08.085057+00:00",
+   "price": "~$165 (stated current); bought twice, 10 shares each, prices not stated (above current)",
+   "video_id": "fH5DacZxQug"
+  },
+  {
    "ticker": "AXON",
    "tickerSlug": "AXON",
    "direction": "BUY",
