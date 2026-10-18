@@ -4,6 +4,14 @@
  "slug": "The_German_Value_Investor",
  "calls": [
   {
+   "ticker": "PEP",
+   "tickerSlug": "PEP",
+   "direction": "SELL",
+   "date": "2026-10-18T12:55:50.537284+00:00",
+   "price": "$126 (stated)",
+   "video_id": "J-OmpNfuFX0"
+  },
+  {
    "ticker": "LVMH",
    "tickerSlug": "LVMH",
    "direction": "CONDITIONAL_BUY",
