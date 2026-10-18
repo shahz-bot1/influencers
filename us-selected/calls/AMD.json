@@ -3,6 +3,24 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "SzdxupnhTfY",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "The AI Sell Off is HERE   3 Stocks to BUY the DIP on",
+   "published_at": "2026-10-18T14:00:08.085057+00:00",
+   "analyzed_at": "2026-10-18T18:03:21.343164+00:00",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "price_at_call": "not stated (brief disclosure: recently added to his position)",
+   "thesis": "Stance flip CONDITIONAL_BUY->BUY (condition met, executed): brief disclosure inside the Nvidia segment - 'AMD is a stock I absolutely love... I recently added to my position there' - vs his Oct 13 CONDITIONAL_BUY stance.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "collab": false,
+   "flip": false,
+   "stance_flip": "CONDITIONAL_BUY->BUY (condition met, executed)"
+  },
+  {
    "video_id": "zBe2yTeqTEc",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -170,20 +188,20 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
    "channel": "Couch Investor",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
