@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T22:07:10.463033+00:00",
+ "updated": "2026-10-18T22:06:33.856245+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -135,12 +135,17 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-10-14T22:55:31.471829+00:00",
+   "lastDate": "2026-10-18T14:00:08.085057+00:00",
    "chips": [
     {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
+    {
      "dir": "CONDITIONAL_BUY",
-     "n": 2,
-     "avg": "$1"
+     "n": 1,
+     "avg": null
     },
     {
      "dir": "HOLD",
@@ -149,13 +154,13 @@
     }
    ],
    "influencers": [
-    "MarketBeat",
     "Mark Roussin CPA",
+    "MarketBeat",
     "Couch Investor",
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "~$1T market cap (stated, just under; no share price stated)",
-   "nCalls": 11
+   "nCalls": 12
   },
   {
    "ticker": "AMZN",
@@ -294,12 +299,12 @@
   {
    "ticker": "AVGO",
    "slug": "AVGO",
-   "lastDate": "2026-10-13T20:58:27.472045+00:00",
+   "lastDate": "2026-10-18T16:00:08.085057+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$366"
+     "avg": "$174"
     }
    ],
    "influencers": [
@@ -309,24 +314,24 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "$362 (stated, bought 7 extra shares, +16.28% position, ~$2,500)",
-   "nCalls": 13
+   "nCalls": 15
   },
   {
    "ticker": "AXON",
    "slug": "AXON",
-   "lastDate": "2026-10-14T19:59:00.406752+00:00",
+   "lastDate": "2026-10-18T16:00:08.085057+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$409"
     }
    ],
    "influencers": [
     "Couch Investor"
    ],
-   "lastStated": "bought more today after ~10% dip",
-   "nCalls": 2
+   "lastStated": "$409 (stated, +15% position increase)",
+   "nCalls": 3
   },
   {
    "ticker": "BE",
@@ -867,6 +872,23 @@
    "nCalls": 2
   },
   {
+   "ticker": "FIX",
+   "slug": "FIX",
+   "lastDate": "2026-10-18T12:59:50.537284+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "FTNT",
    "slug": "FTNT",
    "lastDate": "2026-10-04T15:59:59.567519+00:00",
@@ -1008,8 +1030,13 @@
   {
    "ticker": "HIMS",
    "slug": "HIMS",
-   "lastDate": "2026-09-26T05:59:20.040279+00:00",
+   "lastDate": "2026-10-18T15:00:08.085057+00:00",
    "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$26.9"
+    },
     {
      "dir": "AVOID",
      "n": 1,
@@ -1017,10 +1044,11 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "MarketBeat"
    ],
-   "lastStated": "~$29 (stated); consensus PT ~$32 (~10-11% upside)",
-   "nCalls": 1
+   "lastStated": "DCF FV $26.90 (stated) vs current ~$26 (stated ~3% gap); forward P/E 37.6",
+   "nCalls": 2
   },
   {
    "ticker": "HPE",
@@ -1086,6 +1114,23 @@
    ],
    "influencers": [
     "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "INOD",
+   "slug": "INOD",
+   "lastDate": "2026-10-18T12:59:50.537284+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
    ],
    "lastStated": "",
    "nCalls": 1
@@ -1395,12 +1440,12 @@
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-10-12T21:06:30.463501+00:00",
+   "lastDate": "2026-10-18T11:55:50.537284+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$728"
+     "avg": "$734"
     },
     {
      "dir": "HOLD",
@@ -1409,12 +1454,12 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Joseph Carlson After Hours",
-    "Couch Investor",
-    "Parkevtate Vosianc CFA"
+    "Couch Investor"
    ],
-   "lastStated": "stock up ~4% on the day (stated); he argues it should trade at 26-27x forward P/",
-   "nCalls": 8
+   "lastStated": "$734 (stated, at recording)",
+   "nCalls": 9
   },
   {
    "ticker": "MMM",
@@ -1581,17 +1626,12 @@
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-10-16T05:55:29.280250+00:00",
+   "lastDate": "2026-10-18T16:00:08.085057+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
-     "avg": null
-    },
-    {
-     "dir": "CONDITIONAL_BUY",
-     "n": 1,
-     "avg": "$200"
+     "n": 2,
+     "avg": "$165"
     },
     {
      "dir": "HOLD",
@@ -1605,23 +1645,23 @@
     }
    ],
    "influencers": [
-    "Parkevtate Vosianc CFA",
     "Couch Investor",
+    "Parkevtate Vosianc CFA",
     "MarketBeat",
     "BWB - Business With Brian"
    ],
    "lastStated": "$186 (stated current); fair value $225 (stated, ~21% upside)",
-   "nCalls": 7
+   "nCalls": 8
   },
   {
    "ticker": "NFLX",
    "slug": "NFLX",
-   "lastDate": "2026-10-14T13:46:04.267425+00:00",
+   "lastDate": "2026-10-18T16:00:08.085057+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$68.5"
+     "avg": "$68.36"
     },
     {
      "dir": "HOLD",
@@ -1634,8 +1674,8 @@
     "Couch Investor",
     "Joseph Carlson After Hours"
    ],
-   "lastStated": "$70 (stated current); FV $115 (stated, ~64% upside over 12-18 months)",
-   "nCalls": 9
+   "lastStated": "$69.72 (stated current); FV ~$115 (stated 65% upside over 12-18 months)",
+   "nCalls": 10
   },
   {
    "ticker": "NICE",
@@ -1750,22 +1790,22 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-10-05T18:58:26.932338+00:00",
+   "lastDate": "2026-10-18T14:00:08.085057+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": null
+     "avg": "$13.5"
     }
    ],
    "influencers": [
+    "Mark Roussin CPA",
     "Couch Investor",
     "Parkevtate Vosianc CFA",
-    "BWB - Business With Brian",
-    "Mark Roussin CPA"
+    "BWB - Business With Brian"
    ],
    "lastStated": "~$230 (26 shares, ~$6k)",
-   "nCalls": 16
+   "nCalls": 17
   },
   {
    "ticker": "NVO",
@@ -1789,6 +1829,23 @@
    ],
    "lastStated": "34.0",
    "nCalls": 2
+  },
+  {
+   "ticker": "NVT",
+   "slug": "NVT",
+   "lastDate": "2026-10-18T12:59:50.537284+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "NVTS",
@@ -1822,6 +1879,23 @@
     "MarketBeat"
    ],
    "lastStated": "~$7.48; consensus PT ~$17.18 (~130% upside)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "ONTO",
+   "slug": "ONTO",
+   "lastDate": "2026-10-18T12:59:50.537284+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "",
    "nCalls": 1
   },
   {
@@ -1942,19 +2016,25 @@
   {
    "ticker": "PEP",
    "slug": "PEP",
-   "lastDate": "2026-10-12T16:00:27.856497+00:00",
+   "lastDate": "2026-10-18T12:55:50.537284+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
      "avg": "$124"
+    },
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": "$126"
     }
    ],
    "influencers": [
+    "The German Value Investor",
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "$124 (stated market; DCF fair value $178)",
-   "nCalls": 3
+   "lastStated": "$126 (stated)",
+   "nCalls": 4
   },
   {
    "ticker": "PFE",
@@ -2196,8 +2276,13 @@
   {
    "ticker": "RKLB",
    "slug": "RKLB",
-   "lastDate": "2026-10-17T00:55:29.280250+00:00",
+   "lastDate": "2026-10-18T16:00:08.085057+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$50"
+    },
     {
      "dir": "AVOID",
      "n": 1,
@@ -2205,10 +2290,11 @@
     }
    ],
    "influencers": [
+    "Couch Investor",
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "$53 (stated current, after ~10% fall on the day); fair value $22 (stated)",
-   "nCalls": 1
+   "lastStated": "~$50 (stated current); earlier +4.6% (25 shares @ $61-62) and +3.7% increases",
+   "nCalls": 2
   },
   {
    "ticker": "SBUX",
@@ -2806,19 +2892,25 @@
   {
    "ticker": "VRT",
    "slug": "VRT",
-   "lastDate": "2026-06-20T13:00:08+00:00",
+   "lastDate": "2026-10-18T14:00:08.085057+00:00",
    "chips": [
     {
      "dir": "BUY",
+     "n": 1,
+     "avg": "$33"
+    },
+    {
+     "dir": "CONDITIONAL_BUY",
      "n": 1,
      "avg": null
     }
    ],
    "influencers": [
+    "Mark Roussin CPA",
     "BWB - Business With Brian"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 3
   },
   {
    "ticker": "VZ",
@@ -2957,15 +3049,15 @@
    "name": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
    "slug": "BWB_Business_With_Brian",
-   "nCalls": 57,
-   "nVideos": 9
+   "nCalls": 62,
+   "nVideos": 10
   },
   {
    "name": "Couch Investor",
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
-   "nCalls": 58,
-   "nVideos": 50
+   "nCalls": 62,
+   "nVideos": 51
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -2978,8 +3070,8 @@
    "name": "Mark Roussin CPA",
    "handle": "@markroussincpa",
    "slug": "Mark_Roussin_CPA",
-   "nCalls": 39,
-   "nVideos": 13
+   "nCalls": 43,
+   "nVideos": 14
   },
   {
    "name": "MarketBeat",
@@ -2992,18 +3084,88 @@
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 123,
-   "nVideos": 125
+   "nCalls": 126,
+   "nVideos": 128
   },
   {
    "name": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
    "slug": "The_German_Value_Investor",
-   "nCalls": 6,
-   "nVideos": 6
+   "nCalls": 7,
+   "nVideos": 7
   }
  ],
  "videos": [
+  {
+   "id": "fH5DacZxQug",
+   "title": "I Put $10,000 Into 5 Stocks During This Selloff. Here’s Why",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-18T16:00:08.085057+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "XOmt1qanNWc",
+   "title": "Interesting News for Netflix Stock Investors | NFLX STock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-18T16:00:08.085057+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "WZIfLpuA3eo",
+   "title": "Hims Is Reaching 3 Million Member Milestone",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-18T15:00:08.085057+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "SzdxupnhTfY",
+   "title": "The AI Sell Off is HERE   3 Stocks to BUY the DIP on",
+   "creator": "Mark Roussin CPA",
+   "channels": [
+    "Mark Roussin CPA"
+   ],
+   "published_at": "2026-10-18T14:00:08.085057+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "k1xJbNAGmFg",
+   "title": "This Hasn’t Happened Since 2006!",
+   "creator": "BWB - Business With Brian",
+   "channels": [
+    "BWB - Business With Brian"
+   ],
+   "published_at": "2026-10-18T12:59:50.537284+00:00",
+   "nCalls": 5
+  },
+  {
+   "id": "J-OmpNfuFX0",
+   "title": "PepsiCo Stock: A Dividend King at a 10-Year Low?",
+   "creator": "The German Value Investor",
+   "channels": [
+    "The German Value Investor"
+   ],
+   "published_at": "2026-10-18T12:55:50.537284+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "YNdllTBJmJ0",
+   "title": "Should You Buy Meta Stock Before the Huge Investor Update?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-18T11:55:50.537284+00:00",
+   "nCalls": 1
+  },
   {
    "id": "lID8YfUBkZI",
    "title": "Mercadolibre Stock Analysis: Buy, Hold, or Sell? | MELI Stock Analysis",
