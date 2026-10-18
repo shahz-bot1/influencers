@@ -3,6 +3,23 @@
  "slug": "HIMS",
  "calls": [
   {
+   "video_id": "WZIfLpuA3eo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Hims Is Reaching 3 Million Member Milestone",
+   "published_at": "2026-10-18T15:00:08.085057+00:00",
+   "analyzed_at": "2026-10-18T18:03:21.343164+00:00",
+   "ticker": "HIMS",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "DCF FV $26.90 (stated) vs current ~$26 (stated ~3% gap); forward P/E 37.6",
+   "thesis": "First tracked Parkev call on Hims & Hers: reiterates his 14 Sep rating of 'buying opportunity, medium conviction' but is waiting for a more attractive entry - the stock is fairly valued today and volatile, so he expects a better dip. Revenue +40% to $753M, ~3M members after 300k net adds, international revenue up 17x to $131M after the Eucalyptus deal; long-term guide $6.5B revenue / $1.3B adj. EBITDA vs $2.6B TTM revenue.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Margins are contracting while revenue grows: operating margin 0.3% (was ~8%), ROIC reversed from ~35% to -8.4%; heavy further investment in manufacturing, marketing and expansion still needed.",
+   "collab": false,
+   "flip": false
+  },
+  {
    "video_id": "qnhZxRrFN-Y",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -18,8 +35,12 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 1
   }
  ]
 }
