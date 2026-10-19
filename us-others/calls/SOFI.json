@@ -3,6 +3,16 @@
  "slug": "SOFI",
  "calls": [
   {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "thesis": "Back in on a second leg and sticking with the shares: SoFi recently became the first national bank to go live with stablecoin settlement across Mastercard's payments network (captions: 'global patent payments network'), which he thinks the market overlooked; instant settlement frees bank capital. Expects it past $20 over the next year, toward past 2x book value from ~1.8x now.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "Bought back in at $15.89; ~1.8x price-to-book; target past $20"
+  },
+  {
    "video_id": "6scmMOSLPM4",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -28,11 +38,11 @@
  ],
  "byInf": [
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Asymmetric Investing",
    "idx": 1
   }
  ]
