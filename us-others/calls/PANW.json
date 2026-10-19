@@ -3,6 +3,16 @@
  "slug": "PANW",
  "calls": [
   {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PANW",
+   "direction": "HOLD",
+   "thesis": "Held in the same cybersecurity group; largest company in the space with scale/scope, 20% forward revenue growth, up 126% since he started buying — but, like CrowdStrike, a little more expensive than he likes here, with no specific new buy stated for this name.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated; down almost 8% on Friday and ~17% over five days"
+  },
+  {
    "video_id": "Zrbf8mXwsG4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
