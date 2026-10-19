@@ -3,6 +3,22 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "v7HZ3VIPa3E",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 AI Stocks to Buy After the Market Sell-Off!",
+   "published_at": "2026-10-19T16:02:54.535429+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$340 (stated); ~20–21x forward earnings",
+   "thesis": "Collaboration with The Motley Fool: Neil's second pick, the 'anti-Nvidia' — he is a shareholder and views it as a favorable risk-reward pick as hyperscalers co-design custom silicon with Broadcom to diversify away from Nvidia. Reiteration of his 18 Oct BUY.",
+   "base_case": "Management guides AI revenue doubling to $115B next year and ~$230B the year after, with ~$30 EPS in 2028 vs a ~$340 price; the business already generates tens of billions in free cash flow.",
+   "bull_case": "More big customers (Meta, Google, Anthropic, OpenAI) adopt custom silicon and AI revenue visibility converts at full ramp.",
+   "bear_case": "Anthropic/OpenAI concentration and circular-financing risk: if those customers grow slower than expected, Broadcom feels it.",
+   "analyzed_at": "2026-10-19T18:49:55.147472+00:00"
+  },
+  {
    "video_id": "fH5DacZxQug",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -234,15 +250,15 @@
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
