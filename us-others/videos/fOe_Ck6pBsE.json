@@ -1,0 +1,79 @@
+{
+ "video_id": "fOe_Ck6pBsE",
+ "title": "10 AI Stocks Down as Much as 25% — Is the Market Wrong?",
+ "creator": "Jose Najarro Stocks",
+ "published_at": "2026-10-18T22:55:52.322455+00:00",
+ "summary": "Jose Najarro works through 10 AI stocks across five parts of the AI build-out after a 9-16 October sell-off he attributes mainly to AI financing fears centred on CoreWeave's debt, arguing the long-term AI story is still early and TSMC/ASML commentary confirms demand for years. In neoclouds he is very bullish on CoreWeave (CRWV) — $105bn-plus backlog, 1.5 GW, enterprise expansion — and gives Nebius (NBIS) a positive but non-committal review, noting he does not own it. In memory, Micron (MU) is a new, small portfolio position on locked-in customer agreements and HBM pricing, and he likes FormFactor (FORM) at ~$105 and plans to buy back in. In optics he covers Lumentum (LITE), which he does not own, and Applied Optoelectronics (AAOI). In AI chips he covers Marvell (MRVL) and Cerebras (CBRS) cautiously on valuation and competition. Networking is a favourite area: Credo (CRDO) is a top pick at a ~25.5x forward P/E, and Astera Labs (ALAB) is a held, bullish name despite a ~66x near-term multiple. He discloses he bought stocks in the sell-off and does not own NBIS, FORM or LITE. Calls: CRWV BUY, NBIS UNCERTAIN, MU BUY, FORM BUY, LITE UNCERTAIN, AAOI BUY, MRVL BUY, CBRS UNCERTAIN, CRDO BUY, ALAB BUY. Captions garble names throughout — Nebius as 'Nebulae', Lumentum as 'Lights', Cerebras as 'Coriant'/'So Reapers' — and several figures (Micron revenue, AAOI unit capacity, Lumentum's ~$820 price) are caption-uncertain; Soitec was named in the opening list of 10 but got no dedicated section.",
+ "calls": [
+  {
+   "video_id": "fOe_Ck6pBsE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "thesis": "Very bullish, his favoured neocloud: revenue +112%, ~1.5 GW capacity with no peer close, expanding from frontier labs into enterprise (Bentley, Caterpillar, Isomorphic, Cognition, Databricks, Hudson River Trading), managed inference ARR over $100m guided to $250m by year-end, and backlog almost $105bn at 30 June plus over $25bn added early in Q3 (so likely north of $130bn, ~40% due within 24 months). The sell-off is financing fear centred on CoreWeave, not a thesis break.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No share price stated; down ~25% from 9-16 Oct with the group"
+  },
+  {
+   "video_id": "fOe_Ck6pBsE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "MU",
+   "direction": "BUY",
+   "thesis": "New investment in his portfolio (small, under ~3-4%, deliberately cautious on memory cyclicality, taken for memory exposure): $54bn revenue in the most recent quarter per captions, 26 strategic customer agreements locking in ~35% of revenue through 2030 with pricing floors better than any prior cycle, $32bn of customer financial commitments, HBM pricing for calendar 2027 higher YoY, buybacks starting, and a forward P/E of ~4.09 on high-end FY27 EPS.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No share price stated; down 14.6% from 9-16 Oct; forward P/E ~4.09 cited"
+  },
+  {
+   "video_id": "fOe_Ck6pBsE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "FORM",
+   "direction": "BUY",
+   "thesis": "Likes it at this price and plans to buy a little more over time: FormFactor's HBM/memory test and probe-card demand rises with HBM complexity, it has multiple design wins at large fabless XPU makers, and optical/CPO test is an added leg (management guided 2026 CPO revenue significantly above $20m). He previously sold in the 150s and currently does not own it.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "Around $105; forward P/E ~33 on high-end estimates for the next ~5 months"
+  },
+  {
+   "video_id": "fOe_Ck6pBsE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AAOI",
+   "direction": "BUY",
+   "thesis": "Bullish coverage of a held name: revenue +86-87% YoY and +27% QoQ, 800G deliveries ramping since Q2, 1.6T qualification/initial shipments expected this quarter, capacity rising from ~200k units/month toward 650k by year-end and ~930k by end-2027 per captions, with in-house laser production as a supply and margin advantage in a shortage market.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated"
+  },
+  {
+   "video_id": "fOe_Ck6pBsE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "thesis": "Bullish coverage of a held name (owned for both AI chips and networking): revenue +36.5% YoY, custom XPU plus XPU-attach (scale-up fabrics, memory, CXL, co-processors) market expected to more than double by fiscal 2028 per its investor day, and 1.6T/scale-out switching growth — while noting it is one of the more expensive names here at a forward FY27 P/E of ~49.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated"
+  },
+  {
+   "video_id": "fOe_Ck6pBsE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRDO",
+   "direction": "BUY",
+   "thesis": "One of his favourite networking plays and a held name: revenue +114% YoY and ~10% QoQ, next-quarter guide ~$535m at the top end with conservative management, active electrical cables remain a large business despite optics fears, and silver-flat optics/silicon photonics (Dust Photonics acquisition) add new streams — forward FY27 P/E ~25.5, which he calls very attractive.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No share price stated; down ~21.6% from 9-16 Oct; forward P/E ~25.5 cited"
+  },
+  {
+   "video_id": "fOe_Ck6pBsE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "ALAB",
+   "direction": "BUY",
+   "thesis": "Bullish coverage of a held networking name: revenue +105% YoY and +27% QoQ, PCIe 4/5/6 still selling with 7 sampling in Q4 2026, Scorpio scale-up switching in growing volume production with lead customers ramping — expensive near-term (forward P/E ~66 within ~4 months) but he expects the next 18 months to make it much cheaper; networking is, in his view, one of the most overlooked AI spaces.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated; forward P/E ~66 near-term cited"
+  }
+ ]
+}
