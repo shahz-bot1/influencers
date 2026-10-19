@@ -4,6 +4,22 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "AFRM",
+   "tickerSlug": "AFRM",
+   "direction": "BUY",
+   "date": "2026-10-19T17:02:54.535429+00:00",
+   "price": "$74 (stated current); DCF fair value $73.16",
+   "video_id": "3m_ctu3RWcc"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-10-19T15:02:54.535429+00:00",
+   "price": "$422 (stated current); DCF fair value $584",
+   "video_id": "vBt4asdgxoI"
+  },
+  {
    "ticker": "NFLX",
    "tickerSlug": "NFLX",
    "direction": "BUY",
