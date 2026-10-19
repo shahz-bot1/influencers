@@ -3,6 +3,24 @@
  "slug": "NOW",
  "calls": [
   {
+   "video_id": "tNp6Mj3v_1k",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This ‘Always’ Happens to Stocks in a Midterm Year (It’s Happening Again Now) ",
+   "published_at": "2026-10-18T22:55:45.214166+00:00",
+   "analyzed_at": "2026-10-19T05:58:20.940216+00:00",
+   "guest": "Mark Chaikin (Chaikin Analytics)",
+   "collab": false,
+   "flip": false,
+   "ticker": "NOW",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Mark Chaikin: BUY reiterated (was BUY on 2026-09-30 in his last MarketBeat appearance; no flip). ServiceNow is breaking out to a new 6-month high after an analyst upgrade, up ~6.5-7% on the day AI names fell; it consolidates customer-support/workflow systems at large companies and cannot easily be replaced, and its business is mostly corporate, not government.",
+   "base_case": "AI is being integrated into ServiceNow's own product offerings rather than marginalising it; shares have not yet recovered their Dec-Jan high.",
+   "bull_case": "The next earnings report 'is going to open people's eyes' to what big software firms can do once they incorporate AI into their software.",
+   "bear_case": null
+  },
+  {
    "video_id": "UFkvt5QjRWI",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -38,7 +56,7 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
