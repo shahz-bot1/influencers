@@ -4,6 +4,22 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-10-19T16:02:54.535429+00:00",
+   "price": "~$50B market cap (stated); no share price stated",
+   "video_id": "v7HZ3VIPa3E"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-19T16:02:54.535429+00:00",
+   "price": "~$340 (stated); ~20–21x forward earnings",
+   "video_id": "v7HZ3VIPa3E"
+  },
+  {
    "ticker": "AVGO",
    "tickerSlug": "AVGO",
    "direction": "BUY",
