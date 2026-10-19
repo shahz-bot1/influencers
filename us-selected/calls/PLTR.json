@@ -3,6 +3,24 @@
  "slug": "PLTR",
  "calls": [
   {
+   "video_id": "tNp6Mj3v_1k",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This ‘Always’ Happens to Stocks in a Midterm Year (It’s Happening Again Now) ",
+   "published_at": "2026-10-18T22:55:45.214166+00:00",
+   "analyzed_at": "2026-10-19T05:58:20.940216+00:00",
+   "guest": "Mark Chaikin (Chaikin Analytics)",
+   "collab": false,
+   "flip": false,
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Mark Chaikin: BUY reiterated (his last MarketBeat call was BUY on 2026-09-30; no same-voice flip — the channel's interim HOLD on 2026-10-03 was host Bridget, a different speaker). Palantir is a disruptor in defence/government and enterprise data processing, pulled back after a recent new high and stabilising; 'a stock you want to own for the next 6 to 12 months' and 'a great buying opportunity here' into the midterm sweet spot.",
+   "base_case": "Midterm low has been seen (100 years / 24 midterms: market bottoms mid-October, median +22% to the following summer peak); pullbacks of 1-3 days are the entry, and he expects a new high within about a month.",
+   "bull_case": "Expects a blowout quarter on Mon 2 Nov earnings; commercial sales growing substantially alongside government, and contracts already baked in are hard to replace once embedded.",
+   "bear_case": null
+  },
+  {
    "video_id": "fpxGxoeAQRM",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -75,20 +93,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "Couch Investor",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
