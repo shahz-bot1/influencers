@@ -3,6 +3,24 @@
  "slug": "CRWD",
  "calls": [
   {
+   "video_id": "tNp6Mj3v_1k",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This ‘Always’ Happens to Stocks in a Midterm Year (It’s Happening Again Now) ",
+   "published_at": "2026-10-18T22:55:45.214166+00:00",
+   "analyzed_at": "2026-10-19T05:58:20.940216+00:00",
+   "guest": "Mark Chaikin (Chaikin Analytics)",
+   "collab": false,
+   "flip": false,
+   "ticker": "CRWD",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Mark Chaikin: BUY reiterated (MarketBeat's last explicit CRWD call was BUY by guest Pete Carmacito of Chaikin Analytics; the 2026-10-15 entry was UNCERTAIN — no flip). CrowdStrike has pulled back a little over 10% in the last week after roughly doubling year to date; 'very definitely' a buying opportunity and he expects it a lot higher by year end as AI adoption makes cybersecurity essential.",
+   "base_case": "Cybersecurity spending depends on corporate/government capex, which he expects to flow again once midterm uncertainty lifts; post-election gridlock is, in his view, good for corporate decision-making.",
+   "bull_case": "Agentic software on personal computers (he cites Meta's Muse agent launch and 500M+ downloads) puts home networks at risk and expands the threat surface CrowdStrike protects.",
+   "bear_case": null
+  },
+  {
    "video_id": "JYF40KTxQpA",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -76,16 +94,16 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 2
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   },
   {
-   "channel": "MarketBeat",
-   "idx": 4
+   "channel": "Mark Roussin CPA",
+   "idx": 3
   }
  ]
 }
