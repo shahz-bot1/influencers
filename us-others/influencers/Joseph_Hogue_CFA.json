@@ -4,6 +4,102 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "ETHA",
+   "tickerSlug": "ETHA",
+   "direction": "HOLD",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No share price stated; Ethereum down 18% for the year; his target is $4,000-$5,000 per token by end of next year (caption price figures are garbled)",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
+   "ticker": "SMCI",
+   "tickerSlug": "SMCI",
+   "direction": "SELL",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "Recently rallied past $45; exit zone $40-$45; covered calls struck $35-$40",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
+   "ticker": "BABA",
+   "tickerSlug": "BABA",
+   "direction": "BUY",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "$109 per share",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
+   "ticker": "SYM",
+   "tickerSlug": "SYM",
+   "direction": "HOLD",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "In at $25, still up ~55%; down from a $60-$70 peak; down 2.5% on Friday (no current share price stated)",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
+   "ticker": "CRWD",
+   "tickerSlug": "CRWD",
+   "direction": "HOLD",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No price stated; down ~7% on Friday and ~16% over five days",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
+   "ticker": "PANW",
+   "tickerSlug": "PANW",
+   "direction": "HOLD",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No price stated; down almost 8% on Friday and ~17% over five days",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
+   "direction": "HOLD",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No price stated; down ~7% on Friday and ~13% over five days",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
+   "ticker": "OKTA",
+   "tickerSlug": "OKTA",
+   "direction": "HOLD",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No price stated; down ~20% over five days, the worst in the group",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
+   "ticker": "ZS",
+   "tickerSlug": "ZS",
+   "direction": "BUY",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No price stated; down ~6% on Friday and ~11% over five days",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "BUY",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "Bought back in at $15.89; ~1.8x price-to-book; target past $20",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
+   "ticker": "SOUN",
+   "tickerSlug": "SOUN",
+   "direction": "HOLD",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "Bought back in just under $9 (May); down 47% on the position per captions; target $10-$15",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
+   "ticker": "GRAB",
+   "tickerSlug": "GRAB",
+   "direction": "HOLD",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "Average cost ~$3; sees a return to $6 (no current price stated)",
+   "video_id": "IaSD9j5O_ZQ"
+  },
+  {
    "ticker": "INTC",
    "tickerSlug": "INTC",
    "direction": "AVOID",
