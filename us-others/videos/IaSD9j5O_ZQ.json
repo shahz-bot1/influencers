@@ -1,0 +1,129 @@
+{
+ "video_id": "IaSD9j5O_ZQ",
+ "title": "$160K Down in ONE DAY! Why I'm BUYING These 15 Stocks",
+ "creator": "Joseph Hogue, CFA",
+ "published_at": "2026-10-18T16:55:52.322455+00:00",
+ "summary": "Joseph Hogue reviews his main E*Trade portfolio after Friday's AI sell-off left his top 15 holdings down $160,000 in a day, partly hedged with call options. He is holding his two Ethereum trusts (ETHA and the Grayscale mini ETH trust), arguing SEC moves toward tokenised stocks make Ethereum the backbone of tokenised finance, with a $4,000-$5,000 target by the end of next year. He is closing out Super Micro Computer (SMCI) via $35-$40 January covered calls and an exit on a $40-$45 rebound, despite still seeing valuation upside. He plans to roughly double his 1,500-share Alibaba (BABA) position at $109 before early-November earnings, betting its Qwen open-source model wins as token volumes explode, and he is still holding Symbotic (SYM). In cybersecurity — his favourite long-term theme — he is picking up more Zscaler (ZS), pauses on Fortinet (FTNT) and Okta (OKTA), and holds CrowdStrike (CRWD) and Palo Alto (PANW). He also endorses SoFi (SOFI) back in at $15.89, holds SoundHound (SOUN) and Grab (GRAB), and trails a Wednesday video on rotating from AI hardware into application names such as SoundHound, Cloudflare, ServiceNow, Snowflake and Salesforce. Calls: ETHA HOLD, SMCI SELL, BABA BUY, SYM HOLD, CRWD HOLD, PANW HOLD, FTNT HOLD, OKTA HOLD, ZS BUY, SOFI BUY, SOUN HOLD, GRAB HOLD, NOW UNCERTAIN. Captions garble several items — Alibaba's model as 'Qin', Mastercard's payments network as 'global patent payments network', and Ethereum price history — tickers and stances above are the companies actually discussed.",
+ "calls": [
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ETHA",
+   "direction": "HOLD",
+   "thesis": "Holding onto his two Ethereum trusts (ETHA plus the Grayscale mini ETH trust, about $1.7m combined, still up ~$300k despite -$28k on Friday); investing in Ethereum as the backbone for tokenised real-world assets after the SEC cleared a path for tokenised stocks, and expects Ethereum back to $4,000-$5,000 by the end of next year.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No share price stated; Ethereum down 18% for the year; his target is $4,000-$5,000 per token by end of next year (caption price figures are garbled)"
+  },
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SMCI",
+   "direction": "SELL",
+   "thesis": "Looking to close out the whole position: ~27,000 shares, covered calls at $35-$40 expiring in January, and he will exit when it rebounds to $40-$45 (he still thinks $40-$45/$50 is reachable on valuation and its AI server position). Tired of the volatility and management/accounting problems; still up ~$93k plus covered-call income.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "Recently rallied past $45; exit zone $40-$45; covered calls struck $35-$40"
+  },
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BABA",
+   "direction": "BUY",
+   "thesis": "Looking to add, probably about double his 1,500-share position over the next couple of weeks before early-November earnings. Thesis: Alibaba's Qwen open-source model (captions: 'Qin') benefits as firms flee expensive closed frontier models — Chinese open-source models processed 76 trillion tokens in the week ended 27 Sep, up from 4.3 trillion in late April — and he expects that growth to show in the next report after a disappointing spending-heavy last report.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "$109 per share"
+  },
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SYM",
+   "direction": "HOLD",
+   "thesis": "Still holding on: believes Symbotic changes warehousing/logistics via its Walmart partnership (warehouse robotics/delivery systems) and a SoftBank partnership internationally, despite the fall from its peak.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "In at $25, still up ~55%; down from a $60-$70 peak; down 2.5% on Friday (no current share price stated)"
+  },
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "CRWD",
+   "direction": "HOLD",
+   "thesis": "Held as part of his favourite long-term cybersecurity theme; group sold off 11-20% in five days (CrowdStrike -16%), which he calls a great buying opportunity in aggregate, but he notes CrowdStrike and Palo Alto are a little more expensive than he likes — no specific new buy stated for this name. Falcon platform called the best in the group, 23% forward revenue growth.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated; down ~7% on Friday and ~16% over five days"
+  },
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PANW",
+   "direction": "HOLD",
+   "thesis": "Held in the same cybersecurity group; largest company in the space with scale/scope, 20% forward revenue growth, up 126% since he started buying — but, like CrowdStrike, a little more expensive than he likes here, with no specific new buy stated for this name.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated; down almost 8% on Friday and ~17% over five days"
+  },
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FTNT",
+   "direction": "HOLD",
+   "thesis": "Explicit pause: he probably would not pick up a whole lot more Fortinet (or Okta) just yet — at ~3x price-to-earnings adjusted for growth it is a little more expensive versus its history, in slower-growing segments (15% growth), though profitability is its strength. Down from his prior BUY stance.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated; down ~7% on Friday and ~13% over five days"
+  },
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "OKTA",
+   "direction": "HOLD",
+   "thesis": "First tracked Okta call: held in the cybersecurity group, but he probably would not pick up a whole lot more just yet — ~3x PEG, smaller identity-access segment, slowest growth in the group at ~11%.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated; down ~20% over five days, the worst in the group"
+  },
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "thesis": "Picking up more shares: his value pick in cybersecurity — under 2x price-to-earnings adjusted for growth, 20% expected revenue growth, and it fell least in the sell-off because it had already lagged this year.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated; down ~6% on Friday and ~11% over five days"
+  },
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "thesis": "Back in on a second leg and sticking with the shares: SoFi recently became the first national bank to go live with stablecoin settlement across Mastercard's payments network (captions: 'global patent payments network'), which he thinks the market overlooked; instant settlement frees bank capital. Expects it past $20 over the next year, toward past 2x book value from ~1.8x now.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "Bought back in at $15.89; ~1.8x price-to-book; target past $20"
+  },
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOUN",
+   "direction": "HOLD",
+   "thesis": "Holding a second-leg position bought back in just under $9 in May and now his biggest red holding; thinks SoundHound gets back past $10-$15 over the next couple of years as a leading AI application/software name in the transition away from AI hardware/infrastructure.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "Bought back in just under $9 (May); down 47% on the position per captions; target $10-$15"
+  },
+  {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "GRAB",
+   "direction": "HOLD",
+   "thesis": "Still holding: calls Grab the super app nobody is talking about — dominant in finance, delivery and mobility across ~17 Southeast Asian countries; thinks it either gets acquired (possibly by Uber) or keeps growing, and can get back to $6 very quickly.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "Average cost ~$3; sees a return to $6 (no current price stated)"
+  }
+ ]
+}
