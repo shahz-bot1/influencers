@@ -1,0 +1,41 @@
+{
+ "video_id": "v7HZ3VIPa3E",
+ "title": "4 AI Stocks to Buy After the Market Sell-Off!",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-19T16:02:54.535429+00:00",
+ "summary": "A Motley Fool collaboration in which Neil (Couch Investor) and the Motley Fool host each present two quality AI buys after the market sell-off, favouring well-capitalised, cash-generating names over debt-reliant ones. Neil picks Nebius — best-in-class AI cloud, ex-Yandex team, revenue guided from $1.3B toward $23B by FY28, deliberately holding capacity back to rent megawatts at premium prices — and Broadcom, the 'anti-Nvidia' custom-silicon play at ~$340 and ~20x forward earnings, with AI revenue guided to double to $115B then ~$230B. The co-host picks Lumentum and Coherent, the optical-interconnect names benefiting as AI clusters hit the 'copper wall', both capacity-constrained into 2028–29 with Nvidia backing.",
+ "calls": [
+  {
+   "video_id": "v7HZ3VIPa3E",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 AI Stocks to Buy After the Market Sell-Off!",
+   "published_at": "2026-10-19T16:02:54.535429+00:00",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$50B market cap (stated); no share price stated",
+   "thesis": "Collaboration with The Motley Fool: Neil's first pick on the joint buy list — he owns Nebius and calls it best-in-class AI cloud / next-gen hyperscaler (ex-Yandex team; Europe, US and Middle East footprint). Reiteration of his 18 Oct BUY.",
+   "base_case": "Revenue $1.3B TTM → $3.3B this fiscal year → $12.2B next → $23B in FY28; large Microsoft/Meta contracts let it build faster and raise capital cheaper.",
+   "bull_case": "Deliberately not sold out for 2027, so it can rent megawatts at premium prices as GPU/MW prices rise, improving margins; management floats $100B revenue potential.",
+   "bear_case": "Not yet profitable and no free cash flow; neocloud debt build-out, AI overspend/ROI fears and execution risk on the growth path.",
+   "analyzed_at": "2026-10-19T18:49:55.147472+00:00"
+  },
+  {
+   "video_id": "v7HZ3VIPa3E",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 AI Stocks to Buy After the Market Sell-Off!",
+   "published_at": "2026-10-19T16:02:54.535429+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$340 (stated); ~20–21x forward earnings",
+   "thesis": "Collaboration with The Motley Fool: Neil's second pick, the 'anti-Nvidia' — he is a shareholder and views it as a favorable risk-reward pick as hyperscalers co-design custom silicon with Broadcom to diversify away from Nvidia. Reiteration of his 18 Oct BUY.",
+   "base_case": "Management guides AI revenue doubling to $115B next year and ~$230B the year after, with ~$30 EPS in 2028 vs a ~$340 price; the business already generates tens of billions in free cash flow.",
+   "bull_case": "More big customers (Meta, Google, Anthropic, OpenAI) adopt custom silicon and AI revenue visibility converts at full ramp.",
+   "bear_case": "Anthropic/OpenAI concentration and circular-financing risk: if those customers grow slower than expected, Broadcom feels it.",
+   "analyzed_at": "2026-10-19T18:49:55.147472+00:00"
+  }
+ ]
+}
