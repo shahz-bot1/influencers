@@ -7,6 +7,62 @@
    "ticker": "CRWV",
    "tickerSlug": "CRWV",
    "direction": "BUY",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No share price stated; down ~25% from 9-16 Oct with the group",
+   "video_id": "fOe_Ck6pBsE"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No share price stated; down 14.6% from 9-16 Oct; forward P/E ~4.09 cited",
+   "video_id": "fOe_Ck6pBsE"
+  },
+  {
+   "ticker": "FORM",
+   "tickerSlug": "FORM",
+   "direction": "BUY",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "Around $105; forward P/E ~33 on high-end estimates for the next ~5 months",
+   "video_id": "fOe_Ck6pBsE"
+  },
+  {
+   "ticker": "AAOI",
+   "tickerSlug": "AAOI",
+   "direction": "BUY",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No price stated",
+   "video_id": "fOe_Ck6pBsE"
+  },
+  {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "BUY",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No price stated",
+   "video_id": "fOe_Ck6pBsE"
+  },
+  {
+   "ticker": "CRDO",
+   "tickerSlug": "CRDO",
+   "direction": "BUY",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No share price stated; down ~21.6% from 9-16 Oct; forward P/E ~25.5 cited",
+   "video_id": "fOe_Ck6pBsE"
+  },
+  {
+   "ticker": "ALAB",
+   "tickerSlug": "ALAB",
+   "direction": "BUY",
+   "date": "2026-10-19T04:01:40.277005+00:00",
+   "price": "No price stated; forward P/E ~66 near-term cited",
+   "video_id": "fOe_Ck6pBsE"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
    "date": "2026-10-15T03:59:03.849525+00:00",
    "price": "no share price stated; down ~15% on the day; ~$36B market cap and 1.5 GW capacity cited; bond yields touching 15%",
    "video_id": "WZtK2549w7Q"
