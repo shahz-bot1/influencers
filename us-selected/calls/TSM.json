@@ -3,6 +3,22 @@
  "slug": "TSM",
  "calls": [
   {
+   "video_id": "vBt4asdgxoI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Great News for Taiwan Semiconductor Stock Investors | TSM Earnings Analysis",
+   "published_at": "2026-10-19T15:02:54.535429+00:00",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "$422 (stated current); DCF fair value $584",
+   "thesis": "Reiterated BUY with high conviction after Q3 earnings: revenue $47B (+41% YoY), gross margins over 66%, forward P/E 18.8 — relatively cheap for this growth, margins and moat; meaningful upside to his $584 DCF.",
+   "base_case": "2nm ramped 3%→8% of wafer revenue and 3nm is 33%; HPC is 68% of revenue; capex guided $60–64B in 2026 against sold-out capacity and customer deposits/pre-orders booked through 2027 into 2028.",
+   "bull_case": "Premium pricing and elevated utilization keep offsetting the guided margin drag from new technology and overseas fabs for longer than management expects.",
+   "bear_case": "Geopolitics (China/Taiwan) is the biggest risk; long-term gross margins guided down as manufacturing diversifies, and AI demand could slow in a few years.",
+   "analyzed_at": "2026-10-19T18:49:55.147472+00:00"
+  },
+  {
    "video_id": "vjhRZBn7dbI",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -57,11 +73,11 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   }
  ]
