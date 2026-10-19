@@ -3,6 +3,22 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "v7HZ3VIPa3E",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 AI Stocks to Buy After the Market Sell-Off!",
+   "published_at": "2026-10-19T16:02:54.535429+00:00",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$50B market cap (stated); no share price stated",
+   "thesis": "Collaboration with The Motley Fool: Neil's first pick on the joint buy list — he owns Nebius and calls it best-in-class AI cloud / next-gen hyperscaler (ex-Yandex team; Europe, US and Middle East footprint). Reiteration of his 18 Oct BUY.",
+   "base_case": "Revenue $1.3B TTM → $3.3B this fiscal year → $12.2B next → $23B in FY28; large Microsoft/Meta contracts let it build faster and raise capital cheaper.",
+   "bull_case": "Deliberately not sold out for 2027, so it can rent megawatts at premium prices as GPU/MW prices rise, improving margins; management floats $100B revenue potential.",
+   "bear_case": "Not yet profitable and no free cash flow; neocloud debt build-out, AI overspend/ROI fears and execution risk on the growth path.",
+   "analyzed_at": "2026-10-19T18:49:55.147472+00:00"
+  },
+  {
    "video_id": "fH5DacZxQug",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -142,15 +158,15 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "MarketBeat",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
