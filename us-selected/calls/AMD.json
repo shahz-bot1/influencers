@@ -3,6 +3,25 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "tNp6Mj3v_1k",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This ‘Always’ Happens to Stocks in a Midterm Year (It’s Happening Again Now) ",
+   "published_at": "2026-10-18T22:55:45.214166+00:00",
+   "analyzed_at": "2026-10-19T05:58:20.940216+00:00",
+   "guest": "Mark Chaikin (Chaikin Analytics)",
+   "collab": false,
+   "flip": false,
+   "ticker": "AMD",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Mark Chaikin: his favourite stock for 2027, now an 'incredible buying opportunity' after an 18% pullback within a week from its high. Stance flip CONDITIONAL_BUY->BUY (condition met): his 2026-09-30 MarketBeat stance was to buy a 5-8% pullback rather than chase highs — the current 18% pullback more than meets that condition (channel's last explicit AMD call was also CONDITIONAL_BUY, 2026-10-15).",
+   "base_case": "If the market rallies 20%+ to a peak next summer, 'AMD's going to lead the market'; he is very bullish but gives no price or target.",
+   "bull_case": "New 64-bit floating-point chip essential for scientific/medical/energy/defence research that 4/8-bit LLM chips cannot do; its chip powers El Capitan, the largest supercomputer in the world; new PC processors have overtaken Intel as the innovator, helped by Meta's Muse introduction.",
+   "bear_case": null,
+   "stance_flip": "CONDITIONAL_BUY->BUY (condition met)"
+  },
+  {
    "video_id": "SzdxupnhTfY",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -188,20 +207,20 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
    "channel": "Couch Investor",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
