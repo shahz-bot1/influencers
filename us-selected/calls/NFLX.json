@@ -3,6 +3,22 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "7-mrCZ8hZ-E",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "Netflix Stock Down 46% Despite Record Profits. Why?",
+   "published_at": "2026-10-19T15:02:54.535429+00:00",
+   "ticker": "NFLX",
+   "direction": "HOLD",
+   "flip": false,
+   "price_at_call": "$72 (stated current); buy limit $53",
+   "thesis": "HOLD (first tracked call for this creator): record profits (~$12B TTM, ~25% net margin, ROE ~50%) but at adj. P/E ~26 the -46%-from-ATH stock is fairly valued, not a bargain; he holds a small ~1% position (up ~3%) and would only add significantly much lower.",
+   "base_case": "Normal scenario: 14% earnings growth for 5 years then 9% (incl. ~2%/yr buybacks) → fair price ~$80; expected return ~8%.",
+   "bull_case": "Positive scenario: 17% then 11% growth → fair price ~50% higher, ~12%/yr return.",
+   "bear_case": "Negative scenario: 3% then 1% growth at a fair P/E of 11 → ~50% downside; margin expansion caps out and TV viewing share slipped 8.8%→7.8% while YouTube rose.",
+   "analyzed_at": "2026-10-19T18:49:55.147472+00:00"
+  },
+  {
    "video_id": "XOmt1qanNWc",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -155,16 +171,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 0
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  },
+  {
    "channel": "Couch Investor",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
