@@ -4,6 +4,38 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-10-18T22:55:45.214166+00:00",
+   "price": null,
+   "video_id": "tNp6Mj3v_1k"
+  },
+  {
+   "ticker": "NOW",
+   "tickerSlug": "NOW",
+   "direction": "BUY",
+   "date": "2026-10-18T22:55:45.214166+00:00",
+   "price": null,
+   "video_id": "tNp6Mj3v_1k"
+  },
+  {
+   "ticker": "CRWD",
+   "tickerSlug": "CRWD",
+   "direction": "BUY",
+   "date": "2026-10-18T22:55:45.214166+00:00",
+   "price": null,
+   "video_id": "tNp6Mj3v_1k"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-10-18T22:55:45.214166+00:00",
+   "price": null,
+   "video_id": "tNp6Mj3v_1k"
+  },
+  {
    "ticker": "LITE",
    "tickerSlug": "LITE",
    "direction": "BUY",
