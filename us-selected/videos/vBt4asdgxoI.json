@@ -1,0 +1,25 @@
+{
+ "video_id": "vBt4asdgxoI",
+ "title": "Great News for Taiwan Semiconductor Stock Investors | TSM Earnings Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-19T15:02:54.535429+00:00",
+ "summary": "Parkev Tatavosianc reviews Taiwan Semiconductor's Q3 2026 earnings: revenue $47B, up 41% year on year, with gross margins over 66% and operating margins approaching the high-50s, both above the high end of guidance. Leading-edge nodes are ramping fast — 2nm rose from 3% to 8% of wafer revenue in one quarter and 3nm is 33% — while high-performance computing (AI) reached 68% of revenue as smartphone share fell to 21% because handset makers order less as component prices rise. TSMC reiterated 2026 capex of $60–64B against sold-out capacity and customer deposits booked through 2027 into 2028, but again guided long-term gross margins down as new technology and overseas fabs ramp. The stock fell 1.8% on the print despite being up over 40% in 2026; at $422, 18.8x forward earnings, Parkev reiterates his BUY with high conviction against a $584 DCF fair value, flagging China/Taiwan geopolitics and a possible AI slowdown as the main risks.",
+ "calls": [
+  {
+   "video_id": "vBt4asdgxoI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Great News for Taiwan Semiconductor Stock Investors | TSM Earnings Analysis",
+   "published_at": "2026-10-19T15:02:54.535429+00:00",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "$422 (stated current); DCF fair value $584",
+   "thesis": "Reiterated BUY with high conviction after Q3 earnings: revenue $47B (+41% YoY), gross margins over 66%, forward P/E 18.8 — relatively cheap for this growth, margins and moat; meaningful upside to his $584 DCF.",
+   "base_case": "2nm ramped 3%→8% of wafer revenue and 3nm is 33%; HPC is 68% of revenue; capex guided $60–64B in 2026 against sold-out capacity and customer deposits/pre-orders booked through 2027 into 2028.",
+   "bull_case": "Premium pricing and elevated utilization keep offsetting the guided margin drag from new technology and overseas fabs for longer than management expects.",
+   "bear_case": "Geopolitics (China/Taiwan) is the biggest risk; long-term gross margins guided down as manufacturing diversifies, and AI demand could slow in a few years.",
+   "analyzed_at": "2026-10-19T18:49:55.147472+00:00"
+  }
+ ]
+}
