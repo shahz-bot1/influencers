@@ -3,6 +3,16 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "fOe_Ck6pBsE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "MU",
+   "direction": "BUY",
+   "thesis": "New investment in his portfolio (small, under ~3-4%, deliberately cautious on memory cyclicality, taken for memory exposure): $54bn revenue in the most recent quarter per captions, 26 strategic customer agreements locking in ~35% of revenue through 2030 with pricing floors better than any prior cycle, $32bn of customer financial commitments, HBM pricing for calendar 2027 higher YoY, buybacks starting, and a forward P/E of ~4.09 on high-end FY27 EPS.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No share price stated; down 14.6% from 9-16 Oct; forward P/E ~4.09 cited"
+  },
+  {
    "video_id": "yn_cvSds3lw",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -51,16 +61,16 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Jose Najarro Stocks",
    "idx": 0
   },
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 1
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
