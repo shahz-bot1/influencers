@@ -3,6 +3,16 @@
  "slug": "FTNT",
  "calls": [
   {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FTNT",
+   "direction": "HOLD",
+   "thesis": "Explicit pause: he probably would not pick up a whole lot more Fortinet (or Okta) just yet — at ~3x price-to-earnings adjusted for growth it is a little more expensive versus its history, in slower-growing segments (15% growth), though profitability is its strength. Down from his prior BUY stance.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated; down ~7% on Friday and ~13% over five days"
+  },
+  {
    "video_id": "Zrbf8mXwsG4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
