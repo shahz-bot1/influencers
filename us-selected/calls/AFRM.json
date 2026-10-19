@@ -1,0 +1,28 @@
+{
+ "ticker": "AFRM",
+ "slug": "AFRM",
+ "calls": [
+  {
+   "video_id": "3m_ctu3RWcc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Affirm is Appreciated By Consumers and Merchants as it Facilitates Sales",
+   "published_at": "2026-10-19T17:02:54.535429+00:00",
+   "ticker": "AFRM",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "$74 (stated current); DCF fair value $73.16",
+   "thesis": "Reiterated BUY (first tracked call) but conviction downgraded medium→low: fairly valued on DCF, slightly undervalued overall at 14.8x forward earnings; rates and macro are worse than at his late-August buy ranking.",
+   "base_case": "BNPL virtuous cycle (merchants attract consumers and vice versa): revenue $250M in 2020 → $4B TTM, record operating-cash-flow/sales, revenue per employee $1.7M; consumer balance sheets are healthy, unlike pre-GFC.",
+   "bull_case": "Merchant-network expansion compounds adoption in an industry that could reach billions of customers; AI keeps lifting employee productivity.",
+   "bear_case": "Fallout from excess government borrowing, higher interest rates and a macro slowdown; valuation less attractive than a month and a half ago.",
+   "analyzed_at": "2026-10-19T18:49:55.147472+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
