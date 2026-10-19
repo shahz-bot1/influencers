@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T01:29:57.979754+00:00",
+ "updated": "2026-10-19T01:32:35.339252+00:00",
  "tickers": [
   {
    "ticker": "GOLD",
@@ -253,7 +253,7 @@
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
    "nCalls": 15,
-   "nVideos": 20
+   "nVideos": 21
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -264,6 +264,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "v2k9el5eqnw",
+   "title": "Where to Invest ₹10 Lacs Now Across Stock Market, Gold & FDs | Rahul Jain G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-18",
+   "nCalls": 0
+  },
   {
    "id": "enqz8b3faIY",
    "title": "Economist Explains Why AI Could Trigger a Bigger Crash Than 2008 | Rahul Jain G2G",
