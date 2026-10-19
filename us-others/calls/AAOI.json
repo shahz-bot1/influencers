@@ -1,0 +1,22 @@
+{
+ "ticker": "AAOI",
+ "slug": "AAOI",
+ "calls": [
+  {
+   "video_id": "fOe_Ck6pBsE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AAOI",
+   "direction": "BUY",
+   "thesis": "Bullish coverage of a held name: revenue +86-87% YoY and +27% QoQ, 800G deliveries ramping since Q2, 1.6T qualification/initial shipments expected this quarter, capacity rising from ~200k units/month toward 650k by year-end and ~930k by end-2027 per captions, with in-house laser production as a supply and margin advantage in a shortage market.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 0
+  }
+ ]
+}
