@@ -3,6 +3,16 @@
  "slug": "CRWD",
  "calls": [
   {
+   "video_id": "IaSD9j5O_ZQ",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "CRWD",
+   "direction": "HOLD",
+   "thesis": "Held as part of his favourite long-term cybersecurity theme; group sold off 11-20% in five days (CrowdStrike -16%), which he calls a great buying opportunity in aggregate, but he notes CrowdStrike and Palo Alto are a little more expensive than he likes — no specific new buy stated for this name. Falcon platform called the best in the group, 23% forward revenue growth.",
+   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
+   "price_at_call": "No price stated; down ~7% on Friday and ~16% over five days"
+  },
+  {
    "video_id": "Zrbf8mXwsG4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
