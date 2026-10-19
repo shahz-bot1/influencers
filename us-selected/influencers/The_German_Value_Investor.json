@@ -4,6 +4,14 @@
  "slug": "The_German_Value_Investor",
  "calls": [
   {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "HOLD",
+   "date": "2026-10-19T15:02:54.535429+00:00",
+   "price": "$72 (stated current); buy limit $53",
+   "video_id": "7-mrCZ8hZ-E"
+  },
+  {
    "ticker": "PEP",
    "tickerSlug": "PEP",
    "direction": "SELL",
