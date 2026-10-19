@@ -1,6 +1,23 @@
 {
- "updated": "2026-10-17T03:59:33.862021+00:00",
+ "updated": "2026-10-19T04:03:24.487790+00:00",
  "tickers": [
+  {
+   "ticker": "AAOI",
+   "slug": "AAOI",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Jose Najarro Stocks"
+   ],
+   "lastStated": "No price stated",
+   "nCalls": 1
+  },
   {
    "ticker": "ABNB",
    "slug": "ABNB",
@@ -39,20 +56,20 @@
   {
    "ticker": "ALAB",
    "slug": "ALAB",
-   "lastDate": "2026-10-13T03:58:37.822741+00:00",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": null
+     "avg": "$66"
     }
    ],
    "influencers": [
     "Jose Najarro Stocks",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "no price stated",
-   "nCalls": 3
+   "lastStated": "No price stated; forward P/E ~66 near-term cited",
+   "nCalls": 4
   },
   {
    "ticker": "ALL",
@@ -196,6 +213,23 @@
    ],
    "lastStated": "no price stated",
    "nCalls": 4
+  },
+  {
+   "ticker": "BABA",
+   "slug": "BABA",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$109"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "$109 per share",
+   "nCalls": 1
   },
   {
    "ticker": "BAC",
@@ -591,46 +625,46 @@
   {
    "ticker": "CRDO",
    "slug": "CRDO",
-   "lastDate": "2026-10-13T03:58:37.822741+00:00",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$7"
+     "avg": "$21.6"
     }
    ],
    "influencers": [
     "Jose Najarro Stocks"
    ],
-   "lastStated": "down ~7% on the day (no level stated)",
-   "nCalls": 2
+   "lastStated": "No share price stated; down ~21.6% from 9-16 Oct; forward P/E ~25.5 cited",
+   "nCalls": 3
   },
   {
    "ticker": "CRWD",
    "slug": "CRWD",
-   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": null
+     "avg": "$7"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "No price stated; down ~7% on Friday and ~16% over five days",
+   "nCalls": 2
   },
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-10-17T03:58:32.502406+00:00",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$15"
+     "avg": "$25"
     },
     {
      "dir": "SELL",
@@ -644,13 +678,13 @@
     }
    ],
    "influencers": [
-    "Daniel Pronk",
     "Jose Najarro Stocks",
+    "Daniel Pronk",
     "Asymmetric Investing",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Down 33% over past month and another 12% on the day at recording (no share price",
-   "nCalls": 5
+   "lastStated": "No share price stated; down ~25% from 9-16 Oct with the group",
+   "nCalls": 6
   },
   {
    "ticker": "DHI",
@@ -687,6 +721,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "ETHA",
+   "slug": "ETHA",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$18"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "No share price stated; Ethereum down 18% for the year; his target is $4,000-$5,0",
+   "nCalls": 1
+  },
+  {
    "ticker": "EXPE",
    "slug": "EXPE",
    "lastDate": "2026-09-28T03:57:07.794861+00:00",
@@ -704,21 +755,38 @@
    "nCalls": 1
   },
   {
-   "ticker": "FTNT",
-   "slug": "FTNT",
-   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "ticker": "FORM",
+   "slug": "FORM",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$105"
+    }
+   ],
+   "influencers": [
+    "Jose Najarro Stocks"
+   ],
+   "lastStated": "Around $105; forward P/E ~33 on high-end estimates for the next ~5 months",
+   "nCalls": 1
+  },
+  {
+   "ticker": "FTNT",
+   "slug": "FTNT",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$7"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "No price stated; down ~7% on Friday and ~13% over five days",
+   "nCalls": 2
   },
   {
    "ticker": "GDS",
@@ -786,6 +854,23 @@
     "Sven Carlin"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "GRAB",
+   "slug": "GRAB",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$3"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Average cost ~$3; sees a return to $6 (no current price stated)",
    "nCalls": 1
   },
   {
@@ -1094,20 +1179,20 @@
   {
    "ticker": "MRVL",
    "slug": "MRVL",
-   "lastDate": "2026-10-15T03:59:03.849525+00:00",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$3"
+     "avg": null
     }
    ],
    "influencers": [
-    "Joseph Hogue, CFA",
-    "Jose Najarro Stocks"
+    "Jose Najarro Stocks",
+    "Joseph Hogue, CFA"
    ],
-   "lastStated": "no price stated",
-   "nCalls": 4
+   "lastStated": "No price stated",
+   "nCalls": 5
   },
   {
    "ticker": "MTCH",
@@ -1129,12 +1214,12 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$0.09"
+     "avg": "$7.34"
     },
     {
      "dir": "SELL",
@@ -1143,12 +1228,12 @@
     }
    ],
    "influencers": [
-    "Joseph Hogue, CFA",
     "Jose Najarro Stocks",
+    "Joseph Hogue, CFA",
     "Asymmetric Investing"
    ],
-   "lastStated": "0.09x PEG; down ~3% last week",
-   "nCalls": 4
+   "lastStated": "No share price stated; down 14.6% from 9-16 Oct; forward P/E ~4.09 cited",
+   "nCalls": 5
   },
   {
    "ticker": "NBIS",
@@ -1260,6 +1345,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "OKTA",
+   "slug": "OKTA",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$20"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "No price stated; down ~20% over five days, the worst in the group",
+   "nCalls": 1
+  },
+  {
    "ticker": "ORCL",
    "slug": "ORCL",
    "lastDate": "2026-10-05T03:58:02.949500+00:00",
@@ -1285,19 +1387,19 @@
   {
    "ticker": "PANW",
    "slug": "PANW",
-   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": null
+     "avg": "$8"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "No price stated; down almost 8% on Friday and ~17% over five days",
+   "nCalls": 2
   },
   {
    "ticker": "PBR",
@@ -1521,6 +1623,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "SMCI",
+   "slug": "SMCI",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "chips": [
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": "$45"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Recently rallied past $45; exit zone $40-$45; covered calls struck $35-$40",
+   "nCalls": 1
+  },
+  {
    "ticker": "SNDK",
    "slug": "SNDK",
    "lastDate": "2026-10-12T03:57:21.387889+00:00",
@@ -1557,20 +1676,37 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-10-10T03:56:54.429840+00:00",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$44"
+     "avg": "$29.95"
     }
    ],
    "influencers": [
-    "Asymmetric Investing",
+    "Joseph Hogue, CFA",
+    "Asymmetric Investing"
+   ],
+   "lastStated": "Bought back in at $15.89; ~1.8x price-to-book; target past $20",
+   "nCalls": 3
+  },
+  {
+   "ticker": "SOUN",
+   "slug": "SOUN",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$9"
+    }
+   ],
+   "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "down 44% over past year",
-   "nCalls": 2
+   "lastStated": "Bought back in just under $9 (May); down 47% on the position per captions; targe",
+   "nCalls": 1
   },
   {
    "ticker": "SOXY",
@@ -1621,6 +1757,23 @@
     "Tom Nash"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SYM",
+   "slug": "SYM",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$25"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "In at $25, still up ~55%; down from a $60-$70 peak; down 2.5% on Friday (no curr",
    "nCalls": 1
   },
   {
@@ -1842,19 +1995,19 @@
   {
    "ticker": "ZS",
    "slug": "ZS",
-   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "lastDate": "2026-10-19T04:01:40.277005+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$6"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "No price stated; down ~6% on Friday and ~11% over five days",
+   "nCalls": 2
   }
  ],
  "influencers": [
@@ -1890,15 +2043,15 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 20,
-   "nVideos": 7
+   "nCalls": 27,
+   "nVideos": 8
   },
   {
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 83,
-   "nVideos": 10
+   "nCalls": 95,
+   "nVideos": 11
   },
   {
    "name": "Patient Investor",
@@ -1930,6 +2083,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "fOe_Ck6pBsE",
+   "title": "10 AI Stocks Down as Much as 25% — Is the Market Wrong?",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-18T22:55:52.322455+00:00",
+   "nCalls": 7
+  },
+  {
+   "id": "IaSD9j5O_ZQ",
+   "title": "$160K Down in ONE DAY! Why I'm BUYING These 15 Stocks",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-10-18T16:55:52.322455+00:00",
+   "nCalls": 12
+  },
   {
    "id": "okKr-6faeVw",
    "title": "The AI Crash Is Here - What You Need to Know",
