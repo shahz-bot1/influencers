@@ -1,0 +1,25 @@
+{
+ "video_id": "7-mrCZ8hZ-E",
+ "title": "Netflix Stock Down 46% Despite Record Profits. Why?",
+ "creator": "The German Value Investor",
+ "published_at": "2026-10-19T15:02:54.535429+00:00",
+ "summary": "The German Value Investor asks why Netflix is down 46% from its June 2025 all-time high despite record profits — nearly $12B of net income in the last 12 months, a ~25% net margin, ROE around 50% and strongly positive free cash flow, almost all returned via buybacks. He walks through the growth fade (revenue growth back to 16% after a 6–7% trough), viewing share slipping to YouTube, and a margin ceiling as operating leverage runs out. His scenarios: negative (3% then 1% growth, fair P/E 11) implies ~50% downside; normal (14% then 9%) gives a fair price around $80; positive (17% then 11%) puts fair value ~50% higher. Verdict: a HOLD at $72 with an expected return of ~8% — fairly valued, no bargain; his buy limit is $53 and his community-portfolio position is a small ~1%.",
+ "calls": [
+  {
+   "video_id": "7-mrCZ8hZ-E",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "Netflix Stock Down 46% Despite Record Profits. Why?",
+   "published_at": "2026-10-19T15:02:54.535429+00:00",
+   "ticker": "NFLX",
+   "direction": "HOLD",
+   "flip": false,
+   "price_at_call": "$72 (stated current); buy limit $53",
+   "thesis": "HOLD (first tracked call for this creator): record profits (~$12B TTM, ~25% net margin, ROE ~50%) but at adj. P/E ~26 the -46%-from-ATH stock is fairly valued, not a bargain; he holds a small ~1% position (up ~3%) and would only add significantly much lower.",
+   "base_case": "Normal scenario: 14% earnings growth for 5 years then 9% (incl. ~2%/yr buybacks) → fair price ~$80; expected return ~8%.",
+   "bull_case": "Positive scenario: 17% then 11% growth → fair price ~50% higher, ~12%/yr return.",
+   "bear_case": "Negative scenario: 3% then 1% growth at a fair P/E of 11 → ~50% downside; margin expansion caps out and TV viewing share slipped 8.8%→7.8% while YouTube rose.",
+   "analyzed_at": "2026-10-19T18:49:55.147472+00:00"
+  }
+ ]
+}
