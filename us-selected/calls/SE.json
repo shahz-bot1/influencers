@@ -1,0 +1,30 @@
+{
+ "ticker": "SE",
+ "slug": "SE",
+ "calls": [
+  {
+   "video_id": "VLlqZqAsvRI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 Stocks You’ll Wish You Bought Before Earnings",
+   "published_at": "2026-10-20T16:00:16.810442+00:00",
+   "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+   "collab": false,
+   "ticker": "SE",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$54.7B market cap (stated); no share price stated",
+   "thesis": "BUY — first tracked Couch SE call, no flip: one of four fairly cheap names to buy before earnings; oversold, down 31% YTD / ~36.5% drawdown, at the same price as two quarters ago, forward P/E 21.1x and price/FCF 12x forward despite ~35-40% revenue growth.",
+   "base_case": "Still a growth company run much better than 3-4 years ago, beating revenue/EBITDA expectations comfortably (last two quarters ~10% beats) even as EPS misses persist.",
+   "bull_case": "Growth holds at ~30%+ near term (revenue to ~$45B by FY28) and Shopee keeps gaining share against Mercado Libre, Alibaba, Amazon and Pinduoduo; a possible Garena ('Coney' in captions) spin-off surfaces value.",
+   "bear_case": "Free cash flow is not expected to grow much as Garena grows, EPS keeps missing, and competition stays intense in Southeast Asia, South America and Taiwan."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Couch Investor",
+   "idx": 0
+  }
+ ]
+}
