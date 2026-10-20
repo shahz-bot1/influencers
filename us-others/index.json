@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T04:07:05.601100+00:00",
+ "updated": "2026-10-20T04:00:24.605664+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -1312,20 +1312,20 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-10-13T03:58:37.822741+00:00",
+   "lastDate": "2026-10-20T03:59:07.714277+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$1"
+     "avg": null
     }
    ],
    "influencers": [
     "Jose Najarro Stocks",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "down over 1% on the day, below $226",
-   "nCalls": 4
+   "lastStated": "no price stated",
+   "nCalls": 5
   },
   {
    "ticker": "NVDY",
@@ -2043,8 +2043,8 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 27,
-   "nVideos": 8
+   "nCalls": 28,
+   "nVideos": 9
   },
   {
    "name": "Joseph Hogue, CFA",
@@ -2083,6 +2083,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "v5NMsQnpR2Q",
+   "title": "NVIDIA Stock: Meta Just Confirmed the AI Demand Is REAL!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-20T03:54:51.357397+00:00",
+   "nCalls": 1
+  },
   {
    "id": "fOe_Ck6pBsE",
    "title": "10 AI Stocks Down as Much as 25% — Is the Market Wrong?",
