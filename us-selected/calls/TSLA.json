@@ -1,0 +1,30 @@
+{
+ "ticker": "TSLA",
+ "slug": "TSLA",
+ "calls": [
+  {
+   "video_id": "4BooxjnAfPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "This Stock Is Undervalued",
+   "published_at": "2026-10-19T22:55:37.493333+00:00",
+   "analyzed_at": "2026-10-20T06:01:33.135988+00:00",
+   "collab": false,
+   "ticker": "TSLA",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "154x forward P/E (stated)",
+   "thesis": "AVOID — first tracked Joseph TSLA call, no prior stance, no flip: 'not interested in the company' and the Roadster demo 'doesn't convince me to buy the stock' — he cannot buy stocks just because they are cool when the future is already priced in; prefers SpaceX as the more unique, defensible, less competitive Musk investment.",
+   "base_case": "More of the same: a heavily narrative-driven quarter with little focus on fundamentals.",
+   "bull_case": null,
+   "bear_case": "154x forward P/E on revenue flat for ~2 years, deliveries down, net income down sharply and free cash flow flat; robotaxi rollout is slower, more methodical and more red-tape-bound than promised, against Waymo (~500k rides/week), Uber's multi-brand network and strong Chinese AV rivals."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  }
+ ]
+}
