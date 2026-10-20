@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T22:04:26.183474+00:00",
+ "updated": "2026-10-20T22:02:49.814249+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -439,19 +439,19 @@
   {
    "ticker": "CELH",
    "slug": "CELH",
-   "lastDate": "2026-09-30T16:53:12.133372+00:00",
+   "lastDate": "2026-10-20T15:00:16.810442+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$28"
+     "avg": null
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "28",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "CIBR",
@@ -994,12 +994,12 @@
   {
    "ticker": "GOOGL",
    "slug": "GOOGL",
-   "lastDate": "2026-10-13T18:58:27.472045+00:00",
+   "lastDate": "2026-10-20T16:00:16.810442+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$12"
+     "avg": "$177.5"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -1019,8 +1019,8 @@
     "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "entry via $300 put (stock ~$350)",
-   "nCalls": 12
+   "lastStated": "~$343 (stated, same level as before last earnings; it fell to ~$315 after that p",
+   "nCalls": 13
   },
   {
    "ticker": "HD",
@@ -1277,20 +1277,20 @@
   {
    "ticker": "LLY",
    "slug": "LLY",
-   "lastDate": "2026-10-10T05:57:13.563160+00:00",
+   "lastDate": "2026-10-20T15:00:16.810442+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": null
+     "avg": "$1,251"
     }
    ],
    "influencers": [
-    "MarketBeat",
-    "Parkevtate Vosianc CFA"
+    "Parkevtate Vosianc CFA",
+    "MarketBeat"
    ],
-   "lastStated": "$1,151 (his fair value $1,494 — ~30% upside over 12-18 months)",
-   "nCalls": 4
+   "lastStated": "$1,251 (stated current); his DCF $1,523",
+   "nCalls": 5
   },
   {
    "ticker": "LOW",
@@ -1413,6 +1413,23 @@
    "nCalls": 2
   },
   {
+   "ticker": "MCO",
+   "slug": "MCO",
+   "lastDate": "2026-10-19T22:55:37.493333+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Carlson After Hours"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "MDB",
    "slug": "MDB",
    "lastDate": "2026-10-12T13:59:07.675072+00:00",
@@ -1452,7 +1469,7 @@
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-10-18T11:55:50.537284+00:00",
+   "lastDate": "2026-10-19T22:55:37.493333+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1462,16 +1479,16 @@
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$4"
+     "avg": null
     }
    ],
    "influencers": [
-    "Parkevtate Vosianc CFA",
     "Joseph Carlson After Hours",
+    "Parkevtate Vosianc CFA",
     "Couch Investor"
    ],
    "lastStated": "$734 (stated, at recording)",
-   "nCalls": 9
+   "nCalls": 10
   },
   {
    "ticker": "MMM",
@@ -1488,6 +1505,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "~$163",
+   "nCalls": 1
+  },
+  {
+   "ticker": "MNST",
+   "slug": "MNST",
+   "lastDate": "2026-10-20T15:00:16.810442+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$45"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "Over $45 (stated current); his DCF a little over $37",
    "nCalls": 1
   },
   {
@@ -1638,12 +1672,12 @@
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-10-19T16:02:54.535429+00:00",
+   "lastDate": "2026-10-20T16:00:16.810442+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$50"
+     "avg": "$162"
     },
     {
      "dir": "HOLD",
@@ -1662,33 +1696,33 @@
     "MarketBeat",
     "BWB - Business With Brian"
    ],
-   "lastStated": "~$50B market cap (stated); no share price stated",
-   "nCalls": 9
+   "lastStated": "$162 per share (stated); ~$44B market cap",
+   "nCalls": 10
   },
   {
    "ticker": "NFLX",
    "slug": "NFLX",
-   "lastDate": "2026-10-19T15:02:54.535429+00:00",
+   "lastDate": "2026-10-19T22:55:37.493333+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 2,
-     "avg": "$68.36"
+     "n": 1,
+     "avg": "$69.72"
     },
     {
      "dir": "HOLD",
-     "n": 2,
-     "avg": "$72"
+     "n": 3,
+     "avg": "$45.5"
     }
    ],
    "influencers": [
+    "Joseph Carlson After Hours",
     "The German Value Investor",
     "Parkevtate Vosianc CFA",
-    "Couch Investor",
-    "Joseph Carlson After Hours"
+    "Couch Investor"
    ],
-   "lastStated": "$72 (stated current); buy limit $53",
-   "nCalls": 11
+   "lastStated": "19x forward P/E, 3.8% free-cash-flow yield (stated; no share price stated)",
+   "nCalls": 12
   },
   {
    "ticker": "NICE",
@@ -2196,6 +2230,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "RBLX",
+   "slug": "RBLX",
+   "lastDate": "2026-10-20T16:00:16.810442+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$49.55"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "$49.55 (stated current); his DCF fair value ~$46",
+   "nCalls": 1
+  },
+  {
    "ticker": "RBRK",
    "slug": "RBRK",
    "lastDate": "2026-10-09T18:03:19.799081+00:00",
@@ -2360,6 +2411,23 @@
    ],
    "lastStated": "",
    "nCalls": 5
+  },
+  {
+   "ticker": "SE",
+   "slug": "SE",
+   "lastDate": "2026-10-20T16:00:16.810442+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$54.7"
+    }
+   ],
+   "influencers": [
+    "Couch Investor"
+   ],
+   "lastStated": "$54.7B market cap (stated); no share price stated",
+   "nCalls": 1
   },
   {
    "ticker": "SHOP",
@@ -2588,6 +2656,23 @@
     "BWB - Business With Brian"
    ],
    "lastStated": "yields >5%",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TSLA",
+   "slug": "TSLA",
+   "lastDate": "2026-10-19T22:55:37.493333+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$154"
+    }
+   ],
+   "influencers": [
+    "Joseph Carlson After Hours"
+   ],
+   "lastStated": "154x forward P/E (stated)",
    "nCalls": 1
   },
   {
@@ -2888,19 +2973,19 @@
   {
    "ticker": "VOYG",
    "slug": "VOYG",
-   "lastDate": "2026-09-29T22:01:23.027072+00:00",
+   "lastDate": "2026-10-20T16:00:16.810442+00:00",
    "chips": [
     {
      "dir": "CONDITIONAL_BUY",
      "n": 1,
-     "avg": "$2"
+     "avg": "$1.53"
     }
    ],
    "influencers": [
     "Couch Investor"
    ],
-   "lastStated": "~$2B market cap (stated)",
-   "nCalls": 1
+   "lastStated": "$1.53B market cap (stated); he covered it before at ~$22",
+   "nCalls": 2
   },
   {
    "ticker": "VRT",
@@ -3069,22 +3154,22 @@
    "name": "Couch Investor",
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
-   "nCalls": 64,
-   "nVideos": 52
+   "nCalls": 68,
+   "nVideos": 53
   },
   {
    "name": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
    "slug": "Joseph_Carlson_After_Hours",
-   "nCalls": 22,
-   "nVideos": 5
+   "nCalls": 26,
+   "nVideos": 6
   },
   {
    "name": "Mark Roussin CPA",
    "handle": "@markroussincpa",
    "slug": "Mark_Roussin_CPA",
    "nCalls": 43,
-   "nVideos": 14
+   "nVideos": 15
   },
   {
    "name": "MarketBeat",
@@ -3097,8 +3182,8 @@
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 128,
-   "nVideos": 131
+   "nCalls": 132,
+   "nVideos": 134
   },
   {
    "name": "The German Value Investor",
@@ -3109,6 +3194,66 @@
   }
  ],
  "videos": [
+  {
+   "id": "VLlqZqAsvRI",
+   "title": "4 Stocks You’ll Wish You Bought Before Earnings",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-20T16:00:16.810442+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "Ilnv_YwsbX0",
+   "title": "Roblox Excercises Conservative Revenue Recognition Policy",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-20T16:00:16.810442+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "hIg3gx2OmnM",
+   "title": "Monster Beverage Is Gaining Market Share in the Energy Drink Category",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-20T15:00:16.810442+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "W942c9Uw8aw",
+   "title": "Here's What I'm Planning With My Eli Lilly Position",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-20T15:00:16.810442+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "OJRRAUXcQzI",
+   "title": "The Stock Market Is About to Make a BIG Move",
+   "creator": "Mark Roussin CPA",
+   "channels": [
+    "Mark Roussin CPA"
+   ],
+   "published_at": "2026-10-20T14:00:16.810442+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "4BooxjnAfPY",
+   "title": "This Stock Is Undervalued",
+   "creator": "Joseph Carlson After Hours",
+   "channels": [
+    "Joseph Carlson After Hours"
+   ],
+   "published_at": "2026-10-19T22:55:37.493333+00:00",
+   "nCalls": 4
+  },
   {
    "id": "psF8L-jn5aI",
    "title": "AI Stocks Are Falling. Dan Ives Says It’s Just Getting Started.",
