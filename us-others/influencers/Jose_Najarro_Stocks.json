@@ -4,6 +4,14 @@
  "slug": "Jose_Najarro_Stocks",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-20T03:59:07.714277+00:00",
+   "price": "no price stated",
+   "video_id": "v5NMsQnpR2Q"
+  },
+  {
    "ticker": "CRWV",
    "tickerSlug": "CRWV",
    "direction": "BUY",
