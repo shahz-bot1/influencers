@@ -1,0 +1,19 @@
+{
+ "video_id": "v5NMsQnpR2Q",
+ "title": "NVIDIA Stock: Meta Just Confirmed the AI Demand Is REAL!!",
+ "creator": "Jose Najarro Stocks",
+ "published_at": "2026-10-20T03:54:51.357397+00:00",
+ "summary": "Jose Najarro examines Meta's Prometheus AI supercluster in New Albany, Ohio, arguing it confirms real AI demand. The first phase is complete with hundreds of thousands of Nvidia GPUs training Meta's Muse models, with a future target of roughly one million distributed GPUs working in lockstep across sites because power limits prevent a single site holding them all. He contrasts GB200 and GB300 racks — the GB300 moves to a single-rack layout at about 135 kW, with Vera Rubin above 170 kW and fully liquid-cooled trays — and argues simpler layouts help cooling, cost and reliability. Reliability is a central theme: interruptions per 8,000 GPUs per day were very high for GB200 in mid-2025, are much lower for GB300, and Meta targets about two, with 64 active plus eight spare GPUs in each 72-GPU domain and goodput above 85% for Muse pre-training and above 90% for reinforcement learning. He also covers power capping, batteries and liquid cooling, and the backend aggregation network, where Arista 7800 switches use Broadcom Jericho. Nvidia is called the big winner; Broadcom and Arista are named networking beneficiaries, and a brief garbled caption reference appears to mention Marvell among networking names he likes. Calls: NVDA BUY (reiterated, no price stated); META, AVGO and ANET UNCERTAIN — positive/beneficiary coverage with no explicit buy or hold stated in this video. Captions garble several names, including Muse/Watermelon and GB200/GB300 renderings.",
+ "calls": [
+  {
+   "video_id": "v5NMsQnpR2Q",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Reiterated bullish: Meta's Prometheus supercluster confirms real AI demand — first phase complete with hundreds of thousands of Nvidia GPUs, target roughly 1 million distributed GPUs; Nvidia is the big winner (GPU domain/NVLink, ConnectX NICs) and co-design learnings with Meta can be pushed to other customers.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-20T03:59:07.714277+00:00"
+  }
+ ]
+}
