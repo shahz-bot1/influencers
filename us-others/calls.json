@@ -2325,5 +2325,45 @@
   "thesis": "Bullish coverage of a held networking name: revenue +105% YoY and +27% QoQ, PCIe 4/5/6 still selling with 7 sampling in Q4 2026, Scorpio scale-up switching in growing volume production with lead customers ramping \u2014 expensive near-term (forward P/E ~66 within ~4 months) but he expects the next 18 months to make it much cheaper; networking is, in his view, one of the most overlooked AI spaces.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "No price stated; forward P/E ~66 near-term cited"
+ },
+ {
+  "video_id": "v5NMsQnpR2Q",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "NVDA",
+  "direction": "BUY",
+  "thesis": "Reiterated bullish: Meta's Prometheus supercluster confirms real AI demand \u2014 first phase complete with hundreds of thousands of Nvidia GPUs, target roughly 1 million distributed GPUs; Nvidia is the big winner (GPU domain/NVLink, ConnectX NICs) and co-design learnings with Meta can be pushed to other customers.",
+  "price_at_call": "no price stated",
+  "analyzed_at": "2026-10-20T03:59:07.714277+00:00"
+ },
+ {
+  "video_id": "v5NMsQnpR2Q",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "META",
+  "direction": "UNCERTAIN",
+  "thesis": "Positive coverage only, no explicit buy/hold in this video: Prometheus was used to train Muse models, Meta is 'killing it' in AI, goodput above 85% for Muse pre-training and above 90% for RL, reliability improving toward 2 interruptions per 8,000 GPUs/day, and he is excited for upcoming earnings / a possible premium compute sale \u2014 no new stance stated.",
+  "price_at_call": "no price stated",
+  "analyzed_at": "2026-10-20T03:59:07.714277+00:00"
+ },
+ {
+  "video_id": "v5NMsQnpR2Q",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "AVGO",
+  "direction": "UNCERTAIN",
+  "thesis": "Named networking beneficiary only: Meta's backend aggregation uses Arista 7800 switches built on Broadcom Jericho, and million-GPU scale-out should create many networking winners \u2014 no Broadcom-specific buy call in this video.",
+  "price_at_call": "no price stated",
+  "analyzed_at": "2026-10-20T03:59:07.714277+00:00"
+ },
+ {
+  "video_id": "v5NMsQnpR2Q",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "ANET",
+  "direction": "UNCERTAIN",
+  "thesis": "Named networking beneficiary only: Arista 7800 cited in Meta's aggregation layer, benefiting alongside Broadcom as clusters scale \u2014 no Arista-specific buy call in this video.",
+  "price_at_call": "no price stated",
+  "analyzed_at": "2026-10-20T03:59:07.714277+00:00"
  }
 ]
