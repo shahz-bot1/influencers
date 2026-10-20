@@ -3,6 +3,24 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "4BooxjnAfPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "This Stock Is Undervalued",
+   "published_at": "2026-10-19T22:55:37.493333+00:00",
+   "analyzed_at": "2026-10-20T06:01:33.135988+00:00",
+   "collab": false,
+   "ticker": "META",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "HOLD reiterated (was HOLD 2026-10-12; no flip) — 'well worth holding through the capex cycle'; monetisation power, not pricing power: ad prices +12% YoY while impressions rose +14% and ad revenue +27%, because advertisers bid more for better-converting, more targeted ads across a still-growing daily-active base in every region. Expects a super-strong quarter on Wednesday.",
+   "base_case": "The business prints a very strong quarter and he holds through the spending cycle.",
+   "bull_case": "Monetisation keeps compounding — more ads, higher prices per ad, better returns for advertisers — funded by the core apps, including the Muse push.",
+   "bear_case": "Management likely raises capex guidance again, which could spook investors even on a strong print; the quarter's debate will be Zuckerberg's spending, not the results."
+  },
+  {
    "video_id": "YNdllTBJmJ0",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -138,16 +156,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "Couch Investor",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
