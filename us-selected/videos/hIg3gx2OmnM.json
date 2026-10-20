@@ -1,0 +1,45 @@
+{
+ "video_id": "hIg3gx2OmnM",
+ "title": "Monster Beverage Is Gaining Market Share in the Energy Drink Category",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-20T15:00:16.810442+00:00",
+ "summary": "Parkevtate Vosianc CFA asks whether Monster Beverage's 20% revenue growth and US/international share gains make it a buy. Revenue has tripled since 2017 to $9.2 billion and ROIC has recovered to 26%, but operating margin has compressed from 38% to 29%, forward P/E 34.6 sits near its high, and his raised DCF of just over $37 remains below the $45+ price — slightly overvalued. He reiterates HOLD (his 1 July stance; first tracked): not a buy here, not worth dumping either. He closes by naming Celsius the better buying opportunity in the category — CELH BUY reiterated as a side mention.",
+ "calls": [
+  {
+   "video_id": "hIg3gx2OmnM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Monster Beverage Is Gaining Market Share in the Energy Drink Category",
+   "published_at": "2026-10-20T15:00:16.810442+00:00",
+   "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+   "collab": false,
+   "ticker": "MNST",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Over $45 (stated current); his DCF a little over $37",
+   "thesis": "HOLD reiterated (his 1 Jul stance, reiterated here; first tracked, no flip): not a buying opportunity at these levels, but not expensive enough to dump — sit tight and wait for a better entry. Forward P/E 34.6 is near its late-2023 high, and his raised DCF (~$37 vs $45+) still says slightly overvalued.",
+   "base_case": "Monster keeps gaining share in US and international energy drinks; revenue has tripled since 2017 to $9.2B trailing and growth re-accelerated to 20% YoY last quarter.",
+   "bull_case": "ROIC has recovered from 16% (2023) to 26%, roughly 2-3x WACC, so reinvestment still creates value.",
+   "bear_case": "Growth is bought with margin: operating margin has fallen from 38% to 29%, so revenue rises while profitability per sale shrinks."
+  },
+  {
+   "video_id": "hIg3gx2OmnM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Monster Beverage Is Gaining Market Share in the Energy Drink Category",
+   "published_at": "2026-10-20T15:00:16.810442+00:00",
+   "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+   "collab": false,
+   "ticker": "CELH",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Not stated in this video",
+   "thesis": "BUY reiterated as a closing side mention (was BUY 2026-09-30; no flip): in the energy-drink category he prefers Celsius to Monster — growth is less explosive and SKU/supply-chain management still struggles, but the risk/reward is more attractive.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Still struggling with supply-chain and SKU management (his stated caveat)."
+  }
+ ]
+}
