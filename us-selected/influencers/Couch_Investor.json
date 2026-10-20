@@ -4,6 +4,38 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "SE",
+   "tickerSlug": "SE",
+   "direction": "BUY",
+   "date": "2026-10-20T16:00:16.810442+00:00",
+   "price": "$54.7B market cap (stated); no share price stated",
+   "video_id": "VLlqZqAsvRI"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-10-20T16:00:16.810442+00:00",
+   "price": "~$343 (stated, same level as before last earnings; it fell to ~$315 after that print)",
+   "video_id": "VLlqZqAsvRI"
+  },
+  {
+   "ticker": "VOYG",
+   "tickerSlug": "VOYG",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-20T16:00:16.810442+00:00",
+   "price": "$1.53B market cap (stated); he covered it before at ~$22",
+   "video_id": "VLlqZqAsvRI"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-10-20T16:00:16.810442+00:00",
+   "price": "$162 per share (stated); ~$44B market cap",
+   "video_id": "VLlqZqAsvRI"
+  },
+  {
    "ticker": "NBIS",
    "tickerSlug": "NBIS",
    "direction": "BUY",
