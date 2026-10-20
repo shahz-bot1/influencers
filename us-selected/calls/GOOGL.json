@@ -3,6 +3,24 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "VLlqZqAsvRI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 Stocks You’ll Wish You Bought Before Earnings",
+   "published_at": "2026-10-20T16:00:16.810442+00:00",
+   "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+   "collab": false,
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$343 (stated, same level as before last earnings; it fell to ~$315 after that print)",
+   "thesis": "BUY reiterated (was BUY 2026-10-13; no flip): still undervalued and 'one of the best names to own' — super-profitable core, large cash balance, a name that lets him sleep well and should exit any broad correction stronger.",
+   "base_case": "Revenue growth accelerates modestly to ~25% for three quarters; Google Cloud grew 81.8% last quarter to $24.7B with expanding margins, and the TPU business starts showing in early 2027.",
+   "bull_case": "Cloud growth could reach ~100% YoY this quarter and other segments could accelerate enough to flip free cash flow positive ahead of expectations.",
+   "bear_case": "Free cash flow was -$5.8B last quarter and is expected negative again (-$3.7B, then -$4.6B) on capex expected near $55.3B this quarter; EPS/FCF prints have been erratic."
+  },
+  {
    "video_id": "o-p4u_6B1hw",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -183,19 +201,19 @@
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 1
-  },
-  {
-   "channel": "Joseph Carlson After Hours",
    "idx": 2
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 3
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 4
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 11
+   "idx": 12
   }
  ]
 }
