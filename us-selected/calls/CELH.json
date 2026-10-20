@@ -3,6 +3,24 @@
  "slug": "CELH",
  "calls": [
   {
+   "video_id": "hIg3gx2OmnM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Monster Beverage Is Gaining Market Share in the Energy Drink Category",
+   "published_at": "2026-10-20T15:00:16.810442+00:00",
+   "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+   "collab": false,
+   "ticker": "CELH",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Not stated in this video",
+   "thesis": "BUY reiterated as a closing side mention (was BUY 2026-09-30; no flip): in the energy-drink category he prefers Celsius to Monster — growth is less explosive and SKU/supply-chain management still struggles, but the risk/reward is more attractive.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": "Still struggling with supply-chain and SKU management (his stated caveat)."
+  },
+  {
    "ticker": "CELH",
    "direction": "BUY",
    "channel": "Parkevtate Vosianc CFA",
