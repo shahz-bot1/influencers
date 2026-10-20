@@ -3,6 +3,24 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "VLlqZqAsvRI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 Stocks You’ll Wish You Bought Before Earnings",
+   "published_at": "2026-10-20T16:00:16.810442+00:00",
+   "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+   "collab": false,
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$162 per share (stated); ~$44B market cap",
+   "thesis": "BUY reiterated, adding (was BUY 2026-10-19; no flip): he bought more shares last week despite it already being a big position; the 43.4% drawdown is overblown, the company is better than three months ago, and it sits just under its 200-day average near oversold.",
+   "base_case": "Acceleration mode: revenue from $1.3B trailing to an expected ~$23B by FY28 and ~$3B operating profit, with EBITDA stepping $350M -> $670M -> $1.24B over coming quarters; spot GPU prices rose on average over the last 7 days (B300 +144%).",
+   "bull_case": "Estimate upgrades follow the capacity build-out and rising price per megawatt; management's fund-raising and build-out are, in his view, best in class.",
+   "bear_case": "Execution risk is large, capex jumps above $7B then $8.5B a quarter, the cost of capital has risen, and the near-term earnings print ($94M revenue expected) can still disappoint."
+  },
+  {
    "video_id": "v7HZ3VIPa3E",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -158,15 +176,15 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "MarketBeat",
-   "idx": 6
+   "idx": 7
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
