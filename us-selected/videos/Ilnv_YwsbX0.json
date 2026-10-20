@@ -1,0 +1,27 @@
+{
+ "video_id": "Ilnv_YwsbX0",
+ "title": "Roblox Excercises Conservative Revenue Recognition Policy",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-20T16:00:16.810442+00:00",
+ "summary": "Parkevtate Vosianc CFA revisits Roblox after a $10-12 rise since his 31 July buy call. The title's point is accounting: Roblox spreads Robux deposits over 12-24 months while users spend them in days, so reported revenue is understated and losses overstated; on price to free cash flow (21x, near multi-year lows) he calls it undervalued, while his updated DCF of about $46 against $49.55 says fairly valued and just inside his margin of safety. Cost cuts doubled cash flow from operations to sales (15% to 37%) and revenue per employee rose to $1.76 million. He reiterates BUY, medium conviction — first tracked in this watch, no prior tracked stance.",
+ "calls": [
+  {
+   "video_id": "Ilnv_YwsbX0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Roblox Excercises Conservative Revenue Recognition Policy",
+   "published_at": "2026-10-20T16:00:16.810442+00:00",
+   "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+   "collab": false,
+   "ticker": "RBLX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$49.55 (stated current); his DCF fair value ~$46",
+   "thesis": "BUY reiterated, medium conviction (his 31 Jul call, reiterated here; first tracked in calls.json, no flip): conservative revenue recognition (Robux spread over 12-24 months though kids spend it in days) understates revenue and overstates losses, so price/free-cash-flow at 21x — near its lowest in years — is the right lens and looks undervalued, even though his DCF (~$46 vs $49.55) says only fairly valued / just inside his 5-10% margin of safety.",
+   "base_case": "Cost cuts since late 2022 doubled CFO/sales from 15% to 37% and lifted revenue per employee from $1.2M to $1.76M; the developer revenue-share model keeps that leverage rising, helped by AI productivity.",
+   "bull_case": "Engagement keeps growing post-reopening, developer tools improve, and revenue per employee compounds further.",
+   "bear_case": "Still loss-making on reported numbers; on his own DCF there is little margin of safety at $49.55 after a $10-12 rise since July."
+  }
+ ]
+}
