@@ -3,6 +3,24 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "4BooxjnAfPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "This Stock Is Undervalued",
+   "published_at": "2026-10-19T22:55:37.493333+00:00",
+   "analyzed_at": "2026-10-20T06:01:33.135988+00:00",
+   "collab": false,
+   "ticker": "NFLX",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "BUY->HOLD (holding full position, no new buy in this video; bullish thesis reiterated after the 5 Oct add)",
+   "price_at_call": "19x forward P/E, 3.8% free-cash-flow yield (stated; no share price stated)",
+   "thesis": "HOLD — actively bullish and invested (8th-largest position, down ~45% in the drawdown), holding his full position into Tuesday's earnings with cautious optimism; the engagement-problem narrative is a filter that misreads everything (the Warner Bros Discovery bid, watch-time reporting, 6% / ~1,000-job layoffs), and the layoff memo reaffirmed the full-year forecast 6 days before earnings. He believes Netflix is a 25x P/E stock, not 19x.",
+   "base_case": "Over time Netflix proves profitable, secure, high-margin and reliable enough to rerate to a mid-20s P/E; some uncertainty is fairly priced in, but not the current narrative discount (2022 trough was ~17x).",
+   "bull_case": "Earnings land in line with the reaffirmed guidance and the engagement story breaks, starting the rerating from 19x towards 25x.",
+   "bear_case": "Near-term earnings reaction is a coin flip — a 4–7% drop is normal territory for Netflix; engagement grew only ~2% on 200B hours and he concedes the concerns are not completely invalid."
+  },
+  {
    "video_id": "7-mrCZ8hZ-E",
    "channel": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
@@ -171,20 +189,20 @@
  ],
  "byInf": [
   {
-   "channel": "The German Value Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
-   "idx": 3
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 5
+   "channel": "Couch Investor",
+   "idx": 4
   }
  ]
 }
