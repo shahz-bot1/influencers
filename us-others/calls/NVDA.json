@@ -3,6 +3,16 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "v5NMsQnpR2Q",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Reiterated bullish: Meta's Prometheus supercluster confirms real AI demand — first phase complete with hundreds of thousands of Nvidia GPUs, target roughly 1 million distributed GPUs; Nvidia is the big winner (GPU domain/NVLink, ConnectX NICs) and co-design learnings with Meta can be pushed to other customers.",
+   "price_at_call": "no price stated",
+   "analyzed_at": "2026-10-20T03:59:07.714277+00:00"
+  },
+  {
    "video_id": "1fg4FpDs5Sg",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -54,7 +64,7 @@
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
