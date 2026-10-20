@@ -1,0 +1,27 @@
+{
+ "video_id": "W942c9Uw8aw",
+ "title": "Here's What I'm Planning With My Eli Lilly Position",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-20T15:00:16.810442+00:00",
+ "summary": "Parkevtate Vosianc CFA checks his Eli Lilly position: revenue has more than doubled since 2023 to $79.7 billion on weight-loss injectables, the pill version is gaining adoption, operating margin is 49.7% with gross margin above 80%, and ROIC recently near 40% is about four times WACC. At a forward P/E of 26 and his updated DCF of $1,523 against $1,251, he sees more than 20% upside over 12-18 months. He reiterates BUY with relatively high conviction and wants to add rather than take profits; US drug-price pressure is the named headwind. Videos first seen as members-only and later public, hence analyzed in this run.",
+ "calls": [
+  {
+   "video_id": "W942c9Uw8aw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Here's What I'm Planning With My Eli Lilly Position",
+   "published_at": "2026-10-20T15:00:16.810442+00:00",
+   "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+   "collab": false,
+   "ticker": "LLY",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$1,251 (stated current); his DCF $1,523",
+   "thesis": "BUY reiterated, relatively high conviction (was BUY 2026-09-28; no flip): he bought a few months ago, is not taking profits and wants to add. Forward P/E 26 is attractive for the characteristics; DCF $1,523 vs $1,251 implies >20% upside over 12-18 months at relatively lower risk.",
+   "base_case": "Revenue has more than doubled since 2023 to $79.7B on injectable weight-loss drugs, with the new pill version gaining adoption and more pipeline behind it; operating margin 49.7% and gross margin above 80%.",
+   "bull_case": "Earnings and profits keep growing faster than the share price, so the value improves even as the price rises; ROIC recently near 40%, about 4x WACC, shows the R&D pays.",
+   "bear_case": "US administration pressure to cut drug prices is the live headwind — still too early to know whether it is words or tangible action."
+  }
+ ]
+}
