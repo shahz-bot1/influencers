@@ -1411,7 +1411,7 @@
   "channel": "Parkevtate Vosianc CFA",
   "title": "Stock Markets Crashing: 1 Incredibly Cheap AI Stock I Just Bought That Could 100X My Money",
   "published_at": "2026-10-15T13:55:51.183210+00:00",
-  "analyzed_at": "2026-10-19T22:01:10.423756+00:00",
+  "analyzed_at": "2026-10-20T22:00:59.626260+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
@@ -1645,7 +1645,7 @@
   "channel": "Parkevtate Vosianc CFA",
   "title": "Stock Markets Crashing: Here's Exactly What I am Doing in My Portfolio",
   "published_at": "2026-10-18T17:55:51.183210+00:00",
-  "analyzed_at": "2026-10-19T22:01:10.423756+00:00",
+  "analyzed_at": "2026-10-20T22:00:59.626260+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
@@ -1659,26 +1659,33 @@
  "W942c9Uw8aw": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Here's What I'm Planning With My Eli Lilly Position",
-  "published_at": "2026-10-18T18:55:51.183210+00:00",
-  "analyzed_at": "2026-10-19T22:01:10.423756+00:00",
-  "alerted": false,
-  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+  "published_at": "2026-10-20T15:00:16.810442+00:00",
+  "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+  "alerted": true,
+  "calls": [
+   "LLY:BUY"
+  ]
  },
  "hIg3gx2OmnM": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Monster Beverage Is Gaining Market Share in the Energy Drink Category",
-  "published_at": "2026-10-18T18:55:51.183210+00:00",
-  "analyzed_at": "2026-10-19T22:01:10.423756+00:00",
-  "alerted": false,
-  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+  "published_at": "2026-10-20T15:00:16.810442+00:00",
+  "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+  "alerted": true,
+  "calls": [
+   "MNST:HOLD",
+   "CELH:BUY"
+  ]
  },
  "Ilnv_YwsbX0": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Roblox Excercises Conservative Revenue Recognition Policy",
-  "published_at": "2026-10-18T18:55:51.183210+00:00",
-  "analyzed_at": "2026-10-19T22:01:10.423756+00:00",
-  "alerted": false,
-  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+  "published_at": "2026-10-20T16:00:16.810442+00:00",
+  "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+  "alerted": true,
+  "calls": [
+   "RBLX:BUY"
+  ]
  },
  "tNp6Mj3v_1k": {
   "channel": "MarketBeat",
@@ -1719,6 +1726,50 @@
    "TSLA:UNCERTAIN",
    "NBIS:UNCERTAIN",
    "CRWV:UNCERTAIN"
+  ]
+ },
+ "4BooxjnAfPY": {
+  "channel": "Joseph Carlson After Hours",
+  "title": "This Stock Is Undervalued",
+  "published_at": "2026-10-19T22:55:37.493333+00:00",
+  "analyzed_at": "2026-10-20T06:01:33.135988+00:00",
+  "alerted": true,
+  "calls": [
+   "SPCX:UNCERTAIN",
+   "AMZN:UNCERTAIN",
+   "NFLX:HOLD",
+   "ASML:UNCERTAIN",
+   "META:HOLD",
+   "TSLA:AVOID",
+   "MCO:BUY"
+  ]
+ },
+ "VLlqZqAsvRI": {
+  "channel": "Couch Investor",
+  "title": "4 Stocks You\u2019ll Wish You Bought Before Earnings",
+  "published_at": "2026-10-20T16:00:16.810442+00:00",
+  "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+  "alerted": true,
+  "calls": [
+   "SE:BUY",
+   "GOOGL:BUY",
+   "VOYG:CONDITIONAL_BUY",
+   "NBIS:BUY"
+  ]
+ },
+ "OJRRAUXcQzI": {
+  "channel": "Mark Roussin CPA",
+  "title": "The Stock Market Is About to Make a BIG Move",
+  "published_at": "2026-10-20T14:00:16.810442+00:00",
+  "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+  "alerted": false,
+  "calls": [
+   "NVDA:UNCERTAIN",
+   "AVGO:UNCERTAIN",
+   "AMD:UNCERTAIN",
+   "MRVL:UNCERTAIN",
+   "CRWV:UNCERTAIN",
+   "ORCL:UNCERTAIN"
   ]
  }
 }
