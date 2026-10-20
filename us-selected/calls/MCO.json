@@ -1,0 +1,30 @@
+{
+ "ticker": "MCO",
+ "slug": "MCO",
+ "calls": [
+  {
+   "video_id": "4BooxjnAfPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "This Stock Is Undervalued",
+   "published_at": "2026-10-19T22:55:37.493333+00:00",
+   "analyzed_at": "2026-10-20T06:01:33.135988+00:00",
+   "collab": false,
+   "ticker": "MCO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY — first tracked Joseph MCO call, no flip: Moody's 'still remains one of the best companies in the market' and 'right now it's a particularly strong investment' — the undervalued stock of the title; proprietary, trusted data being integrated across enormous numbers of APIs and businesses, and far more predictable than Netflix, Meta or Tesla reporting the same week (Wednesday, before the open). No position or purchase stated — the call is his stated investment view.",
+   "base_case": "A predictable compounder: looking out 10 years the company is still in a great position and should deliver very attractive returns.",
+   "bull_case": "Its unique, trusted data becomes paramount as businesses integrate it via APIs, entrenching the franchise.",
+   "bear_case": "He 'just doesn't see the weaknesses the market is concerned about' — i.e. the market is pricing concerns he does not share; no specific bear case given."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 0
+  }
+ ]
+}
