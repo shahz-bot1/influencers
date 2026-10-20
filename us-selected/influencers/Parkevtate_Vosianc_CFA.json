@@ -4,6 +4,38 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "RBLX",
+   "tickerSlug": "RBLX",
+   "direction": "BUY",
+   "date": "2026-10-20T16:00:16.810442+00:00",
+   "price": "$49.55 (stated current); his DCF fair value ~$46",
+   "video_id": "Ilnv_YwsbX0"
+  },
+  {
+   "ticker": "MNST",
+   "tickerSlug": "MNST",
+   "direction": "HOLD",
+   "date": "2026-10-20T15:00:16.810442+00:00",
+   "price": "Over $45 (stated current); his DCF a little over $37",
+   "video_id": "hIg3gx2OmnM"
+  },
+  {
+   "ticker": "CELH",
+   "tickerSlug": "CELH",
+   "direction": "BUY",
+   "date": "2026-10-20T15:00:16.810442+00:00",
+   "price": "Not stated in this video",
+   "video_id": "hIg3gx2OmnM"
+  },
+  {
+   "ticker": "LLY",
+   "tickerSlug": "LLY",
+   "direction": "BUY",
+   "date": "2026-10-20T15:00:16.810442+00:00",
+   "price": "$1,251 (stated current); his DCF $1,523",
+   "video_id": "W942c9Uw8aw"
+  },
+  {
    "ticker": "AFRM",
    "tickerSlug": "AFRM",
    "direction": "BUY",
