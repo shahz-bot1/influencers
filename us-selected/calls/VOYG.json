@@ -3,6 +3,24 @@
  "slug": "VOYG",
  "calls": [
   {
+   "video_id": "VLlqZqAsvRI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 Stocks You’ll Wish You Bought Before Earnings",
+   "published_at": "2026-10-20T16:00:16.810442+00:00",
+   "analyzed_at": "2026-10-20T18:04:07.135672+00:00",
+   "collab": false,
+   "ticker": "VOYG",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$1.53B market cap (stated); he covered it before at ~$22",
+   "thesis": "CONDITIONAL_BUY — speculative watchlist/small-position name (he holds a small eToro position; most recent prior tracked mention was UNCERTAIN 2026-10-16, older stance CONDITIONAL_BUY, no flip): halved from highs, back at its pre-earnings price, growth potential unchanged or better, huge TAM in defence/space with Palantir/Anduril partnerships. Worth it only if execution delivers — profitability is not the story yet.",
+   "base_case": "Revenue compounds from a tiny base (~$300M) towards ~$1B by FY28 on big contracts; at a $1.5B cap it only needs to become a $10B company for the investment to work well.",
+   "bull_case": "Like Rocket Lab and Nebius before it, a small company with strategic partnerships scales aggressively and rerates many times over.",
+   "bear_case": "Operating profit and free cash flow stay negative to ~FY28 (break-even at best), it has missed revenue estimates in earlier quarters, and everything depends on execution."
+  },
+  {
    "video_id": "-kJ3c3kbXr4",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
