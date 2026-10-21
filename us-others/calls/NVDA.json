@@ -3,6 +3,16 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "3h3vRJnRLbE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Remains bullish and calm on Nvidia and the AI industry: SpaceXAI/xAI (captions render it 'SpaceX') is scaling compute fast (1.7 GW active end-Sep, ~2 GW end-Oct, 2.5 GW by year-end, ~13 GW targeted by end of next year, ~200,000 GB300s coming online per month), Super Micro raised its guide sharply on server demand, and new compute deployments are reportedly paying back in under a year — he reads all of it as proof AI GPU demand is still extreme.",
+   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+   "price_at_call": "No share price stated; Nvidia up about 2% on the day in the video's market roundup"
+  },
+  {
    "video_id": "v5NMsQnpR2Q",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -64,7 +74,7 @@
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
