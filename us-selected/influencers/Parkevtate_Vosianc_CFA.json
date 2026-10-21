@@ -4,6 +4,30 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "SERV",
+   "tickerSlug": "SERV",
+   "direction": "BUY",
+   "date": "2026-10-21T00:55:26.864305+00:00",
+   "price": null,
+   "video_id": "x6Xn6E_j434"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-10-20T23:55:26.864305+00:00",
+   "price": "$70 (stated market price)",
+   "video_id": "RmocOvGRhuU"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-10-20T23:55:26.864305+00:00",
+   "price": "$262 (stated market price)",
+   "video_id": "RmocOvGRhuU"
+  },
+  {
    "ticker": "RBLX",
    "tickerSlug": "RBLX",
    "direction": "BUY",
