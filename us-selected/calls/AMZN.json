@@ -3,6 +3,24 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "RmocOvGRhuU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 3rd Best Stock to Buy Right Now? |  NFLX Stock vs. AMZN Stock",
+   "published_at": "2026-10-20T23:55:26.864305+00:00",
+   "analyzed_at": "2026-10-21T18:06:05.113468+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "$262 (stated market price)",
+   "thesis": "BUY reiterated (was BUY, most recent explicit before an Oct 19 UNCERTAIN mention; no flip) — ranked his #4 best stock to buy; owns it and is interested in adding more of both. DCF implies ~21% undervaluation vs $262 market (fair-value figure dropped in auto-captions), forward P/E 25; he thinks ~21% long-run EPS growth estimates are too low (closer to 25-30%) as AI/AWS benefits build.",
+   "base_case": null,
+   "bull_case": "AWS/AI investment accelerates earnings, logistics densification lifts retail margins, ROIC (22%) closes on Netflix.",
+   "bear_case": "Revenue concentration and soaring capex (~$225B this year) for data-centre assets that last only 3-10 years."
+  },
+  {
    "video_id": "lD_4hYVqWPA",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -155,24 +173,24 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "Couch Investor",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
