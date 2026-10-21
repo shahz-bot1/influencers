@@ -3,6 +3,60 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "IhtkjAPaBrA",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I'm Buying More Of This Stock Tomorrow",
+   "published_at": "2026-10-21T21:11:10.918611+00:00",
+   "analyzed_at": "2026-10-21T22:05:34.451422+00:00",
+   "collab": false,
+   "flip": true,
+   "stance_flip": "HOLD -> BUY",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "FLIP: was HOLD (2026-10-20), now BUY — the video's title states he is buying more tomorrow, and the episode is a deep post-Q3 defence of his large NFLX position (he is up ~$15k on it). Record free cash flow ex the one-off Warner Bros Discovery payout, record buybacks (~$12.9B TTM), EPS growing ~20% organically once the WBD payout is stripped out, churn down year on year. Downside limited at forward P/E ~18 and ~4% FCF yield; pessimism already priced in. Management shake-up (content chief Bela Bajaria out, Peter Rice in) read as a pivot to prestige, must-see content.",
+   "base_case": null,
+   "bull_case": "Content quality turnaround under new creative leadership produces breakout hits, growth reaccelerates and the stock 'could soar far above what it is doing'.",
+   "bear_case": "Revenue growth decelerating (16% in 2025 toward ~10.9% expected 2027), engagement flat vs YouTube's rising view time, and creative-hit risk if the new slate fails."
+  },
+  {
+   "video_id": "DWyPO7AT0Ew",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "SpaceX Might Have Just Saved the AI Stocks. Here’s What It Means",
+   "published_at": "2026-10-21T15:00:18.879335+00:00",
+   "analyzed_at": "2026-10-21T18:06:05.113468+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "NFLX",
+   "direction": "HOLD",
+   "price_at_call": null,
+   "thesis": "HOLD reiterated (was HOLD 2026-10-09; no flip) — keeps the remaining half position after the Q3 print (revenue +11.8%, EPS $0.87, Q4 guide 11.5%, 2026 ad target cut $3B to $2.7B); calls it cheap/undervalued and profitable, but will NOT add — wants growth reacceleration and the FY27 guidance/ad recovery first, even if that means paying a higher price.",
+   "base_case": null,
+   "bull_case": "Content improves under the new chief content officer and live events/sports reaccelerate growth and ad demand.",
+   "bear_case": "Growth keeps slowing each quarter and ad rollout delays persist."
+  },
+  {
+   "video_id": "RmocOvGRhuU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 3rd Best Stock to Buy Right Now? |  NFLX Stock vs. AMZN Stock",
+   "published_at": "2026-10-20T23:55:26.864305+00:00",
+   "analyzed_at": "2026-10-21T18:06:05.113468+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": "$70 (stated market price)",
+   "thesis": "BUY reiterated (was BUY 2026-10-18; no flip) — ranked his #3 best stock to buy, ahead of AMZN at #4; owns it and is interested in adding more of both. DCF fair value $117 vs $70 market (~68% undervalued in his calc), forward P/E 18 vs AMZN 25, ~30% operating margin and 30.6% ROIC; long-run EPS growth seen ~21% on ~10-12% revenue growth.",
+   "base_case": null,
+   "bull_case": "Content library compounds for decades, AI lowers content cost, and margins/ROIC stay best-in-class.",
+   "bear_case": "Shift to short-form attention (TikTok/Reels/Shorts) where Netflix does not excel; rising content/sports spend."
+  },
+  {
    "video_id": "4BooxjnAfPY",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -193,7 +247,7 @@
    "idx": 0
   },
   {
-   "channel": "The German Value Investor",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
@@ -201,7 +255,7 @@
    "idx": 2
   },
   {
-   "channel": "Couch Investor",
+   "channel": "The German Value Investor",
    "idx": 4
   }
  ]
