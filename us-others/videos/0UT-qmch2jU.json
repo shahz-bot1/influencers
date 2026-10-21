@@ -1,0 +1,59 @@
+{
+ "video_id": "0UT-qmch2jU",
+ "title": "Why AI Stocks Are Falling (It’s Worse Than You Think)",
+ "creator": "Asymmetric Investing",
+ "published_at": "2026-10-20T16:55:51.687372+00:00",
+ "summary": "Travis Hoium (Asymmetric Investing) argues the AI sell-off is a financing reckoning centred on the neoclouds — CoreWeave, Nebius and Iren, with Oracle grouped in. Over five days to Friday's recording Oracle fell about 9%, Nebius about 19%, and Iren and CoreWeave about 22%. His three drivers: first, Anthropic's revenue growth has stalled month-on-month (about +1.8% over four weeks, after +46% quarter-on-quarter in Q3), while the capex already committed needs AI revenue to reach about $3 trillion by 2031 — Dylan Patel's framing, quoted in the video, is that OpenAI and Anthropic alone must reach hundreds of billions by end-2027 or 'we're in real trouble'. Second, buyers are capping AI spend (Accenture's $29-a-month Claude limit; Uber, Meta and Microsoft ending unlimited 'token maxing'), so willingness to pay, not token demand, is the question. Third, CoreWeave's 9% February 2031 debt yield has risen from about 8% in May to over 15%, implying a 20–25% equity hurdle that makes new data centres unprofitable — a doom loop for names that must keep raising capital, while cash-generative hyperscalers can pause. He is not in this part of the trade and expects more collapses. Calls: CRWV, NBIS, IREN and ORCL — AVOID (CRWV and ORCL were SELL on his 29 Sep sell list, so this is a stance change in form, with the bearish thesis unchanged); GOOGL — HOLD (owned, 'going to be just fine', no price stated). Caption figures for Patel's revenue projections are garbled in places.",
+ "calls": [
+  {
+   "video_id": "0UT-qmch2jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "CRWV",
+   "direction": "AVOID",
+   "thesis": "CoreWeave is the worked example: at a ~15% debt yield the equity return hurdle is 20-25%, which he thinks makes its buildout unprofitable. Neocloud doom loop: Anthropic revenue growth has stalled month-on-month (~+1.8% over the past 4 weeks after +46% QoQ in Q3), corporate AI spend is being capped, and CoreWeave's 2031 debt yield has risen from ~8% in May to over 15%, so new capital is too expensive to build data centres profitably; he is not in this part of the AI trade and expects some of these stocks to keep collapsing.",
+   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+   "price_at_call": "Down about 22% over the past 5 days at Friday's recording (no share price stated); 9% Feb 2031 debt yield over 15%, up from ~8% in May"
+  },
+  {
+   "video_id": "0UT-qmch2jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "NBIS",
+   "direction": "AVOID",
+   "thesis": "Grouped with CoreWeave and Iren as a capital-dependent neocloud hit hardest in the sell-off. Neocloud doom loop: Anthropic revenue growth has stalled month-on-month (~+1.8% over the past 4 weeks after +46% QoQ in Q3), corporate AI spend is being capped, and CoreWeave's 2031 debt yield has risen from ~8% in May to over 15%, so new capital is too expensive to build data centres profitably; he is not in this part of the AI trade and expects some of these stocks to keep collapsing.",
+   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+   "price_at_call": "Down about 19% over the past 5 days at Friday's recording (no share price stated); still up year-to-date"
+  },
+  {
+   "video_id": "0UT-qmch2jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "IREN",
+   "direction": "AVOID",
+   "thesis": "Grouped with CoreWeave and Nebius as a capital-dependent neocloud hit hardest in the sell-off. Neocloud doom loop: Anthropic revenue growth has stalled month-on-month (~+1.8% over the past 4 weeks after +46% QoQ in Q3), corporate AI spend is being capped, and CoreWeave's 2031 debt yield has risen from ~8% in May to over 15%, so new capital is too expensive to build data centres profitably; he is not in this part of the AI trade and expects some of these stocks to keep collapsing.",
+   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+   "price_at_call": "Down about 22% over the past 5 days at Friday's recording (no share price stated)"
+  },
+  {
+   "video_id": "0UT-qmch2jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "ORCL",
+   "direction": "AVOID",
+   "thesis": "Grouped in with the neoclouds in this video: a capex-heavy name that has had a terrible run over the past year. Neocloud doom loop: Anthropic revenue growth has stalled month-on-month (~+1.8% over the past 4 weeks after +46% QoQ in Q3), corporate AI spend is being capped, and CoreWeave's 2031 debt yield has risen from ~8% in May to over 15%, so new capital is too expensive to build data centres profitably; he is not in this part of the AI trade and expects some of these stocks to keep collapsing.",
+   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+   "price_at_call": "Down about 9% over the past 5 days at Friday's recording (no share price stated)"
+  },
+  {
+   "video_id": "0UT-qmch2jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "thesis": "Owns Alphabet and thinks it will be just fine: hyperscalers have core businesses generating cash flow and can pull back capex if needed, unlike the capital-dependent neoclouds; he also owns companies using AI to improve physical-world products and efficiency.",
+   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+   "price_at_call": "No price stated"
+  }
+ ]
+}
