@@ -3,6 +3,16 @@
  "slug": "ORCL",
  "calls": [
   {
+   "video_id": "0UT-qmch2jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "ORCL",
+   "direction": "AVOID",
+   "thesis": "Grouped in with the neoclouds in this video: a capex-heavy name that has had a terrible run over the past year. Neocloud doom loop: Anthropic revenue growth has stalled month-on-month (~+1.8% over the past 4 weeks after +46% QoQ in Q3), corporate AI spend is being capped, and CoreWeave's 2031 debt yield has risen from ~8% in May to over 15%, so new capital is too expensive to build data centres profitably; he is not in this part of the AI trade and expects some of these stocks to keep collapsing.",
+   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+   "price_at_call": "Down about 9% over the past 5 days at Friday's recording (no share price stated)"
+  },
+  {
    "video_id": "Zrbf8mXwsG4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -37,11 +47,11 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Asymmetric Investing",
    "idx": 0
   },
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Joseph Hogue, CFA",
    "idx": 1
   }
  ]
