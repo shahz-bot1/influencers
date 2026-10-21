@@ -1,0 +1,27 @@
+{
+ "video_id": "IhtkjAPaBrA",
+ "title": "I'm Buying More Of This Stock Tomorrow",
+ "creator": "Joseph Carlson After Hours",
+ "published_at": "2026-10-21T21:11:10.918611+00:00",
+ "summary": "Joseph Carlson devotes most of this episode to Netflix's Q3 earnings, reported the previous day, because NFLX is a large position in his portfolio (he says he is up about $15,000 on it). He argues the numbers are far stronger than the narrative: stripping out the one-off Warner Bros Discovery payout, Netflix just posted record normalized free cash flow of $2.9 billion, trailing buybacks of about $12.9 billion are genuinely reducing the share count, and underlying EPS growth is roughly 20% a year rather than stalling as headline charts suggest. The real problem is growth optics and engagement: revenue growth is decelerating from 16% in 2025 toward about 10.9% expected in 2027, and the Wall Street Journal is highlighting flat Netflix viewing against YouTube's climb. Carlson rebuts the YouTube thesis directly — churn fell year on year in Q3, so viewers are adding YouTube without cancelling Netflix. He reads the firing of roughly 1,000 staff including content chief Bela Bajaria, and the hiring of Peter Rice (Fox/FX pedigree: The Bear, Shogun), plus talks with Warner's Michael De Luca and Pam Abdy, as a deliberate pivot from algorithm-driven volume to prestige, must-see content. At a forward P/E of about 18 and a free cash flow yield near 4%, he sees limited downside and large upside if content quality improves, and the title states he is buying more tomorrow — a flip from his HOLD of 20 Oct. He also covers SpaceX's blowout quarter (revenue roughly $7B to $14.5B, Starlink subscribers 12M to 13.6M) with no explicit call, praises Intuitive Surgical's quarter (not yet invested, deep dive planned), and closes with a 'fail of the week' attacking AI bear Ed Zitron's motives. Caption note: a personal name in the Zitron segment was redacted in the caption file; figures are as spoken in auto-captions.",
+ "calls": [
+  {
+   "video_id": "IhtkjAPaBrA",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I'm Buying More Of This Stock Tomorrow",
+   "published_at": "2026-10-21T21:11:10.918611+00:00",
+   "analyzed_at": "2026-10-21T22:05:34.451422+00:00",
+   "collab": false,
+   "flip": true,
+   "stance_flip": "HOLD -> BUY",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "FLIP: was HOLD (2026-10-20), now BUY — the video's title states he is buying more tomorrow, and the episode is a deep post-Q3 defence of his large NFLX position (he is up ~$15k on it). Record free cash flow ex the one-off Warner Bros Discovery payout, record buybacks (~$12.9B TTM), EPS growing ~20% organically once the WBD payout is stripped out, churn down year on year. Downside limited at forward P/E ~18 and ~4% FCF yield; pessimism already priced in. Management shake-up (content chief Bela Bajaria out, Peter Rice in) read as a pivot to prestige, must-see content.",
+   "base_case": null,
+   "bull_case": "Content quality turnaround under new creative leadership produces breakout hits, growth reaccelerates and the stock 'could soar far above what it is doing'.",
+   "bear_case": "Revenue growth decelerating (16% in 2025 toward ~10.9% expected 2027), engagement flat vs YouTube's rising view time, and creative-hit risk if the new slate fails."
+  }
+ ]
+}
