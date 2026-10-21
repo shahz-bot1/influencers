@@ -3,6 +3,25 @@
  "slug": "ABBV",
  "calls": [
   {
+   "video_id": "FFArRRXrliA",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "3 Stocks to Buy Before Midterms (Get PAID No Matter Who Wins)",
+   "published_at": "2026-10-20T22:55:26.864305+00:00",
+   "analyzed_at": "2026-10-21T05:57:12.933318+00:00",
+   "guest": "Mark Lichtenfeld (The Oxford Club)",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "ticker": "ABBV",
+   "direction": "BUY",
+   "thesis": "Guest Mark Lichtenfeld: first tracked MarketBeat call on AbbVie, a long-time favourite presented as a buy. Biopharma giant, perpetual dividend raiser (raised every year since the Abbott spin-off), huge drug pipeline and portfolio including leading cancer drugs, strong acquisition history; Q2 revenue up 10%. At ~18x earnings it is not dirt cheap, but steady growth should continue and all-time highs do not deter him.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  },
+  {
    "video_id": "QxqManKEg4U",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -35,8 +54,12 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 0
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 1
   }
  ]
 }
