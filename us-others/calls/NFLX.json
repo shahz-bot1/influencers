@@ -1,0 +1,25 @@
+{
+ "ticker": "NFLX",
+ "slug": "NFLX",
+ "calls": [
+  {
+   "video_id": "OZBaYC2tTDk",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "NFLX",
+   "direction": "AVOID",
+   "thesis": "Does not own Netflix and has no conviction to buy even after the post-Q3 fall: revenue growth is decelerating (18% to an 11.5% Q4 guide), the Q4 advertising guide was cut 10% / $300m, US growth is largely price rises, watch time per member is flat to falling and YouTube is taking US TV share, so he thinks the moat is weakening and would not bet on Netflix against Amazon and Google long term.",
+   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+   "price_at_call": "Down almost 6% in after-hours after Q3 and almost 50% from its all-time high before the report (no share price stated); ~22x trailing / ~20x forward earnings on a normalised basis after the after-hours fall",
+   "base": "If Netflix sustains ~10% revenue growth and keeps expanding margins, earnings could compound 10-15% longer term and the stock looks interesting at ~20x forward.",
+   "bull": "Advertising becomes the next growth and margin driver as guided before the Q4 cut, and membership/retention strength holds.",
+   "bear": "Revenue growth decelerates below 10%, margins and price rises hit their limits, churn rises, and engagement keeps leaking to YouTube and other competitors."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Daniel Pronk",
+   "idx": 0
+  }
+ ]
+}
