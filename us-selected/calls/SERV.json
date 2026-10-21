@@ -1,0 +1,30 @@
+{
+ "ticker": "SERV",
+ "slug": "SERV",
+ "calls": [
+  {
+   "video_id": "x6Xn6E_j434",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Serve Robotics Should Only Be Considered by Investors With a High Risk Tolerance",
+   "published_at": "2026-10-21T00:55:26.864305+00:00",
+   "analyzed_at": "2026-10-21T18:06:05.113468+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "SERV",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "BUY reiterated in his words (first tracked call; he says he upgraded it to a buying opportunity on 25 Aug, low conviction then and now; no prior tracked call, so no flip) — Serve Robotics, high-risk/high-reward only for investors with very high risk tolerance. Despite the Uber partnership ending, 2026 revenue guide cut $26M to $9-10M and the stock down >30% in a month / ~70% YTD, he cites 59% upside to his fair value over 12-18 months (transcript price figures garbled/inconsistent), a DoorDash expansion and the Beacon countertop device; he is considering selling puts or buying after a likely dilution announcement.",
+   "base_case": null,
+   "bull_case": "New delivery partnerships (DoorDash/Grubhub/direct restaurant deals) and Beacon integrations replace Uber volume and robot delivery lowers restaurant delivery costs.",
+   "bear_case": "Likely share dilution in coming quarters/months ($145M 2026 opex vs ~$10M revenue, $235M cash), and failure to win merchant volume without Uber."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
