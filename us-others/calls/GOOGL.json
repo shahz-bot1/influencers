@@ -3,6 +3,16 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "0UT-qmch2jU",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "thesis": "Owns Alphabet and thinks it will be just fine: hyperscalers have core businesses generating cash flow and can pull back capex if needed, unlike the capital-dependent neoclouds; he also owns companies using AI to improve physical-world products and efficiency.",
+   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+   "price_at_call": "No price stated"
+  },
+  {
    "video_id": "1Js-3kgdOMw",
    "channel": "Sven Carlin",
    "handle": "@value-investing",
@@ -18,8 +28,12 @@
  ],
  "byInf": [
   {
-   "channel": "Sven Carlin",
+   "channel": "Asymmetric Investing",
    "idx": 0
+  },
+  {
+   "channel": "Sven Carlin",
+   "idx": 1
   }
  ]
 }
