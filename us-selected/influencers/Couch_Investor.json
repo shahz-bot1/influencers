@@ -4,6 +4,14 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "HOLD",
+   "date": "2026-10-21T15:00:18.879335+00:00",
+   "price": null,
+   "video_id": "DWyPO7AT0Ew"
+  },
+  {
    "ticker": "SE",
    "tickerSlug": "SE",
    "direction": "BUY",
