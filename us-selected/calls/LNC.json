@@ -1,0 +1,31 @@
+{
+ "ticker": "LNC",
+ "slug": "LNC",
+ "calls": [
+  {
+   "video_id": "FFArRRXrliA",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "3 Stocks to Buy Before Midterms (Get PAID No Matter Who Wins)",
+   "published_at": "2026-10-20T22:55:26.864305+00:00",
+   "analyzed_at": "2026-10-21T05:57:12.933318+00:00",
+   "guest": "Mark Lichtenfeld (The Oxford Club)",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "ticker": "LNC",
+   "direction": "BUY",
+   "thesis": "Guest Mark Lichtenfeld: first tracked MarketBeat call on Lincoln National, presented as a stock to buy before the midterms. Insurers thrive as rates rise gradually — they earn more on invested premiums while payouts stay fixed; Lincoln is a big seller of popular fixed annuities, has de-risked liabilities via reinsurance, and pays a 4.5% dividend yield. He says financials have pulled back and this is a good time to be buying them.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
