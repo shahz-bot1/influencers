@@ -6,6 +6,14 @@
   {
    "ticker": "NFLX",
    "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-10-21T21:11:10.918611+00:00",
+   "price": null,
+   "video_id": "IhtkjAPaBrA"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
    "direction": "HOLD",
    "date": "2026-10-19T22:55:37.493333+00:00",
    "price": "19x forward P/E, 3.8% free-cash-flow yield (stated; no share price stated)",
