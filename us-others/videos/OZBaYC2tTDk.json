@@ -1,0 +1,22 @@
+{
+ "video_id": "OZBaYC2tTDk",
+ "title": "Netflix Stock Is Crashing - What You Need To Know",
+ "creator": "Daniel Pronk",
+ "published_at": "2026-10-20T22:55:51.687372+00:00",
+ "summary": "Daniel Pronk reviews Netflix's Q3 report after the stock fell almost 6% in after-hours, on top of being down almost 50% from its all-time high. Revenue rose 12% year-on-year (11% FX-neutral, in line) and operating margin beat at 34.6%, but full-year 2026 revenue guidance was trimmed from $51.2B to $51.1B and the Q4 advertising revenue guide was cut 10% (about $300M) — the key disappointment, since advertising is meant to be the next growth and margin driver. He stresses continued revenue deceleration (about 18% to an 11.5% Q4 guide) across regions, weak watch time (India, its showcase market, grew hours 24% but only low-to-mid single digits per member), and US TV share losses to YouTube. US growth looks largely price-led after two rises in just over a year. Cash flow is strong ($3.162B operating cash flow in Q3), though flattered by a one-time Warner Bros breakup fee, and buybacks ($4.8B in Q3, $10.8B year-to-date) exceeded free cash flow, funded by about $1B of new debt. At roughly 22x trailing and 20x forward normalised earnings the stock only interests him if the moat holds and earnings compound 10–15%; he is more sceptical than confident, does not own it, and would not buy here. Call: NFLX — AVOID, no share price stated. No other tickers are given calls; Amazon and Google appear only as competitors.",
+ "calls": [
+  {
+   "video_id": "OZBaYC2tTDk",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "NFLX",
+   "direction": "AVOID",
+   "thesis": "Does not own Netflix and has no conviction to buy even after the post-Q3 fall: revenue growth is decelerating (18% to an 11.5% Q4 guide), the Q4 advertising guide was cut 10% / $300m, US growth is largely price rises, watch time per member is flat to falling and YouTube is taking US TV share, so he thinks the moat is weakening and would not bet on Netflix against Amazon and Google long term.",
+   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+   "price_at_call": "Down almost 6% in after-hours after Q3 and almost 50% from its all-time high before the report (no share price stated); ~22x trailing / ~20x forward earnings on a normalised basis after the after-hours fall",
+   "base": "If Netflix sustains ~10% revenue growth and keeps expanding margins, earnings could compound 10-15% longer term and the stock looks interesting at ~20x forward.",
+   "bull": "Advertising becomes the next growth and margin driver as guided before the Q4 cut, and membership/retention strength holds.",
+   "bear": "Revenue growth decelerates below 10%, margins and price rises hit their limits, churn rises, and engagement keeps leaking to YouTube and other competitors."
+  }
+ ]
+}
