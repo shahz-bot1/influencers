@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "LNC",
+   "tickerSlug": "LNC",
+   "direction": "BUY",
+   "date": "2026-10-20T22:55:26.864305+00:00",
+   "price": null,
+   "video_id": "FFArRRXrliA"
+  },
+  {
+   "ticker": "ABBV",
+   "tickerSlug": "ABBV",
+   "direction": "BUY",
+   "date": "2026-10-20T22:55:26.864305+00:00",
+   "price": null,
+   "video_id": "FFArRRXrliA"
+  },
+  {
+   "ticker": "PSX",
+   "tickerSlug": "PSX",
+   "direction": "BUY",
+   "date": "2026-10-20T22:55:26.864305+00:00",
+   "price": null,
+   "video_id": "FFArRRXrliA"
+  },
+  {
    "ticker": "PLTR",
    "tickerSlug": "PLTR",
    "direction": "BUY",
