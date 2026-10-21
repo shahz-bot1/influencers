@@ -4,6 +4,14 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "AVOID",
+   "date": "2026-10-21T04:00:25.111307+00:00",
+   "price": "Down almost 6% in after-hours after Q3 and almost 50% from its all-time high before the report (no share price stated); ~22x trailing / ~20x forward earnings on a normalised basis after the after-hours fall",
+   "video_id": "OZBaYC2tTDk"
+  },
+  {
    "ticker": "CRWV",
    "tickerSlug": "CRWV",
    "direction": "AVOID",
