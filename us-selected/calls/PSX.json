@@ -1,0 +1,31 @@
+{
+ "ticker": "PSX",
+ "slug": "PSX",
+ "calls": [
+  {
+   "video_id": "FFArRRXrliA",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "3 Stocks to Buy Before Midterms (Get PAID No Matter Who Wins)",
+   "published_at": "2026-10-20T22:55:26.864305+00:00",
+   "analyzed_at": "2026-10-21T05:57:12.933318+00:00",
+   "guest": "Mark Lichtenfeld (The Oxford Club)",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "ticker": "PSX",
+   "direction": "BUY",
+   "thesis": "Guest Mark Lichtenfeld: first tracked MarketBeat call on Phillips 66, his favourite refiner, recommended before the war started. Refiner margins have surged, a lasting Strait of Hormuz risk premium should keep oil well above $40-50, and the dividend has been raised for over a decade. Wall Street expects ~7% earnings decline next year after this year's surge; he thinks that is too pessimistic and positive growth would be a major catalyst.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
