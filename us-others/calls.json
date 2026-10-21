@@ -2365,5 +2365,98 @@
   "thesis": "Named networking beneficiary only: Arista 7800 cited in Meta's aggregation layer, benefiting alongside Broadcom as clusters scale \u2014 no Arista-specific buy call in this video.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-20T03:59:07.714277+00:00"
+ },
+ {
+  "video_id": "OZBaYC2tTDk",
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "ticker": "NFLX",
+  "direction": "AVOID",
+  "thesis": "Does not own Netflix and has no conviction to buy even after the post-Q3 fall: revenue growth is decelerating (18% to an 11.5% Q4 guide), the Q4 advertising guide was cut 10% / $300m, US growth is largely price rises, watch time per member is flat to falling and YouTube is taking US TV share, so he thinks the moat is weakening and would not bet on Netflix against Amazon and Google long term.",
+  "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+  "price_at_call": "Down almost 6% in after-hours after Q3 and almost 50% from its all-time high before the report (no share price stated); ~22x trailing / ~20x forward earnings on a normalised basis after the after-hours fall",
+  "base": "If Netflix sustains ~10% revenue growth and keeps expanding margins, earnings could compound 10-15% longer term and the stock looks interesting at ~20x forward.",
+  "bull": "Advertising becomes the next growth and margin driver as guided before the Q4 cut, and membership/retention strength holds.",
+  "bear": "Revenue growth decelerates below 10%, margins and price rises hit their limits, churn rises, and engagement keeps leaking to YouTube and other competitors."
+ },
+ {
+  "video_id": "0UT-qmch2jU",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "CRWV",
+  "direction": "AVOID",
+  "thesis": "CoreWeave is the worked example: at a ~15% debt yield the equity return hurdle is 20-25%, which he thinks makes its buildout unprofitable. Neocloud doom loop: Anthropic revenue growth has stalled month-on-month (~+1.8% over the past 4 weeks after +46% QoQ in Q3), corporate AI spend is being capped, and CoreWeave's 2031 debt yield has risen from ~8% in May to over 15%, so new capital is too expensive to build data centres profitably; he is not in this part of the AI trade and expects some of these stocks to keep collapsing.",
+  "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+  "price_at_call": "Down about 22% over the past 5 days at Friday's recording (no share price stated); 9% Feb 2031 debt yield over 15%, up from ~8% in May"
+ },
+ {
+  "video_id": "0UT-qmch2jU",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "NBIS",
+  "direction": "AVOID",
+  "thesis": "Grouped with CoreWeave and Iren as a capital-dependent neocloud hit hardest in the sell-off. Neocloud doom loop: Anthropic revenue growth has stalled month-on-month (~+1.8% over the past 4 weeks after +46% QoQ in Q3), corporate AI spend is being capped, and CoreWeave's 2031 debt yield has risen from ~8% in May to over 15%, so new capital is too expensive to build data centres profitably; he is not in this part of the AI trade and expects some of these stocks to keep collapsing.",
+  "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+  "price_at_call": "Down about 19% over the past 5 days at Friday's recording (no share price stated); still up year-to-date"
+ },
+ {
+  "video_id": "0UT-qmch2jU",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "IREN",
+  "direction": "AVOID",
+  "thesis": "Grouped with CoreWeave and Nebius as a capital-dependent neocloud hit hardest in the sell-off. Neocloud doom loop: Anthropic revenue growth has stalled month-on-month (~+1.8% over the past 4 weeks after +46% QoQ in Q3), corporate AI spend is being capped, and CoreWeave's 2031 debt yield has risen from ~8% in May to over 15%, so new capital is too expensive to build data centres profitably; he is not in this part of the AI trade and expects some of these stocks to keep collapsing.",
+  "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+  "price_at_call": "Down about 22% over the past 5 days at Friday's recording (no share price stated)"
+ },
+ {
+  "video_id": "0UT-qmch2jU",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "ORCL",
+  "direction": "AVOID",
+  "thesis": "Grouped in with the neoclouds in this video: a capex-heavy name that has had a terrible run over the past year. Neocloud doom loop: Anthropic revenue growth has stalled month-on-month (~+1.8% over the past 4 weeks after +46% QoQ in Q3), corporate AI spend is being capped, and CoreWeave's 2031 debt yield has risen from ~8% in May to over 15%, so new capital is too expensive to build data centres profitably; he is not in this part of the AI trade and expects some of these stocks to keep collapsing.",
+  "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+  "price_at_call": "Down about 9% over the past 5 days at Friday's recording (no share price stated)"
+ },
+ {
+  "video_id": "0UT-qmch2jU",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "GOOGL",
+  "direction": "HOLD",
+  "thesis": "Owns Alphabet and thinks it will be just fine: hyperscalers have core businesses generating cash flow and can pull back capex if needed, unlike the capital-dependent neoclouds; he also owns companies using AI to improve physical-world products and efficiency.",
+  "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+  "price_at_call": "No price stated"
+ },
+ {
+  "video_id": "3h3vRJnRLbE",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "NVDA",
+  "direction": "BUY",
+  "thesis": "Remains bullish and calm on Nvidia and the AI industry: SpaceXAI/xAI (captions render it 'SpaceX') is scaling compute fast (1.7 GW active end-Sep, ~2 GW end-Oct, 2.5 GW by year-end, ~13 GW targeted by end of next year, ~200,000 GB300s coming online per month), Super Micro raised its guide sharply on server demand, and new compute deployments are reportedly paying back in under a year \u2014 he reads all of it as proof AI GPU demand is still extreme.",
+  "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+  "price_at_call": "No share price stated; Nvidia up about 2% on the day in the video's market roundup"
+ },
+ {
+  "video_id": "3h3vRJnRLbE",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "SMCI",
+  "direction": "UNCERTAIN",
+  "thesis": "Positive coverage only, no explicit buy stated in this video: Super Micro pre-announced fiscal Q1 2027 revenue of $18.5-19.5B (a ~$4B / ~26.7% guide raise) with gross margins of 12-12.5% vs 10.4-10.8% expected, which he reads as massive AI server demand with pricing power; full results due 3 Nov.",
+  "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+  "price_at_call": "No price stated"
+ },
+ {
+  "video_id": "3h3vRJnRLbE",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "META",
+  "direction": "UNCERTAIN",
+  "thesis": "Positive earnings preview only, no explicit buy stated in this video: Meta reports tomorrow (per the video), he does not expect anything bearish and thinks it will be bullish again, and says he cares about the data rather than the share-price reaction.",
+  "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
+  "price_at_call": "No price stated"
  }
 ]
