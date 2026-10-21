@@ -1410,8 +1410,8 @@
  "XUn_XZGb2tU": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Stock Markets Crashing: 1 Incredibly Cheap AI Stock I Just Bought That Could 100X My Money",
-  "published_at": "2026-10-15T13:55:51.183210+00:00",
-  "analyzed_at": "2026-10-20T22:00:59.626260+00:00",
+  "published_at": "2026-10-15T05:55:26.864305+00:00",
+  "analyzed_at": "2026-10-21T22:05:34.451422+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
@@ -1644,8 +1644,8 @@
  "aw_hamaumXA": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Stock Markets Crashing: Here's Exactly What I am Doing in My Portfolio",
-  "published_at": "2026-10-18T17:55:51.183210+00:00",
-  "analyzed_at": "2026-10-20T22:00:59.626260+00:00",
+  "published_at": "2026-10-19T05:55:26.864305+00:00",
+  "analyzed_at": "2026-10-21T22:05:34.451422+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
@@ -1771,5 +1771,82 @@
    "CRWV:UNCERTAIN",
    "ORCL:UNCERTAIN"
   ]
+ },
+ "n2uLj3gmL4I": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Why Is BigBear.ai Stock Crashing, and is it a Buying Opportunity? | BBAI Stock Analysis",
+  "published_at": "2026-10-21T00:55:26.864305+00:00",
+  "analyzed_at": "2026-10-21T22:05:34.451422+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "x6Xn6E_j434": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Serve Robotics Should Only Be Considered by Investors With a High Risk Tolerance",
+  "published_at": "2026-10-21T00:55:26.864305+00:00",
+  "analyzed_at": "2026-10-21T18:06:05.113468+00:00",
+  "alerted": true,
+  "calls": [
+   "SERV:BUY"
+  ]
+ },
+ "uXWXsaBWMgU": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Should You Buy Amazon Stock Before the Massive Investor Update? | AMZN Stock Analysis",
+  "published_at": "2026-10-21T00:55:26.864305+00:00",
+  "analyzed_at": "2026-10-21T22:05:34.451422+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "X4iwiPHULtQ": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Should Investors Buy Alphabet Stock Before the Huge Investor Update? | GOOG Stock Analysis",
+  "published_at": "2026-10-20T23:55:26.864305+00:00",
+  "analyzed_at": "2026-10-21T22:05:34.451422+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "RmocOvGRhuU": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "The 3rd Best Stock to Buy Right Now? |  NFLX Stock vs. AMZN Stock",
+  "published_at": "2026-10-20T23:55:26.864305+00:00",
+  "analyzed_at": "2026-10-21T18:06:05.113468+00:00",
+  "alerted": true,
+  "calls": [
+   "NFLX:BUY",
+   "AMZN:BUY"
+  ]
+ },
+ "FFArRRXrliA": {
+  "channel": "MarketBeat",
+  "title": "3 Stocks to Buy Before Midterms (Get PAID No Matter Who Wins)",
+  "published_at": "2026-10-20T22:55:26.864305+00:00",
+  "analyzed_at": "2026-10-21T05:57:12.933318+00:00",
+  "alerted": true,
+  "calls": [
+   "LNC:BUY",
+   "ABBV:BUY",
+   "PSX:BUY"
+  ]
+ },
+ "DWyPO7AT0Ew": {
+  "channel": "Couch Investor",
+  "title": "SpaceX Might Have Just Saved the AI Stocks. Here\u2019s What It Means",
+  "published_at": "2026-10-21T15:00:18.879335+00:00",
+  "analyzed_at": "2026-10-21T18:06:05.113468+00:00",
+  "alerted": true,
+  "calls": [
+   "NFLX:HOLD",
+   "NBIS:UNCERTAIN",
+   "CRWV:UNCERTAIN",
+   "SPCX:UNCERTAIN"
+  ]
+ },
+ "IhtkjAPaBrA": {
+  "channel": "Joseph Carlson After Hours",
+  "title": "I'm Buying More Of This Stock Tomorrow",
+  "published_at": "2026-10-21T21:11:10.918611+00:00",
+  "analyzed_at": "2026-10-21T22:05:34.451422+00:00",
+  "alerted": true
  }
 }
