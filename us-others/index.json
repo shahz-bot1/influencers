@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:00:24.605664+00:00",
+ "updated": "2026-10-21T04:01:25.946484+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -659,7 +659,7 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "lastDate": "2026-10-21T04:00:25.111307+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -667,24 +667,19 @@
      "avg": "$25"
     },
     {
-     "dir": "SELL",
-     "n": 1,
-     "avg": null
-    },
-    {
      "dir": "AVOID",
-     "n": 2,
-     "avg": "$33"
+     "n": 3,
+     "avg": "$27.5"
     }
    ],
    "influencers": [
+    "Asymmetric Investing",
     "Jose Najarro Stocks",
     "Daniel Pronk",
-    "Asymmetric Investing",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No share price stated; down ~25% from 9-16 Oct with the group",
-   "nCalls": 6
+   "lastStated": "Down about 22% over the past 5 days at Friday's recording (no share price stated",
+   "nCalls": 7
   },
   {
    "ticker": "DHI",
@@ -842,8 +837,13 @@
   {
    "ticker": "GOOGL",
    "slug": "GOOGL",
-   "lastDate": "2026-10-08T05:10:00+00:00",
+   "lastDate": "2026-10-21T04:00:25.111307+00:00",
    "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": null
+    },
     {
      "dir": "AVOID",
      "n": 1,
@@ -851,10 +851,11 @@
     }
    ],
    "influencers": [
+    "Asymmetric Investing",
     "Sven Carlin"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "No price stated",
+   "nCalls": 2
   },
   {
    "ticker": "GRAB",
@@ -928,7 +929,7 @@
   {
    "ticker": "IREN",
    "slug": "IREN",
-   "lastDate": "2026-10-17T03:58:32.502406+00:00",
+   "lastDate": "2026-10-21T04:00:25.111307+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -937,16 +938,17 @@
     },
     {
      "dir": "AVOID",
-     "n": 1,
-     "avg": "$42"
+     "n": 2,
+     "avg": "$32"
     }
    ],
    "influencers": [
+    "Asymmetric Investing",
     "Daniel Pronk",
     "Jose Najarro Stocks"
    ],
-   "lastStated": "Down 42% over past couple of weeks (no share price stated; captions render the n",
-   "nCalls": 2
+   "lastStated": "Down about 22% over the past 5 days at Friday's recording (no share price stated",
+   "nCalls": 3
   },
   {
    "ticker": "JBLU",
@@ -1238,7 +1240,7 @@
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-10-17T03:58:32.502406+00:00",
+   "lastDate": "2026-10-21T04:00:25.111307+00:00",
    "chips": [
     {
      "dir": "CONDITIONAL_BUY",
@@ -1247,16 +1249,34 @@
     },
     {
      "dir": "AVOID",
-     "n": 1,
-     "avg": "$33"
+     "n": 2,
+     "avg": "$26"
     }
    ],
    "influencers": [
+    "Asymmetric Investing",
     "Daniel Pronk",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Down 33% (no share price stated)",
-   "nCalls": 2
+   "lastStated": "Down about 19% over the past 5 days at Friday's recording (no share price stated",
+   "nCalls": 3
+  },
+  {
+   "ticker": "NFLX",
+   "slug": "NFLX",
+   "lastDate": "2026-10-21T04:00:25.111307+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$6"
+    }
+   ],
+   "influencers": [
+    "Daniel Pronk"
+   ],
+   "lastStated": "Down almost 6% in after-hours after Q3 and almost 50% from its all-time high bef",
+   "nCalls": 1
   },
   {
    "ticker": "NOK",
@@ -1312,20 +1332,20 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-10-20T03:59:07.714277+00:00",
+   "lastDate": "2026-10-21T04:00:25.111307+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": null
+     "avg": "$2"
     }
    ],
    "influencers": [
     "Jose Najarro Stocks",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "no price stated",
-   "nCalls": 5
+   "lastStated": "No share price stated; Nvidia up about 2% on the day in the video's market round",
+   "nCalls": 6
   },
   {
    "ticker": "NVDY",
@@ -1364,25 +1384,20 @@
   {
    "ticker": "ORCL",
    "slug": "ORCL",
-   "lastDate": "2026-10-05T03:58:02.949500+00:00",
+   "lastDate": "2026-10-21T04:00:25.111307+00:00",
    "chips": [
     {
-     "dir": "SELL",
-     "n": 1,
-     "avg": null
-    },
-    {
      "dir": "AVOID",
-     "n": 1,
-     "avg": null
+     "n": 2,
+     "avg": "$9"
     }
    ],
    "influencers": [
-    "Joseph Hogue, CFA",
-    "Asymmetric Investing"
+    "Asymmetric Investing",
+    "Joseph Hogue, CFA"
    ],
-   "lastStated": "-6.5% on the week / -53% since May",
-   "nCalls": 3
+   "lastStated": "Down about 9% over the past 5 days at Friday's recording (no share price stated)",
+   "nCalls": 4
   },
   {
    "ticker": "PANW",
@@ -2015,8 +2030,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 16,
-   "nVideos": 6
+   "nCalls": 21,
+   "nVideos": 7
   },
   {
    "name": "Brian Feroldi",
@@ -2029,8 +2044,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 9,
-   "nVideos": 4
+   "nCalls": 10,
+   "nVideos": 5
   },
   {
    "name": "Everything Money",
@@ -2043,8 +2058,8 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 28,
-   "nVideos": 9
+   "nCalls": 29,
+   "nVideos": 10
   },
   {
    "name": "Joseph Hogue, CFA",
@@ -2083,6 +2098,36 @@
   }
  ],
  "videos": [
+  {
+   "id": "3h3vRJnRLbE",
+   "title": "NVIDIA Stock Investors... Elon Musk Just Delivered HUGE News!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-21T03:26:51.687372+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "OZBaYC2tTDk",
+   "title": "Netflix Stock Is Crashing - What You Need To Know",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-10-20T22:55:51.687372+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "0UT-qmch2jU",
+   "title": "Why AI Stocks Are Falling (It’s Worse Than You Think)",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-10-20T16:55:51.687372+00:00",
+   "nCalls": 5
+  },
   {
    "id": "v5NMsQnpR2Q",
    "title": "NVIDIA Stock: Meta Just Confirmed the AI Demand Is REAL!!",
