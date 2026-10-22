@@ -2458,5 +2458,125 @@
   "thesis": "Positive earnings preview only, no explicit buy stated in this video: Meta reports tomorrow (per the video), he does not expect anything bearish and thinks it will be bullish again, and says he cares about the data rather than the share-price reaction.",
   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
   "price_at_call": "No price stated"
+ },
+ {
+  "video_id": "VpIy9dfKK9I",
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "ticker": "META",
+  "direction": "HOLD",
+  "thesis": "Messy Q3 but underlying profitability still growing: revenue up 26% YoY to $64.6B, a $9.89B legal charge suppressed operating income, free cash flow was negative this quarter (capex $34.91B vs operating cash flow $32.8B) and he expects negative FCF and some dilution from the new Class C share into 2027 \u2014 but he still thinks Meta is undervalued (updated DCF: 15% operating-cash-flow growth at 14x price/OCF gives ~17% annual compounding; ~23x normalised earnings if net margin returns to ~30%), so he continues holding and would increase the position if the shares come down more.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "Up ~5% in after-hours at recording; no share price stated (he was building his position when it was under $600 a couple of months ago)"
+ },
+ {
+  "video_id": "gYOUhwmQqs4",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "PATH",
+  "direction": "BUY",
+  "thesis": "First tracked Hogue PATH call, in his seven stocks to buy for the post-AI-bubble world (staged buying: a little now, add every month or two, keep cash for a crash): UiPath is moving from repetitive-task automation into AI agents that interpret information and complete workflows, without spending billions on models or data centres; already $370M+ operating cash flow, $360M+ free cash flow and $619M cash, so it can survive a financing dry-up; risk is its original automation being made obsolete by Microsoft/OpenAI-type competitors.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "Down ~18% over the last year; analyst average target $15.57 (~20% upside) as stated"
+ },
+ {
+  "video_id": "gYOUhwmQqs4",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "NOW",
+  "direction": "BUY",
+  "thesis": "ServiceNow as the orchestration layer between a company's AI agents and AI models, routing agents to the most efficient model and controlling AI costs; revenue expected up 22% this year, $5.3B operating cash flow and $4.5B+ free cash flow, $2.5B cash \u2014 no survivability worry; risk is Microsoft, Salesforce and AI developers competing in the same orchestration role; he thinks Wall Street is too focused on software risks and the stock goes much higher.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "Down ~21% over 12 months; analyst average target $155 (~10% upside) as stated in captions \u2014 that target figure looks garbled, treat with caution"
+ },
+ {
+  "video_id": "gYOUhwmQqs4",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "PLTR",
+  "direction": "CONDITIONAL_BUY",
+  "thesis": "Palantir could be one of the biggest winners from turning AI into real-world business decisions (revenue expected up 83% this year, ~50% next year; $3.4B operating/free cash flow, $2B+ cash), but valuation is the big risk at 163x earnings / 80x sales \u2014 he wants it down to around $160 or even $150 a share before jumping in too much and is not loading up at the current price.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "His buy zone $150-$160; analyst average target $212 (~13% upside), low target $80 (-57%) as stated"
+ },
+ {
+  "video_id": "gYOUhwmQqs4",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "NET",
+  "direction": "BUY",
+  "thesis": "Cloudflare as the management/secure layer between AI agents and models, with authentication and protection built in, on top of its global security/connectivity network; revenue expected up 32% this year and profits up 35% to $1.26/share, $633M operating cash flow and ~$1.7B cash \u2014 enough to survive an AI crash and ramp back up.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "Up ~38% over 12 months; analyst average target $358 (~21% upside), low target $160 as stated"
+ },
+ {
+  "video_id": "gYOUhwmQqs4",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "SOUN",
+  "direction": "BUY",
+  "thesis": "SoundHound in his seven to buy for the post-bubble world despite being one of the riskiest names: voice AI for restaurants, customer service and autos, a stated $140B market opportunity, revenue expected up 73% this year to almost $300M and 32% next year \u2014 but it has never generated positive cash flow and depends on constant financing (~$200M cash on hand as stated); he first recommended it near $4.80 in early 2024, had shares called away around $15 in January and bought back just under $9 in April.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "Analyst average target $11 (more than double the current price as stated); low target $6 (~26% upside)"
+ },
+ {
+  "video_id": "gYOUhwmQqs4",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "TEM",
+  "direction": "BUY",
+  "thesis": "First tracked Hogue TEM call (captions say 'Tempest AI' for Tempus AI): combines clinical records, genomic information and AI to help doctors choose treatments; its growing clinical/genomic library could be hard to replicate; revenue expected up 25% this year and the earnings loss narrowing to ~5c/share next year \u2014 but it burns ~$270M cash a year ($600M+ cash on hand) and faces healthcare-regulation risk, so survivability is a question mark. He recommended it on 15 July.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "Down ~27% over the last year, up ~15% since his 15 July recommendation; analyst average target $73 (~10% upside) as stated"
+ },
+ {
+  "video_id": "gYOUhwmQqs4",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "SNOW",
+  "direction": "BUY",
+  "thesis": "First tracked Hogue SNOW call and one of his favourite growth stories: Snowflake helps companies organise and use proprietary data that AI agents need, with Cortex AI built directly on that data; revenue expected up 35% this year, $1.2B operating cash flow and nearly as much free cash flow, $1.7B cash and debt being paid down \u2014 no survivability worry.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "Up ~26% over 12 months, down ~20% from the peak in last week's sell-off; analyst average target $438 (~41% upside), low target $360 (~16% upside) as stated"
+ },
+ {
+  "video_id": "DwQ8z2cn7H0",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "NVDA",
+  "direction": "BUY",
+  "thesis": "Very, very bullish reiterated: the new DSX pods (captions render them 'DSX') \u2014 pre-built shipping-container AI factories with Vera Rubin NVL72 systems, power and cooling built in \u2014 cut AI-factory production from ~6 months to as little as 14 days, removing execution and lender risk and making Nvidia the only supplier doing this right now; he calls it a massive win that lets Nvidia scale and sell more. Other GTC Berlin items (agent safety, robotics, Vera vs Blackwell) were mostly repeats for channel followers.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "Up ~2.5% on the day, down ~1.2% after hours; no share price stated"
+ },
+ {
+  "video_id": "DwQ8z2cn7H0",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "LRCX",
+  "direction": "UNCERTAIN",
+  "thesis": "First tracked Najarro LRCX call (captions say 'Lamb Research' for Lam Research): positive coverage only, no explicit buy \u2014 he is not a shareholder but says he would not be scared of the ~7.4% post-earnings sell-off; Lam beat revenue/earnings only narrowly and guided ~$100M above consensus at the midpoint, wafer-fab equipment spending is expected above $200B in 2027 vs mid-$150B in 2026 (DRAM first, then leading-edge logic and NAND), and he thinks the equipment market stays strong in 2027 and potentially 2028 despite the market pricing the cycle as nearly over.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "Down ~7.4% after earnings; forward P/E ~27 before the drop, ~25 after; up ~41% year-to-date before the drop (~30% after)"
+ },
+ {
+  "video_id": "DwQ8z2cn7H0",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "TXN",
+  "direction": "UNCERTAIN",
+  "thesis": "First tracked Najarro TXN call: positive earnings coverage only, no explicit buy \u2014 Q3 revenue $6.06B, up 28% YoY and 11% sequentially and ahead of expectations, data-centre revenue up ~95% YoY, industrial up more than 40% and automotive up mid-teens, with Q4 guidance midpoint above analyst expectations; he stresses it is not only an AI data-centre story.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "Up ~1.3% after earnings; no share price stated"
+ },
+ {
+  "video_id": "DwQ8z2cn7H0",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "META",
+  "direction": "UNCERTAIN",
+  "thesis": "Positive read-through only, no explicit buy of Meta stated: he calls Meta's report extremely, extremely bullish for the whole AI/semi cycle \u2014 revenue up 26%, Q4 guide $73-76B, full-year capex lower bound raised from $130B to $135B (range $135-145B), Muse momentum (10M+ setups in US/Canada in 1.5 months, ~25% daily use, shopping purchases over $200) and compute constraints preventing a global Muse launch \u2014 plus the new Class C share, which he reads as preparation to raise large capex money without diluting Zuckerberg's voting rights.",
+  "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "price_at_call": "No price stated"
  }
 ]
