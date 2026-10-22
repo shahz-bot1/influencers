@@ -3,6 +3,16 @@
  "slug": "PLTR",
  "calls": [
   {
+   "video_id": "gYOUhwmQqs4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PLTR",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Palantir could be one of the biggest winners from turning AI into real-world business decisions (revenue expected up 83% this year, ~50% next year; $3.4B operating/free cash flow, $2B+ cash), but valuation is the big risk at 163x earnings / 80x sales — he wants it down to around $160 or even $150 a share before jumping in too much and is not loading up at the current price.",
+   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+   "price_at_call": "His buy zone $150-$160; analyst average target $212 (~13% upside), low target $80 (-57%) as stated"
+  },
+  {
    "video_id": "Zrbf8mXwsG4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
