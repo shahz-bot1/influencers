@@ -1,0 +1,22 @@
+{
+ "ticker": "TEM",
+ "slug": "TEM",
+ "calls": [
+  {
+   "video_id": "gYOUhwmQqs4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "TEM",
+   "direction": "BUY",
+   "thesis": "First tracked Hogue TEM call (captions say 'Tempest AI' for Tempus AI): combines clinical records, genomic information and AI to help doctors choose treatments; its growing clinical/genomic library could be hard to replicate; revenue expected up 25% this year and the earnings loss narrowing to ~5c/share next year — but it burns ~$270M cash a year ($600M+ cash on hand) and faces healthcare-regulation risk, so survivability is a question mark. He recommended it on 15 July.",
+   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+   "price_at_call": "Down ~27% over the last year, up ~15% since his 15 July recommendation; analyst average target $73 (~10% upside) as stated"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
