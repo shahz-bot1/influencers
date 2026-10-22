@@ -4,6 +4,14 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "HOLD",
+   "date": "2026-10-22T03:59:30.269037+00:00",
+   "price": "Up ~5% in after-hours at recording; no share price stated (he was building his position when it was under $600 a couple of months ago)",
+   "video_id": "VpIy9dfKK9I"
+  },
+  {
    "ticker": "NFLX",
    "tickerSlug": "NFLX",
    "direction": "AVOID",
