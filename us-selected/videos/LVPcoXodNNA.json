@@ -1,0 +1,27 @@
+{
+ "video_id": "LVPcoXodNNA",
+ "title": "Massive News for Salesforce Stock Investors | CRM Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-22T13:45:52.614954+00:00",
+ "summary": "Parkevtate Vosianc CFA reacts to Salesforce agreeing to buy AI marketing platform Braze for almost $5.7 billion in enterprise value, paying $47.50 per share — a premium of over 30% — with the deal expected to close in fiscal 2028. He likes that Salesforce will pay cash rather than issuing stock, which he reads as a signal management does not view its own shares as overvalued, but he stresses Salesforce's poor capital-allocation record: it has repeatedly overpaid for acquisitions, and return on invested capital is only 12.74% at a record high, barely above its cost of capital and below 10% for most of the past decade, among the lowest for peers of its size. The stock fell about 2.7% on the news. He updates his discounted cash flow model slightly higher on expected free cash flow to a fair value of $276 per share versus a $240 market price, and notes a forward P/E of 14.95, near late-2023 lows. Call made: CRM — BUY at $240 stated (DCF $276), reiterated from 2026-09-25, but conviction downgraded from high to medium (change dated 20 Oct) because the price has risen and macro dynamics have worsened. Base case is that Salesforce stays embedded in enterprise operations and is not significantly disrupted by agentic AI.",
+ "calls": [
+  {
+   "video_id": "LVPcoXodNNA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive News for Salesforce Stock Investors | CRM Stock Analysis",
+   "published_at": "2026-10-22T13:45:52.614954+00:00",
+   "analyzed_at": "2026-10-22T13:59:02.171116+00:00",
+   "collab": false,
+   "ticker": "CRM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$240 (stated market price; DCF fair value $276)",
+   "thesis": "BUY reiterated (was BUY 2026-09-25; no flip) — still a buying opportunity but conviction downgraded high to medium (change dated 20 Oct in his tracker) as price has risen and macro dynamics worsened. Reacts to $5.7B cash acquisition of Braze at $47.50/share (>30% premium, closing FY28); cash payment is a positive signal, but Salesforce has a history of overpaying and ROIC is only 12.74%, barely above WACC. Forward P/E 14.95 near late-2023 lows; DCF fair value raised slightly to $276 vs $240 market.",
+   "base_case": null,
+   "bull_case": "Salesforce stays embedded in enterprise operations and is not significantly disrupted by agentic AI; free cash flow grows as modelled.",
+   "bear_case": "Another overpaid acquisition repeats past capital-allocation mistakes; macro dynamics keep deteriorating."
+  }
+ ]
+}
