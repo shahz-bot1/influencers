@@ -4,6 +4,22 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "RKLB",
+   "tickerSlug": "RKLB",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-22T15:00:44.079364+00:00",
+   "price": "entry via Dec 18 $45 cash-secured put (~$2.40 premium; effective basis $42.60)",
+   "video_id": "o3L-3ZDKjcg"
+  },
+  {
+   "ticker": "CRDO",
+   "tickerSlug": "CRDO",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-22T15:00:44.079364+00:00",
+   "price": "entry via Dec 18 $150 cash-secured put (~$9.90 premium; effective basis $140.10)",
+   "video_id": "o3L-3ZDKjcg"
+  },
+  {
    "ticker": "VRT",
    "tickerSlug": "VRT",
    "direction": "BUY",
