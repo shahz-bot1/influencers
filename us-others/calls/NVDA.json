@@ -3,6 +3,16 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "DwQ8z2cn7H0",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Very, very bullish reiterated: the new DSX pods (captions render them 'DSX') — pre-built shipping-container AI factories with Vera Rubin NVL72 systems, power and cooling built in — cut AI-factory production from ~6 months to as little as 14 days, removing execution and lender risk and making Nvidia the only supplier doing this right now; he calls it a massive win that lets Nvidia scale and sell more. Other GTC Berlin items (agent safety, robotics, Vera vs Blackwell) were mostly repeats for channel followers.",
+   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+   "price_at_call": "Up ~2.5% on the day, down ~1.2% after hours; no share price stated"
+  },
+  {
    "video_id": "3h3vRJnRLbE",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -74,7 +84,7 @@
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
