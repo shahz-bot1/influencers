@@ -3,6 +3,16 @@
  "slug": "NOW",
  "calls": [
   {
+   "video_id": "gYOUhwmQqs4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "thesis": "ServiceNow as the orchestration layer between a company's AI agents and AI models, routing agents to the most efficient model and controlling AI costs; revenue expected up 22% this year, $5.3B operating cash flow and $4.5B+ free cash flow, $2.5B cash — no survivability worry; risk is Microsoft, Salesforce and AI developers competing in the same orchestration role; he thinks Wall Street is too focused on software risks and the stock goes much higher.",
+   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+   "price_at_call": "Down ~21% over 12 months; analyst average target $155 (~10% upside) as stated in captions — that target figure looks garbled, treat with caution"
+  },
+  {
    "video_id": "Zrbf8mXwsG4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
