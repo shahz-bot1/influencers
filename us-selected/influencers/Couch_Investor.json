@@ -4,6 +4,30 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-10-22T18:58:41.208736+00:00",
+   "price": "under $700 (stated; back under $700, down ~5% intraday after being up 5-7% on the print)",
+   "video_id": "wQWYpGDT6Q4"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-10-22T18:58:41.208736+00:00",
+   "price": null,
+   "video_id": "wQWYpGDT6Q4"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-10-22T18:58:41.208736+00:00",
+   "price": "~$40-43B market cap (stated); no share price stated",
+   "video_id": "wQWYpGDT6Q4"
+  },
+  {
    "ticker": "NFLX",
    "tickerSlug": "NFLX",
    "direction": "HOLD",
