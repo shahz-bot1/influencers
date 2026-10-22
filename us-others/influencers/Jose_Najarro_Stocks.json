@@ -7,6 +7,14 @@
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
+   "date": "2026-10-22T03:59:30.269037+00:00",
+   "price": "Up ~2.5% on the day, down ~1.2% after hours; no share price stated",
+   "video_id": "DwQ8z2cn7H0"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
    "date": "2026-10-21T04:00:25.111307+00:00",
    "price": "No share price stated; Nvidia up about 2% on the day in the video's market roundup",
    "video_id": "3h3vRJnRLbE"
