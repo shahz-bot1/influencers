@@ -3,6 +3,24 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "wQWYpGDT6Q4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "My Favorite Stocks Are a Screaming Buy Today",
+   "published_at": "2026-10-22T18:58:41.208736+00:00",
+   "analyzed_at": "2026-10-22T22:02:43.424722+00:00",
+   "collab": false,
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "under $700 (stated; back under $700, down ~5% intraday after being up 5-7% on the print)",
+   "thesis": "BUY reiterated (most recent prior explicit was BUY; no flip) — title frames his favorites as a screaming buy. Meta still undervalued after an amazing quarter: revenue +26% to $64B, ad impressions +10%, price per ad +14%, daily active people +3%, and Muse personal-agent traction (10M set up in ~6 weeks). Says if the stock goes lower he will pick up more shares; the -5% flip from green to red is an opportunity, not a broken business.",
+   "base_case": null,
+   "bull_case": "Muse monetises sooner than Meta's usual playbook (transaction fees, subscriptions, ads, enterprise), existing Muse users already generate several hundred dollars a year each in family-apps revenue, and Reality Labs losses shrink — $3.5B lower in 2027, trending to profitability.",
+   "bear_case": "Capex has doubled year-on-year and pushed free cash flow negative — the first quarter since 2012 with no FCF — plus a $9.89B state-attorneys-general settlement charge that could grow, and a planned Class C non-voting raise that would be painful if done under $700 rather than nearer $800."
+  },
+  {
    "video_id": "4BooxjnAfPY",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -156,16 +174,16 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
-   "idx": 3
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   }
  ]
 }
