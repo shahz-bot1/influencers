@@ -1,0 +1,26 @@
+{
+ "video_id": "n2uLj3gmL4I",
+ "title": "Why Is BigBear.ai Stock Crashing, and is it a Buying Opportunity? | BBAI Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-19T00:00:00+00:00",
+ "summary": "Parkevtate Vosianc CFA re-rates BigBear.ai in a video dated 19 Oct 2026, after the stock has fallen almost 61% year-to-date to $2.11, and asks whether it is finally a buying opportunity. He has warned against it all year and says the answer is still no. Revenue has fallen from a $160 million trailing peak to $132 million after Department of Government Efficiency cuts delayed, paused or cut government contracts, and the company has failed to expand into enterprise the way Palantir did. Margins have deteriorated sharply: cash flow from operations to sales is at a record low of -54% after management spent on acquisitions to try to revive growth. The balance sheet still holds $321 million in cash and short-term investments raised during the earlier retail frenzy, so no capital raise is needed soon, but continued losses make dilution eventual. Forward price-to-sales has fallen from over 25 to 6.3, yet he argues the business was in better shape in January 2025. He revises his free-cash-flow estimates lower — worse than even his bearish prior view — to a DCF fair value of $1.90 versus $2.11 market, fairly valued to slightly overvalued. Call made: BBAI — AVOID at $2.11 stated (DCF $1.90), first tracked stance; it is getting closer, but needs a price fall or a revenue and cash-flow turnaround first.",
+ "calls": [
+  {
+   "video_id": "n2uLj3gmL4I",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is BigBear.ai Stock Crashing, and is it a Buying Opportunity? | BBAI Stock Analysis",
+   "published_at": "2026-10-19T00:00:00+00:00",
+   "analyzed_at": "2026-10-22T18:10:00+00:00",
+   "collab": false,
+   "ticker": "BBAI",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$2.11 (stated; DCF fair value $1.90)",
+   "thesis": "First tracked Parke BBAI stance: NOT a buying opportunity even after -61% YTD. Revenue falling ($160M peak to $132M TTM), government contract cuts, cash flow/sales at record low -54%; DCF $1.90 vs $2.11 market = fairly valued to slightly overvalued. Getting closer as price falls, but not there yet.",
+   "bull_case": "$321M cash/short-term investments — no need to raise capital soon; a revenue-growth turnaround or further price fall could make it a buy.",
+   "bear_case": "More government-contract cuts, acquisition spending keeps bleeding margins, and eventual dilution when the cash buffer runs out."
+  }
+ ]
+}
