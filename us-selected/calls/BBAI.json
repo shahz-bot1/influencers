@@ -1,0 +1,29 @@
+{
+ "ticker": "BBAI",
+ "slug": "BBAI",
+ "calls": [
+  {
+   "video_id": "n2uLj3gmL4I",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is BigBear.ai Stock Crashing, and is it a Buying Opportunity? | BBAI Stock Analysis",
+   "published_at": "2026-10-19T00:00:00+00:00",
+   "analyzed_at": "2026-10-22T18:10:00+00:00",
+   "collab": false,
+   "ticker": "BBAI",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$2.11 (stated; DCF fair value $1.90)",
+   "thesis": "First tracked Parke BBAI stance: NOT a buying opportunity even after -61% YTD. Revenue falling ($160M peak to $132M TTM), government contract cuts, cash flow/sales at record low -54%; DCF $1.90 vs $2.11 market = fairly valued to slightly overvalued. Getting closer as price falls, but not there yet.",
+   "bull_case": "$321M cash/short-term investments — no need to raise capital soon; a revenue-growth turnaround or further price fall could make it a buy.",
+   "bear_case": "More government-contract cuts, acquisition spending keeps bleeding margins, and eventual dilution when the cash buffer runs out."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
