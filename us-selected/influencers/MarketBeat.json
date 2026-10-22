@@ -4,6 +4,46 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "IWM",
+   "tickerSlug": "IWM",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-21T22:55:20.866866+00:00",
+   "price": null,
+   "video_id": "7jcAqx7huGU"
+  },
+  {
+   "ticker": "GLD",
+   "tickerSlug": "GLD",
+   "direction": "BUY",
+   "date": "2026-10-21T22:55:20.866866+00:00",
+   "price": null,
+   "video_id": "7jcAqx7huGU"
+  },
+  {
+   "ticker": "QQQ",
+   "tickerSlug": "QQQ",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-21T22:55:20.866866+00:00",
+   "price": null,
+   "video_id": "7jcAqx7huGU"
+  },
+  {
+   "ticker": "AEM",
+   "tickerSlug": "AEM",
+   "direction": "BUY",
+   "date": "2026-10-21T22:55:20.866866+00:00",
+   "price": null,
+   "video_id": "7jcAqx7huGU"
+  },
+  {
+   "ticker": "NUV",
+   "tickerSlug": "NUV",
+   "direction": "BUY",
+   "date": "2026-10-21T22:55:20.866866+00:00",
+   "price": null,
+   "video_id": "7jcAqx7huGU"
+  },
+  {
    "ticker": "LNC",
    "tickerSlug": "LNC",
    "direction": "BUY",
