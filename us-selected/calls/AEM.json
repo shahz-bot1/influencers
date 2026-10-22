@@ -1,0 +1,31 @@
+{
+ "ticker": "AEM",
+ "slug": "AEM",
+ "calls": [
+  {
+   "video_id": "7jcAqx7huGU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Market Volatility Is Back — Here’s How to Profit in 15 Minutes",
+   "published_at": "2026-10-21T22:55:20.866866+00:00",
+   "analyzed_at": "2026-10-22T05:57:32.205701+00:00",
+   "guest": "Kareem and Brian (Monument Traders Alliance)",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "AEM",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Kareem: buy Agnico Eagle — the premier gold miner in his view, better than Barrick and Newmont, with the best operations, operators and profit margins. Suggested for accumulating gold exposure / a covered-call play: miners have largely fixed costs, so margins expand exponentially as the gold price rises. No price stated. First tracked MarketBeat call on AEM.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
