@@ -1,0 +1,31 @@
+{
+ "ticker": "NUV",
+ "slug": "NUV",
+ "calls": [
+  {
+   "video_id": "7jcAqx7huGU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Market Volatility Is Back — Here’s How to Profit in 15 Minutes",
+   "published_at": "2026-10-21T22:55:20.866866+00:00",
+   "analyzed_at": "2026-10-22T05:57:32.205701+00:00",
+   "guest": "Kareem and Brian (Monument Traders Alliance)",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "NUV",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Guest Kareem: recommend buying NUV (Nuveen municipal bond closed-end fund) at current levels, keep adding and reinvest dividends; trading closer to its 52-week low. Pays 4.73% tax-free monthly — a 6.14% taxable-equivalent yield at the 30% bracket and about 6.7% at 35% — with under 1% historical muni default rates, 80%+ investment grade, no leverage and 2-3m shares a day of liquidity; capital appreciation possible if rates fall. First tracked MarketBeat call on NUV.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
