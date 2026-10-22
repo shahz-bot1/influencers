@@ -3,6 +3,42 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "wQWYpGDT6Q4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "My Favorite Stocks Are a Screaming Buy Today",
+   "published_at": "2026-10-22T18:58:41.208736+00:00",
+   "analyzed_at": "2026-10-22T22:02:43.424722+00:00",
+   "collab": false,
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 2026-10-20 @ ~$343; no flip) — Google overlooked yet again, per Sundar Pichai podcast comments. Cloud is forgoing short-term revenue because compute is diverted to frontier models, so Cloud could grow much faster — possibly triple-digit — and the TPU business will explode next year. Calls Google a very, very big winner in the future. No price stated in this video.",
+   "base_case": null,
+   "bull_case": "Gemini 4 Argon used 25 trillion tokens in its first 72 hours (~3x Gemini 3 launch); capacity planned 2-3 years out is already short, supporting sustained AI growth.",
+   "bear_case": "Overbuilding risk is real — today's capacity reflects 2024 decisions and everyone wishes they had planned twice as much; new 2027 compute requests are very hard to fill."
+  },
+  {
+   "video_id": "X4iwiPHULtQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Alphabet Stock Before the Huge Investor Update? | GOOG Stock Analysis",
+   "published_at": "2026-10-22T11:55:52.614954+00:00",
+   "analyzed_at": "2026-10-22T13:59:02.171116+00:00",
+   "collab": false,
+   "ticker": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$346 (stated market price; DCF fair value $373)",
+   "thesis": "CONDITIONAL_BUY reiterated (most recent prior explicit was CONDITIONAL_BUY; no flip) — long-term buying opportunity at high conviction, but do NOT buy before the 28 Oct investor update: sees more downside than upside into the print, already owns it so is exposed to upside, and advises holders who want to add to wait until after results. DCF $373 vs $346 market (~8%, within margin of safety — fairly to slightly undervalued); forward P/E 22 on 24% revenue growth. Last quarter: revenue +24%, Google Services +15% to $94.5B, Cloud +82% to $24.8B, operating income +30% at 34% margin.",
+   "base_case": null,
+   "bull_case": "Cloud/AI growth keeps justifying capex — cash flow from operations rises ~30%+ again, Gemini (22B API tokens/min, 950M MAUs) scales across 6+ billion-user products.",
+   "bear_case": "Negative free cash flow widens (last quarter CFO $39B vs capex $44.9B, -$5.9B), more equity issuance on top of ~$90B already sold dilutes holders at undervalued prices, and LLM disruption hits Search while Alphabet keeps holding 'ridiculously overvalued' SpaceX equity."
+  },
+  {
    "video_id": "VLlqZqAsvRI",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -200,20 +236,20 @@
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 2
-  },
-  {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 3
-  },
-  {
    "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  },
+  {
+   "channel": "Mark Roussin CPA",
    "idx": 4
   },
   {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 5
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 12
+   "idx": 14
   }
  ]
 }
