@@ -1,0 +1,19 @@
+{
+ "video_id": "VpIy9dfKK9I",
+ "title": "Meta Stock Is Up After Earnings - What You Need To Know",
+ "creator": "Daniel Pronk",
+ "published_at": "2026-10-21T22:55:45.658617+00:00",
+ "summary": "Daniel Pronk reviews Meta's Q3 earnings as a shareholder, calling the report messy but ultimately good. Revenue rose 26% year over year to $64.6 billion and daily active people reached 3.64 billion, with ad impressions up 10% and average ad price up 14%. Costs were hit by a pre-announced $9.89 billion legal charge, which suppressed operating income, although net income rose sharply on the comparison in the captions. Capex was $34.91 billion against $32.8 billion of operating cash flow, making Meta free-cash-flow negative for the quarter, and Pronk expects negative free cash flow into 2027, more debt, and some dilution after Meta created a new Class C share for capital raising and stock compensation. He stresses the positives: headcount down 15% while revenue grows, average revenue per person at an all-time high of $17.72, Q4 revenue guidance around $74.5 billion at the midpoint, and Muse passing 10 million downloads with shopping as its main use case. His updated DCF, using 15% operating-cash-flow growth and a 14-times multiple, implies about 17% annual compounding. Call: META — HOLD, continuing to hold and looking to increase the position if shares fall; no current share price was stated, and several percentage figures are missing or garbled in the auto-captions.",
+ "calls": [
+  {
+   "video_id": "VpIy9dfKK9I",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "META",
+   "direction": "HOLD",
+   "thesis": "Messy Q3 but underlying profitability still growing: revenue up 26% YoY to $64.6B, a $9.89B legal charge suppressed operating income, free cash flow was negative this quarter (capex $34.91B vs operating cash flow $32.8B) and he expects negative FCF and some dilution from the new Class C share into 2027 — but he still thinks Meta is undervalued (updated DCF: 15% operating-cash-flow growth at 14x price/OCF gives ~17% annual compounding; ~23x normalised earnings if net margin returns to ~30%), so he continues holding and would increase the position if the shares come down more.",
+   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+   "price_at_call": "Up ~5% in after-hours at recording; no share price stated (he was building his position when it was under $600 a couple of months ago)"
+  }
+ ]
+}
