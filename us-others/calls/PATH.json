@@ -1,0 +1,22 @@
+{
+ "ticker": "PATH",
+ "slug": "PATH",
+ "calls": [
+  {
+   "video_id": "gYOUhwmQqs4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PATH",
+   "direction": "BUY",
+   "thesis": "First tracked Hogue PATH call, in his seven stocks to buy for the post-AI-bubble world (staged buying: a little now, add every month or two, keep cash for a crash): UiPath is moving from repetitive-task automation into AI agents that interpret information and complete workflows, without spending billions on models or data centres; already $370M+ operating cash flow, $360M+ free cash flow and $619M cash, so it can survive a financing dry-up; risk is its original automation being made obsolete by Microsoft/OpenAI-type competitors.",
+   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+   "price_at_call": "Down ~18% over the last year; analyst average target $15.57 (~20% upside) as stated"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
