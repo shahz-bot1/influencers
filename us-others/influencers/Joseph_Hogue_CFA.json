@@ -4,6 +4,62 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "PATH",
+   "tickerSlug": "PATH",
+   "direction": "BUY",
+   "date": "2026-10-22T03:59:30.269037+00:00",
+   "price": "Down ~18% over the last year; analyst average target $15.57 (~20% upside) as stated",
+   "video_id": "gYOUhwmQqs4"
+  },
+  {
+   "ticker": "NOW",
+   "tickerSlug": "NOW",
+   "direction": "BUY",
+   "date": "2026-10-22T03:59:30.269037+00:00",
+   "price": "Down ~21% over 12 months; analyst average target $155 (~10% upside) as stated in captions — that target figure looks garbled, treat with caution",
+   "video_id": "gYOUhwmQqs4"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-22T03:59:30.269037+00:00",
+   "price": "His buy zone $150-$160; analyst average target $212 (~13% upside), low target $80 (-57%) as stated",
+   "video_id": "gYOUhwmQqs4"
+  },
+  {
+   "ticker": "NET",
+   "tickerSlug": "NET",
+   "direction": "BUY",
+   "date": "2026-10-22T03:59:30.269037+00:00",
+   "price": "Up ~38% over 12 months; analyst average target $358 (~21% upside), low target $160 as stated",
+   "video_id": "gYOUhwmQqs4"
+  },
+  {
+   "ticker": "SOUN",
+   "tickerSlug": "SOUN",
+   "direction": "BUY",
+   "date": "2026-10-22T03:59:30.269037+00:00",
+   "price": "Analyst average target $11 (more than double the current price as stated); low target $6 (~26% upside)",
+   "video_id": "gYOUhwmQqs4"
+  },
+  {
+   "ticker": "TEM",
+   "tickerSlug": "TEM",
+   "direction": "BUY",
+   "date": "2026-10-22T03:59:30.269037+00:00",
+   "price": "Down ~27% over the last year, up ~15% since his 15 July recommendation; analyst average target $73 (~10% upside) as stated",
+   "video_id": "gYOUhwmQqs4"
+  },
+  {
+   "ticker": "SNOW",
+   "tickerSlug": "SNOW",
+   "direction": "BUY",
+   "date": "2026-10-22T03:59:30.269037+00:00",
+   "price": "Up ~26% over 12 months, down ~20% from the peak in last week's sell-off; analyst average target $438 (~41% upside), low target $360 (~16% upside) as stated",
+   "video_id": "gYOUhwmQqs4"
+  },
+  {
    "ticker": "ETHA",
    "tickerSlug": "ETHA",
    "direction": "HOLD",
