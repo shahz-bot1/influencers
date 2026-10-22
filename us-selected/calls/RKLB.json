@@ -3,6 +3,23 @@
  "slug": "RKLB",
  "calls": [
   {
+   "video_id": "o3L-3ZDKjcg",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "I'm Investing $20,000 Into These 2 Stocks",
+   "published_at": "2026-10-22T15:00:44.079364+00:00",
+   "analyzed_at": "2026-10-22T18:10:00+00:00",
+   "collab": false,
+   "ticker": "RKLB",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "entry via Dec 18 $45 cash-secured put (~$2.40 premium; effective basis $42.60)",
+   "thesis": "First tracked Mark RKLB call: long-term bullish on the space economy but will not buy at market — exposure only if assigned at $45. Electron launch + space-systems business growing (Q2 rev $234M +62%, $2.4B backlog), but Neutron first launch delayed to 2027.",
+   "bull_case": "Integrated space infrastructure beyond just launch; backlog and revenue momentum show a real business under the rocket story.",
+   "bear_case": "Neutron delays (and possible further slips) push costs out and profitability further into the future; speculative, execution risk."
+  },
+  {
    "video_id": "fH5DacZxQug",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -40,12 +57,16 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   }
  ]
 }
