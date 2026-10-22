@@ -3,6 +3,16 @@
  "slug": "SOUN",
  "calls": [
   {
+   "video_id": "gYOUhwmQqs4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOUN",
+   "direction": "BUY",
+   "thesis": "SoundHound in his seven to buy for the post-bubble world despite being one of the riskiest names: voice AI for restaurants, customer service and autos, a stated $140B market opportunity, revenue expected up 73% this year to almost $300M and 32% next year — but it has never generated positive cash flow and depends on constant financing (~$200M cash on hand as stated); he first recommended it near $4.80 in early 2024, had shares called away around $15 in January and bought back just under $9 in April.",
+   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+   "price_at_call": "Analyst average target $11 (more than double the current price as stated); low target $6 (~26% upside)"
+  },
+  {
    "video_id": "IaSD9j5O_ZQ",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
