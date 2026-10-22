@@ -1,0 +1,22 @@
+{
+ "ticker": "NET",
+ "slug": "NET",
+ "calls": [
+  {
+   "video_id": "gYOUhwmQqs4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NET",
+   "direction": "BUY",
+   "thesis": "Cloudflare as the management/secure layer between AI agents and models, with authentication and protection built in, on top of its global security/connectivity network; revenue expected up 32% this year and profits up 35% to $1.26/share, $633M operating cash flow and ~$1.7B cash — enough to survive an AI crash and ramp back up.",
+   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+   "price_at_call": "Up ~38% over 12 months; analyst average target $358 (~21% upside), low target $160 as stated"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
