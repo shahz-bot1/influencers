@@ -1,0 +1,22 @@
+{
+ "ticker": "SNOW",
+ "slug": "SNOW",
+ "calls": [
+  {
+   "video_id": "gYOUhwmQqs4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SNOW",
+   "direction": "BUY",
+   "thesis": "First tracked Hogue SNOW call and one of his favourite growth stories: Snowflake helps companies organise and use proprietary data that AI agents need, with Cortex AI built directly on that data; revenue expected up 35% this year, $1.2B operating cash flow and nearly as much free cash flow, $1.7B cash and debt being paid down — no survivability worry.",
+   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+   "price_at_call": "Up ~26% over 12 months, down ~20% from the peak in last week's sell-off; analyst average target $438 (~41% upside), low target $360 (~16% upside) as stated"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
