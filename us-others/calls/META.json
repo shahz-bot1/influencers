@@ -3,6 +3,16 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "VpIy9dfKK9I",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "META",
+   "direction": "HOLD",
+   "thesis": "Messy Q3 but underlying profitability still growing: revenue up 26% YoY to $64.6B, a $9.89B legal charge suppressed operating income, free cash flow was negative this quarter (capex $34.91B vs operating cash flow $32.8B) and he expects negative FCF and some dilution from the new Class C share into 2027 — but he still thinks Meta is undervalued (updated DCF: 15% operating-cash-flow growth at 14x price/OCF gives ~17% annual compounding; ~23x normalised earnings if net margin returns to ~30%), so he continues holding and would increase the position if the shares come down more.",
+   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+   "price_at_call": "Up ~5% in after-hours at recording; no share price stated (he was building his position when it was under $600 a couple of months ago)"
+  },
+  {
    "video_id": "1fg4FpDs5Sg",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -39,16 +49,16 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Daniel Pronk",
    "idx": 0
   },
   {
-   "channel": "Daniel Pronk",
+   "channel": "Jose Najarro Stocks",
    "idx": 1
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
