@@ -3,6 +3,25 @@
  "slug": "GLD",
  "calls": [
   {
+   "video_id": "7jcAqx7huGU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Market Volatility Is Back — Here’s How to Profit in 15 Minutes",
+   "published_at": "2026-10-21T22:55:20.866866+00:00",
+   "analyzed_at": "2026-10-22T05:57:32.205701+00:00",
+   "guest": "Kareem and Brian (Monument Traders Alliance)",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "GLD",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 2026-10-06, no flip): two uses — Brian trades GLD short-term on the same 1% dip dark-ticker trigger, and Kareem holds it long-term as a currency-debasement hedge, keep buying / dollar-cost averaging and do not care about price because volatility is your friend. Gold cited at $2,000 two years ago vs $4,200-$5,500 now (auto-captions inconsistent); prior cycles averaged 6-7x from a $1,049 start, implying $6,000-$7,000. No price stated.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  },
+  {
    "video_id": "mkV5w37RI8M",
    "channel": "MarketBeat",
    "video_title": "Dan Ferris: Copper Could Double—and He Says You Have to Own It | SIH",
