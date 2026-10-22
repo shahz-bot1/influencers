@@ -1,0 +1,31 @@
+{
+ "ticker": "QQQ",
+ "slug": "QQQ",
+ "calls": [
+  {
+   "video_id": "7jcAqx7huGU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Market Volatility Is Back — Here’s How to Profit in 15 Minutes",
+   "published_at": "2026-10-21T22:55:20.866866+00:00",
+   "analyzed_at": "2026-10-22T05:57:32.205701+00:00",
+   "guest": "Kareem and Brian (Monument Traders Alliance)",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "QQQ",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": null,
+   "thesis": "Guests (Brian, short-term): Triple Q (QQQ) dark-ticker dip trade on the same trigger — buy only if it closes down 1% or more, hold 1-2 days, sell on the next-day rebound. Polarised views on AI / Mag 7 valuations drive $10 up and down days. They cite 80-85% odds of a green point next day after a 1% fall, ~90% after 2% and 100% in their backtest after 5%. No price stated. First tracked MarketBeat call on QQQ.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
