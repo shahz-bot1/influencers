@@ -1,0 +1,31 @@
+{
+ "ticker": "IWM",
+ "slug": "IWM",
+ "calls": [
+  {
+   "video_id": "7jcAqx7huGU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Market Volatility Is Back — Here’s How to Profit in 15 Minutes",
+   "published_at": "2026-10-21T22:55:20.866866+00:00",
+   "analyzed_at": "2026-10-22T05:57:32.205701+00:00",
+   "guest": "Kareem and Brian (Monument Traders Alliance)",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "IWM",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": null,
+   "thesis": "Guests (Brian, short-term): dark-ticker dip trade that has been working consistently — buy IWM calls in the 4:00-4:15pm ET window only if it closes down 1% or more that day, hold overnight / 1-2 days and sell on the next-day rebound. Small caps are hit harder by the first Fed rate-raising cycle in three years, so their volatility is rising. No price stated.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
