@@ -3,6 +3,24 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "wQWYpGDT6Q4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "My Favorite Stocks Are a Screaming Buy Today",
+   "published_at": "2026-10-22T18:58:41.208736+00:00",
+   "analyzed_at": "2026-10-22T22:02:43.424722+00:00",
+   "collab": false,
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$40-43B market cap (stated); no share price stated",
+   "thesis": "BUY reiterated (most recent prior explicit was BUY 2026-10-20 @ $162; 2026-10-21 mention was UNCERTAIN; no flip) — Nebius may be severely undervalued if 2027 exit ARR lands anywhere near $30B against a ~$40-43B market cap. Over $40B in customer commitments, 2026 run-rate goal $8B at midpoint, well over 1GW of new capacity launching from 2027 (1GW of Vera Rubin through 2027, ~5GW reserved/contracted), and a new $3.5B Citi senior secured facility (non-dilutive; SOFR +2.75% rising to 3.5% max, refinanced or repaid within a year). Auto-captions garble the name as Nebuse/Nebs.",
+   "base_case": "2027 exit ARR $33B (his base-case scenario from management contract values: $20-25M per MW on midterm deals, $40-50M on short-term deals of up to six months).",
+   "bull_case": "2027 exit ARR closer to $40B (his bull-case scenario); margins expand as it scales toward management's 20-30% medium-to-long-term margin target.",
+   "bear_case": "2027 exit ARR $28B (his conservative scenario); growth requires repeated capital raises — several already in 2026 — and revenue is not profitability."
+  },
+  {
    "video_id": "VLlqZqAsvRI",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -176,15 +194,15 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "MarketBeat",
-   "idx": 7
+   "idx": 8
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 9
+   "idx": 10
   }
  ]
 }
