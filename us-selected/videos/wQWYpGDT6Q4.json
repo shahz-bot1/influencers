@@ -1,0 +1,63 @@
+{
+ "video_id": "wQWYpGDT6Q4",
+ "title": "My Favorite Stocks Are a Screaming Buy Today",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-22T18:58:41.208736+00:00",
+ "summary": "Couch Investor frames his favorite stocks as a screaming buy after headline-driven market jitters over the Middle East hit growth, semiconductor and AI names harder than defensives. Most of the video is Meta's quarter reported Wednesday after the close: revenue up 26% to $64 billion, ad impressions up 10%, price per ad up 14%, daily active people up 3%, and extensive detail on the Muse personal agent — over 10 million people set it up in about six weeks in the US and Canada, with monetisation planned sooner than usual through fees, subscriptions and ads. He notes this was Meta's first quarter since 2012 with no free cash flow as capex doubled, and discusses the planned Class C non-voting share dividend on 19 January. He then covers Sundar Pichai podcast comments on Alphabet — Gemini 4, capacity planned years ahead still short, Cloud forgoing revenue to feed frontier models — and models Nebius (auto-captions garble it as Nebuse/Nebs) 2027 exit ARR at $28 billion conservative, $33 billion base and $40 billion bull against a roughly $40-43 billion market cap, plus a new $3.5 billion Citi facility. Calls made: META — BUY under $700 stated (will add if it goes lower); GOOGL — BUY, no price stated (overlooked, very big winner); NBIS — BUY at a ~$40-43B market cap stated, no share price (severely undervalued on his scenarios); SPCX — UNCERTAIN, passing mention only via Google's capacity leasing. No stance flips — all three BUYs reiterate prior BUYs.",
+ "calls": [
+  {
+   "video_id": "wQWYpGDT6Q4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "My Favorite Stocks Are a Screaming Buy Today",
+   "published_at": "2026-10-22T18:58:41.208736+00:00",
+   "analyzed_at": "2026-10-22T22:02:43.424722+00:00",
+   "collab": false,
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "under $700 (stated; back under $700, down ~5% intraday after being up 5-7% on the print)",
+   "thesis": "BUY reiterated (most recent prior explicit was BUY; no flip) — title frames his favorites as a screaming buy. Meta still undervalued after an amazing quarter: revenue +26% to $64B, ad impressions +10%, price per ad +14%, daily active people +3%, and Muse personal-agent traction (10M set up in ~6 weeks). Says if the stock goes lower he will pick up more shares; the -5% flip from green to red is an opportunity, not a broken business.",
+   "base_case": null,
+   "bull_case": "Muse monetises sooner than Meta's usual playbook (transaction fees, subscriptions, ads, enterprise), existing Muse users already generate several hundred dollars a year each in family-apps revenue, and Reality Labs losses shrink — $3.5B lower in 2027, trending to profitability.",
+   "bear_case": "Capex has doubled year-on-year and pushed free cash flow negative — the first quarter since 2012 with no FCF — plus a $9.89B state-attorneys-general settlement charge that could grow, and a planned Class C non-voting raise that would be painful if done under $700 rather than nearer $800."
+  },
+  {
+   "video_id": "wQWYpGDT6Q4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "My Favorite Stocks Are a Screaming Buy Today",
+   "published_at": "2026-10-22T18:58:41.208736+00:00",
+   "analyzed_at": "2026-10-22T22:02:43.424722+00:00",
+   "collab": false,
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 2026-10-20 @ ~$343; no flip) — Google overlooked yet again, per Sundar Pichai podcast comments. Cloud is forgoing short-term revenue because compute is diverted to frontier models, so Cloud could grow much faster — possibly triple-digit — and the TPU business will explode next year. Calls Google a very, very big winner in the future. No price stated in this video.",
+   "base_case": null,
+   "bull_case": "Gemini 4 Argon used 25 trillion tokens in its first 72 hours (~3x Gemini 3 launch); capacity planned 2-3 years out is already short, supporting sustained AI growth.",
+   "bear_case": "Overbuilding risk is real — today's capacity reflects 2024 decisions and everyone wishes they had planned twice as much; new 2027 compute requests are very hard to fill."
+  },
+  {
+   "video_id": "wQWYpGDT6Q4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "My Favorite Stocks Are a Screaming Buy Today",
+   "published_at": "2026-10-22T18:58:41.208736+00:00",
+   "analyzed_at": "2026-10-22T22:02:43.424722+00:00",
+   "collab": false,
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$40-43B market cap (stated); no share price stated",
+   "thesis": "BUY reiterated (most recent prior explicit was BUY 2026-10-20 @ $162; 2026-10-21 mention was UNCERTAIN; no flip) — Nebius may be severely undervalued if 2027 exit ARR lands anywhere near $30B against a ~$40-43B market cap. Over $40B in customer commitments, 2026 run-rate goal $8B at midpoint, well over 1GW of new capacity launching from 2027 (1GW of Vera Rubin through 2027, ~5GW reserved/contracted), and a new $3.5B Citi senior secured facility (non-dilutive; SOFR +2.75% rising to 3.5% max, refinanced or repaid within a year). Auto-captions garble the name as Nebuse/Nebs.",
+   "base_case": "2027 exit ARR $33B (his base-case scenario from management contract values: $20-25M per MW on midterm deals, $40-50M on short-term deals of up to six months).",
+   "bull_case": "2027 exit ARR closer to $40B (his bull-case scenario); margins expand as it scales toward management's 20-30% medium-to-long-term margin target.",
+   "bear_case": "2027 exit ARR $28B (his conservative scenario); growth requires repeated capital raises — several already in 2026 — and revenue is not profitability."
+  }
+ ]
+}
