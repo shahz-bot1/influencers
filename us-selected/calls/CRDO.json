@@ -3,6 +3,23 @@
  "slug": "CRDO",
  "calls": [
   {
+   "video_id": "o3L-3ZDKjcg",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "I'm Investing $20,000 Into These 2 Stocks",
+   "published_at": "2026-10-22T15:00:44.079364+00:00",
+   "analyzed_at": "2026-10-22T18:10:00+00:00",
+   "collab": false,
+   "ticker": "CRDO",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "stance_flip": "soft downgrade: was BUY on 2026-10-13, now CONDITIONAL_BUY",
+   "price_at_call": "entry via Dec 18 $150 cash-secured put (~$9.90 premium; effective basis $140.10)",
+   "thesis": "Soft flip back to his 10-08 stance: bullish long-term on AI connectivity (AECs) and will gladly add at $150, but no longer buying outright — only via assignment. Q1 FY27 rev $480M +115%, 68% non-GAAP gross margin, FY27 guide >85%; already owns shares.",
+   "bull_case": "AI data-center buildout keeps demand for high-speed, power-efficient connectivity growing; already showing in financials.",
+   "bear_case": "Top 4 customers = 84% of revenue; concentration plus fast growth expectations mean sharp volatility."
+  },
+  {
    "video_id": "lD_4hYVqWPA",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -56,7 +73,7 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
