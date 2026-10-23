@@ -1,0 +1,22 @@
+{
+ "ticker": "FICO",
+ "slug": "FICO",
+ "calls": [
+  {
+   "video_id": "HK0hFkXskQc",
+   "channel": "Brian Feroldi",
+   "handle": "@BrianFeroldiYT",
+   "ticker": "FICO",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "First tracked Feroldi FICO call: leans opportunity over value trap, but wants an even cheaper valuation than today before getting excited — stock down ~66% from its all-time high at ~23x earnings (vs ~50x 10-year average), revenue +20%+ and earnings +25% over the last year with 2027 revenue growth expected ~28% and full-year 2026 guidance raised, wide moat (54% return on capital, software lock-in, de facto standard score) now damaged by egregious mortgage-score price rises (60c to $10 since 2022), Rocket Mortgage switching preference to VantageScore, and a September 2026 FHFA move to one pricing grid giving VantageScore equal terms (Vantage offered at 99c vs FICO $10); third concern is $2.3B of debt-funded buybacks done likely above 30x earnings while the shares were in freefall. Opportunity only if no more share loss, growth persists and buybacks prove well-timed; a trap if the monopoly is gone for good.",
+   "analyzed_at": "2026-10-23T03:56:53.103854+00:00",
+   "price_at_call": "Down ~66% from all-time high; trading at ~23x earnings (no dollar share price stated)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Brian Feroldi",
+   "idx": 0
+  }
+ ]
+}
