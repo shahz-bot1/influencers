@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:06:01.591203+00:00",
+ "updated": "2026-10-23T22:05:22.225580+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -200,12 +200,12 @@
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-10-20T23:55:26.864305+00:00",
+   "lastDate": "2026-10-23T11:56:17.261892+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$261"
+     "avg": "$288.5"
     },
     {
      "dir": "HOLD",
@@ -220,8 +220,8 @@
     "Joseph Carlson After Hours",
     "Couch Investor"
    ],
-   "lastStated": "$262 (stated market price)",
-   "nCalls": 11
+   "lastStated": "DCF $317 (stated); ~20% upside over 12-18 months (stated); current price dropped",
+   "nCalls": 12
   },
   {
    "ticker": "APLD",
@@ -440,6 +440,23 @@
     "MarketBeat"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CAVA",
+   "slug": "CAVA",
+   "lastDate": "2026-10-21T23:00:44.079364+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$58"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "trading a little over $58 (stated); DCF fair value $52 (stated)",
    "nCalls": 1
   },
   {
@@ -824,6 +841,23 @@
     "MarketBeat"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "EBAY",
+   "slug": "EBAY",
+   "lastDate": "2026-10-23T00:56:17.261892+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$123"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "trading $123 (stated); DCF $110 (stated)",
    "nCalls": 1
   },
   {
@@ -1528,22 +1562,23 @@
   {
    "ticker": "MELI",
    "slug": "MELI",
-   "lastDate": "2026-10-17T17:00:07.664117+00:00",
+   "lastDate": "2026-10-22T22:55:21.107154+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 4,
+     "n": 5,
      "avg": "$944"
     }
    ],
    "influencers": [
+    "MarketBeat",
     "Parkevtate Vosianc CFA",
     "Couch Investor",
     "Mark Roussin CPA",
     "BWB - Business With Brian"
    ],
    "lastStated": "$1,876 (stated current); fair value $2,900 (stated, ~55% upside)",
-   "nCalls": 5
+   "nCalls": 6
   },
   {
    "ticker": "META",
@@ -1781,12 +1816,12 @@
   {
    "ticker": "NFLX",
    "slug": "NFLX",
-   "lastDate": "2026-10-21T21:11:10.918611+00:00",
+   "lastDate": "2026-10-23T13:31:17.261892+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$70"
+     "avg": "$4"
     },
     {
      "dir": "HOLD",
@@ -1795,13 +1830,13 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Joseph Carlson After Hours",
     "Couch Investor",
-    "Parkevtate Vosianc CFA",
     "The German Value Investor"
    ],
-   "lastStated": "$70 (stated market price)",
-   "nCalls": 15
+   "lastStated": "FV cut by ~$4/share (stated); exact new FV figure dropped in captions; says stoc",
+   "nCalls": 16
   },
   {
    "ticker": "NICE",
@@ -1953,12 +1988,12 @@
   {
    "ticker": "NVO",
    "slug": "NVO",
-   "lastDate": "2026-10-05T19:58:26.932338+00:00",
+   "lastDate": "2026-10-22T22:55:21.107154+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
-     "avg": null
+     "n": 2,
+     "avg": "$10"
     },
     {
      "dir": "HOLD",
@@ -1967,11 +2002,12 @@
     }
    ],
    "influencers": [
+    "MarketBeat",
     "The German Value Investor",
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "34.0",
-   "nCalls": 2
+   "lastStated": "less than 10x earnings (stated); no share price stated",
+   "nCalls": 3
   },
   {
    "ticker": "NVT",
@@ -2617,6 +2653,23 @@
    "nCalls": 2
   },
   {
+   "ticker": "SMMT",
+   "slug": "SMMT",
+   "lastDate": "2026-10-22T22:55:21.107154+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$15"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "under $15 (stated); traded as high as ~$33 in the last ~18 months",
+   "nCalls": 1
+  },
+  {
    "ticker": "SNDK",
    "slug": "SNDK",
    "lastDate": "2026-10-14T11:56:04.267425+00:00",
@@ -2917,6 +2970,23 @@
     "Joseph Carlson After Hours"
    ],
    "lastStated": "-21% in the past month (stated)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TYL",
+   "slug": "TYL",
+   "lastDate": "2026-10-22T22:55:21.107154+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
    "nCalls": 1
   },
   {
@@ -3308,7 +3378,7 @@
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
    "nCalls": 72,
-   "nVideos": 54
+   "nVideos": 55
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -3328,15 +3398,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 71,
-   "nVideos": 32
+   "nCalls": 75,
+   "nVideos": 33
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 138,
-   "nVideos": 137
+   "nCalls": 142,
+   "nVideos": 141
   },
   {
    "name": "The German Value Investor",
@@ -3347,6 +3417,56 @@
   }
  ],
  "videos": [
+  {
+   "id": "BJnxdy-y4Xc",
+   "title": "AI Stocks Are the Most Hated Trade Right Now. The Numbers Say Otherwise",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-23T17:01:03.203880+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "ITH0wVU__UI",
+   "title": "I'm Buying More",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-23T13:31:17.261892+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "uXWXsaBWMgU",
+   "title": "Should You Buy Amazon Stock Before the Massive Investor Update? | AMZN Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-23T11:56:17.261892+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "R8zyCTNiP5c",
+   "title": "Interesting News for eBay Stock Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-23T00:56:17.261892+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "jgCqtS02Rr0",
+   "title": "4 Stocks You’ll Wish You Bought on This Dip (One Is Down Over 50%)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-22T22:55:21.107154+00:00",
+   "nCalls": 4
+  },
   {
    "id": "wQWYpGDT6Q4",
    "title": "My Favorite Stocks Are a Screaming Buy Today",
@@ -3395,6 +3515,16 @@
     "Parkevtate Vosianc CFA"
    ],
    "published_at": "2026-10-22T11:55:52.614954+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "GOeiq0K6kP4",
+   "title": "Cava Reported Revenue Increasing by 31%",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-21T23:00:44.079364+00:00",
    "nCalls": 1
   },
   {
