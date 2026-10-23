@@ -1,0 +1,30 @@
+{
+ "ticker": "CAVA",
+ "slug": "CAVA",
+ "calls": [
+  {
+   "video_id": "GOeiq0K6kP4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Cava Reported Revenue Increasing by 31%",
+   "published_at": "2026-10-21T23:00:44.079364+00:00",
+   "analyzed_at": "2026-10-23T22:01:17.000662+00:00",
+   "collab": false,
+   "ticker": "CAVA",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "trading a little over $58 (stated); DCF fair value $52 (stated)",
+   "thesis": "HOLD, low conviction, first tracked CAVA call for Parkevtate (no prior CAVA call in calls.json, so no flip) — he says Cava is not a buying opportunity right now: even after the de-rating the stock looks slightly overvalued, with his revised DCF at ~$52 vs a market price a little over $58. Revenue rose 31% in the latest quarter (17 new stores to 476; same-store sales +9% on +5.3% traffic), but operating cash-flow margin has flatlined around 16% since 2025 on tariff, oil and input-cost inflation, so he is watching for margin improvement to resume alongside revenue growth.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
