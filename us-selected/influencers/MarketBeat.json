@@ -4,6 +4,38 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "MELI",
+   "tickerSlug": "MELI",
+   "direction": "BUY",
+   "date": "2026-10-22T22:55:21.107154+00:00",
+   "price": null,
+   "video_id": "jgCqtS02Rr0"
+  },
+  {
+   "ticker": "NVO",
+   "tickerSlug": "NVO",
+   "direction": "BUY",
+   "date": "2026-10-22T22:55:21.107154+00:00",
+   "price": "less than 10x earnings (stated); no share price stated",
+   "video_id": "jgCqtS02Rr0"
+  },
+  {
+   "ticker": "TYL",
+   "tickerSlug": "TYL",
+   "direction": "BUY",
+   "date": "2026-10-22T22:55:21.107154+00:00",
+   "price": null,
+   "video_id": "jgCqtS02Rr0"
+  },
+  {
+   "ticker": "SMMT",
+   "tickerSlug": "SMMT",
+   "direction": "BUY",
+   "date": "2026-10-22T22:55:21.107154+00:00",
+   "price": "under $15 (stated); traded as high as ~$33 in the last ~18 months",
+   "video_id": "jgCqtS02Rr0"
+  },
+  {
    "ticker": "IWM",
    "tickerSlug": "IWM",
    "direction": "CONDITIONAL_BUY",
