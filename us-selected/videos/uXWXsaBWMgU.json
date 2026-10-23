@@ -1,0 +1,27 @@
+{
+ "video_id": "uXWXsaBWMgU",
+ "title": "Should You Buy Amazon Stock Before the Massive Investor Update? | AMZN Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-23T11:56:17.261892+00:00",
+ "summary": "Parkevtate Vosianc previews Amazon's Q3 results, due after the close on 29 October, from the perspective of a shareholder who ranks Amazon among his ten best stocks and wants to add. The setup is AWS: it accelerated to 37% year-over-year growth last quarter, up from 28%, on quarterly revenue above $200B (up 20%) and operating income of $27.5B, with trailing operating cash flow of $161B. Free cash flow is nonetheless negative $7.6B on data-centre capex. His test for the print is precise: AWS growth above 39% would be positive, anything below 37% a disappointment given the capacity being added. Supporting points include a chips business above a $25B run rate growing at triple digits, 30-40% better price-performance from Graviton processors, and unpriced upside from Amazon's Anthropic stake. His discounted cash flow is $317, about 20% upside over 12-18 months. To manage the binary earnings risk he suggests new buyers split 50% before and 50% after the results, and existing holders 25% before and 75% after. The call is AMZN — BUY reiterated at a $317 DCF, no stance flip.",
+ "calls": [
+  {
+   "video_id": "uXWXsaBWMgU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Amazon Stock Before the Massive Investor Update? | AMZN Stock Analysis",
+   "published_at": "2026-10-23T11:56:17.261892+00:00",
+   "analyzed_at": "2026-10-23T13:59:05.138323+00:00",
+   "collab": false,
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF $317 (stated); ~20% upside over 12-18 months (stated); current price dropped in captions",
+   "thesis": "BUY reiterated (was BUY 2026-10-20 @ $262; no flip) — top-10 stock, owns it and wants to add more ahead of Q3 results on 29 Oct. Risk split: new buyers 50% before / 50% after earnings; existing holders 25% before / 75% after.",
+   "base_case": "AWS accelerated to 37% YoY, Q2 revenue >$200B (+20%), operating income $27.5B; he expects Q3 revenue to beat the $197-202B guide top end. Chips business >$25B run rate, growing triple digits.",
+   "bull_case": "AWS growth above 39% in Q3 would be positive; Anthropic stake is unpriced upside (valuation talk approaching $2T / possible Nov IPO), and Graviton CPUs give 30-40% better price-performance.",
+   "bear_case": "Free cash flow negative $7.6B TTM despite $161B operating cash flow because of data-centre capex; AWS below 37% would be a disappointment, and he is less confident of an operating-income beat on cost inflation."
+  }
+ ]
+}
