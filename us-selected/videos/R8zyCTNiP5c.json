@@ -1,0 +1,27 @@
+{
+ "video_id": "R8zyCTNiP5c",
+ "title": "Interesting News for eBay Stock Investors",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-23T00:56:17.261892+00:00",
+ "summary": "Parkevtate Vosianc updates eBay after the company announced a 9% headcount reduction, its second round of cuts this year after 6% earlier, to streamline operations and prioritise its best units. He links the cuts to AI letting companies do more with fewer staff, macro caution over consumer spending after tariffs and higher oil prices, and duplicate roles after eBay's acquisition of secondhand-fashion marketplace Depop. eBay has been one of his better 2026 picks, up over 41% year to date plus dividends, on an asset-light marketplace model that owns no inventory or logistics and throws off significant free cash flow, even if the platform itself has seen little improvement and revenue growth is solid rather than explosive. That run has pushed the forward price-to-earnings ratio to 18.4, the highest in a couple of years, and his updated discounted cash flow values the business at about $110 a share against a $123 trading price, so it now looks slightly overvalued after a margin of safety. He therefore downgrades eBay from a buying opportunity, last updated 24 August 2026, to a hold at medium conviction. The call is EBAY — HOLD at $123 with a $110 DCF, his first tracked eBay call, so no formal tracked flip.",
+ "calls": [
+  {
+   "video_id": "R8zyCTNiP5c",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Interesting News for eBay Stock Investors",
+   "published_at": "2026-10-23T00:56:17.261892+00:00",
+   "analyzed_at": "2026-10-23T18:03:18.530660+00:00",
+   "collab": false,
+   "ticker": "EBAY",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "trading $123 (stated); DCF $110 (stated)",
+   "thesis": "HOLD, first tracked for Parkevtate (no prior EBAY call in calls.json, so no formal tracked flip) — he says he is downgrading eBay from a buying opportunity (last updated 24 Aug 2026) to a hold, medium conviction, after a >41% YTD run plus dividends made it slightly overvalued: forward P/E 18.4, highest in a couple of years, vs his $110 DCF at a $123 price. News in the video: eBay announced a 9% headcount cut (second round this year, after 6% earlier), to streamline and prioritise its best units.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  }
+ ]
+}
