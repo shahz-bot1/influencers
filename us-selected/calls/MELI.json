@@ -3,6 +3,24 @@
  "slug": "MELI",
  "calls": [
   {
+   "video_id": "jgCqtS02Rr0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "4 Stocks You’ll Wish You Bought on This Dip (One Is Down Over 50%)",
+   "published_at": "2026-10-22T22:55:21.107154+00:00",
+   "analyzed_at": "2026-10-23T05:56:46.861328+00:00",
+   "collab": false,
+   "ticker": "MELI",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY (first tracked for MarketBeat; guest Alec Green, Oxford Club) — MercadoLibre, the 'Amazon of Latin America', dominates LatAm e-commerce more than Amazon dominates the US; recent margin concerns are overdone because spend was for long-term growth; long-term uptrend intact and stock undervalued on forward sales/earnings. No price stated.",
+   "base_case": null,
+   "bull_case": "LatAm e-commerce penetration still early (smartphone/computer ownership lower, fragmented retail); sales and earnings growth ahead should drive sharp appreciation.",
+   "bear_case": "Margin pressure from long-term growth spending dented short-term results; holders over the past year are slightly underwater."
+  },
+  {
    "video_id": "lID8YfUBkZI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -80,20 +98,24 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
+   "channel": "Mark Roussin CPA",
+   "idx": 3
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
