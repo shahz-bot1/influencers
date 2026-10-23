@@ -67,8 +67,8 @@
  "Of4_80Z_cvY": {
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio: October Stock Buys",
-  "published_at": "2026-10-02T03:55:34.303086+00:00",
-  "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
+  "published_at": "2026-10-02T03:55:37.760608+00:00",
+  "analyzed_at": "2026-10-23T03:56:53.103854+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
@@ -323,6 +323,13 @@
   "title": "NVIDIA Just Changed AI Data Centers FOREVER!!",
   "published_at": "2026-10-22T03:11:45.658617+00:00",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
+  "alerted": true
+ },
+ "HK0hFkXskQc": {
+  "channel": "Brian Feroldi",
+  "title": "Dying Business or Generational Opportunity? FICO's drop explained.",
+  "published_at": "2026-10-22T20:55:37.760608+00:00",
+  "analyzed_at": "2026-10-23T03:56:53.103854+00:00",
   "alerted": true
  }
 }
