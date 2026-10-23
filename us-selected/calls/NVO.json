@@ -3,6 +3,24 @@
  "slug": "NVO",
  "calls": [
   {
+   "video_id": "jgCqtS02Rr0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "4 Stocks You’ll Wish You Bought on This Dip (One Is Down Over 50%)",
+   "published_at": "2026-10-22T22:55:21.107154+00:00",
+   "analyzed_at": "2026-10-23T05:56:46.861328+00:00",
+   "collab": false,
+   "ticker": "NVO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "less than 10x earnings (stated); no share price stated",
+   "thesis": "BUY (first tracked for MarketBeat; guest Alec Green) — Novo Nordisk recently re-added to his portfolio after a prior 123% gain; Wegovy GLP-1 market is just getting started, stock trades at under 10x earnings with a big dividend yield, and earnings likely to beat expectations. No share price stated.",
+   "base_case": null,
+   "bull_case": "GLP-1 use expands (only ~10% of Americans on them), insurance/government coverage grows, pipeline approvals add upside, and users must stay on the drug to keep weight off.",
+   "bear_case": "Repeated earnings misses drove the downtrend; Eli Lilly is the current GLP-1 leader and keeps improving its competing drugs."
+  },
+  {
    "video_id": "cIqFhqpTL0g",
    "channel": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
@@ -32,12 +50,16 @@
  ],
  "byInf": [
   {
-   "channel": "The German Value Investor",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 1
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   }
  ]
 }
