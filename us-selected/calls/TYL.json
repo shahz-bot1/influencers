@@ -1,0 +1,30 @@
+{
+ "ticker": "TYL",
+ "slug": "TYL",
+ "calls": [
+  {
+   "video_id": "jgCqtS02Rr0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "4 Stocks You’ll Wish You Bought on This Dip (One Is Down Over 50%)",
+   "published_at": "2026-10-22T22:55:21.107154+00:00",
+   "analyzed_at": "2026-10-23T05:56:46.861328+00:00",
+   "collab": false,
+   "ticker": "TYL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY (first tracked for MarketBeat; guest Alec Green) — Tyler Technologies sells efficiency software to governments; contracts are extremely sticky, earnings are stable and trending up, and the SaaS sell-off on AI-replacement fears was overblown — AI augments rather than replaces its work. No price stated.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
