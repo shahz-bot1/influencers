@@ -3,6 +3,24 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "uXWXsaBWMgU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Amazon Stock Before the Massive Investor Update? | AMZN Stock Analysis",
+   "published_at": "2026-10-23T11:56:17.261892+00:00",
+   "analyzed_at": "2026-10-23T13:59:05.138323+00:00",
+   "collab": false,
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF $317 (stated); ~20% upside over 12-18 months (stated); current price dropped in captions",
+   "thesis": "BUY reiterated (was BUY 2026-10-20 @ $262; no flip) — top-10 stock, owns it and wants to add more ahead of Q3 results on 29 Oct. Risk split: new buyers 50% before / 50% after earnings; existing holders 25% before / 75% after.",
+   "base_case": "AWS accelerated to 37% YoY, Q2 revenue >$200B (+20%), operating income $27.5B; he expects Q3 revenue to beat the $197-202B guide top end. Chips business >$25B run rate, growing triple digits.",
+   "bull_case": "AWS growth above 39% in Q3 would be positive; Anthropic stake is unpriced upside (valuation talk approaching $2T / possible Nov IPO), and Graviton CPUs give 30-40% better price-performance.",
+   "bear_case": "Free cash flow negative $7.6B TTM despite $161B operating cash flow because of data-centre capex; AWS below 37% would be a disappointment, and he is less confident of an operating-income beat on cost inflation."
+  },
+  {
    "video_id": "RmocOvGRhuU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -178,19 +196,19 @@
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 1
-  },
-  {
-   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
+   "channel": "BWB - Business With Brian",
+   "idx": 3
+  },
+  {
    "channel": "Joseph Carlson After Hours",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "Couch Investor",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
