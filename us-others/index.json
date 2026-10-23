@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:03:59.475555+00:00",
+ "updated": "2026-10-23T03:57:26.802090+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -747,6 +747,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "FICO",
+   "slug": "FICO",
+   "lastDate": "2026-10-23T03:56:53.103854+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$66"
+    }
+   ],
+   "influencers": [
+    "Brian Feroldi"
+   ],
+   "lastStated": "Down ~66% from all-time high; trading at ~23x earnings (no dollar share price st",
    "nCalls": 1
   },
   {
@@ -2105,8 +2122,8 @@
    "name": "Brian Feroldi",
    "handle": "@BrianFeroldiYT",
    "slug": "Brian_Feroldi",
-   "nCalls": 0,
-   "nVideos": 0
+   "nCalls": 1,
+   "nVideos": 1
   },
   {
    "name": "Daniel Pronk",
@@ -2166,6 +2183,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "HK0hFkXskQc",
+   "title": "Dying Business or Generational Opportunity? FICO's drop explained.",
+   "creator": "Brian Feroldi",
+   "channels": [
+    "Brian Feroldi"
+   ],
+   "published_at": "2026-10-22T20:55:37.760608+00:00",
+   "nCalls": 1
+  },
   {
    "id": "DwQ8z2cn7H0",
    "title": "NVIDIA Just Changed AI Data Centers FOREVER!!",
