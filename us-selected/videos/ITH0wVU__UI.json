@@ -1,0 +1,27 @@
+{
+ "video_id": "ITH0wVU__UI",
+ "title": "I'm Buying More",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-23T13:31:17.261892+00:00",
+ "summary": "Parkevtate Vosianc reviews Netflix's Q3 results as a shareholder — Netflix is the largest position in his portfolio — after the shares fell more than 4.5% on the day and over 30% overall. Investor focus sits on engagement growing only in low single digits and an advertising rollout that is behind its aggressive target, with partner-integration delays. Management also cut its 2026 free-cash-flow guide from $12.5B to $12B. Against that, he stresses the core content engine (Stranger Things, Squid Game, Bridgerton), roughly 95% of spending on the core business, a record 31.7% operating margin, and licensing deals such as Disney and Globo content already lifting engagement, plus hints of a possible future free ad-supported tier. He reads management's outlook as pointing to strong 2027 revenue growth, with formal guidance expected on the Q4 call. He cut his fair value by about $4 a share after the print (the exact new figure drops out of the auto-captions) but still calls the stock roughly 75% undervalued, says he is more bullish than before, and is likely to add toward his roughly 20% maximum portfolio allocation before Q4 results. The call is NFLX — BUY reiterated, no stance flip.",
+ "calls": [
+  {
+   "video_id": "ITH0wVU__UI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "I'm Buying More",
+   "published_at": "2026-10-23T13:31:17.261892+00:00",
+   "analyzed_at": "2026-10-23T13:59:05.138323+00:00",
+   "collab": false,
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV cut by ~$4/share (stated); exact new FV figure dropped in captions; says stock ~75% undervalued; no current price stated extractable",
+   "thesis": "BUY reiterated (was BUY 2026-10-20, FV $117; no flip) — Netflix is his largest position and he is even more bullish after Q3: shares down >4.5% on the day / >30% overall, likely to add toward his ~20% max allocation before Q4 results. Lowered FV by ~$4 after management cut 2026 FCF guide $12.5B to $12B and on slower ad rollout.",
+   "base_case": "His read of 'strong revenue growth' for 2027 is 8-12%; longer term management aims to sustain double-digit revenue growth, expanding margins (31.7% operating margin, record high) and rising FCF.",
+   "bull_case": "Q4 call guidance at >=10% for 2027 could lift the shares; content/licensing deals (Disney Ice Age films, Globo Brazil) already lifting engagement, plus a possible future free ad-supported tier.",
+   "bear_case": "Engagement growth low single digits (~1.5% in 2025, low single digits H1 2026), ad business behind its aggressive target with partner-integration delays, and gaps in sports and short-form vs TikTok/Reels/Shorts."
+  }
+ ]
+}
