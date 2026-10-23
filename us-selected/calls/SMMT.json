@@ -1,0 +1,30 @@
+{
+ "ticker": "SMMT",
+ "slug": "SMMT",
+ "calls": [
+  {
+   "video_id": "jgCqtS02Rr0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "4 Stocks You’ll Wish You Bought on This Dip (One Is Down Over 50%)",
+   "published_at": "2026-10-22T22:55:21.107154+00:00",
+   "analyzed_at": "2026-10-23T05:56:46.861328+00:00",
+   "collab": false,
+   "ticker": "SMMT",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "under $15 (stated); traded as high as ~$33 in the last ~18 months",
+   "thesis": "BUY, speculative / small position only (first tracked for MarketBeat; guest Alec Green) — Summit Therapeutics (captions say 'Summit Technologies') is a pre-revenue China-based biotech whose lung-cancer drug beat expectations in Chinese tests; FDA decision expected mid-November (~14-15 Nov) on US use vs Merck's Keytruda, plus Q4 China trial results; he suggests a small position and even November calls, taking at least half off on a big pop.",
+   "base_case": null,
+   "bull_case": "FDA approval could produce a big spike / 'moonshot'; Baker Brothers hold a large position.",
+   "bear_case": "Pre-revenue and highly volatile; if FDA approval fails, the thesis and any November calls fail with it."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
