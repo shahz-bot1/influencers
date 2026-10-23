@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T01:32:35.339252+00:00",
+ "updated": "2026-10-23T01:36:40.449190+00:00",
  "tickers": [
   {
    "ticker": "GOLD",
@@ -246,14 +246,14 @@
    "handle": "@AkshatZayn",
    "slug": "Akshat_Shrivastava",
    "nCalls": 0,
-   "nVideos": 8
+   "nVideos": 9
   },
   {
    "name": "Rahul Jain",
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
    "nCalls": 15,
-   "nVideos": 21
+   "nVideos": 22
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -264,6 +264,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "HmhexcAhCwk",
+   "title": "A Lot of Stocks Have Crashed: How to Spot Opportunities vs Traps | Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-22",
+   "nCalls": 0
+  },
+  {
+   "id": "XHxOA3PvTYQ",
+   "title": "Best time to SELL is 2026-2027 (this is what a 100 year old prediction says. Let's Analyze.",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-10-22",
+   "nCalls": 0
+  },
   {
    "id": "v2k9el5eqnw",
    "title": "Where to Invest ₹10 Lacs Now Across Stock Market, Gold & FDs | Rahul Jain G2G",
