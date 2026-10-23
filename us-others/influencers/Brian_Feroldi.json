@@ -2,5 +2,14 @@
  "name": "Brian Feroldi",
  "handle": "@BrianFeroldiYT",
  "slug": "Brian_Feroldi",
- "calls": []
+ "calls": [
+  {
+   "ticker": "FICO",
+   "tickerSlug": "FICO",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-23T03:56:53.103854+00:00",
+   "price": "Down ~66% from all-time high; trading at ~23x earnings (no dollar share price stated)",
+   "video_id": "HK0hFkXskQc"
+  }
+ ]
 }
