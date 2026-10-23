@@ -3,6 +3,24 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "ITH0wVU__UI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "I'm Buying More",
+   "published_at": "2026-10-23T13:31:17.261892+00:00",
+   "analyzed_at": "2026-10-23T13:59:05.138323+00:00",
+   "collab": false,
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV cut by ~$4/share (stated); exact new FV figure dropped in captions; says stock ~75% undervalued; no current price stated extractable",
+   "thesis": "BUY reiterated (was BUY 2026-10-20, FV $117; no flip) — Netflix is his largest position and he is even more bullish after Q3: shares down >4.5% on the day / >30% overall, likely to add toward his ~20% max allocation before Q4 results. Lowered FV by ~$4 after management cut 2026 FCF guide $12.5B to $12B and on slower ad rollout.",
+   "base_case": "His read of 'strong revenue growth' for 2027 is 8-12%; longer term management aims to sustain double-digit revenue growth, expanding margins (31.7% operating margin, record high) and rising FCF.",
+   "bull_case": "Q4 call guidance at >=10% for 2027 could lift the shares; content/licensing deals (Disney Ice Age films, Globo Brazil) already lifting engagement, plus a possible future free ad-supported tier.",
+   "bear_case": "Engagement growth low single digits (~1.5% in 2025, low single digits H1 2026), ad business behind its aggressive target with partner-integration delays, and gaps in sports and short-form vs TikTok/Reels/Shorts."
+  },
+  {
    "video_id": "IhtkjAPaBrA",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -243,20 +261,20 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
    "channel": "The German Value Investor",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
