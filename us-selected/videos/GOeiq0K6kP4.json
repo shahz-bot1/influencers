@@ -1,0 +1,27 @@
+{
+ "video_id": "GOeiq0K6kP4",
+ "title": "Cava Reported Revenue Increasing by 31%",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-21T23:00:44.079364+00:00",
+ "summary": "Parkevtate Vosianc asks whether Cava Group is an undervalued restaurant opportunity after a strong quarter. Cava's revenue rose 31% year over year, with 17 new restaurants taking the estate to 476 locations and same-store sales up 9%, driven by 5.3% traffic growth, so part of the growth is organic rather than just new openings. Trailing sales have climbed from roughly $500M in 2023 to about $1.37B, and he sees a long runway from under 500 Mediterranean locations toward 3,000-6,000 at maturity, in a market crowded with pizza, burger and burrito concepts. The problem is profitability: operating cash-flow margin has flatlined around 16% since 2025 as tariffs, oil and input costs lifted both opening and operating costs, and returns on invested capital, once approaching 15% and ahead of early-stage Chipotle, have stopped improving. He updated his discounted cash flow and revised estimates slightly higher, putting fair value at about $52 against a market price a little over $58, so even after a margin of safety the shares look slightly overvalued. The call is CAVA — HOLD, low conviction, his first tracked Cava call; he is watching for margin improvement to resume while revenue keeps expanding. One forward price-to-sales figure is garbled in the auto-captions.",
+ "calls": [
+  {
+   "video_id": "GOeiq0K6kP4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Cava Reported Revenue Increasing by 31%",
+   "published_at": "2026-10-21T23:00:44.079364+00:00",
+   "analyzed_at": "2026-10-23T22:01:17.000662+00:00",
+   "collab": false,
+   "ticker": "CAVA",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "trading a little over $58 (stated); DCF fair value $52 (stated)",
+   "thesis": "HOLD, low conviction, first tracked CAVA call for Parkevtate (no prior CAVA call in calls.json, so no flip) — he says Cava is not a buying opportunity right now: even after the de-rating the stock looks slightly overvalued, with his revised DCF at ~$52 vs a market price a little over $58. Revenue rose 31% in the latest quarter (17 new stores to 476; same-store sales +9% on +5.3% traffic), but operating cash-flow margin has flatlined around 16% since 2025 on tariff, oil and input-cost inflation, so he is watching for margin improvement to resume alongside revenue growth.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  }
+ ]
+}
