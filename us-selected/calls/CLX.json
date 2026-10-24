@@ -3,6 +3,24 @@
  "slug": "CLX",
  "calls": [
   {
+   "video_id": "jFBWQkDC_1o",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Macroeconomic Headwinds are Hitting Clorox From All Sides | CLX Stock Analysis",
+   "published_at": "2026-10-22T05:55:21.834433+00:00",
+   "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+   "collab": false,
+   "ticker": "CLX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "trading $87 (stated); DCF $100 (stated, revised slightly lower)",
+   "thesis": "BUY reiterated (was BUY 2026-10-02 @ $81 market, DCF $110; no flip) — Clorox still looks undervalued on both forward P/E (14.25, multi-year low) and his revised $100 DCF vs an $87 price, so he reiterates the buy first ranked 28 Sep 2026, but downgrades his conviction from medium to low as the troubles persist with no clear end.",
+   "base_case": null,
+   "bull_case": "Valuation is at multi-year lows after a 13.4% fall in 2026 (from near $130 to a low near $80, now ~$87); a major restructuring with job cuts, which he would not be surprised to see, could lift investor sentiment.",
+   "bear_case": "Fiscal 2026 net sales fell 5% (sales down from $7.5bn pandemic peak to $6.7bn) as value-conscious consumers trade down to store brands; tariffs and the war in Iran lift input costs, operating margin is ~13% vs 18-20% normally, revenue per employee fell from over $900k to $800k, and the CEO resigned for health reasons with no replacement yet found."
+  },
+  {
    "video_id": "VUnl7IGEuJE",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
