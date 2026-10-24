@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T22:05:22.225580+00:00",
+ "updated": "2026-10-24T22:02:46.075369+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -530,19 +530,19 @@
   {
    "ticker": "CLX",
    "slug": "CLX",
-   "lastDate": "2026-10-02T16:00:45.184344+00:00",
+   "lastDate": "2026-10-22T05:55:21.834433+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$81"
+     "avg": "$87"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "market $81 (stated); DCF FV $110",
-   "nCalls": 1
+   "lastStated": "trading $87 (stated); DCF $100 (stated, revised slightly lower)",
+   "nCalls": 2
   },
   {
    "ticker": "CMG",
@@ -793,6 +793,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "DOCN",
+   "slug": "DOCN",
+   "lastDate": "2026-10-23T05:55:21.834433+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$122"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "$122 DCF (stated) vs ~$102 current (stated); ~20% upside over 12-18 months (stat",
+   "nCalls": 1
+  },
+  {
    "ticker": "DPZ",
    "slug": "DPZ",
    "lastDate": "2026-10-11T18:04:45.730459+00:00",
@@ -980,6 +997,40 @@
    "nCalls": 1
   },
   {
+   "ticker": "FN",
+   "slug": "FN",
+   "lastDate": "2026-10-23T22:55:21.834433+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "FORM",
+   "slug": "FORM",
+   "lastDate": "2026-10-23T22:55:21.834433+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "FTNT",
    "slug": "FTNT",
    "lastDate": "2026-10-04T15:59:59.567519+00:00",
@@ -1100,6 +1151,23 @@
    ],
    "lastStated": "$346 (stated market price; DCF fair value $373)",
    "nCalls": 15
+  },
+  {
+   "ticker": "GRAL",
+   "slug": "GRAL",
+   "lastDate": "2026-10-23T22:55:21.834433+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "HD",
@@ -1317,6 +1385,23 @@
    ],
    "lastStated": "$85.80 (stated market; DCF fair value $86.61)",
    "nCalls": 2
+  },
+  {
+   "ticker": "KTOS",
+   "slug": "KTOS",
+   "lastDate": "2026-10-23T22:55:21.834433+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "LBRT",
@@ -2695,12 +2780,12 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-10-15T11:56:10.087942+00:00",
+   "lastDate": "2026-10-22T05:55:21.834433+00:00",
    "chips": [
     {
-     "dir": "BUY",
+     "dir": "CONDITIONAL_BUY",
      "n": 1,
-     "avg": "$15"
+     "avg": "$14.82"
     },
     {
      "dir": "HOLD",
@@ -2713,8 +2798,25 @@
     "Couch Investor",
     "MarketBeat"
    ],
-   "lastStated": "$15 (stated); fair value $19 (stated)",
-   "nCalls": 5
+   "lastStated": "$14.82 (stated); fair value $19.82 (stated)",
+   "nCalls": 6
+  },
+  {
+   "ticker": "SPCX",
+   "slug": "SPCX",
+   "lastDate": "2026-10-23T22:55:21.834433+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$63"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "price-to-sales 63 (stated); no share price stated",
+   "nCalls": 1
   },
   {
    "ticker": "SPGI",
@@ -2777,6 +2879,23 @@
    "ticker": "TDW",
    "slug": "TDW",
    "lastDate": "2026-10-06T11:00:10.331747+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TER",
+   "slug": "TER",
+   "lastDate": "2026-10-23T22:55:21.834433+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -3398,15 +3517,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 75,
-   "nVideos": 33
+   "nCalls": 80,
+   "nVideos": 34
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 142,
-   "nVideos": 141
+   "nCalls": 146,
+   "nVideos": 146
   },
   {
    "name": "The German Value Investor",
@@ -3417,6 +3536,36 @@
   }
  ],
  "videos": [
+  {
+   "id": "LauJrBZP3xc",
+   "title": "Is SpaceX Stock a Buy After Reporting Spectacular Earnings Results?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-23T22:55:21.834433+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "MCLfOaku5MA",
+   "title": "He Got Rich Off AMD at $2. He's Buying These Stocks Next.",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-23T22:55:21.834433+00:00",
+   "nCalls": 5
+  },
+  {
+   "id": "O7T5j4MCaXA",
+   "title": "What's Going on With Meta Stock?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-23T22:55:21.834433+00:00",
+   "nCalls": 0
+  },
   {
    "id": "BJnxdy-y4Xc",
    "title": "AI Stocks Are the Most Hated Trade Right Now. The Numbers Say Otherwise",
@@ -3445,6 +3594,16 @@
     "Parkevtate Vosianc CFA"
    ],
    "published_at": "2026-10-23T11:56:17.261892+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "9EjvFSLy_Eo",
+   "title": "Why Is DigitalOcean Stock Falling and is it a Buying Opportunity?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-23T05:55:21.834433+00:00",
    "nCalls": 1
   },
   {
@@ -3515,6 +3674,26 @@
     "Parkevtate Vosianc CFA"
    ],
    "published_at": "2026-10-22T11:55:52.614954+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "jFBWQkDC_1o",
+   "title": "Macroeconomic Headwinds are Hitting Clorox From All Sides | CLX Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-22T05:55:21.834433+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "qHzoSWzT92I",
+   "title": "Should You Buy SoFi Stock Before the Huge Investor Update?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-22T05:55:21.834433+00:00",
    "nCalls": 1
   },
   {
