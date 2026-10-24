@@ -3,6 +3,24 @@
  "slug": "SOFI",
  "calls": [
   {
+   "video_id": "qHzoSWzT92I",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy SoFi Stock Before the Huge Investor Update?",
+   "published_at": "2026-10-22T05:55:21.834433+00:00",
+   "analyzed_at": "2026-10-24T13:58:52.271522+00:00",
+   "collab": false,
+   "ticker": "SOFI",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "stance_flip": "BUY -> CONDITIONAL_BUY (soft, timing only)",
+   "price_at_call": "$14.82 (stated); fair value $19.82 (stated)",
+   "thesis": "CONDITIONAL_BUY (soft flip from BUY on 2026-10-15; long-term stance unchanged) — long-term buying opportunity / bullish, fair value raised $19 to $19.82 vs $14.82 market (~34% upside over 12-18 months, forward P/E 18.5), but do NOT buy before the Tue 27 Oct investor update: he sees very little upside into the print as macro/rate headwinds have worsened, and personally would wait until after it to decide. Optional FOMO route he personally would not use: 25% before / 75% after.",
+   "base_case": "Most recent quarter (reported 29 Jul): revenue +43% to $1.2bn, adjusted EBITDA +44%, members +35% YoY to 15.8m (+1.1m in the quarter), loan originations $14.8bn; digital-only model lets SoFi invest in products over legacy branch costs.",
+   "bull_case": "If the technology platform reinvigorates growth after losing a large client (accounts -16% YoY to 135m, +2m QoQ), SoFi can earn a technology valuation rather than a muted bank valuation.",
+   "bear_case": "Higher and faster-rising rates likely cut the fair value of the $46.6bn loan book (at 30 Jun) by several billions and lower loan-sale prices; oil/inflation/macro headwinds worsened in the quarter to be reported 27 Oct, and the tech segment continues to struggle to add customers."
+  },
+  {
    "video_id": "39moWMS6YQI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -85,11 +103,11 @@
   },
   {
    "channel": "Couch Investor",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "MarketBeat",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
