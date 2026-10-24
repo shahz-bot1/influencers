@@ -1643,9 +1643,9 @@
  },
  "aw_hamaumXA": {
   "channel": "Parkevtate Vosianc CFA",
-  "title": "Every Position in My Portfolio Revealed + the % Allocation, My Most Recent Trades, and My Next Moves",
-  "published_at": "2026-10-19T13:56:17.261892+00:00",
-  "analyzed_at": "2026-10-23T22:01:17.000662+00:00",
+  "title": "Curious About What I Have in My Portfolio? Most Recent Trades? What % in Each Stock? It's All Here",
+  "published_at": "2026-10-19T05:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T18:01:55.198912+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
@@ -1849,10 +1849,9 @@
  "jFBWQkDC_1o": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Macroeconomic Headwinds are Hitting Clorox From All Sides | CLX Stock Analysis",
-  "published_at": "2026-10-22T13:56:17.261892+00:00",
-  "analyzed_at": "2026-10-23T22:01:17.000662+00:00",
-  "alerted": false,
-  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+  "published_at": "2026-10-22T05:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+  "alerted": true
  },
  "GOeiq0K6kP4": {
   "channel": "Parkevtate Vosianc CFA",
@@ -1864,8 +1863,8 @@
  "WxT0lrhS5Lk": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Interesting News for Walmart Stock Investors | WMT Stock Analysis",
-  "published_at": "2026-10-22T13:56:17.261892+00:00",
-  "analyzed_at": "2026-10-23T22:01:17.000662+00:00",
+  "published_at": "2026-10-22T05:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
@@ -1879,18 +1878,20 @@
  "l81JZUo8WzI": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Down 98%, Is it Finally Time to Buy Chargepoint Stock? | CHPT Stock Analysis",
-  "published_at": "2026-10-22T13:56:17.261892+00:00",
-  "analyzed_at": "2026-10-23T22:01:17.000662+00:00",
+  "published_at": "2026-10-22T05:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
  "qHzoSWzT92I": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Should You Buy SoFi Stock Before the Huge Investor Update?",
-  "published_at": "2026-10-22T13:56:17.261892+00:00",
-  "analyzed_at": "2026-10-23T22:01:17.000662+00:00",
-  "alerted": false,
-  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+  "published_at": "2026-10-22T05:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T13:58:52.271522+00:00",
+  "alerted": true,
+  "calls": [
+   "SOFI:CONDITIONAL_BUY"
+  ]
  },
  "7jcAqx7huGU": {
   "channel": "MarketBeat",
@@ -1930,10 +1931,9 @@
  "9EjvFSLy_Eo": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Why Is DigitalOcean Stock Falling and is it a Buying Opportunity?",
-  "published_at": "2026-10-23T00:56:17.261892+00:00",
-  "analyzed_at": "2026-10-23T22:01:17.000662+00:00",
-  "alerted": false,
-  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+  "published_at": "2026-10-23T05:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+  "alerted": true
  },
  "R8zyCTNiP5c": {
   "channel": "Parkevtate Vosianc CFA",
@@ -1959,8 +1959,93 @@
  "sH08EsdLvgM": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Why Is Meta Stock Falling After Earnings, and is it a Buying Opportunity? | META Stock Deep Dive",
-  "published_at": "2026-10-23T19:58:23.828539+00:00",
-  "analyzed_at": "2026-10-23T22:01:17.000662+00:00",
+  "published_at": "2026-10-23T19:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "O7T5j4MCaXA": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "What's Going on With Meta Stock?",
+  "published_at": "2026-10-23T22:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T18:01:55.198912+00:00",
+  "alerted": false
+ },
+ "LauJrBZP3xc": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Is SpaceX Stock a Buy After Reporting Spectacular Earnings Results?",
+  "published_at": "2026-10-23T22:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+  "alerted": true
+ },
+ "83F2533_VzU": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Tesla Is Investing Aggressively in its Next Generation Technology | TSLA Stock Analysis",
+  "published_at": "2026-10-23T22:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "os1bRgXotuY": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Procter & Gamble is Accelerating Revenue Growth as its Costs are Rising",
+  "published_at": "2026-10-23T22:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "MCLfOaku5MA": {
+  "channel": "MarketBeat",
+  "title": "He Got Rich Off AMD at $2. He\u2019s Buying These Stocks Next.",
+  "published_at": "2026-10-23T22:55:21.834433+00:00",
+  "analyzed_at": "2026-10-24T05:56:58.020775+00:00",
+  "alerted": true
+ },
+ "MFKKNTh8Lr8": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Meta Stock Analysis: Buy or Sell? (My Final Verdict)",
+  "published_at": "2026-10-24T21:34:19.777924+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "pW0cr707XPw": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Meta Reveals Hardware Strategy to Investors",
+  "published_at": "2026-10-24T21:31:19.777924+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "JjlBOSyXX4k": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Should You Buy Pinterest Stock Before the Huge Investor Update?",
+  "published_at": "2026-10-24T21:25:19.777924+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "QNci5DHflos": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Why Is Everyone Talking About Meta Stock?",
+  "published_at": "2026-10-24T21:23:19.777924+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "hdlnj5H42vw": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Massive Update for Nebius Stock Investors | NBIS STock Analysis",
+  "published_at": "2026-10-24T21:20:19.777924+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "HtJpT1AHqQw": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Should You Buy Microsoft Stock Before the Huge Investor Update? | MSFT Stock Analysis",
+  "published_at": "2026-10-24T21:18:19.777924+00:00",
+  "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  }
