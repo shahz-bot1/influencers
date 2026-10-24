@@ -2588,5 +2588,35 @@
   "thesis": "First tracked Feroldi FICO call: leans opportunity over value trap, but wants an even cheaper valuation than today before getting excited \u2014 stock down ~66% from its all-time high at ~23x earnings (vs ~50x 10-year average), revenue +20%+ and earnings +25% over the last year with 2027 revenue growth expected ~28% and full-year 2026 guidance raised, wide moat (54% return on capital, software lock-in, de facto standard score) now damaged by egregious mortgage-score price rises (60c to $10 since 2022), Rocket Mortgage switching preference to VantageScore, and a September 2026 FHFA move to one pricing grid giving VantageScore equal terms (Vantage offered at 99c vs FICO $10); third concern is $2.3B of debt-funded buybacks done likely above 30x earnings while the shares were in freefall. Opportunity only if no more share loss, growth persists and buybacks prove well-timed; a trap if the monopoly is gone for good.",
   "analyzed_at": "2026-10-23T03:56:53.103854+00:00",
   "price_at_call": "Down ~66% from all-time high; trading at ~23x earnings (no dollar share price stated)"
+ },
+ {
+  "video_id": "dR8CQ1FJzyQ",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "CRWV",
+  "direction": "AVOID",
+  "thesis": "Reiterated AVOID: CoreWeave is the worked example of the AI financing risk \u2014 its 9% 2031 debt is trading at a 14.6% yield (over 15% in recent days), a distress-like level; it has about $35B of debt and $5.5B of cash at the end of the most recent quarter against expected capex of $36B in 2026, $47B next year and $51B the year after, so it must keep raising capital at a higher cost than the last tranche, and customer prepayments cannot be assumed to continue if compute becomes less scarce.",
+  "analyzed_at": "2026-10-24T03:57:34.097774+00:00",
+  "price_at_call": "No share price stated; 9% 2031 debt yield 14.6% (over 15% within the last couple of days)"
+ },
+ {
+  "video_id": "dR8CQ1FJzyQ",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "NBIS",
+  "direction": "AVOID",
+  "thesis": "Reiterated AVOID: Nebius is highlighted as a major risk company \u2014 its convertible debt is a benefit only if the share price rises and it converts; much of that debt has fallen below the convert price in the past couple of months, and the debt issued in September is now trading at about 85 cents on the dollar, telling him investors are demanding more yield to take risk in AI stocks.",
+  "analyzed_at": "2026-10-24T03:57:34.097774+00:00",
+  "price_at_call": "No share price stated; September convertible debt trading at about 85 cents on the dollar"
+ },
+ {
+  "video_id": "dR8CQ1FJzyQ",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "GOOGL",
+  "direction": "HOLD",
+  "thesis": "Reiterated HOLD: he owns Alphabet, the only AI-related company in the Asymmetric Portfolio; hyperscalers like Alphabet will be fine because they have cash flow from core operations and can simply pull back capex spending if needed, unlike the capital-dependent neoclouds.",
+  "analyzed_at": "2026-10-24T03:57:34.097774+00:00",
+  "price_at_call": "No price stated"
  }
 ]
