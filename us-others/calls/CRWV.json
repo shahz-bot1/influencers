@@ -3,6 +3,16 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "dR8CQ1FJzyQ",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "CRWV",
+   "direction": "AVOID",
+   "thesis": "Reiterated AVOID: CoreWeave is the worked example of the AI financing risk — its 9% 2031 debt is trading at a 14.6% yield (over 15% in recent days), a distress-like level; it has about $35B of debt and $5.5B of cash at the end of the most recent quarter against expected capex of $36B in 2026, $47B next year and $51B the year after, so it must keep raising capital at a higher cost than the last tranche, and customer prepayments cannot be assumed to continue if compute becomes less scarce.",
+   "analyzed_at": "2026-10-24T03:57:34.097774+00:00",
+   "price_at_call": "No share price stated; 9% 2031 debt yield 14.6% (over 15% within the last couple of days)"
+  },
+  {
    "video_id": "0UT-qmch2jU",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -82,15 +92,15 @@
   },
   {
    "channel": "Jose Najarro Stocks",
-   "idx": 1
-  },
-  {
-   "channel": "Daniel Pronk",
    "idx": 2
   },
   {
+   "channel": "Daniel Pronk",
+   "idx": 3
+  },
+  {
    "channel": "Joseph Hogue, CFA",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
