@@ -1,0 +1,31 @@
+{
+ "ticker": "TER",
+ "slug": "TER",
+ "calls": [
+  {
+   "video_id": "MCLfOaku5MA",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Matt McCall (Monument Traders Alliance)",
+   "video_title": "He Got Rich Off AMD at $2. He’s Buying These Stocks Next.",
+   "published_at": "2026-10-23T22:55:21.834433+00:00",
+   "analyzed_at": "2026-10-24T05:56:58.020775+00:00",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false,
+   "ticker": "TER",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "BUY (first tracked for MarketBeat; guest Matt McCall) — Teradyne as his blue-chip robotics play and first name to add to a robotics portfolio; great entry point on the pullback at a double/triple bottom. Semi testing drives growth, robotics/cobots are a cheap add-on with upside. No price stated.",
+   "base_case": "Earnings growth ~130% in 2026 and ~30% in following years; revenue growth ~61% this year on semi testing strength.",
+   "bull_case": "Robotics grows faster from a low base and could help Teradyne become a much larger — he says potential trillion-dollar — company; a 20-bagger in his framing.",
+   "bear_case": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
