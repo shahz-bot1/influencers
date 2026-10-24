@@ -1,0 +1,31 @@
+{
+ "ticker": "FN",
+ "slug": "FN",
+ "calls": [
+  {
+   "video_id": "MCLfOaku5MA",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Matt McCall (Monument Traders Alliance)",
+   "video_title": "He Got Rich Off AMD at $2. He’s Buying These Stocks Next.",
+   "published_at": "2026-10-23T22:55:21.834433+00:00",
+   "analyzed_at": "2026-10-24T05:56:58.020775+00:00",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false,
+   "ticker": "FN",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "BUY (first tracked for MarketBeat; guest Matt McCall) — Fabrinet (FN, stated) AI infrastructure in photonics/optics for data centres; $13bn company, pulled back and down ~11% over a year despite earnings, giving a great opportunity to add/double down. No price stated.",
+   "base_case": "Data-centre/compute demand is a no-brainer in his view; Fabrinet is a leader with contracts and the story is unchanged, only the price has fallen.",
+   "bull_case": "He frames this as a 1995 internet moment, not 1999 — infrastructure builders like Cisco then won as the build-out continued.",
+   "bear_case": "AI-bubble and data-centre financing doubts are weighing on the group; holders are down from highs and volatility is high."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
