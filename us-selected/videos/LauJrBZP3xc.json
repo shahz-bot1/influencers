@@ -1,0 +1,27 @@
+{
+ "video_id": "LauJrBZP3xc",
+ "title": "Is SpaceX Stock a Buy After Reporting Spectacular Earnings Results?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-23T22:55:21.834433+00:00",
+ "summary": "Parkevtate Vosianc works through SpaceX's latest results and asks whether spectacular earnings make the stock a buy. Revenue rose 161% to $14.6 billion and operating income swung to a $2.8 billion profit from losses a year earlier. The fastest growth came from the superintelligence segment, up to $7.56 billion from $813 million, because SpaceX rented its computing power to customers including Alphabet and Anthropic instead of using it for its own AI model, which he ranks only fourth or fifth behind OpenAI, Anthropic and Gemini; that makes it more like CoreWeave, which commands a lower valuation premium. He calls Starlink the sustainably attractive segment: subscribers nearly doubled to 13.6 million, connectivity revenue reached $5.2 billion and operating income $2.4 billion, a margin above 40%. Against that, capital spending is enormous — $48 billion in the first nine months of 2026 against $13.1 billion of operating cash flow — and the stock trades at 63 times price-to-sales, near its cheapest on that measure but still rich, with a large Elon Musk premium embedded. The call is SPCX — HOLD, low conviction: exciting, but he would wait for a better entry point. Several segment figures are partly garbled in the auto-captions.",
+ "calls": [
+  {
+   "video_id": "LauJrBZP3xc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is SpaceX Stock a Buy After Reporting Spectacular Earnings Results?",
+   "published_at": "2026-10-23T22:55:21.834433+00:00",
+   "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+   "collab": false,
+   "ticker": "SPCX",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "price-to-sales 63 (stated); no share price stated",
+   "thesis": "HOLD, low conviction, first explicit SPCX call for Parkevtate (prior mention was UNCERTAIN in a GOOG video, so no flip) — SpaceX is one of the most exciting stocks in the market, but at 63x price-to-sales the valuation is still too rich to rank it a buying opportunity; he would wait for a better entry point.",
+   "base_case": "Revenue $14.6bn, up 161%, with $2.8bn operating profit versus losses a year ago; the space segment was relatively flat, which he calls lumpy rather than a concern, and the company launched its first revenue-generating Starship flight in the period covered.",
+   "bull_case": "Starlink is sustainably attractive: subscribers nearly doubled to 13.6m from 7.2m, connectivity revenue rose to $5.2bn from $3.1bn with $2.4bn operating income (over 40% margin) at $69 average revenue per user; the superintelligence segment jumped to $7.56bn from $813m by renting compute to customers including Alphabet and Anthropic.",
+   "bear_case": "Capital spending dwarfs cash generation — capex $48bn in the first nine months of 2026 vs $13.1bn cash flow from operations — and superintelligence capex alone was $16.4bn in the quarter; at 63x sales much of the price is an Elon Musk premium that could evaporate quickly, and its own AI model ranks only fourth or fifth behind OpenAI, Anthropic and Gemini."
+  }
+ ]
+}
