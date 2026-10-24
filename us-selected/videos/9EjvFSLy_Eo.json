@@ -1,0 +1,27 @@
+{
+ "video_id": "9EjvFSLy_Eo",
+ "title": "Why Is DigitalOcean Stock Falling and is it a Buying Opportunity?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-23T05:55:21.834433+00:00",
+ "summary": "Parkevtate Vosianc asks why DigitalOcean stock is falling despite accelerating growth, and whether the drop is a buying opportunity. Management is guiding fourth-quarter 2026 revenue growth of 35%, up from 28% in the most recent quarter, and at least 50% growth in 2027, but says that growth will come at the expense of operating profit margins as it invests in capacity. He traces revenue from about $300 million in 2021 to $1 billion over the trailing twelve months, crediting agentic AI and the shift from closed to open-weight models, with customers value-maxing rather than token-maxing. The cost is margin: cash flow from operations has fallen to 31% of sales from a 39% peak, which makes investors treat the growth as investment-driven rather than organic. The shares are still up over 111% year to date but down from about $180 to about $102. He likes R&D leverage — 18.7% of revenue, down from 29% in 2022 — and a forward P/E of 55 against 50% forecast growth. His updated discounted cash flow is $122 a share against about $102, roughly 20% upside over 12 to 18 months. Having called it too expensive on 13 May, he now upgrades it. The call is DOCN — BUY at a $122 DCF, his first tracked DigitalOcean call.",
+ "calls": [
+  {
+   "video_id": "9EjvFSLy_Eo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is DigitalOcean Stock Falling and is it a Buying Opportunity?",
+   "published_at": "2026-10-23T05:55:21.834433+00:00",
+   "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+   "collab": false,
+   "ticker": "DOCN",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$122 DCF (stated) vs ~$102 current (stated); ~20% upside over 12-18 months (stated)",
+   "thesis": "BUY, first tracked DOCN call for Parkevtate (no prior DOCN call in calls.json, so no formal tracked flip) — he upgrades DigitalOcean to a buy: on 13 May he had said it was too expensive, but the fall from ~$180 earlier in 2026 to ~$102 makes his updated $122 DCF attractive enough. Forward P/E 55 against forecast 50% revenue growth in 2027, with cash flow from operations still over 30% of sales.",
+   "base_case": "Management guides Q4 2026 revenue growth of 35%, up from 28% in the most recent quarter, and at least 50% growth in 2027; revenue has risen from ~$300m in 2021 to ~$1bn trailing twelve months.",
+   "bull_case": "Agentic AI and the shift to open-weight models are driving demand (customers value-maxing rather than token-maxing); R&D fell to 18.7% of revenue from 29% in 2022, so R&D can grow in dollars while shrinking as a share of accelerating revenue.",
+   "bear_case": "Growth is coming at the expense of operating margins as the company invests in capacity, so investors see it as investment-driven rather than organic; cash-flow-from-operations margin has fallen to 31% from a 39% peak."
+  }
+ ]
+}
