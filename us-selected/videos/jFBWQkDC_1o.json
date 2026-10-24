@@ -1,0 +1,27 @@
+{
+ "video_id": "jFBWQkDC_1o",
+ "title": "Macroeconomic Headwinds are Hitting Clorox From All Sides | CLX Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-22T05:55:21.834433+00:00",
+ "summary": "Parkevtate Vosianc reviews a very difficult fiscal 2026 for Clorox and asks whether investors should run away or buy the dip. Net sales fell 5% as value-conscious consumers traded down to cheaper unbranded and store-brand products, a trend he says Clorox, Kimberly-Clark, Procter & Gamble and retailers from Walmart to Amazon all report. At the same time tariffs and the war in Iran lifted input costs, and the CEO resigned for health reasons with a replacement still being sought. Sales have fallen from a $7.5 billion pandemic peak, when disinfectant wipes surged, to $6.7 billion, operating margin is around 13% against 18 to 20% normally, and revenue per employee has dropped from over $900,000 to $800,000; he would not be surprised by a major restructuring with large job cuts. The stock is down 13.4% in 2026, from near $130 to a low near $80 and back to about $87, trading at a forward P/E of 14.25, near multi-year lows. He revised his free-cash-flow estimates slightly lower, putting fair value at $100 against $87. The call is CLX — BUY reiterated, but conviction cut from medium to low. One operating-margin figure drops out of the auto-captions.",
+ "calls": [
+  {
+   "video_id": "jFBWQkDC_1o",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Macroeconomic Headwinds are Hitting Clorox From All Sides | CLX Stock Analysis",
+   "published_at": "2026-10-22T05:55:21.834433+00:00",
+   "analyzed_at": "2026-10-24T22:01:19.879744+00:00",
+   "collab": false,
+   "ticker": "CLX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "trading $87 (stated); DCF $100 (stated, revised slightly lower)",
+   "thesis": "BUY reiterated (was BUY 2026-10-02 @ $81 market, DCF $110; no flip) — Clorox still looks undervalued on both forward P/E (14.25, multi-year low) and his revised $100 DCF vs an $87 price, so he reiterates the buy first ranked 28 Sep 2026, but downgrades his conviction from medium to low as the troubles persist with no clear end.",
+   "base_case": null,
+   "bull_case": "Valuation is at multi-year lows after a 13.4% fall in 2026 (from near $130 to a low near $80, now ~$87); a major restructuring with job cuts, which he would not be surprised to see, could lift investor sentiment.",
+   "bear_case": "Fiscal 2026 net sales fell 5% (sales down from $7.5bn pandemic peak to $6.7bn) as value-conscious consumers trade down to store brands; tariffs and the war in Iran lift input costs, operating margin is ~13% vs 18-20% normally, revenue per employee fell from over $900k to $800k, and the CEO resigned for health reasons with no replacement yet found."
+  }
+ ]
+}
