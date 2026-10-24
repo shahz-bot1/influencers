@@ -4,6 +4,46 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "TER",
+   "tickerSlug": "TER",
+   "direction": "BUY",
+   "date": "2026-10-23T22:55:21.834433+00:00",
+   "price": null,
+   "video_id": "MCLfOaku5MA"
+  },
+  {
+   "ticker": "GRAL",
+   "tickerSlug": "GRAL",
+   "direction": "BUY",
+   "date": "2026-10-23T22:55:21.834433+00:00",
+   "price": null,
+   "video_id": "MCLfOaku5MA"
+  },
+  {
+   "ticker": "KTOS",
+   "tickerSlug": "KTOS",
+   "direction": "BUY",
+   "date": "2026-10-23T22:55:21.834433+00:00",
+   "price": null,
+   "video_id": "MCLfOaku5MA"
+  },
+  {
+   "ticker": "FORM",
+   "tickerSlug": "FORM",
+   "direction": "BUY",
+   "date": "2026-10-23T22:55:21.834433+00:00",
+   "price": null,
+   "video_id": "MCLfOaku5MA"
+  },
+  {
+   "ticker": "FN",
+   "tickerSlug": "FN",
+   "direction": "BUY",
+   "date": "2026-10-23T22:55:21.834433+00:00",
+   "price": null,
+   "video_id": "MCLfOaku5MA"
+  },
+  {
    "ticker": "MELI",
    "tickerSlug": "MELI",
    "direction": "BUY",
