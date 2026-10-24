@@ -1,0 +1,27 @@
+{
+ "video_id": "qHzoSWzT92I",
+ "title": "Should You Buy SoFi Stock Before the Huge Investor Update?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-22T05:55:21.834433+00:00",
+ "summary": "Parkevtate Vosianc previews SoFi's investor update and earnings on Tuesday 27 October and answers whether to buy before the print. He raises his fair value from $19 to $19.82 a share against a stated market price of $14.82, about 34% upside over 12 to 18 months at a forward P/E of 18.5. The most recent reported quarter showed revenue up 43% to $1.2 billion, adjusted EBITDA up 44%, members up 35% year over year to 15.8 million and loan originations of $14.8 billion, helped by a digital-only model without legacy branch costs. The bull case is the technology platform: accounts fell 16% year over year to 135 million after losing a large client, though they rose 2 million in the quarter, and a return to growth there could earn SoFi a technology rather than a bank valuation. The bear case is rates: higher and faster-rising rates could cut the fair value of the $46.6 billion loan book by several billions and lower loan-sale prices, and macro, oil and inflation headwinds worsened in the quarter being reported. The call is SOFI — CONDITIONAL_BUY: long-term bullish, but he would not buy before the update, with an optional 25% before and 75% after route he personally would not use.",
+ "calls": [
+  {
+   "video_id": "qHzoSWzT92I",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy SoFi Stock Before the Huge Investor Update?",
+   "published_at": "2026-10-22T05:55:21.834433+00:00",
+   "analyzed_at": "2026-10-24T13:58:52.271522+00:00",
+   "collab": false,
+   "ticker": "SOFI",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "stance_flip": "BUY -> CONDITIONAL_BUY (soft, timing only)",
+   "price_at_call": "$14.82 (stated); fair value $19.82 (stated)",
+   "thesis": "CONDITIONAL_BUY (soft flip from BUY on 2026-10-15; long-term stance unchanged) — long-term buying opportunity / bullish, fair value raised $19 to $19.82 vs $14.82 market (~34% upside over 12-18 months, forward P/E 18.5), but do NOT buy before the Tue 27 Oct investor update: he sees very little upside into the print as macro/rate headwinds have worsened, and personally would wait until after it to decide. Optional FOMO route he personally would not use: 25% before / 75% after.",
+   "base_case": "Most recent quarter (reported 29 Jul): revenue +43% to $1.2bn, adjusted EBITDA +44%, members +35% YoY to 15.8m (+1.1m in the quarter), loan originations $14.8bn; digital-only model lets SoFi invest in products over legacy branch costs.",
+   "bull_case": "If the technology platform reinvigorates growth after losing a large client (accounts -16% YoY to 135m, +2m QoQ), SoFi can earn a technology valuation rather than a muted bank valuation.",
+   "bear_case": "Higher and faster-rising rates likely cut the fair value of the $46.6bn loan book (at 30 Jun) by several billions and lower loan-sale prices; oil/inflation/macro headwinds worsened in the quarter to be reported 27 Oct, and the tech segment continues to struggle to add customers."
+  }
+ ]
+}
