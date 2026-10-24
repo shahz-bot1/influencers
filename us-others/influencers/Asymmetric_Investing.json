@@ -7,6 +7,30 @@
    "ticker": "CRWV",
    "tickerSlug": "CRWV",
    "direction": "AVOID",
+   "date": "2026-10-24T03:57:34.097774+00:00",
+   "price": "No share price stated; 9% 2031 debt yield 14.6% (over 15% within the last couple of days)",
+   "video_id": "dR8CQ1FJzyQ"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "AVOID",
+   "date": "2026-10-24T03:57:34.097774+00:00",
+   "price": "No share price stated; September convertible debt trading at about 85 cents on the dollar",
+   "video_id": "dR8CQ1FJzyQ"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "HOLD",
+   "date": "2026-10-24T03:57:34.097774+00:00",
+   "price": "No price stated",
+   "video_id": "dR8CQ1FJzyQ"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "AVOID",
    "date": "2026-10-21T04:00:25.111307+00:00",
    "price": "Down about 22% over the past 5 days at Friday's recording (no share price stated); 9% Feb 2031 debt yield over 15%, up from ~8% in May",
    "video_id": "0UT-qmch2jU"
