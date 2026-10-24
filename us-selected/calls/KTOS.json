@@ -1,0 +1,31 @@
+{
+ "ticker": "KTOS",
+ "slug": "KTOS",
+ "calls": [
+  {
+   "video_id": "MCLfOaku5MA",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Matt McCall (Monument Traders Alliance)",
+   "video_title": "He Got Rich Off AMD at $2. He’s Buying These Stocks Next.",
+   "published_at": "2026-10-23T22:55:21.834433+00:00",
+   "analyzed_at": "2026-10-24T05:56:58.020775+00:00",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false,
+   "ticker": "KTOS",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "BUY (first tracked for MarketBeat; guest Matt McCall) — Kratos Defense as a future-of-warfare hedge: unmanned aircraft between drones and jets, converging robotics/AI/sensors; thesis intact despite the chart, and a return to fair value is a double in his view. No price stated.",
+   "base_case": "Defence budget rising from ~$1tn to ~$1.5tn, with drone allocation sharply higher; Kratos already has many government contracts including a recent one.",
+   "bull_case": null,
+   "bear_case": "Drone group has pulled back hard after a speculative top (multiple drone ETFs launched); he advises owning 3-4 drone names rather than one."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
