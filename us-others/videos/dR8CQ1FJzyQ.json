@@ -1,0 +1,39 @@
+{
+ "video_id": "dR8CQ1FJzyQ",
+ "title": "Stock Market Crash: What to Watch Next",
+ "creator": "Asymmetric Investing",
+ "published_at": "2026-10-23T16:55:41.264130+00:00",
+ "summary": "Travis Hoium (Asymmetric Investing) explains a big down day for AI names — technology, software and semiconductors were broadly red, with stalwarts such as Apple and Walmart among the few gainers — and argues the move is investors questioning the return on another trillion dollars of AI spending. About 50% of the S&P 500 is now tied to the AI trade, from memory and energy to chips and hyperscalers, so any slowdown in spending growth could hit the whole market. His indicators are financing costs: CoreWeave's 9% 2031 debt trades at a 14.6% yield, Nebius's September convertible trades at about 85 cents on the dollar and below its convert price, and credit-default swaps have risen for hyperscalers, led by Oracle and including Alphabet, AMD, Broadcom, Meta, Amazon and SpaceX. Meta, Alphabet and Amazon have crossed into negative free cash flow, so even hyperscalers must raise capital, though they can pull back capex; neoclouds cannot, and CoreWeave's expected capex dwarfs its $5.5 billion cash. He cites Anthropic's slowed growth and IBM, Uber, Microsoft and Accenture curbing AI spend as ROI canaries, warns chip sellers such as Nvidia, AMD, Micron and TSMC face revenue, margin and multiple contraction if growth slows, and notes his portfolio was up nearly 1% on the day because he owns durable, cash-generative names — Alphabet is his only core AI holding. Calls: CRWV — AVOID, NBIS — AVOID, GOOGL — HOLD (all reiterated, no prices stated). Caption names are garbled in places (CoreWeave, Nebius).",
+ "calls": [
+  {
+   "video_id": "dR8CQ1FJzyQ",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "CRWV",
+   "direction": "AVOID",
+   "thesis": "Reiterated AVOID: CoreWeave is the worked example of the AI financing risk — its 9% 2031 debt is trading at a 14.6% yield (over 15% in recent days), a distress-like level; it has about $35B of debt and $5.5B of cash at the end of the most recent quarter against expected capex of $36B in 2026, $47B next year and $51B the year after, so it must keep raising capital at a higher cost than the last tranche, and customer prepayments cannot be assumed to continue if compute becomes less scarce.",
+   "analyzed_at": "2026-10-24T03:57:34.097774+00:00",
+   "price_at_call": "No share price stated; 9% 2031 debt yield 14.6% (over 15% within the last couple of days)"
+  },
+  {
+   "video_id": "dR8CQ1FJzyQ",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "NBIS",
+   "direction": "AVOID",
+   "thesis": "Reiterated AVOID: Nebius is highlighted as a major risk company — its convertible debt is a benefit only if the share price rises and it converts; much of that debt has fallen below the convert price in the past couple of months, and the debt issued in September is now trading at about 85 cents on the dollar, telling him investors are demanding more yield to take risk in AI stocks.",
+   "analyzed_at": "2026-10-24T03:57:34.097774+00:00",
+   "price_at_call": "No share price stated; September convertible debt trading at about 85 cents on the dollar"
+  },
+  {
+   "video_id": "dR8CQ1FJzyQ",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "thesis": "Reiterated HOLD: he owns Alphabet, the only AI-related company in the Asymmetric Portfolio; hyperscalers like Alphabet will be fine because they have cash flow from core operations and can simply pull back capex spending if needed, unlike the capital-dependent neoclouds.",
+   "analyzed_at": "2026-10-24T03:57:34.097774+00:00",
+   "price_at_call": "No price stated"
+  }
+ ]
+}
