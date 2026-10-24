@@ -1,0 +1,31 @@
+{
+ "ticker": "FORM",
+ "slug": "FORM",
+ "calls": [
+  {
+   "video_id": "MCLfOaku5MA",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Matt McCall (Monument Traders Alliance)",
+   "video_title": "He Got Rich Off AMD at $2. He’s Buying These Stocks Next.",
+   "published_at": "2026-10-23T22:55:21.834433+00:00",
+   "analyzed_at": "2026-10-24T05:56:58.020775+00:00",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false,
+   "ticker": "FORM",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "BUY (first tracked for MarketBeat; guest Matt McCall) — FormFactor (FORM, stated) as picks-and-shovels on quantum computing: one of few firms that can test at cryogenic temperatures needed by 2 of 3 quantum approaches, so the winner does not matter. Profitable, unlike most quantum names. No price stated.",
+   "base_case": "~20% YoY growth, P/E in low 20s, PEG ~1 — better than the market; core business is AI/semi testing, quantum is growing and still a small share.",
+   "bull_case": "Quantum use cases from ~2030 and mainstream by ~2035, married with AI, would expand demand for its testing.",
+   "bear_case": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
