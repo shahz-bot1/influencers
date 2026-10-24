@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T03:57:26.802090+00:00",
+ "updated": "2026-10-24T03:58:11.834742+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -659,7 +659,7 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-10-21T04:00:25.111307+00:00",
+   "lastDate": "2026-10-24T03:57:34.097774+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -669,7 +669,7 @@
     {
      "dir": "AVOID",
      "n": 3,
-     "avg": "$27.5"
+     "avg": "$21"
     }
    ],
    "influencers": [
@@ -678,8 +678,8 @@
     "Daniel Pronk",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Down about 22% over the past 5 days at Friday's recording (no share price stated",
-   "nCalls": 7
+   "lastStated": "No share price stated; 9% 2031 debt yield 14.6% (over 15% within the last couple",
+   "nCalls": 8
   },
   {
    "ticker": "DHI",
@@ -854,7 +854,7 @@
   {
    "ticker": "GOOGL",
    "slug": "GOOGL",
-   "lastDate": "2026-10-21T04:00:25.111307+00:00",
+   "lastDate": "2026-10-24T03:57:34.097774+00:00",
    "chips": [
     {
      "dir": "HOLD",
@@ -872,7 +872,7 @@
     "Sven Carlin"
    ],
    "lastStated": "No price stated",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "GRAB",
@@ -1257,7 +1257,7 @@
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-10-21T04:00:25.111307+00:00",
+   "lastDate": "2026-10-24T03:57:34.097774+00:00",
    "chips": [
     {
      "dir": "CONDITIONAL_BUY",
@@ -1267,7 +1267,7 @@
     {
      "dir": "AVOID",
      "n": 2,
-     "avg": "$26"
+     "avg": "$59"
     }
    ],
    "influencers": [
@@ -1275,8 +1275,8 @@
     "Daniel Pronk",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Down about 19% over the past 5 days at Friday's recording (no share price stated",
-   "nCalls": 3
+   "lastStated": "No share price stated; September convertible debt trading at about 85 cents on t",
+   "nCalls": 4
   },
   {
    "ticker": "NET",
@@ -2115,8 +2115,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 21,
-   "nVideos": 7
+   "nCalls": 24,
+   "nVideos": 8
   },
   {
    "name": "Brian Feroldi",
@@ -2183,6 +2183,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "dR8CQ1FJzyQ",
+   "title": "Stock Market Crash: What to Watch Next",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-10-23T16:55:41.264130+00:00",
+   "nCalls": 3
+  },
   {
    "id": "HK0hFkXskQc",
    "title": "Dying Business or Generational Opportunity? FICO's drop explained.",
