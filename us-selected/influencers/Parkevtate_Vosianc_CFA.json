@@ -4,6 +4,14 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "SPCX",
+   "tickerSlug": "SPCX",
+   "direction": "HOLD",
+   "date": "2026-10-23T22:55:21.834433+00:00",
+   "price": "price-to-sales 63 (stated); no share price stated",
+   "video_id": "LauJrBZP3xc"
+  },
+  {
    "ticker": "NFLX",
    "tickerSlug": "NFLX",
    "direction": "BUY",
@@ -18,6 +26,14 @@
    "date": "2026-10-23T11:56:17.261892+00:00",
    "price": "DCF $317 (stated); ~20% upside over 12-18 months (stated); current price dropped in captions",
    "video_id": "uXWXsaBWMgU"
+  },
+  {
+   "ticker": "DOCN",
+   "tickerSlug": "DOCN",
+   "direction": "BUY",
+   "date": "2026-10-23T05:55:21.834433+00:00",
+   "price": "$122 DCF (stated) vs ~$102 current (stated); ~20% upside over 12-18 months (stated)",
+   "video_id": "9EjvFSLy_Eo"
   },
   {
    "ticker": "EBAY",
@@ -42,6 +58,22 @@
    "date": "2026-10-22T11:55:52.614954+00:00",
    "price": "$346 (stated market price; DCF fair value $373)",
    "video_id": "X4iwiPHULtQ"
+  },
+  {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-22T05:55:21.834433+00:00",
+   "price": "$14.82 (stated); fair value $19.82 (stated)",
+   "video_id": "qHzoSWzT92I"
+  },
+  {
+   "ticker": "CLX",
+   "tickerSlug": "CLX",
+   "direction": "BUY",
+   "date": "2026-10-22T05:55:21.834433+00:00",
+   "price": "trading $87 (stated); DCF $100 (stated, revised slightly lower)",
+   "video_id": "jFBWQkDC_1o"
   },
   {
    "ticker": "CAVA",
