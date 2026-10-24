@@ -1,0 +1,31 @@
+{
+ "ticker": "GRAL",
+ "slug": "GRAL",
+ "calls": [
+  {
+   "video_id": "MCLfOaku5MA",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "guest": "Matt McCall (Monument Traders Alliance)",
+   "video_title": "He Got Rich Off AMD at $2. He’s Buying These Stocks Next.",
+   "published_at": "2026-10-23T22:55:21.834433+00:00",
+   "analyzed_at": "2026-10-24T05:56:58.020775+00:00",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false,
+   "ticker": "GRAL",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "BUY (first tracked for MarketBeat; guest Matt McCall) — Grail buy-and-hold high-risk play: Galleri blood test screens for 50+ cancers from stage zero; FDA committee was positive 26 Sep, approval expected early 2027. No price stated.",
+   "base_case": "Approval in Q1 2027 is likely in his view; a ~$5bn company could reach ~$20bn (4x) if the test becomes routine for over-50s.",
+   "bull_case": "Medicare coverage would open floodgates; he calls it a potential 10-bagger in a few years and a likely takeover target (e.g. J&J).",
+   "bear_case": "Expect major volatility — it lost ~50% in a week in the last year before rising ~4x from the bottom; approval/Medicare are not certain."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
