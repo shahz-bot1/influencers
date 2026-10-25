@@ -1,0 +1,27 @@
+{
+ "video_id": "hdlnj5H42vw",
+ "title": "Massive Update for Nebius Stock Investors | NBIS STock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-25T13:58:25.731154+00:00",
+ "summary": "Parkevtate Vosianc upgrades Nebius in this video — a stance flip. On 14 October he had ranked it a hold, low conviction, at over $209 a share (he also cites a $198.60 high that day), warning it still was not a buying opportunity; with the shares now slightly below $160 he upgrades it to a buying opportunity, dating the change 23 October 2026 in the video, for high-risk-tolerance investors only. Forward price-to-sales has compressed from over six a few months ago and over five a few weeks ago to 3.553. The industry backdrop still favours suppliers: lease pricing is rising from $10–15 million per megawatt toward $40 million, and memory, GPU, power and permitting constraints keep supply scarce, though he flags the real long-term risk — contracts of one to six years may not renew if the industry is oversupplied by then. Nebius carries about $10 billion of long-term debt against $51 billion at one competitor. A 20–30 basis-point fall in interest rates lifted his discounted cash flow because so much of the value sits years out; the fair-value figure itself drops out of the auto-captions, but he says that at a current price of about $160 Nebius is now significantly undervalued. He also says the stock is down about 35% since his ranking, though $209 to $160 is nearer 23% on his own figures. Amazon and Alphabet report on 28–29 October. The call is NBIS — BUY, flipped from HOLD.",
+ "calls": [
+  {
+   "video_id": "hdlnj5H42vw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive Update for Nebius Stock Investors | NBIS STock Analysis",
+   "published_at": "2026-10-25T13:58:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Parkevtate was HOLD on NBIS (14 Oct ranking, low conviction, above $209; last tracked HOLD 16 Oct at $186, fair value $225), now BUY at below $160 — he says in the video: 'I will be upgrading Nebius Group stock to a buying opportunity today, October 23rd, 2026.'",
+   "price_at_call": "below $160 (stated current, slightly below $160); forward price/sales 3.553 (stated); his DCF fair-value figure drops out of the auto-captions — he says only that at ~$160 the stock is now significantly undervalued",
+   "thesis": "BUY — FLIP from HOLD: after warning on 14 Oct that Nebius still was not a buying opportunity above $209, the fall to below $160 plus a 20-30bp fall in interest rates lifting his DCF leads him to upgrade it to a buying opportunity, for high-risk-tolerance investors only.",
+   "base_case": "Lease pricing is rising from $10-15m per megawatt toward as high as $40m, demand still exceeds supply amid memory, GPU, power and permitting constraints, and Nebius carries about $10bn of long-term debt versus $51bn at one competitor; forward price/sales has compressed from over 6 a few months ago to 3.553.",
+   "bull_case": "If contracts renew and pricing holds, the cash flows concentrated several years out re-rate as rates fall; Amazon and Alphabet results on 28-29 Oct will test the industry supply-demand picture.",
+   "bear_case": "The core industry risk: contracts run 1 to about 6 years — if the market is oversupplied when they expire, revenue per megawatt could fall sharply, leaving debt-funded assets under-earning; he also says the stock is down 'about 35%' since his ranking, though $209 to $160 is nearer 23% on the figures he states."
+  }
+ ]
+}
