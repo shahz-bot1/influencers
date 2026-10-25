@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "ALM",
+   "tickerSlug": "ALM",
+   "direction": "BUY",
+   "date": "2026-10-25T22:30:25.731154+00:00",
+   "price": "under $10 at recording (stated); analysts see about 170% upside (stated)",
+   "video_id": "4MK0MfxbOHw"
+  },
+  {
+   "ticker": "KOPN",
+   "tickerSlug": "KOPN",
+   "direction": "BUY",
+   "date": "2026-10-25T22:30:25.731154+00:00",
+   "price": "market cap just under $660m (stated); guest sees a potential double in 12-18 months; no share price stated beyond under $20",
+   "video_id": "4MK0MfxbOHw"
+  },
+  {
+   "ticker": "CGEM",
+   "tickerSlug": "CGEM",
+   "direction": "BUY",
+   "date": "2026-10-25T22:30:25.731154+00:00",
+   "price": "around $15 (stated); analyst consensus $33 (stated, about 130% upside), high estimate $42",
+   "video_id": "4MK0MfxbOHw"
+  },
+  {
    "ticker": "TER",
    "tickerSlug": "TER",
    "direction": "BUY",
