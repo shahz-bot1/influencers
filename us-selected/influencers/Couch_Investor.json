@@ -4,6 +4,46 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-10-25T14:54:52.493669+00:00",
+   "price": "$160 (stated, bought 10 extra shares)",
+   "video_id": "TXQ8h7gfyMY"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-25T14:54:52.493669+00:00",
+   "price": null,
+   "video_id": "TXQ8h7gfyMY"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-10-25T14:54:52.493669+00:00",
+   "price": "$320 (stated week close; bought 5 extra shares, +3.8% position)",
+   "video_id": "TXQ8h7gfyMY"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-10-25T14:54:52.493669+00:00",
+   "price": "$642 (stated current; main buying zone $630–$645; bought 3 extra shares, +5.2% position)",
+   "video_id": "TXQ8h7gfyMY"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-10-25T13:58:25.731154+00:00",
+   "price": null,
+   "video_id": "-WLGFBndtqg"
+  },
+  {
    "ticker": "META",
    "tickerSlug": "META",
    "direction": "BUY",
