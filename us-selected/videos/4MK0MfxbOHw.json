@@ -1,0 +1,63 @@
+{
+ "video_id": "4MK0MfxbOHw",
+ "title": "3 Growth Stocks Under $20 With 100%+ Upside",
+ "creator": "MarketBeat",
+ "published_at": "2026-10-25T22:30:25.731154+00:00",
+ "summary": "MarketBeat's host interviews Kristen Orman, director of research at the Oxford Club, whose method is to screen thousands of US-listed stocks for a strong story plus a concrete dated catalyst, growing revenue and earnings, lower debt and high beta. All three picks trade under $20 and are new to the channel. Almonty Industries (ALM; the auto-captions garble the name repeatedly) is restarting the Sangdong tungsten mine in South Korea — cheaper than a new build, with founder-CEO Lewis Black heavily invested; it trades under $10 after a fall of about 36% in a month, analysts see about 170% upside, and the catalysts are a design-capacity update within about 60 days and US restrictions on Chinese tungsten from 1 January. Kopin (KOPN; captions render 'Copen') makes micro-displays for military helmets and drones, has just won an $18 million contract ($34 million total) against a market cap just under $660 million, and could double in 12–18 months, with a January CES presentation as the catalyst. Cullinan Therapeutics (CGEM; captions render 'CGM') is a pre-revenue biotech with autoimmune data due around December and a partnered lung-cancer FDA action date of 27 February, trading near $15 against a $33 analyst consensus. All three are BUY, first tracked.",
+ "calls": [
+  {
+   "video_id": "4MK0MfxbOHw",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "3 Growth Stocks Under $20 With 100%+ Upside",
+   "published_at": "2026-10-25T22:30:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "ALM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "under $10 at recording (stated); analysts see about 170% upside (stated)",
+   "thesis": "BUY, first tracked MarketBeat ALM call (guest Kristen Orman, director of research at the Oxford Club; all three names are new to the channel) — Almonty Industries (auto-captions garble the name as 'Alante/Elante/Amonte Industries'; the ticker ALM is stated clearly) is restarting a tungsten mine in South Korea just as US restrictions on Chinese tungsten begin on 1 January.",
+   "base_case": "Restarting an existing mine costs far less than developing a new find, and founder-CEO Lewis Black (who founded the company in 2011) has significant skin in the game; tungsten is used across aerospace, electronics and defence, and most supply currently comes from China.",
+   "bull_case": "Two dated catalysts: within about 60 days the company should confirm the mine has hit design capacity, and the 1 January supply restrictions raise demand for non-Chinese tungsten; the stock is down about 36% in the last month after a strong run.",
+   "bear_case": "Mining is capital-hungry and investors are pausing for concrete production data; the rare-earths/critical-minerals complex has been volatile and part of the pullback is the sector taking a breather into the midterms."
+  },
+  {
+   "video_id": "4MK0MfxbOHw",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "3 Growth Stocks Under $20 With 100%+ Upside",
+   "published_at": "2026-10-25T22:30:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "KOPN",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "market cap just under $660m (stated); guest sees a potential double in 12-18 months; no share price stated beyond under $20",
+   "thesis": "BUY, first tracked MarketBeat KOPN call (guest Kristen Orman, Oxford Club) — Kopin (auto-captions render 'Copen'; the ticker is spelled out K-O-P-N) makes the tiny high-performance displays that act as the eyes in military helmets, drones and machines — the episode's AI-adjacent name.",
+   "base_case": "A new $18m contract takes its total to $34m, large for a sub-$660m company; she expects revenue to grow more than 50% this year and an additional 30% next year, helped by the law of small numbers.",
+   "bull_case": "Catalyst: Kopin presents at CES in January, where Wall Street attention could re-rate the name; the stock has roughly halved from the start of the year with the drone/defence complex, and small caps historically outperform into December.",
+   "bear_case": "Higher rates hit small caps hardest because they need funding to grow, and revenue is concentrated in US defence spending; the price needs the CES catalyst to bring the story back."
+  },
+  {
+   "video_id": "4MK0MfxbOHw",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "3 Growth Stocks Under $20 With 100%+ Upside",
+   "published_at": "2026-10-25T22:30:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "CGEM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "around $15 (stated); analyst consensus $33 (stated, about 130% upside), high estimate $42",
+   "thesis": "BUY, first tracked MarketBeat CGEM call (guest Kristen Orman, Oxford Club) — Cullinan Therapeutics (auto-captions render 'Colin/Cullinin Therapeutics' and the ticker as 'CGM'; the company discussed is Cullinan, ticker CGEM) is a pre-revenue biotech offering two shots on goal.",
+   "base_case": "Its own autoimmune therapy aims at a one-dose lasting treatment, with data expected towards the end of the year (likely December); a partnered lung-cancer drug that showed promising Phase 3 results with chemotherapy has an FDA action (PDUFA) date of 27 February.",
+   "bull_case": "Approval would reset the valuation from high-risk pre-revenue biotech to a company with an approved product across two very large markets (autoimmune disease and lung cancer), with over 86% institutional ownership already; the stock is down about 30% in a month after a 70% run.",
+   "bear_case": "The FDA can always refuse approval or attach a black-box warning, and trials that look good in Phase 1/2 can still fail in Phase 3 — binary risk remains despite the late stage."
+  }
+ ]
+}
