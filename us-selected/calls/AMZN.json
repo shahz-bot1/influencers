@@ -3,6 +3,24 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "zVc-S0Od8_0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Nvidia Just Gave Away the Next Boom (THIS IS HUGE!)",
+   "published_at": "2026-10-25T13:58:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "AMZN",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "CONDITIONAL_BUY (was BUY; buy-side stance kept, no flip flagged) — his system just moved Amazon to 'slightly undervalued', but it reports this coming week and he says he really wants to see those numbers before he takes action.",
+   "base_case": "AWS has about $496bn of signed contracts still to deliver, more than double nine months ago; Alexa is given away with Prime and people who try it sign up for Prime at nearly 25% higher rates.",
+   "bull_case": "Amazon owns both an edge surface (Alexa/devices) and the cloud the work routes to, so it collects the toll at both ends of the round trip.",
+   "bear_case": "Big money is split — some funds added while one named fund cut about a quarter of its stake — so he reads no clear institutional signal ahead of the print."
+  },
+  {
    "video_id": "uXWXsaBWMgU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -191,24 +209,24 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 2
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Mark Roussin CPA",
    "idx": 3
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 6
+   "idx": 7
   },
   {
    "channel": "Couch Investor",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
