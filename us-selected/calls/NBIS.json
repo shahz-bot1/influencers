@@ -3,6 +3,42 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "TXQ8h7gfyMY",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Bought $10,000 of These Stocks Ahead of Earnings. Here’s Why",
+   "published_at": "2026-10-25T14:54:52.493669+00:00",
+   "analyzed_at": "2026-10-25T19:04:00.584951+00:00",
+   "collab": false,
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$160 (stated, bought 10 extra shares)",
+   "thesis": "BUY reiterated (was BUY 2026-10-22; no flip) — he bought 10 extra Nebius shares at $160 ahead of earnings, calling it bargain hunting; Nebius is his #1 portfolio position.",
+   "base_case": "The whole neocloud segment is under pressure and this earnings season is the separator: names that show progress, execution and a clear path to becoming a huge business should rebound.",
+   "bull_case": "Big long-term contracts (Meta, Microsoft) bring forward funding and de-risk the build-out, while management keeps at least half of capacity for higher-margin on-demand and enterprise demand at current prices.",
+   "bear_case": "Names that do not execute 'will be crushed'; his bargain zone was $140–$150, weekly-50 support sits around $160 and big resistance is above $200 at $217."
+  },
+  {
+   "video_id": "hdlnj5H42vw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive Update for Nebius Stock Investors | NBIS STock Analysis",
+   "published_at": "2026-10-25T13:58:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Parkevtate was HOLD on NBIS (14 Oct ranking, low conviction, above $209; last tracked HOLD 16 Oct at $186, fair value $225), now BUY at below $160 — he says in the video: 'I will be upgrading Nebius Group stock to a buying opportunity today, October 23rd, 2026.'",
+   "price_at_call": "below $160 (stated current, slightly below $160); forward price/sales 3.553 (stated); his DCF fair-value figure drops out of the auto-captions — he says only that at ~$160 the stock is now significantly undervalued",
+   "thesis": "BUY — FLIP from HOLD: after warning on 14 Oct that Nebius still was not a buying opportunity above $209, the fall to below $160 plus a 20-30bp fall in interest rates lifting his DCF leads him to upgrade it to a buying opportunity, for high-risk-tolerance investors only.",
+   "base_case": "Lease pricing is rising from $10-15m per megawatt toward as high as $40m, demand still exceeds supply amid memory, GPU, power and permitting constraints, and Nebius carries about $10bn of long-term debt versus $51bn at one competitor; forward price/sales has compressed from over 6 a few months ago to 3.553.",
+   "bull_case": "If contracts renew and pricing holds, the cash flows concentrated several years out re-rate as rates fall; Amazon and Alphabet results on 28-29 Oct will test the industry supply-demand picture.",
+   "bear_case": "The core industry risk: contracts run 1 to about 6 years — if the market is oversupplied when they expire, revenue per megawatt could fall sharply, leaving debt-funded assets under-earning; he also says the stock is down 'about 35%' since his ranking, though $209 to $160 is nearer 23% on the figures he states."
+  },
+  {
    "video_id": "wQWYpGDT6Q4",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -194,15 +230,15 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 4
+   "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 8
+   "idx": 10
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 10
+   "idx": 12
   }
  ]
 }
