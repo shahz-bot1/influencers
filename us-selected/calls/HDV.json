@@ -1,0 +1,30 @@
+{
+ "ticker": "HDV",
+ "slug": "HDV",
+ "calls": [
+  {
+   "video_id": "_CtOnOGIRtc",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "2 MUST OWN ETFs as Tech Stocks CRASH",
+   "published_at": "2026-10-25T13:59:51.493669+00:00",
+   "analyzed_at": "2026-10-25T14:59:30.545266+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "HDV",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "BUY (first tracked HDV call for Mark Roussin; no flip) — iShares Core High Dividend ETF is the second of the video's '2 MUST OWN ETFs' and remains an important holding: higher-yield, more defensive complement to SCHD and to growth/tech. Up 24% YTD stated (vs SPY +11%). No share price stated.",
+   "base_case": "Tracks the Morningstar Dividend Yield Focus Index; emphasis on high-yield payers meeting financial criteria; 3%+ yield, 0.08% expense ratio, ~80 holdings, top sectors staples, energy, healthcare and utilities — the four best performers the past month — with tech only ~1%.",
+   "bull_case": "Its defensive sector mix has benefited while tech has sold off (QQQ down >6% in two weeks stated, S&P 500 down ~2%), giving a growth portfolio a different return driver.",
+   "bear_case": "Concentrated: top 10 are 55% (XOM, CVX, ABBV, VZ, PG, PM, HD, KO, PEP, MO stated) and energy concentration means a sharp oil fall could hit it even if other defensive holdings stay stable; it lacks SCHD's dividend-growth record and is not a substitute for a fully diversified portfolio."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
