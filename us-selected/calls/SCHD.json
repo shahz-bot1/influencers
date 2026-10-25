@@ -3,6 +3,24 @@
  "slug": "SCHD",
  "calls": [
   {
+   "video_id": "_CtOnOGIRtc",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "2 MUST OWN ETFs as Tech Stocks CRASH",
+   "published_at": "2026-10-25T13:59:51.493669+00:00",
+   "analyzed_at": "2026-10-25T14:59:30.545266+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "SCHD",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 2026-10-06; no flip) — Schwab US Dividend Equity ETF is a top-five holding and 'a must-own in my eyes' and 'the dividend ETF': the greatest complement to a tech-heavy portfolio. Up 27% YTD stated (vs SPY +11%), without dividends. No share price stated.",
+   "base_case": "Focuses on established US dividend payers screened on cash flow, profitability, yield and dividend growth, not yield alone; 3% yield, dividend growth for 14 consecutive years, 0.06% expense ratio, ~100 holdings led by healthcare, staples, tech and energy (TXN, QCOM, PG, KO, CVX among largest).",
+   "bull_case": "Defensive sectors leading the past month (staples +10%, energy +9%, healthcare +7%, utilities +5% stated) are SCHD's strength, so it balances tech selling while earnings growth (~30% YoY pace stated for S&P 500) resets valuations.",
+   "bear_case": "Growth is slower and tech exposure is limited — the criticism he acknowledges; owning SCHD and HDV together overlaps (both hold CVX, PG, VZ), so it does not double diversification."
+  },
+  {
    "ticker": "SCHD",
    "direction": "BUY",
    "channel": "BWB - Business With Brian",
@@ -82,11 +100,11 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   }
  ]
