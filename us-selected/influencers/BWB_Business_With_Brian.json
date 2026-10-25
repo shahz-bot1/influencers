@@ -4,6 +4,54 @@
  "slug": "BWB_Business_With_Brian",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-25T13:58:25.731154+00:00",
+   "price": "about 23x next year's earnings (stated); no share price stated",
+   "video_id": "zVc-S0Od8_0"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-10-25T13:58:25.731154+00:00",
+   "price": null,
+   "video_id": "zVc-S0Od8_0"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-25T13:58:25.731154+00:00",
+   "price": null,
+   "video_id": "zVc-S0Od8_0"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "HOLD",
+   "date": "2026-10-25T13:58:25.731154+00:00",
+   "price": null,
+   "video_id": "zVc-S0Od8_0"
+  },
+  {
+   "ticker": "TSLA",
+   "tickerSlug": "TSLA",
+   "direction": "HOLD",
+   "date": "2026-10-25T13:58:25.731154+00:00",
+   "price": "about 200x next year's earnings (stated); no share price stated",
+   "video_id": "zVc-S0Od8_0"
+  },
+  {
+   "ticker": "AMBA",
+   "tickerSlug": "AMBA",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-25T13:58:25.731154+00:00",
+   "price": null,
+   "video_id": "zVc-S0Od8_0"
+  },
+  {
    "ticker": "VRT",
    "tickerSlug": "VRT",
    "direction": "CONDITIONAL_BUY",
