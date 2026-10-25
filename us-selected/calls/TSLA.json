@@ -3,6 +3,24 @@
  "slug": "TSLA",
  "calls": [
   {
+   "video_id": "zVc-S0Od8_0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Nvidia Just Gave Away the Next Boom (THIS IS HUGE!)",
+   "published_at": "2026-10-25T13:58:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "TSLA",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "about 200x next year's earnings (stated); no share price stated",
+   "thesis": "HOLD, first tracked BWB TSLA call (no flip) — his ladder has Tesla at 'fairly valued', but the reading rests only on outside estimates, and he takes Elon Musk's claims at about 10% of face value.",
+   "base_case": "About 1.7 million people pay for Full Self-Driving and for the first time half are on the $99-a-month plan — the one edge asset already collecting monthly revenue; latest-quarter spending on factories and computing roughly doubled year over year.",
+   "bull_case": "If humanoid robots and robotaxis scale even on the realistic path (Goldman Sachs: about 1m robotaxis worldwide by 2030, 6m by 2035; Bank of America: about 1.2m humanoids a year by 2030), Tesla is betting hardest on the winning category.",
+   "bear_case": "Musk's goal of 10 million robots a year is over eight times Bank of America's whole-market 2030 forecast; only about 25,000 humanoids shipped worldwide in the first half of 2026 and about 740 robotaxis were registered in Texas by mid-October versus the 1m promised for 2020; whales have been leaving for three quarters."
+  },
+  {
    "video_id": "4BooxjnAfPY",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -23,8 +41,12 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "BWB - Business With Brian",
    "idx": 0
+  },
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 1
   }
  ]
 }
