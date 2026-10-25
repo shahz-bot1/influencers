@@ -1,0 +1,30 @@
+{
+ "ticker": "KOPN",
+ "slug": "KOPN",
+ "calls": [
+  {
+   "video_id": "4MK0MfxbOHw",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "3 Growth Stocks Under $20 With 100%+ Upside",
+   "published_at": "2026-10-25T22:30:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "KOPN",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "market cap just under $660m (stated); guest sees a potential double in 12-18 months; no share price stated beyond under $20",
+   "thesis": "BUY, first tracked MarketBeat KOPN call (guest Kristen Orman, Oxford Club) — Kopin (auto-captions render 'Copen'; the ticker is spelled out K-O-P-N) makes the tiny high-performance displays that act as the eyes in military helmets, drones and machines — the episode's AI-adjacent name.",
+   "base_case": "A new $18m contract takes its total to $34m, large for a sub-$660m company; she expects revenue to grow more than 50% this year and an additional 30% next year, helped by the law of small numbers.",
+   "bull_case": "Catalyst: Kopin presents at CES in January, where Wall Street attention could re-rate the name; the stock has roughly halved from the start of the year with the drone/defence complex, and small caps historically outperform into December.",
+   "bear_case": "Higher rates hit small caps hardest because they need funding to grow, and revenue is concentrated in US defence spending; the price needs the CES catalyst to bring the story back."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
