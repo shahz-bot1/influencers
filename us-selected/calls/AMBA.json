@@ -3,6 +3,24 @@
  "slug": "AMBA",
  "calls": [
   {
+   "video_id": "zVc-S0Od8_0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Nvidia Just Gave Away the Next Boom (THIS IS HUGE!)",
+   "published_at": "2026-10-25T13:58:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "AMBA",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "CONDITIONAL_BUY reiterated (was CONDITIONAL_BUY on his watch list; no flip) — Ambarella (auto-captions render 'Amberella') is his pure edge play, but his system has it only 'fairly valued' on analyst-based readings he does not weight heavily, and he wants growth to tick back up before he really gets interested.",
+   "base_case": "Its chips sit behind camera lenses in security cameras, car cameras, drones and warehouse robots, deciding what the camera looks at on-device without sending video to the cloud.",
+   "bull_case": "If edge AI adoption inflects, a pure-play on-device vision name re-rates, and about 14% of shares being sold short leaves room for a squeeze on better growth.",
+   "bear_case": "Growth has slowed for six quarters in a row to about 13%, and the big funds have been heading for the exits."
+  },
+  {
    "video_id": "JgkqRJ4PCTc",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
