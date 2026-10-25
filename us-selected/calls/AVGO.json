@@ -3,6 +3,24 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "zVc-S0Od8_0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Nvidia Just Gave Away the Next Boom (THIS IS HUGE!)",
+   "published_at": "2026-10-25T13:58:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY; no flip) — Broadcom sits at 'undervalued' on his ladder; his risk-adjusted system pulls it back to 'slightly undervalued' only because of financing uncertainty, not the business.",
+   "base_case": "Custom AI chips co-designed one customer at a time (Google, Meta, Anthropic among them); AI chip sales about $17bn in a single quarter, more than three times a year earlier, with inference productisation strengthening.",
+   "bull_case": "As edge requests outgrow devices they route to data centers where Broadcom-designed chips answer them, so Broadcom gets paid on the round trip alongside Nvidia.",
+   "bear_case": "Customers cannot always pay upfront: Broadcom has agreed to back or lend up to $71bn to just one customer (Reuters reports it is believed to be Anthropic); whales are neutral and insiders, including a co-founder on a set plan, have been selling."
+  },
+  {
    "video_id": "v7HZ3VIPa3E",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -245,20 +263,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 2
+   "channel": "Couch Investor",
+   "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 5
+   "channel": "Mark Roussin CPA",
+   "idx": 3
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
