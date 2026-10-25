@@ -3,6 +3,24 @@
  "slug": "MSFT",
  "calls": [
   {
+   "video_id": "HtJpT1AHqQw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Microsoft Stock Before the Huge Investor Update? | MSFT Stock Analysis",
+   "published_at": "2026-10-25T11:58:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "MSFT",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$524 (stated current); DCF fair value $447 (stated) — slightly overvalued on his DCF",
+   "thesis": "HOLD reiterated (was HOLD 5 Oct, after downgrading from an excellent-buying-opportunity ranking earlier this year; no flip) — he owns Microsoft (added around $400 in February, after a low near $350), is not interested in selling, and is also not interested in buying before the 28 Oct earnings release because at $524 the risk/reward does not compensate for print risk.",
+   "base_case": "Most recent reported quarter (29 Jul): revenue $90bn, up 18% year over year (the operating-income increase figure drops out of the captions); forward P/E 22.1, below the stock's own average on that metric; Microsoft's AI segment is growing over 40%.",
+   "bull_case": "He thinks analyst earnings growth forecasts (the figure drops out of the captions, around 15%) underestimate — he expects closer to 20% EPS growth; backlog approaching $500bn (unit drops out of the captions) and Microsoft may be the only hyperscaler free-cash-flow positive through fiscal 2027.",
+   "bear_case": "Backlog concentration in OpenAI is a key risk, its own-chip programme trails Alphabet and Amazon, AI investment has flattened operating leverage, and peers may fund the race with dilutive equity (he reads Meta's new share class that way)."
+  },
+  {
    "video_id": "8he7DPaNNX4",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -77,7 +95,7 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
