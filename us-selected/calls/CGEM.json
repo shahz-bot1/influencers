@@ -1,0 +1,30 @@
+{
+ "ticker": "CGEM",
+ "slug": "CGEM",
+ "calls": [
+  {
+   "video_id": "4MK0MfxbOHw",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "3 Growth Stocks Under $20 With 100%+ Upside",
+   "published_at": "2026-10-25T22:30:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "CGEM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "around $15 (stated); analyst consensus $33 (stated, about 130% upside), high estimate $42",
+   "thesis": "BUY, first tracked MarketBeat CGEM call (guest Kristen Orman, Oxford Club) — Cullinan Therapeutics (auto-captions render 'Colin/Cullinin Therapeutics' and the ticker as 'CGM'; the company discussed is Cullinan, ticker CGEM) is a pre-revenue biotech offering two shots on goal.",
+   "base_case": "Its own autoimmune therapy aims at a one-dose lasting treatment, with data expected towards the end of the year (likely December); a partnered lung-cancer drug that showed promising Phase 3 results with chemotherapy has an FDA action (PDUFA) date of 27 February.",
+   "bull_case": "Approval would reset the valuation from high-risk pre-revenue biotech to a company with an approved product across two very large markets (autoimmune disease and lung cancer), with over 86% institutional ownership already; the stock is down about 30% in a month after a 70% run.",
+   "bear_case": "The FDA can always refuse approval or attach a black-box warning, and trials that look good in Phase 1/2 can still fail in Phase 3 — binary risk remains despite the late stage."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
