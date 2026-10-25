@@ -1,0 +1,27 @@
+{
+ "video_id": "-WLGFBndtqg",
+ "title": "3 AI Infrastructure Stocks to Buy Before Earnings!",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-25T13:58:25.731154+00:00",
+ "summary": "In this collaboration (byline 'The Motley Fool and 2 more'; the scan's earlier shelf listing carried the title 'Nebius vs. CoreWeave: Which AI Stock Wins the SpaceX Boom?'), Couch Investor and Neil argue SpaceX's earnings were very bullish for the whole AI infrastructure industry. SpaceX ended the quarter near 1.7 gigawatts, is closer to 2 gigawatts now and targets about 2.5 by year-end, then roughly 13 gigawatts next year — at about $50 billion per gigawatt that implies over half a trillion dollars of spending, against a guided 2027 exit revenue range of $500 billion to $1 trillion on a $100 billion exit ARR this year, with payback periods under a year and possibly six months. They doubt the hyperscalers will stand still and let SpaceX take the compute. Neil's neocloud pick is Nebius: a $40–45 billion company, SemiAnalysis platinum-ranked, ex-Yandex engineering depth, Nvidia as investor, Microsoft and Meta contracts, and Vera Rubin capacity coming online in 2027. Couch likes Nebius but says he does not own it here; his own pick is CoreWeave — also platinum-ranked, 1.5 gigawatts of active power, moving into higher-margin enterprise work — with future funding costs the key earnings question. The bear case is neocloud debt and build-out speed. The calls are CRWV — BUY (Couch's pick, first explicit) and NBIS — UNCERTAIN for Couch (Neil's pick). A few figures drop out of the auto-captions, including the Vera Rubin gigawatt figure.",
+ "calls": [
+  {
+   "video_id": "-WLGFBndtqg",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "3 AI Infrastructure Stocks to Buy Before Earnings!",
+   "published_at": "2026-10-25T13:58:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": true,
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY, first explicit Couch CRWV direction (all prior tracked CRWV entries were UNCERTAIN; no flip) — in this collaboration (byline 'The Motley Fool and 2 more', with Neil) CoreWeave is Couch's own pick for the neocloud market right now: 'that would be my pick.' He stresses the one thing he wants clarity on in earnings is future funding and debt costs.",
+   "base_case": "CoreWeave sits in SemiAnalysis's platinum tier for its platform, has repeatedly shown it can build AI infrastructure on time and keep GPUs running at a high pace for AI labs, and recently reported 1.5 gigawatts of active power.",
+   "bull_case": "It is shifting from long AI-lab contracts toward higher-margin enterprise work, has a strong Nvidia partnership, and demand/supply imbalance should last at least 18-24 months on SpaceX's commentary, with pricing still rising.",
+   "bear_case": "Funding is the open risk: the market fears the interest rates CoreWeave will pay on future debt, and unlike SpaceX it cannot assume sub-one-year paybacks if build-outs slip."
+  }
+ ]
+}
