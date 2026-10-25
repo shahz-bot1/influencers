@@ -4,6 +4,22 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-10-25T13:58:25.731154+00:00",
+   "price": "below $160 (stated current, slightly below $160); forward price/sales 3.553 (stated); his DCF fair-value figure drops out of the auto-captions — he says only that at ~$160 the stock is now significantly undervalued",
+   "video_id": "hdlnj5H42vw"
+  },
+  {
+   "ticker": "MSFT",
+   "tickerSlug": "MSFT",
+   "direction": "HOLD",
+   "date": "2026-10-25T11:58:25.731154+00:00",
+   "price": "$524 (stated current); DCF fair value $447 (stated) — slightly overvalued on his DCF",
+   "video_id": "HtJpT1AHqQw"
+  },
+  {
    "ticker": "SPCX",
    "tickerSlug": "SPCX",
    "direction": "HOLD",
@@ -74,6 +90,14 @@
    "date": "2026-10-22T05:55:21.834433+00:00",
    "price": "trading $87 (stated); DCF $100 (stated, revised slightly lower)",
    "video_id": "jFBWQkDC_1o"
+  },
+  {
+   "ticker": "CHPT",
+   "tickerSlug": "CHPT",
+   "direction": "AVOID",
+   "date": "2026-10-22T05:55:21.834433+00:00",
+   "price": "$8 (stated current, up 11% today); DCF fair value rendered '$529' in auto-captions — read as $5.29 with the decimal dropped (same garbling renders forward price/sales '42' for 0.42), below the $8 price",
+   "video_id": "l81JZUo8WzI"
   },
   {
    "ticker": "CAVA",
