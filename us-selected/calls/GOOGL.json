@@ -3,6 +3,42 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "TXQ8h7gfyMY",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Bought $10,000 of These Stocks Ahead of Earnings. Here’s Why",
+   "published_at": "2026-10-25T14:54:52.493669+00:00",
+   "analyzed_at": "2026-10-25T19:04:00.584951+00:00",
+   "collab": false,
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$320 (stated week close; bought 5 extra shares, +3.8% position)",
+   "thesis": "BUY reiterated (was BUY 2026-10-22; no flip) — Alphabet is still in his buying zone at the $320 close, and he increased the position by 3.8% (5 shares); he calls it a name that lets you sleep well at night.",
+   "base_case": "Overhead ceiling sits at $342; a positive earnings reaction could push the name back above $335 and then above $340. Consensus discussed: revenue $127.8bn, EPS $3.",
+   "bull_case": "He thinks Google Cloud could grow ~100% year over year this quarter, with margins improving as well.",
+   "bear_case": "He still expects Alphabet free cash flow to be negative this quarter on capex, in a week that also brings the FOMC meeting and heavy earnings volatility."
+  },
+  {
+   "video_id": "zVc-S0Od8_0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Nvidia Just Gave Away the Next Boom (THIS IS HUGE!)",
+   "published_at": "2026-10-25T13:58:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "BWB was BUY on GOOGL (last tracked BUY, 2025 'toll collector' video), now HOLD — his system has Alphabet at 'fairly valued' and he says most of its good news is already in the price.",
+   "price_at_call": null,
+   "thesis": "HOLD — FLIP from BUY: Alphabet is his first 'toll collector' (paid at both the data-center and edge ends), but at fairly valued he is not adding here.",
+   "base_case": "Google Cloud grew about 82% and its backlog more than tripled to about $514bn in three quarters; Apple will build its next AI models, including the new Siri, on Gemini, so Alphabet gets paid every time an iPhone thinks; AI subscriptions run from about $5 to about $200 a month.",
+   "bull_case": "Whales are 'leaning in quietly', and the toll-collector position pays whichever side of the brain/reflex split grows faster.",
+   "bear_case": "Alphabet is spending cash faster than it comes in and is selling stock to cover the gap, which caps the near-term value case."
+  },
+  {
    "video_id": "wQWYpGDT6Q4",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -236,20 +272,20 @@
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 3
+  },
+  {
    "channel": "Mark Roussin CPA",
-   "idx": 4
+   "idx": 6
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 5
-  },
-  {
-   "channel": "BWB - Business With Brian",
-   "idx": 14
+   "idx": 7
   }
  ]
 }
