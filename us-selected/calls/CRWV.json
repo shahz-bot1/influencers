@@ -3,6 +3,24 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "-WLGFBndtqg",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "3 AI Infrastructure Stocks to Buy Before Earnings!",
+   "published_at": "2026-10-25T13:58:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": true,
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY, first explicit Couch CRWV direction (all prior tracked CRWV entries were UNCERTAIN; no flip) — in this collaboration (byline 'The Motley Fool and 2 more', with Neil) CoreWeave is Couch's own pick for the neocloud market right now: 'that would be my pick.' He stresses the one thing he wants clarity on in earnings is future funding and debt costs.",
+   "base_case": "CoreWeave sits in SemiAnalysis's platinum tier for its platform, has repeatedly shown it can build AI infrastructure on time and keep GPUs running at a high pace for AI labs, and recently reported 1.5 gigawatts of active power.",
+   "bull_case": "It is shifting from long AI-lab contracts toward higher-margin enterprise work, has a strong Nvidia partnership, and demand/supply imbalance should last at least 18-24 months on SpaceX's commentary, with pricing still rising.",
+   "bear_case": "Funding is the open risk: the market fears the interest rates CoreWeave will pay on future debt, and unlike SpaceX it cannot assume sub-one-year paybacks if build-outs slip."
+  },
+  {
    "video_id": "ZBZ8NBf8veI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -39,12 +57,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 2
   }
  ]
 }
