@@ -1,0 +1,30 @@
+{
+ "ticker": "CHPT",
+ "slug": "CHPT",
+ "calls": [
+  {
+   "video_id": "l81JZUo8WzI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Down 98%, Is it Finally Time to Buy Chargepoint Stock? | CHPT Stock Analysis",
+   "published_at": "2026-10-22T05:55:21.834433+00:00",
+   "analyzed_at": "2026-10-25T19:04:00.584951+00:00",
+   "collab": false,
+   "ticker": "CHPT",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$8 (stated current, up 11% today); DCF fair value rendered '$529' in auto-captions — read as $5.29 with the decimal dropped (same garbling renders forward price/sales '42' for 0.42), below the $8 price",
+   "thesis": "AVOID, first tracked Parkevtate CHPT call (no flip) — he reiterates a warning he has given for 5+ years and last on 15 Jun: ChargePoint is still not a buying opportunity even after falling over 98%, though it is getting closer. He has never ranked it a buy.",
+   "base_case": "Revenue is recovering ($433m trailing 12 months, with another growth quarter forecast) after management stopped growth-at-any-cost and fixed unit economics; the latest quarter was essentially cash-flat, and operating cash flow/sales improved from -65% to -16% on a trailing basis.",
+   "bull_case": "If ChargePoint can stay cash-flat until revenue growth accelerates into positive free cash flow (his DCF: free-cash-flow break-even in fiscal 2028, positive from fiscal 2029), it avoids further dilutive raises; persistently higher oil prices and faster EV adoption outside the US (Europe, China, South-East Asia; the US is only 6 of 100 new buyers) support charging demand.",
+   "bear_case": "Cash has dwindled from over $600m to just over $95m against over $227m of debt — more than the market capitalisation; a return to historic burn rates would force dilutive raises or desperate, high-rate borrowing, and even after a margin of safety his DCF still leaves the stock overvalued at $8."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
