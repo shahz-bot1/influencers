@@ -3,6 +3,42 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "TXQ8h7gfyMY",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Bought $10,000 of These Stocks Ahead of Earnings. Here’s Why",
+   "published_at": "2026-10-25T14:54:52.493669+00:00",
+   "analyzed_at": "2026-10-25T19:04:00.584951+00:00",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 2026-10-05; no flip) — he added 10 Nvidia shares, increasing the position by 30%, because 'it is cheap'. No purchase price stated.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  },
+  {
+   "video_id": "zVc-S0Od8_0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Nvidia Just Gave Away the Next Boom (THIS IS HUGE!)",
+   "published_at": "2026-10-25T13:58:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "about 23x next year's earnings (stated); no share price stated",
+   "thesis": "BUY reiterated (was BUY; no flip) — his signal ladder puts Nvidia right on the line for 'severely undervalued', the deepest undervalued tier, and his risk-adjusted system lands in the same place; his method is to dollar-cost average on the way down. The mid-October chip sell-off (longest losing streak since 2008, about $2trn wiped) is in his view a phenomenal buying opportunity.",
+   "base_case": "Data center revenue about $89bn in a single quarter, more than double a year earlier, while edge computing grew about 27% and is only about 7.5% of sales; Amazon, Google and Meta alone plan roughly $550bn of 2026 spending and none has cut since the sell-off.",
+   "bull_case": "Every edge device sends more work back to the data center, so both sides win; Nvidia guides AI infrastructure toward $3-4trn a year by the end of the decade and Dell'Oro sees data-center spending passing $3trn a year by 2030, with memory supply locked via about $279bn of supplier commitments.",
+   "bear_case": "Memory costs squeeze gross margin to about 71-72 cents per dollar from 75, and UBS expects big-cloud spending growth to slow sharply by 2028 — he thinks that is too soon, but it is the consensus bear case."
+  },
+  {
    "video_id": "SzdxupnhTfY",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -253,19 +289,19 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 2
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 4
   }
  ]
