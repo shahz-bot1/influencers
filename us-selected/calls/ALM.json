@@ -1,0 +1,30 @@
+{
+ "ticker": "ALM",
+ "slug": "ALM",
+ "calls": [
+  {
+   "video_id": "4MK0MfxbOHw",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "3 Growth Stocks Under $20 With 100%+ Upside",
+   "published_at": "2026-10-25T22:30:25.731154+00:00",
+   "analyzed_at": "2026-10-25T23:04:09.901335+00:00",
+   "collab": false,
+   "ticker": "ALM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "under $10 at recording (stated); analysts see about 170% upside (stated)",
+   "thesis": "BUY, first tracked MarketBeat ALM call (guest Kristen Orman, director of research at the Oxford Club; all three names are new to the channel) — Almonty Industries (auto-captions garble the name as 'Alante/Elante/Amonte Industries'; the ticker ALM is stated clearly) is restarting a tungsten mine in South Korea just as US restrictions on Chinese tungsten begin on 1 January.",
+   "base_case": "Restarting an existing mine costs far less than developing a new find, and founder-CEO Lewis Black (who founded the company in 2011) has significant skin in the game; tungsten is used across aerospace, electronics and defence, and most supply currently comes from China.",
+   "bull_case": "Two dated catalysts: within about 60 days the company should confirm the mine has hit design capacity, and the 1 January supply restrictions raise demand for non-Chinese tungsten; the stock is down about 36% in the last month after a strong run.",
+   "bear_case": "Mining is capital-hungry and investors are pausing for concrete production data; the rare-earths/critical-minerals complex has been volatile and part of the pullback is the sector taking a breather into the midterms."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
