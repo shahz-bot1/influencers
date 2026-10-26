@@ -3,6 +3,16 @@
  "slug": "ZS",
  "calls": [
   {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: within his five-name cybersecurity basket (CrowdStrike, Fortinet, Okta, Zscaler, Palo Alto Networks) Zscaler is his favourite on value at ~2.1x on a PEG basis (versus Fortinet ~3.1x and CrowdStrike ~6.5x), it is the only one of the five that has not yet doubled his money, and he says he has been buying the dip on it while still holding all five for the long term.",
+   "price_at_call": "No share price stated; ~2.1x PEG as stated",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
    "video_id": "IaSD9j5O_ZQ",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
