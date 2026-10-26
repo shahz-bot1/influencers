@@ -3,6 +3,16 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "thesis": "First tracked Hogue Netflix call and the video's headline buy: he opened a position for 4,000 shares at $65 through a synthetic option strategy (effective cost ~$68.59) after last week's disappointing print. The Q4 guide ($13.4bn revenue, a $300m ad-revenue downgrade) still implies 70% ad revenue growth, churn fell in every region, operating margin rose to 34% from 28%, free cash flow improved to $2.8bn, and at 18.7x this year's expected $3.58 EPS a move back to even 30x would give a $108 target (~61% upside); he realistically sees $80-$90 over the next year and says the stock is one hit show away from a sentiment boost.",
+   "price_at_call": "Opened 4,000 shares at $65 (synthetic cost ~$68.59); 18.7x this year's expected earnings; his $108 target at 30x, realistic $80-$90 over the next year",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
    "video_id": "OZBaYC2tTDk",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
@@ -18,8 +28,12 @@
  ],
  "byInf": [
   {
-   "channel": "Daniel Pronk",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
+  },
+  {
+   "channel": "Daniel Pronk",
+   "idx": 1
   }
  ]
 }
