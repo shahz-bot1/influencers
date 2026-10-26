@@ -1,0 +1,99 @@
+{
+ "video_id": "S3pQiAXNVPU",
+ "title": "BUY HEAVY! If You Miss These 4 Stocks, You’ll Regret it in 5 Days",
+ "creator": "Joseph Hogue, CFA",
+ "published_at": "2026-10-25T16:55:37.205604+00:00",
+ "summary": "Joseph Hogue previews a heavy earnings week through eight stocks and says only four are on his buy list, with the rest held, bought only on dips, or bought only at a lower price. Robinhood reports Tuesday at a low bar, with strong August volumes and prediction-market growth; SoFi also reports Tuesday, with 35% revenue growth at 1.9x book but rate headwinds, and he is sticking with it rather than adding. Alphabet reports Wednesday, with the market focused on capex guidance, while Fortinet leads cybersecurity earnings after a 118% run that leaves valuations stretched - Zscaler is his favourite in that group on valuation. ServiceNow reports Wednesday with a pulled-forward federal contract to overcome, and Amazon reports Thursday as his free-cash-flow warning case after $220bn capex guidance. Reddit reports Thursday with Google licensing and Anthropic lawsuit catalysts, and he updates Netflix after last week's disappointment, disclosing a 4,000-share position at $65. Calls: HOOD - BUY, SOFI - HOLD (flip from BUY), GOOGL - BUY (flip from UNCERTAIN), FTNT - CONDITIONAL_BUY (from HOLD), ZS - BUY, NOW - CONDITIONAL_BUY (from BUY), AMZN - CONDITIONAL_BUY at $200-$225 (from UNCERTAIN), RDDT - BUY (first tracked), NFLX - BUY (first tracked, $108 target).",
+ "calls": [
+  {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "HOOD",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY ahead of Tuesday earnings: down 12% this year is a dip opportunity at a low bar for expectations (revenue +12% expected in the quarter, earnings down YoY, vs 18% growth for the year), August operating data was strong (equity volumes +68%, options +50%, prediction-market contracts up 15-fold; only crypto volumes -38% weighed), and next-year growth is expected to accelerate to 29% revenue / 36% earnings. Valuation is not cheap at 54x earnings / 22x sales but is well below its history; shares have fallen after all four of the last reports (average -9%), so sentiment is low.",
+   "price_at_call": "No share price stated; analyst average target $139 (~42% upside), low target $115 (~17% upside); 54x P/E, 22x sales",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOFI",
+   "direction": "HOLD",
+   "thesis": "Stance softens from BUY to HOLD: he is sticking with SoFi but says he is not a big buyer at this valuation. He sold around $20 in January and bought back around $15 for 6,000 shares (down ~7% on this leg). Growth still beats legacy banks (35% revenue, 59% earnings expected this year) and the shares trade at ~1.9x book, cheaper than the 3-4x at the start of the year; if book grows 20% a year the multiple falls toward ~1.4x. Rate rises are the headwind for banks and he does not expect a big upside surprise on Tuesday.",
+   "price_at_call": "Bought back around $15; ~1.9x price-to-book; analyst average target $20 (~39% upside), low target $15; he expects it back over $20 over the next year",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "thesis": "First explicit Hogue BUY on Alphabet (prior tracked stance was UNCERTAIN): ahead of Wednesday earnings, revenue growth is forecast at 25% with earnings potentially reaching $15/share and revenue hitting ~$0.5 trillion this year, Bank of America sees a possible upside surprise (93% cloud growth and strong TPU sales), and the shares trade at ~20x this year's expected earnings versus ~30x in December. The key market risk he flags is capex guidance (expected ~$200bn this year, ~$300bn next, broadly unchanged).",
+   "price_at_call": "No share price stated; ~20x this year's expected earnings; analyst average target $430 (~33% upside), low $380 (~17%); his own view is back to about $400 over the next year",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FTNT",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Conditional buy / buy on dips, softening the earnings-week stance: he holds 500 Fortinet shares as one of five cybersecurity names ($300k+ across the group) and reports Wednesday, with ~20% revenue growth and 25% earnings growth to $3.45 expected, but after a 118% rise this year the valuation is 61x earnings (nearly double December's 32x) and ~3.1x on a PEG basis, so upside around earnings looks limited and he would not load up now; he would buy any big dip.",
+   "price_at_call": "No share price stated; up 118% this year; 61x earnings, ~3.1x PEG; analyst average target roughly at the current price",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: within his five-name cybersecurity basket (CrowdStrike, Fortinet, Okta, Zscaler, Palo Alto Networks) Zscaler is his favourite on value at ~2.1x on a PEG basis (versus Fortinet ~3.1x and CrowdStrike ~6.5x), it is the only one of the five that has not yet doubled his money, and he says he has been buying the dip on it while still holding all five for the long term.",
+   "price_at_call": "No share price stated; ~2.1x PEG as stated",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NOW",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Conditional buy / buy on dips, softened from BUY: ServiceNow reports Wednesday and he still wants to own its agent-orchestration layer between company AI agents and models (AI contract revenue over $1bn this year), with revenue growth of 20%+ expected to ~$4.1bn, but Q2 growth was flattered by federal contract revenue pulled forward from Q3, shares have fallen in three of the last four reports (average ~-10%), and at $88 per $1 of earnings (31x next year's ~$5 EPS) he would not pick up a lot into the print.",
+   "price_at_call": "No share price stated; up 2% this year; 88x current earnings / 31x next year's expected ~$5 EPS; analyst average target roughly at the current price, low target implying ~45% downside as stated",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "AMZN",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Conditional buy at $200-$225, first explicit stance (prior tracked was UNCERTAIN): Amazon reports Thursday, AWS grew 37% last quarter and advertising is its highest-margin business, helping an expected ~80% earnings rise to $12.90 on ~15% revenue growth, but capex guided to $220bn has swung free cash flow from +$32bn in 2024 to -$11bn over the last year, which he calls the market's central AI fear. At 20x earnings / 3.5x sales he thinks analysts (average target $330) are overly bullish short term and he would be more comfortable buying at $200-$225.",
+   "price_at_call": "His buy zone $200-$225; 20x P/E, 3.5x sales; analyst average target $330 as stated",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "RDDT",
+   "direction": "BUY",
+   "thesis": "First tracked Hogue Reddit call, on his buy list ahead of Thursday earnings: down 35% this year with two catalysts - a renegotiation of the 2024 Google AI licensing deal (~$60m a year, expiring early next year, with Reddit reportedly holding out for much more) and the Anthropic scraping lawsuit (a California judge in September rejected dismissal and upheld three claims; Anthropic may settle before a possible IPO). Growth is 53% revenue expected this year to up to $4.5bn next year and earnings more than doubling to $5.39, at 27x versus 105x last December; the shares are volatile and options price a 10%+ move.",
+   "price_at_call": "No share price stated (low analyst target $142 is around the current price as stated); 27x expected earnings; analyst average target ~$211 (~42% upside); he says either catalyst or continued growth could take it back to $200 or higher",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "thesis": "First tracked Hogue Netflix call and the video's headline buy: he opened a position for 4,000 shares at $65 through a synthetic option strategy (effective cost ~$68.59) after last week's disappointing print. The Q4 guide ($13.4bn revenue, a $300m ad-revenue downgrade) still implies 70% ad revenue growth, churn fell in every region, operating margin rose to 34% from 28%, free cash flow improved to $2.8bn, and at 18.7x this year's expected $3.58 EPS a move back to even 30x would give a $108 target (~61% upside); he realistically sees $80-$90 over the next year and says the stock is one hit show away from a sentiment boost.",
+   "price_at_call": "Opened 4,000 shares at $65 (synthetic cost ~$68.59); 18.7x this year's expected earnings; his $108 target at 30x, realistic $80-$90 over the next year",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  }
+ ]
+}
