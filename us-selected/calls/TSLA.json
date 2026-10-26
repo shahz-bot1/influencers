@@ -3,6 +3,24 @@
  "slug": "TSLA",
  "calls": [
   {
+   "video_id": "83F2533_VzU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Tesla Is Investing Aggressively in its Next Generation Technology | TSLA Stock Analysis",
+   "published_at": "2026-10-26T11:55:40.115423+00:00",
+   "analyzed_at": "2026-10-26T14:57:22.230655+00:00",
+   "collab": false,
+   "ticker": "TSLA",
+   "direction": "SELL",
+   "flip": true,
+   "stance_flip": "Parkevtate was HOLD on TSLA (his own stated prior stance - upgraded from SELL at $300 earlier in 2026, not in tracked calls.json), now SELL at ~$379",
+   "price_at_call": "trading at $379 (stated); his DCF fair value $113/share (stated), ~70% downside over 12-18 months; forward P/E 175 (stated)",
+   "thesis": "SELL - first tracked Parkevtate TSLA call (only prior tracked entry was UNCERTAIN on 4 Oct). He states in the video he is downgrading Tesla back to a selling opportunity today (22 Oct in-video date): he had it as a SELL for most of 2026, upgraded to HOLD when it fell to $300 (where he closed his puts/short for a profit), and now at ~$380 he is tempted to buy put options again, more so near $400.",
+   "base_case": "Q3: revenue flat at $28bn YoY, EPS down 44%, auto revenue down 3% to $20.5bn, energy revenue down 16%, operating margin down from 5.8% and operating income down 56%; he raised near-term DCF estimates only because 2026 capex was cut from $25bn to $20bn.",
+   "bull_case": "FSD subscriptions up 67% to 1.74m at ~$99/month (high-margin recurring revenue), services/other revenue up to $4.6bn, Tesla Semi volume production started, and four new European FSD approvals (Croatia, Slovenia, Czech Republic, Slovakia); ~1,000 robotaxis testing in Austin.",
+   "bear_case": "Valuation prices robotaxis/robots as inevitable: 175x forward earnings is ~6x the S&P 500, ~40x the average carmaker and ~6x big-cap AI names. Chinese EV competition is eroding share in every contested region, EV volumes likely peaked near 2m a year, and any investor realisation that timelines slip could mean ~70% downside."
+  },
+  {
    "video_id": "zVc-S0Od8_0",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -41,12 +59,16 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "BWB - Business With Brian",
    "idx": 1
+  },
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 2
   }
  ]
 }
