@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:00:29.296368+00:00",
+ "updated": "2026-10-26T04:58:35.121728+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -159,12 +159,17 @@
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
      "avg": "$371"
+    },
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$200"
     },
     {
      "dir": "SELL",
@@ -173,11 +178,12 @@
     }
    ],
    "influencers": [
+    "Joseph Hogue, CFA",
     "Daniel Pronk",
     "Asymmetric Investing"
    ],
-   "lastStated": "DCF fair value $371 (~$500 by 2028, +88% 3yr); 2nd-largest position >13% of port",
-   "nCalls": 2
+   "lastStated": "His buy zone $200-$225; 20x P/E, 3.5x sales; analyst average target $330 as stat",
+   "nCalls": 3
   },
   {
    "ticker": "ANET",
@@ -194,6 +200,40 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "no price stated",
+   "nCalls": 1
+  },
+  {
+   "ticker": "APP",
+   "slug": "APP",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$65"
+    }
+   ],
+   "influencers": [
+    "Tom Nash"
+   ],
+   "lastStated": "Down ~65% (no dollar price stated); revenue ~$7bn, FCF $4.5bn",
+   "nCalls": 1
+  },
+  {
+   "ticker": "ARM",
+   "slug": "ARM",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$50"
+    }
+   ],
+   "influencers": [
+    "Tom Nash"
+   ],
+   "lastStated": "Down ~50% (no dollar price stated); revenue +22%, ~$4bn cash, zero debt",
    "nCalls": 1
   },
   {
@@ -786,19 +826,19 @@
   {
    "ticker": "FTNT",
    "slug": "FTNT",
-   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
    "chips": [
     {
-     "dir": "HOLD",
+     "dir": "CONDITIONAL_BUY",
      "n": 1,
-     "avg": "$7"
+     "avg": "$118"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No price stated; down ~7% on Friday and ~13% over five days",
-   "nCalls": 2
+   "lastStated": "No share price stated; up 118% this year; 61x earnings, ~3.1x PEG; analyst avera",
+   "nCalls": 3
   },
   {
    "ticker": "GDS",
@@ -854,8 +894,13 @@
   {
    "ticker": "GOOGL",
    "slug": "GOOGL",
-   "lastDate": "2026-10-24T03:57:34.097774+00:00",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$20"
+    },
     {
      "dir": "HOLD",
      "n": 1,
@@ -868,11 +913,12 @@
     }
    ],
    "influencers": [
+    "Joseph Hogue, CFA",
     "Asymmetric Investing",
     "Sven Carlin"
    ],
-   "lastStated": "No price stated",
-   "nCalls": 3
+   "lastStated": "No share price stated; ~20x this year's expected earnings; analyst average targe",
+   "nCalls": 4
   },
   {
    "ticker": "GRAB",
@@ -911,20 +957,20 @@
   {
    "ticker": "HOOD",
    "slug": "HOOD",
-   "lastDate": "2026-10-10T03:56:54.429840+00:00",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$29"
+     "avg": "$84"
     }
    ],
    "influencers": [
-    "Asymmetric Investing",
-    "Joseph Hogue, CFA"
+    "Joseph Hogue, CFA",
+    "Asymmetric Investing"
    ],
-   "lastStated": "down 29% over past year; ~50x earnings",
-   "nCalls": 2
+   "lastStated": "No share price stated; analyst average target $139 (~42% upside), low target $11",
+   "nCalls": 3
   },
   {
    "ticker": "INTC",
@@ -1298,8 +1344,13 @@
   {
    "ticker": "NFLX",
    "slug": "NFLX",
-   "lastDate": "2026-10-21T04:00:25.111307+00:00",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$4,000"
+    },
     {
      "dir": "AVOID",
      "n": 1,
@@ -1307,10 +1358,11 @@
     }
    ],
    "influencers": [
+    "Joseph Hogue, CFA",
     "Daniel Pronk"
    ],
-   "lastStated": "Down almost 6% in after-hours after Q3 and almost 50% from its all-time high bef",
-   "nCalls": 1
+   "lastStated": "Opened 4,000 shares at $65 (synthetic cost ~$68.59); 18.7x this year's expected ",
+   "nCalls": 2
   },
   {
    "ticker": "NOK",
@@ -1332,19 +1384,19 @@
   {
    "ticker": "NOW",
    "slug": "NOW",
-   "lastDate": "2026-10-22T03:59:30.269037+00:00",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
    "chips": [
     {
-     "dir": "BUY",
+     "dir": "CONDITIONAL_BUY",
      "n": 1,
-     "avg": "$21"
+     "avg": "$2"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Down ~21% over 12 months; analyst average target $155 (~10% upside) as stated in",
-   "nCalls": 2
+   "lastStated": "No share price stated; up 2% this year; 88x current earnings / 31x next year's e",
+   "nCalls": 3
   },
   {
    "ticker": "NTES",
@@ -1366,20 +1418,20 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-10-22T03:59:30.269037+00:00",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$2.5"
+     "avg": "$4"
     }
    ],
    "influencers": [
     "Jose Najarro Stocks",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Up ~2.5% on the day, down ~1.2% after hours; no share price stated",
-   "nCalls": 7
+   "lastStated": "No share price stated; Nvidia down ~4% on 22 Oct as stated",
+   "nCalls": 8
   },
   {
    "ticker": "NVDY",
@@ -1604,6 +1656,23 @@
    "nCalls": 2
   },
   {
+   "ticker": "RDDT",
+   "slug": "RDDT",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$142"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "No share price stated (low analyst target $142 is around the current price as st",
+   "nCalls": 1
+  },
+  {
    "ticker": "RJF",
    "slug": "RJF",
    "lastDate": "2026-09-28T03:57:07.794861+00:00",
@@ -1759,20 +1828,25 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 2,
-     "avg": "$29.95"
+     "n": 1,
+     "avg": "$44"
+    },
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$15"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA",
     "Asymmetric Investing"
    ],
-   "lastStated": "Bought back in at $15.89; ~1.8x price-to-book; target past $20",
-   "nCalls": 3
+   "lastStated": "Bought back around $15; ~1.9x price-to-book; analyst average target $20 (~39% up",
+   "nCalls": 4
   },
   {
    "ticker": "SOUN",
@@ -2095,19 +2169,19 @@
   {
    "ticker": "ZS",
    "slug": "ZS",
-   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "lastDate": "2026-10-26T04:58:06.524826+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$6"
+     "avg": "$2.1"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No price stated; down ~6% on Friday and ~11% over five days",
-   "nCalls": 2
+   "lastStated": "No share price stated; ~2.1x PEG as stated",
+   "nCalls": 3
   }
  ],
  "influencers": [
@@ -2143,15 +2217,15 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 30,
-   "nVideos": 11
+   "nCalls": 31,
+   "nVideos": 12
   },
   {
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 102,
-   "nVideos": 12
+   "nCalls": 111,
+   "nVideos": 13
   },
   {
    "name": "Patient Investor",
@@ -2171,8 +2245,8 @@
    "name": "Tom Nash",
    "handle": "@TomNashTV",
    "slug": "Tom_Nash",
-   "nCalls": 1,
-   "nVideos": 4
+   "nCalls": 3,
+   "nVideos": 5
   },
   {
    "name": "UNRIVALEDD INVESTING",
@@ -2183,6 +2257,36 @@
   }
  ],
  "videos": [
+  {
+   "id": "WCBrbbiIGKA",
+   "title": "NVIDIA Stock Is Crashing...But AI Demand Is NOT Slowing Down!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-26T03:55:37.205604+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "ZEImdkhIF6g",
+   "title": "🚨MAJOR BUY: Last EASY Wealth Opportunity For Decades",
+   "creator": "Tom Nash",
+   "channels": [
+    "Tom Nash"
+   ],
+   "published_at": "2026-10-25T18:55:37.205604+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "S3pQiAXNVPU",
+   "title": "BUY HEAVY! If You Miss These 4 Stocks, You’ll Regret it in 5 Days",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-10-25T16:55:37.205604+00:00",
+   "nCalls": 9
+  },
   {
    "id": "dR8CQ1FJzyQ",
    "title": "Stock Market Crash: What to Watch Next",
