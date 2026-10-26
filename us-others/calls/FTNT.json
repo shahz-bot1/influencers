@@ -3,6 +3,16 @@
  "slug": "FTNT",
  "calls": [
   {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FTNT",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Conditional buy / buy on dips, softening the earnings-week stance: he holds 500 Fortinet shares as one of five cybersecurity names ($300k+ across the group) and reports Wednesday, with ~20% revenue growth and 25% earnings growth to $3.45 expected, but after a 118% rise this year the valuation is 61x earnings (nearly double December's 32x) and ~3.1x on a PEG basis, so upside around earnings looks limited and he would not load up now; he would buy any big dip.",
+   "price_at_call": "No share price stated; up 118% this year; 61x earnings, ~3.1x PEG; analyst average target roughly at the current price",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
    "video_id": "IaSD9j5O_ZQ",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
