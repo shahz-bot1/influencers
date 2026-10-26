@@ -1,0 +1,22 @@
+{
+ "ticker": "RDDT",
+ "slug": "RDDT",
+ "calls": [
+  {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "RDDT",
+   "direction": "BUY",
+   "thesis": "First tracked Hogue Reddit call, on his buy list ahead of Thursday earnings: down 35% this year with two catalysts - a renegotiation of the 2024 Google AI licensing deal (~$60m a year, expiring early next year, with Reddit reportedly holding out for much more) and the Anthropic scraping lawsuit (a California judge in September rejected dismissal and upheld three claims; Anthropic may settle before a possible IPO). Growth is 53% revenue expected this year to up to $4.5bn next year and earnings more than doubling to $5.39, at 27x versus 105x last December; the shares are volatile and options price a 10%+ move.",
+   "price_at_call": "No share price stated (low analyst target $142 is around the current price as stated); 27x expected earnings; analyst average target ~$211 (~42% upside); he says either catalyst or continued growth could take it back to $200 or higher",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
