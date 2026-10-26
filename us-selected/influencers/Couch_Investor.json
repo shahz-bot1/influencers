@@ -4,6 +4,14 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-26T17:00:06.649805+00:00",
+   "price": "trading under $15 (stated); down ~50% over 12 months, ~55% drawdown from peak; market cap $18.6bn (stated); P/E 30x, forward 20x, PEG 0.5 (stated); his DCF bull $28 / base $22.80 / bear $10, ~51.3% upside on his assumptions",
+   "video_id": "B7qSvzcSMNc"
+  },
+  {
    "ticker": "NBIS",
    "tickerSlug": "NBIS",
    "direction": "BUY",
