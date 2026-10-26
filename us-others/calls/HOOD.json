@@ -3,6 +3,16 @@
  "slug": "HOOD",
  "calls": [
   {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "HOOD",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY ahead of Tuesday earnings: down 12% this year is a dip opportunity at a low bar for expectations (revenue +12% expected in the quarter, earnings down YoY, vs 18% growth for the year), August operating data was strong (equity volumes +68%, options +50%, prediction-market contracts up 15-fold; only crypto volumes -38% weighed), and next-year growth is expected to accelerate to 29% revenue / 36% earnings. Valuation is not cheap at 54x earnings / 22x sales but is well below its history; shares have fallen after all four of the last reports (average -9%), so sentiment is low.",
+   "price_at_call": "No share price stated; analyst average target $139 (~42% upside), low target $115 (~17% upside); 54x P/E, 22x sales",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
    "video_id": "6scmMOSLPM4",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -28,11 +38,11 @@
  ],
  "byInf": [
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Asymmetric Investing",
    "idx": 1
   }
  ]
