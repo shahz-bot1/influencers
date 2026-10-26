@@ -1,0 +1,22 @@
+{
+ "ticker": "ARM",
+ "slug": "ARM",
+ "calls": [
+  {
+   "video_id": "ZEImdkhIF6g",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "ARM",
+   "direction": "BUY",
+   "thesis": "First tracked Nash ARM call, one of only two names revealed in the video from his new top-11 list (the other nine are only in the free downloadable report): price down ~50% while revenue grows 22%, ~$4bn cash with zero debt, 27% free-cash-flow margin, rule of 40 of 49, and 115/125 on his scorecard (lost points only on short interest slightly above his threshold). He frames ARM as owning the blueprint every chip pays a licence and royalty on.",
+   "price_at_call": "Down ~50% (no dollar price stated); revenue +22%, ~$4bn cash, zero debt",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Tom Nash",
+   "idx": 0
+  }
+ ]
+}
