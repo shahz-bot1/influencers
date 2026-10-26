@@ -1,0 +1,19 @@
+{
+ "video_id": "WCBrbbiIGKA",
+ "title": "NVIDIA Stock Is Crashing...But AI Demand Is NOT Slowing Down!!",
+ "creator": "Jose Najarro Stocks",
+ "published_at": "2026-10-26T03:55:37.205604+00:00",
+ "summary": "Jose Najarro examines why AI stocks have fallen for two to three weeks - the Nasdaq fell about 2.6% on 22 October, Nvidia about 4%, Meta about 7% after earnings and Lam Research about 12%, with neoclouds also down - and argues the market is questioning financing and payback timing, not whether AI demand exists. He separates timing risk, overbuild risk and financing cost, citing SemiAnalysis figures for more than 24 GW in advanced construction across 40 campuses and potentially about 50 GW turning on in 2027. Nvidia is his central example: DSX pods cut deployment from six months to as little as 14 days, a third-party financing platform targets over $500 billion of capital over time, and revenue backstops support selected projects, though Nvidia is not itself the lender. He works through Meta (revenue $64.6 billion, free cash flow about -$2 billion in the quarter, Muse demand), SpaceX/xAI (captions render it SpaceX; rapid compute growth, sub-one-year payback claims, and Elon Musk's weekend warnings about stranded compute and neocloud financing), Nebius's $3.5 billion Citi facility as evidence financing remains selective, CoreWeave's active power base, and Lam Research upstream. Calls: NVDA - BUY (reiterated), META - UNCERTAIN and LRCX - UNCERTAIN (both positive coverage only, reiterated). Caption renderings are garbled in places, notably Lam Research as 'Lamb' and Nebius variants.",
+ "calls": [
+  {
+   "video_id": "WCBrbbiIGKA",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY / bullish: Nvidia fell ~4% on 22 Oct in the AI sell-off but he says demand is not slowing and his bullish thesis is getting stronger, not smaller. Nvidia's DSX pods (pre-built Vera Rubin AI factories) cut on-site deployment from ~6 months to as little as 14 days, shortening the period where capital earns no revenue and reducing lender risk; its third-party financing platform (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR) targets mobilising over $500bn of capital over time, and revenue commitments/backstops support selected capacity. He stresses Nvidia is not itself lending $500bn.",
+   "price_at_call": "No share price stated; Nvidia down ~4% on 22 Oct as stated",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  }
+ ]
+}
