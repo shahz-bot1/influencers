@@ -3,6 +3,24 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "qCSyXwoQdA0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 2nd Best Stock to Buy Right Now | NVDA Stock vs. Meta Stock",
+   "published_at": "2026-10-26T10:55:40.115423+00:00",
+   "analyzed_at": "2026-10-26T14:57:22.230655+00:00",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "trading at $213 (stated); his DCF fair value $345/share (stated), ~62% undervalued; forward P/E 13.4 (stated)",
+   "thesis": "BUY reiterated and ranked his #1 stock to buy right now (Meta #2) after digesting Meta's results. He owns both; both are among his largest positions behind Netflix. Not a flip: last tracked explicit Parkevtate NVDA call was BUY (5 Oct).",
+   "base_case": "Forward EPS growth expectations have risen to ~50%; hyperscaler capex will pass $850bn in 2026 and likely $1.2-1.4trn next year, which flows to Nvidia; asset-light model outsources manufacturing to TSMC.",
+   "bull_case": "ROIC above 100% for over a year (he concedes it is unsustainable, but sees the AI upgrade cycle staying elevated into 2028, possibly 2029); near the cheapest forward P/E Nvidia has ever traded at.",
+   "bear_case": "Bubble risk: the whole thesis rests on hyperscaler spending delivering returns; Nvidia's circular equity investments in customers/suppliers draw scepticism."
+  },
+  {
    "video_id": "TXQ8h7gfyMY",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -289,20 +307,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 4
+   "channel": "Mark Roussin CPA",
+   "idx": 3
   }
  ]
 }
