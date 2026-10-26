@@ -4,6 +4,78 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "HOOD",
+   "tickerSlug": "HOOD",
+   "direction": "BUY",
+   "date": "2026-10-26T04:58:06.524826+00:00",
+   "price": "No share price stated; analyst average target $139 (~42% upside), low target $115 (~17% upside); 54x P/E, 22x sales",
+   "video_id": "S3pQiAXNVPU"
+  },
+  {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "HOLD",
+   "date": "2026-10-26T04:58:06.524826+00:00",
+   "price": "Bought back around $15; ~1.9x price-to-book; analyst average target $20 (~39% upside), low target $15; he expects it back over $20 over the next year",
+   "video_id": "S3pQiAXNVPU"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-10-26T04:58:06.524826+00:00",
+   "price": "No share price stated; ~20x this year's expected earnings; analyst average target $430 (~33% upside), low $380 (~17%); his own view is back to about $400 over the next year",
+   "video_id": "S3pQiAXNVPU"
+  },
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-26T04:58:06.524826+00:00",
+   "price": "No share price stated; up 118% this year; 61x earnings, ~3.1x PEG; analyst average target roughly at the current price",
+   "video_id": "S3pQiAXNVPU"
+  },
+  {
+   "ticker": "ZS",
+   "tickerSlug": "ZS",
+   "direction": "BUY",
+   "date": "2026-10-26T04:58:06.524826+00:00",
+   "price": "No share price stated; ~2.1x PEG as stated",
+   "video_id": "S3pQiAXNVPU"
+  },
+  {
+   "ticker": "NOW",
+   "tickerSlug": "NOW",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-26T04:58:06.524826+00:00",
+   "price": "No share price stated; up 2% this year; 88x current earnings / 31x next year's expected ~$5 EPS; analyst average target roughly at the current price, low target implying ~45% downside as stated",
+   "video_id": "S3pQiAXNVPU"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-26T04:58:06.524826+00:00",
+   "price": "His buy zone $200-$225; 20x P/E, 3.5x sales; analyst average target $330 as stated",
+   "video_id": "S3pQiAXNVPU"
+  },
+  {
+   "ticker": "RDDT",
+   "tickerSlug": "RDDT",
+   "direction": "BUY",
+   "date": "2026-10-26T04:58:06.524826+00:00",
+   "price": "No share price stated (low analyst target $142 is around the current price as stated); 27x expected earnings; analyst average target ~$211 (~42% upside); he says either catalyst or continued growth could take it back to $200 or higher",
+   "video_id": "S3pQiAXNVPU"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-10-26T04:58:06.524826+00:00",
+   "price": "Opened 4,000 shares at $65 (synthetic cost ~$68.59); 18.7x this year's expected earnings; his $108 target at 30x, realistic $80-$90 over the next year",
+   "video_id": "S3pQiAXNVPU"
+  },
+  {
    "ticker": "PATH",
    "tickerSlug": "PATH",
    "direction": "BUY",
