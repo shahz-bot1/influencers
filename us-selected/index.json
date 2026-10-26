@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:06:14.721826+00:00",
+ "updated": "2026-10-26T23:06:34.080504+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -1759,12 +1759,12 @@
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-10-25T14:54:52.493669+00:00",
+   "lastDate": "2026-10-26T10:55:40.115423+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$688"
+     "avg": "$644"
     },
     {
      "dir": "HOLD",
@@ -1773,12 +1773,12 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Couch Investor",
-    "Joseph Carlson After Hours",
-    "Parkevtate Vosianc CFA"
+    "Joseph Carlson After Hours"
    ],
-   "lastStated": "$642 (stated current; main buying zone $630–$645; bought 3 extra shares, +5.2% p",
-   "nCalls": 12
+   "lastStated": "trading at $646 (stated); ~46% undervalued on his DCF (fair-value figure dropped",
+   "nCalls": 13
   },
   {
    "ticker": "MMM",
@@ -2139,22 +2139,22 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-10-25T14:54:52.493669+00:00",
+   "lastDate": "2026-10-26T10:55:40.115423+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$18.25"
+     "avg": "$83.17"
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Couch Investor",
     "BWB - Business With Brian",
-    "Mark Roussin CPA",
-    "Parkevtate Vosianc CFA"
+    "Mark Roussin CPA"
    ],
-   "lastStated": "about 23x next year's earnings (stated); no share price stated",
-   "nCalls": 19
+   "lastStated": "trading at $213 (stated); his DCF fair value $345/share (stated), ~62% undervalu",
+   "nCalls": 20
   },
   {
    "ticker": "NVO",
@@ -2423,19 +2423,19 @@
   {
    "ticker": "PINS",
    "slug": "PINS",
-   "lastDate": "2026-10-05T11:56:12.550380+00:00",
+   "lastDate": "2026-10-26T12:55:40.115423+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$19"
+     "avg": "$22"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "19.0",
-   "nCalls": 2
+   "lastStated": "trading over $22 (stated; was $15 at the year's low, down 14% YTD); forward P/E ",
+   "nCalls": 3
   },
   {
    "ticker": "PL",
@@ -2866,26 +2866,26 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-10-22T05:55:21.834433+00:00",
+   "lastDate": "2026-10-26T17:00:06.649805+00:00",
    "chips": [
     {
      "dir": "CONDITIONAL_BUY",
-     "n": 1,
-     "avg": "$14.82"
+     "n": 2,
+     "avg": "$14.91"
     },
     {
      "dir": "HOLD",
-     "n": 2,
+     "n": 1,
      "avg": "$16.58"
     }
    ],
    "influencers": [
-    "Parkevtate Vosianc CFA",
     "Couch Investor",
+    "Parkevtate Vosianc CFA",
     "MarketBeat"
    ],
-   "lastStated": "$14.82 (stated); fair value $19.82 (stated)",
-   "nCalls": 6
+   "lastStated": "trading under $15 (stated); down ~50% over 12 months, ~55% drawdown from peak; m",
+   "nCalls": 7
   },
   {
    "ticker": "SPCX",
@@ -3072,12 +3072,17 @@
   {
    "ticker": "TSLA",
    "slug": "TSLA",
-   "lastDate": "2026-10-25T13:58:25.731154+00:00",
+   "lastDate": "2026-10-26T11:55:40.115423+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
      "avg": "$200"
+    },
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": "$379"
     },
     {
      "dir": "AVOID",
@@ -3086,11 +3091,12 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "BWB - Business With Brian",
     "Joseph Carlson After Hours"
    ],
-   "lastStated": "about 200x next year's earnings (stated); no share price stated",
-   "nCalls": 2
+   "lastStated": "trading at $379 (stated); his DCF fair value $113/share (stated), ~70% downside ",
+   "nCalls": 3
   },
   {
    "ticker": "TSM",
@@ -3588,15 +3594,15 @@
    "name": "Couch Investor",
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
-   "nCalls": 77,
-   "nVideos": 57
+   "nCalls": 78,
+   "nVideos": 58
   },
   {
    "name": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
    "slug": "Joseph_Carlson_After_Hours",
    "nCalls": 27,
-   "nVideos": 7
+   "nVideos": 8
   },
   {
    "name": "Mark Roussin CPA",
@@ -3616,8 +3622,8 @@
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 149,
-   "nVideos": 150
+   "nCalls": 153,
+   "nVideos": 154
   },
   {
    "name": "The German Value Investor",
@@ -3628,6 +3634,66 @@
   }
  ],
  "videos": [
+  {
+   "id": "n-JvcqJ5-oE",
+   "title": "Anthropic Just Released Their Financials… The Numbers Are Insane",
+   "creator": "Joseph Carlson After Hours",
+   "channels": [
+    "Joseph Carlson After Hours"
+   ],
+   "published_at": "2026-10-26T21:58:21.177410+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "B7qSvzcSMNc",
+   "title": "I'll Buy or Sell SoFi After Earnings. Here's What Decides It",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-26T17:00:06.649805+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "pW0cr707XPw",
+   "title": "Meta Reveals Hardware Strategy to Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-26T14:45:40.115423+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "JjlBOSyXX4k",
+   "title": "Should You Buy Pinterest Stock Before the Huge Investor Update?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-26T12:55:40.115423+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "83F2533_VzU",
+   "title": "Tesla Is Investing Aggressively in its Next Generation Technology | TSLA Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-26T11:55:40.115423+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "qCSyXwoQdA0",
+   "title": "The 2nd Best Stock to Buy Right Now | NVDA Stock vs. Meta Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-26T10:55:40.115423+00:00",
+   "nCalls": 2
+  },
   {
    "id": "4MK0MfxbOHw",
    "title": "3 Growth Stocks Under $20 With 100%+ Upside",
