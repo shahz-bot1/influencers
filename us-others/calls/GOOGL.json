@@ -3,6 +3,16 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "thesis": "First explicit Hogue BUY on Alphabet (prior tracked stance was UNCERTAIN): ahead of Wednesday earnings, revenue growth is forecast at 25% with earnings potentially reaching $15/share and revenue hitting ~$0.5 trillion this year, Bank of America sees a possible upside surprise (93% cloud growth and strong TPU sales), and the shares trade at ~20x this year's expected earnings versus ~30x in December. The key market risk he flags is capex guidance (expected ~$200bn this year, ~$300bn next, broadly unchanged).",
+   "price_at_call": "No share price stated; ~20x this year's expected earnings; analyst average target $430 (~33% upside), low $380 (~17%); his own view is back to about $400 over the next year",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
    "video_id": "dR8CQ1FJzyQ",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -38,12 +48,16 @@
  ],
  "byInf": [
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
   },
   {
+   "channel": "Asymmetric Investing",
+   "idx": 1
+  },
+  {
    "channel": "Sven Carlin",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
