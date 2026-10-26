@@ -4,6 +4,38 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "PINS",
+   "tickerSlug": "PINS",
+   "direction": "BUY",
+   "date": "2026-10-26T12:55:40.115423+00:00",
+   "price": "trading over $22 (stated; was $15 at the year's low, down 14% YTD); forward P/E 9.3 (stated)",
+   "video_id": "JjlBOSyXX4k"
+  },
+  {
+   "ticker": "TSLA",
+   "tickerSlug": "TSLA",
+   "direction": "SELL",
+   "date": "2026-10-26T11:55:40.115423+00:00",
+   "price": "trading at $379 (stated); his DCF fair value $113/share (stated), ~70% downside over 12-18 months; forward P/E 175 (stated)",
+   "video_id": "83F2533_VzU"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-26T10:55:40.115423+00:00",
+   "price": "trading at $213 (stated); his DCF fair value $345/share (stated), ~62% undervalued; forward P/E 13.4 (stated)",
+   "video_id": "qCSyXwoQdA0"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-10-26T10:55:40.115423+00:00",
+   "price": "trading at $646 (stated); ~46% undervalued on his DCF (fair-value figure dropped out of the auto-captions); forward P/E 18.5 (stated)",
+   "video_id": "qCSyXwoQdA0"
+  },
+  {
    "ticker": "NBIS",
    "tickerSlug": "NBIS",
    "direction": "BUY",
