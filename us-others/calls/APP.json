@@ -1,0 +1,22 @@
+{
+ "ticker": "APP",
+ "slug": "APP",
+ "calls": [
+  {
+   "video_id": "ZEImdkhIF6g",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "APP",
+   "direction": "BUY",
+   "thesis": "First tracked Nash AppLovin call, the second name revealed in the video from his new top-11 list: price down ~65% while growth is almost 50%, free-cash-flow growth almost 60% and guidance is for ~50% further growth; ~$7bn revenue, ~80% operating margin, $4.5bn free cash flow and a rule of 40 of 113.8, which he calls elite. Its AI/machine-learning ad-placement flywheel gets more budgets as the model improves. Scorecard deductions were only for slightly more debt than cash ($3.7bn vs $3.05bn) and advertising not being recession-proof.",
+   "price_at_call": "Down ~65% (no dollar price stated); revenue ~$7bn, FCF $4.5bn",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Tom Nash",
+   "idx": 0
+  }
+ ]
+}
