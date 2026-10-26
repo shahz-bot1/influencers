@@ -3,6 +3,16 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "WCBrbbiIGKA",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY / bullish: Nvidia fell ~4% on 22 Oct in the AI sell-off but he says demand is not slowing and his bullish thesis is getting stronger, not smaller. Nvidia's DSX pods (pre-built Vera Rubin AI factories) cut on-site deployment from ~6 months to as little as 14 days, shortening the period where capital earns no revenue and reducing lender risk; its third-party financing platform (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR) targets mobilising over $500bn of capital over time, and revenue commitments/backstops support selected capacity. He stresses Nvidia is not itself lending $500bn.",
+   "price_at_call": "No share price stated; Nvidia down ~4% on 22 Oct as stated",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
    "video_id": "DwQ8z2cn7H0",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -84,7 +94,7 @@
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
