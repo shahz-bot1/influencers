@@ -3,6 +3,24 @@
  "slug": "PINS",
  "calls": [
   {
+   "video_id": "JjlBOSyXX4k",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Pinterest Stock Before the Huge Investor Update?",
+   "published_at": "2026-10-26T12:55:40.115423+00:00",
+   "analyzed_at": "2026-10-26T14:57:22.230655+00:00",
+   "collab": false,
+   "ticker": "PINS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "trading over $22 (stated; was $15 at the year's low, down 14% YTD); forward P/E 9.3 (stated)",
+   "thesis": "BUY reiterated - he owns it, keeps it in his top 10 stocks to buy in 2026 and reiterated that top-10 rating today ahead of the 29 Oct earnings / investor update. Not a flip: last tracked Parkevtate PINS call was BUY (5 Oct ranking).",
+   "base_case": "Fundamentals improving at a near-all-time-low valuation: one of the few social platforms still adding North American users (highest ARPU), users skew young so ARPU should rise as they age; analysts expect EPS growth over 27% a year vs a 9.3x forward P/E; operating margin 6.3% and improving even after stock comp.",
+   "bull_case": "Buy-before-earnings framing: risk-neutral buyers should put 75% of the intended allocation in before the print and 25% after; risk-averse buyers 50/50. Meta's results (revenue +26%, ad market better than a year ago) are a positive read-across for Pinterest's 29 Oct print.",
+   "bear_case": "R&D is 29%+ of revenue - higher than Meta, Snap and Reddit - with little product innovation to show for it; revenue per employee is down from the ~$900k 2022 peak. Stock has badly lagged in 2026 (down 14% vs S&P 500 up over 10%)."
+  },
+  {
    "video_id": "25pD3BJgsy8",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
