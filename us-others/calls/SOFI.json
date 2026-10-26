@@ -3,6 +3,16 @@
  "slug": "SOFI",
  "calls": [
   {
+   "video_id": "S3pQiAXNVPU",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOFI",
+   "direction": "HOLD",
+   "thesis": "Stance softens from BUY to HOLD: he is sticking with SoFi but says he is not a big buyer at this valuation. He sold around $20 in January and bought back around $15 for 6,000 shares (down ~7% on this leg). Growth still beats legacy banks (35% revenue, 59% earnings expected this year) and the shares trade at ~1.9x book, cheaper than the 3-4x at the start of the year; if book grows 20% a year the multiple falls toward ~1.4x. Rate rises are the headwind for banks and he does not expect a big upside surprise on Tuesday.",
+   "price_at_call": "Bought back around $15; ~1.9x price-to-book; analyst average target $20 (~39% upside), low target $15; he expects it back over $20 over the next year",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
    "video_id": "IaSD9j5O_ZQ",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -43,7 +53,7 @@
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
