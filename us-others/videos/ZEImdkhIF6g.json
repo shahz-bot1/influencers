@@ -1,0 +1,29 @@
+{
+ "video_id": "ZEImdkhIF6g",
+ "title": "🚨MAJOR BUY: Last EASY Wealth Opportunity For Decades",
+ "creator": "Tom Nash",
+ "published_at": "2026-10-25T18:55:37.205604+00:00",
+ "summary": "Tom Nash argues the recent sell-off (Nasdaq down over 5% in 30 days, S&P 500 down 1.6%, Nvidia down 6.3%) is fear, not a thesis break, and presents it as a major buying opportunity. He reviews his 18 December 2025 top-15 list: 11 of 15 rose, for a 28.5% average return versus 12.5% for the S&P 500, and his May second-wave list, where six of seven rose for a 32.5% average versus 0.5% for the index. His anti-bubble case has four parts: forward P/E on the S&P 500 is 19, the 10-year average, while earnings grow about 29.5%; expensive money restrains euphoria; the fear-and-greed index is at extreme fear (21); and there is no IPO or meme mania, with tight credit and high volatility showing no complacency. He says AI will move from infrastructure (wave one: Nvidia, AMD, TSMC, Vertiv) to implementation, where the larger returns sit. Only two of his new top 11 are named in the video - ARM and AppLovin; the other nine are only in a free downloadable report. Calls: ARM - BUY (down ~50%, revenue +22%, $4bn cash, zero debt) and APP - BUY (down ~65%, ~50% growth, $4.5bn free cash flow), both first tracked for Nash.",
+ "calls": [
+  {
+   "video_id": "ZEImdkhIF6g",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "ARM",
+   "direction": "BUY",
+   "thesis": "First tracked Nash ARM call, one of only two names revealed in the video from his new top-11 list (the other nine are only in the free downloadable report): price down ~50% while revenue grows 22%, ~$4bn cash with zero debt, 27% free-cash-flow margin, rule of 40 of 49, and 115/125 on his scorecard (lost points only on short interest slightly above his threshold). He frames ARM as owning the blueprint every chip pays a licence and royalty on.",
+   "price_at_call": "Down ~50% (no dollar price stated); revenue +22%, ~$4bn cash, zero debt",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  },
+  {
+   "video_id": "ZEImdkhIF6g",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "APP",
+   "direction": "BUY",
+   "thesis": "First tracked Nash AppLovin call, the second name revealed in the video from his new top-11 list: price down ~65% while growth is almost 50%, free-cash-flow growth almost 60% and guidance is for ~50% further growth; ~$7bn revenue, ~80% operating margin, $4.5bn free cash flow and a rule of 40 of 113.8, which he calls elite. Its AI/machine-learning ad-placement flywheel gets more budgets as the model improves. Scorecard deductions were only for slightly more debt than cash ($3.7bn vs $3.05bn) and advertising not being recession-proof.",
+   "price_at_call": "Down ~65% (no dollar price stated); revenue ~$7bn, FCF $4.5bn",
+   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+  }
+ ]
+}
