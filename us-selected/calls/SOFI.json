@@ -3,6 +3,24 @@
  "slug": "SOFI",
  "calls": [
   {
+   "video_id": "B7qSvzcSMNc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I'll Buy or Sell SoFi After Earnings. Here's What Decides It",
+   "published_at": "2026-10-26T17:00:06.649805+00:00",
+   "analyzed_at": "2026-10-26T23:01:36.180445+00:00",
+   "collab": false,
+   "ticker": "SOFI",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "stance_flip": "Couch Investor was HOLD on SOFI (most recent tracked call, 9 Oct backfill entry), now CONDITIONAL_BUY — will buy more after earnings only if the report is strong and management gives assurance on its targets; explicitly not selling",
+   "price_at_call": "trading under $15 (stated); down ~50% over 12 months, ~55% drawdown from peak; market cap $18.6bn (stated); P/E 30x, forward 20x, PEG 0.5 (stated); his DCF bull $28 / base $22.80 / bear $10, ~51.3% upside on his assumptions",
+   "thesis": "CONDITIONAL_BUY — he will buy more SoFi shares next week if Q3 (Tue 27 Oct, pre-market) is an extremely good report and management assures shareholders it can still meet its own mid-term targets in a harsher rate environment; as of now he is waiting, and he is definitely not selling.",
+   "base_case": "His Q3 predictions: revenue $1.28bn (consensus ~$1.25bn), adjusted EBITDA $435m at a 34% margin (on track for the $1.6bn target), diluted EPS $0.17, over 1m new members at ~$322 acquisition cost; financial services ~$500m, lending ~$745m at a 56% contribution margin, Galileo ~$90m sequential growth; FY26 EPS guidance $0.60.",
+   "bull_case": "Bull DCF case $28/share (30% probability in his model): SoFi keeps beating consensus as it has in recent quarters (revenue beats of 7.1%, 3.6%, 3.1%; EPS beats of ~10%+) and management confirms the 30% growth compounding for the next ~2.5 years.",
+   "bear_case": "Bear DCF case $10/share (20% probability): management cannot deliver its targets, especially if the high-rate environment worsens into 2027; the stock was arguably too expensive near $30 at the start of the year, which he concedes may explain part of the 50% fall."
+  },
+  {
    "video_id": "qHzoSWzT92I",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -98,16 +116,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
-   "idx": 2
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
