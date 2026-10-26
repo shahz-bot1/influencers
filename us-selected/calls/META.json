@@ -3,6 +3,24 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "qCSyXwoQdA0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 2nd Best Stock to Buy Right Now | NVDA Stock vs. Meta Stock",
+   "published_at": "2026-10-26T10:55:40.115423+00:00",
+   "analyzed_at": "2026-10-26T14:57:22.230655+00:00",
+   "collab": false,
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "trading at $646 (stated); ~46% undervalued on his DCF (fair-value figure dropped out of the auto-captions); forward P/E 18.5 (stated)",
+   "thesis": "BUY reiterated, ranked his #2 stock to buy right now behind Nvidia. Not a flip: last tracked explicit Parkevtate META call was BUY (18 Oct); two intervening META videos were UNCERTAIN news updates.",
+   "base_case": "EPS growth expectations 19% forward, which he wagers will prove low; CFO-to-sales 55%; latest quarter revenue +26% with 12% fewer employees, so revenue per employee is rising sharply on AI productivity.",
+   "bull_case": "Meta Muse personal agent already past 10m downloads; Zuckerberg says it can be monetised at least at social-media ARPU levels; he sees ROIC rising over 30%, toward ~35%, once capex peaks around 2029.",
+   "bear_case": "Capex keeps rising (more in 2027 and again in 2028 on his read of management hints) and he expects one or several major equity raises in the next 36 months to fund it, helped by the announced stock split / share-class change; Muse monetisation is still unproven."
+  },
+  {
    "video_id": "TXQ8h7gfyMY",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -192,15 +210,15 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 2
+   "channel": "Couch Investor",
+   "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 3
   }
  ]
