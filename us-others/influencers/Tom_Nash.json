@@ -4,6 +4,22 @@
  "slug": "Tom_Nash",
  "calls": [
   {
+   "ticker": "ARM",
+   "tickerSlug": "ARM",
+   "direction": "BUY",
+   "date": "2026-10-26T04:58:06.524826+00:00",
+   "price": "Down ~50% (no dollar price stated); revenue +22%, ~$4bn cash, zero debt",
+   "video_id": "ZEImdkhIF6g"
+  },
+  {
+   "ticker": "APP",
+   "tickerSlug": "APP",
+   "direction": "BUY",
+   "date": "2026-10-26T04:58:06.524826+00:00",
+   "price": "Down ~65% (no dollar price stated); revenue ~$7bn, FCF $4.5bn",
+   "video_id": "ZEImdkhIF6g"
+  },
+  {
    "ticker": "SPY",
    "tickerSlug": "SPY",
    "direction": "BUY",
