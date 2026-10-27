@@ -1,0 +1,30 @@
+{
+ "ticker": "STRL",
+ "slug": "STRL",
+ "calls": [
+  {
+   "video_id": "BRg4GLx5hcA",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "4 Stocks I'm BUYING Before 2027",
+   "published_at": "2026-10-27T13:59:47.983704+00:00",
+   "analyzed_at": "2026-10-27T14:58:36.238317+00:00",
+   "collab": false,
+   "ticker": "STRL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "P/E 13x on 29% earnings growth, PEG well below 1 (stated); lowest analyst forecast still near a doubling (stated); no share price stated",
+   "thesis": "BUY, first tracked STRL call for Mark Roussin (no flip) — stock four of four, the one he told viewers to wait for: highest upside potential on his list and a compelling way to own the physical side of the AI build-out; Edge score 88, higher than Nvidia's.",
+   "base_case": "Revenue growth over 100%, net income up about 120%, backlog about $4.3bn, up over 115% YoY; mission-critical projects are about 92% of E-infrastructure backlog — data centres, manufacturing and semiconductor facilities.",
+   "bull_case": "Sterling builds the facilities (land development, site prep, electrical, construction) whichever chip maker wins, so it does not need to pick the semiconductor winner; he sees the AI build-out in early-to-middle innings.",
+   "bear_case": "Political pressure on data centres (he expects it to blow over after the midterms); like the other three names it shares AI-capex exposure — if big tech cuts capex several could fall together — and far fewer analysts cover it, so targets are thinner evidence."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
