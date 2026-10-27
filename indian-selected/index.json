@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T01:36:40.449190+00:00",
+ "updated": "2026-10-27T01:29:10.895014+00:00",
  "tickers": [
   {
    "ticker": "GOLD",
@@ -253,7 +253,7 @@
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
    "nCalls": 15,
-   "nVideos": 22
+   "nVideos": 23
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -264,6 +264,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "FGAdLA3or3I",
+   "title": "These 4 Businesses Have the Potential to Make You Rich! | 4 Experts | G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-25",
+   "nCalls": 0
+  },
   {
    "id": "HmhexcAhCwk",
    "title": "A Lot of Stocks Have Crashed: How to Spot Opportunities vs Traps | Rahul Jain",
