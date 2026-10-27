@@ -1,0 +1,30 @@
+{
+ "ticker": "FNV",
+ "slug": "FNV",
+ "calls": [
+  {
+   "video_id": "Bjfl_XGLv-A",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "He Called the 1987 Crash. Now He’s Calling This",
+   "published_at": "2026-10-27T22:29:42.434143+00:00",
+   "analyzed_at": "2026-10-27T23:10:18.990132+00:00",
+   "collab": false,
+   "ticker": "FNV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY, first tracked FNV call for MarketBeat (guest Dr Mark Skousen; no flip) — Franco-Nevada is the royalty company he likes and says he has moved on to: 'I like the royalty companies like Franco Nevada. FNV is one that I like,' and it is 'a better, safer way to go right now.' No share price stated.",
+   "base_case": "Royalties are based on a percentage of revenues rather than profit margins, and Franco-Nevada has a rising dividend policy — income that cushions falls in a cautious market.",
+   "bull_case": "A safer way to own gold/commodity upside while supply stays constrained: royalty names 'don't go up as fast, but they don't go down as fast either.'",
+   "bear_case": "By his own framing the trade-off is slower upside; the position still depends on gold and commodity prices, which a persistently strong dollar would pressure."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
