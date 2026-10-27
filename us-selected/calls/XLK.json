@@ -1,0 +1,30 @@
+{
+ "ticker": "XLK",
+ "slug": "XLK",
+ "calls": [
+  {
+   "video_id": "Bjfl_XGLv-A",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "He Called the 1987 Crash. Now He’s Calling This",
+   "published_at": "2026-10-27T22:29:42.434143+00:00",
+   "analyzed_at": "2026-10-27T23:10:18.990132+00:00",
+   "collab": false,
+   "ticker": "XLK",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY, first tracked XLK call for MarketBeat (guest Dr Mark Skousen, Oxford Club; no flip) — 'I recommend XLK, which is the technology fund': his preferred way to own new technology is a broad-based ETF or mutual fund because picking individual winners is luck. He says XLK has outperformed QQQ by about 30% (per year, as captioned) and has kept up with the S&P 500 this year.",
+   "base_case": "XLK holds Apple, Microsoft, Broadcom and Palantir (captions garble it as 'Palunteer') — mainly software and established tech; it does not hold Tesla or SpaceX, which he sees as high-risk, high-potential.",
+   "bull_case": "Broad diversification removes single-stock risk in a sector where winners are hard to pick in advance, while tech/AI remains, in his words, a golden age of investing technology and the main driver of the market.",
+   "bear_case": "Tech multiples are high and he is cautious overall: rising rates, stubborn inflation and high AI multiples mean investors 'have to be very careful' even in the one area still working."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
