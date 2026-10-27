@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T23:05:32.138668+00:00",
+ "updated": "2026-10-27T23:12:42.746478+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -1005,7 +1005,7 @@
   {
    "ticker": "FCX",
    "slug": "FCX",
-   "lastDate": "2026-10-06T11:00:10.331747+00:00",
+   "lastDate": "2026-10-27T22:29:42.434143+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1017,7 +1017,7 @@
     "MarketBeat"
    ],
    "lastStated": "",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "FICO",
@@ -1057,6 +1057,23 @@
    "ticker": "FN",
    "slug": "FN",
    "lastDate": "2026-10-23T22:55:21.834433+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "FNV",
+   "slug": "FNV",
+   "lastDate": "2026-10-27T22:29:42.434143+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -2740,7 +2757,7 @@
   {
    "ticker": "SCCO",
    "slug": "SCCO",
-   "lastDate": "2026-10-06T11:00:10.331747+00:00",
+   "lastDate": "2026-10-27T22:29:42.434143+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -2752,7 +2769,7 @@
     "MarketBeat"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "SCHD",
@@ -3581,6 +3598,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "XLK",
+   "slug": "XLK",
+   "lastDate": "2026-10-27T22:29:42.434143+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "ZETA",
    "slug": "ZETA",
    "lastDate": "2026-10-13T11:55:56.455117+00:00",
@@ -3654,15 +3688,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 83,
-   "nVideos": 35
+   "nCalls": 87,
+   "nVideos": 36
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
    "nCalls": 157,
-   "nVideos": 157
+   "nVideos": 158
   },
   {
    "name": "The German Value Investor",
@@ -3673,6 +3707,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "Bjfl_XGLv-A",
+   "title": "He Called the 1987 Crash. Now He’s Calling This",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-27T22:29:42.434143+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "up1uEdQagQ0",
+   "title": "Anthropic Delivers Massive News to Stock Market Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-27T21:58:42.434143+00:00",
+   "nCalls": 0
+  },
   {
    "id": "ICzMBBM5kak",
    "title": "I Said I’d Decide After Earnings. Here’s What I’m Doing With SoFi",
