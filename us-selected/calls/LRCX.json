@@ -1,0 +1,30 @@
+{
+ "ticker": "LRCX",
+ "slug": "LRCX",
+ "calls": [
+  {
+   "video_id": "BRg4GLx5hcA",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "4 Stocks I'm BUYING Before 2027",
+   "published_at": "2026-10-27T13:59:47.983704+00:00",
+   "analyzed_at": "2026-10-27T14:58:36.238317+00:00",
+   "collab": false,
+   "ticker": "LRCX",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "forward P/E just shy of 24x on 2027 earnings growth of 65% expected (stated); analyst average target $375, over 50% upside (stated); definite-buy trigger about 22x forward or lower (stated)",
+   "thesis": "CONDITIONAL_BUY, first tracked LRCX call for Mark Roussin (no flip) — stock three of four: Lam Research (captions garble it as 'Lamb Research'). He is increasingly interested after a >10% post-earnings sell-off and says 'if it continues to fall into around 22 times or even lower, I'm definitely buying before 2027.'",
+   "base_case": "September quarter revenue about $8.2bn, up about 54% YoY, adjusted EPS $2.20, operating margins about 40% — record revenue and profitability; biggest customers Micron, SK Hynix and TSMC are all rushing to add capacity; Edge score 78, shares still up 51% over 12 months.",
+   "bull_case": "More complex chips need more etching/deposition equipment, so AI chip demand directly creates equipment demand; capacity, not demand, is the bottleneck for its customers.",
+   "bear_case": "December guidance about $8.6bn disappointed versus expectations; supply-chain constraints may limit near-term shipments, and China was about 35% of September revenue with that share expected to decline significantly in December."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
