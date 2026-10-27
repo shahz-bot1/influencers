@@ -4,6 +4,38 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "PG",
+   "tickerSlug": "PG",
+   "direction": "BUY",
+   "date": "2026-10-27T16:00:06.191687+00:00",
+   "price": "$166 per share (stated); updated DCF fair value $163 per share (stated)",
+   "video_id": "os1bRgXotuY"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-10-27T14:45:47.983704+00:00",
+   "price": "DCF fair value $913 (stated); forward P/E 21 (stated); 40%+ upside over 12-18 months (stated); current price drops out of the auto-captions",
+   "video_id": "MFKKNTh8Lr8"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-10-27T11:55:47.983704+00:00",
+   "price": "DCF fair value $83.50 (stated) vs $55 current (stated), about 52% upside; forward price/sales a fraction of Nebius's (exact figure drops out of captions)",
+   "video_id": "qn1sZcuek6Y"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-10-27T11:55:47.983704+00:00",
+   "price": "DCF fair value $248 (stated) vs $160 current (stated), about 55% upside; forward price/sales 3.5 (stated)",
+   "video_id": "qn1sZcuek6Y"
+  },
+  {
    "ticker": "PINS",
    "tickerSlug": "PINS",
    "direction": "BUY",
