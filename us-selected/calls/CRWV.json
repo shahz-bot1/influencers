@@ -3,6 +3,24 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "qn1sZcuek6Y",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy CoreWeave Stock Instead of Nebius Stock? | CRWV STock vs. NBIS STock",
+   "published_at": "2026-10-27T11:55:47.983704+00:00",
+   "analyzed_at": "2026-10-27T14:58:36.238317+00:00",
+   "collab": false,
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF fair value $83.50 (stated) vs $55 current (stated), about 52% upside; forward price/sales a fraction of Nebius's (exact figure drops out of captions)",
+   "thesis": "BUY reiterated (was BUY 2026-10-15; no flip) — both names are ranked a buying opportunity in a close head-to-head call; the name of his final pick drops out of the captions (file ends mid-sentence), so no winner is recorded. High-risk-tolerance investors only.",
+   "base_case": "Trailing revenue $7.6bn, up from about $1.5bn; analyst estimates $13bn in 2026 rising roughly 3-4x to about $43bn in later years, with a backlog in the billions that needs more data-centre capacity to serve.",
+   "bull_case": "Demand exceeds supply, likely through 2027, and lease demand/pricing remain strong while capacity is built.",
+   "bear_case": "Balance sheet is the main concern: over $51bn of debt and little cash versus its spending plans; industry oversupply risk from 2029-2032 after trillions of build-out, with debt-funded assets exposed if pricing falls."
+  },
+  {
    "video_id": "-WLGFBndtqg",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -57,16 +75,16 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
