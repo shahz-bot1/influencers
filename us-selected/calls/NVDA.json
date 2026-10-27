@@ -3,6 +3,24 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "BRg4GLx5hcA",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "4 Stocks I'm BUYING Before 2027",
+   "published_at": "2026-10-27T13:59:47.983704+00:00",
+   "analyzed_at": "2026-10-27T14:58:36.238317+00:00",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "was $240 a few weeks ago, dropped below $210 last week (stated); forward P/E 13x on next-fiscal-year EPS $9.28 (stated); analyst average target about $340, over 50% upside (stated)",
+   "thesis": "BUY reiterated (was BUY 2026-10-18; no flip) — stock one of four he is buying before 2027: 'one of the easiest buys in the market right now', a name he is most interested in accumulating as retail investors get shaken out while earnings keep growing.",
+   "base_case": "Nearly $100bn quarterly revenue, data centre about $89bn, up about 120% YoY; orders run through calendar 2027 and into 2028; Edge score 86; stock up roughly 10% over 12 months with higher highs/lows since April.",
+   "bull_case": "Full computing ecosystem (accelerators, networking, software, integrated systems), not just GPUs; AI demand could be large enough to support several winners and Nvidia remains extremely well positioned; earnings nearly doubling this year and +70% the next on his figures.",
+   "bear_case": "Competition is rising — AMD accelerators, hyperscaler custom chips, and Broadcom/Marvell benefiting from that trend — which he acknowledges, though he does not see it as winner-take-all."
+  },
+  {
    "video_id": "qCSyXwoQdA0",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -307,19 +325,19 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "BWB - Business With Brian",
    "idx": 3
   }
  ]
