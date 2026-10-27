@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T23:06:34.080504+00:00",
+ "updated": "2026-10-27T23:05:32.138668+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -192,12 +192,12 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-10-18T22:55:45.214166+00:00",
+   "lastDate": "2026-10-27T13:59:47.983704+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": null
+     "avg": "$32.8"
     },
     {
      "dir": "HOLD",
@@ -206,13 +206,13 @@
     }
    ],
    "influencers": [
-    "MarketBeat",
     "Mark Roussin CPA",
+    "MarketBeat",
     "Couch Investor",
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "~$1T market cap (stated, just under; no share price stated)",
-   "nCalls": 13
+   "lastStated": "forward P/E 32.8x (stated); analyst average target about $615, over 15% upside (",
+   "nCalls": 14
   },
   {
    "ticker": "AMZN",
@@ -737,12 +737,12 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-10-25T13:58:25.731154+00:00",
+   "lastDate": "2026-10-27T11:55:47.983704+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$66"
+     "avg": "$83.5"
     },
     {
      "dir": "AVOID",
@@ -751,12 +751,12 @@
     }
    ],
    "influencers": [
-    "Couch Investor",
     "Parkevtate Vosianc CFA",
+    "Couch Investor",
     "MarketBeat"
    ],
-   "lastStated": "$66 (stated, after ~14.5% drop); DCF fair value $81 (stated)",
-   "nCalls": 3
+   "lastStated": "DCF fair value $83.50 (stated) vs $55 current (stated), about 52% upside; forwar",
+   "nCalls": 4
   },
   {
    "ticker": "CSCO",
@@ -1616,6 +1616,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "LRCX",
+   "slug": "LRCX",
+   "lastDate": "2026-10-27T13:59:47.983704+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$24"
+    }
+   ],
+   "influencers": [
+    "Mark Roussin CPA"
+   ],
+   "lastStated": "forward P/E just shy of 24x on 2027 earnings growth of 65% expected (stated); an",
+   "nCalls": 1
+  },
+  {
    "ticker": "LSCC",
    "slug": "LSCC",
    "lastDate": "2026-10-04T15:59:59.567519+00:00",
@@ -1759,12 +1776,12 @@
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-10-26T10:55:40.115423+00:00",
+   "lastDate": "2026-10-27T14:45:47.983704+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$644"
+     "avg": "$777.5"
     },
     {
      "dir": "HOLD",
@@ -1777,8 +1794,8 @@
     "Couch Investor",
     "Joseph Carlson After Hours"
    ],
-   "lastStated": "trading at $646 (stated); ~46% undervalued on his DCF (fair-value figure dropped",
-   "nCalls": 13
+   "lastStated": "DCF fair value $913 (stated); forward P/E 21 (stated); 40%+ upside over 12-18 mo",
+   "nCalls": 14
   },
   {
    "ticker": "MMM",
@@ -1962,12 +1979,12 @@
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-10-25T14:54:52.493669+00:00",
+   "lastDate": "2026-10-27T11:55:47.983704+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 3,
-     "avg": "$160"
+     "avg": "$204"
     },
     {
      "dir": "AVOID",
@@ -1976,13 +1993,13 @@
     }
    ],
    "influencers": [
-    "Couch Investor",
     "Parkevtate Vosianc CFA",
+    "Couch Investor",
     "MarketBeat",
     "BWB - Business With Brian"
    ],
-   "lastStated": "$160 (stated, bought 10 extra shares)",
-   "nCalls": 13
+   "lastStated": "DCF fair value $248 (stated) vs $160 current (stated), about 55% upside; forward",
+   "nCalls": 14
   },
   {
    "ticker": "NFLX",
@@ -2139,22 +2156,22 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-10-26T10:55:40.115423+00:00",
+   "lastDate": "2026-10-27T13:59:47.983704+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$83.17"
+     "avg": "$158.67"
     }
    ],
    "influencers": [
+    "Mark Roussin CPA",
     "Parkevtate Vosianc CFA",
     "Couch Investor",
-    "BWB - Business With Brian",
-    "Mark Roussin CPA"
+    "BWB - Business With Brian"
    ],
-   "lastStated": "trading at $213 (stated); his DCF fair value $345/share (stated), ~62% undervalu",
-   "nCalls": 20
+   "lastStated": "was $240 a few weeks ago, dropped below $210 last week (stated); forward P/E 13x",
+   "nCalls": 21
   },
   {
    "ticker": "NVO",
@@ -2406,19 +2423,19 @@
   {
    "ticker": "PG",
    "slug": "PG",
-   "lastDate": "2026-09-29T11:59:59.109610+00:00",
+   "lastDate": "2026-10-27T16:00:06.191687+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$146"
+     "avg": "$166"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "$146 (stated)",
-   "nCalls": 1
+   "lastStated": "$166 per share (stated); updated DCF fair value $163 per share (stated)",
+   "nCalls": 2
   },
   {
    "ticker": "PINS",
@@ -2866,12 +2883,17 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-10-26T17:00:06.649805+00:00",
+   "lastDate": "2026-10-27T17:00:06.191687+00:00",
    "chips": [
     {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$16"
+    },
+    {
      "dir": "CONDITIONAL_BUY",
-     "n": 2,
-     "avg": "$14.91"
+     "n": 1,
+     "avg": "$14.82"
     },
     {
      "dir": "HOLD",
@@ -2884,8 +2906,8 @@
     "Parkevtate Vosianc CFA",
     "MarketBeat"
    ],
-   "lastStated": "trading under $15 (stated); down ~50% over 12 months, ~55% drawdown from peak; m",
-   "nCalls": 7
+   "lastStated": "~$16-$16.40 (stated, trading today); stock up ~13% at time of recording (stated)",
+   "nCalls": 8
   },
   {
    "ticker": "SPCX",
@@ -2926,6 +2948,23 @@
    ],
    "lastStated": "$403 (stated market; DCF fair value $311)",
    "nCalls": 3
+  },
+  {
+   "ticker": "STRL",
+   "slug": "STRL",
+   "lastDate": "2026-10-27T13:59:47.983704+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$13"
+    }
+   ],
+   "influencers": [
+    "Mark Roussin CPA"
+   ],
+   "lastStated": "P/E 13x on 29% earnings growth, PEG well below 1 (stated); lowest analyst foreca",
+   "nCalls": 1
   },
   {
    "ticker": "T",
@@ -3594,8 +3633,8 @@
    "name": "Couch Investor",
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
-   "nCalls": 78,
-   "nVideos": 58
+   "nCalls": 79,
+   "nVideos": 59
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -3608,8 +3647,8 @@
    "name": "Mark Roussin CPA",
    "handle": "@markroussincpa",
    "slug": "Mark_Roussin_CPA",
-   "nCalls": 47,
-   "nVideos": 17
+   "nCalls": 51,
+   "nVideos": 18
   },
   {
    "name": "MarketBeat",
@@ -3622,8 +3661,8 @@
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 153,
-   "nVideos": 154
+   "nCalls": 157,
+   "nVideos": 157
   },
   {
    "name": "The German Value Investor",
@@ -3634,6 +3673,56 @@
   }
  ],
  "videos": [
+  {
+   "id": "ICzMBBM5kak",
+   "title": "I Said I’d Decide After Earnings. Here’s What I’m Doing With SoFi",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-27T17:00:06.191687+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "os1bRgXotuY",
+   "title": "Procter & Gamble is Accelerating Revenue Growth as its Costs are Rising",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-27T16:00:06.191687+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "MFKKNTh8Lr8",
+   "title": "Meta Stock Analysis: Buy or Sell? (My Final Verdict)",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-27T14:45:47.983704+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "BRg4GLx5hcA",
+   "title": "4 Stocks I'm BUYING Before 2027",
+   "creator": "Mark Roussin CPA",
+   "channels": [
+    "Mark Roussin CPA"
+   ],
+   "published_at": "2026-10-27T13:59:47.983704+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "qn1sZcuek6Y",
+   "title": "Should Investors Buy CoreWeave Stock Instead of Nebius Stock? | CRWV STock vs. NBIS STock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-27T11:55:47.983704+00:00",
+   "nCalls": 2
+  },
   {
    "id": "n-JvcqJ5-oE",
    "title": "Anthropic Just Released Their Financials… The Numbers Are Insane",
