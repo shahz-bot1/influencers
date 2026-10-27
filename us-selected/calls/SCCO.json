@@ -3,6 +3,24 @@
  "slug": "SCCO",
  "calls": [
   {
+   "video_id": "Bjfl_XGLv-A",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "He Called the 1987 Crash. Now He’s Calling This",
+   "published_at": "2026-10-27T22:29:42.434143+00:00",
+   "analyzed_at": "2026-10-27T23:10:18.990132+00:00",
+   "collab": false,
+   "ticker": "SCCO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated for MarketBeat (guest Dr Mark Skousen; was BUY in an earlier MarketBeat video, no flip) — Southern Copper is one of two copper names he calls 'great companies': 'if you want something a little more conservative, I think going into the copper stocks is the way to go.' No share price stated; copper itself is at an all-time high approaching $7 a pound (stated).",
+   "base_case": "Copper demand is being driven by data centres and by an ageing national infrastructure that has to be rebuilt, including chips and electrical build-out.",
+   "bull_case": "Supply is strained: very few new copper mines exist, so higher demand meets limited supply — he thinks copper prices can keep rising well beyond current levels.",
+   "bear_case": "A strong dollar (if interest rates keep rising) hurts the mining industry generally; metal prices are volatile and other guests have warned copper may not be near a top — or may be extended after a wild run."
+  },
+  {
    "video_id": "mkV5w37RI8M",
    "channel": "MarketBeat",
    "video_title": "Dan Ferris: Copper Could Double—and He Says You Have to Own It | SIH",
