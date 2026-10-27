@@ -1,0 +1,45 @@
+{
+ "video_id": "qn1sZcuek6Y",
+ "title": "Should Investors Buy CoreWeave Stock Instead of Nebius Stock? | CRWV STock vs. NBIS STock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-27T11:55:47.983704+00:00",
+ "summary": "Parkevtate Vosianc compares two beaten-down neocloud names head to head, CoreWeave and Nebius, on growth, balance sheet and valuation, and stresses that both suit high-risk-tolerance investors only. CoreWeave's trailing revenue is $7.6 billion, up from about $1.5 billion, with analyst estimates of $13 billion in 2026 rising roughly three to four times to about $43 billion in later years, backed by a backlog in the billions that needs more data-centre capacity to serve. His DCF for CoreWeave is $83.50 against a $55 current price, about 52% upside. Nebius is forecast to grow revenue from $3.3 billion this year to $22.9 billion in later years; his DCF is $248 against $160, about 55% upside, on a forward price/sales of 3.5. The decisive difference, he argues, is the balance sheet: Nebius holds $10 billion of long-term debt and over $8 billion of cash and short-term investments, while CoreWeave carries over $51 billion of debt with little cash. Demand should exceed supply through 2027 for both, but he warns of a possible industry glut from 2029 to 2032 after trillions of build-out, with debt-funded assets exposed if pricing falls. The calls are CRWV — BUY reiterated and NBIS — BUY reiterated. The caption file ends mid-sentence, so the name of his final pick drops out and no winner is recorded.",
+ "calls": [
+  {
+   "video_id": "qn1sZcuek6Y",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy CoreWeave Stock Instead of Nebius Stock? | CRWV STock vs. NBIS STock",
+   "published_at": "2026-10-27T11:55:47.983704+00:00",
+   "analyzed_at": "2026-10-27T14:58:36.238317+00:00",
+   "collab": false,
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF fair value $83.50 (stated) vs $55 current (stated), about 52% upside; forward price/sales a fraction of Nebius's (exact figure drops out of captions)",
+   "thesis": "BUY reiterated (was BUY 2026-10-15; no flip) — both names are ranked a buying opportunity in a close head-to-head call; the name of his final pick drops out of the captions (file ends mid-sentence), so no winner is recorded. High-risk-tolerance investors only.",
+   "base_case": "Trailing revenue $7.6bn, up from about $1.5bn; analyst estimates $13bn in 2026 rising roughly 3-4x to about $43bn in later years, with a backlog in the billions that needs more data-centre capacity to serve.",
+   "bull_case": "Demand exceeds supply, likely through 2027, and lease demand/pricing remain strong while capacity is built.",
+   "bear_case": "Balance sheet is the main concern: over $51bn of debt and little cash versus its spending plans; industry oversupply risk from 2029-2032 after trillions of build-out, with debt-funded assets exposed if pricing falls."
+  },
+  {
+   "video_id": "qn1sZcuek6Y",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy CoreWeave Stock Instead of Nebius Stock? | CRWV STock vs. NBIS STock",
+   "published_at": "2026-10-27T11:55:47.983704+00:00",
+   "analyzed_at": "2026-10-27T14:58:36.238317+00:00",
+   "collab": false,
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF fair value $248 (stated) vs $160 current (stated), about 55% upside; forward price/sales 3.5 (stated)",
+   "thesis": "BUY reiterated (was BUY 2026-10-25, after the HOLD-to-BUY flip that day; no flip now) — both names are ranked a buying opportunity; he upgraded Nebius on 23 Oct and stresses its balance sheet is substantially better than CoreWeave's. High-risk-tolerance investors only.",
+   "base_case": "Analyst estimates $3.3bn revenue this year exploding to $22.9bn in later forecast years; growth has been phenomenal looking back and is expected to persist.",
+   "bull_case": "Substantially stronger balance sheet: $10bn long-term debt and over $8bn cash and short-term investments, versus CoreWeave's $51bn+ debt — it can sustain longer without returning to investors for money.",
+   "bear_case": "Same industry risk as CoreWeave: possible glut from 2029 onward, heavy borrowing across the sector to build capacity, and premium pricing may not survive once supply catches up."
+  }
+ ]
+}
