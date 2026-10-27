@@ -4,6 +4,38 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-27T13:59:47.983704+00:00",
+   "price": "was $240 a few weeks ago, dropped below $210 last week (stated); forward P/E 13x on next-fiscal-year EPS $9.28 (stated); analyst average target about $340, over 50% upside (stated)",
+   "video_id": "BRg4GLx5hcA"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-10-27T13:59:47.983704+00:00",
+   "price": "forward P/E 32.8x (stated); analyst average target about $615, over 15% upside (stated), high target $1,250; he believes it is a $1,000 stock in the very near future",
+   "video_id": "BRg4GLx5hcA"
+  },
+  {
+   "ticker": "LRCX",
+   "tickerSlug": "LRCX",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-27T13:59:47.983704+00:00",
+   "price": "forward P/E just shy of 24x on 2027 earnings growth of 65% expected (stated); analyst average target $375, over 50% upside (stated); definite-buy trigger about 22x forward or lower (stated)",
+   "video_id": "BRg4GLx5hcA"
+  },
+  {
+   "ticker": "STRL",
+   "tickerSlug": "STRL",
+   "direction": "BUY",
+   "date": "2026-10-27T13:59:47.983704+00:00",
+   "price": "P/E 13x on 29% earnings growth, PEG well below 1 (stated); lowest analyst forecast still near a doubling (stated); no share price stated",
+   "video_id": "BRg4GLx5hcA"
+  },
+  {
    "ticker": "SCHD",
    "tickerSlug": "SCHD",
    "direction": "BUY",
