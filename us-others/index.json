@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T04:58:35.121728+00:00",
+ "updated": "2026-10-27T04:58:12.221204+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -2204,7 +2204,7 @@
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
    "nCalls": 11,
-   "nVideos": 6
+   "nVideos": 7
   },
   {
    "name": "Everything Money",
@@ -2257,6 +2257,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "lbF1dMRllI4",
+   "title": "Anthopic's S1 Just Saved The AI Trade - What You Need To Know",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-10-26T20:55:44.029345+00:00",
+   "nCalls": 0
+  },
   {
    "id": "WCBrbbiIGKA",
    "title": "NVIDIA Stock Is Crashing...But AI Demand Is NOT Slowing Down!!",
