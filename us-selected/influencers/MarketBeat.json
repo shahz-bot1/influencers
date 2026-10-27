@@ -4,6 +4,38 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "XLK",
+   "tickerSlug": "XLK",
+   "direction": "BUY",
+   "date": "2026-10-27T22:29:42.434143+00:00",
+   "price": null,
+   "video_id": "Bjfl_XGLv-A"
+  },
+  {
+   "ticker": "SCCO",
+   "tickerSlug": "SCCO",
+   "direction": "BUY",
+   "date": "2026-10-27T22:29:42.434143+00:00",
+   "price": null,
+   "video_id": "Bjfl_XGLv-A"
+  },
+  {
+   "ticker": "FCX",
+   "tickerSlug": "FCX",
+   "direction": "BUY",
+   "date": "2026-10-27T22:29:42.434143+00:00",
+   "price": null,
+   "video_id": "Bjfl_XGLv-A"
+  },
+  {
+   "ticker": "FNV",
+   "tickerSlug": "FNV",
+   "direction": "BUY",
+   "date": "2026-10-27T22:29:42.434143+00:00",
+   "price": null,
+   "video_id": "Bjfl_XGLv-A"
+  },
+  {
    "ticker": "ALM",
    "tickerSlug": "ALM",
    "direction": "BUY",
