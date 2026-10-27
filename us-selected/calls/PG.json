@@ -3,6 +3,24 @@
  "slug": "PG",
  "calls": [
   {
+   "video_id": "os1bRgXotuY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Procter & Gamble is Accelerating Revenue Growth as its Costs are Rising",
+   "published_at": "2026-10-27T16:00:06.191687+00:00",
+   "analyzed_at": "2026-10-27T19:01:46.591997+00:00",
+   "collab": false,
+   "ticker": "PG",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$166 per share (stated); updated DCF fair value $163 per share (stated)",
+   "thesis": "BUY reiterated, high confidence (was BUY 29 Sep; no flip) — excellent investment at current prices for a 5-10 year hold, one of the best-managed companies he follows; fairly valued on his DCF and on forward P/E, well within his margin of safety.",
+   "base_case": "Revenue growth accelerated to 4%, all from price increases with volume +2.4 points despite six years of price rises — against a consumer trade-down trend; near-record operating margin over the trailing 12 months; ROIC stepped up to ~17%+ since reopening vs 10-12% in 2017-19; stock up 15.5% plus dividends in 2026.",
+   "bull_case": "Historic operating leverage: ~3% revenue growth has typically delivered 6%+ EPS growth when costs stay flat; analysts expect ~5% EPS growth over the next few years, with productivity / efficiency and selective price rises offsetting input costs.",
+   "bear_case": "Bottom line pressured by rising commodity, energy and freight costs, especially in North America — costs rising faster than usual on the Iran war, tariffs and geopolitical shipping costs, in a weak consumer-spending environment."
+  },
+  {
    "ticker": "PG",
    "direction": "BUY",
    "thesis": "DCF fair value not captured in captions; $146 market price with 14% upside in 12-18 months; called one of the best-managed companies he follows with a brand engine that should run for decades.",
