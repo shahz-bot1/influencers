@@ -3,6 +3,24 @@
  "slug": "FCX",
  "calls": [
   {
+   "video_id": "Bjfl_XGLv-A",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "He Called the 1987 Crash. Now He’s Calling This",
+   "published_at": "2026-10-27T22:29:42.434143+00:00",
+   "analyzed_at": "2026-10-27T23:10:18.990132+00:00",
+   "collab": false,
+   "ticker": "FCX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated for MarketBeat (guest Dr Mark Skousen; was BUY in earlier MarketBeat videos, no flip) — Freeport-McMoRan (captions render it 'Freeport Macmaran') is the second copper name he calls a great company and part of 'the way to go' for a more conservative resources position. No share price stated.",
+   "base_case": "Same copper base case as Southern Copper: data-centre and infrastructure demand against very few new mines; copper approaching $7 a pound, an all-time high (stated).",
+   "bull_case": "Limited supply across copper, platinum, gold and silver with demand rising gives miners pricing power if commodity prices hold or spike.",
+   "bear_case": "Strong-dollar / higher-rate risk to miners; commodity cyclicality — he himself notes resource names can fall hard (his Kinross example fell 50% this year after a near-300% rise)."
+  },
+  {
    "video_id": "mkV5w37RI8M",
    "channel": "MarketBeat",
    "video_title": "Dan Ferris: Copper Could Double—and He Says You Have to Own It | SIH",
