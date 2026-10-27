@@ -3,6 +3,24 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "qn1sZcuek6Y",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy CoreWeave Stock Instead of Nebius Stock? | CRWV STock vs. NBIS STock",
+   "published_at": "2026-10-27T11:55:47.983704+00:00",
+   "analyzed_at": "2026-10-27T14:58:36.238317+00:00",
+   "collab": false,
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF fair value $248 (stated) vs $160 current (stated), about 55% upside; forward price/sales 3.5 (stated)",
+   "thesis": "BUY reiterated (was BUY 2026-10-25, after the HOLD-to-BUY flip that day; no flip now) — both names are ranked a buying opportunity; he upgraded Nebius on 23 Oct and stresses its balance sheet is substantially better than CoreWeave's. High-risk-tolerance investors only.",
+   "base_case": "Analyst estimates $3.3bn revenue this year exploding to $22.9bn in later forecast years; growth has been phenomenal looking back and is expected to persist.",
+   "bull_case": "Substantially stronger balance sheet: $10bn long-term debt and over $8bn cash and short-term investments, versus CoreWeave's $51bn+ debt — it can sustain longer without returning to investors for money.",
+   "bear_case": "Same industry risk as CoreWeave: possible glut from 2029 onward, heavy borrowing across the sector to build capacity, and premium pricing may not survive once supply catches up."
+  },
+  {
    "video_id": "TXQ8h7gfyMY",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -225,20 +243,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 10
+   "idx": 11
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 12
+   "idx": 13
   }
  ]
 }
