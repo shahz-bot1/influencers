@@ -1,0 +1,27 @@
+{
+ "video_id": "ICzMBBM5kak",
+ "title": "I Said I’d Decide After Earnings. Here’s What I’m Doing With SoFi",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-27T17:00:06.191687+00:00",
+ "summary": "Couch Investor delivers the decision he promised before earnings: what he will do with SoFi, already a quite big position, after its third quarter. He says SoFi beat across the board and the stock was up about 13% at the time of recording, trading around $16–$16.40. Revenue grew 44% year over year, adjusted EBITDA was $470 million at a 34% margin, adjusted net income was $243 million, and originations hit a record $16.9 billion, up 71%. Management raised full-year 2026 guidance to 40% revenue growth and gave a 2027 outlook of revenue up 27%, an adjusted EBITDA margin of 35% and adjusted EPS of $0.90, funded without raising capital; segment guidance has lending up 25% in 2027, the tech platform up 25% and financial services up 35% or more. He argues SoFi historically beats and raises its own targets, so 2028 EPS could reach about $1.30 against a target range around $1.12 if the macro backdrop improves. His cautions are macro: the guidance assumes up to two more rate hikes in 2026 and two in 2027, and a fourth-quarter lending dip and credit-card losses were not explained on the call. He calls the stock undervalued and cheap on his free DCF model. The call is SOFI — BUY, a stance flip from CONDITIONAL_BUY on 26 October, the pre-earnings condition having been met.",
+ "calls": [
+  {
+   "video_id": "ICzMBBM5kak",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Said I'd Decide After Earnings. Here's What I'm Doing With SoFi",
+   "published_at": "2026-10-27T17:00:06.191687+00:00",
+   "analyzed_at": "2026-10-27T19:01:46.591997+00:00",
+   "collab": false,
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "CONDITIONAL_BUY -> BUY (condition met)",
+   "price_at_call": "~$16-$16.40 (stated, trading today); stock up ~13% at time of recording (stated)",
+   "thesis": "BUY — flip from CONDITIONAL_BUY on 26 Oct (was HOLD before that): his pre-earnings condition is met after a beats-across-the-board Q3, so he will increase his already quite big position; stock is undervalued / cheap and should already be much higher, under his free DCF.",
+   "base_case": "Revenue +44% YoY, adjusted EBITDA $470m at 34% margin, adjusted net income $243m at 18% margin; record originations $16.9bn (+71% YoY); FY26 guidance raised to 40% YoY growth; 2027 outlook given: revenue +27%, adjusted EBITDA margin 35%, adjusted EPS $0.90, funded without raising capital.",
+   "bull_case": "2028 EPS could reach ~$1.30 vs the $1.12 target range if macro improves, as SoFi historically beats and raises its own targets; lending guided +25% in 2027, tech platform +25%, financial services +35%+.",
+   "bear_case": "Macro / Fed risk: guidance assumes up to two more rate hikes in 2026 and two in 2027; Q4 lending dip and credit-card losses were not explained on the call; if macro worsens, targets and the multiple come under pressure."
+  }
+ ]
+}
