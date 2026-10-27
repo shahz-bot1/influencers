@@ -1,0 +1,27 @@
+{
+ "video_id": "MFKKNTh8Lr8",
+ "title": "Meta Stock Analysis: Buy or Sell? (My Final Verdict)",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-27T14:45:47.983704+00:00",
+ "summary": "Parkevtate Vosianc gives his final verdict on Meta after earnings, asking whether he will add to or sell a position he counts among his larger holdings. Revenue rose 26% year over year to $64.2 billion, as ad impressions rose 10%, the average price per ad increased, and engagement improved, all delivered with 12% fewer employees — evidence, he argues, that AI-driven targeting and productivity are lifting the core business. The stock first jumped about 4% after hours, then fell as much as 8% the next day. His main concern is the pace of investment: free cash flow turned negative at -$2.1 billion in the quarter, and he models -$10 billion this year, -$41 billion next year and -$3 billion the year after, turning positive only from 2029. The balance sheet shows $82.4 billion of cash and marketable securities against $83.7 billion of debt, with capex over $135 billion this year and an estimated $150–175 billion next year. Other risks he names are dilution and a possible Zuckerberg stock sale for a California billionaire tax. Against that, Q4 revenue is guided to about $74.5 billion at the midpoint, and the Muse personal agent is succeeding before monetisation. His updated DCF is $913, the forward P/E is 21, and he sees 40%+ upside over 12–18 months. The call is META — BUY reiterated, ranked a top-10 best stock to buy. Some figures, including the current price and the exact price-per-ad increase, drop out of the auto-captions.",
+ "calls": [
+  {
+   "video_id": "MFKKNTh8Lr8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Meta Stock Analysis: Buy or Sell? (My Final Verdict)",
+   "published_at": "2026-10-27T14:45:47.983704+00:00",
+   "analyzed_at": "2026-10-27T14:58:36.238317+00:00",
+   "collab": false,
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF fair value $913 (stated); forward P/E 21 (stated); 40%+ upside over 12-18 months (stated); current price drops out of the auto-captions",
+   "thesis": "BUY reiterated (was BUY 2026-10-26; no flip) — he reiterates Meta as a top-10 / one of the best stocks you can buy right now and holds it as one of his larger positions, after updating his DCF for the post-earnings fall (stock +4% after-hours, then -8% the next day).",
+   "base_case": "Revenue $64.2bn, up 26% YoY; ad impressions +10% with higher price per ad and engagement, delivered with 12% fewer employees; Q4 revenue guided to about $74.5bn at the midpoint.",
+   "bull_case": "AI-driven ad targeting and productivity are lifting the core business; Muse personal agent is already succeeding (not yet monetised) and management expects >10x serving-efficiency improvement next year from off-peak use, more efficient models and inference optimisation.",
+   "bear_case": "Free cash flow turned negative (-$2.1bn in the quarter); he now models -$10bn this year, -$41bn next year and -$3bn the year after, positive only from 2029 ($60bn+). Cash $82.4bn vs $83.7bn debt, capex over $135bn this year and an estimated $150-175bn next year; dilution concerns from a new share class and a possible Zuckerberg stock sale for a California billionaire tax."
+  }
+ ]
+}
