@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T23:12:42.746478+00:00",
+ "updated": "2026-10-28T23:05:51.935764+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -248,12 +248,12 @@
   {
    "ticker": "APLD",
    "slug": "APLD",
-   "lastDate": "2026-10-16T05:55:29.280250+00:00",
+   "lastDate": "2026-10-28T11:55:55.685752+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$20.22"
+     "avg": "$26.53"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -265,8 +265,8 @@
     "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "$20.22 (stated current, after 10% fall on the day); fair value $26.50 (stated, ~",
-   "nCalls": 3
+   "lastStated": "DCF fair value $26.53 (stated); current price figure dropped out of auto-caption",
+   "nCalls": 4
   },
   {
    "ticker": "ARKQ",
@@ -433,19 +433,19 @@
   {
    "ticker": "BKNG",
    "slug": "BKNG",
-   "lastDate": "2026-10-07T09:59:45.041989+00:00",
+   "lastDate": "2026-10-28T16:00:02.303782+00:00",
    "chips": [
     {
-     "dir": "HOLD",
+     "dir": "BUY",
      "n": 1,
-     "avg": "$162"
+     "avg": "$158"
     }
    ],
    "influencers": [
     "The German Value Investor"
    ],
-   "lastStated": "$162 (stated; his buy limit $136)",
-   "nCalls": 1
+   "lastStated": "~$158 (stated); buy limit $130 for a larger entry (stated)",
+   "nCalls": 2
   },
   {
    "ticker": "CASY",
@@ -1406,12 +1406,12 @@
   {
    "ticker": "IREN",
    "slug": "IREN",
-   "lastDate": "2026-10-16T00:55:33.910850+00:00",
+   "lastDate": "2026-10-28T11:55:55.685752+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$30.56"
+     "avg": "$25"
     },
     {
      "dir": "AVOID",
@@ -1423,8 +1423,8 @@
     "Parkevtate Vosianc CFA",
     "MarketBeat"
    ],
-   "lastStated": "$30.56 (stated current); DCF fair value $46 (stated, ~50% upside)",
-   "nCalls": 2
+   "lastStated": "$25 (stated current); DCF fair value $46 (stated, ~84% undervalued)",
+   "nCalls": 3
   },
   {
    "ticker": "IWM",
@@ -1441,6 +1441,23 @@
     "MarketBeat"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "JD",
+   "slug": "JD",
+   "lastDate": "2026-10-28T16:00:02.303782+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$25"
+    }
+   ],
+   "influencers": [
+    "The German Value Investor"
+   ],
+   "lastStated": "~$25 (stated, ~€22.50); buy limit ~$44 (stated)",
    "nCalls": 1
   },
   {
@@ -1686,19 +1703,19 @@
   {
    "ticker": "LVMH",
    "slug": "LVMH",
-   "lastDate": "2026-10-17T14:00:07.664117+00:00",
+   "lastDate": "2026-10-28T16:00:02.303782+00:00",
    "chips": [
     {
-     "dir": "CONDITIONAL_BUY",
+     "dir": "BUY",
      "n": 1,
-     "avg": "$380"
+     "avg": "$390"
     }
    ],
    "influencers": [
     "The German Value Investor"
    ],
-   "lastStated": "€380 (stated current, just under €400; -58% from the 2023 ~€900 all-time high); ",
-   "nCalls": 1
+   "lastStated": "Just under €390 (stated); would add more below €333 (stated)",
+   "nCalls": 2
   },
   {
    "ticker": "MA",
@@ -2021,27 +2038,27 @@
   {
    "ticker": "NFLX",
    "slug": "NFLX",
-   "lastDate": "2026-10-23T13:31:17.261892+00:00",
+   "lastDate": "2026-10-28T16:00:02.303782+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 2,
+     "n": 3,
      "avg": "$4"
     },
     {
      "dir": "HOLD",
-     "n": 2,
-     "avg": "$72"
+     "n": 1,
+     "avg": null
     }
    ],
    "influencers": [
+    "The German Value Investor",
     "Parkevtate Vosianc CFA",
     "Joseph Carlson After Hours",
-    "Couch Investor",
-    "The German Value Investor"
+    "Couch Investor"
    ],
-   "lastStated": "FV cut by ~$4/share (stated); exact new FV figure dropped in captions; says stoc",
-   "nCalls": 16
+   "lastStated": "Small add: 4 -> 6 shares, ~€116 total; position ~1% weight, down ~4%",
+   "nCalls": 17
   },
   {
    "ticker": "NICE",
@@ -2173,22 +2190,22 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-10-27T13:59:47.983704+00:00",
+   "lastDate": "2026-10-28T12:55:55.685752+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$158.67"
+     "avg": "$92.2"
     }
    ],
    "influencers": [
-    "Mark Roussin CPA",
     "Parkevtate Vosianc CFA",
+    "Mark Roussin CPA",
     "Couch Investor",
     "BWB - Business With Brian"
    ],
-   "lastStated": "was $240 a few weeks ago, dropped below $210 last week (stated); forward P/E 13x",
-   "nCalls": 21
+   "lastStated": "forward P/E 13.6 (stated); no share price or fair-value figure in captions",
+   "nCalls": 22
   },
   {
    "ticker": "NVO",
@@ -3543,7 +3560,7 @@
   {
    "ticker": "WMT",
    "slug": "WMT",
-   "lastDate": "2026-09-26T16:00:06.028267+00:00",
+   "lastDate": "2026-10-28T16:00:02.303782+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -3551,17 +3568,17 @@
      "avg": null
     },
     {
-     "dir": "AVOID",
+     "dir": "HOLD",
      "n": 1,
-     "avg": "$70"
+     "avg": "$118"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "DCF fair value $70 vs ~$110 market (stated)",
-   "nCalls": 3
+   "lastStated": "Trading $118 (stated); DCF fair value $69 (stated, ~40% overvalued)",
+   "nCalls": 4
   },
   {
    "ticker": "XLG",
@@ -3695,18 +3712,68 @@
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 157,
-   "nVideos": 158
+   "nCalls": 161,
+   "nVideos": 162
   },
   {
    "name": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
    "slug": "The_German_Value_Investor",
-   "nCalls": 8,
-   "nVideos": 8
+   "nCalls": 12,
+   "nVideos": 9
   }
  ],
  "videos": [
+  {
+   "id": "WxT0lrhS5Lk",
+   "title": "Interesting News for Walmart Stock Investors | WMT Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-28T16:00:02.303782+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "dqg544n9xKo",
+   "title": "I Just Invested €1,000 in THESE 4 Stocks! (October 2026)",
+   "creator": "The German Value Investor",
+   "channels": [
+    "The German Value Investor"
+   ],
+   "published_at": "2026-10-28T16:00:02.303782+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "dcAF_OkraZw",
+   "title": "Great News for Tesla Stock Investors as a Merger With SpaceX is More Likely | TSLA Stock | SPCX",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-28T13:55:55.685752+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "qZNrdc5-gFo",
+   "title": "SpaceX and Elon Musk Deliver Fantastic News for Nvidia Stock Investors | NVDA Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-28T12:55:55.685752+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "M8EYURxcy1w",
+   "title": "Should Investors Buy Iren Instead of Applied Digital? | IREN Stock vs. APLD Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-28T11:55:55.685752+00:00",
+   "nCalls": 2
+  },
   {
    "id": "Bjfl_XGLv-A",
    "title": "He Called the 1987 Crash. Now He’s Calling This",
