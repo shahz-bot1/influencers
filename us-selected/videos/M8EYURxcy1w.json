@@ -1,0 +1,45 @@
+{
+ "video_id": "M8EYURxcy1w",
+ "title": "Should Investors Buy Iren Instead of Applied Digital? | IREN Stock vs. APLD Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-28T11:55:55.685752+00:00",
+ "summary": "Parkevtate Vosianc compares Iren and Applied Digital head to head after upgrading both to buying opportunities a couple of weeks earlier, answering viewers who ask which he prefers. Both are expected to grow revenue sharply for years, with trailing revenue of $707 million for Iren and $854 million for Applied Digital and multi-billion-dollar backlogs, but the key question is what happens at contract renewal if today's supply shortage flips into a glut. On margins, Iren's operating margin is -54% and worsening, while Applied Digital's -24% is improving; on balance sheets, Iren carries $7.84 billion of long-term debt against $7.6 billion of cash and short-term investments, versus $6.5 billion and $3.26 billion for Applied Digital. Valuation favours Iren: forward price-to-sales of 1.3, its lowest in years, against 2.8 for Applied Digital, and his discounted cash flow values Iren at $46 against a $25 price, about 84% undervalued, and Applied Digital at $26.53, also near its 52-week low. If forced to choose, he would rather buy Iren, but calls it a close call and ranks both as buys. The calls are IREN — BUY reiterated and APLD — BUY reiterated, for very-high-risk-tolerance investors only. Note: auto-captions render Iren as 'Iran' throughout.",
+ "calls": [
+  {
+   "video_id": "M8EYURxcy1w",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Iren Instead of Applied Digital? | IREN Stock vs. APLD Stock",
+   "published_at": "2026-10-28T11:55:55.685752+00:00",
+   "analyzed_at": "2026-10-28T14:58:33.331116+00:00",
+   "ticker": "IREN",
+   "direction": "BUY",
+   "price_at_call": "$25 (stated current); DCF fair value $46 (stated, ~84% undervalued)",
+   "thesis": "BUY reiterated - both IREN and APLD ranked buying opportunities (upgraded a couple of weeks ago); if forced to pick one today he would rather buy IREN, but it is a close call. Not a flip: prior tracked BUY on 2026-10-16 at $30.56 with the same $46 DCF.",
+   "base_case": "Cash/short-term investments $7.6bn vs long-term debt $7.84bn - better cash position than APLD; forward P/S 1.3, lowest in years; trailing revenue $707m with multi-billion backlogs.",
+   "bull_case": "Explosive revenue growth expected to persist as data centres are built against waiting demand.",
+   "bear_case": "-54% operating margin and worsening; one of the riskiest stocks in the market, extremely volatile, only for very high risk tolerance; renewal / supply-glut risk when contracts expire.",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false
+  },
+  {
+   "video_id": "M8EYURxcy1w",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Iren Instead of Applied Digital? | IREN Stock vs. APLD Stock",
+   "published_at": "2026-10-28T11:55:55.685752+00:00",
+   "analyzed_at": "2026-10-28T14:58:33.331116+00:00",
+   "ticker": "APLD",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $26.53 (stated); current price figure dropped out of auto-captions, described as near its 52-week low",
+   "thesis": "BUY reiterated - ranked a buying opportunity alongside IREN; he would pick IREN first in a forced choice, but says investors can add both. Not a flip: prior tracked BUY on 2026-10-16 at $20.22, fair value $26.50.",
+   "base_case": "Better margin profile than IREN: -24% operating margin and slightly improving; forward P/S 2.8, near record lows; trailing revenue $854m; cash $3.26bn vs long-term debt $6.5bn.",
+   "bull_case": "Explosive revenue growth expected to persist as data centres are built against waiting demand.",
+   "bear_case": "Not profitable, debt will likely rise and borrowing costs have risen; one of the riskiest stocks in the market, extremely volatile, only for very high risk tolerance.",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false
+  }
+ ]
+}
