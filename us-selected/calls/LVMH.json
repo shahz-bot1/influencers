@@ -3,6 +3,24 @@
  "slug": "LVMH",
  "calls": [
   {
+   "video_id": "dqg544n9xKo",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "I Just Invested €1,000 in THESE 4 Stocks! (October 2026)",
+   "published_at": "2026-10-28T16:00:02.303782+00:00",
+   "ticker": "LVMH",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "CONDITIONAL_BUY (2026-10-17) -> BUY",
+   "price_at_call": "Just under €390 (stated); would add more below €333 (stated)",
+   "thesis": "Opening an initial position (1 share, just under €400): down ~56% from ~€900 high, P/E ~17-18 vs 25-40 in recent years, ~3% dividend yield — cheap enough for a small observation position.",
+   "base_case": "Normal: just under 10%/yr return.",
+   "bull_case": "Positive: 15%/yr return.",
+   "bear_case": "Negative: earnings -3%/yr 5y then +2%/yr -> fair P/E ~13, ~0%/yr average return (break-even, not a loss).",
+   "analyzed_at": "2026-10-28T19:05:00+00:00",
+   "collab": false
+  },
+  {
    "video_id": "ywUh6CAyIfA",
    "channel": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
