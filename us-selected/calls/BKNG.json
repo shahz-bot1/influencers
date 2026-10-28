@@ -3,6 +3,24 @@
  "slug": "BKNG",
  "calls": [
   {
+   "video_id": "dqg544n9xKo",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "I Just Invested €1,000 in THESE 4 Stocks! (October 2026)",
+   "published_at": "2026-10-28T16:00:02.303782+00:00",
+   "ticker": "BKNG",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "HOLD (2026-10-07) -> BUY",
+   "price_at_call": "~$158 (stated); buy limit $130 for a larger entry (stated)",
+   "thesis": "Opening an initial position (2 shares, just under €300): price back to Sep 2024 levels after AI-anxiety pullback from $230, while operations still run well with strong margins, ROE and buyback-funded FCF.",
+   "base_case": "Normal: growth continues with buybacks, current P/E ~17-18 justified -> fair value ~30% above current price, ~10%/yr expected return.",
+   "bull_case": "Positive: more than double if the business cannot easily be replaced by AI agents.",
+   "bear_case": "Negative: AI agents take share, growth stalls then -2%/yr from year 6 -> fair P/E 10, fair price only $40.",
+   "analyzed_at": "2026-10-28T19:05:00+00:00",
+   "collab": false
+  },
+  {
    "video_id": "-bU2yQuUZb4",
    "channel": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
