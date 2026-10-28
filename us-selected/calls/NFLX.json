@@ -3,6 +3,24 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "dqg544n9xKo",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "I Just Invested €1,000 in THESE 4 Stocks! (October 2026)",
+   "published_at": "2026-10-28T16:00:02.303782+00:00",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "HOLD (2026-10-19) -> BUY",
+   "price_at_call": "Small add: 4 -> 6 shares, ~€116 total; position ~1% weight, down ~4%",
+   "thesis": "Adding a little more after the post-earnings drop; detailed update on his analysis platform, buy only small here (a bigger buy would need a much lower price; prior buy limit $53).",
+   "base_case": "Holds small position; further detail on analysis platform, not in video.",
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-10-28T19:05:00+00:00",
+   "collab": false
+  },
+  {
    "video_id": "ITH0wVU__UI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -261,20 +279,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 2
   },
   {
-   "channel": "The German Value Investor",
-   "idx": 5
+   "channel": "Couch Investor",
+   "idx": 3
   }
  ]
 }
