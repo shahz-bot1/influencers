@@ -3,6 +3,24 @@
  "slug": "WMT",
  "calls": [
   {
+   "video_id": "WxT0lrhS5Lk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Interesting News for Walmart Stock Investors | WMT Stock Analysis",
+   "published_at": "2026-10-28T16:00:02.303782+00:00",
+   "ticker": "WMT",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "AVOID (2026-09-26) -> HOLD",
+   "price_at_call": "Trading $118 (stated); DCF fair value $69 (stated, ~40% overvalued)",
+   "thesis": "Bundled Walmart Plus + Sam's Club Plus ($120/yr) is a good value move against Costco/Amazon, but the stock is too rich to buy here; hold conviction downgraded high -> medium and approaching a sell.",
+   "base_case": "Hold long-term could still give a reasonable return, but confidence is falling.",
+   "bull_case": "Bundle drives significant consumer adoption; e-commerce/marketplace gains continue.",
+   "bear_case": "Same-store sales growth slowest since 2020 (+2.6%); 36.5x forward P/E compresses; downgrade to SELL if overvaluation persists.",
+   "analyzed_at": "2026-10-28T19:05:00+00:00",
+   "collab": false
+  },
+  {
    "video_id": "sF_4vrPXkUY",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -57,7 +75,7 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
