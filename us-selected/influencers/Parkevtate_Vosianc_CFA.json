@@ -4,6 +4,38 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "WMT",
+   "tickerSlug": "WMT",
+   "direction": "HOLD",
+   "date": "2026-10-28T16:00:02.303782+00:00",
+   "price": "Trading $118 (stated); DCF fair value $69 (stated, ~40% overvalued)",
+   "video_id": "WxT0lrhS5Lk"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-28T12:55:55.685752+00:00",
+   "price": "forward P/E 13.6 (stated); no share price or fair-value figure in captions",
+   "video_id": "qZNrdc5-gFo"
+  },
+  {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "BUY",
+   "date": "2026-10-28T11:55:55.685752+00:00",
+   "price": "$25 (stated current); DCF fair value $46 (stated, ~84% undervalued)",
+   "video_id": "M8EYURxcy1w"
+  },
+  {
+   "ticker": "APLD",
+   "tickerSlug": "APLD",
+   "direction": "BUY",
+   "date": "2026-10-28T11:55:55.685752+00:00",
+   "price": "DCF fair value $26.53 (stated); current price figure dropped out of auto-captions, described as near its 52-week low",
+   "video_id": "M8EYURxcy1w"
+  },
+  {
    "ticker": "PG",
    "tickerSlug": "PG",
    "direction": "BUY",
