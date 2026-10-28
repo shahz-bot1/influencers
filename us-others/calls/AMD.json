@@ -3,6 +3,16 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "Qf72K1Fends",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY / bullish: Meta announced a partnership with AMD including a $1bn equity investment in Meta as captioned and initial Helios rack-scale systems with the MI450 already installed and testing — he calls it a bullish indication, says Meta will use more AMD GPUs, CPUs and networking and co-design models, and later lists AMD among the big winners from Oracle broadening its AI stack with Helios. The $1bn figure is as captioned and should be treated with caution.",
+   "price_at_call": "No price stated; $1bn AMD equity investment in Meta as captioned",
+   "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+  },
+  {
    "video_id": "1fg4FpDs5Sg",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
