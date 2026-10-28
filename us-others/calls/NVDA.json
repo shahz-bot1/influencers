@@ -3,6 +3,16 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "Qf72K1Fends",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY / bullish, thesis unchanged: a report that OpenAI plans to buy Google AI chips is being read as bearish for Nvidia, but he says he is not afraid for Nvidia — OpenAI needs multiple compute sources and cannot let one player dictate supply, the market is compute-starved, and it does not change much for Nvidia; Nvidia is also expanding its Meta Vera Rubin work, is already live at Oracle with Vera Rubin NVL72 / Vera CPU, and he lists Nvidia among the big winners, concluding his bullish AI thesis is still in place even if prices keep falling.",
+   "price_at_call": "No price stated; $3bn Nvidia investment in Meta as captioned",
+   "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+  },
+  {
    "video_id": "WCBrbbiIGKA",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -94,7 +104,7 @@
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
