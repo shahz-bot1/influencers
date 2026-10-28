@@ -3,6 +3,24 @@
  "slug": "IREN",
  "calls": [
   {
+   "video_id": "M8EYURxcy1w",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Iren Instead of Applied Digital? | IREN Stock vs. APLD Stock",
+   "published_at": "2026-10-28T11:55:55.685752+00:00",
+   "analyzed_at": "2026-10-28T14:58:33.331116+00:00",
+   "ticker": "IREN",
+   "direction": "BUY",
+   "price_at_call": "$25 (stated current); DCF fair value $46 (stated, ~84% undervalued)",
+   "thesis": "BUY reiterated - both IREN and APLD ranked buying opportunities (upgraded a couple of weeks ago); if forced to pick one today he would rather buy IREN, but it is a close call. Not a flip: prior tracked BUY on 2026-10-16 at $30.56 with the same $46 DCF.",
+   "base_case": "Cash/short-term investments $7.6bn vs long-term debt $7.84bn - better cash position than APLD; forward P/S 1.3, lowest in years; trailing revenue $707m with multi-billion backlogs.",
+   "bull_case": "Explosive revenue growth expected to persist as data centres are built against waiting demand.",
+   "bear_case": "-54% operating margin and worsening; one of the riskiest stocks in the market, extremely volatile, only for very high risk tolerance; renewal / supply-glut risk when contracts expire.",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false
+  },
+  {
    "video_id": "XlKgjm-aFmQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -44,7 +62,7 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
