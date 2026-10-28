@@ -4,6 +4,38 @@
  "slug": "The_German_Value_Investor",
  "calls": [
   {
+   "ticker": "JD",
+   "tickerSlug": "JD",
+   "direction": "BUY",
+   "date": "2026-10-28T16:00:02.303782+00:00",
+   "price": "~$25 (stated, ~€22.50); buy limit ~$44 (stated)",
+   "video_id": "dqg544n9xKo"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-10-28T16:00:02.303782+00:00",
+   "price": "Small add: 4 -> 6 shares, ~€116 total; position ~1% weight, down ~4%",
+   "video_id": "dqg544n9xKo"
+  },
+  {
+   "ticker": "BKNG",
+   "tickerSlug": "BKNG",
+   "direction": "BUY",
+   "date": "2026-10-28T16:00:02.303782+00:00",
+   "price": "~$158 (stated); buy limit $130 for a larger entry (stated)",
+   "video_id": "dqg544n9xKo"
+  },
+  {
+   "ticker": "LVMH",
+   "tickerSlug": "LVMH",
+   "direction": "BUY",
+   "date": "2026-10-28T16:00:02.303782+00:00",
+   "price": "Just under €390 (stated); would add more below €333 (stated)",
+   "video_id": "dqg544n9xKo"
+  },
+  {
    "ticker": "NFLX",
    "tickerSlug": "NFLX",
    "direction": "HOLD",
