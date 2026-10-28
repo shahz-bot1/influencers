@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T04:58:12.221204+00:00",
+ "updated": "2026-10-28T04:59:07.096606+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -108,19 +108,19 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-10-13T03:58:37.822741+00:00",
+   "lastDate": "2026-10-28T04:58:24.879445+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$2"
+     "avg": "$1"
     }
    ],
    "influencers": [
     "Jose Najarro Stocks"
    ],
-   "lastStated": "down ~2% on the day (no level stated)",
-   "nCalls": 3
+   "lastStated": "No price stated; $1bn AMD equity investment in Meta as captioned",
+   "nCalls": 4
   },
   {
    "ticker": "AMDY",
@@ -699,12 +699,12 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-10-24T03:57:34.097774+00:00",
+   "lastDate": "2026-10-28T04:58:24.879445+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$25"
+     "avg": null
     },
     {
      "dir": "AVOID",
@@ -713,13 +713,13 @@
     }
    ],
    "influencers": [
-    "Asymmetric Investing",
     "Jose Najarro Stocks",
+    "Asymmetric Investing",
     "Daniel Pronk",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No share price stated; 9% 2031 debt yield 14.6% (over 15% within the last couple",
-   "nCalls": 8
+   "lastStated": "No price stated",
+   "nCalls": 9
   },
   {
    "ticker": "DHI",
@@ -1418,20 +1418,20 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-10-26T04:58:06.524826+00:00",
+   "lastDate": "2026-10-28T04:58:24.879445+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$4"
+     "avg": "$3"
     }
    ],
    "influencers": [
     "Jose Najarro Stocks",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No share price stated; Nvidia down ~4% on 22 Oct as stated",
-   "nCalls": 8
+   "lastStated": "No price stated; $3bn Nvidia investment in Meta as captioned",
+   "nCalls": 9
   },
   {
    "ticker": "NVDY",
@@ -2217,8 +2217,8 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 31,
-   "nVideos": 12
+   "nCalls": 34,
+   "nVideos": 13
   },
   {
    "name": "Joseph Hogue, CFA",
@@ -2257,6 +2257,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "Qf72K1Fends",
+   "title": "AI Chip Shortages Could Last Until 2030...This Changes Everything",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-28T03:55:37.407255+00:00",
+   "nCalls": 3
+  },
   {
    "id": "lbF1dMRllI4",
    "title": "Anthopic's S1 Just Saved The AI Trade - What You Need To Know",
