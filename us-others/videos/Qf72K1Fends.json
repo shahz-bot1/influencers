@@ -1,0 +1,39 @@
+{
+ "video_id": "Qf72K1Fends",
+ "title": "AI Chip Shortages Could Last Until 2030...This Changes Everything",
+ "creator": "Jose Najarro Stocks",
+ "published_at": "2026-10-28T03:55:37.407255+00:00",
+ "summary": "Jose Najarro argues AI chip shortages could last to 2030 and that this extends, rather than ends, the AI cycle. The anchor is SK Hynix earnings: HBM volume requirements more than twice current supply, DRAM and HBM through 2026 effectively sold out, lower-stack concerns already reflected in shipment plans, HBM4 yield above plan, and long-term agreements allocating more than 50 percent of 2027 and 2028 capacity, giving capex visibility that he calls bullish for equipment players too. He then works through Galaxy and CoreWeave (79 million dollars of Q3 data-center adjusted gross profit, Helios phase 1 delivered, phase 2 fully financed), Meta partnerships with AMD (Helios MI450 systems installed, a 1 billion dollar equity figure as captioned) and Nvidia (expanded Vera Rubin work, a 3 billion dollar figure as captioned), a report that OpenAI may buy Google TPUs, which he does not read as bearish for Nvidia in a compute-starved market, and Oracle broadening its stack ahead of its investor day. He concludes his bullish thesis is unchanged ahead of Alphabet and Microsoft earnings. Calls: NVDA and AMD and CRWV BUY reiterated, META and AVGO and CBRS UNCERTAIN reiterated, SK Hynix (000660.KS) and GOOGL and ORCL UNCERTAIN first tracked. No prices stated. Captions garble SK Hynix, Helios and CoreWeave throughout.",
+ "calls": [
+  {
+   "video_id": "Qf72K1Fends",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY / bullish: Galaxy Digital reported $79m Q3 data-center adjusted gross profit, up from $11m in Q2, in the first full quarter under the Helios phase 1 lease, with all 133 MW of critical IT load delivered to CoreWeave by end-Q2; phase 2 is fully financed and under construction (initial data hall Q2 2027) with another 830 MW of approved Helios capacity still unleased — he says that is very bullish for CoreWeave and means it does not have to fight for financing/credit space right now. Captions render Helios as 'Halo's' and CoreWeave as 'Core Weef'.",
+   "price_at_call": "No price stated",
+   "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+  },
+  {
+   "video_id": "Qf72K1Fends",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY / bullish: Meta announced a partnership with AMD including a $1bn equity investment in Meta as captioned and initial Helios rack-scale systems with the MI450 already installed and testing — he calls it a bullish indication, says Meta will use more AMD GPUs, CPUs and networking and co-design models, and later lists AMD among the big winners from Oracle broadening its AI stack with Helios. The $1bn figure is as captioned and should be treated with caution.",
+   "price_at_call": "No price stated; $1bn AMD equity investment in Meta as captioned",
+   "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+  },
+  {
+   "video_id": "Qf72K1Fends",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY / bullish, thesis unchanged: a report that OpenAI plans to buy Google AI chips is being read as bearish for Nvidia, but he says he is not afraid for Nvidia — OpenAI needs multiple compute sources and cannot let one player dictate supply, the market is compute-starved, and it does not change much for Nvidia; Nvidia is also expanding its Meta Vera Rubin work, is already live at Oracle with Vera Rubin NVL72 / Vera CPU, and he lists Nvidia among the big winners, concluding his bullish AI thesis is still in place even if prices keep falling.",
+   "price_at_call": "No price stated; $3bn Nvidia investment in Meta as captioned",
+   "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+  }
+ ]
+}
