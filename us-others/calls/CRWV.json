@@ -3,6 +3,16 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "Qf72K1Fends",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY / bullish: Galaxy Digital reported $79m Q3 data-center adjusted gross profit, up from $11m in Q2, in the first full quarter under the Helios phase 1 lease, with all 133 MW of critical IT load delivered to CoreWeave by end-Q2; phase 2 is fully financed and under construction (initial data hall Q2 2027) with another 830 MW of approved Helios capacity still unleased — he says that is very bullish for CoreWeave and means it does not have to fight for financing/credit space right now. Captions render Helios as 'Halo's' and CoreWeave as 'Core Weef'.",
+   "price_at_call": "No price stated",
+   "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+  },
+  {
    "video_id": "dR8CQ1FJzyQ",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -87,20 +97,20 @@
  ],
  "byInf": [
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Jose Najarro Stocks",
    "idx": 0
   },
   {
-   "channel": "Jose Najarro Stocks",
-   "idx": 2
+   "channel": "Asymmetric Investing",
+   "idx": 1
   },
   {
    "channel": "Daniel Pronk",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
