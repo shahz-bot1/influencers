@@ -1,0 +1,27 @@
+{
+ "video_id": "WxT0lrhS5Lk",
+ "title": "Interesting News for Walmart Stock Investors | WMT Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-28T16:00:02.303782+00:00",
+ "summary": "Parkevtate Vosianc updates Walmart after it bundled Walmart Plus with Sam's Club Plus at $120 a year plus tax, an annual-only offer pitched directly against Costco and Amazon Prime. He likes the move for shoppers — Walmart's wider assortment plus Sam's Club's warehouse range, at about Costco's executive-membership price — and expects significant consumer adoption, especially as stretched household budgets push shoppers toward the lowest-cost provider. Walmart's recovery since 2017 and its e-commerce gains earn praise, but same-store sales growth of just 2.6% in the latest quarter was its slowest since 2020. Valuation is the problem: Walmart trades at $118 on a forward price-to-earnings ratio of 36.5, more expensive than Amazon, against his discounted cash flow fair value of $69, about 40% overvalued. He reiterates that this is not a buying opportunity and would wait to buy, but downgrades his hold conviction from high to medium, saying the stock is approaching a sell and is closer to a sell than a buy. The call is WMT — HOLD, with conviction downgraded, a stance flip from his last tracked AVOID on 26 September 2026.",
+ "calls": [
+  {
+   "video_id": "WxT0lrhS5Lk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Interesting News for Walmart Stock Investors | WMT Stock Analysis",
+   "published_at": "2026-10-28T16:00:02.303782+00:00",
+   "ticker": "WMT",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "AVOID (2026-09-26) -> HOLD",
+   "price_at_call": "Trading $118 (stated); DCF fair value $69 (stated, ~40% overvalued)",
+   "thesis": "Bundled Walmart Plus + Sam's Club Plus ($120/yr) is a good value move against Costco/Amazon, but the stock is too rich to buy here; hold conviction downgraded high -> medium and approaching a sell.",
+   "base_case": "Hold long-term could still give a reasonable return, but confidence is falling.",
+   "bull_case": "Bundle drives significant consumer adoption; e-commerce/marketplace gains continue.",
+   "bear_case": "Same-store sales growth slowest since 2020 (+2.6%); 36.5x forward P/E compresses; downgrade to SELL if overvaluation persists.",
+   "analyzed_at": "2026-10-28T19:05:00+00:00",
+   "collab": false
+  }
+ ]
+}
