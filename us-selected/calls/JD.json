@@ -1,0 +1,29 @@
+{
+ "ticker": "JD",
+ "slug": "JD",
+ "calls": [
+  {
+   "video_id": "dqg544n9xKo",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "I Just Invested €1,000 in THESE 4 Stocks! (October 2026)",
+   "published_at": "2026-10-28T16:00:02.303782+00:00",
+   "ticker": "JD",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$25 (stated, ~€22.50); buy limit ~$44 (stated)",
+   "thesis": "Adding 10 shares (50 -> 60, ~€231): ~4% dividend yield plus 5-6% buybacks = ~10% payout; net cash covers 70% of market cap, so the operating business is bought for ~30% of the price.",
+   "base_case": "Normal: ~5%/yr growth 10y, fair P/E ~13 -> fair price >$50 (more than double).",
+   "bull_case": "Positive scenario fair price $90 (triple).",
+   "bear_case": "Negative: earnings -10%/yr 5y then flat, fair P/E 7.8 -> fair value $33, still ~6%/yr average return.",
+   "analyzed_at": "2026-10-28T19:05:00+00:00",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "The German Value Investor",
+   "idx": 0
+  }
+ ]
+}
