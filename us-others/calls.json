@@ -24,7 +24,7 @@
   "handle": "@josephhogue",
   "ticker": "EXPE",
   "direction": "CONDITIONAL_BUY",
-  "thesis": "Rebound play: Expedia is partnering with Muse, which could redirect bookings through Expedia at Booking's expense. Trading 16x P/E vs 25x avg (~36% discount) — but still cautious on the whole travel-middleman group.",
+  "thesis": "Rebound play: Expedia is partnering with Muse, which could redirect bookings through Expedia at Booking's expense. Trading 16x P/E vs 25x avg (~36% discount) \u2014 but still cautious on the whole travel-middleman group.",
   "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
   "base_case": "Muse partnership redirects bookings via Expedia.",
   "bear_case": "AI agents + weak consumer both hit travel middlemen; cheapness isn't safety."
@@ -35,7 +35,7 @@
   "handle": "@josephhogue",
   "ticker": "NBIS",
   "direction": "CONDITIONAL_BUY",
-  "thesis": "His pick among the 4 neo-clouds: ~500% revenue growth, best debt-to-FCF in group (-1.8x), growth-adjusted P/S 9.8x vs 45x headline. Still pricey and he's leery of the whole neo-cloud model — 'take another look', not a full buy.",
+  "thesis": "His pick among the 4 neo-clouds: ~500% revenue growth, best debt-to-FCF in group (-1.8x), growth-adjusted P/S 9.8x vs 45x headline. Still pricey and he's leery of the whole neo-cloud model \u2014 'take another look', not a full buy.",
   "analyzed_at": "2026-09-28T03:57:07.794861+00:00",
   "price_at_call": "45x P/S headline, 9.8x growth-adjusted",
   "base_case": "500% revenue growth + best balance sheet of the four.",
@@ -182,7 +182,7 @@
   "handle": "@josephhogue",
   "ticker": "PLNT",
   "direction": "AVOID",
-  "thesis": "Crushed 15% on the subscription-cancellation threat — worst hit of the group.",
+  "thesis": "Crushed 15% on the subscription-cancellation threat \u2014 worst hit of the group.",
   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
  },
  {
@@ -219,7 +219,7 @@
   "handle": "@josephhogue",
   "ticker": "IREN",
   "direction": "UNCERTAIN",
-  "thesis": "Named 'relatively safer' of the neo-cloud group alongside Nebius, but his final pick is Nebius — no explicit call on IREN. (Captions garble as 'Iron'.)",
+  "thesis": "Named 'relatively safer' of the neo-cloud group alongside Nebius, but his final pick is Nebius \u2014 no explicit call on IREN. (Captions garble as 'Iron'.)",
   "analyzed_at": "2026-09-28T03:57:07.794861+00:00"
  },
  {
@@ -228,7 +228,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "NVDA",
   "direction": "BUY",
-  "thesis": "Bullish as an investor on the $150B buyback authorization increase (remaining program $235B, executed through FY2028); management signaling the money will be worth much more. Forward P/E ~19, likely 16-17x since analysts underestimate growth. Anthropic has contracted 2.6GW of Nvidia AI infrastructure ($180B+ contracted value) — no worry about losing share.",
+  "thesis": "Bullish as an investor on the $150B buyback authorization increase (remaining program $235B, executed through FY2028); management signaling the money will be worth much more. Forward P/E ~19, likely 16-17x since analysts underestimate growth. Anthropic has contracted 2.6GW of Nvidia AI infrastructure ($180B+ contracted value) \u2014 no worry about losing share.",
   "analyzed_at": "2026-09-29T03:56:43.894526+00:00",
   "price_at_call": "not stated in video; cites ~19x forward P/E and ~$5T market cap"
  },
@@ -308,7 +308,7 @@
   "handle": "@asymmetricinvesting",
   "ticker": "MU",
   "direction": "SELL",
-  "thesis": "Take profits: $1.2T market cap, ~7x fwd P/E looks cheap only if 83-86% gross margins hold; memory is a commodity — new capacity lands 2028-29, chip designs shifting away from HBM, demand rationalization ahead. Margin reversion to 40% would erase ~90% of profits.",
+  "thesis": "Take profits: $1.2T market cap, ~7x fwd P/E looks cheap only if 83-86% gross margins hold; memory is a commodity \u2014 new capacity lands 2028-29, chip designs shifting away from HBM, demand rationalization ahead. Margin reversion to 40% would erase ~90% of profits.",
   "analyzed_at": "2026-09-30T03:57:13.629546+00:00",
   "price_at_call": null
  },
@@ -413,7 +413,7 @@
   "ticker": "BLV",
   "direction": "CONDITIONAL_BUY",
   "price": "Vanguard long-term bond ETF, ~5% dividend, down ~10% over last year",
-  "thesis": "Safe cash return once rates level off; bounce to $70 on rate cuts in next recession adds ~10% on top of dividend. Early now — rates still rising a bit first.",
+  "thesis": "Safe cash return once rates level off; bounce to $70 on rate cuts in next recession adds ~10% on top of dividend. Early now \u2014 rates still rising a bit first.",
   "base": null,
   "bull": "Rates level off/come down: price bounce + ~5% yield",
   "bear": "Bond funds keep falling while rates rise further",
@@ -487,7 +487,7 @@
   "handle": "@josephhogue",
   "ticker": "CCL",
   "direction": "AVOID",
-  "price": "$26B+ debt, >200% debt/equity, down 26% YTD — falling knife, not a dip",
+  "price": "$26B+ debt, >200% debt/equity, down 26% YTD \u2014 falling knife, not a dip",
   "thesis": "Debt-heavy cruise line; debt about to get very expensive plus weakening consumer.",
   "base": null,
   "bull": null,
@@ -562,7 +562,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "MU",
   "direction": "BUY",
-  "price": "flat after Sep 30 post-close print; fwd P/E ~5-7 (caption-garbled figures: cites $54.2B rev / $3.34 EPS / $60-63B guide — treat as garbled)",
+  "price": "flat after Sep 30 post-close print; fwd P/E ~5-7 (caption-garbled figures: cites $54.2B rev / $3.34 EPS / $60-63B guide \u2014 treat as garbled)",
   "thesis": "Triple beat + tight supply through 2027-28 (35% of revenue covered by multi-year take-or-pay, $150B RPO, $32B customer deposits); HBM repricing starts 2027; buybacks after Dec 9 (CHIPS Act 2-yr anniversary). Stock needs a rerating.",
   "base": "Multiple stays, earnings growth alone lifts price",
   "bull": "Rerating to higher multiple + $50B buyback after Dec 9",
@@ -927,7 +927,7 @@
   "handle": "@josephhogue",
   "ticker": "PLTR",
   "direction": "BUY",
-  "thesis": "62% revenue growth, ~2x PEG — third-cheapest of the software group; expensive but relatively cheap vs industry on growth-adjusted basis. Softer of the two software picks ('maybe even').",
+  "thesis": "62% revenue growth, ~2x PEG \u2014 third-cheapest of the software group; expensive but relatively cheap vs industry on growth-adjusted basis. Softer of the two software picks ('maybe even').",
   "base": null,
   "bull": null,
   "bear": null,
@@ -940,7 +940,7 @@
   "handle": "@josephhogue",
   "ticker": "NVDA",
   "direction": "BUY",
-  "thesis": "Second-cheapest infra name at 0.48x PEG; 73% expected revenue growth tops AMD/AVGO; 66% EBIT margin vs AMD's 23% shows pricing power — 'now is the time you start buying Nvidia'.",
+  "thesis": "Second-cheapest infra name at 0.48x PEG; 73% expected revenue growth tops AMD/AVGO; 66% EBIT margin vs AMD's 23% shows pricing power \u2014 'now is the time you start buying Nvidia'.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -953,7 +953,7 @@
   "handle": "@josephhogue",
   "ticker": "AVGO",
   "direction": "BUY",
-  "thesis": "Among the most products going into a data center; core AI-buildout/AI-infrastructure theme; competes with MRVL in accelerator chips — 'pick up shares here'.",
+  "thesis": "Among the most products going into a data center; core AI-buildout/AI-infrastructure theme; competes with MRVL in accelerator chips \u2014 'pick up shares here'.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -966,7 +966,7 @@
   "handle": "@josephhogue",
   "ticker": "ZS",
   "direction": "BUY",
-  "thesis": "Cheapest cybersecurity name at 2x PEG; 20% expected revenue growth; he owns shares — 'I would take a second look at Zscaler... for a new pickup'. Market's AI-replacement fear is overdone.",
+  "thesis": "Cheapest cybersecurity name at 2x PEG; 20% expected revenue growth; he owns shares \u2014 'I would take a second look at Zscaler... for a new pickup'. Market's AI-replacement fear is overdone.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -979,7 +979,7 @@
   "handle": "@josephhogue",
   "ticker": "FTNT",
   "direction": "BUY",
-  "thesis": "Second-cheapest cyber at 3.1x PEG; 15% revenue growth — 'I would be picking up shares of Fortinet and Zscaler' on the broader cybersecurity theme.",
+  "thesis": "Second-cheapest cyber at 3.1x PEG; 15% revenue growth \u2014 'I would be picking up shares of Fortinet and Zscaler' on the broader cybersecurity theme.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -992,7 +992,7 @@
   "handle": "@josephhogue",
   "ticker": "BE",
   "direction": "BUY",
-  "thesis": "0.44x PEG (GAAP basis) despite 66% expected revenue growth (after 90% last year); best at colocating power generation at data centers (as fast as 90 days) — 'definitely be picking up more shares' as AI buildout resumes post-midterms.",
+  "thesis": "0.44x PEG (GAAP basis) despite 66% expected revenue growth (after 90% last year); best at colocating power generation at data centers (as fast as 90 days) \u2014 'definitely be picking up more shares' as AI buildout resumes post-midterms.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -1005,7 +1005,7 @@
   "handle": "@josephhogue",
   "ticker": "PANW",
   "direction": "HOLD",
-  "thesis": "Owns it (portfolio holding up 169% since he started buying); 5x PEG now too expensive to add, but holding — cybersecurity demand and revenues keep growing.",
+  "thesis": "Owns it (portfolio holding up 169% since he started buying); 5x PEG now too expensive to add, but holding \u2014 cybersecurity demand and revenues keep growing.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -1017,7 +1017,7 @@
   "handle": "@josephhogue",
   "ticker": "CRWD",
   "direction": "HOLD",
-  "thesis": "Owns it (up 137%); 7.3x PEG too expensive to add, but holding — Falcon platform dominates its segment.",
+  "thesis": "Owns it (up 137%); 7.3x PEG too expensive to add, but holding \u2014 Falcon platform dominates its segment.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -1029,7 +1029,7 @@
   "handle": "@josephhogue",
   "ticker": "ORCL",
   "direction": "AVOID",
-  "thesis": "Reiterated: 'the only one that I would say definitely avoid' — legacy software drag, only 32% expected revenue growth; the 2.4GW New Mexico data-center delay/force majeure is 'the first crack in the AI trade'.",
+  "thesis": "Reiterated: 'the only one that I would say definitely avoid' \u2014 legacy software drag, only 32% expected revenue growth; the 2.4GW New Mexico data-center delay/force majeure is 'the first crack in the AI trade'.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -1041,7 +1041,7 @@
   "handle": "@josephhogue",
   "ticker": "NBIS",
   "direction": "UNCERTAIN",
-  "thesis": "Best buildout theme among the neo-clouds (371% expected revenue growth) but 'I would still wait a little bit on these' — first stocks to shake out if the AI theme breaks. Softened from the 28 Sep CONDITIONAL_BUY.",
+  "thesis": "Best buildout theme among the neo-clouds (371% expected revenue growth) but 'I would still wait a little bit on these' \u2014 first stocks to shake out if the AI theme breaks. Softened from the 28 Sep CONDITIONAL_BUY.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -1054,7 +1054,7 @@
   "handle": "@josephhogue",
   "ticker": "CRWV",
   "direction": "UNCERTAIN",
-  "thesis": "Folded into the group 'wait' — no explicit negative this time, but not a pick. Softened from the 28 Sep AVOID.",
+  "thesis": "Folded into the group 'wait' \u2014 no explicit negative this time, but not a pick. Softened from the 28 Sep AVOID.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -1067,7 +1067,7 @@
   "handle": "@josephhogue",
   "ticker": "IREN",
   "direction": "UNCERTAIN",
-  "thesis": "Covered under the neo-cloud group 'wait' — same neutral read as 28 Sep, no change.",
+  "thesis": "Covered under the neo-cloud group 'wait' \u2014 same neutral read as 28 Sep, no change.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -1079,7 +1079,7 @@
   "handle": "@josephhogue",
   "ticker": "MU",
   "direction": "UNCERTAIN",
-  "thesis": "0.3x PEG is the cheapest of the whole infra screen, but investors don't believe memory cyclicality is over; 'you could look at Micron a little bit here' — real risk of a price reckoning after the +485% run.",
+  "thesis": "0.3x PEG is the cheapest of the whole infra screen, but investors don't believe memory cyclicality is over; 'you could look at Micron a little bit here' \u2014 real risk of a price reckoning after the +485% run.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -1091,7 +1091,7 @@
   "handle": "@josephhogue",
   "ticker": "NET",
   "direction": "UNCERTAIN",
-  "thesis": "'I do still like Cloudflare' — 30% revenue growth, 1700% jump in daily AI-agent requests — but 5.5x PEG is 'getting a little expensive' after the runup.",
+  "thesis": "'I do still like Cloudflare' \u2014 30% revenue growth, 1700% jump in daily AI-agent requests \u2014 but 5.5x PEG is 'getting a little expensive' after the runup.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -1103,7 +1103,7 @@
   "handle": "@josephhogue",
   "ticker": "APP",
   "direction": "UNCERTAIN",
-  "thesis": "Cheapest of the software screen at 0.5x PEG and down 60% — but 'I would be worried' about AI software-destruction exposure; rebound play possible only after real diligence.",
+  "thesis": "Cheapest of the software screen at 0.5x PEG and down 60% \u2014 but 'I would be worried' about AI software-destruction exposure; rebound play possible only after real diligence.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -1115,7 +1115,7 @@
   "handle": "@josephhogue",
   "ticker": "MRVL",
   "direction": "UNCERTAIN",
-  "thesis": "'Really like that one' on its accelerator-chip competition with AVGO; up 215% — no explicit buy call.",
+  "thesis": "'Really like that one' on its accelerator-chip competition with AVGO; up 215% \u2014 no explicit buy call.",
   "base": null,
   "bull": null,
   "bear": null,
@@ -1632,7 +1632,7 @@
   "handle": "@danielpronk",
   "ticker": "ROAD",
   "direction": "BUY",
-  "thesis": "Reiterated BUY (Oct 9): Q3 (Aug 7) was strong — record revenue/backlog, guidance raised — yet stock sold off ~30% on inflation/oil and rate fears; pass-through cost model and record 2030 guide make bear case overblown.",
+  "thesis": "Reiterated BUY (Oct 9): Q3 (Aug 7) was strong \u2014 record revenue/backlog, guidance raised \u2014 yet stock sold off ~30% on inflation/oil and rate fears; pass-through cost model and record 2030 guide make bear case overblown.",
   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
   "price_at_call": "DCF fair value $178; ~5.4% of his portfolio"
  },
@@ -1652,7 +1652,7 @@
   "handle": "@danielpronk",
   "ticker": "AMZN",
   "direction": "BUY",
-  "thesis": "New: added more Friday — AWS GPU price hikes +15% on excess demand, 100+ data centers considered, sale-leaseback of chips is liquidity move not oversupply; DCF conservative FV $371.",
+  "thesis": "New: added more Friday \u2014 AWS GPU price hikes +15% on excess demand, 100+ data centers considered, sale-leaseback of chips is liquidity move not oversupply; DCF conservative FV $371.",
   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
   "price_at_call": "DCF fair value $371 (~$500 by 2028, +88% 3yr); 2nd-largest position >13% of portfolio"
  },
@@ -1672,7 +1672,7 @@
   "handle": "@josephhogue",
   "ticker": "SNPS",
   "direction": "BUY",
-  "thesis": "New: starting to really like it — $1B+ Amazon IP deal (Trainium/Graviton royalties), OpenAI partnership on GPT-like chip-design AI with revenue share, 15%/yr growth to 2030 guide far above Street, operating margins 44%->50%.",
+  "thesis": "New: starting to really like it \u2014 $1B+ Amazon IP deal (Trainium/Graviton royalties), OpenAI partnership on GPT-like chip-design AI with revenue share, 15%/yr growth to 2030 guide far above Street, operating margins 44%->50%.",
   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
   "price_at_call": "Surged 10% on investor day; no explicit price given"
  },
@@ -1712,7 +1712,7 @@
   "handle": "@josephhogue",
   "ticker": "SNDK",
   "direction": "BUY",
-  "thesis": "New: SanDisk is the other AI-memory focus alongside Micron — 0.9x PEG, revenue expected to double, ~278% EBITD growth; key memory-chip player benefiting from shortage pricing power.",
+  "thesis": "New: SanDisk is the other AI-memory focus alongside Micron \u2014 0.9x PEG, revenue expected to double, ~278% EBITD growth; key memory-chip player benefiting from shortage pricing power.",
   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
   "price_at_call": "0.9x PEG; down ~8% last week; up ~100% over last year"
  },
@@ -1732,7 +1732,7 @@
   "handle": "@josephhogue",
   "ticker": "VST",
   "direction": "BUY",
-  "thesis": "New: Vistra preferred over Constellation (CEG) on valuation — 0.5x PEG vs CEG 1.5x; nuclear names catching a bid after Google's 20-yr deal with CEG; quicker-growing than CEG.",
+  "thesis": "New: Vistra preferred over Constellation (CEG) on valuation \u2014 0.5x PEG vs CEG 1.5x; nuclear names catching a bid after Google's 20-yr deal with CEG; quicker-growing than CEG.",
   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
   "price_at_call": "0.5x PEG; down 23% over last year"
  },
@@ -1742,7 +1742,7 @@
   "handle": "@josephhogue",
   "ticker": "BAC",
   "direction": "BUY",
-  "thesis": "FLIP from AVOID (Oct 8): Bank of America now the one to look at — 1.4x book, fastest revenue growth of the big five at 8.5%; cheap relative to JPM at 2.5x book.",
+  "thesis": "FLIP from AVOID (Oct 8): Bank of America now the one to look at \u2014 1.4x book, fastest revenue growth of the big five at 8.5%; cheap relative to JPM at 2.5x book.",
   "analyzed_at": "2026-10-12T03:57:21.387889+00:00",
   "price_at_call": "1.4x price-to-book; down ~13% over last month"
  },
@@ -1782,7 +1782,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "NVDA",
   "direction": "BUY",
-  "thesis": "Reiterated BUY: Microsoft building its own Maia inference chip is NOT bearish for Nvidia — compute demand is so large it does not dent Nvidia demand, and Nvidia remains best on total cost of ownership.",
+  "thesis": "Reiterated BUY: Microsoft building its own Maia inference chip is NOT bearish for Nvidia \u2014 compute demand is so large it does not dent Nvidia demand, and Nvidia remains best on total cost of ownership.",
   "price_at_call": "down over 1% on the day, below $226",
   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
  },
@@ -1792,7 +1792,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "AMD",
   "direction": "BUY",
-  "thesis": "Reiterated BUY (he is a shareholder): reported CPU price hikes by Intel, Qualcomm and AMD are extremely bullish — agentic demand far exceeds supply, so pricing restores balance and lifts margins.",
+  "thesis": "Reiterated BUY (he is a shareholder): reported CPU price hikes by Intel, Qualcomm and AMD are extremely bullish \u2014 agentic demand far exceeds supply, so pricing restores balance and lifts margins.",
   "price_at_call": "down ~2% on the day (no level stated)",
   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
  },
@@ -1812,7 +1812,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "ALAB",
   "direction": "BUY",
-  "thesis": "Reiterated BUY: same networking read-through — Nvidia's scale-up/scale-out domain improvements are very bullish for Astera Labs alongside Marvell and Credo.",
+  "thesis": "Reiterated BUY: same networking read-through \u2014 Nvidia's scale-up/scale-out domain improvements are very bullish for Astera Labs alongside Marvell and Credo.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
  },
@@ -1822,7 +1822,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "META",
   "direction": "BUY",
-  "thesis": "New BUY stance: extremely bullish on Meta — now #3 in AI models behind only Anthropic (ahead of OpenAI and Google) after the market wrote it off a few quarters ago; with its infrastructure it should sell tokens at great value.",
+  "thesis": "New BUY stance: extremely bullish on Meta \u2014 now #3 in AI models behind only Anthropic (ahead of OpenAI and Google) after the market wrote it off a few quarters ago; with its infrastructure it should sell tokens at great value.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
  },
@@ -1832,7 +1832,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "QCOM",
   "direction": "UNCERTAIN",
-  "thesis": "First tracked mention: named among the CPU price-hike beneficiaries (bullish for margins), and he is starting to take a closer look at Qualcomm — watchlist interest only, no buy call stated.",
+  "thesis": "First tracked mention: named among the CPU price-hike beneficiaries (bullish for margins), and he is starting to take a closer look at Qualcomm \u2014 watchlist interest only, no buy call stated.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
  },
@@ -1842,7 +1842,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "INTC",
   "direction": "UNCERTAIN",
-  "thesis": "First tracked mention: named among the CPU price-hike beneficiaries (demand far above supply, pricing lifts margins) — industry read-through only, no individual Intel thesis or buy call stated.",
+  "thesis": "First tracked mention: named among the CPU price-hike beneficiaries (demand far above supply, pricing lifts margins) \u2014 industry read-through only, no individual Intel thesis or buy call stated.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-13T03:58:37.822741+00:00"
  },
@@ -1852,7 +1852,7 @@
   "handle": "@josephhogue",
   "ticker": "BOT",
   "direction": "BUY",
-  "thesis": "Reiterated BUY (first tracked 9 Oct): follow-up interview with Robo Strategy CEO Andrew Kang; title frames BOT as 'the ONE stock I'm buying' — the Nasdaq closed-end fund as the vehicle for pre-IPO robotics/physical-AI exposure (Figure AI, Apptronik, Dyna Robotics, Standard Bots, Path Robotics). Kang: NAV/share up >50% (~55%) in ~4 months since launch, driven mostly by crystallising the NAV premium via new issuance ('multiple arbitrage'), not markups; fund trades at a premium to NAV today.",
+  "thesis": "Reiterated BUY (first tracked 9 Oct): follow-up interview with Robo Strategy CEO Andrew Kang; title frames BOT as 'the ONE stock I'm buying' \u2014 the Nasdaq closed-end fund as the vehicle for pre-IPO robotics/physical-AI exposure (Figure AI, Apptronik, Dyna Robotics, Standard Bots, Path Robotics). Kang: NAV/share up >50% (~55%) in ~4 months since launch, driven mostly by crystallising the NAV premium via new issuance ('multiple arbitrage'), not markups; fund trades at a premium to NAV today.",
   "price_at_call": "no market price stated; 2.5% management fee (expense ratio a bit higher on one-time listing costs, expected to compress); premium-to-NAV is the central risk",
   "analyzed_at": "2026-10-14T04:01:06.698133+00:00"
  },
@@ -1862,8 +1862,8 @@
   "handle": "@asymmetricinvesting",
   "ticker": "BMBL",
   "direction": "SELL",
-  "thesis": "First tracked BMBL call — SELL / take the buyout: Travis Hornsby holds Bumble in the Asymmetric portfolio (~30-40% gain after the ~135% two-day jump) but will sell into the agreed take-private (Ithaca/Blackstone-affiliated buyers, founder Whitney Wolfe Herd pushed out) rather than hold for completion — thesis had not worked (revenue falling since late 2024, paying users down to 2.1M, turnaround slower than planned, more competition), and he will redeploy into better opportunities. If the deal fails, stock could fall back to $2-$3.",
-  "price_at_call": "sellable ~$5.95 vs buyout offer ~10c higher per captions; captions garble the headline offer as '$65/share, 138% premium' — inconsistent with the $5.95 figure, so the offer price as captioned is unreliable; stock was down ~30% YTD before the offer, EV/sales ~1.1 (was ~0.5), forward P/FCF ~5",
+  "thesis": "First tracked BMBL call \u2014 SELL / take the buyout: Travis Hornsby holds Bumble in the Asymmetric portfolio (~30-40% gain after the ~135% two-day jump) but will sell into the agreed take-private (Ithaca/Blackstone-affiliated buyers, founder Whitney Wolfe Herd pushed out) rather than hold for completion \u2014 thesis had not worked (revenue falling since late 2024, paying users down to 2.1M, turnaround slower than planned, more competition), and he will redeploy into better opportunities. If the deal fails, stock could fall back to $2-$3.",
+  "price_at_call": "sellable ~$5.95 vs buyout offer ~10c higher per captions; captions garble the headline offer as '$65/share, 138% premium' \u2014 inconsistent with the $5.95 figure, so the offer price as captioned is unreliable; stock was down ~30% YTD before the offer, EV/sales ~1.1 (was ~0.5), forward P/FCF ~5",
   "analyzed_at": "2026-10-14T04:01:06.698133+00:00"
  },
  {
@@ -1872,7 +1872,7 @@
   "handle": "@josephhogue",
   "ticker": "INTC",
   "direction": "AVOID",
-  "thesis": "First tracked INTC call — AVOID / pass for now: Nvidia's ~215M-share (~$30B, ~half its 13F portfolio) stake and the x86/AI partnership prop Intel up, but he is not convinced Intel Foundry can compete with TSMC in advanced manufacturing, which is what the stock depends on.",
+  "thesis": "First tracked INTC call \u2014 AVOID / pass for now: Nvidia's ~215M-share (~$30B, ~half its 13F portfolio) stake and the x86/AI partnership prop Intel up, but he is not convinced Intel Foundry can compete with TSMC in advanced manufacturing, which is what the stock depends on.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1882,7 +1882,7 @@
   "handle": "@josephhogue",
   "ticker": "SPCX",
   "direction": "HOLD",
-  "thesis": "Reiterated HOLD / wait (prior HOLD): SpaceX could be a good long-term investment and has rebounded back around its IPO price, but he'd rather wait — valuation plus final lockup expirations coming off early investors over at least another month; Nvidia holds ~123M shares (~$21B) and SpaceX is reportedly seeking ~$40B largely to buy Nvidia chips.",
+  "thesis": "Reiterated HOLD / wait (prior HOLD): SpaceX could be a good long-term investment and has rebounded back around its IPO price, but he'd rather wait \u2014 valuation plus final lockup expirations coming off early investors over at least another month; Nvidia holds ~123M shares (~$21B) and SpaceX is reportedly seeking ~$40B largely to buy Nvidia chips.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1892,7 +1892,7 @@
   "handle": "@josephhogue",
   "ticker": "CRWV",
   "direction": "UNCERTAIN",
-  "thesis": "Tier-1 (highest Nvidia dependence) 'biggest question marks' with NBIS: neoclouds spending hundreds of billions before positive FCF are where the first cracks would show if the AI theme weakens; Nvidia holds 47.2M shares (~$4.7B) and backstops up to $6.3B of unsold capacity. Negative watch, no explicit buy/avoid in this video — stance unchanged from prior UNCERTAIN.",
+  "thesis": "Tier-1 (highest Nvidia dependence) 'biggest question marks' with NBIS: neoclouds spending hundreds of billions before positive FCF are where the first cracks would show if the AI theme weakens; Nvidia holds 47.2M shares (~$4.7B) and backstops up to $6.3B of unsold capacity. Negative watch, no explicit buy/avoid in this video \u2014 stance unchanged from prior UNCERTAIN.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1902,7 +1902,7 @@
   "handle": "@josephhogue",
   "ticker": "NBIS",
   "direction": "UNCERTAIN",
-  "thesis": "Tier-1 'biggest question marks' with CRWV: shares have held a ~100% one-year gain and investors bet it can become a dominant neocloud, but it shares the group's giant capex / negative-FCF dependence on Nvidia support; Nvidia position ~$328M. No explicit call — stance unchanged from prior UNCERTAIN.",
+  "thesis": "Tier-1 'biggest question marks' with CRWV: shares have held a ~100% one-year gain and investors bet it can become a dominant neocloud, but it shares the group's giant capex / negative-FCF dependence on Nvidia support; Nvidia position ~$328M. No explicit call \u2014 stance unchanged from prior UNCERTAIN.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1912,7 +1912,7 @@
   "handle": "@josephhogue",
   "ticker": "ORCL",
   "direction": "UNCERTAIN",
-  "thesis": "Grouped with CRWV/NBIS/IREN as the neocloud 'real weakest links' — giant cash-flow problems against equally giant data-center commitments, and CRWV/ORCL sentiment shows how fast it can turn when capex is questioned. No explicit stance verb in this video, so recorded UNCERTAIN; his prior tracked stance (5 Oct) was AVOID, not explicitly reiterated here.",
+  "thesis": "Grouped with CRWV/NBIS/IREN as the neocloud 'real weakest links' \u2014 giant cash-flow problems against equally giant data-center commitments, and CRWV/ORCL sentiment shows how fast it can turn when capex is questioned. No explicit stance verb in this video, so recorded UNCERTAIN; his prior tracked stance (5 Oct) was AVOID, not explicitly reiterated here.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1922,7 +1922,7 @@
   "handle": "@josephhogue",
   "ticker": "IREN",
   "direction": "UNCERTAIN",
-  "thesis": "Named in the neocloud weakest-link watch group (with CRWV, NBIS, ORCL) — cash-flow strain vs giant buildout commitments; no explicit call, stance unchanged from prior UNCERTAIN.",
+  "thesis": "Named in the neocloud weakest-link watch group (with CRWV, NBIS, ORCL) \u2014 cash-flow strain vs giant buildout commitments; no explicit call, stance unchanged from prior UNCERTAIN.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1932,7 +1932,7 @@
   "handle": "@josephhogue",
   "ticker": "COHR",
   "direction": "BUY",
-  "thesis": "First tracked COHR call — BUY: optical interconnect is 'quickly becoming the next bottleneck'; Nvidia holds 7.8M shares (~$3B) AND committed multi-billion-dollar purchases plus secured capacity rights — 'a stronger signal than just buying the stock... one I would definitely be following Nvidia into', and 'I'd be buying both of these' (COHR and LITE).",
+  "thesis": "First tracked COHR call \u2014 BUY: optical interconnect is 'quickly becoming the next bottleneck'; Nvidia holds 7.8M shares (~$3B) AND committed multi-billion-dollar purchases plus secured capacity rights \u2014 'a stronger signal than just buying the stock... one I would definitely be following Nvidia into', and 'I'd be buying both of these' (COHR and LITE).",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1942,7 +1942,7 @@
   "handle": "@josephhogue",
   "ticker": "LITE",
   "direction": "BUY",
-  "thesis": "First tracked LITE call — BUY: Lumentum (captions render 'Lummentum, ticker LIT') received a separate ~$2B Nvidia investment and similar purchase commitments for optical technology moving data between AI processors; 'I'd be buying both of these as well' (with COHR).",
+  "thesis": "First tracked LITE call \u2014 BUY: Lumentum (captions render 'Lummentum, ticker LIT') received a separate ~$2B Nvidia investment and similar purchase commitments for optical technology moving data between AI processors; 'I'd be buying both of these as well' (with COHR).",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1952,7 +1952,7 @@
   "handle": "@josephhogue",
   "ticker": "SNPS",
   "direction": "BUY",
-  "thesis": "Reiterated BUY: 'I do like this one' — Synopsys' chip-design software is critical to the industry, its business isn't dependent on Nvidia financing, the market isn't watching it as closely and valuation is still very good on ~37% expected revenue growth this year; Nvidia holds ~$2.1B.",
+  "thesis": "Reiterated BUY: 'I do like this one' \u2014 Synopsys' chip-design software is critical to the industry, its business isn't dependent on Nvidia financing, the market isn't watching it as closely and valuation is still very good on ~37% expected revenue growth this year; Nvidia holds ~$2.1B.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1962,7 +1962,7 @@
   "handle": "@josephhogue",
   "ticker": "NOK",
   "direction": "AVOID",
-  "thesis": "First tracked NOK call — AVOID: despite Nvidia's ~$2.2B investment and the AI-in-telecom/6G partnership, Nokia is 'still too much of a legacy telecom company' and 4-7% expected annual revenue growth 'just doesn't offer the growth I'm looking for' in AI names.",
+  "thesis": "First tracked NOK call \u2014 AVOID: despite Nvidia's ~$2.2B investment and the AI-in-telecom/6G partnership, Nokia is 'still too much of a legacy telecom company' and 4-7% expected annual revenue growth 'just doesn't offer the growth I'm looking for' in AI names.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1972,7 +1972,7 @@
   "handle": "@josephhogue",
   "ticker": "MRVL",
   "direction": "BUY",
-  "thesis": "Reiterated BUY: 'I've been buying Marvell now for a while' — one of the only competitors to Broadcom in custom AI accelerators; Nvidia's $2B investment + NVLink partnership brings a competitor into its own ecosystem, and he likes both sides of that opportunity.",
+  "thesis": "Reiterated BUY: 'I've been buying Marvell now for a while' \u2014 one of the only competitors to Broadcom in custom AI accelerators; Nvidia's $2B investment + NVLink partnership brings a competitor into its own ecosystem, and he likes both sides of that opportunity.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1982,7 +1982,7 @@
   "handle": "@josephhogue",
   "ticker": "ANET",
   "direction": "BUY",
-  "thesis": "First tracked ANET call — BUY: Arista Networks is 'another favorite' — networking hardware connecting massive AI data centers, a big Broadcom competitor where demand lets both win; 'I see no problem owning all three' (AVGO, MRVL, ANET).",
+  "thesis": "First tracked ANET call \u2014 BUY: Arista Networks is 'another favorite' \u2014 networking hardware connecting massive AI data centers, a big Broadcom competitor where demand lets both win; 'I see no problem owning all three' (AVGO, MRVL, ANET).",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -1992,7 +1992,7 @@
   "handle": "@josephhogue",
   "ticker": "AVGO",
   "direction": "BUY",
-  "thesis": "Reiterated BUY: 'Broadcom is one of my favorites here' (tier 3 — benefits from Nvidia without depending on its financing); competes with MRVL in custom AI chips and also sells networking/other semis; he'd own AVGO, MRVL and ANET together.",
+  "thesis": "Reiterated BUY: 'Broadcom is one of my favorites here' (tier 3 \u2014 benefits from Nvidia without depending on its financing); competes with MRVL in custom AI chips and also sells networking/other semis; he'd own AVGO, MRVL and ANET together.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -2002,7 +2002,7 @@
   "handle": "@josephhogue",
   "ticker": "VRT",
   "direction": "UNCERTAIN",
-  "thesis": "First tracked VRT mention: Vertiv is developing next-gen 800V power systems and cooling with Nvidia — power/cooling flagged as one of the biggest bottlenecks (up to ~10 years to build out vs a few for a data center); partnership discussed, no explicit buy call.",
+  "thesis": "First tracked VRT mention: Vertiv is developing next-gen 800V power systems and cooling with Nvidia \u2014 power/cooling flagged as one of the biggest bottlenecks (up to ~10 years to build out vs a few for a data center); partnership discussed, no explicit buy call.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -2012,7 +2012,7 @@
   "handle": "@josephhogue",
   "ticker": "MSFT",
   "direction": "UNCERTAIN",
-  "thesis": "First tracked MSFT mention in this watch: named a tier-3 'cash flow monster' / safest bet — can finance its own AI growth without Nvidia writing a check; 'definitely worth a look', no explicit buy call.",
+  "thesis": "First tracked MSFT mention in this watch: named a tier-3 'cash flow monster' / safest bet \u2014 can finance its own AI growth without Nvidia writing a check; 'definitely worth a look', no explicit buy call.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -2022,7 +2022,7 @@
   "handle": "@josephhogue",
   "ticker": "GOOGL",
   "direction": "UNCERTAIN",
-  "thesis": "First tracked GOOGL mention in this watch: same tier-3 framing as MSFT/AMZN — cash flow, infrastructure and customer relationships to self-finance AI growth; worth a look, no explicit buy call.",
+  "thesis": "First tracked GOOGL mention in this watch: same tier-3 framing as MSFT/AMZN \u2014 cash flow, infrastructure and customer relationships to self-finance AI growth; worth a look, no explicit buy call.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -2032,7 +2032,7 @@
   "handle": "@josephhogue",
   "ticker": "AMZN",
   "direction": "UNCERTAIN",
-  "thesis": "First tracked AMZN mention in this watch: same tier-3 'cash flow monster' framing as MSFT/GOOGL — benefits from the AI boom with or without Nvidia's financial support; no explicit buy call.",
+  "thesis": "First tracked AMZN mention in this watch: same tier-3 'cash flow monster' framing as MSFT/GOOGL \u2014 benefits from the AI boom with or without Nvidia's financial support; no explicit buy call.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -2042,7 +2042,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "CRWV",
   "direction": "BUY",
-  "thesis": "Reiterated BUY / bullish dip-add (prior BUY): the ~15% crash is 'an opportunity for my portfolio to add more into the neocloud space' — he's not worried: his own heavy AI use keeps growing and ASML's earnings said chip customers expect supply to fall short of demand until at least 2028. The 15% bond yield is the market price on existing July 2026 bonds, not what CoreWeave pays (future debt could cost more). Valuation close: 1.5 GW of capacity at a ~$36B market cap vs ~$60B of value per GW — 'some wrong math happening here'. Long-term investor; ride will be choppy.",
+  "thesis": "Reiterated BUY / bullish dip-add (prior BUY): the ~15% crash is 'an opportunity for my portfolio to add more into the neocloud space' \u2014 he's not worried: his own heavy AI use keeps growing and ASML's earnings said chip customers expect supply to fall short of demand until at least 2028. The 15% bond yield is the market price on existing July 2026 bonds, not what CoreWeave pays (future debt could cost more). Valuation close: 1.5 GW of capacity at a ~$36B market cap vs ~$60B of value per GW \u2014 'some wrong math happening here'. Long-term investor; ride will be choppy.",
   "price_at_call": "no share price stated; down ~15% on the day; ~$36B market cap and 1.5 GW capacity cited; bond yields touching 15%",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -2052,7 +2052,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "NBIS",
   "direction": "UNCERTAIN",
-  "thesis": "First tracked NBIS mention for Jose: Nebius down ~9-10% in the same neocloud selloff and used as a size comparison (CoreWeave added 500 MW last quarter — more than Nebius and peers combined); his add comment was sector-level, no NBIS-specific call.",
+  "thesis": "First tracked NBIS mention for Jose: Nebius down ~9-10% in the same neocloud selloff and used as a size comparison (CoreWeave added 500 MW last quarter \u2014 more than Nebius and peers combined); his add comment was sector-level, no NBIS-specific call.",
   "price_at_call": "no price stated; down ~9-10% on the day",
   "analyzed_at": "2026-10-15T03:59:03.849525+00:00"
  },
@@ -2082,7 +2082,7 @@
   "handle": "@danielpronk",
   "ticker": "IREN",
   "direction": "AVOID",
-  "thesis": "Much better balance sheet than CoreWeave, but still a very expensive stock today; grouped in his 'not interested in owning any of these neocloud businesses' stance — long-term moats unclear, largely commodity GPU-rental beneficiaries of supply/demand.",
+  "thesis": "Much better balance sheet than CoreWeave, but still a very expensive stock today; grouped in his 'not interested in owning any of these neocloud businesses' stance \u2014 long-term moats unclear, largely commodity GPU-rental beneficiaries of supply/demand.",
   "analyzed_at": "2026-10-17T03:58:32.502406+00:00",
   "price_at_call": "Down 42% over past couple of weeks (no share price stated; captions render the name 'Irontock/Iron')"
  },
@@ -2122,7 +2122,7 @@
   "handle": "@josephhogue",
   "ticker": "BABA",
   "direction": "BUY",
-  "thesis": "Looking to add, probably about double his 1,500-share position over the next couple of weeks before early-November earnings. Thesis: Alibaba's Qwen open-source model (captions: 'Qin') benefits as firms flee expensive closed frontier models — Chinese open-source models processed 76 trillion tokens in the week ended 27 Sep, up from 4.3 trillion in late April — and he expects that growth to show in the next report after a disappointing spending-heavy last report.",
+  "thesis": "Looking to add, probably about double his 1,500-share position over the next couple of weeks before early-November earnings. Thesis: Alibaba's Qwen open-source model (captions: 'Qin') benefits as firms flee expensive closed frontier models \u2014 Chinese open-source models processed 76 trillion tokens in the week ended 27 Sep, up from 4.3 trillion in late April \u2014 and he expects that growth to show in the next report after a disappointing spending-heavy last report.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "$109 per share"
  },
@@ -2142,7 +2142,7 @@
   "handle": "@josephhogue",
   "ticker": "CRWD",
   "direction": "HOLD",
-  "thesis": "Held as part of his favourite long-term cybersecurity theme; group sold off 11-20% in five days (CrowdStrike -16%), which he calls a great buying opportunity in aggregate, but he notes CrowdStrike and Palo Alto are a little more expensive than he likes — no specific new buy stated for this name. Falcon platform called the best in the group, 23% forward revenue growth.",
+  "thesis": "Held as part of his favourite long-term cybersecurity theme; group sold off 11-20% in five days (CrowdStrike -16%), which he calls a great buying opportunity in aggregate, but he notes CrowdStrike and Palo Alto are a little more expensive than he likes \u2014 no specific new buy stated for this name. Falcon platform called the best in the group, 23% forward revenue growth.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "No price stated; down ~7% on Friday and ~16% over five days"
  },
@@ -2152,7 +2152,7 @@
   "handle": "@josephhogue",
   "ticker": "PANW",
   "direction": "HOLD",
-  "thesis": "Held in the same cybersecurity group; largest company in the space with scale/scope, 20% forward revenue growth, up 126% since he started buying — but, like CrowdStrike, a little more expensive than he likes here, with no specific new buy stated for this name.",
+  "thesis": "Held in the same cybersecurity group; largest company in the space with scale/scope, 20% forward revenue growth, up 126% since he started buying \u2014 but, like CrowdStrike, a little more expensive than he likes here, with no specific new buy stated for this name.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "No price stated; down almost 8% on Friday and ~17% over five days"
  },
@@ -2162,7 +2162,7 @@
   "handle": "@josephhogue",
   "ticker": "FTNT",
   "direction": "HOLD",
-  "thesis": "Explicit pause: he probably would not pick up a whole lot more Fortinet (or Okta) just yet — at ~3x price-to-earnings adjusted for growth it is a little more expensive versus its history, in slower-growing segments (15% growth), though profitability is its strength. Down from his prior BUY stance.",
+  "thesis": "Explicit pause: he probably would not pick up a whole lot more Fortinet (or Okta) just yet \u2014 at ~3x price-to-earnings adjusted for growth it is a little more expensive versus its history, in slower-growing segments (15% growth), though profitability is its strength. Down from his prior BUY stance.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "No price stated; down ~7% on Friday and ~13% over five days"
  },
@@ -2172,7 +2172,7 @@
   "handle": "@josephhogue",
   "ticker": "OKTA",
   "direction": "HOLD",
-  "thesis": "First tracked Okta call: held in the cybersecurity group, but he probably would not pick up a whole lot more just yet — ~3x PEG, smaller identity-access segment, slowest growth in the group at ~11%.",
+  "thesis": "First tracked Okta call: held in the cybersecurity group, but he probably would not pick up a whole lot more just yet \u2014 ~3x PEG, smaller identity-access segment, slowest growth in the group at ~11%.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "No price stated; down ~20% over five days, the worst in the group"
  },
@@ -2182,7 +2182,7 @@
   "handle": "@josephhogue",
   "ticker": "ZS",
   "direction": "BUY",
-  "thesis": "Picking up more shares: his value pick in cybersecurity — under 2x price-to-earnings adjusted for growth, 20% expected revenue growth, and it fell least in the sell-off because it had already lagged this year.",
+  "thesis": "Picking up more shares: his value pick in cybersecurity \u2014 under 2x price-to-earnings adjusted for growth, 20% expected revenue growth, and it fell least in the sell-off because it had already lagged this year.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "No price stated; down ~6% on Friday and ~11% over five days"
  },
@@ -2212,7 +2212,7 @@
   "handle": "@josephhogue",
   "ticker": "GRAB",
   "direction": "HOLD",
-  "thesis": "Still holding: calls Grab the super app nobody is talking about — dominant in finance, delivery and mobility across ~17 Southeast Asian countries; thinks it either gets acquired (possibly by Uber) or keeps growing, and can get back to $6 very quickly.",
+  "thesis": "Still holding: calls Grab the super app nobody is talking about \u2014 dominant in finance, delivery and mobility across ~17 Southeast Asian countries; thinks it either gets acquired (possibly by Uber) or keeps growing, and can get back to $6 very quickly.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "Average cost ~$3; sees a return to $6 (no current price stated)"
  },
@@ -2222,7 +2222,7 @@
   "handle": "@josephhogue",
   "ticker": "NOW",
   "direction": "UNCERTAIN",
-  "thesis": "Discussed favourably versus Salesforce — he likes ServiceNow much more for the orchestration/management layer between AI models and agents, and will feature it in Wednesday's AI-application transition video — but no explicit new buy or hold stance was stated for this video.",
+  "thesis": "Discussed favourably versus Salesforce \u2014 he likes ServiceNow much more for the orchestration/management layer between AI models and agents, and will feature it in Wednesday's AI-application transition video \u2014 but no explicit new buy or hold stance was stated for this video.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "No price stated; up ~35% since he started adding it"
  },
@@ -2242,7 +2242,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "NBIS",
   "direction": "UNCERTAIN",
-  "thesis": "Positive full-section coverage — revenue +454% YoY, full-stack margins, Token Factory inference, and an asset-light model where partners finance/build facilities while Nebius supplies cloud software, design and customers — but he does not own it and gave no Nebius-specific buy call; CoreWeave is the neocloud he is really into.",
+  "thesis": "Positive full-section coverage \u2014 revenue +454% YoY, full-stack margins, Token Factory inference, and an asset-light model where partners finance/build facilities while Nebius supplies cloud software, design and customers \u2014 but he does not own it and gave no Nebius-specific buy call; CoreWeave is the neocloud he is really into.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "Around $160 last time he checked; down ~25% from 9-16 Oct"
  },
@@ -2272,7 +2272,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "LITE",
   "direction": "UNCERTAIN",
-  "thesis": "Positive Lumentum coverage — Q4 revenue +110% YoY, 1.6T transceivers shipping, 800G still shipping, optical circuit switching revenue expected above $100m next quarter, external light sources from H2 calendar 2027 — and he calls the valuation attractive, but he does not own it and stated no buy plan.",
+  "thesis": "Positive Lumentum coverage \u2014 Q4 revenue +110% YoY, 1.6T transceivers shipping, 800G still shipping, optical circuit switching revenue expected above $100m next quarter, external light sources from H2 calendar 2027 \u2014 and he calls the valuation attractive, but he does not own it and stated no buy plan.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "Around $820 (captions garbled as '$800 and $20'); forward FY27 P/E ~32.61; down with the group 9-16 Oct"
  },
@@ -2292,7 +2292,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "MRVL",
   "direction": "BUY",
-  "thesis": "Bullish coverage of a held name (owned for both AI chips and networking): revenue +36.5% YoY, custom XPU plus XPU-attach (scale-up fabrics, memory, CXL, co-processors) market expected to more than double by fiscal 2028 per its investor day, and 1.6T/scale-out switching growth — while noting it is one of the more expensive names here at a forward FY27 P/E of ~49.",
+  "thesis": "Bullish coverage of a held name (owned for both AI chips and networking): revenue +36.5% YoY, custom XPU plus XPU-attach (scale-up fabrics, memory, CXL, co-processors) market expected to more than double by fiscal 2028 per its investor day, and 1.6T/scale-out switching growth \u2014 while noting it is one of the more expensive names here at a forward FY27 P/E of ~49.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "No price stated"
  },
@@ -2312,7 +2312,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "CRDO",
   "direction": "BUY",
-  "thesis": "One of his favourite networking plays and a held name: revenue +114% YoY and ~10% QoQ, next-quarter guide ~$535m at the top end with conservative management, active electrical cables remain a large business despite optics fears, and silver-flat optics/silicon photonics (Dust Photonics acquisition) add new streams — forward FY27 P/E ~25.5, which he calls very attractive.",
+  "thesis": "One of his favourite networking plays and a held name: revenue +114% YoY and ~10% QoQ, next-quarter guide ~$535m at the top end with conservative management, active electrical cables remain a large business despite optics fears, and silver-flat optics/silicon photonics (Dust Photonics acquisition) add new streams \u2014 forward FY27 P/E ~25.5, which he calls very attractive.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "No share price stated; down ~21.6% from 9-16 Oct; forward P/E ~25.5 cited"
  },
@@ -2322,7 +2322,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "ALAB",
   "direction": "BUY",
-  "thesis": "Bullish coverage of a held networking name: revenue +105% YoY and +27% QoQ, PCIe 4/5/6 still selling with 7 sampling in Q4 2026, Scorpio scale-up switching in growing volume production with lead customers ramping — expensive near-term (forward P/E ~66 within ~4 months) but he expects the next 18 months to make it much cheaper; networking is, in his view, one of the most overlooked AI spaces.",
+  "thesis": "Bullish coverage of a held networking name: revenue +105% YoY and +27% QoQ, PCIe 4/5/6 still selling with 7 sampling in Q4 2026, Scorpio scale-up switching in growing volume production with lead customers ramping \u2014 expensive near-term (forward P/E ~66 within ~4 months) but he expects the next 18 months to make it much cheaper; networking is, in his view, one of the most overlooked AI spaces.",
   "analyzed_at": "2026-10-19T04:01:40.277005+00:00",
   "price_at_call": "No price stated; forward P/E ~66 near-term cited"
  },
@@ -2332,7 +2332,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "NVDA",
   "direction": "BUY",
-  "thesis": "Reiterated bullish: Meta's Prometheus supercluster confirms real AI demand — first phase complete with hundreds of thousands of Nvidia GPUs, target roughly 1 million distributed GPUs; Nvidia is the big winner (GPU domain/NVLink, ConnectX NICs) and co-design learnings with Meta can be pushed to other customers.",
+  "thesis": "Reiterated bullish: Meta's Prometheus supercluster confirms real AI demand \u2014 first phase complete with hundreds of thousands of Nvidia GPUs, target roughly 1 million distributed GPUs; Nvidia is the big winner (GPU domain/NVLink, ConnectX NICs) and co-design learnings with Meta can be pushed to other customers.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-20T03:59:07.714277+00:00"
  },
@@ -2342,7 +2342,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "META",
   "direction": "UNCERTAIN",
-  "thesis": "Positive coverage only, no explicit buy/hold in this video: Prometheus was used to train Muse models, Meta is 'killing it' in AI, goodput above 85% for Muse pre-training and above 90% for RL, reliability improving toward 2 interruptions per 8,000 GPUs/day, and he is excited for upcoming earnings / a possible premium compute sale — no new stance stated.",
+  "thesis": "Positive coverage only, no explicit buy/hold in this video: Prometheus was used to train Muse models, Meta is 'killing it' in AI, goodput above 85% for Muse pre-training and above 90% for RL, reliability improving toward 2 interruptions per 8,000 GPUs/day, and he is excited for upcoming earnings / a possible premium compute sale \u2014 no new stance stated.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-20T03:59:07.714277+00:00"
  },
@@ -2352,7 +2352,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "AVGO",
   "direction": "UNCERTAIN",
-  "thesis": "Named networking beneficiary only: Meta's backend aggregation uses Arista 7800 switches built on Broadcom Jericho, and million-GPU scale-out should create many networking winners — no Broadcom-specific buy call in this video.",
+  "thesis": "Named networking beneficiary only: Meta's backend aggregation uses Arista 7800 switches built on Broadcom Jericho, and million-GPU scale-out should create many networking winners \u2014 no Broadcom-specific buy call in this video.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-20T03:59:07.714277+00:00"
  },
@@ -2362,7 +2362,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "ANET",
   "direction": "UNCERTAIN",
-  "thesis": "Named networking beneficiary only: Arista 7800 cited in Meta's aggregation layer, benefiting alongside Broadcom as clusters scale — no Arista-specific buy call in this video.",
+  "thesis": "Named networking beneficiary only: Arista 7800 cited in Meta's aggregation layer, benefiting alongside Broadcom as clusters scale \u2014 no Arista-specific buy call in this video.",
   "price_at_call": "no price stated",
   "analyzed_at": "2026-10-20T03:59:07.714277+00:00"
  },
@@ -2435,7 +2435,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "NVDA",
   "direction": "BUY",
-  "thesis": "Remains bullish and calm on Nvidia and the AI industry: SpaceXAI/xAI (captions render it 'SpaceX') is scaling compute fast (1.7 GW active end-Sep, ~2 GW end-Oct, 2.5 GW by year-end, ~13 GW targeted by end of next year, ~200,000 GB300s coming online per month), Super Micro raised its guide sharply on server demand, and new compute deployments are reportedly paying back in under a year — he reads all of it as proof AI GPU demand is still extreme.",
+  "thesis": "Remains bullish and calm on Nvidia and the AI industry: SpaceXAI/xAI (captions render it 'SpaceX') is scaling compute fast (1.7 GW active end-Sep, ~2 GW end-Oct, 2.5 GW by year-end, ~13 GW targeted by end of next year, ~200,000 GB300s coming online per month), Super Micro raised its guide sharply on server demand, and new compute deployments are reportedly paying back in under a year \u2014 he reads all of it as proof AI GPU demand is still extreme.",
   "analyzed_at": "2026-10-21T04:00:25.111307+00:00",
   "price_at_call": "No share price stated; Nvidia up about 2% on the day in the video's market roundup"
  },
@@ -2465,7 +2465,7 @@
   "handle": "@danielpronk",
   "ticker": "META",
   "direction": "HOLD",
-  "thesis": "Messy Q3 but underlying profitability still growing: revenue up 26% YoY to $64.6B, a $9.89B legal charge suppressed operating income, free cash flow was negative this quarter (capex $34.91B vs operating cash flow $32.8B) and he expects negative FCF and some dilution from the new Class C share into 2027 — but he still thinks Meta is undervalued (updated DCF: 15% operating-cash-flow growth at 14x price/OCF gives ~17% annual compounding; ~23x normalised earnings if net margin returns to ~30%), so he continues holding and would increase the position if the shares come down more.",
+  "thesis": "Messy Q3 but underlying profitability still growing: revenue up 26% YoY to $64.6B, a $9.89B legal charge suppressed operating income, free cash flow was negative this quarter (capex $34.91B vs operating cash flow $32.8B) and he expects negative FCF and some dilution from the new Class C share into 2027 \u2014 but he still thinks Meta is undervalued (updated DCF: 15% operating-cash-flow growth at 14x price/OCF gives ~17% annual compounding; ~23x normalised earnings if net margin returns to ~30%), so he continues holding and would increase the position if the shares come down more.",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
   "price_at_call": "Up ~5% in after-hours at recording; no share price stated (he was building his position when it was under $600 a couple of months ago)"
  },
@@ -2485,9 +2485,9 @@
   "handle": "@josephhogue",
   "ticker": "NOW",
   "direction": "BUY",
-  "thesis": "ServiceNow as the orchestration layer between a company's AI agents and AI models, routing agents to the most efficient model and controlling AI costs; revenue expected up 22% this year, $5.3B operating cash flow and $4.5B+ free cash flow, $2.5B cash — no survivability worry; risk is Microsoft, Salesforce and AI developers competing in the same orchestration role; he thinks Wall Street is too focused on software risks and the stock goes much higher.",
+  "thesis": "ServiceNow as the orchestration layer between a company's AI agents and AI models, routing agents to the most efficient model and controlling AI costs; revenue expected up 22% this year, $5.3B operating cash flow and $4.5B+ free cash flow, $2.5B cash \u2014 no survivability worry; risk is Microsoft, Salesforce and AI developers competing in the same orchestration role; he thinks Wall Street is too focused on software risks and the stock goes much higher.",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
-  "price_at_call": "Down ~21% over 12 months; analyst average target $155 (~10% upside) as stated in captions — that target figure looks garbled, treat with caution"
+  "price_at_call": "Down ~21% over 12 months; analyst average target $155 (~10% upside) as stated in captions \u2014 that target figure looks garbled, treat with caution"
  },
  {
   "video_id": "gYOUhwmQqs4",
@@ -2495,7 +2495,7 @@
   "handle": "@josephhogue",
   "ticker": "PLTR",
   "direction": "CONDITIONAL_BUY",
-  "thesis": "Palantir could be one of the biggest winners from turning AI into real-world business decisions (revenue expected up 83% this year, ~50% next year; $3.4B operating/free cash flow, $2B+ cash), but valuation is the big risk at 163x earnings / 80x sales — he wants it down to around $160 or even $150 a share before jumping in too much and is not loading up at the current price.",
+  "thesis": "Palantir could be one of the biggest winners from turning AI into real-world business decisions (revenue expected up 83% this year, ~50% next year; $3.4B operating/free cash flow, $2B+ cash), but valuation is the big risk at 163x earnings / 80x sales \u2014 he wants it down to around $160 or even $150 a share before jumping in too much and is not loading up at the current price.",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
   "price_at_call": "His buy zone $150-$160; analyst average target $212 (~13% upside), low target $80 (-57%) as stated"
  },
@@ -2505,7 +2505,7 @@
   "handle": "@josephhogue",
   "ticker": "NET",
   "direction": "BUY",
-  "thesis": "Cloudflare as the management/secure layer between AI agents and models, with authentication and protection built in, on top of its global security/connectivity network; revenue expected up 32% this year and profits up 35% to $1.26/share, $633M operating cash flow and ~$1.7B cash — enough to survive an AI crash and ramp back up.",
+  "thesis": "Cloudflare as the management/secure layer between AI agents and models, with authentication and protection built in, on top of its global security/connectivity network; revenue expected up 32% this year and profits up 35% to $1.26/share, $633M operating cash flow and ~$1.7B cash \u2014 enough to survive an AI crash and ramp back up.",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
   "price_at_call": "Up ~38% over 12 months; analyst average target $358 (~21% upside), low target $160 as stated"
  },
@@ -2515,7 +2515,7 @@
   "handle": "@josephhogue",
   "ticker": "SOUN",
   "direction": "BUY",
-  "thesis": "SoundHound in his seven to buy for the post-bubble world despite being one of the riskiest names: voice AI for restaurants, customer service and autos, a stated $140B market opportunity, revenue expected up 73% this year to almost $300M and 32% next year — but it has never generated positive cash flow and depends on constant financing (~$200M cash on hand as stated); he first recommended it near $4.80 in early 2024, had shares called away around $15 in January and bought back just under $9 in April.",
+  "thesis": "SoundHound in his seven to buy for the post-bubble world despite being one of the riskiest names: voice AI for restaurants, customer service and autos, a stated $140B market opportunity, revenue expected up 73% this year to almost $300M and 32% next year \u2014 but it has never generated positive cash flow and depends on constant financing (~$200M cash on hand as stated); he first recommended it near $4.80 in early 2024, had shares called away around $15 in January and bought back just under $9 in April.",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
   "price_at_call": "Analyst average target $11 (more than double the current price as stated); low target $6 (~26% upside)"
  },
@@ -2525,7 +2525,7 @@
   "handle": "@josephhogue",
   "ticker": "TEM",
   "direction": "BUY",
-  "thesis": "First tracked Hogue TEM call (captions say 'Tempest AI' for Tempus AI): combines clinical records, genomic information and AI to help doctors choose treatments; its growing clinical/genomic library could be hard to replicate; revenue expected up 25% this year and the earnings loss narrowing to ~5c/share next year — but it burns ~$270M cash a year ($600M+ cash on hand) and faces healthcare-regulation risk, so survivability is a question mark. He recommended it on 15 July.",
+  "thesis": "First tracked Hogue TEM call (captions say 'Tempest AI' for Tempus AI): combines clinical records, genomic information and AI to help doctors choose treatments; its growing clinical/genomic library could be hard to replicate; revenue expected up 25% this year and the earnings loss narrowing to ~5c/share next year \u2014 but it burns ~$270M cash a year ($600M+ cash on hand) and faces healthcare-regulation risk, so survivability is a question mark. He recommended it on 15 July.",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
   "price_at_call": "Down ~27% over the last year, up ~15% since his 15 July recommendation; analyst average target $73 (~10% upside) as stated"
  },
@@ -2535,7 +2535,7 @@
   "handle": "@josephhogue",
   "ticker": "SNOW",
   "direction": "BUY",
-  "thesis": "First tracked Hogue SNOW call and one of his favourite growth stories: Snowflake helps companies organise and use proprietary data that AI agents need, with Cortex AI built directly on that data; revenue expected up 35% this year, $1.2B operating cash flow and nearly as much free cash flow, $1.7B cash and debt being paid down — no survivability worry.",
+  "thesis": "First tracked Hogue SNOW call and one of his favourite growth stories: Snowflake helps companies organise and use proprietary data that AI agents need, with Cortex AI built directly on that data; revenue expected up 35% this year, $1.2B operating cash flow and nearly as much free cash flow, $1.7B cash and debt being paid down \u2014 no survivability worry.",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
   "price_at_call": "Up ~26% over 12 months, down ~20% from the peak in last week's sell-off; analyst average target $438 (~41% upside), low target $360 (~16% upside) as stated"
  },
@@ -2545,7 +2545,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "NVDA",
   "direction": "BUY",
-  "thesis": "Very, very bullish reiterated: the new DSX pods (captions render them 'DSX') — pre-built shipping-container AI factories with Vera Rubin NVL72 systems, power and cooling built in — cut AI-factory production from ~6 months to as little as 14 days, removing execution and lender risk and making Nvidia the only supplier doing this right now; he calls it a massive win that lets Nvidia scale and sell more. Other GTC Berlin items (agent safety, robotics, Vera vs Blackwell) were mostly repeats for channel followers.",
+  "thesis": "Very, very bullish reiterated: the new DSX pods (captions render them 'DSX') \u2014 pre-built shipping-container AI factories with Vera Rubin NVL72 systems, power and cooling built in \u2014 cut AI-factory production from ~6 months to as little as 14 days, removing execution and lender risk and making Nvidia the only supplier doing this right now; he calls it a massive win that lets Nvidia scale and sell more. Other GTC Berlin items (agent safety, robotics, Vera vs Blackwell) were mostly repeats for channel followers.",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
   "price_at_call": "Up ~2.5% on the day, down ~1.2% after hours; no share price stated"
  },
@@ -2555,7 +2555,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "LRCX",
   "direction": "UNCERTAIN",
-  "thesis": "First tracked Najarro LRCX call (captions say 'Lamb Research' for Lam Research): positive coverage only, no explicit buy — he is not a shareholder but says he would not be scared of the ~7.4% post-earnings sell-off; Lam beat revenue/earnings only narrowly and guided ~$100M above consensus at the midpoint, wafer-fab equipment spending is expected above $200B in 2027 vs mid-$150B in 2026 (DRAM first, then leading-edge logic and NAND), and he thinks the equipment market stays strong in 2027 and potentially 2028 despite the market pricing the cycle as nearly over.",
+  "thesis": "First tracked Najarro LRCX call (captions say 'Lamb Research' for Lam Research): positive coverage only, no explicit buy \u2014 he is not a shareholder but says he would not be scared of the ~7.4% post-earnings sell-off; Lam beat revenue/earnings only narrowly and guided ~$100M above consensus at the midpoint, wafer-fab equipment spending is expected above $200B in 2027 vs mid-$150B in 2026 (DRAM first, then leading-edge logic and NAND), and he thinks the equipment market stays strong in 2027 and potentially 2028 despite the market pricing the cycle as nearly over.",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
   "price_at_call": "Down ~7.4% after earnings; forward P/E ~27 before the drop, ~25 after; up ~41% year-to-date before the drop (~30% after)"
  },
@@ -2565,7 +2565,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "TXN",
   "direction": "UNCERTAIN",
-  "thesis": "First tracked Najarro TXN call: positive earnings coverage only, no explicit buy — Q3 revenue $6.06B, up 28% YoY and 11% sequentially and ahead of expectations, data-centre revenue up ~95% YoY, industrial up more than 40% and automotive up mid-teens, with Q4 guidance midpoint above analyst expectations; he stresses it is not only an AI data-centre story.",
+  "thesis": "First tracked Najarro TXN call: positive earnings coverage only, no explicit buy \u2014 Q3 revenue $6.06B, up 28% YoY and 11% sequentially and ahead of expectations, data-centre revenue up ~95% YoY, industrial up more than 40% and automotive up mid-teens, with Q4 guidance midpoint above analyst expectations; he stresses it is not only an AI data-centre story.",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
   "price_at_call": "Up ~1.3% after earnings; no share price stated"
  },
@@ -2575,7 +2575,7 @@
   "handle": "@josenajarrostocks",
   "ticker": "META",
   "direction": "UNCERTAIN",
-  "thesis": "Positive read-through only, no explicit buy of Meta stated: he calls Meta's report extremely, extremely bullish for the whole AI/semi cycle — revenue up 26%, Q4 guide $73-76B, full-year capex lower bound raised from $130B to $135B (range $135-145B), Muse momentum (10M+ setups in US/Canada in 1.5 months, ~25% daily use, shopping purchases over $200) and compute constraints preventing a global Muse launch — plus the new Class C share, which he reads as preparation to raise large capex money without diluting Zuckerberg's voting rights.",
+  "thesis": "Positive read-through only, no explicit buy of Meta stated: he calls Meta's report extremely, extremely bullish for the whole AI/semi cycle \u2014 revenue up 26%, Q4 guide $73-76B, full-year capex lower bound raised from $130B to $135B (range $135-145B), Muse momentum (10M+ setups in US/Canada in 1.5 months, ~25% daily use, shopping purchases over $200) and compute constraints preventing a global Muse launch \u2014 plus the new Class C share, which he reads as preparation to raise large capex money without diluting Zuckerberg's voting rights.",
   "analyzed_at": "2026-10-22T03:59:30.269037+00:00",
   "price_at_call": "No price stated"
  },
@@ -2585,7 +2585,7 @@
   "handle": "@BrianFeroldiYT",
   "ticker": "FICO",
   "direction": "CONDITIONAL_BUY",
-  "thesis": "First tracked Feroldi FICO call: leans opportunity over value trap, but wants an even cheaper valuation than today before getting excited — stock down ~66% from its all-time high at ~23x earnings (vs ~50x 10-year average), revenue +20%+ and earnings +25% over the last year with 2027 revenue growth expected ~28% and full-year 2026 guidance raised, wide moat (54% return on capital, software lock-in, de facto standard score) now damaged by egregious mortgage-score price rises (60c to $10 since 2022), Rocket Mortgage switching preference to VantageScore, and a September 2026 FHFA move to one pricing grid giving VantageScore equal terms (Vantage offered at 99c vs FICO $10); third concern is $2.3B of debt-funded buybacks done likely above 30x earnings while the shares were in freefall. Opportunity only if no more share loss, growth persists and buybacks prove well-timed; a trap if the monopoly is gone for good.",
+  "thesis": "First tracked Feroldi FICO call: leans opportunity over value trap, but wants an even cheaper valuation than today before getting excited \u2014 stock down ~66% from its all-time high at ~23x earnings (vs ~50x 10-year average), revenue +20%+ and earnings +25% over the last year with 2027 revenue growth expected ~28% and full-year 2026 guidance raised, wide moat (54% return on capital, software lock-in, de facto standard score) now damaged by egregious mortgage-score price rises (60c to $10 since 2022), Rocket Mortgage switching preference to VantageScore, and a September 2026 FHFA move to one pricing grid giving VantageScore equal terms (Vantage offered at 99c vs FICO $10); third concern is $2.3B of debt-funded buybacks done likely above 30x earnings while the shares were in freefall. Opportunity only if no more share loss, growth persists and buybacks prove well-timed; a trap if the monopoly is gone for good.",
   "analyzed_at": "2026-10-23T03:56:53.103854+00:00",
   "price_at_call": "Down ~66% from all-time high; trading at ~23x earnings (no dollar share price stated)"
  },
@@ -2595,7 +2595,7 @@
   "handle": "@asymmetricinvesting",
   "ticker": "CRWV",
   "direction": "AVOID",
-  "thesis": "Reiterated AVOID: CoreWeave is the worked example of the AI financing risk — its 9% 2031 debt is trading at a 14.6% yield (over 15% in recent days), a distress-like level; it has about $35B of debt and $5.5B of cash at the end of the most recent quarter against expected capex of $36B in 2026, $47B next year and $51B the year after, so it must keep raising capital at a higher cost than the last tranche, and customer prepayments cannot be assumed to continue if compute becomes less scarce.",
+  "thesis": "Reiterated AVOID: CoreWeave is the worked example of the AI financing risk \u2014 its 9% 2031 debt is trading at a 14.6% yield (over 15% in recent days), a distress-like level; it has about $35B of debt and $5.5B of cash at the end of the most recent quarter against expected capex of $36B in 2026, $47B next year and $51B the year after, so it must keep raising capital at a higher cost than the last tranche, and customer prepayments cannot be assumed to continue if compute becomes less scarce.",
   "analyzed_at": "2026-10-24T03:57:34.097774+00:00",
   "price_at_call": "No share price stated; 9% 2031 debt yield 14.6% (over 15% within the last couple of days)"
  },
@@ -2605,7 +2605,7 @@
   "handle": "@asymmetricinvesting",
   "ticker": "NBIS",
   "direction": "AVOID",
-  "thesis": "Reiterated AVOID: Nebius is highlighted as a major risk company — its convertible debt is a benefit only if the share price rises and it converts; much of that debt has fallen below the convert price in the past couple of months, and the debt issued in September is now trading at about 85 cents on the dollar, telling him investors are demanding more yield to take risk in AI stocks.",
+  "thesis": "Reiterated AVOID: Nebius is highlighted as a major risk company \u2014 its convertible debt is a benefit only if the share price rises and it converts; much of that debt has fallen below the convert price in the past couple of months, and the debt issued in September is now trading at about 85 cents on the dollar, telling him investors are demanding more yield to take risk in AI stocks.",
   "analyzed_at": "2026-10-24T03:57:34.097774+00:00",
   "price_at_call": "No share price stated; September convertible debt trading at about 85 cents on the dollar"
  },
@@ -2758,5 +2758,95 @@
   "thesis": "Positive upstream coverage only, no explicit buy stated (reiterated UNCERTAIN; captions render Lam Research as 'Lamb'): Lam's revenue reached ~$8.2bn in the quarter discussed, up 22% sequentially, with December-quarter sequential growth guided and the outlook said to have been held back by clean-room and component constraints. Management sees DRAM leading growth, then foundry/logic, with wafer-fab spending above $200bn in 2027, which he reads as AI demand broadening beyond GPUs to memory, storage and CPUs, constrained by 2-3 year fab build times.",
   "price_at_call": "No share price stated; shares down ~12% on 22 Oct in the video's roundup (down ~7.4% post-earnings in his 22 Oct video)",
   "analyzed_at": "2026-10-26T04:58:06.524826+00:00"
+ },
+ {
+  "video_id": "Qf72K1Fends",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "000660.KS",
+  "direction": "UNCERTAIN",
+  "thesis": "First tracked SK Hynix call \u2014 positive coverage only, no explicit buy of SK Hynix stated: SK Hynix reported HBM volume requirements more than twice what it can currently supply, DRAM and HBM volumes through 2026 effectively sold out on long-term agreements plus demand still under discussion, shortages discussed out to 2029 and even 2030, HBM4 yield above plan and HBM4E samples completed in Q2, and long-term agreements have allocated more than 50% of 2027-2028 production capacity \u2014 which he calls extremely bullish for the whole AI/memory industry. Captions garble the name as 'SK Heinix / SK Hanx / SKH Highix'.",
+  "price_at_call": "No price stated",
+  "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+ },
+ {
+  "video_id": "Qf72K1Fends",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "CRWV",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY / bullish: Galaxy Digital reported $79m Q3 data-center adjusted gross profit, up from $11m in Q2, in the first full quarter under the Helios phase 1 lease, with all 133 MW of critical IT load delivered to CoreWeave by end-Q2; phase 2 is fully financed and under construction (initial data hall Q2 2027) with another 830 MW of approved Helios capacity still unleased \u2014 he says that is very bullish for CoreWeave and means it does not have to fight for financing/credit space right now. Captions render Helios as 'Halo's' and CoreWeave as 'Core Weef'.",
+  "price_at_call": "No price stated",
+  "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+ },
+ {
+  "video_id": "Qf72K1Fends",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "AMD",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY / bullish: Meta announced a partnership with AMD including a $1bn equity investment in Meta as captioned and initial Helios rack-scale systems with the MI450 already installed and testing \u2014 he calls it a bullish indication, says Meta will use more AMD GPUs, CPUs and networking and co-design models, and later lists AMD among the big winners from Oracle broadening its AI stack with Helios. The $1bn figure is as captioned and should be treated with caution.",
+  "price_at_call": "No price stated; $1bn AMD equity investment in Meta as captioned",
+  "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+ },
+ {
+  "video_id": "Qf72K1Fends",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "META",
+  "direction": "UNCERTAIN",
+  "thesis": "Positive coverage only, no explicit buy of Meta stated (reiterated UNCERTAIN): Meta announced expanded partnerships with both AMD ($1bn equity investment as captioned, initial Helios/MI450 systems installed) and Nvidia (a proposed $3bn investment as captioned, expanded Vera Rubin deployment, AI agent/inference/training and networking work), after Meta said yesterday it plans to raise about $25bn \u2014 he notes Meta being a little cheap right now but states no buy.",
+  "price_at_call": "No price stated; $25bn planned raise mentioned",
+  "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+ },
+ {
+  "video_id": "Qf72K1Fends",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "NVDA",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY / bullish, thesis unchanged: a report that OpenAI plans to buy Google AI chips is being read as bearish for Nvidia, but he says he is not afraid for Nvidia \u2014 OpenAI needs multiple compute sources and cannot let one player dictate supply, the market is compute-starved, and it does not change much for Nvidia; Nvidia is also expanding its Meta Vera Rubin work, is already live at Oracle with Vera Rubin NVL72 / Vera CPU, and he lists Nvidia among the big winners, concluding his bullish AI thesis is still in place even if prices keep falling.",
+  "price_at_call": "No price stated; $3bn Nvidia investment in Meta as captioned",
+  "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+ },
+ {
+  "video_id": "Qf72K1Fends",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "GOOGL",
+  "direction": "UNCERTAIN",
+  "thesis": "First tracked Najarro GOOGL call \u2014 passing/positive mention only, no explicit buy: OpenAI is reportedly planning to buy Google AI chips (per The Information, as cited), with the only public technical signal he cites being OpenAI hiring a TPU compiler engineer to optimise frontier models on Google accelerators \u2014 he frames it as probably testing/diversification rather than a confirmed shift, and Oracle's roadmap is also to add Google TPUs in 2027.",
+  "price_at_call": "No price stated",
+  "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+ },
+ {
+  "video_id": "Qf72K1Fends",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "ORCL",
+  "direction": "UNCERTAIN",
+  "thesis": "First tracked Najarro ORCL call \u2014 positive coverage only, no explicit buy: ahead of Oracle's investor day tomorrow, which he is excited for as an update on Oracle Cloud Infrastructure, Oracle is already using Nvidia Vera Rubin NVL72 with Vera CPU, continues to broaden its AI stack, and its roadmap adds AMD Helios and, supposedly in 2027, Google TPUs and Cerebras inference \u2014 he calls it a big win for the suppliers rather than stating an Oracle buy.",
+  "price_at_call": "No price stated",
+  "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+ },
+ {
+  "video_id": "Qf72K1Fends",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "AVGO",
+  "direction": "UNCERTAIN",
+  "thesis": "Passing mention only, no explicit buy (reiterated UNCERTAIN, following his most recent AVGO UNCERTAIN): he lists Broadcom among the 'big win' names from Oracle broadening its AI stack (alongside Cerebras, AMD and Nvidia) and notes OpenAI is working with Broadcom on designing its own AI chip \u2014 no Broadcom thesis or price is developed in this video.",
+  "price_at_call": "No price stated",
+  "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+ },
+ {
+  "video_id": "Qf72K1Fends",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "CBRS",
+  "direction": "UNCERTAIN",
+  "thesis": "Passing mention only, no explicit buy (reiterated UNCERTAIN): he lists Cerebras among the big winners from Oracle's broadening AI stack (2027 Cerebras inference in the roadmap) and notes OpenAI is already working with Cerebras as one of several compute sources \u2014 no Cerebras thesis or price is developed in this video.",
+  "price_at_call": "No price stated",
+  "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
  }
 ]
