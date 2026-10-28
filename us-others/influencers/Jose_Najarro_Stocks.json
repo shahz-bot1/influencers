@@ -4,6 +4,30 @@
  "slug": "Jose_Najarro_Stocks",
  "calls": [
   {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-10-28T04:58:24.879445+00:00",
+   "price": "No price stated",
+   "video_id": "Qf72K1Fends"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-10-28T04:58:24.879445+00:00",
+   "price": "No price stated; $1bn AMD equity investment in Meta as captioned",
+   "video_id": "Qf72K1Fends"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-10-28T04:58:24.879445+00:00",
+   "price": "No price stated; $3bn Nvidia investment in Meta as captioned",
+   "video_id": "Qf72K1Fends"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
