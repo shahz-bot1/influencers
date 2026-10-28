@@ -3,6 +3,24 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "qZNrdc5-gFo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "SpaceX and Elon Musk Deliver Fantastic News for Nvidia Stock Investors | NVDA Stock Analysis",
+   "published_at": "2026-10-28T12:55:55.685752+00:00",
+   "analyzed_at": "2026-10-28T14:58:33.331116+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "forward P/E 13.6 (stated); no share price or fair-value figure in captions",
+   "thesis": "BUY reiterated, high conviction, ranked his top stock to buy right now; he owns it as one of his largest positions and is interested in adding more. SpaceX closing $40bn debt to buy Nvidia GPUs is fantastic news. Not a flip: last tracked explicit Parkevtate NVDA call was BUY on 2026-10-26.",
+   "base_case": "Estimates FCF over $190bn in fiscal year ending Jan 2027, growing to $475bn by 2030; five companies est. $900bn data-centre spend in 2026 rising to $1.4tn in 2027, Nvidia GPU share 70-90%.",
+   "bull_case": null,
+   "bear_case": "Risk noted in general terms only - no stock is without risk; investors fear little upside left at a $5.2tn market cap.",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false
+  },
+  {
    "video_id": "BRg4GLx5hcA",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -325,20 +343,20 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
    "channel": "Couch Investor",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
