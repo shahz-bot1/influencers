@@ -1,0 +1,27 @@
+{
+ "video_id": "qZNrdc5-gFo",
+ "title": "SpaceX and Elon Musk Deliver Fantastic News for Nvidia Stock Investors | NVDA Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-28T12:55:55.685752+00:00",
+ "summary": "Parkevtate Vosianc revisits Nvidia after SpaceX said it closed $40 billion in debt financing to buy Nvidia GPUs for AI, a move he calls fantastic news for Nvidia investors. He reads SpaceX's decision to rent out computing capacity it built, rather than chase frontier AI models itself, as prudent, noting SpaceX still needs AI technology, including Grok in Tesla vehicles, but does not need to lead the field. The valuation argument follows: Nvidia trades at a forward price-to-earnings ratio of 13.6, near its cheapest in several years, despite a market capitalisation above $5.2 trillion. He forecasts free cash flow above $190 billion in the fiscal year ending January 2027, rising to $475 billion by 2030, supported by five companies spending over $900 billion on data centres in 2026 and an estimated $1.4 trillion in 2027, with Nvidia holding a 70-90% share of data-centre GPUs. He ranks Nvidia his top stock to buy right now with high conviction, owns it as one of his largest positions, and is interested in adding more. The call is NVDA — BUY reiterated. He adds only a general warning that no stock is without risk.",
+ "calls": [
+  {
+   "video_id": "qZNrdc5-gFo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "SpaceX and Elon Musk Deliver Fantastic News for Nvidia Stock Investors | NVDA Stock Analysis",
+   "published_at": "2026-10-28T12:55:55.685752+00:00",
+   "analyzed_at": "2026-10-28T14:58:33.331116+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "forward P/E 13.6 (stated); no share price or fair-value figure in captions",
+   "thesis": "BUY reiterated, high conviction, ranked his top stock to buy right now; he owns it as one of his largest positions and is interested in adding more. SpaceX closing $40bn debt to buy Nvidia GPUs is fantastic news. Not a flip: last tracked explicit Parkevtate NVDA call was BUY on 2026-10-26.",
+   "base_case": "Estimates FCF over $190bn in fiscal year ending Jan 2027, growing to $475bn by 2030; five companies est. $900bn data-centre spend in 2026 rising to $1.4tn in 2027, Nvidia GPU share 70-90%.",
+   "bull_case": null,
+   "bear_case": "Risk noted in general terms only - no stock is without risk; investors fear little upside left at a $5.2tn market cap.",
+   "collab": false,
+   "stance_flip": null,
+   "flip": false
+  }
+ ]
+}
