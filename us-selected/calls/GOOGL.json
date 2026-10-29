@@ -3,6 +3,93 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "g1GeJQnFse8",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Google Tanks... Most Aren't Ready For What This Means",
+   "published_at": "2026-10-29T22:29:49.860520+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given; after a 12% drop",
+   "thesis": "Guests Rob Spivey and Joel Litman (Altimetry Research): the drop is an emotional reaction, not a crack in the AI story — search still grew ~15%, YouTube ~10%, and Cloud beat by $1.6B with 100% growth; 'a good buying day for Google' at ~17x PE.",
+   "base_case": "",
+   "bull_case": "Cloud doubling with a $513B to $560B backlog being consumed as revenue; accounting (SpaceX mark-to-market, R&D expensing) exaggerates the earnings miss.",
+   "bear_case": "Search missed by ~$1.5B and YouTube ads by ~$200M; negative free cash flow as investment ramps.",
+   "analyzed_at": "2026-10-29T23:05:00+00:00"
+  },
+  {
+   "video_id": "hpr1U8WmhLs",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "Google Stock Is In Trouble",
+   "published_at": "2026-10-29T20:58:49.860520+00:00",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given; stock ~$283 after a $39 (12%) drop",
+   "thesis": "Still holding and not selling his large position, but no rush to buy — expects quarters of pressure while the AI-search narrative plays out; calls the 12% sell-off overdone on fundamentals.",
+   "base_case": "",
+   "bull_case": "Cloud +103% YoY to ~$30B in the quarter at 36% margin; normalised EPS growth ~25% in 2026 and ~32% in 2027; ~19x forward earnings ex one-offs, ~15x on 2028 estimates.",
+   "bear_case": "Search growth decelerated 16% to 12% QoQ; free cash flow flipped to -$9B (-7% margin) as capex exploded; AI Mode monetises below traditional search.",
+   "analyzed_at": "2026-10-29T23:05:00+00:00"
+  },
+  {
+   "video_id": "bESo4SxrUc8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Growth Story Is Getting More Interesting",
+   "published_at": "2026-10-29T14:27:41.645847+00:00",
+   "ticker": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Around $280 per share (stated condition for adding)",
+   "thesis": "CONDITIONAL_BUY, buy-side stance kept (was CONDITIONAL_BUY under $300 at 07:00 today; no flip) — calls the post-Q3 sell-off an overreaction: Cloud grew 103% YoY to $30.7B with margin up to 36.2%, backlog $561B, and says he is very bullish and that Google is cheap; would pick up extra shares if it stays around $280.",
+   "base_case": "",
+   "bull_case": "Cloud backlog $561B, ~$310B to convert in 2 years (~$155B/yr vs $123B run rate), plus a TPU ramp from 2027.",
+   "bear_case": "Search growth slowed to 12% (FX, World Cup comp, lower-monetising AI Mode queries), free cash flow -$9.1B incl. the EU fine, and cloud margin pressure next quarter from third-party capacity.",
+   "analyzed_at": "2026-10-29T15:05:00+00:00"
+  },
+  {
+   "video_id": "fVZZR4bR2H4",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Time to SELL Google?",
+   "published_at": "2026-10-29T13:55:41.645847+00:00",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "was CONDITIONAL_BUY 2026-10-08 (Dec $300 cash-secured puts)",
+   "price_at_call": "No price level given",
+   "thesis": "FLIP: was CONDITIONAL_BUY 2026-10-08 (Dec $300 cash-secured puts), now HOLD — he is not selling his largest holding, but he is not buying the dip either; Alphabet enters a 'prove it' stage. Q3 missed on revenue, search ($63.4B, +12% vs +17% last quarter) and YouTube, with -$9.1B free cash flow, while Cloud doubled to $30.7B at 36.2% margin.",
+   "base_case": "",
+   "bull_case": "Cloud +103% to $30.7B, operating income +200%+, $561B backlog, and search queries growing at their fastest rate in 5 years.",
+   "bear_case": "Search and YouTube both decelerating, negative free cash flow set to worsen, and capex rising significantly again in 2027 with returns still to prove, especially AI monetisation.",
+   "analyzed_at": "2026-10-29T15:05:00+00:00"
+  },
+  {
+   "video_id": "Fm9HEPisJZI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "If You Own Google Stock, Watch This Before You Sell!",
+   "published_at": "2026-10-29T00:55:19.532136+00:00",
+   "ticker": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Under $300 per share (stated condition for adding)",
+   "thesis": "CONDITIONAL_BUY, buy-side stance kept (was BUY 2026-10-25; no flip) — collaboration with The Motley Fool (Neil): Google fell ~10% after hours on a Q3 report the hosts call a market overreaction — revenue missed by only 0.5% and the EPS miss was largely the SpaceX investment hit, while Cloud beat by 5.3% and operating income beat 14.1%. Neil would add if the stock stays under pressure under $300; Couch, a long-term holder, says there is no reason to fear the stock and is still excited about earnings, noting Google is already a big position for Neil so relative cheapness vs Broadcom/Meta matters.",
+   "base_case": "Search is now 49.7% of revenue for the first time — a more balanced business as Cloud grows much faster; overall revenue still growing ~24% with seven consecutive quarters of accelerated growth.",
+   "bull_case": "Cloud backlog $561B, 55% (~$310B) to convert in 24 months — ~$155B/yr vs a $123B run rate — plus a TPU ramp next year, including sales to Oracle and other cloud players.",
+   "bear_case": "Search missed 2.5% (FX headwinds, tough World Cup comp, lower-monetising AI Mode growth reviving 'AI kills search' fears); free cash flow negative once the one-off EU fine is stripped out; cloud margins face pressure from third-party capacity; capex set to grow significantly next year.",
+   "analyzed_at": "2026-10-29T06:57:55.738303+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor"
+  },
+  {
    "video_id": "TXQ8h7gfyMY",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -268,24 +355,28 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "channel": "Couch Investor",
+   "idx": 2
   },
   {
    "channel": "Mark Roussin CPA",
+   "idx": 3
+  },
+  {
+   "channel": "BWB - Business With Brian",
    "idx": 6
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 7
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 8
   }
  ]
 }
