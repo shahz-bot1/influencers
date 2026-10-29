@@ -3,6 +3,40 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "g1GeJQnFse8",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Google Tanks... Most Aren't Ready For What This Means",
+   "published_at": "2026-10-29T22:29:49.860520+00:00",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given",
+   "thesis": "Same uniform-accounting case as their 2015 $2 call: true return on assets is multiples of the reported 3-4%; AMD fills hyperscaler demand that does not need top Nvidia chips, and is the only chipmaker on both the GPU and CPU sides.",
+   "base_case": "",
+   "bull_case": "Taking share from Nvidia plus an unpriced second leg as inference shifts toward CPUs, where AMD's GPU-CPU integration wins.",
+   "bear_case": "Multi-year Nvidia contracts could limit room; guests dismiss this — demand growth leaves room for everyone.",
+   "analyzed_at": "2026-10-29T23:05:00+00:00"
+  },
+  {
+   "video_id": "eaHQo4jVEZo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy AMD Stock Before the Huge Investor Update?",
+   "published_at": "2026-10-29T12:55:41.645847+00:00",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Fair value $394 vs $531 market (stated overvalued)",
+   "thesis": "HOLD reiterated (was HOLD 2026-10-09; no flip) — not a buying opportunity on the dip before the 3 Nov earnings; if interested, wait until after the print. Data-centre revenue more than doubled, but at 33.6x forward earnings (2x Nvidia) he still calls it stretched.",
+   "base_case": "",
+   "bull_case": "Data-centre-led revenue +50%, operating margin -2% to 17%, and he expects Q3 revenue above the ~$13B guide, nearer $14-15B.",
+   "bear_case": "Fair value $394 vs $531 market, proprietary chips from Amazon/Alphabet eroding the 'Nvidia alternative' case, and Nvidia's 65%+ operating margin vs AMD's 17%.",
+   "analyzed_at": "2026-10-29T15:05:00+00:00"
+  },
+  {
    "video_id": "BRg4GLx5hcA",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -225,20 +259,20 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
-   "idx": 5
+   "channel": "Mark Roussin CPA",
+   "idx": 2
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 6
+   "channel": "Couch Investor",
+   "idx": 7
   }
  ]
 }
