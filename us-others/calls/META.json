@@ -3,6 +3,16 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "OTjsHhkHXEY",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "META",
+   "direction": "BUY",
+   "thesis": "Stance flips HOLD to BUY: in closing the Google earnings video he says his focus is still going to be on buying more Meta (and Amazon) in his portfolio rather than adding Google, because he believes those businesses offer a lot more value — Meta's advertising business is winning (added $13bn of ad revenue in Q3 vs Google's $7.8bn, growing 25%+ while Google's core decelerates) and is on track to overtake Google as the largest digital advertiser. Stated as a portfolio preference inside the Google video, not a standalone Meta recommendation; no price target given.",
+   "price_at_call": "No price stated",
+   "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+  },
+  {
    "video_id": "VpIy9dfKK9I",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
@@ -54,11 +64,11 @@
   },
   {
    "channel": "Jose Najarro Stocks",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
