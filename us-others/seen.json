@@ -67,8 +67,8 @@
  "Of4_80Z_cvY": {
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio: October Stock Buys",
-  "published_at": "2026-10-02T03:55:37.760608+00:00",
-  "analyzed_at": "2026-10-25T04:56:47.520873+00:00",
+  "published_at": "2026-10-08T04:55:37.725144+00:00",
+  "analyzed_at": "2026-10-29T04:58:25.783269+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
@@ -372,6 +372,27 @@
   "title": "AI Chip Shortages Could Last Until 2030...This Changes Everything",
   "published_at": "2026-10-28T03:55:37.407255+00:00",
   "analyzed_at": "2026-10-28T04:58:24.879445+00:00",
+  "alerted": true
+ },
+ "OTjsHhkHXEY": {
+  "channel": "Daniel Pronk",
+  "title": "The Market Hated Google's Earnings - Here's Why",
+  "published_at": "2026-10-28T22:55:37.725144+00:00",
+  "analyzed_at": "2026-10-29T04:58:25.783269+00:00",
+  "alerted": true
+ },
+ "HooqeUxWhOk": {
+  "channel": "Asymmetric Investing",
+  "title": "Google's 7% Drop: Should You Sell or Hold? | $GOOG $GOOGL",
+  "published_at": "2026-10-28T21:55:37.725144+00:00",
+  "analyzed_at": "2026-10-29T04:58:25.783269+00:00",
+  "alerted": true
+ },
+ "STKzuRoEQoE": {
+  "channel": "Jose Najarro Stocks",
+  "title": "The AI Stock Market Just Got 3 Massive Signals!!",
+  "published_at": "2026-10-29T04:19:37.725144+00:00",
+  "analyzed_at": "2026-10-29T04:58:25.783269+00:00",
   "alerted": true
  }
 }
