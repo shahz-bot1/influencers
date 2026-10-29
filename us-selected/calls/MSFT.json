@@ -3,6 +3,23 @@
  "slug": "MSFT",
  "calls": [
   {
+   "video_id": "g1GeJQnFse8",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Google Tanks... Most Aren't Ready For What This Means",
+   "published_at": "2026-10-29T22:29:49.860520+00:00",
+   "ticker": "MSFT",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given",
+   "thesis": "Guests' 'best long idea': Azure plus Microsoft-designed chips put it in the right parts of the AI value chain; the market is not pricing coming earnings growth or an AI-driven ROA lift.",
+   "base_case": "",
+   "bull_case": "Azure capacity expansion keeps producing revenue beats (cloud revenue $63B, +30% YoY); headcount leverage raises revenue per employee.",
+   "bear_case": "Copilot adoption softer than hoped, though guests say it does not need to carry the thesis given Azure.",
+   "analyzed_at": "2026-10-29T23:05:00+00:00"
+  },
+  {
    "video_id": "HtJpT1AHqQw",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -90,12 +107,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
