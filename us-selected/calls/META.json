@@ -3,6 +3,23 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "XfvDvdaIgK4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive News for Meta Stock Investors",
+   "published_at": "2026-10-29T14:45:41.645847+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Fair value $942 vs $623 market (stated)",
+   "thesis": "BUY reiterated (was BUY 2026-10-27; no flip) — Meta is selling nearly $100B of stock (first $25B tranche at $625, $12.5B preferred at 6.5%, up to $60B non-voting stock from next year) to fund AI data centres; he still ranks it his #2 stock to buy and one of his larger positions, seeing significant upside over 12-18 months.",
+   "base_case": "",
+   "bull_case": "Oversubscribed sale (5x orders), Nvidia buying $3B as a vote of confidence, $83B cash on hand and ~$33B quarterly operating cash flow.",
+   "bear_case": "Spending now exceeds cash flow (~$34B spent last quarter); the raise anticipates needs that may not materialise if AI demand cools.",
+   "analyzed_at": "2026-10-29T15:05:00+00:00"
+  },
+  {
    "video_id": "MFKKNTh8Lr8",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -233,11 +250,11 @@
   },
   {
    "channel": "Couch Investor",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
