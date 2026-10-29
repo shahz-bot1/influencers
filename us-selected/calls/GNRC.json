@@ -1,0 +1,29 @@
+{
+ "ticker": "GNRC",
+ "slug": "GNRC",
+ "calls": [
+  {
+   "video_id": "g1GeJQnFse8",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Google Tanks... Most Aren't Ready For What This Means",
+   "published_at": "2026-10-29T22:29:49.860520+00:00",
+   "ticker": "GNRC",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given",
+   "thesis": "Generac's commercial standby-power business is now structurally more profitable with pricing power: Caterpillar is 3-4 years backlogged, Generac has capacity and just completed a major commercial expansion; uniform ROI was 16% last year (vs 3% reported), forecast 20%+.",
+   "base_case": "",
+   "bull_case": "Behind-the-meter power demand from hyperscalers bypasses political friction over data-centre buildout; residential monopoly (70-80% share) intact.",
+   "bear_case": "Stock has drifted down since June/July on the narrative that the AI infrastructure boom is over.",
+   "analyzed_at": "2026-10-29T23:05:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
