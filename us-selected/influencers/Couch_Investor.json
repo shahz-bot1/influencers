@@ -4,6 +4,22 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-29T14:27:41.645847+00:00",
+   "price": "Around $280 per share (stated condition for adding)",
+   "video_id": "bESo4SxrUc8"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-29T00:55:19.532136+00:00",
+   "price": "Under $300 per share (stated condition for adding)",
+   "video_id": "Fm9HEPisJZI"
+  },
+  {
    "ticker": "SOFI",
    "tickerSlug": "SOFI",
    "direction": "BUY",
