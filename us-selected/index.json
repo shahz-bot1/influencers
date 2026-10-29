@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T23:05:51.935764+00:00",
+ "updated": "2026-10-29T23:17:09.866101+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -192,7 +192,7 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-10-27T13:59:47.983704+00:00",
+   "lastDate": "2026-10-29T22:29:49.860520+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -202,17 +202,17 @@
     {
      "dir": "HOLD",
      "n": 2,
-     "avg": null
+     "avg": "$394"
     }
    ],
    "influencers": [
-    "Mark Roussin CPA",
     "MarketBeat",
-    "Couch Investor",
-    "Parkevtate Vosianc CFA"
+    "Parkevtate Vosianc CFA",
+    "Mark Roussin CPA",
+    "Couch Investor"
    ],
-   "lastStated": "forward P/E 32.8x (stated); analyst average target about $615, over 15% upside (",
-   "nCalls": 14
+   "lastStated": "No price level given",
+   "nCalls": 16
   },
   {
    "ticker": "AMZN",
@@ -584,6 +584,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "CIFR",
+   "slug": "CIFR",
+   "lastDate": "2026-10-29T22:29:49.860520+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "No price level given",
+   "nCalls": 1
+  },
+  {
    "ticker": "CLX",
    "slug": "CLX",
    "lastDate": "2026-10-22T05:55:21.834433+00:00",
@@ -737,7 +754,7 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-10-27T11:55:47.983704+00:00",
+   "lastDate": "2026-10-29T22:29:49.860520+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -751,12 +768,12 @@
     }
    ],
    "influencers": [
+    "MarketBeat",
     "Parkevtate Vosianc CFA",
-    "Couch Investor",
-    "MarketBeat"
+    "Couch Investor"
    ],
-   "lastStated": "DCF fair value $83.50 (stated) vs $55 current (stated), about 52% upside; forwar",
-   "nCalls": 4
+   "lastStated": "No price level given; reiterated after steep falls",
+   "nCalls": 5
   },
   {
    "ticker": "CSCO",
@@ -1196,35 +1213,53 @@
    "nCalls": 2
   },
   {
-   "ticker": "GOOGL",
-   "slug": "GOOGL",
-   "lastDate": "2026-10-25T14:54:52.493669+00:00",
+   "ticker": "GNRC",
+   "slug": "GNRC",
+   "lastDate": "2026-10-29T22:29:49.860520+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$320"
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "No price level given",
+   "nCalls": 1
+  },
+  {
+   "ticker": "GOOGL",
+   "slug": "GOOGL",
+   "lastDate": "2026-10-29T22:29:49.860520+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$12"
     },
     {
      "dir": "CONDITIONAL_BUY",
      "n": 2,
-     "avg": "$323"
+     "avg": "$313"
     },
     {
      "dir": "HOLD",
-     "n": 2,
-     "avg": "$200"
+     "n": 3,
+     "avg": "$283"
     }
    ],
    "influencers": [
+    "MarketBeat",
+    "Joseph Carlson After Hours",
     "Couch Investor",
-    "BWB - Business With Brian",
-    "Parkevtate Vosianc CFA",
     "Mark Roussin CPA",
-    "Joseph Carlson After Hours"
+    "BWB - Business With Brian",
+    "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "$320 (stated week close; bought 5 extra shares, +3.8% position)",
-   "nCalls": 17
+   "lastStated": "No price level given; after a 12% drop",
+   "nCalls": 22
   },
   {
    "ticker": "GRAL",
@@ -1810,12 +1845,12 @@
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-10-27T14:45:47.983704+00:00",
+   "lastDate": "2026-10-29T14:45:41.645847+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$777.5"
+     "avg": "$792"
     },
     {
      "dir": "HOLD",
@@ -1828,8 +1863,8 @@
     "Couch Investor",
     "Joseph Carlson After Hours"
    ],
-   "lastStated": "DCF fair value $913 (stated); forward P/E 21 (stated); 40%+ upside over 12-18 mo",
-   "nCalls": 14
+   "lastStated": "Fair value $942 vs $623 market (stated)",
+   "nCalls": 15
   },
   {
    "ticker": "MMM",
@@ -1965,8 +2000,13 @@
   {
    "ticker": "MSFT",
    "slug": "MSFT",
-   "lastDate": "2026-10-25T11:58:25.731154+00:00",
+   "lastDate": "2026-10-29T22:29:49.860520+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
     {
      "dir": "HOLD",
      "n": 2,
@@ -1974,11 +2014,12 @@
     }
    ],
    "influencers": [
+    "MarketBeat",
     "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "$524 (stated current); DCF fair value $447 (stated) — slightly overvalued on his",
-   "nCalls": 6
+   "lastStated": "No price level given",
+   "nCalls": 7
   },
   {
    "ticker": "MU",
@@ -2508,22 +2549,27 @@
   {
    "ticker": "PLTR",
    "slug": "PLTR",
-   "lastDate": "2026-10-18T22:55:45.214166+00:00",
+   "lastDate": "2026-10-29T11:55:41.645847+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 4,
-     "avg": "$102.67"
+     "n": 3,
+     "avg": "$59.5"
+    },
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$192"
     }
    ],
    "influencers": [
-    "MarketBeat",
     "Parkevtate Vosianc CFA",
+    "MarketBeat",
     "Couch Investor",
     "BWB - Business With Brian"
    ],
-   "lastStated": "189.0",
-   "nCalls": 6
+   "lastStated": "Fair value $192 vs $199 market (stated fairly valued)",
+   "nCalls": 7
   },
   {
    "ticker": "PSX",
@@ -3282,12 +3328,17 @@
   {
    "ticker": "UBER",
    "slug": "UBER",
-   "lastDate": "2026-10-08T14:02:54.863293+00:00",
+   "lastDate": "2026-10-29T13:55:41.645847+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 4,
-     "avg": "$72.67"
+     "n": 3,
+     "avg": "$74.5"
+    },
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$122"
     }
    ],
    "influencers": [
@@ -3296,8 +3347,8 @@
     "Mark Roussin CPA",
     "Couch Investor"
    ],
-   "lastStated": "69.0",
-   "nCalls": 6
+   "lastStated": "Fair value $122 vs $66 market; buy before 4 Nov earnings if you do not already o",
+   "nCalls": 7
   },
   {
    "ticker": "UNH",
@@ -3684,36 +3735,36 @@
    "name": "Couch Investor",
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
-   "nCalls": 79,
-   "nVideos": 59
+   "nCalls": 81,
+   "nVideos": 61
   },
   {
    "name": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
    "slug": "Joseph_Carlson_After_Hours",
-   "nCalls": 27,
-   "nVideos": 8
+   "nCalls": 28,
+   "nVideos": 9
   },
   {
    "name": "Mark Roussin CPA",
    "handle": "@markroussincpa",
    "slug": "Mark_Roussin_CPA",
-   "nCalls": 51,
-   "nVideos": 18
+   "nCalls": 52,
+   "nVideos": 19
   },
   {
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 87,
-   "nVideos": 36
+   "nCalls": 93,
+   "nVideos": 38
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 161,
-   "nVideos": 162
+   "nCalls": 165,
+   "nVideos": 166
   },
   {
    "name": "The German Value Investor",
@@ -3724,6 +3775,106 @@
   }
  ],
  "videos": [
+  {
+   "id": "g1GeJQnFse8",
+   "title": "Google Tanks... Most Aren't Ready For What This Means",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-29T22:29:49.860520+00:00",
+   "nCalls": 6
+  },
+  {
+   "id": "hpr1U8WmhLs",
+   "title": "Google Stock Is In Trouble",
+   "creator": "Joseph Carlson After Hours",
+   "channels": [
+    "Joseph Carlson After Hours"
+   ],
+   "published_at": "2026-10-29T20:58:49.860520+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "XfvDvdaIgK4",
+   "title": "Massive News for Meta Stock Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-29T14:45:41.645847+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "bESo4SxrUc8",
+   "title": "The AI Growth Story Is Getting More Interesting",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-29T14:27:41.645847+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "Na_sk_3ZhD8",
+   "title": "Should You Buy Uber Stock Before the Huge Investor Update?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-29T13:55:41.645847+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "fVZZR4bR2H4",
+   "title": "Time to SELL Google?",
+   "creator": "Mark Roussin CPA",
+   "channels": [
+    "Mark Roussin CPA"
+   ],
+   "published_at": "2026-10-29T13:55:41.645847+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "eaHQo4jVEZo",
+   "title": "Should You Buy AMD Stock Before the Huge Investor Update?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-29T12:55:41.645847+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "BApdyr5ulf0",
+   "title": "Should You Buy Palantir Stock Before the Huge Investor Update? | PLTR Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-29T11:55:41.645847+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "Fm9HEPisJZI",
+   "title": "If You Own Google Stock, Watch This Before You Sell!",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-29T00:55:19.532136+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "G-osX9R0QWs",
+   "title": "If You Missed 2.5% Mortgages... It's Happening Again",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-28T22:30:15.577210+00:00",
+   "nCalls": 0
+  },
   {
    "id": "WxT0lrhS5Lk",
    "title": "Interesting News for Walmart Stock Investors | WMT Stock Analysis",
