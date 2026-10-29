@@ -3,6 +3,16 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "OTjsHhkHXEY",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (prior BUY 12 Oct): same closing line as the Meta call — his focus is still going to be on buying more Amazon (and Meta) rather than adding Google, because those businesses offer a lot more value. Amazon's own earnings video is due tomorrow after the close; no Amazon-specific thesis or price is developed in this video.",
+   "price_at_call": "No price stated",
+   "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+  },
+  {
    "video_id": "S3pQiAXNVPU",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -35,16 +45,16 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Daniel Pronk",
    "idx": 0
   },
   {
-   "channel": "Daniel Pronk",
+   "channel": "Joseph Hogue, CFA",
    "idx": 1
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
