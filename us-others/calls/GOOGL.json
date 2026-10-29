@@ -3,6 +3,16 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "HooqeUxWhOk",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "thesis": "Reiterated HOLD (prior HOLD 21 and 24 Oct): answering his own title question — sell or hold after a ~7-8% after-hours drop — he says Alphabet is not a stock he is going to be selling anytime soon. He argues the earnings miss is misunderstood: a one-time $8.7bn mark-to-market loss on equity positions (SpaceX, Anthropic) cut reported EPS to $2.12 vs ~$3 expected, while adjusted EPS is ~$2.67; revenue +25%, operating income +30%, Cloud +103% to $30.7bn at 36.2% margin, search still growing 12% with expanding margins. He holds Alphabet (position up ~100%) and calls the report reasonably good, while flagging two quarters of negative free cash flow (-$9bn this quarter) on $51bn quarterly capex and a 22x forward earnings multiple that is not the cheapest.",
+   "price_at_call": "Down ~7-8% after hours; ~22x forward earnings; $265bn cash vs $125bn debt",
+   "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+  },
+  {
    "video_id": "S3pQiAXNVPU",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -48,16 +58,16 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Asymmetric Investing",
    "idx": 0
   },
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Joseph Hogue, CFA",
    "idx": 1
   },
   {
    "channel": "Sven Carlin",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
