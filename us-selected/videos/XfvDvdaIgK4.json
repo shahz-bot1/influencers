@@ -1,0 +1,26 @@
+{
+ "video_id": "XfvDvdaIgK4",
+ "title": "Massive News for Meta Stock Investors",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-29T14:45:41.645847+00:00",
+ "summary": "Parkevtate Vosianc covers Meta's plan to sell nearly $100B of stock to fund AI data centres, a move he says he predicted on his earnings livestream and which follows Alphabet's roughly $90B sale earlier in the year. The first $25B tranche of common stock priced at $625, slightly below the market price, and was oversubscribed about 5x according to Bloomberg; a further $12.5B of preferred stock paying 6.5% (converting to common in 2029) was also oversubscribed; the largest piece, up to $60B of a new non-voting share class, will be sold gradually from next year, timed to share-price strength. Nvidia is buying $3B of the sale — a strategic vote of confidence, since much of the money flows back to Nvidia as Meta's supplier. He stresses Meta is not desperate: it holds $83B of cash and short-term investments, and generated almost $33B of operating cash flow last quarter against about $34B spent, but spending already exceeds cash flow and the raise anticipates future needs while money is cheap. Other tickers discussed: Alphabet (comparison sale), Nvidia (buyer), Carnival and Norwegian Cruise Lines (cautionary examples of raising cash in desperation). Calls made: META — BUY reiterated, fair value $942 versus a $623 market price (was BUY 27 Oct, no flip); he ranks Meta his second-best stock to buy and a large portfolio position.",
+ "calls": [
+  {
+   "video_id": "XfvDvdaIgK4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive News for Meta Stock Investors",
+   "published_at": "2026-10-29T14:45:41.645847+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Fair value $942 vs $623 market (stated)",
+   "thesis": "BUY reiterated (was BUY 2026-10-27; no flip) — Meta is selling nearly $100B of stock (first $25B tranche at $625, $12.5B preferred at 6.5%, up to $60B non-voting stock from next year) to fund AI data centres; he still ranks it his #2 stock to buy and one of his larger positions, seeing significant upside over 12-18 months.",
+   "base_case": "",
+   "bull_case": "Oversubscribed sale (5x orders), Nvidia buying $3B as a vote of confidence, $83B cash on hand and ~$33B quarterly operating cash flow.",
+   "bear_case": "Spending now exceeds cash flow (~$34B spent last quarter); the raise anticipates needs that may not materialise if AI demand cools.",
+   "analyzed_at": "2026-10-29T15:05:00+00:00"
+  }
+ ]
+}
