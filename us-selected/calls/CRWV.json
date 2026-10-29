@@ -3,6 +3,23 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "g1GeJQnFse8",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Google Tanks... Most Aren't Ready For What This Means",
+   "published_at": "2026-10-29T22:29:49.860520+00:00",
+   "ticker": "CRWV",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given; reiterated after steep falls",
+   "thesis": "CoreWeave sits in the worst part of the value chain: squeezed by chip suppliers above and plenty of alternative capacity below, with no frontier model of its own; uniform ROA of 2-3% is genuinely correct, economic profit negative and forecast to stay negative — 'get out' and 'still stay out'.",
+   "base_case": "",
+   "bull_case": "The company may survive by eking out just enough to cover debt costs — but survival is not a reason to own it.",
+   "bear_case": "'The WeWork of this space'; further to fall than to recover; neocloud hype unwinding.",
+   "analyzed_at": "2026-10-29T23:05:00+00:00"
+  },
+  {
    "video_id": "qn1sZcuek6Y",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -75,16 +92,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "MarketBeat",
-   "idx": 3
+   "channel": "Couch Investor",
+   "idx": 2
   }
  ]
 }
