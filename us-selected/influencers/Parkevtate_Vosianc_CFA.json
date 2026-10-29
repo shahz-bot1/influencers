@@ -4,6 +4,38 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-10-29T14:45:41.645847+00:00",
+   "price": "Fair value $942 vs $623 market (stated)",
+   "video_id": "XfvDvdaIgK4"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-29T13:55:41.645847+00:00",
+   "price": "Fair value $122 vs $66 market; buy before 4 Nov earnings if you do not already own it",
+   "video_id": "Na_sk_3ZhD8"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "HOLD",
+   "date": "2026-10-29T12:55:41.645847+00:00",
+   "price": "Fair value $394 vs $531 market (stated overvalued)",
+   "video_id": "eaHQo4jVEZo"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "HOLD",
+   "date": "2026-10-29T11:55:41.645847+00:00",
+   "price": "Fair value $192 vs $199 market (stated fairly valued)",
+   "video_id": "BApdyr5ulf0"
+  },
+  {
    "ticker": "WMT",
    "tickerSlug": "WMT",
    "direction": "HOLD",
