@@ -4,6 +4,14 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "HOLD",
+   "date": "2026-10-29T13:55:41.645847+00:00",
+   "price": "No price level given",
+   "video_id": "fVZZR4bR2H4"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
