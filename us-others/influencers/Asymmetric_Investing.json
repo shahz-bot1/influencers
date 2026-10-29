@@ -4,6 +4,14 @@
  "slug": "Asymmetric_Investing",
  "calls": [
   {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "HOLD",
+   "date": "2026-10-29T04:58:25.783269+00:00",
+   "price": "Down ~7-8% after hours; ~22x forward earnings; $265bn cash vs $125bn debt",
+   "video_id": "HooqeUxWhOk"
+  },
+  {
    "ticker": "CRWV",
    "tickerSlug": "CRWV",
    "direction": "AVOID",
