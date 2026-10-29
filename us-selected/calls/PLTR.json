@@ -3,6 +3,23 @@
  "slug": "PLTR",
  "calls": [
   {
+   "video_id": "BApdyr5ulf0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Palantir Stock Before the Huge Investor Update? | PLTR Stock Analysis",
+   "published_at": "2026-10-29T11:55:41.645847+00:00",
+   "ticker": "PLTR",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "was BUY 2026-10-08",
+   "price_at_call": "Fair value $192 vs $199 market (stated fairly valued)",
+   "thesis": "FLIP: was BUY 2026-10-08, now HOLD — buy ranking kept but conviction cut medium to low, and his action advice is to neither buy nor sell before the 2 Nov earnings; wait for the numbers. Revenue +93% to $1.9B and US commercial +149%, but at 85x forward earnings he sees more downside than upside into the print.",
+   "base_case": "",
+   "bull_case": "Revenue +93%, US commercial +149%, operating margin 47%, $9.2B cash and zero debt.",
+   "bear_case": "85x forward earnings (near the 2026 high; he would not add above 100x), fairly valued on DCF, and above-average risk going into earnings.",
+   "analyzed_at": "2026-10-29T15:05:00+00:00"
+  },
+  {
    "video_id": "tNp6Mj3v_1k",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -93,20 +110,20 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
    "channel": "Couch Investor",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
