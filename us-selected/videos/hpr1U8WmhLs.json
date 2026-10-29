@@ -1,0 +1,26 @@
+{
+ "video_id": "hpr1U8WmhLs",
+ "title": "Google Stock Is In Trouble",
+ "creator": "Joseph Carlson After Hours",
+ "published_at": "2026-10-29T20:58:49.860520+00:00",
+ "summary": "Joseph Carlson reacts to Alphabet's Q3 earnings, after which Google fell 12% (about $39 to $283 a share, roughly $500B of market cap) on renewed fears that AI is cannibalising search. He argues the sell-off is overdone: search growth decelerated from 16% to 12% year over year, but management attributed the slowdown mainly to foreign exchange, a tough comparison against World Cup-boosted advertising, an EU de minimis change hitting Asia-Pacific retail advertisers, and only partly to lower-monetising AI Mode queries. He walks through the financials — revenue still growing above 20% on a trailing basis, cloud up 100%+ to about $30B in the quarter at a 36% margin, and normalised EPS growth of roughly 25% in 2026 and 32% in 2027 once the one-off SpaceX investment gain is stripped out, putting the stock near 19x forward earnings. The genuine concerns are free cash flow flipping to -$9B (-7% margin) as capex explodes, and a search narrative that will pressure the stock for quarters. Other tickers discussed: Microsoft (strong report, revenue +19%, cloud $63B, +30%), Mastercard (his largest holding, at an all-time high after crushing earnings), DoorDash (order volume +28% to 993M orders; he supports its planned ~$17B Instacart acquisition) and Amazon (down on the day). Calls made: GOOGL — HOLD (he continues to own it and will not sell, but sees no reason to rush in to buy; stance unchanged from his 1 Oct HOLD). No garbled caption spots of note; 'Gene Munster' is rendered as 'Gene Monster' and 'ChatGPT' as 'chatbt'.",
+ "calls": [
+  {
+   "video_id": "hpr1U8WmhLs",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "Google Stock Is In Trouble",
+   "published_at": "2026-10-29T20:58:49.860520+00:00",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given; stock ~$283 after a $39 (12%) drop",
+   "thesis": "Still holding and not selling his large position, but no rush to buy — expects quarters of pressure while the AI-search narrative plays out; calls the 12% sell-off overdone on fundamentals.",
+   "base_case": "",
+   "bull_case": "Cloud +103% YoY to ~$30B in the quarter at 36% margin; normalised EPS growth ~25% in 2026 and ~32% in 2027; ~19x forward earnings ex one-offs, ~15x on 2028 estimates.",
+   "bear_case": "Search growth decelerated 16% to 12% QoQ; free cash flow flipped to -$9B (-7% margin) as capex exploded; AI Mode monetises below traditional search.",
+   "analyzed_at": "2026-10-29T23:05:00+00:00"
+  }
+ ]
+}
