@@ -1,0 +1,26 @@
+{
+ "video_id": "eaHQo4jVEZo",
+ "title": "Should You Buy AMD Stock Before the Huge Investor Update?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-29T12:55:41.645847+00:00",
+ "summary": "Parkevtate Vosianc answers whether AMD's 16% one-month dip (from over $650) is a buying opportunity before its 3 Nov earnings: no, with medium conviction — wait until after the print. The fundamentals are strong: data-centre revenue more than doubled year over year, total revenue rose 50%, operating income swung to $2B from -$134M (margin 17% versus -2%), and he expects Q3 revenue above the roughly $13B guide, closer to $14-15B, on AI demand that keeps beating expectations every quarter since ChatGPT's launch. But valuation blocks the buy: AMD trades at 33.6x forward earnings, more than twice Nvidia's multiple, and his model puts fair value at $394 versus a $531 market price — the same models that flagged AMD as overvalued about a month ago, since when it has fallen 16%. He also warns the 'alternative to Nvidia' thesis is fading as Amazon and Alphabet push their own chips. Other tickers discussed: Nvidia (65%+ operating margin, the comparison), Meta (Meta Muse personal agent, over 10M downloads, as a consumer-AI catalyst). Calls made: AMD — HOLD reiterated (was HOLD 9 Oct, no flip); he had ranked AMD a buy for years before downgrading it about a month ago.",
+ "calls": [
+  {
+   "video_id": "eaHQo4jVEZo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy AMD Stock Before the Huge Investor Update?",
+   "published_at": "2026-10-29T12:55:41.645847+00:00",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Fair value $394 vs $531 market (stated overvalued)",
+   "thesis": "HOLD reiterated (was HOLD 2026-10-09; no flip) — not a buying opportunity on the dip before the 3 Nov earnings; if interested, wait until after the print. Data-centre revenue more than doubled, but at 33.6x forward earnings (2x Nvidia) he still calls it stretched.",
+   "base_case": "",
+   "bull_case": "Data-centre-led revenue +50%, operating margin -2% to 17%, and he expects Q3 revenue above the ~$13B guide, nearer $14-15B.",
+   "bear_case": "Fair value $394 vs $531 market, proprietary chips from Amazon/Alphabet eroding the 'Nvidia alternative' case, and Nvidia's 65%+ operating margin vs AMD's 17%.",
+   "analyzed_at": "2026-10-29T15:05:00+00:00"
+  }
+ ]
+}
