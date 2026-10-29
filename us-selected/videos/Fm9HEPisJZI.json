@@ -1,0 +1,28 @@
+{
+ "video_id": "Fm9HEPisJZI",
+ "title": "If You Own Google Stock, Watch This Before You Sell!",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-29T00:55:19.532136+00:00",
+ "summary": "Couch Investor and Motley Fool analyst Neil review Alphabet's Q3 earnings after the stock fell nearly 10% after hours, losing over $300B in value on what they argue was a small set of misses. Revenue missed by 0.5%, Google services by 2.2%, search by 2.5% and YouTube ads by 1.7%, but the beats were larger: Google Network beat 3.5% after quarters of decline, cloud beat 5.3% with operating income up 14.1%, and cloud has now more than doubled year over year at a 36.2% margin. Free cash flow was -$9.1B, but about -$3.2B excluding a one-time EU fine, close to the expected -$2.7B. For the first time, search fell below 50% of total revenue (49.7%) as the rest of the business outgrew it. The hosts attribute the search slowdown to foreign exchange (the largest driver), a World Cup-boosted comparison quarter, and lower-monetising AI Mode queries, and argue the market is relitigating the two-year-old fear that AI kills search. The cloud backlog of $561B ($310B converting in 24 months, about $155B a year versus a $123B run rate) plus a TPU ramp in 2027 underpin their optimism. Other tickers discussed: Microsoft (capex light but catching up in Q4), Broadcom (down slightly on capex fears), Oracle (adding TPUs), Intel and Nvidia (reporting later). Calls made: GOOGL — CONDITIONAL_BUY under $300 (buy-side stance kept; was BUY 25 Oct, no flip). Note: captions render the collaboration byline as 'The Motley Fool and Couch Investor'; the host's name is given only as Neil.",
+ "calls": [
+  {
+   "video_id": "Fm9HEPisJZI",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "If You Own Google Stock, Watch This Before You Sell!",
+   "published_at": "2026-10-29T00:55:19.532136+00:00",
+   "ticker": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Under $300 per share (stated condition for adding)",
+   "thesis": "CONDITIONAL_BUY, buy-side stance kept (was BUY 2026-10-25; no flip) — collaboration with The Motley Fool (Neil): Google fell ~10% after hours on a Q3 report the hosts call a market overreaction — revenue missed by only 0.5% and the EPS miss was largely the SpaceX investment hit, while Cloud beat by 5.3% and operating income beat 14.1%. Neil would add if the stock stays under pressure under $300; Couch, a long-term holder, says there is no reason to fear the stock and is still excited about earnings, noting Google is already a big position for Neil so relative cheapness vs Broadcom/Meta matters.",
+   "base_case": "Search is now 49.7% of revenue for the first time — a more balanced business as Cloud grows much faster; overall revenue still growing ~24% with seven consecutive quarters of accelerated growth.",
+   "bull_case": "Cloud backlog $561B, 55% (~$310B) to convert in 24 months — ~$155B/yr vs a $123B run rate — plus a TPU ramp next year, including sales to Oracle and other cloud players.",
+   "bear_case": "Search missed 2.5% (FX headwinds, tough World Cup comp, lower-monetising AI Mode growth reviving 'AI kills search' fears); free cash flow negative once the one-off EU fine is stripped out; cloud margins face pressure from third-party capacity; capex set to grow significantly next year.",
+   "analyzed_at": "2026-10-29T06:57:55.738303+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor"
+  }
+ ]
+}
