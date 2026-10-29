@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T04:59:07.096606+00:00",
+ "updated": "2026-10-29T04:59:18.666563+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -159,12 +159,12 @@
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-10-26T04:58:06.524826+00:00",
+   "lastDate": "2026-10-29T04:58:25.783269+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$371"
+     "avg": null
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -178,12 +178,12 @@
     }
    ],
    "influencers": [
-    "Joseph Hogue, CFA",
     "Daniel Pronk",
+    "Joseph Hogue, CFA",
     "Asymmetric Investing"
    ],
-   "lastStated": "His buy zone $200-$225; 20x P/E, 3.5x sales; analyst average target $330 as stat",
-   "nCalls": 3
+   "lastStated": "No price stated",
+   "nCalls": 4
   },
   {
    "ticker": "ANET",
@@ -894,7 +894,7 @@
   {
    "ticker": "GOOGL",
    "slug": "GOOGL",
-   "lastDate": "2026-10-26T04:58:06.524826+00:00",
+   "lastDate": "2026-10-29T04:58:25.783269+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -904,7 +904,7 @@
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": null
+     "avg": "$7"
     },
     {
      "dir": "AVOID",
@@ -913,12 +913,12 @@
     }
    ],
    "influencers": [
-    "Joseph Hogue, CFA",
     "Asymmetric Investing",
+    "Joseph Hogue, CFA",
     "Sven Carlin"
    ],
-   "lastStated": "No share price stated; ~20x this year's expected earnings; analyst average targe",
-   "nCalls": 4
+   "lastStated": "Down ~7-8% after hours; ~22x forward earnings; $265bn cash vs $125bn debt",
+   "nCalls": 5
   },
   {
    "ticker": "GRAB",
@@ -1203,17 +1203,17 @@
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-10-22T03:59:30.269037+00:00",
+   "lastDate": "2026-10-29T04:58:25.783269+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": null
     },
     {
      "dir": "HOLD",
-     "n": 2,
-     "avg": "$5"
+     "n": 1,
+     "avg": null
     }
    ],
    "influencers": [
@@ -1221,8 +1221,8 @@
     "Jose Najarro Stocks",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Up ~5% in after-hours at recording; no share price stated (he was building his p",
-   "nCalls": 4
+   "lastStated": "No price stated",
+   "nCalls": 5
   },
   {
    "ticker": "MGM",
@@ -2189,8 +2189,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 24,
-   "nVideos": 8
+   "nCalls": 25,
+   "nVideos": 9
   },
   {
    "name": "Brian Feroldi",
@@ -2203,8 +2203,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 11,
-   "nVideos": 7
+   "nCalls": 13,
+   "nVideos": 8
   },
   {
    "name": "Everything Money",
@@ -2218,7 +2218,7 @@
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
    "nCalls": 34,
-   "nVideos": 13
+   "nVideos": 14
   },
   {
    "name": "Joseph Hogue, CFA",
@@ -2257,6 +2257,36 @@
   }
  ],
  "videos": [
+  {
+   "id": "STKzuRoEQoE",
+   "title": "The AI Stock Market Just Got 3 Massive Signals!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-10-29T04:19:37.725144+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "OTjsHhkHXEY",
+   "title": "The Market Hated Google's Earnings - Here's Why",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-10-28T22:55:37.725144+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "HooqeUxWhOk",
+   "title": "Google's 7% Drop: Should You Sell or Hold? | $GOOG $GOOGL",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-10-28T21:55:37.725144+00:00",
+   "nCalls": 1
+  },
   {
    "id": "Qf72K1Fends",
    "title": "AI Chip Shortages Could Last Until 2030...This Changes Everything",
