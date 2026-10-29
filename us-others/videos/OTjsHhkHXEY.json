@@ -1,0 +1,29 @@
+{
+ "video_id": "OTjsHhkHXEY",
+ "title": "The Market Hated Google's Earnings - Here's Why",
+ "creator": "Daniel Pronk",
+ "published_at": "2026-10-28T22:55:37.725144+00:00",
+ "summary": "Daniel Pronk works through Alphabet's Q3 2026 earnings after an 11 percent after-hours drop, building his own read before checking the market's reaction. Revenue rose 25 percent year over year to 127.6 billion dollars, with Google Cloud up 103 percent — now including TPU sales — and Gemini at 1 billion users, but the core businesses decelerated to 11 percent growth, with search at 12 percent, YouTube ads at 9 percent and subscriptions at 11 percent. He argues the headline net income and EPS declines are meaningless because of unrealised investment gains, and that operating income (up 30 percent, 32 percent margin) is the cleanest valuation metric. The negatives he expects the market to punish are the operating cash flow decline, negative free cash flow of 9 billion dollars in the quarter on 51.3 billion dollars of capex, share dilution after 42 billion dollars raised this year, and conference-call guidance of margin pressure, higher 2027 capex and AI Mode monetising below search. His verdict is that Google is now fairly valued at about 24.5 times operating income, back to its decade median, with the premium gone — but he is not adding here, preferring to keep buying Meta and Amazon, which he believes offer more value. Other tickers discussed are Meta and Amazon, the latter's earnings video promised for the next day.",
+ "calls": [
+  {
+   "video_id": "OTjsHhkHXEY",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "META",
+   "direction": "BUY",
+   "thesis": "Stance flips HOLD to BUY: in closing the Google earnings video he says his focus is still going to be on buying more Meta (and Amazon) in his portfolio rather than adding Google, because he believes those businesses offer a lot more value — Meta's advertising business is winning (added $13bn of ad revenue in Q3 vs Google's $7.8bn, growing 25%+ while Google's core decelerates) and is on track to overtake Google as the largest digital advertiser. Stated as a portfolio preference inside the Google video, not a standalone Meta recommendation; no price target given.",
+   "price_at_call": "No price stated",
+   "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+  },
+  {
+   "video_id": "OTjsHhkHXEY",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (prior BUY 12 Oct): same closing line as the Meta call — his focus is still going to be on buying more Amazon (and Meta) rather than adding Google, because those businesses offer a lot more value. Amazon's own earnings video is due tomorrow after the close; no Amazon-specific thesis or price is developed in this video.",
+   "price_at_call": "No price stated",
+   "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+  }
+ ]
+}
