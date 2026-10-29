@@ -3,6 +3,23 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "Na_sk_3ZhD8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Uber Stock Before the Huge Investor Update?",
+   "published_at": "2026-10-29T13:55:41.645847+00:00",
+   "ticker": "UBER",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Fair value $122 vs $66 market; buy before 4 Nov earnings if you do not already own it",
+   "thesis": "CONDITIONAL_BUY, buy-side stance kept (was BUY 2026-10-08; no flip) — a great buy before the 4 Nov earnings for new buyers, but existing holders should wait until after earnings; he owns it and will not add before the print. Driverless risk (Waymo going solo, a possible Tesla/SpaceX merger) overhangs an otherwise growing business.",
+   "base_case": "",
+   "bull_case": "Gross bookings +24% to $58B, operating income +30% to $1.9B, cheapest-ever forward PE of 15, and huge global vehicle overcapacity it could buy into for its own fleet.",
+   "bear_case": "Waymo partnership fraying, Tesla robotaxi capital threat, and unresolved regulation/insurance questions; he expects the overhang to get worse before it gets better.",
+   "analyzed_at": "2026-10-29T15:05:00+00:00"
+  },
+  {
    "video_id": "HpcADJa_Mdk",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -94,15 +111,15 @@
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Couch Investor",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
