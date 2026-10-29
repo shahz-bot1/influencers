@@ -1,0 +1,26 @@
+{
+ "video_id": "bESo4SxrUc8",
+ "title": "The AI Growth Story Is Getting More Interesting",
+ "creator": "Couch Investor",
+ "published_at": "2026-10-29T14:27:41.645847+00:00",
+ "summary": "Couch Investor argues the market overreacted to Alphabet's Q3 print: Google fell 11.4% even as total revenue grew 24.7% to $127.5B, the seventh consecutive quarter of accelerating growth, and cloud more than doubled to $30.7B at a 36.2% margin (from 23.7% a year ago). For the first time search is under 50% of revenue. He traces the search slowdown (12% growth, $63.3B) to foreign exchange, an EU de minimis change hitting Asia-Pacific retail advertisers, World Cup timing that pulled spend into Q2, and AI Mode queries monetising below traditional search — while queries grew at their fastest rate in five years. The cloud backlog sits at $561B, with $310B converting over two years ($155B a year versus a $123B run rate), and TPU sales to rivals are set to ramp in 2027; he notes over $1T in purchase commitments and leases, and expects free cash flow to turn positive again toward end-2027. Microsoft is covered as a solid, slightly boring business: Azure +48%, cloud revenue $63.9B, backlog $677B, free cash flow $18.6B (down 27%), plus a first major bond sale since 2017 (over $25B). Oracle's investor day is summarised: FY27 revenue growth 34%, FY30 revenue over $225B, free cash flow positive in H2 FY28 and over $30B in FY29, capex peaking FY27-28. Other tickers mentioned: Fortinet (down 26%) and ServiceNow (down 20%) as expensive cybersecurity names punished for small misses. Calls made: GOOGL — CONDITIONAL_BUY around $280 (buy-side stance kept; was CONDITIONAL_BUY under $300 earlier today, no flip); he says he would add shares near $280. Microsoft and Oracle discussed positively but with no explicit buy call.",
+ "calls": [
+  {
+   "video_id": "bESo4SxrUc8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Growth Story Is Getting More Interesting",
+   "published_at": "2026-10-29T14:27:41.645847+00:00",
+   "ticker": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Around $280 per share (stated condition for adding)",
+   "thesis": "CONDITIONAL_BUY, buy-side stance kept (was CONDITIONAL_BUY under $300 at 07:00 today; no flip) — calls the post-Q3 sell-off an overreaction: Cloud grew 103% YoY to $30.7B with margin up to 36.2%, backlog $561B, and says he is very bullish and that Google is cheap; would pick up extra shares if it stays around $280.",
+   "base_case": "",
+   "bull_case": "Cloud backlog $561B, ~$310B to convert in 2 years (~$155B/yr vs $123B run rate), plus a TPU ramp from 2027.",
+   "bear_case": "Search growth slowed to 12% (FX, World Cup comp, lower-monetising AI Mode queries), free cash flow -$9.1B incl. the EU fine, and cloud margin pressure next quarter from third-party capacity.",
+   "analyzed_at": "2026-10-29T15:05:00+00:00"
+  }
+ ]
+}
