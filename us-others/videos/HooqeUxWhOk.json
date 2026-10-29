@@ -1,0 +1,19 @@
+{
+ "video_id": "HooqeUxWhOk",
+ "title": "Google's 7% Drop: Should You Sell or Hold? | $GOOG $GOOGL",
+ "creator": "Asymmetric Investing",
+ "published_at": "2026-10-28T21:55:37.725144+00:00",
+ "summary": "Travis Williams of Asymmetric Investing gives an initial reaction to Alphabet's Q3 earnings, recorded before the conference call, answering the title question with a hold: Alphabet is not a stock he is going to be selling anytime soon. He argues the earnings miss is widely misunderstood — a one-time 8.7 billion dollar mark-to-market loss on equity positions in SpaceX and Anthropic cut reported EPS to 2.12 dollars versus about 3 dollars expected, while the adjusted figure is about 2.67 dollars. Beneath that, revenue grew 25 percent, operating income 30 percent, Cloud revenue 103 percent to 30.7 billion dollars at a 36.2 percent margin, and search grew 12 percent, faster than YouTube, with segment margins expanding more than two points — evidence, to him, that search is still monetising well despite disruption fears. He also notes general and administrative costs cut by over 1 billion dollars against heavy R&D spending, two straight quarters of negative free cash flow on 51 billion dollars of quarterly capex, and a balance sheet holding 265 billion dollars of cash against 125 billion dollars of debt. At about 22 times forward earnings the stock is not the cheapest, but he calls the report reasonably good, holds a position up about 100 percent, and promises a fuller follow-up later in the week.",
+ "calls": [
+  {
+   "video_id": "HooqeUxWhOk",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "thesis": "Reiterated HOLD (prior HOLD 21 and 24 Oct): answering his own title question — sell or hold after a ~7-8% after-hours drop — he says Alphabet is not a stock he is going to be selling anytime soon. He argues the earnings miss is misunderstood: a one-time $8.7bn mark-to-market loss on equity positions (SpaceX, Anthropic) cut reported EPS to $2.12 vs ~$3 expected, while adjusted EPS is ~$2.67; revenue +25%, operating income +30%, Cloud +103% to $30.7bn at 36.2% margin, search still growing 12% with expanding margins. He holds Alphabet (position up ~100%) and calls the report reasonably good, while flagging two quarters of negative free cash flow (-$9bn this quarter) on $51bn quarterly capex and a 22x forward earnings multiple that is not the cheapest.",
+   "price_at_call": "Down ~7-8% after hours; ~22x forward earnings; $265bn cash vs $125bn debt",
+   "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+  }
+ ]
+}
