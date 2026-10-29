@@ -1,0 +1,29 @@
+{
+ "ticker": "CIFR",
+ "slug": "CIFR",
+ "calls": [
+  {
+   "video_id": "g1GeJQnFse8",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Google Tanks... Most Aren't Ready For What This Means",
+   "published_at": "2026-10-29T22:29:49.860520+00:00",
+   "ticker": "CIFR",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given",
+   "thesis": "Cipher Digital (ex Cipher Mining, a Bitcoin miner rebranded as a neocloud) sells a commodity — a 'dumb box' — with no pricing power; forecast at a negative 20% return on assets in 2026.",
+   "base_case": "",
+   "bull_case": "Only neoclouds with huge scale plus power already in place could earn a superior return short-term; Cipher is not one.",
+   "bear_case": "Same squeeze as CoreWeave: hyperscalers hold the genuine assets and software; rebranding as AI-exposed does not create a moat.",
+   "analyzed_at": "2026-10-29T23:05:00+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
