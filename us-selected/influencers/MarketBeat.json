@@ -4,6 +4,54 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-10-29T22:29:49.860520+00:00",
+   "price": "No price level given; after a 12% drop",
+   "video_id": "g1GeJQnFse8"
+  },
+  {
+   "ticker": "MSFT",
+   "tickerSlug": "MSFT",
+   "direction": "BUY",
+   "date": "2026-10-29T22:29:49.860520+00:00",
+   "price": "No price level given",
+   "video_id": "g1GeJQnFse8"
+  },
+  {
+   "ticker": "GNRC",
+   "tickerSlug": "GNRC",
+   "direction": "BUY",
+   "date": "2026-10-29T22:29:49.860520+00:00",
+   "price": "No price level given",
+   "video_id": "g1GeJQnFse8"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-10-29T22:29:49.860520+00:00",
+   "price": "No price level given",
+   "video_id": "g1GeJQnFse8"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "AVOID",
+   "date": "2026-10-29T22:29:49.860520+00:00",
+   "price": "No price level given; reiterated after steep falls",
+   "video_id": "g1GeJQnFse8"
+  },
+  {
+   "ticker": "CIFR",
+   "tickerSlug": "CIFR",
+   "direction": "AVOID",
+   "date": "2026-10-29T22:29:49.860520+00:00",
+   "price": "No price level given",
+   "video_id": "g1GeJQnFse8"
+  },
+  {
    "ticker": "XLK",
    "tickerSlug": "XLK",
    "direction": "BUY",
