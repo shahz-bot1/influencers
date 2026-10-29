@@ -1,0 +1,26 @@
+{
+ "video_id": "fVZZR4bR2H4",
+ "title": "Time to SELL Google?",
+ "creator": "Mark Roussin CPA",
+ "published_at": "2026-10-29T13:55:41.645847+00:00",
+ "summary": "Mark Roussin answers the title question directly: no, he is not selling Alphabet — his largest individual holding — but he is not buying the dip either, and the stock enters a 'prove it' stage with him. The Q3 scorecard was mostly red: total revenue, search ($63.4B, +12% versus +17% last quarter, missing by about $1.5B) and YouTube ads ($11.2B, +9% versus +13% last quarter) all missed, adjusted EPS missed by over 10%, and free cash flow came in at -$9.1B versus under -$3B expected, with trailing-12-month free cash flow at its lowest in over a decade. Capex was $51.4B in the quarter, guidance $195-205B for 2026, and management expects capex to rise significantly again in 2027 — his central worry, since he needs to see returns on that spend. The bright spot is cloud: revenue +103% to $30.7B, operating income up over 200% to $11.1B, margin expanding from 23.7% to 36.2%, and a $561B backlog. He also flags AI monetisation as the key long-term risk: queries grew at their fastest rate in five years yet ad revenue decelerated, and Meta's Muse (out less than a month of the quarter) hints at how personal AI assistants could bypass traditional search. Other tickers discussed: Meta (26% revenue growth, ad impressions +10%, price per ad +14%, but also negative free cash flow) as the ROI comparison. Calls made: GOOGL — HOLD (stance flip: was CONDITIONAL_BUY via Dec $300 cash-secured puts on 8 Oct, now HOLD); he is holding, not adding, with conviction tested.",
+ "calls": [
+  {
+   "video_id": "fVZZR4bR2H4",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Time to SELL Google?",
+   "published_at": "2026-10-29T13:55:41.645847+00:00",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "was CONDITIONAL_BUY 2026-10-08 (Dec $300 cash-secured puts)",
+   "price_at_call": "No price level given",
+   "thesis": "FLIP: was CONDITIONAL_BUY 2026-10-08 (Dec $300 cash-secured puts), now HOLD — he is not selling his largest holding, but he is not buying the dip either; Alphabet enters a 'prove it' stage. Q3 missed on revenue, search ($63.4B, +12% vs +17% last quarter) and YouTube, with -$9.1B free cash flow, while Cloud doubled to $30.7B at 36.2% margin.",
+   "base_case": "",
+   "bull_case": "Cloud +103% to $30.7B, operating income +200%+, $561B backlog, and search queries growing at their fastest rate in 5 years.",
+   "bear_case": "Search and YouTube both decelerating, negative free cash flow set to worsen, and capex rising significantly again in 2027 with returns still to prove, especially AI monetisation.",
+   "analyzed_at": "2026-10-29T15:05:00+00:00"
+  }
+ ]
+}
