@@ -6,6 +6,22 @@
   {
    "ticker": "META",
    "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-10-29T04:58:25.783269+00:00",
+   "price": "No price stated",
+   "video_id": "OTjsHhkHXEY"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-10-29T04:58:25.783269+00:00",
+   "price": "No price stated",
+   "video_id": "OTjsHhkHXEY"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
    "direction": "HOLD",
    "date": "2026-10-22T03:59:30.269037+00:00",
    "price": "Up ~5% in after-hours at recording; no share price stated (he was building his position when it was under $600 a couple of months ago)",
