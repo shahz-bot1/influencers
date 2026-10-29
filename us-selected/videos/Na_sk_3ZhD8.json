@@ -1,0 +1,26 @@
+{
+ "video_id": "Na_sk_3ZhD8",
+ "title": "Should You Buy Uber Stock Before the Huge Investor Update?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-29T13:55:41.645847+00:00",
+ "summary": "Parkevtate Vosianc previews Uber's 4 Nov earnings and answers whether to buy beforehand: for new buyers, yes — a great buy before earnings; for existing holders, wait until after the print, since they already hold the upside. Uber is down 19% year to date in 2026 as driverless-car risk weighs on the stock. The operating picture is strong: gross bookings +24% to $58B, revenue +12% to $14.2B, operating income +30% to $1.9B, operating cash flow $2.9B, and over 28M monthly active platform customers (+16%). The risk is Waymo increasingly going it alone rather than partnering with Uber, plus a possible Tesla-SpaceX merger giving Tesla far more capital for its robotaxi network; regulation in the US and EU will be slow and cautious, while China moves faster. He argues Uber can counter by buying its own fleet cheaply amid a global glut of auto manufacturing capacity (130-135M units versus ~100M sold) and licensing driverless technology. Other tickers discussed: Tesla (overpromised on robotaxis again in 2026), Waymo (Alphabet's unit, unnamed as a ticker), Rivian and Lucid (fleet partners). Calls made: UBER — CONDITIONAL_BUY, fair value $122 versus $66 market (buy-side stance kept; was BUY 8 Oct, no flip); he ranks it a top-10 stock to buy and owns it but will not add before earnings.",
+ "calls": [
+  {
+   "video_id": "Na_sk_3ZhD8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Uber Stock Before the Huge Investor Update?",
+   "published_at": "2026-10-29T13:55:41.645847+00:00",
+   "ticker": "UBER",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Fair value $122 vs $66 market; buy before 4 Nov earnings if you do not already own it",
+   "thesis": "CONDITIONAL_BUY, buy-side stance kept (was BUY 2026-10-08; no flip) — a great buy before the 4 Nov earnings for new buyers, but existing holders should wait until after earnings; he owns it and will not add before the print. Driverless risk (Waymo going solo, a possible Tesla/SpaceX merger) overhangs an otherwise growing business.",
+   "base_case": "",
+   "bull_case": "Gross bookings +24% to $58B, operating income +30% to $1.9B, cheapest-ever forward PE of 15, and huge global vehicle overcapacity it could buy into for its own fleet.",
+   "bear_case": "Waymo partnership fraying, Tesla robotaxi capital threat, and unresolved regulation/insurance questions; he expects the overhang to get worse before it gets better.",
+   "analyzed_at": "2026-10-29T15:05:00+00:00"
+  }
+ ]
+}
