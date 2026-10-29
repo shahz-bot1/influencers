@@ -2848,5 +2848,75 @@
   "thesis": "Passing mention only, no explicit buy (reiterated UNCERTAIN): he lists Cerebras among the big winners from Oracle's broadening AI stack (2027 Cerebras inference in the roadmap) and notes OpenAI is already working with Cerebras as one of several compute sources \u2014 no Cerebras thesis or price is developed in this video.",
   "price_at_call": "No price stated",
   "analyzed_at": "2026-10-28T04:58:24.879445+00:00"
+ },
+ {
+  "video_id": "OTjsHhkHXEY",
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "ticker": "GOOGL",
+  "direction": "UNCERTAIN",
+  "thesis": "First tracked Pronk GOOGL call \u2014 fairly-valued verdict, no explicit buy or sell: he says Google is not overvalued and now looks fairly valued at ~24.5x trailing operating income (back to its ~24.3x decade median after the ~11% post-earnings drop), with the premium gone; but he is not adding here, preferring to buy more Meta and Amazon instead. Q3 revenue +25% to $127.6bn with Cloud +103% (including TPU sales) is the standout, while core businesses decelerated to 11% growth (search 12%, YouTube ads 9%, subscriptions 11%) and the company went free-cash-flow negative (-$9bn in the quarter, -$4bn year-to-date) on $51.3bn quarterly capex, diluting shareholders after raising $42bn from dilution this year. The conference call added margin pressure ahead (third-party compute, depreciation, higher 2027 capex) and AI Mode monetising below search.",
+  "price_at_call": "Down ~11% after hours; ~30% correction from all-time highs; ~24.5x trailing operating income",
+  "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+ },
+ {
+  "video_id": "OTjsHhkHXEY",
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "ticker": "META",
+  "direction": "BUY",
+  "thesis": "Stance flips HOLD to BUY: in closing the Google earnings video he says his focus is still going to be on buying more Meta (and Amazon) in his portfolio rather than adding Google, because he believes those businesses offer a lot more value \u2014 Meta's advertising business is winning (added $13bn of ad revenue in Q3 vs Google's $7.8bn, growing 25%+ while Google's core decelerates) and is on track to overtake Google as the largest digital advertiser. Stated as a portfolio preference inside the Google video, not a standalone Meta recommendation; no price target given.",
+  "price_at_call": "No price stated",
+  "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+ },
+ {
+  "video_id": "OTjsHhkHXEY",
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "ticker": "AMZN",
+  "direction": "BUY",
+  "thesis": "Reiterated BUY (prior BUY 12 Oct): same closing line as the Meta call \u2014 his focus is still going to be on buying more Amazon (and Meta) rather than adding Google, because those businesses offer a lot more value. Amazon's own earnings video is due tomorrow after the close; no Amazon-specific thesis or price is developed in this video.",
+  "price_at_call": "No price stated",
+  "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+ },
+ {
+  "video_id": "HooqeUxWhOk",
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "ticker": "GOOGL",
+  "direction": "HOLD",
+  "thesis": "Reiterated HOLD (prior HOLD 21 and 24 Oct): answering his own title question \u2014 sell or hold after a ~7-8% after-hours drop \u2014 he says Alphabet is not a stock he is going to be selling anytime soon. He argues the earnings miss is misunderstood: a one-time $8.7bn mark-to-market loss on equity positions (SpaceX, Anthropic) cut reported EPS to $2.12 vs ~$3 expected, while adjusted EPS is ~$2.67; revenue +25%, operating income +30%, Cloud +103% to $30.7bn at 36.2% margin, search still growing 12% with expanding margins. He holds Alphabet (position up ~100%) and calls the report reasonably good, while flagging two quarters of negative free cash flow (-$9bn this quarter) on $51bn quarterly capex and a 22x forward earnings multiple that is not the cheapest.",
+  "price_at_call": "Down ~7-8% after hours; ~22x forward earnings; $265bn cash vs $125bn debt",
+  "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+ },
+ {
+  "video_id": "STKzuRoEQoE",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "GOOGL",
+  "direction": "UNCERTAIN",
+  "thesis": "Reiterated UNCERTAIN (prior UNCERTAIN 28 Oct): positive coverage only, no explicit buy. Google Cloud crossed $30bn for the first time (+103% YoY, 36.2% operating margin, TPU systems contributing meaningfully) and he calls Google the fastest-growing hyperscaler, grabbing share it can later upsell; but search growth of 12% is the bearish flag, with AI Overviews cannibalising search faster than expected and monetising below traditional search, plus a second straight free-cash-flow-negative quarter (-$9.1bn). Long term the company looks extremely strong; short term the fear is in search and AI.",
+  "price_at_call": "Down nearly 10% after earnings as stated",
+  "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+ },
+ {
+  "video_id": "STKzuRoEQoE",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "MSFT",
+  "direction": "UNCERTAIN",
+  "thesis": "First tracked Najarro MSFT call \u2014 positive coverage only, no explicit buy. Microsoft is up after hours on Azure re-acceleration: 48% YoY growth (after 39/38/39/42% in the prior four quarters) with 49-50% constant-currency guidance for next quarter, beating ~44% expectations despite third-party GPU delays pushing into the second half of fiscal 2027. He calls Microsoft the only hyperscaler outside Nvidia and Apple that is free-cash-flow positive (~$18bn, helped by delayed capex), with fiscal 2027 capex guided over $50bn in the second half and calendar 2027 capex possibly $225-250bn \u2014 exciting for the semiconductor space, though he wonders if it stays free-cash-flow positive after that.",
+  "price_at_call": "Up after hours; Azure +48% YoY; FY2027 capex over $50bn in H2 as guided",
+  "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
+ },
+ {
+  "video_id": "STKzuRoEQoE",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "ORCL",
+  "direction": "UNCERTAIN",
+  "thesis": "Reiterated UNCERTAIN (prior UNCERTAIN 28 Oct): positive coverage only, no explicit buy, but he says he can see why there is a bullish case. Oracle's investor day set a fiscal 2027 revenue target of $90bn and fiscal 2030 targets of over $225bn revenue and over $21 non-GAAP EPS \u2014 at a 25x forward multiple that implies a share price north of $500 in two to three years. The spook factor is Oracle saying capex peaks in fiscal 2027-2028 then steps down in 2029, without saying how big the peak or the step-down is, which feeds fears of slower chip-order growth; he argues capex dollars do not equal chip units and a small step-down in a supply-constrained market is not the full picture. Oracle also expects positive free cash flow in H2 fiscal 2028 and over $30bn in fiscal 2029.",
+  "price_at_call": "No share price stated; FY2030 targets over $225bn revenue and over $21 EPS; 25x multiple implies north of $500 as stated",
+  "analyzed_at": "2026-10-29T04:58:25.783269+00:00"
  }
 ]
