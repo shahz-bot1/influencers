@@ -4,6 +4,70 @@
  "slug": "Rahul_Jain",
  "calls": [
   {
+   "ticker": "DATA CENTER THEME",
+   "tickerSlug": "DATA_CENTER_THEME",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-29T15:26:32.491135+00:00",
+   "price": "not stated",
+   "video_id": "AEu8HHzFYdM"
+  },
+  {
+   "ticker": "WEALTH MANAGEMENT / CAPITAL MARKET STOCKS",
+   "tickerSlug": "WEALTH_MANAGEMENT_CAPITAL_MARKET_STOCKS",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-29T15:26:32.491135+00:00",
+   "price": "not stated",
+   "video_id": "AEu8HHzFYdM"
+  },
+  {
+   "ticker": "INDIA IT",
+   "tickerSlug": "INDIA_IT",
+   "direction": "AVOID",
+   "date": "2026-10-29T15:26:32.491135+00:00",
+   "price": "not stated",
+   "video_id": "AEu8HHzFYdM"
+  },
+  {
+   "ticker": "GOLD",
+   "tickerSlug": "GOLD",
+   "direction": "AVOID",
+   "date": "2026-10-29T15:26:32.491135+00:00",
+   "price": "not stated",
+   "video_id": "AEu8HHzFYdM"
+  },
+  {
+   "ticker": "NIFTY 100",
+   "tickerSlug": "NIFTY_100",
+   "direction": "BUY",
+   "date": "2026-10-29T14:26:32.491135+00:00",
+   "price": "not stated",
+   "video_id": "QROoS9b-RWc"
+  },
+  {
+   "ticker": "NIFTY BANK",
+   "tickerSlug": "NIFTY_BANK",
+   "direction": "BUY",
+   "date": "2026-10-29T14:26:32.491135+00:00",
+   "price": "not stated",
+   "video_id": "QROoS9b-RWc"
+  },
+  {
+   "ticker": "NIFTY MIDCAP 150",
+   "tickerSlug": "NIFTY_MIDCAP_150",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-29T14:26:32.491135+00:00",
+   "price": "not stated",
+   "video_id": "QROoS9b-RWc"
+  },
+  {
+   "ticker": "NIFTY 200 MOMENTUM 30",
+   "tickerSlug": "NIFTY_200_MOMENTUM_30",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-10-29T14:26:32.491135+00:00",
+   "price": "not stated",
+   "video_id": "QROoS9b-RWc"
+  },
+  {
    "ticker": "NIFTY BANK",
    "tickerSlug": "NIFTY_BANK",
    "direction": "BUY",
