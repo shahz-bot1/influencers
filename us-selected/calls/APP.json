@@ -1,0 +1,46 @@
+{
+ "ticker": "APP",
+ "slug": "APP",
+ "calls": [
+  {
+   "video_id": "6EAT85y5dtM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "5 Undervalued Stocks to Buy Now in November (2026)",
+   "published_at": "2026-10-30T11:55:39.676815+00:00",
+   "analyzed_at": "2026-10-30T14:57:51.710817+00:00",
+   "collab": false,
+   "ticker": "APP",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "Fair value $354 vs $263 (~35% upside over 12-18 months)",
+   "thesis": "BUY reiterated (was BUY 2026-10-29): down near 52-week low ($255) after revenue missed guidance and costs rose, but still undervalued after cutting his DCF.",
+   "base_case": "",
+   "bull_case": "New model rollout re-accelerates revenue; compute investment compounds ad returns.",
+   "bear_case": "Analyst EPS growth forecasts cut from 50-60% to 32.7%; compute spend pressures margins."
+  },
+  {
+   "video_id": "E3Eumh6skAQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is AppLovin Stock Falling, and is it a Buying Opportunity?",
+   "published_at": "2026-10-29T16:00:13.871635+00:00",
+   "ticker": "APP",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "Fair value $354 (DCF); market price garbled in captions",
+   "thesis": "Reiterates his buy ranking held since 2024 and upgrades conviction medium to high: stock down ~50% in 2026 despite 40%+ growth and margins approaching 65-70%, and it now looks undervalued on both forward PE (vs mid-40s at the start of the year) and his DCF.",
+   "base_case": "Q3 growth guided ~47% at the midpoint; new model rollout is re-accelerating revenue.",
+   "bull_case": "Compute investment drives a virtuous cycle: better models, better return on ad spend, more revenue; one of the most profitable companies he follows.",
+   "bear_case": "Analyst EPS growth forecasts cut from 50-60% to 32.7%; his own DCF revisions have moved lower and management is spending on compute at the expense of margins."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
