@@ -1,0 +1,30 @@
+{
+ "ticker": "MNDY",
+ "slug": "MNDY",
+ "calls": [
+  {
+   "video_id": "6EAT85y5dtM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "5 Undervalued Stocks to Buy Now in November (2026)",
+   "published_at": "2026-10-30T11:55:39.676815+00:00",
+   "analyzed_at": "2026-10-30T14:57:51.710817+00:00",
+   "collab": false,
+   "ticker": "MNDY",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "Fair value $121 vs just under $100 (~22% upside over 12-18 months)",
+   "thesis": "First tracked call: SaaS sell-off fears overblown; recovered from the February SaaS rout, undervalued on multiples and DCF.",
+   "base_case": "",
+   "bull_case": "Software recovery continues as SaaS-apocalypse fears fade.",
+   "bear_case": "SaaS multiple compression returns if growth disappoints."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
