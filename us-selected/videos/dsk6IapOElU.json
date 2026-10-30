@@ -1,0 +1,28 @@
+{
+ "video_id": "dsk6IapOElU",
+ "title": "Could Cloudflare Be the Next Magnificent Seven Stock? Josh Baylin's Bold AI Prediction",
+ "creator": "MarketBeat",
+ "published_at": "2026-10-30T21:58:15.075182+00:00",
+ "summary": "A MarketBeat and Top Stocks collaboration from the Stansberry Conference in Las Vegas, hosted by Bridget Bennett and Matt Weinschenk, with guest Josh Baylin of Stansberry Research, on what comes next in consumer technology and which stocks could benefit. Baylin's headline call is Cloudflare: he says Stansberry has been advising investors to buy it for some time, its developer tools, growing large-customer share and sticky services make it the backbone of the coming agentic-intelligence wave, and it would not surprise him if it became a Magnificent Seven-like force or a trillion-dollar company, though he gives no price level and no near-term timeframe. He also likes Meta as a long-term holding on distribution, with billions of users and capacity for agentic workflows, and calls Tesla the best monetiser of AI through full self-driving. Garmin is discussed positively as a collection of mini-monopolies in aviation, marine and extreme-athlete wearables, though it always trades expensively; SoundHound is an interesting play on handling the coming flood of agent-to-agent calls; and Viasat is flagged cautiously as at risk from Starlink. He is positive on a SpaceX-Tesla link-up, and argues delayed OpenAI and Anthropic IPOs would support listed AI stocks by keeping capital from flooding into new supply. Auto-captions garble several names, including Baylin, Stansberry, Palantir and Viasat.",
+ "calls": [
+  {
+   "video_id": "dsk6IapOElU",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Could Cloudflare Be the Next Magnificent Seven Stock? Josh Baylin's Bold AI Prediction",
+   "published_at": "2026-10-30T21:58:15.075182+00:00",
+   "analyzed_at": "2026-10-30T23:03:46.358230+00:00",
+   "collab": true,
+   "collab_byline": "Top Stocks by Matt Weinschenk and MarketBeat",
+   "ticker": "NET",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given; trillion-dollar potential / Magnificent Seven-like force (stated)",
+   "thesis": "First tracked MarketBeat call: Stansberry has been advising investors to buy Cloudflare for some time; developer tools, growing large-customer share and sticky services make it the backbone of the agentic-intelligence wave.",
+   "base_case": "",
+   "bull_case": "Cloudflare becomes a Magnificent Seven-like force as agentic workloads need its security, application development, databases and models infrastructure.",
+   "bear_case": "Stock is up a lot, making it hard to buy at current levels (stated)."
+  }
+ ]
+}
