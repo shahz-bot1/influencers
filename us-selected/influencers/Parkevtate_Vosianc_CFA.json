@@ -4,6 +4,78 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "BUY",
+   "date": "2026-10-30T16:00:02.287885+00:00",
+   "price": "DCF fair value $248 (stated) vs ~$249 market (stated, fairly valued); forward P/E 34 (stated, near 2026 high)",
+   "video_id": "PS8tmYrwyVU"
+  },
+  {
+   "ticker": "LITE",
+   "tickerSlug": "LITE",
+   "direction": "BUY",
+   "date": "2026-10-30T14:45:39.676815+00:00",
+   "price": "DCF fair value $158; market price garbled in captions (reads $915, inconsistent with his undervalued verdict)",
+   "video_id": "sovPHJb7_cc"
+  },
+  {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "BUY",
+   "date": "2026-10-30T13:55:39.676815+00:00",
+   "price": "Fair value raised to $22 vs ~$17 market (~30% upside over 12-18 months)",
+   "video_id": "XsSN7JMauAo"
+  },
+  {
+   "ticker": "MNDY",
+   "tickerSlug": "MNDY",
+   "direction": "BUY",
+   "date": "2026-10-30T11:55:39.676815+00:00",
+   "price": "Fair value $121 vs just under $100 (~22% upside over 12-18 months)",
+   "video_id": "6EAT85y5dtM"
+  },
+  {
+   "ticker": "APP",
+   "tickerSlug": "APP",
+   "direction": "BUY",
+   "date": "2026-10-30T11:55:39.676815+00:00",
+   "price": "Fair value $354 vs $263 (~35% upside over 12-18 months)",
+   "video_id": "6EAT85y5dtM"
+  },
+  {
+   "ticker": "CELH",
+   "tickerSlug": "CELH",
+   "direction": "BUY",
+   "date": "2026-10-30T11:55:39.676815+00:00",
+   "price": "Fair value $43 vs $28 (~55% upside over 12-18 months)",
+   "video_id": "6EAT85y5dtM"
+  },
+  {
+   "ticker": "CHWY",
+   "tickerSlug": "CHWY",
+   "direction": "BUY",
+   "date": "2026-10-30T11:55:39.676815+00:00",
+   "price": "Fair value $33; market price garbled in captions (~53% upside over 12-18 months)",
+   "video_id": "6EAT85y5dtM"
+  },
+  {
+   "ticker": "CMG",
+   "tickerSlug": "CMG",
+   "direction": "BUY",
+   "date": "2026-10-30T11:55:39.676815+00:00",
+   "price": null,
+   "video_id": "6EAT85y5dtM"
+  },
+  {
+   "ticker": "APP",
+   "tickerSlug": "APP",
+   "direction": "BUY",
+   "date": "2026-10-29T16:00:13.871635+00:00",
+   "price": "Fair value $354 (DCF); market price garbled in captions",
+   "video_id": "E3Eumh6skAQ"
+  },
+  {
    "ticker": "META",
    "tickerSlug": "META",
    "direction": "BUY",
