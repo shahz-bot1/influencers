@@ -3,6 +3,22 @@
  "slug": "GOLD",
  "calls": [
   {
+   "video_id": "AEu8HHzFYdM",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "44 Mins That Could Change How You Invest in This Market Correction | Rahul Jain G2G",
+   "published_at": "2026-10-29T15:26:32.491135+00:00",
+   "ticker": "GOLD",
+   "direction": "AVOID",
+   "price_at_call": "not stated",
+   "thesis": "Guest: gold (and silver) falling with no base built yet — stays on radar only, no entry until base building; prefers cash meanwhile",
+   "base_case": "Base builds and a trigger lifts gold",
+   "bull_case": "A sudden trigger drives a sharp rise",
+   "bear_case": "No base forms and the fall continues",
+   "analyzed_at": "2026-10-30T01:30:53.275254+00:00",
+   "note": "Reiterates Rahul Jain's GOLD AVOID (27 Sep 2026). Collab video; guest view, attributed to Rahul Jain per runbook"
+  },
+  {
    "video_id": "kJuk2TsBfaI",
    "channel": "Rahul Jain",
    "handle": "@torahulj",
