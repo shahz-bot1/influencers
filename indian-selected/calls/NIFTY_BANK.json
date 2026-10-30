@@ -3,6 +3,21 @@
  "slug": "NIFTY_BANK",
  "calls": [
   {
+   "video_id": "QROoS9b-RWc",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Don't Ignore These 4 Investment Opportunities in This Market Correction | Rahul Jain",
+   "published_at": "2026-10-29T14:26:32.491135+00:00",
+   "ticker": "NIFTY BANK",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Bank Nifty price-to-book ~1.6, lowest in 5 years (vs 3.24 high in Jul 2023) with banking EPS still rising — very attractive",
+   "base_case": "Banking EPS keeps rising at depressed multiples",
+   "bull_case": "FIIs return to banking and multiples re-rate",
+   "bear_case": "FII outflows persist (about Rs 1,100 crore/day in Jun 2026 data) and banks stay flat for 1-2 years",
+   "analyzed_at": "2026-10-30T01:30:53.275254+00:00"
+  },
+  {
    "video_id": "kJuk2TsBfaI",
    "channel": "Rahul Jain",
    "handle": "@torahulj",
