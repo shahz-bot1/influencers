@@ -3,6 +3,24 @@
  "slug": "LITE",
  "calls": [
   {
+   "video_id": "sovPHJb7_cc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Lumentum Stock a Buy Right Now as Marvell Considers Takeover? | LITE Stock Analysis",
+   "published_at": "2026-10-30T14:45:39.676815+00:00",
+   "analyzed_at": "2026-10-30T14:57:51.710817+00:00",
+   "collab": false,
+   "ticker": "LITE",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "DCF fair value $158; market price garbled in captions (reads $915, inconsistent with his undervalued verdict)",
+   "thesis": "BUY reiterated (held all year, last updated 18 May 2026), low conviction: revenue +109% last quarter, +130% guided next quarter, operating margin -255% in 2024 to 18% trailing, debt halved to $1.65B vs $2.7B+ cash/investments, forward P/E 25 for 100%+ growth.",
+   "base_case": "",
+   "bull_case": "Hyperscaler optical adoption keeps accelerating revenue and margins; AI data-centre spend stays best-in-class for optical.",
+   "bear_case": "Earnings growth plateaus around 2029-2030 as AI spend normalises; near-term macro/AI-sentiment headwinds after a 143% run in 2026."
+  },
+  {
    "video_id": "6NOUMblSxqY",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -53,12 +71,16 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 1
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 2
   }
  ]
 }
