@@ -1,0 +1,28 @@
+{
+ "ticker": "DATA CENTER THEME",
+ "slug": "DATA_CENTER_THEME",
+ "calls": [
+  {
+   "video_id": "AEu8HHzFYdM",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "44 Mins That Could Change How You Invest in This Market Correction | Rahul Jain G2G",
+   "published_at": "2026-10-29T15:26:32.491135+00:00",
+   "ticker": "DATA CENTER THEME",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Guest D. Prasad's top theme: data-center pick-and-shovel players (coolants, racks, GPUs, connectivity, power) with full 3-year order books and no debt — buy only names with numbers, not every theme stock",
+   "base_case": "Order books convert and the data-center buildout continues for 3-4 years",
+   "bull_case": "AI infrastructure demand stays strong even if LLMs themselves do not monetise",
+   "bear_case": "Hype names without earnings fizzle and collapse",
+   "analyzed_at": "2026-10-30T01:30:53.275254+00:00",
+   "note": "Collab video (Good to Great channel); guest view, attributed to Rahul Jain per runbook. Sterlite Technologies was cited as an example only and explicitly not a recommendation — not recorded as a call"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
