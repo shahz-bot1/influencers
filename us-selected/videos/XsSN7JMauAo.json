@@ -1,0 +1,27 @@
+{
+ "video_id": "XsSN7JMauAo",
+ "title": "Is SoFi Stock a Buy After its Spectacular Investor Update?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-30T13:55:39.676815+00:00",
+ "summary": "Parkevtate Vosianc CFA flips SoFi from CONDITIONAL_BUY, set on 24 October 2026, to BUY, raising his fair value to $22 against a market price of about $17, implying roughly 30% upside over 12-18 months. The trigger is the third-quarter beat and investor update: adjusted revenue of $1.37 billion, up 44%, adjusted EBITDA of $470 million, up 70%, full-year 2026 revenue guidance raised to $5 billion, and a 2027 outlook of about 27% growth at about a 20% net margin, alongside longer-term 2030 product targets. A record 1.2 million new members took the total above 17 million. His bull case is conservative management that underpromises and overdelivers, with the technology platform recovering for a second straight quarter, supporting a technology-like multiple. His bear case is concentration in personal loans, the largest segment at $30.9 billion of unpaid principal, where the default rate has risen to 5.1% from 4.77% as tariff and oil costs squeeze consumers. No other ticker is given a call in this video.",
+ "calls": [
+  {
+   "video_id": "XsSN7JMauAo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is SoFi Stock a Buy After its Spectacular Investor Update?",
+   "published_at": "2026-10-30T13:55:39.676815+00:00",
+   "analyzed_at": "2026-10-30T14:57:51.710817+00:00",
+   "collab": false,
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "was CONDITIONAL_BUY 2026-10-24",
+   "price_at_call": "Fair value raised to $22 vs ~$17 market (~30% upside over 12-18 months)",
+   "thesis": "FLIP: was CONDITIONAL_BUY 2026-10-24, now BUY after Q3 beat (adjusted revenue $1.37B, +44%; adjusted EBITDA $470M, +70%; FY26 guide raised to $5B revenue) and a 2027 outlook (~27% growth, ~20% net margin) plus 2030 product targets; record 1.2M new members to 17M+.",
+   "base_case": "",
+   "bull_case": "Conservative management that underpromises and overdelivers; tech-platform accounts recovering for a second straight quarter, supporting a tech-like multiple.",
+   "bear_case": "Personal-loan concentration (largest segment, $30.9B unpaid principal) with default rate up to 5.1% from 4.77% as tariff/oil costs squeeze consumers."
+  }
+ ]
+}
