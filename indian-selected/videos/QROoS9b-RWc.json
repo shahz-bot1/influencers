@@ -1,0 +1,71 @@
+{
+ "video_id": "QROoS9b-RWc",
+ "title": "Don't Ignore These 4 Investment Opportunities in This Market Correction | Rahul Jain",
+ "creator": "Rahul Jain",
+ "published_at": "2026-10-29",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Rahul Jain argues the correction has opened four opportunities, with Nifty around 22,800 on 29 Oct 2026, down 13-14% from the January 2026 all-time high near 26,300. First, large caps: Nifty 100 PE is 18.6, its lowest in five years, while EPS has risen from about 814 in July 2022 to an all-time high near 1,266, and Nifty 50 profit growth hit a 10-quarter high per a Reuters report from August 2026; he calls it a very good value setup, while warning it can fall further. Second, banking: Bank Nifty price-to-book is about 1.6, also a five-year low against a 3.24 peak in July 2023, with EPS still rising; FII selling (about Rs 1,100 crore a day in June 2026 data) is the drag. He contrasts index funds, weighted to HDFC, ICICI and Axis, with active funds that spread into exchanges, smaller banks and finance companies, but names no individual bank as a call and stresses none of the funds shown are recommendations. Third, Nifty Midcap 150 at PE 26.5 versus a five-year average of 30.90, with EPS at an all-time high near 779, is for growth investors only, since it could correct toward PE 22-23. Fourth, Nifty 200 Momentum 30 at PE about 21.6 suits only investors who believe a bull run comes within 1-3 years, as a 5-10% allocation. Calls: NIFTY 100 BUY, NIFTY BANK BUY (reiterated), NIFTY MIDCAP 150 CONDITIONAL_BUY (softened from BUY), NIFTY 200 MOMENTUM 30 CONDITIONAL_BUY. No individual stock calls and no stated Rs price levels; index constituents shown (for example Laurus Labs, MCX, Tata Steel, Shriram Finance, Hindalco in momentum) are index composition, not calls.",
+ "calls": [
+  {
+   "video_id": "QROoS9b-RWc",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Don't Ignore These 4 Investment Opportunities in This Market Correction | Rahul Jain",
+   "published_at": "2026-10-29T14:26:32.491135+00:00",
+   "ticker": "NIFTY 100",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "PE 18.6, lowest in 5 years (last low 18.96 in Jul 2022) while EPS hit an all-time high near 1,266 vs ~814 in Jul 2022 — a very good setup for value investors",
+   "base_case": "Earnings growth holds and the Q2 season delivers toward Motilal Oswal's ~27% forecast",
+   "bull_case": "FII selling reverses and the derating unwinds",
+   "bear_case": "Market falls further from here and earnings growth stays weak",
+   "analyzed_at": "2026-10-30T01:30:53.275254+00:00"
+  },
+  {
+   "video_id": "QROoS9b-RWc",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Don't Ignore These 4 Investment Opportunities in This Market Correction | Rahul Jain",
+   "published_at": "2026-10-29T14:26:32.491135+00:00",
+   "ticker": "NIFTY BANK",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Bank Nifty price-to-book ~1.6, lowest in 5 years (vs 3.24 high in Jul 2023) with banking EPS still rising — very attractive",
+   "base_case": "Banking EPS keeps rising at depressed multiples",
+   "bull_case": "FIIs return to banking and multiples re-rate",
+   "bear_case": "FII outflows persist (about Rs 1,100 crore/day in Jun 2026 data) and banks stay flat for 1-2 years",
+   "analyzed_at": "2026-10-30T01:30:53.275254+00:00"
+  },
+  {
+   "video_id": "QROoS9b-RWc",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Don't Ignore These 4 Investment Opportunities in This Market Correction | Rahul Jain",
+   "published_at": "2026-10-29T14:26:32.491135+00:00",
+   "ticker": "NIFTY MIDCAP 150",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "PE 26.5 vs 5-year average 30.90 with EPS at an all-time high near 779 — decent valuation for growth investors only, with room to correct toward PE 22-23",
+   "base_case": "Earnings support midcaps and growth investors are rewarded",
+   "bull_case": "Earnings season confirms growth and midcaps resume outperformance",
+   "bear_case": "Further correction; US midterm, FII and geopolitical risks drag midcaps below large caps",
+   "analyzed_at": "2026-10-30T01:30:53.275254+00:00",
+   "note": "Softened from BUY (27 Sep 2026 video) to CONDITIONAL_BUY — now growth-investors-only with correction risk flagged"
+  },
+  {
+   "video_id": "QROoS9b-RWc",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Don't Ignore These 4 Investment Opportunities in This Market Correction | Rahul Jain",
+   "published_at": "2026-10-29T14:26:32.491135+00:00",
+   "ticker": "NIFTY 200 MOMENTUM 30",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Momentum PE ~21.6 at lows after two flat/down years, but only for investors who believe a bull run comes in 1-3 years — 5-10% allocation only",
+   "base_case": "Momentum cycles repeat: deep drawdown followed by sharp recovery when a bull run arrives",
+   "bull_case": "Next bull run delivers outsized momentum gains",
+   "bear_case": "Correction deepens and momentum falls further than mid/small caps",
+   "analyzed_at": "2026-10-30T01:30:53.275254+00:00"
+  }
+ ]
+}
