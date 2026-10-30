@@ -1,0 +1,27 @@
+{
+ "ticker": "NIFTY 100",
+ "slug": "NIFTY_100",
+ "calls": [
+  {
+   "video_id": "QROoS9b-RWc",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Don't Ignore These 4 Investment Opportunities in This Market Correction | Rahul Jain",
+   "published_at": "2026-10-29T14:26:32.491135+00:00",
+   "ticker": "NIFTY 100",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "PE 18.6, lowest in 5 years (last low 18.96 in Jul 2022) while EPS hit an all-time high near 1,266 vs ~814 in Jul 2022 — a very good setup for value investors",
+   "base_case": "Earnings growth holds and the Q2 season delivers toward Motilal Oswal's ~27% forecast",
+   "bull_case": "FII selling reverses and the derating unwinds",
+   "bear_case": "Market falls further from here and earnings growth stays weak",
+   "analyzed_at": "2026-10-30T01:30:53.275254+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
