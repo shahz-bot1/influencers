@@ -1,0 +1,27 @@
+{
+ "ticker": "NIFTY 200 MOMENTUM 30",
+ "slug": "NIFTY_200_MOMENTUM_30",
+ "calls": [
+  {
+   "video_id": "QROoS9b-RWc",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "Don't Ignore These 4 Investment Opportunities in This Market Correction | Rahul Jain",
+   "published_at": "2026-10-29T14:26:32.491135+00:00",
+   "ticker": "NIFTY 200 MOMENTUM 30",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Momentum PE ~21.6 at lows after two flat/down years, but only for investors who believe a bull run comes in 1-3 years — 5-10% allocation only",
+   "base_case": "Momentum cycles repeat: deep drawdown followed by sharp recovery when a bull run arrives",
+   "bull_case": "Next bull run delivers outsized momentum gains",
+   "bear_case": "Correction deepens and momentum falls further than mid/small caps",
+   "analyzed_at": "2026-10-30T01:30:53.275254+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
