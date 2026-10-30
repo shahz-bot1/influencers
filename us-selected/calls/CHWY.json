@@ -1,0 +1,30 @@
+{
+ "ticker": "CHWY",
+ "slug": "CHWY",
+ "calls": [
+  {
+   "video_id": "6EAT85y5dtM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "5 Undervalued Stocks to Buy Now in November (2026)",
+   "published_at": "2026-10-30T11:55:39.676815+00:00",
+   "analyzed_at": "2026-10-30T14:57:51.710817+00:00",
+   "collab": false,
+   "ticker": "CHWY",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "Fair value $33; market price garbled in captions (~53% upside over 12-18 months)",
+   "thesis": "First tracked call: well-managed online pet retailer that handled both pandemic boom and reopening prudently, improving logistics instead of over-expanding.",
+   "base_case": "",
+   "bull_case": "Steady execution and logistics gains compound.",
+   "bear_case": "Pet-spend softness and retail competition."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
