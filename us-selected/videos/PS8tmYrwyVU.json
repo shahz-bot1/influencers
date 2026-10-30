@@ -1,0 +1,27 @@
+{
+ "video_id": "PS8tmYrwyVU",
+ "title": "Marvell Stock: Buy or Sell? | MRVL Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-30T16:00:02.287885+00:00",
+ "summary": "Parkevtate Vosianc CFA flips Marvell from AVOID, set on 11 October 2026, to BUY, after revising his discounted cash flow model higher. He gives a fair value of $248 against a stated market price of about $249, so the stock is fairly valued on his revised model, with a forward price-to-earnings ratio of 34, near the expensive end for 2026. In the video he frames the move as an upgrade from hold following his downgrade after the early-year surge past $300; the watch's last tracked explicit direction was AVOID against a $200 fair value then, so it is recorded as an AVOID to BUY flip. His thesis is that management's target of $80 billion of revenue by fiscal 2031 at a 45% operating margin is fantastic and reasonable against a $400 billion total addressable market by 2030, with AI demand and a booming backlog meaning Marvell wins regardless of whose chips go into data centres. His bull case cites analyst forecasts of 56% earnings-per-share growth over the next few years and revenue per employee rising from about $400,000 in 2017 to $1.16 million trailing. His bear case is that cash flow from operations to sales has been stuck at 23% since 2018, not improving versus other AI semiconductor names.",
+ "calls": [
+  {
+   "video_id": "PS8tmYrwyVU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Marvell Stock: Buy or Sell? | MRVL Stock Analysis",
+   "published_at": "2026-10-30T16:00:02.287885+00:00",
+   "analyzed_at": "2026-10-30T19:05:00+00:00",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "AVOID (2026-10-11) -> BUY",
+   "price_at_call": "DCF fair value $248 (stated) vs ~$249 market (stated, fairly valued); forward P/E 34 (stated, near 2026 high)",
+   "thesis": "FLIP: was AVOID 2026-10-11 (overvalued vs $200 DCF then), now BUY — he calls it an upgrade (in the video he frames it as upgrading from hold after the earlier-year downgrade) after revising his DCF higher; management targets $80B revenue by FY2031 at 45% operating margin, which he calls fantastic and reasonable against a $400B TAM by 2030.",
+   "base_case": "Fairly valued on his revised DCF ($248 vs $249); AI boom fuelling demand, backlog booming, wins regardless of whose chips go into data centres.",
+   "bull_case": "Analysts forecast 56% EPS growth over the next few years, in line with management guidance; revenue per employee up from ~$400k (2017) to $1.16m trailing.",
+   "bear_case": "Cash flow from operations to sales stuck at 23% since 2018, not improving vs other AI semis; forward P/E 34 near the expensive end for 2026.",
+   "collab": false
+  }
+ ]
+}
