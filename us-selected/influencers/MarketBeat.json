@@ -4,6 +4,14 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "NET",
+   "tickerSlug": "NET",
+   "direction": "BUY",
+   "date": "2026-10-30T21:58:15.075182+00:00",
+   "price": "No price level given; trillion-dollar potential / Magnificent Seven-like force (stated)",
+   "video_id": "dsk6IapOElU"
+  },
+  {
    "ticker": "GOOGL",
    "tickerSlug": "GOOGL",
    "direction": "BUY",
