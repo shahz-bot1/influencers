@@ -3,6 +3,24 @@
  "slug": "MRVL",
  "calls": [
   {
+   "video_id": "PS8tmYrwyVU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Marvell Stock: Buy or Sell? | MRVL Stock Analysis",
+   "published_at": "2026-10-30T16:00:02.287885+00:00",
+   "analyzed_at": "2026-10-30T19:05:00+00:00",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "AVOID (2026-10-11) -> BUY",
+   "price_at_call": "DCF fair value $248 (stated) vs ~$249 market (stated, fairly valued); forward P/E 34 (stated, near 2026 high)",
+   "thesis": "FLIP: was AVOID 2026-10-11 (overvalued vs $200 DCF then), now BUY — he calls it an upgrade (in the video he frames it as upgrading from hold after the earlier-year downgrade) after revising his DCF higher; management targets $80B revenue by FY2031 at 45% operating margin, which he calls fantastic and reasonable against a $400B TAM by 2030.",
+   "base_case": "Fairly valued on his revised DCF ($248 vs $249); AI boom fuelling demand, backlog booming, wins regardless of whose chips go into data centres.",
+   "bull_case": "Analysts forecast 56% EPS growth over the next few years, in line with management guidance; revenue per employee up from ~$400k (2017) to $1.16m trailing.",
+   "bear_case": "Cash flow from operations to sales stuck at 23% since 2018, not improving vs other AI semis; forward P/E 34 near the expensive end for 2026.",
+   "collab": false
+  },
+  {
    "video_id": "lD_4hYVqWPA",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -79,16 +97,16 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
