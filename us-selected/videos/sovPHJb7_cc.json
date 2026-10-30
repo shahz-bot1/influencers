@@ -1,0 +1,27 @@
+{
+ "video_id": "sovPHJb7_cc",
+ "title": "Is Lumentum Stock a Buy Right Now as Marvell Considers Takeover? | LITE Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-30T14:45:39.676815+00:00",
+ "summary": "Parkevtate Vosianc CFA reiterates a BUY on Lumentum, held all year and last updated on 18 May 2026, but with low conviction, at a discounted cash flow fair value of $158. The case rests on a sharp operating turnaround: revenue rose 109% last quarter and is guided up 130% next quarter, operating margin has moved from minus 255% in 2024 to 18% trailing, and debt has roughly halved to $1.65 billion against more than $2.7 billion in cash and investments, with a forward price-to-earnings ratio of 25 for growth above 100%. His bull case is that hyperscaler adoption of optical components keeps accelerating revenue and margins as artificial-intelligence data-centre spending stays strong. His bear case is that earnings growth plateaus around 2029-2030 as AI spending normalises, with near-term macro and AI-sentiment headwinds after a 143% run in 2026. The market price was garbled in the auto-captions, reading $915, which is inconsistent with his undervalued verdict. Despite the title, the captions do not discuss a Marvell takeover of Lumentum. No other ticker receives a call.",
+ "calls": [
+  {
+   "video_id": "sovPHJb7_cc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Lumentum Stock a Buy Right Now as Marvell Considers Takeover? | LITE Stock Analysis",
+   "published_at": "2026-10-30T14:45:39.676815+00:00",
+   "analyzed_at": "2026-10-30T14:57:51.710817+00:00",
+   "collab": false,
+   "ticker": "LITE",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "DCF fair value $158; market price garbled in captions (reads $915, inconsistent with his undervalued verdict)",
+   "thesis": "BUY reiterated (held all year, last updated 18 May 2026), low conviction: revenue +109% last quarter, +130% guided next quarter, operating margin -255% in 2024 to 18% trailing, debt halved to $1.65B vs $2.7B+ cash/investments, forward P/E 25 for 100%+ growth.",
+   "base_case": "",
+   "bull_case": "Hyperscaler optical adoption keeps accelerating revenue and margins; AI data-centre spend stays best-in-class for optical.",
+   "bear_case": "Earnings growth plateaus around 2029-2030 as AI spend normalises; near-term macro/AI-sentiment headwinds after a 143% run in 2026."
+  }
+ ]
+}
