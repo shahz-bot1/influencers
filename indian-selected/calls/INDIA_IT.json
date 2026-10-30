@@ -1,0 +1,28 @@
+{
+ "ticker": "INDIA IT",
+ "slug": "INDIA_IT",
+ "calls": [
+  {
+   "video_id": "AEu8HHzFYdM",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "44 Mins That Could Change How You Invest in This Market Correction | Rahul Jain G2G",
+   "published_at": "2026-10-29T15:26:32.491135+00:00",
+   "ticker": "INDIA IT",
+   "direction": "AVOID",
+   "price_at_call": "not stated",
+   "thesis": "Guest: IT only as a trading bet on deep falls, not a long-term investment — headwinds, rich valuations, old business still drives profits and 5-10% growth cannot support PE 30-35",
+   "base_case": "Trading bounces on sharp falls",
+   "bull_case": "A surprise new product or AI breakthrough restores growth",
+   "bear_case": "Growth stays muted and large IT keeps underperforming",
+   "analyzed_at": "2026-10-30T01:30:53.275254+00:00",
+   "note": "AVOID as a long-term investment; trading bounces excepted. Collab video; guest view, attributed to Rahul Jain per runbook"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
