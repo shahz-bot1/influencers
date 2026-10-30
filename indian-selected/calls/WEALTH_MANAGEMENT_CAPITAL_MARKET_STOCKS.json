@@ -1,0 +1,28 @@
+{
+ "ticker": "WEALTH MANAGEMENT / CAPITAL MARKET STOCKS",
+ "slug": "WEALTH_MANAGEMENT_CAPITAL_MARKET_STOCKS",
+ "calls": [
+  {
+   "video_id": "AEu8HHzFYdM",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "44 Mins That Could Change How You Invest in This Market Correction | Rahul Jain G2G",
+   "published_at": "2026-10-29T15:26:32.491135+00:00",
+   "ticker": "WEALTH MANAGEMENT / CAPITAL MARKET STOCKS",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Sector corrected sharply in the last 7 days but rallies when LTCG tax relief comes; SEBI's return to the original cash method from December also helps",
+   "base_case": "Tax relief plus SEBI measures revive volumes and the sector performs well long-term",
+   "bull_case": "LTCG cut or abolition brings FII and domestic flows back strongly",
+   "bear_case": "No tax relief and volumes stay depressed",
+   "analyzed_at": "2026-10-30T01:30:53.275254+00:00",
+   "note": "Collab video; guest view, attributed to Rahul Jain per runbook"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
