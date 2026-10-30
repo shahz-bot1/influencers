@@ -1,0 +1,25 @@
+{
+ "video_id": "E3Eumh6skAQ",
+ "title": "Why Is AppLovin Stock Falling, and is it a Buying Opportunity?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-29T16:00:13.871635+00:00",
+ "summary": "Parkevtate Vosianc CFA asks whether AppLovin's sharp 2026 fall is a buying opportunity, and answers with a reiterated BUY, upgrading his conviction from medium to high. He notes the stock is down about 50% in 2026 despite growth above 40% and margins approaching 65-70%, and argues it now looks undervalued on both forward price-to-earnings, versus a mid-40s multiple at the start of the year, and on his discounted cash flow fair value of $354. Third-quarter growth guided at about 47% at the midpoint is presented as evidence that a new model rollout is re-accelerating revenue. His bull case is a virtuous cycle: compute investment improves models, which improves return on ad spend, which brings in more revenue, making AppLovin one of the most profitable companies he follows. His bear case is that analyst earnings-growth forecasts have been cut from 50-60% to 32.7%, and his own discounted cash flow revisions have moved lower, partly because management is spending on compute at the expense of margins. No other ticker is given a call in this video. The market price at the time of the call was garbled in the auto-captions.",
+ "calls": [
+  {
+   "video_id": "E3Eumh6skAQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is AppLovin Stock Falling, and is it a Buying Opportunity?",
+   "published_at": "2026-10-29T16:00:13.871635+00:00",
+   "ticker": "APP",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "Fair value $354 (DCF); market price garbled in captions",
+   "thesis": "Reiterates his buy ranking held since 2024 and upgrades conviction medium to high: stock down ~50% in 2026 despite 40%+ growth and margins approaching 65-70%, and it now looks undervalued on both forward PE (vs mid-40s at the start of the year) and his DCF.",
+   "base_case": "Q3 growth guided ~47% at the midpoint; new model rollout is re-accelerating revenue.",
+   "bull_case": "Compute investment drives a virtuous cycle: better models, better return on ad spend, more revenue; one of the most profitable companies he follows.",
+   "bear_case": "Analyst EPS growth forecasts cut from 50-60% to 32.7%; his own DCF revisions have moved lower and management is spending on compute at the expense of margins."
+  }
+ ]
+}
