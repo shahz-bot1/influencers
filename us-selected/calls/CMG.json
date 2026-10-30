@@ -3,6 +3,23 @@
  "slug": "CMG",
  "calls": [
   {
+   "video_id": "6EAT85y5dtM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "5 Undervalued Stocks to Buy Now in November (2026)",
+   "published_at": "2026-10-30T11:55:39.676815+00:00",
+   "analyzed_at": "2026-10-30T14:57:51.710817+00:00",
+   "collab": false,
+   "ticker": "CMG",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "was HOLD 2026-10-10",
+   "thesis": "FLIP: was HOLD 2026-10-10 (fair value $32 then, fairly priced after a takeover pop), now BUY: fair value $33.50 vs $28 near 52-week low (~20% upside over 12-18 months); performing relatively well despite restaurant-industry strain from tariffs, oil and insurance costs.",
+   "base_case": "",
+   "bull_case": "Starbucks acquisition speculation (Brian Niccol link) and resilient performance vs peers.",
+   "bear_case": "Consumers keep cutting eating-out spend as essentials costs rise."
+  },
+  {
    "video_id": "cTvk5J3F9XQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
