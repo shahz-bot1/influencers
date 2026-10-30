@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:17:09.866101+00:00",
+ "updated": "2026-10-30T23:12:35.910154+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -269,6 +269,23 @@
    "nCalls": 4
   },
   {
+   "ticker": "APP",
+   "slug": "APP",
+   "lastDate": "2026-10-30T11:55:39.676815+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$354"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "Fair value $354 vs $263 (~35% upside over 12-18 months)",
+   "nCalls": 2
+  },
+  {
    "ticker": "ARKQ",
    "slug": "ARKQ",
    "lastDate": "2026-01-31T14:31:00+00:00",
@@ -518,19 +535,19 @@
   {
    "ticker": "CELH",
    "slug": "CELH",
-   "lastDate": "2026-10-20T15:00:16.810442+00:00",
+   "lastDate": "2026-10-30T11:55:39.676815+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$43"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "28",
-   "nCalls": 2
+   "lastStated": "Fair value $43 vs $28 (~55% upside over 12-18 months)",
+   "nCalls": 3
   },
   {
    "ticker": "CGEM",
@@ -564,6 +581,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "$8 (stated current, up 11% today); DCF fair value rendered '$529' in auto-captio",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CHWY",
+   "slug": "CHWY",
+   "lastDate": "2026-10-30T11:55:39.676815+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$33"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "Fair value $33; market price garbled in captions (~53% upside over 12-18 months)",
    "nCalls": 1
   },
   {
@@ -620,19 +654,19 @@
   {
    "ticker": "CMG",
    "slug": "CMG",
-   "lastDate": "2026-10-10T19:00:00+00:00",
+   "lastDate": "2026-10-30T11:55:39.676815+00:00",
    "chips": [
     {
-     "dir": "HOLD",
+     "dir": "BUY",
      "n": 1,
-     "avg": "$33"
+     "avg": null
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "~$33",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "COIN",
@@ -1600,20 +1634,21 @@
   {
    "ticker": "LITE",
    "slug": "LITE",
-   "lastDate": "2026-10-15T22:55:33.910850+00:00",
+   "lastDate": "2026-10-30T14:45:39.676815+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 2,
-     "avg": null
+     "n": 3,
+     "avg": "$158"
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "MarketBeat",
     "Mark Roussin CPA"
    ],
-   "lastStated": "",
-   "nCalls": 3
+   "lastStated": "DCF fair value $158; market price garbled in captions (reads $915, inconsistent ",
+   "nCalls": 4
   },
   {
    "ticker": "LLY",
@@ -1884,6 +1919,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "MNDY",
+   "slug": "MNDY",
+   "lastDate": "2026-10-30T11:55:39.676815+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$121"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "Fair value $121 vs just under $100 (~22% upside over 12-18 months)",
+   "nCalls": 1
+  },
+  {
    "ticker": "MNST",
    "slug": "MNST",
    "lastDate": "2026-10-20T15:00:16.810442+00:00",
@@ -1971,31 +2023,26 @@
   {
    "ticker": "MRVL",
    "slug": "MRVL",
-   "lastDate": "2026-10-13T14:00:14.760255+00:00",
+   "lastDate": "2026-10-30T16:00:02.287885+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
-     "avg": null
+     "n": 2,
+     "avg": "$248"
     },
     {
      "dir": "CONDITIONAL_BUY",
      "n": 1,
      "avg": "$280"
-    },
-    {
-     "dir": "AVOID",
-     "n": 1,
-     "avg": "$287"
     }
    ],
    "influencers": [
-    "Mark Roussin CPA",
     "Parkevtate Vosianc CFA",
+    "Mark Roussin CPA",
     "MarketBeat"
    ],
-   "lastStated": "~$280 (stated, models value ~$280; analyst PT $340)",
-   "nCalls": 5
+   "lastStated": "DCF fair value $248 (stated) vs ~$249 market (stated, fairly valued); forward P/",
+   "nCalls": 6
   },
   {
    "ticker": "MSFT",
@@ -2075,6 +2122,23 @@
    ],
    "lastStated": "DCF fair value $248 (stated) vs $160 current (stated), about 55% upside; forward",
    "nCalls": 14
+  },
+  {
+   "ticker": "NET",
+   "slug": "NET",
+   "lastDate": "2026-10-30T21:58:15.075182+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "No price level given; trillion-dollar potential / Magnificent Seven-like force (",
+   "nCalls": 1
   },
   {
    "ticker": "NFLX",
@@ -2963,17 +3027,12 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-10-27T17:00:06.191687+00:00",
+   "lastDate": "2026-10-30T13:55:39.676815+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
-     "avg": "$16"
-    },
-    {
-     "dir": "CONDITIONAL_BUY",
-     "n": 1,
-     "avg": "$14.82"
+     "n": 2,
+     "avg": "$19"
     },
     {
      "dir": "HOLD",
@@ -2982,12 +3041,12 @@
     }
    ],
    "influencers": [
-    "Couch Investor",
     "Parkevtate Vosianc CFA",
+    "Couch Investor",
     "MarketBeat"
    ],
-   "lastStated": "~$16-$16.40 (stated, trading today); stock up ~13% at time of recording (stated)",
-   "nCalls": 8
+   "lastStated": "Fair value raised to $22 vs ~$17 market (~30% upside over 12-18 months)",
+   "nCalls": 9
   },
   {
    "ticker": "SPCX",
@@ -3736,7 +3795,7 @@
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
    "nCalls": 81,
-   "nVideos": 61
+   "nVideos": 62
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -3756,15 +3815,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 93,
-   "nVideos": 38
+   "nCalls": 94,
+   "nVideos": 39
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 165,
-   "nVideos": 166
+   "nCalls": 174,
+   "nVideos": 171
   },
   {
    "name": "The German Value Investor",
@@ -3775,6 +3834,66 @@
   }
  ],
  "videos": [
+  {
+   "id": "dsk6IapOElU",
+   "title": "Could Cloudflare Be the Next Magnificent Seven Stock? Josh Baylin's Bold AI Prediction",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-10-30T21:58:15.075182+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "Yz06kjzQHJE",
+   "title": "AI Stocks Are Crashing. Here’s What I’m Actually Doing",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-10-30T17:00:02.287885+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "PS8tmYrwyVU",
+   "title": "Marvell Stock: Buy or Sell? | MRVL Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-30T16:00:02.287885+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "sovPHJb7_cc",
+   "title": "Is Lumentum Stock a Buy Right Now as Marvell Considers Takeover? | LITE Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-30T14:45:39.676815+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "XsSN7JMauAo",
+   "title": "Is SoFi Stock a Buy After its Spectacular Investor Update?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-30T13:55:39.676815+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "6EAT85y5dtM",
+   "title": "5 Undervalued Stocks to Buy Now in November (2026)",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-30T11:55:39.676815+00:00",
+   "nCalls": 5
+  },
   {
    "id": "g1GeJQnFse8",
    "title": "Google Tanks... Most Aren't Ready For What This Means",
@@ -3793,6 +3912,16 @@
     "Joseph Carlson After Hours"
    ],
    "published_at": "2026-10-29T20:58:49.860520+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "E3Eumh6skAQ",
+   "title": "Why Is AppLovin Stock Falling, and is it a Buying Opportunity?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-10-29T16:00:13.871635+00:00",
    "nCalls": 1
   },
   {
