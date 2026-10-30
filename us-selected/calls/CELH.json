@@ -3,6 +3,24 @@
  "slug": "CELH",
  "calls": [
   {
+   "video_id": "6EAT85y5dtM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "5 Undervalued Stocks to Buy Now in November (2026)",
+   "published_at": "2026-10-30T11:55:39.676815+00:00",
+   "analyzed_at": "2026-10-30T14:57:51.710817+00:00",
+   "collab": false,
+   "ticker": "CELH",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "Fair value $43 vs $28 (~55% upside over 12-18 months)",
+   "thesis": "BUY reiterated (was BUY 2026-10-20): energy drinks gaining beverage share; SKU cuts went too far and hurt sales, but early-stage growth, especially international, remains.",
+   "base_case": "",
+   "bull_case": "International expansion and SKU restoration revive sales growth.",
+   "bear_case": "SKU misstep lingers in key channels; energy-drink competition intensifies."
+  },
+  {
    "video_id": "hIg3gx2OmnM",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
