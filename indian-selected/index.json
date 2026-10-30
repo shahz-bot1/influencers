@@ -1,21 +1,55 @@
 {
- "updated": "2026-10-27T01:29:10.895014+00:00",
+ "updated": "2026-10-30T01:32:17.600860+00:00",
  "tickers": [
+  {
+   "ticker": "DATA CENTER THEME",
+   "slug": "DATA_CENTER_THEME",
+   "lastDate": "2026-10-29T15:26:32.491135+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
   {
    "ticker": "GOLD",
    "slug": "GOLD",
-   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "lastDate": "2026-10-29T15:26:32.491135+00:00",
    "chips": [
     {
      "dir": "AVOID",
      "n": 1,
-     "avg": "₹150,000"
+     "avg": null
     }
    ],
    "influencers": [
     "Rahul Jain"
    ],
    "lastStated": "Rs 1,50,000 (stated as current price)",
+   "nCalls": 2
+  },
+  {
+   "ticker": "INDIA IT",
+   "slug": "INDIA_IT",
+   "lastDate": "2026-10-29T15:26:32.491135+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
    "nCalls": 1
   },
   {
@@ -104,6 +138,40 @@
    "nCalls": 2
   },
   {
+   "ticker": "NIFTY 100",
+   "slug": "NIFTY_100",
+   "lastDate": "2026-10-29T14:26:32.491135+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NIFTY 200 MOMENTUM 30",
+   "slug": "NIFTY_200_MOMENTUM_30",
+   "lastDate": "2026-10-29T14:26:32.491135+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "NIFTY 50",
    "slug": "NIFTY_50",
    "lastDate": "2026-09-27T20:54:12.349385+00:00",
@@ -123,7 +191,7 @@
   {
    "ticker": "NIFTY BANK",
    "slug": "NIFTY_BANK",
-   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "lastDate": "2026-10-29T14:26:32.491135+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -135,7 +203,7 @@
     "Rahul Jain"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "NIFTY ENERGY",
@@ -174,10 +242,10 @@
   {
    "ticker": "NIFTY MIDCAP 150",
    "slug": "NIFTY_MIDCAP_150",
-   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "lastDate": "2026-10-29T14:26:32.491135+00:00",
    "chips": [
     {
-     "dir": "BUY",
+     "dir": "CONDITIONAL_BUY",
      "n": 1,
      "avg": null
     }
@@ -186,7 +254,7 @@
     "Rahul Jain"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "NIFTY NEXT 50",
@@ -238,6 +306,23 @@
    ],
    "lastStated": "",
    "nCalls": 1
+  },
+  {
+   "ticker": "WEALTH MANAGEMENT / CAPITAL MARKET STOCKS",
+   "slug": "WEALTH_MANAGEMENT_CAPITAL_MARKET_STOCKS",
+   "lastDate": "2026-10-29T15:26:32.491135+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   }
  ],
  "influencers": [
@@ -252,8 +337,8 @@
    "name": "Rahul Jain",
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
-   "nCalls": 15,
-   "nVideos": 23
+   "nCalls": 23,
+   "nVideos": 25
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -264,6 +349,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "QROoS9b-RWc",
+   "title": "Don't Ignore These 4 Investment Opportunities in This Market Correction | Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-29",
+   "nCalls": 4
+  },
+  {
+   "id": "AEu8HHzFYdM",
+   "title": "44 Mins That Could Change How You Invest in This Market Correction | Rahul Jain G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-10-29",
+   "nCalls": 4
+  },
   {
    "id": "FGAdLA3or3I",
    "title": "These 4 Businesses Have the Potential to Make You Rich! | 4 Experts | G2G",
