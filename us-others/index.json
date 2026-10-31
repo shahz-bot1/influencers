@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T04:59:18.666563+00:00",
+ "updated": "2026-10-31T04:58:26.618862+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -393,19 +393,20 @@
   {
    "ticker": "BKNG",
    "slug": "BKNG",
-   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "lastDate": "2026-10-30T17:55:38.316521+00:00",
    "chips": [
     {
      "dir": "AVOID",
-     "n": 1,
-     "avg": null
+     "n": 2,
+     "avg": "$24"
     }
    ],
    "influencers": [
+    "Sven Carlin",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "No share price stated; down ~24% since August high (28% at one point in video), ",
+   "nCalls": 2
   },
   {
    "ticker": "BLDR",
@@ -2238,8 +2239,8 @@
    "name": "Sven Carlin",
    "handle": "@value-investing",
    "slug": "Sven_Carlin",
-   "nCalls": 24,
-   "nVideos": 3
+   "nCalls": 25,
+   "nVideos": 4
   },
   {
    "name": "Tom Nash",
@@ -2257,6 +2258,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "ln-7LUU_9oE",
+   "title": "Booking NASDAQ: BKNG Looks Like A Great Business Trading Cheap",
+   "creator": "Sven Carlin",
+   "channels": [
+    "Sven Carlin"
+   ],
+   "published_at": "2026-10-30T17:55:38.316521+00:00",
+   "nCalls": 1
+  },
   {
    "id": "STKzuRoEQoE",
    "title": "The AI Stock Market Just Got 3 Massive Signals!!",
