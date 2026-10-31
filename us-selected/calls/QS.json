@@ -1,0 +1,29 @@
+{
+ "ticker": "QS",
+ "slug": "QS",
+ "calls": [
+  {
+   "video_id": "vvzM_bfHxmk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "QuantumScape Stock: Buy or Sell?",
+   "published_at": "2026-10-31T14:45:45.668217+00:00",
+   "ticker": "QS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "Market ~$4 (no fair value given; upgraded to BUY 27 Jul at ~$5)",
+   "thesis": "First tracked QS call: reiterates his 27 Jul BUY — solid-state battery progress is on plan or better, Honda partnership testing is under way, and risk/reward is attractive only for very high risk tolerance.",
+   "base_case": "R&D and Eagle-line manufacturing progress continue toward the 2027-2028 production target, with sample orders already worth several million dollars.",
+   "bull_case": "A home run: if the technology works at scale, every EV maker adopts it, and AI data-center and defence uses expand the market — a potential 100-bagger.",
+   "bear_case": "A strikeout: pre-revenue, could go to zero; cash down to $820M from ~$1.5B since 2021, and forward price/sales of 357 is, by his own admission, not very meaningful.",
+   "analyzed_at": "2026-10-31T23:06:08.398252+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
