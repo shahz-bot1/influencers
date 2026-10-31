@@ -3,6 +3,23 @@
  "slug": "ORCL",
  "calls": [
   {
+   "video_id": "ZWSeoBObE08",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "BUY THE DIP! 5 Hot Stocks to Buy Now (November’s Top Picks With Upside Ahead)",
+   "published_at": "2026-10-30T22:30:15.075182+00:00",
+   "ticker": "ORCL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given by Hughes; analyst targets cited $110-$400, Dan Ives $155 (not Hughes)",
+   "thesis": "Guest analyst Thomas Hughes' top November buy-the-dip pick: Oracle is an execution story, backlog far exceeds spending and is starting to monetize into cash flow; stock trading at rock bottom as if the business will fail.",
+   "base_case": "Backlog converts to cash flow over time, debt falls, capital returns resume and the price bounces.",
+   "bull_case": "Capacity comes online and monetization accelerates, firming sentiment and reducing volatility.",
+   "bear_case": "AI spending and debt remain the hurdle; near-term headwinds persist while the build-out continues.",
+   "analyzed_at": "2026-10-31T06:57:49.004277+00:00"
+  },
+  {
    "video_id": "s7G5dXn2VTY",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -32,12 +49,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 2
   }
  ]
 }
