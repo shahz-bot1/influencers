@@ -408,5 +408,53 @@
   "bear_case": "No base forms and the fall continues",
   "analyzed_at": "2026-10-30T01:30:53.275254+00:00",
   "note": "Reiterates Rahul Jain's GOLD AVOID (27 Sep 2026). Collab video; guest view, attributed to Rahul Jain per runbook"
+ },
+ {
+  "video_id": "_-QSrevxzuU",
+  "channel": "Akshat Shrivastava",
+  "handle": "@AkshatZayn",
+  "video_title": "Invest....(but where?). Everything is falling: Gold, Nifty, AI Stocks",
+  "published_at": "2026-10-30T15:26:31.859677+00:00",
+  "ticker": "GOLD",
+  "direction": "BUY",
+  "price_at_call": "not stated",
+  "thesis": "Gold is at its support zone, so it is a good time to top up for investors who already trust gold as a diversifier uncorrelated to equities",
+  "base_case": "Top up at support as part of a diversified allocation; no expectation it runs from tomorrow",
+  "bull_case": "Support holds and gold resumes its rally from the consolidation zone",
+  "bear_case": "Support breaks and gold keeps falling after the recent chase-and-drop",
+  "note": "Framed as a top-up at support for investors who trust gold, not a fresh allocation for everyone; his own action: topping up 'a little bit'. No Rs price stated; caption's '3500 3600' figure carries no clear currency and is not recorded as a price.",
+  "analyzed_at": "2026-10-31T01:29:46.651442+00:00"
+ },
+ {
+  "video_id": "_-QSrevxzuU",
+  "channel": "Akshat Shrivastava",
+  "handle": "@AkshatZayn",
+  "video_title": "Invest....(but where?). Everything is falling: Gold, Nifty, AI Stocks",
+  "published_at": "2026-10-30T15:26:31.859677+00:00",
+  "ticker": "GOOGL",
+  "direction": "BUY",
+  "price_at_call": "not stated",
+  "thesis": "Google is a buy-on-dips core stock: down ~10% pre-market to support and ~30% from its peak, forward PE under 18, cheaper than Nifty 50, with the fall driven by AI capex overspend, not a broken business",
+  "base_case": "Hold a 5-10% portfolio position and add at support levels while fundamentals stay intact",
+  "bull_case": "AI capex translates into profits and the derating reverses from a sub-18 forward PE",
+  "bear_case": "Google falls another ~10% from here as AI spending keeps rising without payoff",
+  "note": "His own action: topping up an already-profitable position. No share price stated, only percentage falls and PE.",
+  "analyzed_at": "2026-10-31T01:29:46.651442+00:00"
+ },
+ {
+  "video_id": "_-QSrevxzuU",
+  "channel": "Akshat Shrivastava",
+  "handle": "@AkshatZayn",
+  "video_title": "Invest....(but where?). Everything is falling: Gold, Nifty, AI Stocks",
+  "published_at": "2026-10-30T15:26:31.859677+00:00",
+  "ticker": "NIFTY 50",
+  "direction": "UNCERTAIN",
+  "price_at_call": "not stated",
+  "thesis": "Mixed message: Nifty's ~2-3 years of zero returns may be a structural breakdown rather than a cyclical one, and he is cutting his own Nifty swing trade to move toward growth markets — yet he also says investors who trust Nifty should buy more at support",
+  "base_case": "Cyclical soft patch resolves and Nifty recovers as in past cycles",
+  "bull_case": "Structural concerns prove overdone and support buyers are rewarded",
+  "bear_case": "Structural decline persists like Japan's 1996-2020 stagnation while other global markets outperform",
+  "note": "Recorded UNCERTAIN, not SELL: his personal swing-trade trim and his buy-at-support advice to believers point in opposite directions, so no single direction is attributable.",
+  "analyzed_at": "2026-10-31T01:29:46.651442+00:00"
  }
 ]
