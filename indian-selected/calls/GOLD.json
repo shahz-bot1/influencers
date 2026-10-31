@@ -3,6 +3,22 @@
  "slug": "GOLD",
  "calls": [
   {
+   "video_id": "_-QSrevxzuU",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "Invest....(but where?). Everything is falling: Gold, Nifty, AI Stocks",
+   "published_at": "2026-10-30T15:26:31.859677+00:00",
+   "ticker": "GOLD",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Gold is at its support zone, so it is a good time to top up for investors who already trust gold as a diversifier uncorrelated to equities",
+   "base_case": "Top up at support as part of a diversified allocation; no expectation it runs from tomorrow",
+   "bull_case": "Support holds and gold resumes its rally from the consolidation zone",
+   "bear_case": "Support breaks and gold keeps falling after the recent chase-and-drop",
+   "note": "Framed as a top-up at support for investors who trust gold, not a fresh allocation for everyone; his own action: topping up 'a little bit'. No Rs price stated; caption's '3500 3600' figure carries no clear currency and is not recorded as a price.",
+   "analyzed_at": "2026-10-31T01:29:46.651442+00:00"
+  },
+  {
    "video_id": "AEu8HHzFYdM",
    "channel": "Rahul Jain",
    "handle": "@torahulj",
@@ -36,8 +52,12 @@
  ],
  "byInf": [
   {
-   "channel": "Rahul Jain",
+   "channel": "Akshat Shrivastava",
    "idx": 0
+  },
+  {
+   "channel": "Rahul Jain",
+   "idx": 1
   }
  ]
 }
