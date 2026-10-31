@@ -1,0 +1,29 @@
+{
+ "ticker": "AMPX",
+ "slug": "AMPX",
+ "calls": [
+  {
+   "video_id": "ZWSeoBObE08",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "BUY THE DIP! 5 Hot Stocks to Buy Now (November’s Top Picks With Upside Ahead)",
+   "published_at": "2026-10-30T22:30:15.075182+00:00",
+   "ticker": "AMPX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given",
+   "thesis": "First tracked MarketBeat call: Amprius Technologies has moved from speculation to execution, validated by a recent $75M government contract; capacity, production and revenue ramping toward a profitability inflection in the next 2-3 quarters, with a new Elliott-wave upswing expected.",
+   "base_case": "Execution continues and the next earnings report confirms the ramp, starting the rally cycle.",
+   "bull_case": "Three large rallies take the stock to new highs as institutions begin accumulating on positive news.",
+   "bear_case": "Risk of a miss or weak guidance at the early-November earnings report; low institutional ownership so far.",
+   "analyzed_at": "2026-10-31T06:57:49.004277+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
