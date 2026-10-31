@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T01:32:17.600860+00:00",
+ "updated": "2026-10-31T01:30:57.407638+00:00",
  "tickers": [
   {
    "ticker": "DATA CENTER THEME",
@@ -21,8 +21,13 @@
   {
    "ticker": "GOLD",
    "slug": "GOLD",
-   "lastDate": "2026-10-29T15:26:32.491135+00:00",
+   "lastDate": "2026-10-30T15:26:31.859677+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
     {
      "dir": "AVOID",
      "n": 1,
@@ -30,10 +35,28 @@
     }
    ],
    "influencers": [
+    "Akshat Shrivastava",
     "Rahul Jain"
    ],
    "lastStated": "Rs 1,50,000 (stated as current price)",
-   "nCalls": 2
+   "nCalls": 3
+  },
+  {
+   "ticker": "GOOGL",
+   "slug": "GOOGL",
+   "lastDate": "2026-10-30T15:26:31.859677+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Akshat Shrivastava"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "INDIA IT",
@@ -330,8 +353,8 @@
    "name": "Akshat Shrivastava",
    "handle": "@AkshatZayn",
    "slug": "Akshat_Shrivastava",
-   "nCalls": 0,
-   "nVideos": 9
+   "nCalls": 2,
+   "nVideos": 10
   },
   {
    "name": "Rahul Jain",
@@ -349,6 +372,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "_-QSrevxzuU",
+   "title": "Invest....(but where?). Everything is falling: Gold, Nifty, AI Stocks",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-10-30",
+   "nCalls": 2
+  },
   {
    "id": "QROoS9b-RWc",
    "title": "Don't Ignore These 4 Investment Opportunities in This Market Correction | Rahul Jain",
