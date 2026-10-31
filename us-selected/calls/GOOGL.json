@@ -3,6 +3,23 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "qoGPMSRR4TI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Alphabet Stock Falling After Earnings, and is it a Buying Opportunity? | GOOG Stock Analysis",
+   "published_at": "2026-10-31T11:55:45.668217+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "CONDITIONAL_BUY → BUY",
+   "price_at_call": "DCF fair value $357 vs market $283 (~25% undervalued); forward P/E 18.5",
+   "thesis": "FLIP: CONDITIONAL_BUY (22 Oct, wait for the update) → BUY with high conviction after the Q3 print — revenue +25% to $128B, operating income +30%, and the dip leaves the stock undervalued on both DCF and forward P/E.",
+   "base_case": "AI investments earn above their cost of capital, backed by a backlog of hundreds of billions in customer orders and ROIC of 38.1% over the trailing 12 months.",
+   "bull_case": "Cloud revenue soars, TPU sales grow as a Nvidia alternative, and Gemini (1B+ users) monetises better over time.",
+   "bear_case": "Free cash flow turned -$9B in Q3 2026 as capex more than doubled to $51B, cash flow from operations fell to $42.3B, headcount rose 7% while Meta cut staff, and $40B+ was raised via stock sales and borrowing.",
+   "analyzed_at": "2026-10-31T23:06:08.398252+00:00"
+  },
+  {
    "video_id": "g1GeJQnFse8",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -355,28 +372,28 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 2
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 3
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 6
+   "channel": "Mark Roussin CPA",
+   "idx": 4
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 8
+   "channel": "BWB - Business With Brian",
+   "idx": 7
   }
  ]
 }
