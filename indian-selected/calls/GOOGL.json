@@ -1,0 +1,28 @@
+{
+ "ticker": "GOOGL",
+ "slug": "GOOGL",
+ "calls": [
+  {
+   "video_id": "_-QSrevxzuU",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "Invest....(but where?). Everything is falling: Gold, Nifty, AI Stocks",
+   "published_at": "2026-10-30T15:26:31.859677+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Google is a buy-on-dips core stock: down ~10% pre-market to support and ~30% from its peak, forward PE under 18, cheaper than Nifty 50, with the fall driven by AI capex overspend, not a broken business",
+   "base_case": "Hold a 5-10% portfolio position and add at support levels while fundamentals stay intact",
+   "bull_case": "AI capex translates into profits and the derating reverses from a sub-18 forward PE",
+   "bear_case": "Google falls another ~10% from here as AI spending keeps rising without payoff",
+   "note": "His own action: topping up an already-profitable position. No share price stated, only percentage falls and PE.",
+   "analyzed_at": "2026-10-31T01:29:46.651442+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Akshat Shrivastava",
+   "idx": 0
+  }
+ ]
+}
