@@ -1,0 +1,26 @@
+{
+ "video_id": "qoGPMSRR4TI",
+ "title": "Why Is Alphabet Stock Falling After Earnings, and is it a Buying Opportunity? | GOOG Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-31T11:55:45.668217+00:00",
+ "summary": "Parkevtate Vosianc CFA updates his Alphabet view after a quarterly report that sent the stock down 13% in a day, and upgrades it from CONDITIONAL_BUY to a definite BUY with high conviction. Revenue rose 25% to $128 billion, operating income rose 30% and the operating margin was 31.8%, but the print fell short of expectations set against Microsoft's 19% and Meta's 26% growth. Google Services revenue rose 11% to $96.3 billion as AI overviews weaken monetisation despite record search queries, while Cloud revenue reached $30.7 billion with TPU chip sales contributing. He flags three concerns: headcount up 7% to 204,757 while Meta grew faster with 12% fewer staff, shareholder dilution and borrowing of over $40 billion in the quarter, and free cash flow turning to -$9 billion as capital spending more than doubled to $51 billion. Against that, cash and marketable securities more than doubled to over $265 billion, total assets reached $1 trillion, and trailing returns on invested capital were 38.1%, three to four times the cost of capital. His revised discounted cash flow fair value is $357 against a $283 market price, about 25% undervalued, and he is keeping his shares, which he has held since 2020.",
+ "calls": [
+  {
+   "video_id": "qoGPMSRR4TI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Alphabet Stock Falling After Earnings, and is it a Buying Opportunity? | GOOG Stock Analysis",
+   "published_at": "2026-10-31T11:55:45.668217+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "CONDITIONAL_BUY → BUY",
+   "price_at_call": "DCF fair value $357 vs market $283 (~25% undervalued); forward P/E 18.5",
+   "thesis": "FLIP: CONDITIONAL_BUY (22 Oct, wait for the update) → BUY with high conviction after the Q3 print — revenue +25% to $128B, operating income +30%, and the dip leaves the stock undervalued on both DCF and forward P/E.",
+   "base_case": "AI investments earn above their cost of capital, backed by a backlog of hundreds of billions in customer orders and ROIC of 38.1% over the trailing 12 months.",
+   "bull_case": "Cloud revenue soars, TPU sales grow as a Nvidia alternative, and Gemini (1B+ users) monetises better over time.",
+   "bear_case": "Free cash flow turned -$9B in Q3 2026 as capex more than doubled to $51B, cash flow from operations fell to $42.3B, headcount rose 7% while Meta cut staff, and $40B+ was raised via stock sales and borrowing.",
+   "analyzed_at": "2026-10-31T23:06:08.398252+00:00"
+  }
+ ]
+}
