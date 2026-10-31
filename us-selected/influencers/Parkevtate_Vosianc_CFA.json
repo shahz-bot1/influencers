@@ -4,6 +4,38 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "RIVN",
+   "tickerSlug": "RIVN",
+   "direction": "BUY",
+   "date": "2026-10-31T16:00:05.522376+00:00",
+   "price": "DCF fair value $13.60 vs 52-week low $11.43 (~20% undervalued); medium conviction, upgraded 26 Oct",
+   "video_id": "T9DpyyBNQbg"
+  },
+  {
+   "ticker": "QS",
+   "tickerSlug": "QS",
+   "direction": "BUY",
+   "date": "2026-10-31T14:45:45.668217+00:00",
+   "price": "Market ~$4 (no fair value given; upgraded to BUY 27 Jul at ~$5)",
+   "video_id": "vvzM_bfHxmk"
+  },
+  {
+   "ticker": "BE",
+   "tickerSlug": "BE",
+   "direction": "HOLD",
+   "date": "2026-10-31T14:45:45.668217+00:00",
+   "price": "DCF fair value $158 vs market ~$220",
+   "video_id": "mNVCOCrbTbY"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-10-31T11:55:45.668217+00:00",
+   "price": "DCF fair value $357 vs market $283 (~25% undervalued); forward P/E 18.5",
+   "video_id": "qoGPMSRR4TI"
+  },
+  {
    "ticker": "MRVL",
    "tickerSlug": "MRVL",
    "direction": "BUY",
