@@ -1,0 +1,26 @@
+{
+ "video_id": "mNVCOCrbTbY",
+ "title": "Is Bloom Energy Stock a Buy Right Now in November (2026)? | BE Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-31T14:45:45.668217+00:00",
+ "summary": "Parkevtate Vosianc CFA reviews Bloom Energy after a quarterly report in which revenue soared 138% to $1.24 billion and operating profit margin rose to 23% from 9% a year earlier, and he reiterates his HOLD rating. The attraction is a supplier to the hyperscalers building AI data centres, where constrained grid connections make Bloom's power a reliable alternative. Trailing-12-month revenue has roughly tripled in about 18 months to $3.8 billion, cash flow from operations has improved from -30% to 18%, and returns on invested capital have turned positive from negative levels, which he reads as genuine organic demand rather than discount-driven sales. He revised his discounted cash flow estimates higher after the company raised expectations, lifting his fair value to $158, but the market price of about $220 still sits above it, so he will not buy yet. He would buy at a lower price, or if performance keeps improving while the price stands still, closing the valuation gap. Data-centre demand is the near-term driver, but he expects electrification, EVs, driverless cars and warehouse robotics to sustain elevated energy demand for years or decades. He closes by noting Nvidia's November results, which he will cover live for channel members only.",
+ "calls": [
+  {
+   "video_id": "mNVCOCrbTbY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Bloom Energy Stock a Buy Right Now in November (2026)? | BE Stock Analysis",
+   "published_at": "2026-10-31T14:45:45.668217+00:00",
+   "ticker": "BE",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "DCF fair value $158 vs market ~$220",
+   "thesis": "HOLD reiterated (prior HOLD 6 Oct): extremely optimistic long term, but will not buy at ~$220 when his DCF value is $158 — wants a lower price or continued performance at the same price.",
+   "base_case": "Hyperscaler energy demand persists, margins and cash flow keep improving, and the raised DCF keeps rising toward the market price.",
+   "bull_case": "Data-center power demand stays structural for years, capacity ramps, and a profitability inflection follows the recent $75M-scale validation and contract momentum.",
+   "bear_case": "Paying ~$220 for a $158 value leaves no margin of safety; an early-November earnings miss or weaker guidance would hurt a stock already up sharply.",
+   "analyzed_at": "2026-10-31T23:06:08.398252+00:00"
+  }
+ ]
+}
