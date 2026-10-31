@@ -4,6 +4,14 @@
  "slug": "Sven_Carlin",
  "calls": [
   {
+   "ticker": "BKNG",
+   "tickerSlug": "BKNG",
+   "direction": "AVOID",
+   "date": "2026-10-30T17:55:38.316521+00:00",
+   "price": "No share price stated; down ~24% since August high (28% at one point in video), P/E 18",
+   "video_id": "ln-7LUU_9oE"
+  },
+  {
    "ticker": "BTC",
    "tickerSlug": "BTC",
    "direction": "AVOID",
