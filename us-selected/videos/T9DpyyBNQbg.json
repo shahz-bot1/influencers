@@ -1,0 +1,26 @@
+{
+ "video_id": "T9DpyyBNQbg",
+ "title": "You Won't Believe My Shocking Update for Rivian Stock Investors | RIVN Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-31T16:00:05.522376+00:00",
+ "summary": "Parkevtate Vosianc CFA upgrades Rivian to BUY with medium conviction, ending years in which he warned the stock was overvalued as it fell from $125 to a new 52-week low of $11.43, down 90% from its all-time high. The upgrade, dated 26 October 2026 in his spreadsheet, follows yet another downward revision to his free-cash-flow estimates, but his discounted cash flow fair value of $13.60 still leaves the stock roughly 20% undervalued at the low. The core problem remains overbuilt capacity: Rivian can produce over 200,000 vehicles a year but forecasts only about 65,000 sales this year, one of its best years ever, and construction of a second plant is paused. He credits management, apart from the original EV-demand forecast, with reasonable decisions given a difficult hand, and argues the business is now more mature with better-developed competitive advantages. A supporting tailwind is persistently higher oil prices, which he expects to push more consumers toward EVs even though only about six in 100 new US car purchases are electric today. The video is framed as a long-term, risk-versus-reward call, not a trade on the imminent quarterly results, which are due in a couple of days.",
+ "calls": [
+  {
+   "video_id": "T9DpyyBNQbg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "You Won't Believe My Shocking Update for Rivian Stock Investors | RIVN Stock Analysis",
+   "published_at": "2026-10-31T16:00:05.522376+00:00",
+   "ticker": "RIVN",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "HOLD → BUY",
+   "price_at_call": "DCF fair value $13.60 vs 52-week low $11.43 (~20% undervalued); medium conviction, upgraded 26 Oct",
+   "thesis": "FLIP: HOLD (8 Oct, fairly priced at DCF $13) → BUY — after years warning the stock was overvalued from $125 down, the 90% fall to a new 52-week low finally makes risk/reward attractive for long-term investors.",
+   "base_case": "Demand recovers slowly as elevated oil prices push buyers toward EVs, and the business matures on its existing capacity.",
+   "bull_case": "Valuation re-rates as the market recognises a more mature business with developing competitive advantages, despite repeated downward estimate revisions.",
+   "bear_case": "Demand stays far below the 200,000+ unit capacity (only ~65,000 forecast this year, a record), the second plant stays paused, and free-cash-flow estimates keep falling.",
+   "analyzed_at": "2026-10-31T23:06:08.398252+00:00"
+  }
+ ]
+}
