@@ -3,6 +3,23 @@
  "slug": "APLD",
  "calls": [
   {
+   "video_id": "ZWSeoBObE08",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "BUY THE DIP! 5 Hot Stocks to Buy Now (November’s Top Picks With Upside Ahead)",
+   "published_at": "2026-10-30T22:30:15.075182+00:00",
+   "ticker": "APLD",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given; trading below $20 after a ~$50 May peak, at 18-month lows",
+   "thesis": "Applied Digital is bringing data-center capacity online and monetizing it, improving cash flow and margins; North Dakota power and expansion room plus upfront-capital-backed contracts de-risk the build-out; deeply oversold and set up for a rebound.",
+   "base_case": "Upcoming results show more traction and trigger a market rebound in the stock.",
+   "bull_case": "Outlook has improved since the $50 peak, so the next rally could be stronger and reach new highs.",
+   "bear_case": "Debt costs stay high and rates rise further, squeezing neo-cloud economics; the stock could pull back further first.",
+   "analyzed_at": "2026-10-31T06:57:49.004277+00:00"
+  },
+  {
    "video_id": "M8EYURxcy1w",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -68,12 +85,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
