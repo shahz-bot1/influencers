@@ -2,5 +2,22 @@
  "name": "Akshat Shrivastava",
  "handle": "@AkshatZayn",
  "slug": "Akshat_Shrivastava",
- "calls": []
+ "calls": [
+  {
+   "ticker": "GOLD",
+   "tickerSlug": "GOLD",
+   "direction": "BUY",
+   "date": "2026-10-30T15:26:31.859677+00:00",
+   "price": "not stated",
+   "video_id": "_-QSrevxzuU"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-10-30T15:26:31.859677+00:00",
+   "price": "not stated",
+   "video_id": "_-QSrevxzuU"
+  }
+ ]
 }
