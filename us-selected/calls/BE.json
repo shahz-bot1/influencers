@@ -3,6 +3,23 @@
  "slug": "BE",
  "calls": [
   {
+   "video_id": "mNVCOCrbTbY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Bloom Energy Stock a Buy Right Now in November (2026)? | BE Stock Analysis",
+   "published_at": "2026-10-31T14:45:45.668217+00:00",
+   "ticker": "BE",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "DCF fair value $158 vs market ~$220",
+   "thesis": "HOLD reiterated (prior HOLD 6 Oct): extremely optimistic long term, but will not buy at ~$220 when his DCF value is $158 — wants a lower price or continued performance at the same price.",
+   "base_case": "Hyperscaler energy demand persists, margins and cash flow keep improving, and the raised DCF keeps rising toward the market price.",
+   "bull_case": "Data-center power demand stays structural for years, capacity ramps, and a profitability inflection follows the recent $75M-scale validation and contract momentum.",
+   "bear_case": "Paying ~$220 for a $158 value leaves no margin of safety; an early-November earnings miss or weaker guidance would hurt a stock already up sharply.",
+   "analyzed_at": "2026-10-31T23:06:08.398252+00:00"
+  },
+  {
    "video_id": "8Py9Cm_qD-A",
    "channel": "Parkevtate Vosianc CFA",
    "video_title": "Should Investors Buy Bloom Energy Stock Right Now in October?",
@@ -40,7 +57,7 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
