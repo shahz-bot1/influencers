@@ -4,6 +4,46 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "ORCL",
+   "tickerSlug": "ORCL",
+   "direction": "BUY",
+   "date": "2026-10-30T22:30:15.075182+00:00",
+   "price": "No price level given by Hughes; analyst targets cited $110-$400, Dan Ives $155 (not Hughes)",
+   "video_id": "ZWSeoBObE08"
+  },
+  {
+   "ticker": "CRM",
+   "tickerSlug": "CRM",
+   "direction": "BUY",
+   "date": "2026-10-30T22:30:15.075182+00:00",
+   "price": "No price level given",
+   "video_id": "ZWSeoBObE08"
+  },
+  {
+   "ticker": "ZS",
+   "tickerSlug": "ZS",
+   "direction": "BUY",
+   "date": "2026-10-30T22:30:15.075182+00:00",
+   "price": "No price level given; ~50x current-year outlook noted as near-term valuation concern",
+   "video_id": "ZWSeoBObE08"
+  },
+  {
+   "ticker": "APLD",
+   "tickerSlug": "APLD",
+   "direction": "BUY",
+   "date": "2026-10-30T22:30:15.075182+00:00",
+   "price": "No price level given; trading below $20 after a ~$50 May peak, at 18-month lows",
+   "video_id": "ZWSeoBObE08"
+  },
+  {
+   "ticker": "AMPX",
+   "tickerSlug": "AMPX",
+   "direction": "BUY",
+   "date": "2026-10-30T22:30:15.075182+00:00",
+   "price": "No price level given",
+   "video_id": "ZWSeoBObE08"
+  },
+  {
    "ticker": "NET",
    "tickerSlug": "NET",
    "direction": "BUY",
