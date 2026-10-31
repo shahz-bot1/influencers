@@ -1,0 +1,26 @@
+{
+ "video_id": "vvzM_bfHxmk",
+ "title": "QuantumScape Stock: Buy or Sell?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-31T14:45:45.668217+00:00",
+ "summary": "Parkevtate Vosianc CFA revisits QuantumScape, trading at about $4 per share and down 60% year to date, and reiterates the BUY he first issued on 27 July 2026 when the stock traded at $5. The video's core argument is that solid-state battery technology for electric vehicles is progressing on plan or better: the Eagle manufacturing line is producing meaningful quantities, Honda is testing the technology, and other industrial companies are evaluating it, with consumer electronics, AI data centres and defence named as possible future markets. He stresses the binary nature of the investment, calling it either a home run or a strikeout, and suitable only for investors with very high risk tolerance. Cash and short-term investments have fallen from about $1.5 billion at the 2021 listing to $820 million, which he presents as restrained burn given how close the company is to manufacturing. Valuation is hard because the business is essentially pre-revenue, though early customer sample orders already total several million dollars and the forward price-to-sales ratio of 357 is the lowest in company history. He also argues persistently high oil prices, driven by wars in Ukraine, the Middle East and Yemen, will push frustrated consumers toward EVs, enlarging QuantumScape's market. Auto-captions garble a few passages mid-video, but the call and its reasoning are clear.",
+ "calls": [
+  {
+   "video_id": "vvzM_bfHxmk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "QuantumScape Stock: Buy or Sell?",
+   "published_at": "2026-10-31T14:45:45.668217+00:00",
+   "ticker": "QS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "Market ~$4 (no fair value given; upgraded to BUY 27 Jul at ~$5)",
+   "thesis": "First tracked QS call: reiterates his 27 Jul BUY — solid-state battery progress is on plan or better, Honda partnership testing is under way, and risk/reward is attractive only for very high risk tolerance.",
+   "base_case": "R&D and Eagle-line manufacturing progress continue toward the 2027-2028 production target, with sample orders already worth several million dollars.",
+   "bull_case": "A home run: if the technology works at scale, every EV maker adopts it, and AI data-center and defence uses expand the market — a potential 100-bagger.",
+   "bear_case": "A strikeout: pre-revenue, could go to zero; cash down to $820M from ~$1.5B since 2021, and forward price/sales of 357 is, by his own admission, not very meaningful.",
+   "analyzed_at": "2026-10-31T23:06:08.398252+00:00"
+  }
+ ]
+}
