@@ -1,0 +1,25 @@
+{
+ "video_id": "ln-7LUU_9oE",
+ "title": "Booking NASDAQ: BKNG Looks Like A Great Business Trading Cheap",
+ "creator": "Sven Carlin",
+ "published_at": "2026-10-30T17:55:38.316521+00:00",
+ "summary": "Sven Carlin asks whether Booking Holdings (BKNG) is a great business trading cheap after falling about 24% since its August high (28% at one point in the video). On fundamentals he is enthusiastic: trailing-12-month revenue and net income both up 8%, diluted earnings per share up 15% thanks to buybacks, EBITDA margin improving, a P/E ratio of 18, a 1% dividend yield and an 8.3% free-cash-flow yield, with a record $4 billion quarterly capital return. Guidance is high-single-digit to low-to-mid-teens growth, and as a fee business Booking gains from travel-price inflation. His conservative arithmetic gives roughly a 13% return (12% growth plus 1% dividend). The video then turns to AI: answers from DeepSeek and Gemini suggest disruption, not destruction - AI agents could take 5-10% of Booking's 10-20% platform fees, squeezing margins rather than killing the business. He draws a parallel with McCormick, whose brands face pressure from Walmart's Great Value private-label range, and warns investors may only see disruption clearly once the stock is already down another 50%. Despite the cheap valuation he concludes the risk/reward is simply not attractive and says plainly it is a risk he is not taking, so he takes no position; a recession hitting travel is an added risk. No share price is stated and no buy, hold or target is given.",
+ "calls": [
+  {
+   "video_id": "ln-7LUU_9oE",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "BKNG",
+   "direction": "AVOID",
+   "thesis": "Great business trading cheap (P/E 18, 8.3% FCF yield, double-digit EPS growth), but AI-agent disruption risk makes risk/reward unattractive; he explicitly will not take the risk.",
+   "price_at_call": "No share price stated; down ~24% since August high (28% at one point in video), P/E 18",
+   "base_case": "Conservative ~13% return: ~12% growth plus 1% dividend, if AI disruption stays limited.",
+   "bull_case": "AI disruption never materialises; Booking keeps compounding on growing global travel and fee inflation.",
+   "bear_case": "AI agents take 5-10% of Booking's 10-20% platform fees, squeezing margins; stock could fall another ~50% before disruption is visible, or a recession hits travel.",
+   "stance_flip": false,
+   "published_at": "2026-10-30T17:55:38.316521+00:00",
+   "video_title": "Booking NASDAQ: BKNG Looks Like A Great Business Trading Cheap",
+   "analyzed_at": "2026-10-31T05:00:00+00:00"
+  }
+ ]
+}
