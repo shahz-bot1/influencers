@@ -3,6 +3,23 @@
  "slug": "ZS",
  "calls": [
   {
+   "video_id": "ZWSeoBObE08",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "BUY THE DIP! 5 Hot Stocks to Buy Now (November’s Top Picks With Upside Ahead)",
+   "published_at": "2026-10-30T22:30:15.075182+00:00",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given; ~50x current-year outlook noted as near-term valuation concern",
+   "thesis": "First tracked MarketBeat call: Zscaler benefits from the SaaS reinflation and AI-driven security demand; rebuilt sales team has regained traction and the stock is deeply undervalued versus its long-term outlook.",
+   "base_case": "Upcoming results validate the earnings trajectory and the price rises in fits and starts.",
+   "bull_case": "AI application growth drives exponential traffic and security needs, giving Zscaler and cybersecurity a durable moat.",
+   "bear_case": "Near-term valuation is stretched at ~50x the current-year outlook; the stock has already advanced quickly.",
+   "analyzed_at": "2026-10-31T06:57:49.004277+00:00"
+  },
+  {
    "video_id": "OF-sVsizTFI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -49,12 +66,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 2
   }
  ]
 }
