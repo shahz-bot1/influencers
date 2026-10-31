@@ -3,6 +3,23 @@
  "slug": "CRM",
  "calls": [
   {
+   "video_id": "ZWSeoBObE08",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "BUY THE DIP! 5 Hot Stocks to Buy Now (November’s Top Picks With Upside Ahead)",
+   "published_at": "2026-10-30T22:30:15.075182+00:00",
+   "ticker": "CRM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": "",
+   "price_at_call": "No price level given",
+   "thesis": "Salesforce has flipped from SaaS-apocalypse meltdown to melt-up: agentic AI demand is growing the customer base, deepening penetration, widening margins and sustaining double-digit growth; deeply undervalued on its long-term outlook.",
+   "base_case": "December earnings show continued momentum, cash flow and buybacks; dips remain buying opportunities.",
+   "bull_case": "Analyst outlooks keep improving as results validate the agentic AI story and the market reprices with more confidence.",
+   "bear_case": "High expectations into December earnings: any dent to the outlook would hit the price.",
+   "analyzed_at": "2026-10-31T06:57:49.004277+00:00"
+  },
+  {
    "video_id": "LVPcoXodNNA",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -80,16 +97,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "MarketBeat",
-   "idx": 4
+   "channel": "BWB - Business With Brian",
+   "idx": 2
   }
  ]
 }
