@@ -3,6 +3,22 @@
  "slug": "BKNG",
  "calls": [
   {
+   "video_id": "ln-7LUU_9oE",
+   "channel": "Sven Carlin",
+   "handle": "@value-investing",
+   "ticker": "BKNG",
+   "direction": "AVOID",
+   "thesis": "Great business trading cheap (P/E 18, 8.3% FCF yield, double-digit EPS growth), but AI-agent disruption risk makes risk/reward unattractive; he explicitly will not take the risk.",
+   "price_at_call": "No share price stated; down ~24% since August high (28% at one point in video), P/E 18",
+   "base_case": "Conservative ~13% return: ~12% growth plus 1% dividend, if AI disruption stays limited.",
+   "bull_case": "AI disruption never materialises; Booking keeps compounding on growing global travel and fee inflation.",
+   "bear_case": "AI agents take 5-10% of Booking's 10-20% platform fees, squeezing margins; stock could fall another ~50% before disruption is visible, or a recession hits travel.",
+   "stance_flip": false,
+   "published_at": "2026-10-30T17:55:38.316521+00:00",
+   "video_title": "Booking NASDAQ: BKNG Looks Like A Great Business Trading Cheap",
+   "analyzed_at": "2026-10-31T05:00:00+00:00"
+  },
+  {
    "video_id": "jbtxHHpX_u0",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -14,8 +30,12 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Sven Carlin",
    "idx": 0
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 1
   }
  ]
 }
