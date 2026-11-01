@@ -1,0 +1,22 @@
+{
+ "video_id": "c8x6S2vlQys",
+ "title": "Amazon Stock Is Crashing - Here's Why The Market Hated Earnings",
+ "creator": "Daniel Pronk",
+ "published_at": "2026-10-29T23:57:23.641220+00:00",
+ "summary": "Daniel Pronk argues Amazon's ~7% after-hours fall after Q3 earnings is irrational, and says he added to his position in after-hours trading; Amazon remains his second-largest holding. The print itself was strong where it matters to him: operating income of $28.1 billion at a record 13.9% margin, AWS revenue up 39.3% to $46 billion ($184 billion annualized, its fastest growth since Q1 2022), North America operating income up 81% to $8.7 billion, and trailing-12-month operating cash flow of $168.3 billion, up 29%. Total sales grew only 12% (13% FX-neutral) because Prime Day fell in Q3 last year versus Q2 this year; like-for-like growth would have been ~17%, and advertising's 12% would have been over 20%. He highlights an 'Easter egg': AWS is projected to grow 40% in both 2027 and 2028, implying ~$392 billion of revenue and ~$145 billion of operating income in 2028, and Amazon believes it could own two $1 trillion-revenue businesses within a decade. Q4 guidance is $240-247 billion of revenue with $28.5-33.5 billion of operating income, capex held at $220 billion. The bear case he concedes is real: Amazon burned $35 billion of free cash flow in the quarter ($62 billion year-to-date) and raised $115 billion of debt, though the balance sheet stays liquid with $173 billion of long-term debt. Valuation is his clincher: ~15 times operating cash flow versus a 25.8 median since 2008, the lowest since 2009, with a conservative DCF implying 20%+ annual compounding over three years. Call: AMZN BUY (reiterated, adding).",
+ "calls": [
+  {
+   "video_id": "c8x6S2vlQys",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY — he added to his Amazon position in after-hours trading after the Q3 print; Amazon remains his second-largest position. The ~7% after-hours fall is irrational noise: record 13.9% operating margin, AWS accelerating to 39.3%, and the stock at ~15x operating cash flow, its lowest since 2009.",
+   "price_at_call": "~15x trailing operating cash flow vs 25.8x long-run median; conservative DCF implies 20%+ annual share-price compounding over 3 years (20% OCF growth, 17x multiple)",
+   "base_case": "AWS grows 40% in both 2027 and 2028 (~$392B revenue, ~$145B operating income at 37% margin); Q4 gives a cleaner comparison with advertising back to high-teens growth.",
+   "bull_case": "AI capex ROI proves out, the multiple re-expands toward 20x+ operating cash flow, and Amazon ends up with two $1T-revenue businesses (e-commerce and AWS).",
+   "bear_case": "Free-cash-flow burn (-$35B in the quarter, -$62B YTD) funded by debt ($115B raised YTD) stays unsustainable if AI build-out ROI disappoints; AI agents could disrupt the advertising business.",
+   "analyzed_at": "2026-11-01T05:01:22.990410+00:00"
+  }
+ ]
+}
