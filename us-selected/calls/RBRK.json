@@ -3,6 +3,22 @@
  "slug": "RBRK",
  "calls": [
   {
+   "video_id": "afHtfkDeg-s",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Sold an Entire Position This Week. Here's What I'm Doing With the Money",
+   "ticker": "RBRK",
+   "direction": "SELL",
+   "price_at_call": "Not stated in this video; ~$25.7B market cap, $1.54B trailing revenue",
+   "thesis": "SELL — full exit: he sold his entire Rubrik position (a ~90% gain) because the valuation is stretched, and will redeploy into cheaper names he already owns. He may re-enter when the price is right and will keep covering it. This completes the exit he floated tentatively in the prior video (recorded UNCERTAIN then).",
+   "base_case": "Good company growing above 20% (28.4% this fiscal year, then 21.5%, 21.1%), but at ~10x sales a couple of years out and a PEG of 12.1.",
+   "bull_case": "A good Rubrik print could still reward holders; he keeps it on coverage for a re-entry.",
+   "bear_case": "Expensive vs peers: even Fortinet, which he calls less expensive than Rubrik, was crushed 25% recently; a merely good print may not be good enough.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  },
+  {
    "video_id": "J1BVUTa-52s",
    "channel": "Couch Investor",
    "title": "I Own These 4 Stocks. I Wouldn't Buy Them Today",
@@ -58,7 +74,7 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
