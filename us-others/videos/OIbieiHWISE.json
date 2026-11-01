@@ -1,0 +1,22 @@
+{
+ "video_id": "OIbieiHWISE",
+ "title": "This Chip Stock Crash Could Be a MASSIVE Buying Opportunity!!",
+ "creator": "Jose Najarro Stocks",
+ "published_at": "2026-10-31T17:55:41.966695+00:00",
+ "summary": "Jose Najarro Stocks asks whether the chip-stock crash after Intel's earnings is a buying opportunity, and answers it by ranking the four CPU names. Intel's Q3 showed data-center revenue up 78% year over year to $7.3 billion but client computing down 5% to $8.1 billion, then Q4 guidance of $15-16 billion missed ~$16.8 billion expected; the stock fell nearly 30%, dragging AMD down ~11%, Qualcomm over 11% and ARM nearly 10%. He blames a client-side problem: memory pricing is driving an expected 20%+ decline in ~50% of Intel's revenue, outweighing mid-teens sequential data-center growth, while wafer output, substrate shortages and disruption at Fab 28 in Israel (~$300M Q4 revenue impact, ~2 points of gross margin) constrain supply, with plant conversions and Diamond Rapids ramps not landing until 2027. AMD is his #1 pick and a reiterated BUY: its mix is the reverse of Intel's (data-center-led), its TSMC partnership beats Intel's in-house execution, EPYC is winning at Meta and Oracle, and reiterated guidance of 80%+ CPU growth in H2 2026 and 70%+ in FY2027 looks conservative given Lisa Su's cautious guidance history. Qualcomm ranks #2 with no buy instruction — weak consumer markets and server CPUs not expected until 2028, though a ~16 forward P/E cushions downside; ARM ranks #3, first tracked here, with royalty upside but 'a lot priced in'. Calls: AMD BUY (reiterated, no flip); INTC, QCOM, ARM discussed with no directional call (UNCERTAIN). Caption garbles: 'Lisa Sue', 'FAP 28', 'City'.",
+ "calls": [
+  {
+   "video_id": "OIbieiHWISE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (he is a long-term shareholder): AMD is the biggest beneficiary of Intel's server-CPU shortage — its data-center-heavy revenue mix is the mirror image of Intel's client-heavy mix, its TSMC partnership beats Intel's struggling in-house manufacturing, and EPYC keeps winning share (Meta, Oracle). He ranks AMD his #1 pick of the four CPU names.",
+   "price_at_call": "No target or share price stated; cites AMD's reiterated guidance of 80%+ CPU revenue growth in H2 2026 and 70%+ for FY2027",
+   "base_case": "AMD keeps taking x86 server share while TSMC capacity (incl. doubling 2nm capacity in 2027) supports Venice/Verano ramps.",
+   "bull_case": "Intel's supply shortfall hands AMD outsized share gains and management raises guidance on the next print.",
+   "bear_case": "Capacity still below what AMD wants; a miss would contract the multiple, and a beat may not lift the stock much.",
+   "analyzed_at": "2026-11-01T04:58:22.803299+00:00"
+  }
+ ]
+}
