@@ -3,6 +3,19 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "c8x6S2vlQys",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY — he added to his Amazon position in after-hours trading after the Q3 print; Amazon remains his second-largest position. The ~7% after-hours fall is irrational noise: record 13.9% operating margin, AWS accelerating to 39.3%, and the stock at ~15x operating cash flow, its lowest since 2009.",
+   "price_at_call": "~15x trailing operating cash flow vs 25.8x long-run median; conservative DCF implies 20%+ annual share-price compounding over 3 years (20% OCF growth, 17x multiple)",
+   "base_case": "AWS grows 40% in both 2027 and 2028 (~$392B revenue, ~$145B operating income at 37% margin); Q4 gives a cleaner comparison with advertising back to high-teens growth.",
+   "bull_case": "AI capex ROI proves out, the multiple re-expands toward 20x+ operating cash flow, and Amazon ends up with two $1T-revenue businesses (e-commerce and AWS).",
+   "bear_case": "Free-cash-flow burn (-$35B in the quarter, -$62B YTD) funded by debt ($115B raised YTD) stays unsustainable if AI build-out ROI disappoints; AI agents could disrupt the advertising business.",
+   "analyzed_at": "2026-11-01T05:01:22.990410+00:00"
+  },
+  {
    "video_id": "OTjsHhkHXEY",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
@@ -50,11 +63,11 @@
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
