@@ -3,6 +3,22 @@
  "slug": "PINS",
  "calls": [
   {
+   "video_id": "9-gMbrqxVK8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "I'm Losing Confidence in Pinterest",
+   "ticker": "PINS",
+   "direction": "SELL",
+   "price_at_call": "~$19 (DCF fair value $30, revised lower again)",
+   "thesis": "FLIP: was BUY (top-10, high conviction), now PARTIAL SELL — he is losing confidence in management's ability to unlock value in 2026 and will sell one-third of his shares (the tranche bought ~$34) before year-end for tax-loss harvesting, keeping the other two-thirds (bought ~$19). He still calls the value one of the best in the market, so this is a trim, not a full exit.",
+   "base_case": "Q3 revenue +12% to $1.174B, record 661M monthly users, but operating cash flow -2% and FCF -6%; Q4 guide ~$1.45B revenue (+10%).",
+   "bull_case": "Prime takeover target at a $10.5B market cap with 600M+ users; a buyer (he names Apple, Adobe, PayPal, Amazon, Walmart) or a leadership change could unlock value.",
+   "bear_case": "No catalyst seen for 2026; management keeps disappointing quarterly, R&D/stock comp keep rising ($292M stock comp, +25%) with little new product to show, and no buyback of Class A shares in the quarter.",
+   "flip": true,
+   "stance_flip": "BUY -> SELL (partial: selling 1/3, keeping 2/3)",
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  },
+  {
    "video_id": "JjlBOSyXX4k",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
