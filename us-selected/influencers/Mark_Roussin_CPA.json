@@ -4,6 +4,46 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "MELI",
+   "tickerSlug": "MELI",
+   "direction": "BUY",
+   "date": "2026-11-01T19:05:59.142534Z",
+   "price": "Down nearly 20% YTD; analyst average 12-month target $2,160 (~30% upside)",
+   "video_id": "Fjyfta0Ltzw"
+  },
+  {
+   "ticker": "BA",
+   "tickerSlug": "BA",
+   "direction": "BUY",
+   "date": "2026-11-01T19:05:59.142534Z",
+   "price": "Down ~10% in the past week; still down 20% over 5 years",
+   "video_id": "Fjyfta0Ltzw"
+  },
+  {
+   "ticker": "STRL",
+   "tickerSlug": "STRL",
+   "direction": "BUY",
+   "date": "2026-11-01T19:05:59.142534Z",
+   "price": "Forward P/E 14.5x; analyst average target $777 (he calls it optimistic), recent target $500 (~35% upside)",
+   "video_id": "Fjyfta0Ltzw"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-01T19:05:59.142534Z",
+   "price": "Down nearly 15%; his 25x math implies ~$500 (~50% upside)",
+   "video_id": "Fjyfta0Ltzw"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-01T19:05:59.142534Z",
+   "price": "Analyst 12-month target ~$340 (over 60% upside); forward P/E 13x",
+   "video_id": "Fjyfta0Ltzw"
+  },
+  {
    "ticker": "GOOGL",
    "tickerSlug": "GOOGL",
    "direction": "HOLD",
