@@ -3,6 +3,24 @@
  "slug": "UPST",
  "calls": [
   {
+   "video_id": "dDoG3M0z_c0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "5 Undervalued AI Stocks to Buy Now in November (2026)",
+   "published_at": "2026-11-01T12:55:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "UPST",
+   "direction": "BUY",
+   "price_at_call": "$24 trading; fair value $57 (over 140% upside)",
+   "thesis": "BUY reiterated (was BUY) — AI-based lending decisions instead of FICO/Vantage; he recently added to his position.",
+   "base_case": "AI underwriting model offers a differentiated lending approach.",
+   "bull_case": "Reward justifies the risk in his view.",
+   "bear_case": "One of the riskier of the five names he lists.",
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  },
+  {
    "video_id": "ZV3brKndoqQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
