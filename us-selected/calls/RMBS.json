@@ -1,0 +1,30 @@
+{
+ "ticker": "RMBS",
+ "slug": "RMBS",
+ "calls": [
+  {
+   "video_id": "_m1XcP1addc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "A Dip Like This Only Comes Once a Decade",
+   "published_at": "2026-11-01T13:59:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "RMBS",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "3-yr forecast ~$1,600 per $1,000; tightest estimates of the group (first tracked BWB call)",
+   "thesis": "CONDITIONAL_BUY, first tracked — makes the traffic-directing chip on ~45% of new server memory sticks; sales +22% while memory makers multiplied, then dragged -47% since June on a price spike it never got paid for. CONDITIONAL_BUY — buy in pieces (dollar-cost average on the way down), not all at once; only while the memory shortage holds.",
+   "base_case": "Steady-price chip business does not depend on memory prices, so it should not cool off when memory prices do.",
+   "bull_case": "Steady earnings stream re-rates as the memory story broadens.",
+   "bear_case": "Smallest forecast upside of the group; it captures none of the memory-price upside.",
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
