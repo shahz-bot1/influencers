@@ -1,0 +1,26 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-31",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc turns on Pinterest, a stock he owned and ranked among his top 10 buys, after a third quarter of 12% revenue growth to $1.174B and a record 661M monthly active users that still disappointed: operating cash flow fell 2% and free cash flow fell 6%, and the shares dropped 7% on the print. He compares it unfavourably with Meta's 26% revenue growth and Reddit's 50%+, notes the 4M added US and Canadian users, but argues the company spent more to get its results, with $292M of stock compensation up 25% and little new product to show, and no Class A buyback in the quarter. The verdict is a stance flip: from BUY to a partial SELL, selling one-third of his shares, the tranche bought near $34, before year-end for tax-loss harvesting, while keeping the other two-thirds bought near $19. His DCF fair value is revised lower again to $30 against a price near $19, and he sees no catalyst for 2026, though he still calls the value one of the best in the market and flags a takeover at the $10.5B market cap as the bull case for holders. Call: PINS SELL (partial), a flip from BUY.",
+ "title": "I'm Losing Confidence in Pinterest",
+ "video_id": "9-gMbrqxVK8",
+ "calls": [
+  {
+   "video_id": "9-gMbrqxVK8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "I'm Losing Confidence in Pinterest",
+   "ticker": "PINS",
+   "direction": "SELL",
+   "price_at_call": "~$19 (DCF fair value $30, revised lower again)",
+   "thesis": "FLIP: was BUY (top-10, high conviction), now PARTIAL SELL — he is losing confidence in management's ability to unlock value in 2026 and will sell one-third of his shares (the tranche bought ~$34) before year-end for tax-loss harvesting, keeping the other two-thirds (bought ~$19). He still calls the value one of the best in the market, so this is a trim, not a full exit.",
+   "base_case": "Q3 revenue +12% to $1.174B, record 661M monthly users, but operating cash flow -2% and FCF -6%; Q4 guide ~$1.45B revenue (+10%).",
+   "bull_case": "Prime takeover target at a $10.5B market cap with 600M+ users; a buyer (he names Apple, Adobe, PayPal, Amazon, Walmart) or a leadership change could unlock value.",
+   "bear_case": "No catalyst seen for 2026; management keeps disappointing quarterly, R&D/stock comp keep rising ($292M stock comp, +25%) with little new product to show, and no buyback of Class A shares in the quarter.",
+   "flip": true,
+   "stance_flip": "BUY -> SELL (partial: selling 1/3, keeping 2/3)",
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  }
+ ]
+}
