@@ -3,6 +3,22 @@
  "slug": "MELI",
  "calls": [
   {
+   "video_id": "Fjyfta0Ltzw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 BEST STocks to BUY in November",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "price_at_call": "Down nearly 20% YTD; analyst average 12-month target $2,160 (~30% upside)",
+   "thesis": "BUY reiterated (was BUY): the Brazil-election selloff is a temporary overreaction, not a change in the long-term position; owns it, last bought May/June.",
+   "base_case": "Latin America's leading e-commerce + fintech ecosystem (marketplace, Pago, logistics, ads, financial services); expected 40%+ EPS growth in each of the next 2 years at a 29x multiple.",
+   "bull_case": "Election-driven dip while fundamentals intact is where opportunities are found.",
+   "bear_case": "Brazil fiscal policy, interest rates and currency remain real risks.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  },
+  {
    "video_id": "jgCqtS02Rr0",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -98,24 +114,24 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 3
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
