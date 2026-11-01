@@ -1,0 +1,26 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-31",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc asks whether Reddit's 30%+ post-earnings crash is a buying opportunity after the company forced login to browse, a change that is already shrinking US daily users to 50.7M from 51.6M a year earlier. The move is defensive: Google and AI answers increasingly resolve questions without sending traffic to Reddit, so management is protecting its content even at the cost of inconveniencing casual browsers. The latest quarter itself looks strong, revenue up 53% to $895M, the fastest-growing social platform at scale, operating cash flow nearly doubled to $364M, and a balance sheet with over $3B in cash and securities. But fourth-quarter guidance near $1B implies the smallest third-to-fourth-quarter sequential gain in years, and he criticises a $100M buyback executed near $150 a share against a price now near $90. Trading near its 52-week low at about $90 on a forward P/E of 9.3, versus over 30 at the start of 2026, he reiterates his buy ranking and calls it ridiculously cheap even after cutting cash-flow estimates and widening his outcome range. Call: RDDT BUY, first tracked. Note: the DCF fair value figure is not legible in the captions and the file ends mid-sentence.",
+ "title": "Why Is Reddit Stock Crashing, and is it a Buying Opportunity? | RDDT Stock Analysis",
+ "video_id": "41LatuKsv7w",
+ "calls": [
+  {
+   "video_id": "41LatuKsv7w",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Reddit Stock Crashing, and is it a Buying Opportunity? | RDDT Stock Analysis",
+   "ticker": "RDDT",
+   "direction": "BUY",
+   "price_at_call": "~$90 near its 52-week low; forward P/E 9.3 (was over 30 at the start of 2026); DCF fair value figure not legible in captions",
+   "thesis": "BUY, first tracked Parkevtate RDDT call: he reiterates his buy ranking after a 30%+ post-earnings crash, calling the stock ridiculously cheap even after cutting cash-flow estimates and raising his risk assessment.",
+   "base_case": "Q3 revenue +53% to $895M, fastest-growing social platform at scale; operating cash flow $364M, nearly double YoY; $3B+ cash and securities war chest.",
+   "bull_case": "Logged-in-only browsing could eventually force Google/AI answers to pay for traffic or drive users back to Reddit.",
+   "bear_case": "Login requirement is already shrinking US daily users (50.7M, down from 51.6M YoY) and Q4 guide implies the smallest Q3-to-Q4 sequential gain in years; outcome range now much wider.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  }
+ ]
+}
