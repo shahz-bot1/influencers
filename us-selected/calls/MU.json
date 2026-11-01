@@ -3,6 +3,42 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "_m1XcP1addc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "A Dip Like This Only Comes Once a Decade",
+   "published_at": "2026-11-01T13:59:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "MU",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~5x next-year earnings; 3-yr forecast ~$2,500 per $1,000",
+   "thesis": "CONDITIONAL_BUY (prior tracked note was UNCERTAIN, a no-call, so no flip flagged) — only American maker of both HBM and DRAM; $12.7B of non-cancellable customer cash; lowest PEG of the memory group. CONDITIONAL_BUY — buy in pieces (dollar-cost average on the way down), not all at once; only while the memory shortage holds.",
+   "base_case": "Latest quarter sales nearly 5x a year earlier at ~81c operating profit per dollar; another record guided next quarter.",
+   "bull_case": "Long-term customer contracts with cash down make this cycle structurally less cyclical than 2018.",
+   "bear_case": "If memory turns like past cycles it could be much worse than even his bear case; analysts are split widest on 2028 earnings, when DRAM is expected to loosen.",
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  },
+  {
+   "video_id": "dDoG3M0z_c0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "5 Undervalued AI Stocks to Buy Now in November (2026)",
+   "published_at": "2026-11-01T12:55:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": "$929 trading; fair value $1,436 (~55% upside, 12-18 months)",
+   "thesis": "BUY reiterated (was BUY) — free cash flow jumping and products sold out for all of 2027 and most of 2028.",
+   "base_case": "Free cash flow rising sharply from $2.61B in FY2025; shortage supports pricing.",
+   "bull_case": "The replacement cycle stays strong enough to sustain profitability and cash flow for years after the sold-out period.",
+   "bear_case": "Investor worry is what happens after 2028 when the current shortage eases.",
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  },
+  {
    "video_id": "D-uuaNnNs-k",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -162,20 +198,24 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  },
+  {
    "channel": "Mark Roussin CPA",
-   "idx": 3
+   "idx": 5
   },
   {
    "channel": "Couch Investor",
-   "idx": 4
+   "idx": 6
   },
   {
    "channel": "MarketBeat",
-   "idx": 8
+   "idx": 10
   }
  ]
 }
