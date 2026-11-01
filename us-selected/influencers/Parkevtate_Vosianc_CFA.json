@@ -4,6 +4,78 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "KO",
+   "tickerSlug": "KO",
+   "direction": "BUY",
+   "date": "2026-11-01T19:05:59.142534Z",
+   "price": "~$92 (DCF fair value $96, revised higher)",
+   "video_id": "jtdB9AMtnv4"
+  },
+  {
+   "ticker": "PINS",
+   "tickerSlug": "PINS",
+   "direction": "SELL",
+   "date": "2026-11-01T19:05:59.142534Z",
+   "price": "~$19 (DCF fair value $30, revised lower again)",
+   "video_id": "9-gMbrqxVK8"
+  },
+  {
+   "ticker": "RDDT",
+   "tickerSlug": "RDDT",
+   "direction": "BUY",
+   "date": "2026-11-01T19:05:59.142534Z",
+   "price": "~$90 near its 52-week low; forward P/E 9.3 (was over 30 at the start of 2026); DCF fair value figure not legible in captions",
+   "video_id": "41LatuKsv7w"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-01T14:45:42.993692+00:00",
+   "price": "$239 trading; DCF fair value $325",
+   "video_id": "1VIXTEYSyoM"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-01T12:55:42.993692+00:00",
+   "price": "$218 trading; fair value $345 (~58% upside, 12-18 months)",
+   "video_id": "dDoG3M0z_c0"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-01T12:55:42.993692+00:00",
+   "price": "$929 trading; fair value $1,436 (~55% upside, 12-18 months)",
+   "video_id": "dDoG3M0z_c0"
+  },
+  {
+   "ticker": "UPST",
+   "tickerSlug": "UPST",
+   "direction": "BUY",
+   "date": "2026-11-01T12:55:42.993692+00:00",
+   "price": "$24 trading; fair value $57 (over 140% upside)",
+   "video_id": "dDoG3M0z_c0"
+  },
+  {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "BUY",
+   "date": "2026-11-01T12:55:42.993692+00:00",
+   "price": "~$27 trading; fair value $46 (~67% upside)",
+   "video_id": "dDoG3M0z_c0"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-01T12:55:42.993692+00:00",
+   "price": "$342 trading; fair value $523 (~53% upside, 12-18 months)",
+   "video_id": "dDoG3M0z_c0"
+  },
+  {
    "ticker": "RIVN",
    "tickerSlug": "RIVN",
    "direction": "BUY",
