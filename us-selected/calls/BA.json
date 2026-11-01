@@ -1,0 +1,28 @@
+{
+ "ticker": "BA",
+ "slug": "BA",
+ "calls": [
+  {
+   "video_id": "Fjyfta0Ltzw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 BEST STocks to BUY in November",
+   "ticker": "BA",
+   "direction": "BUY",
+   "price_at_call": "Down ~10% in the past week; still down 20% over 5 years",
+   "thesis": "BUY, first explicit Roussin BA call (prior note was UNCERTAIN watchlist only): a long-term cash-flow turnaround buy, explicitly not a next-month growth trade; owns it.",
+   "base_case": "Record order backlog at levels never seen, production ramping, and FCF turning positive through 2024-26 after the MAX grounding and pandemic years.",
+   "bull_case": "If Boeing converts the backlog efficiently, cash generation follows.",
+   "bear_case": "Execution, regulatory and financial-obligation risks; the path to stronger cash generation may take longer than investors expected.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
