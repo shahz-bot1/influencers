@@ -3,6 +3,19 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "OIbieiHWISE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (he is a long-term shareholder): AMD is the biggest beneficiary of Intel's server-CPU shortage — its data-center-heavy revenue mix is the mirror image of Intel's client-heavy mix, its TSMC partnership beats Intel's struggling in-house manufacturing, and EPYC keeps winning share (Meta, Oracle). He ranks AMD his #1 pick of the four CPU names.",
+   "price_at_call": "No target or share price stated; cites AMD's reiterated guidance of 80%+ CPU revenue growth in H2 2026 and 70%+ for FY2027",
+   "base_case": "AMD keeps taking x86 server share while TSMC capacity (incl. doubling 2nm capacity in 2027) supports Venice/Verano ramps.",
+   "bull_case": "Intel's supply shortfall hands AMD outsized share gains and management raises guidance on the next print.",
+   "bear_case": "Capacity still below what AMD wants; a miss would contract the multiple, and a beat may not lift the stock much.",
+   "analyzed_at": "2026-11-01T04:58:22.803299+00:00"
+  },
+  {
    "video_id": "Qf72K1Fends",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
