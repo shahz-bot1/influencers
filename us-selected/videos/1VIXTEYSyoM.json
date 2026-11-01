@@ -1,0 +1,28 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-01",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc reviews Amazon after its quarterly print: group sales up 12%, but AWS is the story, accelerating to 39% growth from 37%, with AWS operating income jumping to $17.8B from $11.4B and group operating income to $28B from $17.4B. Operating cash flow rose 29% to $168B, which matters because Amazon is spending over $200B a year on capital expenditure and he wants it funded internally rather than by selling shares, as Alphabet and Meta have had to do. Management's suggestion that AWS grows at or above 40% in both 2027 and 2028 is his favourite detail. Against that, advertising growth decelerated from 26% to 12% on a difficult Prime Day comparison, capex is running above a $300B annualised pace with $48B of new debt in the quarter, and headcount growth is accelerating. Trading at $239 against a $325 DCF fair value, he reiterates BUY, keeps Amazon a top-10 buy, and will add opportunistically into year-end; the bull case is free cash flow inflecting from 2029 as data-centre capex peaks in 2028-29. Note: the caption file ends mid-sentence, but the call is stated in full earlier in the video.",
+ "title": "Why Is Amazon Stock Dropping After Earnings, and Is It a Buying Opportunity? | AMZN Stock Analysis",
+ "video_id": "1VIXTEYSyoM",
+ "calls": [
+  {
+   "video_id": "1VIXTEYSyoM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Amazon Stock Dropping After Earnings, and Is It a Buying Opportunity? | AMZN Stock Analysis",
+   "published_at": "2026-11-01T14:45:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "$239 trading; DCF fair value $325",
+   "thesis": "BUY reiterated (was BUY) — still a top-10 stock to buy right now, high conviction; he will look to add opportunistically between now and year-end.",
+   "base_case": "AWS revenue accelerated to 39% (from 37%) at a 38.7% operating margin; management guides AWS growth at/above 40% in 2027 and 2028; Q4 guide 14% revenue growth and $31B operating income.",
+   "bull_case": "Free cash flow inflects from 2029 as data-centre capex peaks in 2028-29; forward P/E 22.7 vs ~21.5% long-term EPS growth implies PEG near 1.",
+   "bear_case": "Capex running above a $300B annualised pace with $48B new debt in the quarter; ad growth decelerated 26% to 12%; headcount growth accelerating (1% to 4%).",
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  }
+ ]
+}
