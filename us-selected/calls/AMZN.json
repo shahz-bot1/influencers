@@ -3,6 +3,24 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "1VIXTEYSyoM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Amazon Stock Dropping After Earnings, and Is It a Buying Opportunity? | AMZN Stock Analysis",
+   "published_at": "2026-11-01T14:45:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "$239 trading; DCF fair value $325",
+   "thesis": "BUY reiterated (was BUY) — still a top-10 stock to buy right now, high conviction; he will look to add opportunistically between now and year-end.",
+   "base_case": "AWS revenue accelerated to 39% (from 37%) at a 38.7% operating margin; management guides AWS growth at/above 40% in 2027 and 2028; Q4 guide 14% revenue growth and $31B operating income.",
+   "bull_case": "Free cash flow inflects from 2029 as data-centre capex peaks in 2028-29; forward P/E 22.7 vs ~21.5% long-term EPS growth implies PEG near 1.",
+   "bear_case": "Capex running above a $300B annualised pace with $48B new debt in the quarter; ad growth decelerated 26% to 12%; headcount growth accelerating (1% to 4%).",
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  },
+  {
    "video_id": "zVc-S0Od8_0",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -209,24 +227,24 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 7
+   "idx": 8
   },
   {
    "channel": "Couch Investor",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
