@@ -3,6 +3,40 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "Fjyfta0Ltzw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 BEST STocks to BUY in November",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "Analyst 12-month target ~$340 (over 60% upside); forward P/E 13x",
+   "thesis": "BUY reiterated (last explicit BUY; the later mention was UNCERTAIN passing only): 'the easiest buy in the market right now' — undervalued from any angle.",
+   "base_case": "Nearly $100B cash vs $38B debt, record revenue/profits/margins at their highest ever; earnings +70% next year after nearly doubling, yet priced like a slow grower (he compares it to Clorox at a similar multiple).",
+   "bull_case": "Cloud-provider demand signals remain strong with capacity constraints, not disappearing demand.",
+   "bear_case": "Investor doubts about AI-infrastructure spending sustainability drive the volatility.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  },
+  {
+   "video_id": "dDoG3M0z_c0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "5 Undervalued AI Stocks to Buy Now in November (2026)",
+   "published_at": "2026-11-01T12:55:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "$218 trading; fair value $345 (~58% upside, 12-18 months)",
+   "thesis": "BUY reiterated (was BUY) — ranked the best stock he follows; he owns it and would not be surprised to add more before end-2026.",
+   "base_case": "Profits and cash flow have grown faster than the share price despite the run; valued on forward P/E, price-to-FCF, EV/EBITDA and his DCF model.",
+   "bull_case": "Late-November Nvidia results confirm the AI demand story he is positioned for.",
+   "bear_case": null,
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  },
+  {
    "video_id": "qZNrdc5-gFo",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -343,20 +377,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "Couch Investor",
-   "idx": 3
+   "idx": 5
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 4
+   "idx": 6
   }
  ]
 }
