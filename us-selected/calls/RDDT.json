@@ -3,6 +3,22 @@
  "slug": "RDDT",
  "calls": [
   {
+   "video_id": "41LatuKsv7w",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Reddit Stock Crashing, and is it a Buying Opportunity? | RDDT Stock Analysis",
+   "ticker": "RDDT",
+   "direction": "BUY",
+   "price_at_call": "~$90 near its 52-week low; forward P/E 9.3 (was over 30 at the start of 2026); DCF fair value figure not legible in captions",
+   "thesis": "BUY, first tracked Parkevtate RDDT call: he reiterates his buy ranking after a 30%+ post-earnings crash, calling the stock ridiculously cheap even after cutting cash-flow estimates and raising his risk assessment.",
+   "base_case": "Q3 revenue +53% to $895M, fastest-growing social platform at scale; operating cash flow $364M, nearly double YoY; $3B+ cash and securities war chest.",
+   "bull_case": "Logged-in-only browsing could eventually force Google/AI answers to pay for traffic or drive users back to Reddit.",
+   "bear_case": "Login requirement is already shrinking US daily users (50.7M, down from 51.6M YoY) and Q4 guide implies the smallest Q3-to-Q4 sequential gain in years; outcome range now much wider.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  },
+  {
    "video_id": "J1BVUTa-52s",
    "channel": "Couch Investor",
    "title": "I Own These 4 Stocks. I Wouldn't Buy Them Today",
@@ -37,8 +53,12 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
   }
  ]
 }
