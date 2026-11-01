@@ -3,6 +3,40 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "Fjyfta0Ltzw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 BEST STocks to BUY in November",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "Down nearly 15%; his 25x math implies ~$500 (~50% upside)",
+   "thesis": "BUY reiterated (last explicit BUY; the later mention was UNCERTAIN passing only): accumulating into weakness on record results the price has not credited.",
+   "base_case": "Record revenue, operating profits and margin; custom AI silicon for hyperscalers (Google TPUs and others); earnings expected +~70% next year, +55% the year after, at only ~17x forward vs Marvell ~30x.",
+   "bull_case": "Custom-silicon demand keeps compounding as hyperscalers build their own chips.",
+   "bear_case": "Customer concentration and whether AI revenue growth justifies the valuation need monitoring.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  },
+  {
+   "video_id": "dDoG3M0z_c0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "5 Undervalued AI Stocks to Buy Now in November (2026)",
+   "published_at": "2026-11-01T12:55:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "$342 trading; fair value $523 (~53% upside, 12-18 months)",
+   "thesis": "BUY reiterated (last explicit stance BUY, 1 Oct; the 19 Oct note was a passing mention only) — one of the best-managed businesses in the world; he owns it and wants to add more.",
+   "base_case": "Partners with Alphabet and others on proprietary chips as an alternative to Nvidia dominance; sales and profits booming.",
+   "bull_case": "Custom-chip demand keeps compounding with hyperscaler AI buildout.",
+   "bear_case": null,
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  },
+  {
    "video_id": "zVc-S0Od8_0",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -263,20 +297,20 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 3
+   "channel": "BWB - Business With Brian",
+   "idx": 2
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 9
+   "channel": "Couch Investor",
+   "idx": 3
   }
  ]
 }
