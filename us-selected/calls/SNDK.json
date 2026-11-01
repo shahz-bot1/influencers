@@ -3,6 +3,24 @@
  "slug": "SNDK",
  "calls": [
   {
+   "video_id": "_m1XcP1addc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "A Dip Like This Only Comes Once a Decade",
+   "published_at": "2026-11-01T13:59:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "SNDK",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "3-yr forecast just over $2,500 per $1,000; medium-low confidence",
+   "thesis": "CONDITIONAL_BUY (prior tracked note was UNCERTAIN, a no-call, so no flip flagged) — pure-play flash \"pantry\"; data-centre sales +60% in three months, now over 40% of sales; 8-for-1 split on 20 Nov. CONDITIONAL_BUY — buy in pieces (dollar-cost average on the way down), not all at once; only while the memory shortage holds.",
+   "base_case": "Beat expectations ($49.50 vs ~$46 expected) on ~$11B sales, nearly 5x a year earlier; bought back ~$5B of stock in one quarter.",
+   "bull_case": "Data-centre flash demand keeps growing into the AI buildout.",
+   "bear_case": "Pantry is the first layer expected to loosen (supply catching demand in H2 2027, prices likely down); its own plan only calls for teens sales growth 2028-30.",
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  },
+  {
    "video_id": "D-uuaNnNs-k",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -35,11 +53,11 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   }
  ]
