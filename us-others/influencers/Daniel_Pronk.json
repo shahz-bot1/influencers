@@ -4,6 +4,14 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-01T05:01:22.990410+00:00",
+   "price": "~15x trailing operating cash flow vs 25.8x long-run median; conservative DCF implies 20%+ annual share-price compounding over 3 years (20% OCF growth, 17x multiple)",
+   "video_id": "c8x6S2vlQys"
+  },
+  {
    "ticker": "META",
    "tickerSlug": "META",
    "direction": "BUY",
