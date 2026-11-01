@@ -4,6 +4,14 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "RBRK",
+   "tickerSlug": "RBRK",
+   "direction": "SELL",
+   "date": "2026-11-01T19:05:59.142534Z",
+   "price": "Not stated in this video; ~$25.7B market cap, $1.54B trailing revenue",
+   "video_id": "afHtfkDeg-s"
+  },
+  {
    "ticker": "GOOGL",
    "tickerSlug": "GOOGL",
    "direction": "CONDITIONAL_BUY",
