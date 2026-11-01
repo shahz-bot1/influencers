@@ -1,0 +1,26 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-10-30",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc updates Coca-Cola after a third quarter he calls spectacular: revenue up 7% and, more impressively, unit case volume up 5%, showing people buying more units rather than just paying higher prices. Management raised 2026 guidance to at least 5% revenue growth and at least 9% EPS growth, with at least $13B of free cash flow, and the shares are up at least 31.6% year to date. He has rated Coke an excellent buying opportunity all year and reiterates that high-conviction ranking even after the run, with a DCF fair value revised higher to $96 against a price near $92. His own EPS growth estimate of 8-9% over the next several years sits above the Street's 7.4%. Beyond the numbers he stresses away-from-home momentum, restaurants, theme parks and cinemas, plus the KFC exclusive win taken from Pepsi, starting in 2027. The bear case is valuation: the forward P/E has run from about 20 to about 26, ahead of earnings, and a consumer-spending pullback on tariffs and stretched budgets would hit the business. Call: KO BUY reiterated, no flip. Note: the caption file ends mid-sentence.",
+ "title": "Coca-Cola Is Exercising its Pricing Power as Inflation Persists | KO Stock Analysis",
+ "video_id": "jtdB9AMtnv4",
+ "calls": [
+  {
+   "video_id": "jtdB9AMtnv4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Coca-Cola Is Exercising its Pricing Power as Inflation Persists | KO Stock Analysis",
+   "ticker": "KO",
+   "direction": "BUY",
+   "price_at_call": "~$92 (DCF fair value $96, revised higher)",
+   "thesis": "BUY reiterated (was BUY): excellent business at a fair price after a spectacular quarter; he reiterated his high-conviction buying-opportunity ranking even after a 31.6% YTD rise.",
+   "base_case": "Q3 revenue +7% with unit case volume +5% (not just price); 2026 guide raised to at least 5% revenue and 9% EPS growth, at least $13B FCF; his EPS growth estimate 8-9% vs Street 7.4%.",
+   "bull_case": "Away-from-home momentum plus the KFC win (exclusive, from 2027) keeps compounding.",
+   "bear_case": "Price has run ahead of earnings (forward P/E ~20 to ~26); a consumer-spending pullback on tariffs and stretched budgets could hit the business.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  }
+ ]
+}
