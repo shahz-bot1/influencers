@@ -4,6 +4,46 @@
  "slug": "BWB_Business_With_Brian",
  "calls": [
   {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-01T13:59:42.993692+00:00",
+   "price": "~5x next-year earnings; 3-yr forecast ~$2,500 per $1,000",
+   "video_id": "_m1XcP1addc"
+  },
+  {
+   "ticker": "WDC",
+   "tickerSlug": "WDC",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-01T13:59:42.993692+00:00",
+   "price": "3-yr forecast ~$3,000 per $1,000; medium confidence (first tracked BWB call)",
+   "video_id": "_m1XcP1addc"
+  },
+  {
+   "ticker": "STX",
+   "tickerSlug": "STX",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-01T13:59:42.993692+00:00",
+   "price": "~18x next-year earnings; 3-yr forecast ~$3,000 per $1,000; medium confidence (first tracked BWB call)",
+   "video_id": "_m1XcP1addc"
+  },
+  {
+   "ticker": "SNDK",
+   "tickerSlug": "SNDK",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-01T13:59:42.993692+00:00",
+   "price": "3-yr forecast just over $2,500 per $1,000; medium-low confidence",
+   "video_id": "_m1XcP1addc"
+  },
+  {
+   "ticker": "RMBS",
+   "tickerSlug": "RMBS",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-01T13:59:42.993692+00:00",
+   "price": "3-yr forecast ~$1,600 per $1,000; tightest estimates of the group (first tracked BWB call)",
+   "video_id": "_m1XcP1addc"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
