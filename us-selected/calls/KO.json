@@ -3,6 +3,22 @@
  "slug": "KO",
  "calls": [
   {
+   "video_id": "jtdB9AMtnv4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Coca-Cola Is Exercising its Pricing Power as Inflation Persists | KO Stock Analysis",
+   "ticker": "KO",
+   "direction": "BUY",
+   "price_at_call": "~$92 (DCF fair value $96, revised higher)",
+   "thesis": "BUY reiterated (was BUY): excellent business at a fair price after a spectacular quarter; he reiterated his high-conviction buying-opportunity ranking even after a 31.6% YTD rise.",
+   "base_case": "Q3 revenue +7% with unit case volume +5% (not just price); 2026 guide raised to at least 5% revenue and 9% EPS growth, at least $13B FCF; his EPS growth estimate 8-9% vs Street 7.4%.",
+   "bull_case": "Away-from-home momentum plus the KFC win (exclusive, from 2027) keeps compounding.",
+   "bear_case": "Price has run ahead of earnings (forward P/E ~20 to ~26); a consumer-spending pullback on tariffs and stretched budgets could hit the business.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  },
+  {
    "video_id": "Iwsy5DZbBj8",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
