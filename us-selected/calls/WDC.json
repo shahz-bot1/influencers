@@ -1,0 +1,30 @@
+{
+ "ticker": "WDC",
+ "slug": "WDC",
+ "calls": [
+  {
+   "video_id": "_m1XcP1addc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "A Dip Like This Only Comes Once a Decade",
+   "published_at": "2026-11-01T13:59:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "WDC",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "3-yr forecast ~$3,000 per $1,000; medium confidence (first tracked BWB call)",
+   "thesis": "CONDITIONAL_BUY, first tracked — hard-drive \"warehouse\" layer; pricing power in its purest form (about 22% more storage shipped, about 28% more per terabyte). CONDITIONAL_BUY — buy in pieces (dollar-cost average on the way down), not all at once; only while the memory shortage holds.",
+   "base_case": "No new hard-drive factories announced; supply grows only ~25%/yr by packing more per drive while demand grows faster; Morgan Stanley sees warehouses short every year through 2028.",
+   "bull_case": "Shortage persists and per-terabyte pricing holds.",
+   "bear_case": "Gains rest on higher per-terabyte prices, which can fall.",
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
