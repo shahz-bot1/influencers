@@ -3,6 +3,24 @@
  "slug": "IREN",
  "calls": [
   {
+   "video_id": "dDoG3M0z_c0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "5 Undervalued AI Stocks to Buy Now in November (2026)",
+   "published_at": "2026-11-01T12:55:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "IREN",
+   "direction": "BUY",
+   "price_at_call": "~$27 trading; fair value $46 (~67% upside)",
+   "thesis": "BUY reiterated (was BUY) — neo-cloud renting compute to hyperscalers; backlog growing, sold out for the next couple of years.",
+   "base_case": "Hyperscalers rent capacity to flex with demand, and IREN is sold out for years.",
+   "bull_case": "Backlog keeps growing while customers stay capacity-constrained.",
+   "bear_case": "Heavy upfront data-centre capex; he estimates free cash flow stays negative through 2029, so the payoff is years out and high-risk.",
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  },
+  {
    "video_id": "M8EYURxcy1w",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -62,7 +80,7 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
