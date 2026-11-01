@@ -3,6 +3,22 @@
  "slug": "STRL",
  "calls": [
   {
+   "video_id": "Fjyfta0Ltzw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 BEST STocks to BUY in November",
+   "ticker": "STRL",
+   "direction": "BUY",
+   "price_at_call": "Forward P/E 14.5x; analyst average target $777 (he calls it optimistic), recent target $500 (~35% upside)",
+   "thesis": "BUY reiterated (was BUY): the industrial way to play the AI buildout; Q3 was dynamite and the pullback from a 100%+ run recalibrated it too far.",
+   "base_case": "Q3 revenue +127%, adjusted EPS +118%, e-infrastructure revenue +212%, operating cash flow $427M (+~70% YTD); backlog ~$4B; earnings expected +28% next year, +20% the year after.",
+   "bull_case": "Hyperscaler capex budgets keep rising and Sterling builds the sites they run in.",
+   "bear_case": "If hyperscalers slow data-centre construction, or projects slip, Sterling feels it first.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-01T19:05:59.142534Z"
+  },
+  {
    "video_id": "BRg4GLx5hcA",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
