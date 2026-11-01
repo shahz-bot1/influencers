@@ -1,0 +1,30 @@
+{
+ "ticker": "STX",
+ "slug": "STX",
+ "calls": [
+  {
+   "video_id": "_m1XcP1addc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "A Dip Like This Only Comes Once a Decade",
+   "published_at": "2026-11-01T13:59:42.993692+00:00",
+   "analyzed_at": "2026-11-01T14:58:38.863730+00:00",
+   "ticker": "STX",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~18x next-year earnings; 3-yr forecast ~$3,000 per $1,000; medium confidence (first tracked BWB call)",
+   "thesis": "CONDITIONAL_BUY, first tracked — other warehouse name; most data-centre drives pre-sold through 2028, some cloud deals to 2030; beat estimates again and guided higher, yet slipped. CONDITIONAL_BUY — buy in pieces (dollar-cost average on the way down), not all at once; only while the memory shortage holds.",
+   "base_case": "Everything it can make above plan is already spoken for.",
+   "bull_case": "Pre-sold backlog carries pricing and volume through 2028.",
+   "bear_case": "Forecast assumes the stock keeps its richer ~18x multiple for three straight years.",
+   "flip": false,
+   "stance_flip": null,
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
