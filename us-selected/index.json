@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:08:03.351860+00:00",
+ "updated": "2026-11-02T23:19:59.207275+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -50,12 +50,12 @@
   {
    "ticker": "ADBE",
    "slug": "ADBE",
-   "lastDate": "2026-10-05T11:56:12.550380+00:00",
+   "lastDate": "2026-11-02T11:55:42.258763+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$238"
+     "avg": "$349"
     },
     {
      "dir": "HOLD",
@@ -67,8 +67,8 @@
     "Parkevtate Vosianc CFA",
     "Couch Investor"
    ],
-   "lastStated": "238.0",
-   "nCalls": 2
+   "lastStated": "Fair value $349; current market price not extractable from captions (garbled)",
+   "nCalls": 3
   },
   {
    "ticker": "AEM",
@@ -234,12 +234,12 @@
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-11-01T14:45:42.993692+00:00",
+   "lastDate": "2026-11-02T11:55:42.258763+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 3,
-     "avg": "$249.5"
+     "avg": "$250"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -259,8 +259,8 @@
     "Joseph Carlson After Hours",
     "Couch Investor"
    ],
-   "lastStated": "$239 trading; DCF fair value $325",
-   "nCalls": 14
+   "lastStated": "Fair value not extractable from captions (garbled); market a little over $240",
+   "nCalls": 15
   },
   {
    "ticker": "APLD",
@@ -921,19 +921,19 @@
   {
    "ticker": "DKNG",
    "slug": "DKNG",
-   "lastDate": "2026-10-06T16:00:10.331747+00:00",
+   "lastDate": "2026-11-02T17:00:01.695228+00:00",
    "chips": [
     {
-     "dir": "CONDITIONAL_BUY",
+     "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$20"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "~$20 (stated 'a little over $20')",
+   "nCalls": 2
   },
   {
    "ticker": "DOCN",
@@ -1193,12 +1193,12 @@
   {
    "ticker": "FTNT",
    "slug": "FTNT",
-   "lastDate": "2026-10-04T15:59:59.567519+00:00",
+   "lastDate": "2026-11-02T14:45:42.258763+00:00",
    "chips": [
     {
-     "dir": "CONDITIONAL_BUY",
+     "dir": "HOLD",
      "n": 1,
-     "avg": "$176"
+     "avg": "$102"
     },
     {
      "dir": "SELL",
@@ -1210,8 +1210,8 @@
     "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "~$176 (DCF FV $97)",
-   "nCalls": 4
+   "lastStated": "DCF fair value $102; market ~$100 (caption garbled, ~$100.36); forward PE 35",
+   "nCalls": 5
   },
   {
    "ticker": "FVO",
@@ -1487,6 +1487,23 @@
     "BWB - Business With Brian"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "INTC",
+   "slug": "INTC",
+   "lastDate": "2026-11-02T16:00:01.695228+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$64"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "$64 (stated market price)",
    "nCalls": 1
   },
   {
@@ -1843,19 +1860,19 @@
   {
    "ticker": "MCD",
    "slug": "MCD",
-   "lastDate": "2026-10-05T11:56:12.550380+00:00",
+   "lastDate": "2026-11-02T11:55:42.258763+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$232"
+     "avg": "$293"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "232.0",
-   "nCalls": 2
+   "lastStated": "Intrinsic value $293; market $258",
+   "nCalls": 3
   },
   {
    "ticker": "MCO",
@@ -1915,12 +1932,12 @@
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-10-29T14:45:41.645847+00:00",
+   "lastDate": "2026-11-02T11:55:42.258763+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$792"
+     "avg": "$785"
     },
     {
      "dir": "HOLD",
@@ -1933,8 +1950,8 @@
     "Couch Investor",
     "Joseph Carlson After Hours"
    ],
-   "lastStated": "Fair value $942 vs $623 market (stated)",
-   "nCalls": 15
+   "lastStated": "Fair value $928; current market price not extractable from captions (garbled)",
+   "nCalls": 16
   },
   {
    "ticker": "MMM",
@@ -2179,12 +2196,12 @@
   {
    "ticker": "NFLX",
    "slug": "NFLX",
-   "lastDate": "2026-10-28T16:00:02.303782+00:00",
+   "lastDate": "2026-11-02T11:55:42.258763+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 3,
-     "avg": "$4"
+     "avg": "$62"
     },
     {
      "dir": "HOLD",
@@ -2193,13 +2210,13 @@
     }
    ],
    "influencers": [
-    "The German Value Investor",
     "Parkevtate Vosianc CFA",
+    "The German Value Investor",
     "Joseph Carlson After Hours",
     "Couch Investor"
    ],
-   "lastStated": "Small add: 4 -> 6 shares, ~€116 total; position ~1% weight, down ~4%",
-   "nCalls": 17
+   "lastStated": "Fair value $120; market almost half that at ~$62",
+   "nCalls": 18
   },
   {
    "ticker": "NICE",
@@ -2262,20 +2279,20 @@
   {
    "ticker": "NOW",
    "slug": "NOW",
-   "lastDate": "2026-10-18T22:55:45.214166+00:00",
+   "lastDate": "2026-11-02T13:55:42.258763+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$138"
+     "avg": "$143"
     }
    ],
    "influencers": [
-    "MarketBeat",
-    "Parkevtate Vosianc CFA"
+    "Parkevtate Vosianc CFA",
+    "MarketBeat"
    ],
-   "lastStated": "$138 (stated; DCF fair value $158)",
-   "nCalls": 3
+   "lastStated": "DCF fair value ~$143; current market price not extractable from captions (garble",
+   "nCalls": 4
   },
   {
    "ticker": "NU",
@@ -2331,22 +2348,22 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-01T19:05:59.142534Z",
+   "lastDate": "2026-11-02T11:55:42.258763+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$84.33"
+     "avg": "$80"
     }
    ],
    "influencers": [
-    "Mark Roussin CPA",
     "Parkevtate Vosianc CFA",
+    "Mark Roussin CPA",
     "Couch Investor",
     "BWB - Business With Brian"
    ],
-   "lastStated": "Analyst 12-month target ~$340 (over 60% upside); forward P/E 13x",
-   "nCalls": 24
+   "lastStated": "Fair value not extractable from captions (garbled); market $205",
+   "nCalls": 25
   },
   {
    "ticker": "NVO",
@@ -2616,19 +2633,19 @@
   {
    "ticker": "PINS",
    "slug": "PINS",
-   "lastDate": "2026-11-01T19:05:59.142534Z",
+   "lastDate": "2026-11-02T11:55:42.258763+00:00",
    "chips": [
     {
      "dir": "SELL",
      "n": 1,
-     "avg": "$19"
+     "avg": "$30"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "~$19 (DCF fair value $30, revised lower again)",
-   "nCalls": 4
+   "lastStated": "Fair value $30; market a little over $19",
+   "nCalls": 5
   },
   {
    "ticker": "PL",
@@ -3476,17 +3493,12 @@
   {
    "ticker": "UBER",
    "slug": "UBER",
-   "lastDate": "2026-10-29T13:55:41.645847+00:00",
+   "lastDate": "2026-11-02T11:55:42.258763+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 3,
-     "avg": "$74.5"
-    },
-    {
-     "dir": "CONDITIONAL_BUY",
-     "n": 1,
-     "avg": "$122"
+     "n": 4,
+     "avg": "$90.33"
     }
    ],
    "influencers": [
@@ -3495,8 +3507,8 @@
     "Mark Roussin CPA",
     "Couch Investor"
    ],
-   "lastStated": "Fair value $122 vs $66 market; buy before 4 Nov earnings if you do not already o",
-   "nCalls": 7
+   "lastStated": "Fair value $122; trading $65",
+   "nCalls": 8
   },
   {
    "ticker": "UNH",
@@ -3593,20 +3605,20 @@
   {
    "ticker": "V",
    "slug": "V",
-   "lastDate": "2026-10-05T11:56:12.550380+00:00",
+   "lastDate": "2026-11-02T11:55:42.258763+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$186.5"
+     "avg": "$213"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "361.0",
-   "nCalls": 3
+   "lastStated": "Fair value not extractable from captions (garbled); market $414",
+   "nCalls": 4
   },
   {
    "ticker": "VEEV",
@@ -3902,7 +3914,7 @@
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
    "nCalls": 82,
-   "nVideos": 63
+   "nVideos": 64
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -3929,8 +3941,8 @@
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 187,
-   "nVideos": 180
+   "nCalls": 200,
+   "nVideos": 185
   },
   {
    "name": "The German Value Investor",
@@ -3941,6 +3953,66 @@
   }
  ],
  "videos": [
+  {
+   "id": "8UzmIVlMg-8",
+   "title": "Why Is Fortinet Stock Falling, and is it a Buying Opportunity? | FTNT Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-02",
+   "nCalls": 1
+  },
+  {
+   "id": "a-ad-B9AU54",
+   "title": "ServiceNow Stock: Buy the Dip? | NOW Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-02",
+   "nCalls": 1
+  },
+  {
+   "id": "fbgsQde4kRU",
+   "title": "The 9 Top Ranked Stocks to Buy Right Now in November (2026)",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-02",
+   "nCalls": 9
+  },
+  {
+   "id": "1JccECudmGk",
+   "title": "DraftKings Faces Increasing Competition in Prediction Markets | DKNG Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-02",
+   "nCalls": 1
+  },
+  {
+   "id": "BUNbdt1Iyx0",
+   "title": "Why Is Intel Stock Crashing, and is it a Buying Opportunity? | INTC Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-02",
+   "nCalls": 1
+  },
+  {
+   "id": "ObZLYkCkpcc",
+   "title": "Why Chip Stocks Are Crashing & What It Means for the AI Trade",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-11-02",
+   "nCalls": 0
+  },
   {
    "id": "dDoG3M0z_c0",
    "title": "5 Undervalued AI Stocks to Buy Now in November (2026)",
