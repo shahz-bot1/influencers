@@ -3010,5 +3010,125 @@
   "thesis": "Reiterated UNCERTAIN (prior UNCERTAIN 13 Oct): the ~24% fall reflects a Q4 guide midpoint of $15.5B vs ~$17B expected, a consumer/PC correction on memory prices, and the Israel fab incident hitting 10nm server supply (~$300M revenue, ~200bp margins). Data-center revenue still rose 78% YoY and supply stays constrained into 2027-28, so he makes no sell call but expects AMD to take share Intel cannot supply.",
   "price_at_call": "No target stated; Q4 guide midpoint $15.5B vs ~$17B expected",
   "analyzed_at": "2026-11-01T05:01:22.990410+00:00"
+ },
+ {
+  "video_id": "D0QIMlwlT6I",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "SOFI",
+  "direction": "HOLD",
+  "thesis": "Holding 6,000 shares after a best-yet Q3: revenue +44% to ~$1.4B, full-year outlook raised to $5B plus first 2027 guide ($6.4B revenue, $0.90 EPS); net interest margin rose 5.8% to 6.1% while charge-offs fell for a second straight year. Sees a path back to the $20 average analyst target and still believes SoFi becomes a major bank.",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "$20 average analyst target; holds 6,000 shares"
+ },
+ {
+  "video_id": "D0QIMlwlT6I",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "FTNT",
+  "direction": "BUY",
+  "thesis": "Start accumulating after a 24% weekly fall on an otherwise impressive Q3 (revenue +20%, $0.91 EPS, $865M free cash flow, full-year guidance raised): product growth slowed to 37% from 52% and Q4 guides 20%, but AI-driven security demand and a 38% operating margin support the longer-term story. Still not cheap at 37x expected $3.57 EPS, but last year's 32x low implies ~$114.",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "~$114 at last year's 32x low; 37x expected $3.57 EPS now"
+ },
+ {
+  "video_id": "D0QIMlwlT6I",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "NOW",
+  "direction": "BUY",
+  "thesis": "Crash to 26x expected $4 EPS after a Q3 pull-forward disappointment (subscription revenue +21% to ~$4B, backlog $13.6B up 20%, but $1.00 EPS missed $1.02 and Q4 guidance only met expectations) leaves a rebound to 40x, or $160 (+52% as stated), in reach, with agentic orchestration as a new revenue source over 3-5 years.",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "$160 at 40x expected $4 EPS (52% upside as stated)"
+ },
+ {
+  "video_id": "D0QIMlwlT6I",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "ANET",
+  "direction": "CONDITIONAL_BUY",
+  "thesis": "A favourite data-center networking name into Tuesday earnings (Q3 expects +44% sales growth on a raised full-year forecast, hyperscaler capex near $1T), but avoid going into the print: mixed post-earnings history (up twice, down hard twice in a year) and sell-off downside risk argue for waiting for anything closer to $150, against an $248 average analyst target.",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "Buy closer to $150; analyst average target $248, low $220"
+ },
+ {
+  "video_id": "D0QIMlwlT6I",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "SMCI",
+  "direction": "HOLD",
+  "thesis": "Still holds 27,000 shares, all covered by calls struck $35-$40, up ~15% on the position with ~$130,000 of premium downside protection. Pre-announced fiscal Q1 revenue up to $19.5B vs $15.5B guidance and margins near 12.5% vs under 11% expected; at 7x expected $4.67 EPS the valuation looks attractive again if the AI sell-off does not become a bear market, with $45-$50 possible over the next year.",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "$45-$50 over the next year (average analyst target just over $40); covered calls $35-$40"
+ },
+ {
+  "video_id": "D0QIMlwlT6I",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "NET",
+  "direction": "CONDITIONAL_BUY",
+  "thesis": "Revenue growing 32% with 10M+ developers as Cloudflare broadens from delivery/security into an AI application platform and agent-workflow layer, but at 223x expected $1.26 EPS it is far too expensive here; a dip closer to $250 puts it firmly back in buy territory (analyst average $361, low $160).",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "Buy on a dip closer to $250; analyst average $361, low $160"
+ },
+ {
+  "video_id": "D0QIMlwlT6I",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "SOUN",
+  "direction": "BUY",
+  "thesis": "Adding more on dips below his original ~$4.80 entry from 2024: the LivePerson acquisition closed in early September, letting SoundHound sell voice AI into enterprise customers; sales expected +40% this year and +64% next to $390M with profitability eyed in 2028, and even the low analyst target of $6 implies ~43% upside as stated.",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "Adding on dips below ~$4.80; low analyst target $6"
+ },
+ {
+  "video_id": "LBnuDhoHKgs",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "AMD",
+  "direction": "BUY",
+  "thesis": "Expects a Q3 beat: AMD guided $13B plus or minus $300M at ~56% adjusted gross margin vs $13.12B consensus and $1.94 EPS, and he believes the CPU shortage is bigger than expected with Helios rack revenue starting to show. The Q4 guide (Street expects at least $16B) matters most; Meta's ~$1B partnership and Helios testing, plus share gains from Intel's supply failure via TSMC, support the long-term hold.",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "No target stated; 30 Oct close ~$55 as cited (captions garble some figures)"
+ },
+ {
+  "video_id": "LBnuDhoHKgs",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "SMCI",
+  "direction": "UNCERTAIN",
+  "thesis": "Positive coverage only, no buy stated: preliminary revenue of $19B vs a $15B midpoint and margins near 12% vs 10.6% expected. The key question is whether the full-year 2027 outlook rises by ~$4B or the beat was revenue pulled forward; if unchanged, he expects the market to punish the stock.",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "No price stated"
+ },
+ {
+  "video_id": "LBnuDhoHKgs",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "IREN",
+  "direction": "BUY",
+  "thesis": "Explicitly bullish on the small neocloud into its 5 Nov report: Q1 FY2027 expects ~$220M revenue vs $137M last quarter, with full-year consensus ~$2.7B; a $363M equipment refinancing closed in October, the Spain campus targets 2028 operations, and management targets $4B of operating ARR by end-December. Stock down ~37% in three months.",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "No price stated; down ~37% over three months"
+ },
+ {
+  "video_id": "LBnuDhoHKgs",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "LITE",
+  "direction": "UNCERTAIN",
+  "thesis": "Positive coverage only, no buy stated: Q1 guided ~$1.25B at ~$4.20 adjusted EPS, in line with Street, with Q2 expected ~$1.47B and ~$5 EPS. Optics shortage pricing power supports the story, but merely meeting expectations could punish the stock; a reported Marvell acquisition approach is unconfirmed and could not be discussed unless announced.",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "No price stated; up ~21% over three months"
+ },
+ {
+  "video_id": "LBnuDhoHKgs",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "AEHR",
+  "direction": "UNCERTAIN",
+  "thesis": "First tracked: positive coverage of Aehr Test Systems only, no buy instruction. Shares at $54.89, down 28% over three months, with $22M of wafer-level follow-on orders in August and $6M of hyperscaler AI-processor orders in October; upside if memory/optics testing demand beats, with backlog and non-customer commitments the key commentary to watch.",
+  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "price_at_call": "$54.89 as cited"
  }
 ]
