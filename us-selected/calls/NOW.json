@@ -3,6 +3,24 @@
  "slug": "NOW",
  "calls": [
   {
+   "video_id": "a-ad-B9AU54",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "ServiceNow Stock: Buy the Dip? | NOW Stock Analysis",
+   "published_at": "2026-11-02T13:55:42.258763+00:00",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value ~$143; current market price not extractable from captions (garbled); forward PE just under 22",
+   "thesis": "BUY — post-results plunge is a buying opportunity; RPO +22% to $29.7B slightly ahead of revenue growth, AI ACV $1.7B (+70% YTD).",
+   "base_case": "EPS growth ~24.5% expected, above the forward PE multiple; revenue growth sustainable around current levels.",
+   "bull_case": "ServiceNow becoming the enterprise 'control tower' for AI; agentic AI consumption/production up 13x YoY.",
+   "bear_case": "Pedestrian operating cash flow growth ($839M vs $813M); $9B+ acquisition yet to show clear growth payoff.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-02T14:57:46.580106+00:00",
+   "collab": false
+  },
+  {
    "video_id": "tNp6Mj3v_1k",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -51,12 +69,12 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "channel": "MarketBeat",
+   "idx": 1
   }
  ]
 }
