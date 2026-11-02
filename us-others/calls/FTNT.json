@@ -3,6 +3,16 @@
  "slug": "FTNT",
  "calls": [
   {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FTNT",
+   "direction": "BUY",
+   "thesis": "Start accumulating after a 24% weekly fall on an otherwise impressive Q3 (revenue +20%, $0.91 EPS, $865M free cash flow, full-year guidance raised): product growth slowed to 37% from 52% and Q4 guides 20%, but AI-driven security demand and a 38% operating margin support the longer-term story. Still not cheap at 37x expected $3.57 EPS, but last year's 32x low implies ~$114.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "~$114 at last year's 32x low; 37x expected $3.57 EPS now"
+  },
+  {
    "video_id": "S3pQiAXNVPU",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
