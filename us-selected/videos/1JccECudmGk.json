@@ -1,0 +1,25 @@
+{
+ "video_id": "1JccECudmGk",
+ "title": "DraftKings Faces Increasing Competition in Prediction Markets | DKNG Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-02",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc revisits DraftKings after a fall of more than 40% in 2026, driven by prediction-market competitors Polymarket and Kalshi taking share. Before prediction markets, DraftKings was steadily winning state-by-state sports-betting approvals; the new entrants bypassed that framework and offered products nationally, forcing DraftKings to shift strategy and launch its own prediction-markets product, which management says has gained momentum surprisingly fast. Revenue grew from $500 million in 2020 to about $6 billion, but growth has since stagnated and trailing twelve-month revenue has slipped below its $6.2 billion peak, while the operating-cash-flow-to-sales improvement since 2022 has also stalled. Sentiment has turned so sour that the forward price-to-earnings ratio of about 12 prices in essentially zero growth over the next several years. His updated discounted cash flow value is about $31 per share against a market price a little over $20, near the 52-week low. He reiterates DraftKings as a buying opportunity, firmer than his conditional buy of 6 October, but admits he is losing confidence in near-term execution and that convincing investors will take longer. Call: DKNG — BUY (strengthened from CONDITIONAL_BUY). Bull case: tighter prediction-market regulation would favour DraftKings' licensed position. Bear case: fading near-term execution confidence and a longer wait for investor conviction.",
+ "calls": [
+  {
+   "video_id": "1JccECudmGk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "DraftKings Faces Increasing Competition in Prediction Markets | DKNG Stock Analysis",
+   "published_at": "2026-11-02T17:00:01.695228+00:00",
+   "ticker": "DKNG",
+   "direction": "BUY",
+   "price_at_call": "~$20 (stated 'a little over $20')",
+   "thesis": "Reiterated buying opportunity: forward PE ~12 prices in zero growth, but DKNG's own prediction-markets product is gaining share and is lower-risk to regulatory reversal than Polymarket/Kalshi.",
+   "base_case": "Updated DCF ~$31/share vs ~$20 price = significant undervaluation; near 52-week low.",
+   "bull_case": "If regulation tightens on prediction markets, DKNG's state-by-state position strengthens further.",
+   "bear_case": "Losing confidence in near-term execution; convincing investors on share retention will take longer.",
+   "analyzed_at": "2026-11-02T19:03:21.122499+00:00"
+  }
+ ]
+}
