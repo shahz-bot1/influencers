@@ -1,0 +1,27 @@
+{
+ "ticker": "INTC",
+ "slug": "INTC",
+ "calls": [
+  {
+   "video_id": "BUNbdt1Iyx0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Intel Stock Crashing, and is it a Buying Opportunity? | INTC Stock Analysis",
+   "published_at": "2026-11-02T16:00:01.695228+00:00",
+   "ticker": "INTC",
+   "direction": "HOLD",
+   "price_at_call": "$64 (stated market price)",
+   "thesis": "Reiterated hold: 30% post-earnings drop is not yet a buying opportunity; 2027 will be another negative-free-cash-flow investment year and PC demand stays weak into H1 2027.",
+   "base_case": "Updated DCF intrinsic value $51 vs $64 market price = still overvalued; forward PE 29 reasonable only on expected data-center EPS growth.",
+   "bull_case": "Data-center demand (>$200B addressable, growing with agentic AI) plus possible Intel Foundry customer announcement could lift it once the business catches up.",
+   "bear_case": "2027 CapEx surge with negative FCF, Q4 revenue guided down sequentially to $15.5B with margins falling to 37% from 43%.",
+   "analyzed_at": "2026-11-02T19:03:21.122499+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
