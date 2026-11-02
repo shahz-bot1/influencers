@@ -3,6 +3,24 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "fbgsQde4kRU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 9 Top Ranked Stocks to Buy Right Now in November (2026)",
+   "published_at": "2026-11-02T11:55:42.258763+00:00",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": "Fair value $120; market almost half that at ~$62",
+   "thesis": "BUY reiterated — his largest position, keeps adding near these levels; 30%+ operating margins, cord-cutting tailwind.",
+   "base_case": "Decade of economical content creation; streaming shift offsetting engagement softness.",
+   "bull_case": "",
+   "bear_case": "Consumer engagement softening; unclear near-term catalyst.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-02T14:57:46.580106+00:00",
+   "collab": false
+  },
+  {
    "video_id": "dqg544n9xKo",
    "channel": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
@@ -279,20 +297,20 @@
  ],
  "byInf": [
   {
-   "channel": "The German Value Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 1
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Couch Investor",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
