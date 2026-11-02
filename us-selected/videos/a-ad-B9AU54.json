@@ -1,0 +1,28 @@
+{
+ "video_id": "a-ad-B9AU54",
+ "title": "ServiceNow Stock: Buy the Dip? | NOW Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-02",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc reviews ServiceNow after its post-results plunge, asking whether the dip is a buying opportunity or a time to sell. Revenue topped $4.1 billion, up over 20% year on year, and management raised full-year guidance across the board, yet investors were disappointed and the shares fell. The bright spot was remaining performance obligations, up 22% to $29.7 billion, slightly ahead of revenue growth, which he reads as a sign that growth is sustainable and could accelerate. He argues the February 'SaaS-pocalypse' fear that enterprises would bypass ServiceNow for large language models has not played out: ServiceNow has become the enterprise 'control tower' for AI, with AI annual contract value of $1.7 billion, up 70% since the start of 2026, and agentic-AI consumption up more than 13 times year on year. The disappointments were pedestrian operating cash flow growth ($839 million versus $813 million a year earlier) and a $9 billion-plus acquisition earlier in 2026 that has yet to clearly pay off. At a forward price-to-earnings ratio just under 22, near its cheapest ever, with analysts expecting about 24.5% EPS growth, he sees an attractive setup, and his updated discounted cash flow value is roughly $143. Call: NOW — BUY (reiterated). Bull case: the enterprise AI control-tower position with accelerating agentic adoption. Bear case: weak cash-flow growth and the unproven large acquisition.",
+ "calls": [
+  {
+   "video_id": "a-ad-B9AU54",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "ServiceNow Stock: Buy the Dip? | NOW Stock Analysis",
+   "published_at": "2026-11-02T13:55:42.258763+00:00",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value ~$143; current market price not extractable from captions (garbled); forward PE just under 22",
+   "thesis": "BUY — post-results plunge is a buying opportunity; RPO +22% to $29.7B slightly ahead of revenue growth, AI ACV $1.7B (+70% YTD).",
+   "base_case": "EPS growth ~24.5% expected, above the forward PE multiple; revenue growth sustainable around current levels.",
+   "bull_case": "ServiceNow becoming the enterprise 'control tower' for AI; agentic AI consumption/production up 13x YoY.",
+   "bear_case": "Pedestrian operating cash flow growth ($839M vs $813M); $9B+ acquisition yet to show clear growth payoff.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-02T14:57:46.580106+00:00",
+   "collab": false
+  }
+ ]
+}
