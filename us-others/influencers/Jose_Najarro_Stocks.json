@@ -7,6 +7,22 @@
    "ticker": "AMD",
    "tickerSlug": "AMD",
    "direction": "BUY",
+   "date": "2026-11-02T05:05:00+00:00",
+   "price": "No target stated; 30 Oct close ~$55 as cited (captions garble some figures)",
+   "video_id": "LBnuDhoHKgs"
+  },
+  {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "BUY",
+   "date": "2026-11-02T05:05:00+00:00",
+   "price": "No price stated; down ~37% over three months",
+   "video_id": "LBnuDhoHKgs"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
    "date": "2026-11-01T04:58:22.803299+00:00",
    "price": "No target or share price stated; cites AMD's reiterated guidance of 80%+ CPU revenue growth in H2 2026 and 70%+ for FY2027",
    "video_id": "OIbieiHWISE"
