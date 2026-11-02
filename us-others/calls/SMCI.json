@@ -3,6 +3,16 @@
  "slug": "SMCI",
  "calls": [
   {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SMCI",
+   "direction": "HOLD",
+   "thesis": "Still holds 27,000 shares, all covered by calls struck $35-$40, up ~15% on the position with ~$130,000 of premium downside protection. Pre-announced fiscal Q1 revenue up to $19.5B vs $15.5B guidance and margins near 12.5% vs under 11% expected; at 7x expected $4.67 EPS the valuation looks attractive again if the AI sell-off does not become a bear market, with $45-$50 possible over the next year.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "$45-$50 over the next year (average analyst target just over $40); covered calls $35-$40"
+  },
+  {
    "video_id": "IaSD9j5O_ZQ",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
