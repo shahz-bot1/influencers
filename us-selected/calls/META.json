@@ -3,6 +3,24 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "fbgsQde4kRU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 9 Top Ranked Stocks to Buy Right Now in November (2026)",
+   "published_at": "2026-11-02T11:55:42.258763+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "Fair value $928; current market price not extractable from captions (garbled)",
+   "thesis": "BUY reiterated — one of his larger positions, interested in adding more; 26% revenue growth with 12% fewer staff.",
+   "base_case": "Productivity gains; Meta Muse 10M+ downloads not yet monetised or in his estimates.",
+   "bull_case": "",
+   "bear_case": "AI spend turning free cash flow negative.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-02T14:57:46.580106+00:00",
+   "collab": false
+  },
+  {
    "video_id": "XfvDvdaIgK4",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -250,11 +268,11 @@
   },
   {
    "channel": "Couch Investor",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
