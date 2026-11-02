@@ -3,6 +3,16 @@
  "slug": "NET",
  "calls": [
   {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NET",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Revenue growing 32% with 10M+ developers as Cloudflare broadens from delivery/security into an AI application platform and agent-workflow layer, but at 223x expected $1.26 EPS it is far too expensive here; a dip closer to $250 puts it firmly back in buy territory (analyst average $361, low $160).",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "Buy on a dip closer to $250; analyst average $361, low $160"
+  },
+  {
    "video_id": "gYOUhwmQqs4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
