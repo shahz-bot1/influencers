@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T01:32:08.436703+00:00",
+ "updated": "2026-11-02T01:31:50.361865+00:00",
  "tickers": [
   {
    "ticker": "DATA CENTER THEME",
@@ -361,7 +361,7 @@
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
    "nCalls": 23,
-   "nVideos": 25
+   "nVideos": 26
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -372,6 +372,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "m8NsCq3Qkhc",
+   "title": "How to Spot GREAT Stocks, Avoid Bad Stocks and Survive Market Cycles - Rahul Jain G2G",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-11-01",
+   "nCalls": 0
+  },
   {
    "id": "_-QSrevxzuU",
    "title": "Invest....(but where?). Everything is falling: Gold, Nifty, AI Stocks",
