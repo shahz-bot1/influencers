@@ -1,0 +1,79 @@
+{
+ "video_id": "D0QIMlwlT6I",
+ "title": "The Next 5 Days Could Make Millionaires (7 Stocks to Watch)",
+ "creator": "Joseph Hogue, CFA",
+ "published_at": "2026-11-01T17:55:41.125284+00:00",
+ "summary": "Joseph Hogue's weekly update argues the Nasdaq's 8%+ fall from its peak is a dip to buy, not the start of an AI crash: nothing fundamental has broken in the AI investment cycle yet, hyperscalers are still funding hundreds of billions in data-center spending, and the reckoning he expects from AI revenues failing to justify trillions in commitments is still 3-6 months away, possibly into next year — though he concedes a further 3-5% fall into correction territory is likely as earnings disappoint. He revisits last week's casualties: SoFi (HOLD, $20 target) after a best-yet quarter with revenue up 44% to ~$1.4B, margin up to 6.1% and falling charge-offs; Fortinet (BUY, start accumulating) after a 24% fall despite revenue up 20% and $865M quarterly free cash flow; and ServiceNow (BUY, $160 at 40x earnings) after a 34% crash on a revenue pull-forward. For the coming week's earnings he is conditional on Arista (CONDITIONAL_BUY, buy closer to $150, avoid into the print), holds Super Micro (HOLD, $45-$50 over a year, still fully covered by $35-$40 calls) after its revenue pre-announcement to $19.5B, is conditional on Cloudflare (CONDITIONAL_BUY, buy on a dip to $250) despite 32% growth, and keeps adding to SoundHound (BUY) on dips below ~$4.80 after its LivePerson deal. Micron's 17% fall and CoreWeave's near-15% debt yields feature as market context, with no calls recorded on them.",
+ "calls": [
+  {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOFI",
+   "direction": "HOLD",
+   "thesis": "Holding 6,000 shares after a best-yet Q3: revenue +44% to ~$1.4B, full-year outlook raised to $5B plus first 2027 guide ($6.4B revenue, $0.90 EPS); net interest margin rose 5.8% to 6.1% while charge-offs fell for a second straight year. Sees a path back to the $20 average analyst target and still believes SoFi becomes a major bank.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "$20 average analyst target; holds 6,000 shares"
+  },
+  {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FTNT",
+   "direction": "BUY",
+   "thesis": "Start accumulating after a 24% weekly fall on an otherwise impressive Q3 (revenue +20%, $0.91 EPS, $865M free cash flow, full-year guidance raised): product growth slowed to 37% from 52% and Q4 guides 20%, but AI-driven security demand and a 38% operating margin support the longer-term story. Still not cheap at 37x expected $3.57 EPS, but last year's 32x low implies ~$114.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "~$114 at last year's 32x low; 37x expected $3.57 EPS now"
+  },
+  {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "thesis": "Crash to 26x expected $4 EPS after a Q3 pull-forward disappointment (subscription revenue +21% to ~$4B, backlog $13.6B up 20%, but $1.00 EPS missed $1.02 and Q4 guidance only met expectations) leaves a rebound to 40x, or $160 (+52% as stated), in reach, with agentic orchestration as a new revenue source over 3-5 years.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "$160 at 40x expected $4 EPS (52% upside as stated)"
+  },
+  {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ANET",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "A favourite data-center networking name into Tuesday earnings (Q3 expects +44% sales growth on a raised full-year forecast, hyperscaler capex near $1T), but avoid going into the print: mixed post-earnings history (up twice, down hard twice in a year) and sell-off downside risk argue for waiting for anything closer to $150, against an $248 average analyst target.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "Buy closer to $150; analyst average target $248, low $220"
+  },
+  {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SMCI",
+   "direction": "HOLD",
+   "thesis": "Still holds 27,000 shares, all covered by calls struck $35-$40, up ~15% on the position with ~$130,000 of premium downside protection. Pre-announced fiscal Q1 revenue up to $19.5B vs $15.5B guidance and margins near 12.5% vs under 11% expected; at 7x expected $4.67 EPS the valuation looks attractive again if the AI sell-off does not become a bear market, with $45-$50 possible over the next year.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "$45-$50 over the next year (average analyst target just over $40); covered calls $35-$40"
+  },
+  {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NET",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Revenue growing 32% with 10M+ developers as Cloudflare broadens from delivery/security into an AI application platform and agent-workflow layer, but at 223x expected $1.26 EPS it is far too expensive here; a dip closer to $250 puts it firmly back in buy territory (analyst average $361, low $160).",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "Buy on a dip closer to $250; analyst average $361, low $160"
+  },
+  {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOUN",
+   "direction": "BUY",
+   "thesis": "Adding more on dips below his original ~$4.80 entry from 2024: the LivePerson acquisition closed in early September, letting SoundHound sell voice AI into enterprise customers; sales expected +40% this year and +64% next to $390M with profitability eyed in 2028, and even the low analyst target of $6 implies ~43% upside as stated.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "Adding on dips below ~$4.80; low analyst target $6"
+  }
+ ]
+}
