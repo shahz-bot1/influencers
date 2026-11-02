@@ -3,6 +3,24 @@
  "slug": "PINS",
  "calls": [
   {
+   "video_id": "fbgsQde4kRU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 9 Top Ranked Stocks to Buy Right Now in November (2026)",
+   "published_at": "2026-11-02T11:55:42.258763+00:00",
+   "ticker": "PINS",
+   "direction": "SELL",
+   "price_at_call": "Fair value $30; market a little over $19",
+   "thesis": "SELL (partial, matches 1 Nov partial-sell) — owns it but not adding more; may sell 1/3 before year-end for tax-loss harvesting, keeping 2/3.",
+   "base_case": "US/Canada monthly users grew well, the most lucrative base.",
+   "bull_case": "",
+   "bear_case": "Growing stock-based compensation with little innovation to show; may trim for tax reasons, not a full exit.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-02T14:57:46.580106+00:00",
+   "collab": false
+  },
+  {
    "video_id": "9-gMbrqxVK8",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
