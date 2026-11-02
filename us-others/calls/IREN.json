@@ -3,6 +3,16 @@
  "slug": "IREN",
  "calls": [
   {
+   "video_id": "LBnuDhoHKgs",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "IREN",
+   "direction": "BUY",
+   "thesis": "Explicitly bullish on the small neocloud into its 5 Nov report: Q1 FY2027 expects ~$220M revenue vs $137M last quarter, with full-year consensus ~$2.7B; a $363M equipment refinancing closed in October, the Spain campus targets 2028 operations, and management targets $4B of operating ARR by end-December. Stock down ~37% in three months.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "No price stated; down ~37% over three months"
+  },
+  {
    "video_id": "0UT-qmch2jU",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -38,15 +48,15 @@
  ],
  "byInf": [
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Jose Najarro Stocks",
    "idx": 0
   },
   {
-   "channel": "Daniel Pronk",
+   "channel": "Asymmetric Investing",
    "idx": 1
   },
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Daniel Pronk",
    "idx": 2
   }
  ]
