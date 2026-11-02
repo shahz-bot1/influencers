@@ -3,6 +3,24 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "fbgsQde4kRU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 9 Top Ranked Stocks to Buy Right Now in November (2026)",
+   "published_at": "2026-11-02T11:55:42.258763+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "Fair value not extractable from captions (garbled); market $205",
+   "thesis": "BUY reiterated — second-largest position, interested in adding more; GPU + software moat at least one step ahead.",
+   "base_case": "Hyperscaler AI spend flows to Nvidia; significant upside seen.",
+   "bull_case": "",
+   "bear_case": "Hyperscalers building own chips as cheaper alternatives.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-02T14:57:46.580106+00:00",
+   "collab": false
+  },
+  {
    "video_id": "Fjyfta0Ltzw",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -377,20 +395,20 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
    "channel": "Couch Investor",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
