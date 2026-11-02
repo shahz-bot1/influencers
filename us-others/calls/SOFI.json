@@ -3,6 +3,16 @@
  "slug": "SOFI",
  "calls": [
   {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOFI",
+   "direction": "HOLD",
+   "thesis": "Holding 6,000 shares after a best-yet Q3: revenue +44% to ~$1.4B, full-year outlook raised to $5B plus first 2027 guide ($6.4B revenue, $0.90 EPS); net interest margin rose 5.8% to 6.1% while charge-offs fell for a second straight year. Sees a path back to the $20 average analyst target and still believes SoFi becomes a major bank.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "$20 average analyst target; holds 6,000 shares"
+  },
+  {
    "video_id": "S3pQiAXNVPU",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -53,7 +63,7 @@
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
