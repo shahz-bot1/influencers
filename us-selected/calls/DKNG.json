@@ -3,6 +3,21 @@
  "slug": "DKNG",
  "calls": [
   {
+   "video_id": "1JccECudmGk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "DraftKings Faces Increasing Competition in Prediction Markets | DKNG Stock Analysis",
+   "published_at": "2026-11-02T17:00:01.695228+00:00",
+   "ticker": "DKNG",
+   "direction": "BUY",
+   "price_at_call": "~$20 (stated 'a little over $20')",
+   "thesis": "Reiterated buying opportunity: forward PE ~12 prices in zero growth, but DKNG's own prediction-markets product is gaining share and is lower-risk to regulatory reversal than Polymarket/Kalshi.",
+   "base_case": "Updated DCF ~$31/share vs ~$20 price = significant undervaluation; near 52-week low.",
+   "bull_case": "If regulation tightens on prediction markets, DKNG's state-by-state position strengthens further.",
+   "bear_case": "Losing confidence in near-term execution; convincing investors on share retention will take longer.",
+   "analyzed_at": "2026-11-02T19:03:21.122499+00:00"
+  },
+  {
    "video_id": "pRlZ2UuMc7M",
    "channel": "Parkevtate Vosianc CFA",
    "video_title": "Why Is DraftKings Stock Crashing, and is it a Buying Opportunity? | DKNG Stock Near 52 Week Low",
