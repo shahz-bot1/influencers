@@ -3,6 +3,16 @@
  "slug": "ANET",
  "calls": [
   {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ANET",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "A favourite data-center networking name into Tuesday earnings (Q3 expects +44% sales growth on a raised full-year forecast, hyperscaler capex near $1T), but avoid going into the print: mixed post-earnings history (up twice, down hard twice in a year) and sell-off downside risk argue for waiting for anything closer to $150, against an $248 average analyst target.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "Buy closer to $150; analyst average target $248, low $220"
+  },
+  {
    "video_id": "DOldWUpT3d8",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
