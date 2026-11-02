@@ -3,6 +3,24 @@
  "slug": "V",
  "calls": [
   {
+   "video_id": "fbgsQde4kRU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 9 Top Ranked Stocks to Buy Right Now in November (2026)",
+   "published_at": "2026-11-02T11:55:42.258763+00:00",
+   "ticker": "V",
+   "direction": "BUY",
+   "price_at_call": "Fair value not extractable from captions (garbled); market $414",
+   "thesis": "BUY reiterated — one of his larger positions, always interested in adding more; 4B+ cards, near-mandatory merchant acceptance.",
+   "base_case": "Most profitable company he followed pre-AI (~65% operating margins); huge card base.",
+   "bull_case": "",
+   "bear_case": "Undervaluation less severe than other names on the list.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-02T14:57:46.580106+00:00",
+   "collab": false
+  },
+  {
    "video_id": "25pD3BJgsy8",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -51,7 +69,7 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
