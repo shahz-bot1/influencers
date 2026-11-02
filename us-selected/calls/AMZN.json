@@ -3,6 +3,24 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "fbgsQde4kRU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 9 Top Ranked Stocks to Buy Right Now in November (2026)",
+   "published_at": "2026-11-02T11:55:42.258763+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "Fair value not extractable from captions (garbled); market a little over $240",
+   "thesis": "BUY reiterated — added to his portfolio, interested in adding more near these levels; AWS accelerating with 40%+ growth forecast for 2027-28.",
+   "base_case": "AWS accelerating; unprecedented 2-year AWS forecast.",
+   "bull_case": "",
+   "bear_case": "AI capex annualising over $300B in 2027 worrying investors.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-02T14:57:46.580106+00:00",
+   "collab": false
+  },
+  {
    "video_id": "1VIXTEYSyoM",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -232,19 +250,19 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 8
+   "idx": 9
   },
   {
    "channel": "Couch Investor",
-   "idx": 9
+   "idx": 10
   }
  ]
 }
