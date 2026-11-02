@@ -3,6 +3,16 @@
  "slug": "NOW",
  "calls": [
   {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "thesis": "Crash to 26x expected $4 EPS after a Q3 pull-forward disappointment (subscription revenue +21% to ~$4B, backlog $13.6B up 20%, but $1.00 EPS missed $1.02 and Q4 guidance only met expectations) leaves a rebound to 40x, or $160 (+52% as stated), in reach, with agentic orchestration as a new revenue source over 3-5 years.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "$160 at 40x expected $4 EPS (52% upside as stated)"
+  },
+  {
    "video_id": "S3pQiAXNVPU",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
