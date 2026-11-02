@@ -1,0 +1,25 @@
+{
+ "video_id": "BUNbdt1Iyx0",
+ "title": "Why Is Intel Stock Crashing, and is it a Buying Opportunity? | INTC Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-02",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc examines Intel after a one-day fall of more than 30% following its third-quarter results, one of the largest single-day declines in the company's history. The quarter itself beat guidance: revenue rose 21% to $16.5 billion and operating margin more than tripled to 15.3%, with data-centre demand for Xeon CPUs described as extraordinary. What disappointed investors was the outlook: management said 2027 will be another investment year with negative free cash flow, despite tens of billions already spent expanding manufacturing capacity that still cannot meet data-centre demand, which he reads as an inefficient build-out. The client PC segment will keep struggling through at least the first half of 2027 as higher component prices suppress demand. Fourth-quarter guidance points to $15.5 billion of revenue, a sequential decline, with gross margins falling to 37% from 43%. Nine-month operating cash flow improved to $13.2 billion from $5.4 billion, producing about $3 billion of free cash flow versus negative $6 billion a year earlier, but that progress now looks interrupted. At a forward price-to-earnings ratio of 29 and an updated discounted cash flow value of $51 against a $64 market price, he reiterates his HOLD rating from 6 August: the drop is not yet a buying opportunity, though it is getting closer. Call: INTC — HOLD. Bull case: a data-centre addressable market above $200 billion plus a possible Foundry customer win. Bear case: another year of negative free cash flow and a sequentially weaker fourth quarter.",
+ "calls": [
+  {
+   "video_id": "BUNbdt1Iyx0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Intel Stock Crashing, and is it a Buying Opportunity? | INTC Stock Analysis",
+   "published_at": "2026-11-02T16:00:01.695228+00:00",
+   "ticker": "INTC",
+   "direction": "HOLD",
+   "price_at_call": "$64 (stated market price)",
+   "thesis": "Reiterated hold: 30% post-earnings drop is not yet a buying opportunity; 2027 will be another negative-free-cash-flow investment year and PC demand stays weak into H1 2027.",
+   "base_case": "Updated DCF intrinsic value $51 vs $64 market price = still overvalued; forward PE 29 reasonable only on expected data-center EPS growth.",
+   "bull_case": "Data-center demand (>$200B addressable, growing with agentic AI) plus possible Intel Foundry customer announcement could lift it once the business catches up.",
+   "bear_case": "2027 CapEx surge with negative FCF, Q4 revenue guided down sequentially to $15.5B with margins falling to 37% from 43%.",
+   "analyzed_at": "2026-11-02T19:03:21.122499+00:00"
+  }
+ ]
+}
