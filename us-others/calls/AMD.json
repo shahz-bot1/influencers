@@ -3,6 +3,16 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "LBnuDhoHKgs",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "thesis": "Expects a Q3 beat: AMD guided $13B plus or minus $300M at ~56% adjusted gross margin vs $13.12B consensus and $1.94 EPS, and he believes the CPU shortage is bigger than expected with Helios rack revenue starting to show. The Q4 guide (Street expects at least $16B) matters most; Meta's ~$1B partnership and Helios testing, plus share gains from Intel's supply failure via TSMC, support the long-term hold.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "No target stated; 30 Oct close ~$55 as cited (captions garble some figures)"
+  },
+  {
    "video_id": "OIbieiHWISE",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
