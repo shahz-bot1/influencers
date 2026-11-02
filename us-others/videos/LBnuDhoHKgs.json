@@ -1,0 +1,29 @@
+{
+ "video_id": "LBnuDhoHKgs",
+ "title": "AMD Earnings Could Shock Wall Street — 5 AI Stocks to Watch!!",
+ "creator": "Jose Najarro Stocks",
+ "published_at": "2026-11-01T23:55:41.125284+00:00",
+ "summary": "Jose Najarro previews five AI semiconductor earnings reporting 2-5 November, each hitting a different part of the supply chain, and argues forward valuations are frothy but not a crazy bubble. On AMD (BUY, reiterated) he expects a third-quarter beat — guidance was $13B plus or minus $300M at ~56% gross margin versus $13.12B consensus and $1.94 EPS — driven by a bigger-than-expected CPU shortage and early Helios rack revenue, with the fourth-quarter guide (Street expects at least $16B) mattering more than the beat; Meta's ~$1B partnership and Helios testing plus share gains from Intel's supply failure via TSMC support his long-term hold, though he wants more commentary on the proposed $8.2B World Labs acquisition. Super Micro (UNCERTAIN) pre-announced revenue of $19B versus a $15B midpoint with margins near 12%, but the full-year 2027 outlook must rise ~$4B or the market will punish it. IREN (BUY, explicitly bullish) reports 5 November with ~$220M expected versus $137M last quarter, a $363M October refinancing and a $4B operating ARR target by December. Lumentum (UNCERTAIN) guides ~$1.25B and ~$4.20 EPS with a stronger second quarter expected, while Aehr Test Systems (UNCERTAIN, first tracked) at $54.89 offers upside if memory and optics testing demand beats. Captions garble several names (Aehr as 'Air Test', IREN as 'Iran', Lumentum as 'Lmentum', Helios as 'Halos', Lisa Su as 'Lisa Sue'), and some cited figures are approximate.",
+ "calls": [
+  {
+   "video_id": "LBnuDhoHKgs",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "thesis": "Expects a Q3 beat: AMD guided $13B plus or minus $300M at ~56% adjusted gross margin vs $13.12B consensus and $1.94 EPS, and he believes the CPU shortage is bigger than expected with Helios rack revenue starting to show. The Q4 guide (Street expects at least $16B) matters most; Meta's ~$1B partnership and Helios testing, plus share gains from Intel's supply failure via TSMC, support the long-term hold.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "No target stated; 30 Oct close ~$55 as cited (captions garble some figures)"
+  },
+  {
+   "video_id": "LBnuDhoHKgs",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "IREN",
+   "direction": "BUY",
+   "thesis": "Explicitly bullish on the small neocloud into its 5 Nov report: Q1 FY2027 expects ~$220M revenue vs $137M last quarter, with full-year consensus ~$2.7B; a $363M equipment refinancing closed in October, the Spain campus targets 2028 operations, and management targets $4B of operating ARR by end-December. Stock down ~37% in three months.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "No price stated; down ~37% over three months"
+  }
+ ]
+}
