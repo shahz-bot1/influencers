@@ -3,6 +3,24 @@
  "slug": "FTNT",
  "calls": [
   {
+   "video_id": "8UzmIVlMg-8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Fortinet Stock Falling, and is it a Buying Opportunity? | FTNT Stock Analysis",
+   "published_at": "2026-11-02T14:45:42.258763+00:00",
+   "ticker": "FTNT",
+   "direction": "HOLD",
+   "price_at_call": "DCF fair value $102; market ~$100 (caption garbled, ~$100.36); forward PE 35",
+   "thesis": "HOLD reiterated (his wording) — solid quarter (billings +29%, revenue +20%, record 33% operating margins, 111% ROIC) but not cheap enough after the post-earnings fall to upgrade.",
+   "base_case": "Billings growth ahead of revenue growth signals sustainable/accelerating revenue; record margins and ROIC.",
+   "bull_case": "Cybersecurity boom from agentic AI; accelerating growth with expanding margins.",
+   "bear_case": "Still slightly overvalued after a margin of safety at forward PE 35 (was over 50); analyst EPS growth estimates revised down to 15.7%.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-02T14:57:46.580106+00:00",
+   "collab": false
+  },
+  {
    "video_id": "MhJNvSPOivk",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -74,7 +92,7 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
