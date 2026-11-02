@@ -3,6 +3,16 @@
  "slug": "SOUN",
  "calls": [
   {
+   "video_id": "D0QIMlwlT6I",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOUN",
+   "direction": "BUY",
+   "thesis": "Adding more on dips below his original ~$4.80 entry from 2024: the LivePerson acquisition closed in early September, letting SoundHound sell voice AI into enterprise customers; sales expected +40% this year and +64% next to $390M with profitability eyed in 2028, and even the low analyst target of $6 implies ~43% upside as stated.",
+   "analyzed_at": "2026-11-02T05:05:00+00:00",
+   "price_at_call": "Adding on dips below ~$4.80; low analyst target $6"
+  },
+  {
    "video_id": "gYOUhwmQqs4",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
