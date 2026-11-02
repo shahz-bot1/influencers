@@ -3,6 +3,24 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "fbgsQde4kRU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 9 Top Ranked Stocks to Buy Right Now in November (2026)",
+   "published_at": "2026-11-02T11:55:42.258763+00:00",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": "Fair value $122; trading $65",
+   "thesis": "BUY (buy-side stance kept; condition from 29 Oct conditional call lifted) — owns it, interested in adding more near these levels.",
+   "base_case": "200M+ monthly platform customers and fleet-management edge if it harnesses driverless tech.",
+   "bull_case": "",
+   "bear_case": "Driverless risk: Waymo going solo, no partnership, valuation near 52-week lows.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-02T14:57:46.580106+00:00",
+   "collab": false
+  },
+  {
    "video_id": "Na_sk_3ZhD8",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -111,15 +129,15 @@
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "Couch Investor",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
