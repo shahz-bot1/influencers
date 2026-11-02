@@ -4,6 +4,62 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "HOLD",
+   "date": "2026-11-02T05:05:00+00:00",
+   "price": "$20 average analyst target; holds 6,000 shares",
+   "video_id": "D0QIMlwlT6I"
+  },
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
+   "direction": "BUY",
+   "date": "2026-11-02T05:05:00+00:00",
+   "price": "~$114 at last year's 32x low; 37x expected $3.57 EPS now",
+   "video_id": "D0QIMlwlT6I"
+  },
+  {
+   "ticker": "NOW",
+   "tickerSlug": "NOW",
+   "direction": "BUY",
+   "date": "2026-11-02T05:05:00+00:00",
+   "price": "$160 at 40x expected $4 EPS (52% upside as stated)",
+   "video_id": "D0QIMlwlT6I"
+  },
+  {
+   "ticker": "ANET",
+   "tickerSlug": "ANET",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-02T05:05:00+00:00",
+   "price": "Buy closer to $150; analyst average target $248, low $220",
+   "video_id": "D0QIMlwlT6I"
+  },
+  {
+   "ticker": "SMCI",
+   "tickerSlug": "SMCI",
+   "direction": "HOLD",
+   "date": "2026-11-02T05:05:00+00:00",
+   "price": "$45-$50 over the next year (average analyst target just over $40); covered calls $35-$40",
+   "video_id": "D0QIMlwlT6I"
+  },
+  {
+   "ticker": "NET",
+   "tickerSlug": "NET",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-02T05:05:00+00:00",
+   "price": "Buy on a dip closer to $250; analyst average $361, low $160",
+   "video_id": "D0QIMlwlT6I"
+  },
+  {
+   "ticker": "SOUN",
+   "tickerSlug": "SOUN",
+   "direction": "BUY",
+   "date": "2026-11-02T05:05:00+00:00",
+   "price": "Adding on dips below ~$4.80; low analyst target $6",
+   "video_id": "D0QIMlwlT6I"
+  },
+  {
    "ticker": "HOOD",
    "tickerSlug": "HOOD",
    "direction": "BUY",
