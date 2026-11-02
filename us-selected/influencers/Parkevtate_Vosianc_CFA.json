@@ -4,6 +4,110 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "DKNG",
+   "tickerSlug": "DKNG",
+   "direction": "BUY",
+   "date": "2026-11-02T17:00:01.695228+00:00",
+   "price": "~$20 (stated 'a little over $20')",
+   "video_id": "1JccECudmGk"
+  },
+  {
+   "ticker": "INTC",
+   "tickerSlug": "INTC",
+   "direction": "HOLD",
+   "date": "2026-11-02T16:00:01.695228+00:00",
+   "price": "$64 (stated market price)",
+   "video_id": "BUNbdt1Iyx0"
+  },
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
+   "direction": "HOLD",
+   "date": "2026-11-02T14:45:42.258763+00:00",
+   "price": "DCF fair value $102; market ~$100 (caption garbled, ~$100.36); forward PE 35",
+   "video_id": "8UzmIVlMg-8"
+  },
+  {
+   "ticker": "NOW",
+   "tickerSlug": "NOW",
+   "direction": "BUY",
+   "date": "2026-11-02T13:55:42.258763+00:00",
+   "price": "DCF fair value ~$143; current market price not extractable from captions (garbled); forward PE just under 22",
+   "video_id": "a-ad-B9AU54"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-02T11:55:42.258763+00:00",
+   "price": "Fair value not extractable from captions (garbled); market a little over $240",
+   "video_id": "fbgsQde4kRU"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-02T11:55:42.258763+00:00",
+   "price": "Fair value $928; current market price not extractable from captions (garbled)",
+   "video_id": "fbgsQde4kRU"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-11-02T11:55:42.258763+00:00",
+   "price": "Fair value $120; market almost half that at ~$62",
+   "video_id": "fbgsQde4kRU"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-02T11:55:42.258763+00:00",
+   "price": "Fair value not extractable from captions (garbled); market $205",
+   "video_id": "fbgsQde4kRU"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-11-02T11:55:42.258763+00:00",
+   "price": "Fair value $122; trading $65",
+   "video_id": "fbgsQde4kRU"
+  },
+  {
+   "ticker": "PINS",
+   "tickerSlug": "PINS",
+   "direction": "SELL",
+   "date": "2026-11-02T11:55:42.258763+00:00",
+   "price": "Fair value $30; market a little over $19",
+   "video_id": "fbgsQde4kRU"
+  },
+  {
+   "ticker": "V",
+   "tickerSlug": "V",
+   "direction": "BUY",
+   "date": "2026-11-02T11:55:42.258763+00:00",
+   "price": "Fair value not extractable from captions (garbled); market $414",
+   "video_id": "fbgsQde4kRU"
+  },
+  {
+   "ticker": "MCD",
+   "tickerSlug": "MCD",
+   "direction": "BUY",
+   "date": "2026-11-02T11:55:42.258763+00:00",
+   "price": "Intrinsic value $293; market $258",
+   "video_id": "fbgsQde4kRU"
+  },
+  {
+   "ticker": "ADBE",
+   "tickerSlug": "ADBE",
+   "direction": "BUY",
+   "date": "2026-11-02T11:55:42.258763+00:00",
+   "price": "Fair value $349; current market price not extractable from captions (garbled)",
+   "video_id": "fbgsQde4kRU"
+  },
+  {
    "ticker": "KO",
    "tickerSlug": "KO",
    "direction": "BUY",
