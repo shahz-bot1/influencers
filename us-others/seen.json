@@ -68,7 +68,7 @@
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio: October Stock Buys",
   "published_at": "2026-10-03T04:55:41.125284+00:00",
-  "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "analyzed_at": "2026-11-03T05:30:00+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
@@ -436,6 +436,27 @@
   "title": "AMD Earnings Could Shock Wall Street \u2014 5 AI Stocks to Watch!!",
   "published_at": "2026-11-01T23:55:41.125284+00:00",
   "analyzed_at": "2026-11-02T05:05:00+00:00",
+  "alerted": true
+ },
+ "zBkrl2oASXw": {
+  "channel": "Tom Nash",
+  "title": "Palantir Could Hit $1,000 (But ONLY If This Happens TODAY)",
+  "published_at": "2026-11-02T16:55:42.113720+00:00",
+  "analyzed_at": "2026-11-03T05:30:00+00:00",
+  "alerted": true
+ },
+ "CILREIdG9Sw": {
+  "channel": "Asymmetric Investing",
+  "title": "My Top Stock to Buy in November",
+  "published_at": "2026-11-02T17:55:42.113720+00:00",
+  "analyzed_at": "2026-11-03T05:30:00+00:00",
+  "alerted": true
+ },
+ "5YD-cDrHC2I": {
+  "channel": "Asymmetric Investing",
+  "title": "Why Hims & Hers Could 100X Your Money",
+  "published_at": "2026-11-02T16:55:42.113720+00:00",
+  "analyzed_at": "2026-11-03T05:30:00+00:00",
   "alerted": true
  }
 }
