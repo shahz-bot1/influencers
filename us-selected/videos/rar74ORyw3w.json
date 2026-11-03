@@ -1,0 +1,28 @@
+{
+ "video_id": "rar74ORyw3w",
+ "title": "The Electronic Signatures Market is one of the Smallest Industries for Investment | DOCU Stock News",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-03T18:00:13.492760+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc revisits DocuSign after a run from about $40 to over $82 per share, up more than 21% year to date in 2026, and asks whether it is still a buying opportunity after doubling. Agentic AI has not killed the business as some feared: DocuSign has connected into Slack, Google Gemini and other platforms to stay the signature of choice. His long-held view is that the electronic-signature market is too small — under $100 billion of annual spend — for bigger rivals to bother stealing DocuSign's dominant position, and that paper signing makes sense for only 5-10% of cases, so e-signatures should keep growing toward about 90% of all signings. Wall Street expects 14.7% medium-to-long-term EPS growth; he expects a lower 11-12%. Revenue per employee has nearly doubled since 2019, from about $250,000 to $463,000 over the trailing twelve months, which he reads as AI-driven productivity. Valuation has followed the price: forward PE is now 15.9, nearly double the sub-10x level earlier in 2026 when he flagged an excellent buying opportunity, giving a PEG of about one against 14.7% growth. His updated DCF value is $101 versus an $83 market price. Call: DOCU — BUY (reiterated, first tracked call; ranked a buying opportunity all year, last updated 26 June 2026) — still undervalued, but with downgraded conviction as the price approaches fair value.",
+ "calls": [
+  {
+   "video_id": "rar74ORyw3w",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The Electronic Signatures Market is one of the Smallest Industries for Investment | DOCU Stock News",
+   "published_at": "2026-11-03T18:00:13.492760+00:00",
+   "ticker": "DOCU",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $101 vs market $83; forward PE 15.9",
+   "thesis": "BUY reiterated (first tracked call in calls.json; ranked a buying opportunity all year, last updated 26 Jun 2026) — still undervalued on DCF and PE, but conviction downgraded since the price has more than doubled from ~$40 to over $82 and is approaching fair value.",
+   "base_case": "E-signature market keeps growing toward ~90% of all signings; revenue per employee nearly doubled since 2019 ($250k to $463k) as AI lifts productivity.",
+   "bull_case": "Agentic AI has not killed the business; integrations with Slack and Google Gemini entrench DocuSign as the signature of choice; EPS growth 11-12% expected.",
+   "bear_case": "Market is small (under $100B annual spend) so growth is capped; analysts expect 14.7% EPS growth, above his 11-12% estimate; valuation nearly doubled from under 10x forward PE earlier in 2026.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-03T23:04:54.552469+00:00",
+   "collab": false
+  }
+ ]
+}
