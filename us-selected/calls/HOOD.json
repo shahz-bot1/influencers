@@ -1,0 +1,30 @@
+{
+ "ticker": "HOOD",
+ "slug": "HOOD",
+ "calls": [
+  {
+   "video_id": "D96KGS5Ycgg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Interesting Update for Robinhood Stock Investors | HOOD Stock Analysis",
+   "published_at": "2026-11-01T06:55:16.372093+00:00",
+   "analyzed_at": "2026-11-03T19:04:33.898537+00:00",
+   "ticker": "HOOD",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$91.60 current; fair value $58",
+   "thesis": "Reiterates his hold: not a buying opportunity yet — record trading and prediction markets (+500%) show growth, but at $91.60 the price already reflects those prospects and more.",
+   "base_case": "Fair value $58 vs $91.60 — overvalued; 20% EPS growth over coming years looks reasonable.",
+   "bull_case": "Agentic trading ($250M already allocated) and new features keep engagement and account growth rising.",
+   "bear_case": "Cyclical: crypto revenue plunged 55% to $120M as activity tracked Bitcoin's 2026 drop, and trading collapses when markets fall.",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
