@@ -1,0 +1,28 @@
+{
+ "video_id": "vVsjMofRjqs",
+ "title": "Is Apple Stock a Buy After Earnings? | AAPL Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-03T21:58:26.168395+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc asks why Apple fell over 3% after a strong quarter, and whether the dip is a buying opportunity. Net sales rose to $114.5 billion for the quarter ended 26 September 2026, with product sales outgrowing services — surprising ahead of the holiday quarter and the new iPhone Duo launch, as many buyers bought ahead of the release. iPhone sales jumped to $57.6 billion from $49 billion a year earlier, and to $254 billion for the full year from $209 billion; China sales rose to $17.5 billion from $14.5 billion, and nine-month China sales to $82.4 billion from $64 billion, while Nike, Starbucks and Tesla struggled there. Operating income rose about 10% to roughly $35.66 billion despite soaring memory and storage costs, which have risen triple digits since the AI boom. Apple generated $145 billion of operating cash flow over twelve months against barely $9 billion of capex, and spent $86 billion buying back stock, keeping an asset-light model (net plant and equipment just $52 billion, versus almost $80 billion of quarterly spend at Amazon). Yet the shares were already up over 20% in 2026 at a forward PE above 34, and his DCF value is $204 against $338 going into results. Call: AAPL — HOLD (reiterated from 12 October) — excellent performance, still overvalued, wait for a better entry. Auto-captions garble the sponsor name and one operating-income figure.",
+ "calls": [
+  {
+   "video_id": "vVsjMofRjqs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Apple Stock a Buy After Earnings? | AAPL Stock Analysis",
+   "published_at": "2026-11-03T21:58:26.168395+00:00",
+   "ticker": "AAPL",
+   "direction": "HOLD",
+   "price_at_call": "DCF fair value $204 vs market $338 going into results; forward PE over 34",
+   "thesis": "HOLD reiterated (was HOLD 12 Oct, FV $195 vs $336) — not a buying opportunity after the post-earnings dip: excellent quarter but still overvalued; wait for a better price to enter.",
+   "base_case": "Strong fundamentals continue: iPhone sales $57.6B (vs $49B), China sales $17.5B (vs $14.5B), operating income +$3.2B YoY to ~$35.66B (+~10%).",
+   "bull_case": "iPhone Duo sold out, delivery wait to mid-January; cycle sales may beat 10M-unit estimates at a higher average selling price.",
+   "bear_case": "Valuation rich after +20% YTD: forward PE over 34 and DCF $204 vs $338; soaring memory/storage costs (triple-digit rises since the AI boom) pressure device margins.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-03T23:04:54.552469+00:00",
+   "collab": false
+  }
+ ]
+}
