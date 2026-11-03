@@ -3,6 +3,24 @@
  "slug": "AAPL",
  "calls": [
   {
+   "video_id": "vVsjMofRjqs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Apple Stock a Buy After Earnings? | AAPL Stock Analysis",
+   "published_at": "2026-11-03T21:58:26.168395+00:00",
+   "ticker": "AAPL",
+   "direction": "HOLD",
+   "price_at_call": "DCF fair value $204 vs market $338 going into results; forward PE over 34",
+   "thesis": "HOLD reiterated (was HOLD 12 Oct, FV $195 vs $336) — not a buying opportunity after the post-earnings dip: excellent quarter but still overvalued; wait for a better price to enter.",
+   "base_case": "Strong fundamentals continue: iPhone sales $57.6B (vs $49B), China sales $17.5B (vs $14.5B), operating income +$3.2B YoY to ~$35.66B (+~10%).",
+   "bull_case": "iPhone Duo sold out, delivery wait to mid-January; cycle sales may beat 10M-unit estimates at a higher average selling price.",
+   "bear_case": "Valuation rich after +20% YTD: forward PE over 34 and DCF $204 vs $338; soaring memory/storage costs (triple-digit rises since the AI boom) pressure device margins.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-03T23:04:54.552469+00:00",
+   "collab": false
+  },
+  {
    "video_id": "eaSWGeFsxD0",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -39,7 +57,7 @@
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
