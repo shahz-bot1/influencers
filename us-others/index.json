@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T05:01:02.409550+00:00",
+ "updated": "2026-11-03T05:02:42.170585+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -941,19 +941,19 @@
   {
    "ticker": "HIMS",
    "slug": "HIMS",
-   "lastDate": "2026-10-10T03:56:54.429840+00:00",
+   "lastDate": "2026-11-03T05:30:00+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$81"
+     "avg": "$6.4"
     }
    ],
    "influencers": [
     "Asymmetric Investing"
    ],
-   "lastStated": "forward P/E 81 (not yet profitable)",
-   "nCalls": 1
+   "lastStated": "~$6.4B market cap; ~$2.6B revenue, H2 2026 guidance +50% YoY",
+   "nCalls": 2
   },
   {
    "ticker": "HOOD",
@@ -1608,8 +1608,13 @@
   {
    "ticker": "PLTR",
    "slug": "PLTR",
-   "lastDate": "2026-10-22T03:59:30.269037+00:00",
+   "lastDate": "2026-11-03T05:30:00+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$495"
+    },
     {
      "dir": "CONDITIONAL_BUY",
      "n": 1,
@@ -1617,10 +1622,11 @@
     }
    ],
    "influencers": [
+    "Tom Nash",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "His buy zone $150-$160; analyst average target $212 (~13% upside), low target $8",
-   "nCalls": 2
+   "lastStated": "Bear $495 (now his floor), base $717, bull $978, headline target $1,000 (~431% u",
+   "nCalls": 3
   },
   {
    "ticker": "PTON",
@@ -2039,12 +2045,12 @@
   {
    "ticker": "UBER",
    "slug": "UBER",
-   "lastDate": "2026-10-09T04:01:30.944983+00:00",
+   "lastDate": "2026-11-03T05:30:00+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$15"
     },
     {
      "dir": "AVOID",
@@ -2056,8 +2062,8 @@
     "Asymmetric Investing",
     "Sven Carlin"
    ],
-   "lastStated": "",
-   "nCalls": 2
+   "lastStated": "~15x trailing P/E, ~14x P/FCF; $137B market cap",
+   "nCalls": 3
   },
   {
    "ticker": "USB",
@@ -2190,8 +2196,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 25,
-   "nVideos": 9
+   "nCalls": 27,
+   "nVideos": 11
   },
   {
    "name": "Brian Feroldi",
@@ -2246,8 +2252,8 @@
    "name": "Tom Nash",
    "handle": "@TomNashTV",
    "slug": "Tom_Nash",
-   "nCalls": 3,
-   "nVideos": 5
+   "nCalls": 4,
+   "nVideos": 6
   },
   {
    "name": "UNRIVALEDD INVESTING",
@@ -2258,6 +2264,36 @@
   }
  ],
  "videos": [
+  {
+   "id": "CILREIdG9Sw",
+   "title": "My Top Stock to Buy in November",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-11-02T17:55:42.113720+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "zBkrl2oASXw",
+   "title": "Palantir Could Hit $1,000 (But ONLY If This Happens TODAY)",
+   "creator": "Tom Nash",
+   "channels": [
+    "Tom Nash"
+   ],
+   "published_at": "2026-11-02T16:55:42.113720+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "5YD-cDrHC2I",
+   "title": "Why Hims & Hers Could 100X Your Money",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-11-02T16:55:42.113720+00:00",
+   "nCalls": 1
+  },
   {
    "id": "LBnuDhoHKgs",
    "title": "AMD Earnings Could Shock Wall Street — 5 AI Stocks to Watch!!",
