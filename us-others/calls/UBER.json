@@ -3,6 +3,19 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "CILREIdG9Sw",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (prior BUY 9 Oct): his top stock for November and a November Asymmetric Portfolio buy. Valuation compelling at ~15x trailing P/E and ~14x price-to-free-cash-flow, with >$10B trailing free cash flow on a $137B market cap, monthly active platform customers compounding 15% since Sep 2023, and revenue compounding near 20%. Autonomy is not a disruption threat: Uber's modular partner model (Waymo, Baidu Apollo, Pony.ai, Wave, Avride) makes it the demand/network layer across 15 cities by end-2026, with Costco nationwide delivery via Uber Eats widening the network.",
+   "price_at_call": "~15x trailing P/E, ~14x P/FCF; $137B market cap",
+   "base_case": "Business keeps compounding, sentiment flips, multiples expand over time.",
+   "bull_case": "Multiples could double over 10 years on top of business compounding, with a business 10x bigger in a decade.",
+   "bear_case": "Autonomous-only services (Waymo, Tesla) take share; revenue-recognition changes (UK) make reported growth look slower until comparables catch up in 2027.",
+   "analyzed_at": "2026-11-03T05:30:00+00:00"
+  },
+  {
    "video_id": "RL8-R7QY7jU",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -36,7 +49,7 @@
   },
   {
    "channel": "Sven Carlin",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
