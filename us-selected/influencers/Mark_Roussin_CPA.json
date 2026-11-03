@@ -4,6 +4,22 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-03T14:30:37.491162+00:00",
+   "price": "Forward PE 24x vs 5-year average 46x; forward EV/EBITDA ~10x, near historic lows",
+   "video_id": "CrrqicN_Kbo"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "HOLD",
+   "date": "2026-11-03T14:30:37.491162+00:00",
+   "price": null,
+   "video_id": "CrrqicN_Kbo"
+  },
+  {
    "ticker": "MELI",
    "tickerSlug": "MELI",
    "direction": "BUY",
