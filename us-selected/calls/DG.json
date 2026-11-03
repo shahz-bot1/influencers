@@ -1,0 +1,30 @@
+{
+ "ticker": "DG",
+ "slug": "DG",
+ "calls": [
+  {
+   "video_id": "Xn3w01P-UV0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "People Making Over $100,000 Per Year are Acting Like They are Living Paycheck to Paycheck",
+   "published_at": "2026-10-30T06:55:16.372093+00:00",
+   "analyzed_at": "2026-11-03T19:04:33.898537+00:00",
+   "ticker": "DG",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF fair value $165 vs current $126",
+   "thesis": "Reiterates his 7 Apr buying-opportunity ranking (low conviction): stretched consumers, even $100k+ households shopping paycheck-to-paycheck, favour Dollar General, and margins are improving (4% to 5.6%, guide 6-8%).",
+   "base_case": "DCF $165 vs $126 — undervalued on his valuation.",
+   "bull_case": "Shrink/theft reduction and store investment lift margins toward the 6-8% guide.",
+   "bear_case": "He takes the under on analysts' 11.4% EPS growth (expects 7-9%): low-single-digit revenue growth industry, and he doubts management executes the turnaround.",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
