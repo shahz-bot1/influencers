@@ -293,6 +293,18 @@
    "analyzed_at": "2026-09-27T19:00:00+01:00",
    "stance_flip": null,
    "video_title": "I Just Bought $15,000 of a New Stock"
+  },
+  {
+   "video_id": "80cKV5-eGl4",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "stated_price": "FV ~$100 (vs $62, ~60% upside)",
+   "thesis": "Dramatically underpriced; has continued adding and calls it a great opportunity; narrative repricing could restore a 25x multiple quickly.",
+   "base_case": "A couple of confident quarters reprice it toward $100",
+   "bull_case": "Was $115 a year ago and $17 in April — $100 is a previously traded level",
+   "bear_case": "Could fall to $40 on continued slowdown/deceleration"
   }
  ],
  "byInf": [
