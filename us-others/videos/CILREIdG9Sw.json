@@ -1,0 +1,23 @@
+{
+ "video_id": "CILREIdG9Sw",
+ "title": "My Top Stock to Buy in November",
+ "creator": "Asymmetric Investing",
+ "handle": "@asymmetricinvesting",
+ "published_at": "2026-11-02T17:55:42.113720+00:00",
+ "summary": "Travis Hornsby of Asymmetric Investing names Uber his top stock for November, one of four stocks bought for the Asymmetric Portfolio that month (he notes he also sold one stock, with details in the newsletter). The thesis is that Uber is overlooked and mispriced on disruption fears: trailing P/E of only about 15 and price-to-free-cash-flow of about 14, with over $10B of trailing free cash flow on a $137B market cap, monthly active platform customers compounding 15% since September 2023, trips growing faster than customers, and gross bookings still rising. Reported revenue growth looks slower because of UK revenue-recognition changes (gross bookings versus net revenue), which he expects to wash through by 2027. The bulk of the video rebuts the autonomy disruption story: rather than vertically integrating, Uber is the demand/network layer working with many suppliers, citing September-October announcements with Avride in Spain, Wave in the UK, Baidu Apollo in Dubai, and Pony.ai in Europe (over 2,000 robotaxis planned), with seven cities live and eight more launching by end-2026, doubling in 2027. He also notes Costco's nationwide delivery expansion via Uber Eats. Calls: UBER BUY (reiterated from 9 October), bought for the November portfolio, with a long-term view of a business potentially 10x bigger in a decade and multiples that could double over 10 years. Other tickers discussed without new calls: Alphabet/Waymo (he owns Alphabet) and Tesla (seen as slower to expand on vision-only). Caption garbles partner names (Avride, Pony.ai) but the Uber figures are clear.",
+ "calls": [
+  {
+   "video_id": "CILREIdG9Sw",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (prior BUY 9 Oct): his top stock for November and a November Asymmetric Portfolio buy. Valuation compelling at ~15x trailing P/E and ~14x price-to-free-cash-flow, with >$10B trailing free cash flow on a $137B market cap, monthly active platform customers compounding 15% since Sep 2023, and revenue compounding near 20%. Autonomy is not a disruption threat: Uber's modular partner model (Waymo, Baidu Apollo, Pony.ai, Wave, Avride) makes it the demand/network layer across 15 cities by end-2026, with Costco nationwide delivery via Uber Eats widening the network.",
+   "price_at_call": "~15x trailing P/E, ~14x P/FCF; $137B market cap",
+   "base_case": "Business keeps compounding, sentiment flips, multiples expand over time.",
+   "bull_case": "Multiples could double over 10 years on top of business compounding, with a business 10x bigger in a decade.",
+   "bear_case": "Autonomous-only services (Waymo, Tesla) take share; revenue-recognition changes (UK) make reported growth look slower until comparables catch up in 2027.",
+   "analyzed_at": "2026-11-03T05:30:00+00:00"
+  }
+ ]
+}
