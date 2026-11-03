@@ -1,0 +1,28 @@
+{
+ "video_id": "D96KGS5Ycgg",
+ "title": "Interesting Update for Robinhood Stock Investors | HOOD Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-01T06:55:16.372093+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc asks whether Robinhood is finally a buying opportunity on the dip after a year in which his all-year stance — not a buying opportunity — has proved right, with the shares down over 19% year to date in 2026. Third-quarter revenue rose 12% year on year, with record trading in stocks, options and prediction markets; prediction-market revenue rose more than 500% year on year, and $250 million of customer accounts are already allocated to agentic trading. He frames Robinhood as deeply cyclical: rising markets bring deposits, new accounts and trading, while falling markets and falling crypto prices reverse all of it — crypto trading revenue plunged 55% to $120 million as activity tracked Bitcoin's 2026 drop. Analysts expect about 20% EPS growth over the next several years, which he calls reasonable given new accounts and rising engagement, and agentic AI could lift trading frequency further, which is good for Robinhood's transaction revenue but not necessarily for investors who over-trade. Despite the growth, the $91.60 price already reflects those prospects and more against his $58 fair value. Call: HOOD — HOLD (reiterated, first tracked call) — not a buying opportunity yet. He also announces a book setting out his six-step investing framework.",
+ "calls": [
+  {
+   "video_id": "D96KGS5Ycgg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Interesting Update for Robinhood Stock Investors | HOOD Stock Analysis",
+   "published_at": "2026-11-01T06:55:16.372093+00:00",
+   "analyzed_at": "2026-11-03T19:04:33.898537+00:00",
+   "ticker": "HOOD",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$91.60 current; fair value $58",
+   "thesis": "Reiterates his hold: not a buying opportunity yet — record trading and prediction markets (+500%) show growth, but at $91.60 the price already reflects those prospects and more.",
+   "base_case": "Fair value $58 vs $91.60 — overvalued; 20% EPS growth over coming years looks reasonable.",
+   "bull_case": "Agentic trading ($250M already allocated) and new features keep engagement and account growth rising.",
+   "bear_case": "Cyclical: crypto revenue plunged 55% to $120M as activity tracked Bitcoin's 2026 drop, and trading collapses when markets fall.",
+   "collab": false
+  }
+ ]
+}
