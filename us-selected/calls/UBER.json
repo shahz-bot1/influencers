@@ -120,6 +120,18 @@
    "bear": "Waymo/Tesla dominate AVs; regulatory shocks.",
    "collab_byline": "Investing Moats with Varun and Couch Investor",
    "published_at": "2026-07-01T14:30:34+00:00"
+  },
+  {
+   "video_id": "80cKV5-eGl4",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "UBER",
+   "direction": "CONDITIONAL_BUY",
+   "stated_price": "FV $90 (vs $66, ~33% upside)",
+   "thesis": "Wants to add and sees really good value, but will likely wait until this week's earnings before adding (maybe half before/half after). Softening from BUY (5 Oct).",
+   "base_case": "Adds after earnings if report supports it",
+   "bull_case": null,
+   "bear_case": "Earnings could raise investor concern and push price down"
   }
  ],
  "byInf": [
