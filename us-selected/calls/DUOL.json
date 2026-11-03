@@ -15,12 +15,28 @@
    "bull_case": "Management pivoting to customer acquisition; targeting 100M DAUs in next couple years; ROIC 30% (>2x WACC), could rebound if acquisition pays off.",
    "bear_case": "AI and big-tech language offerings reducing need to learn languages; freemium push comes at expense of monetization and may compress record 14.2% operating margins.",
    "analyzed_at": "2026-09-28T18:01:07.968666+00:00"
+  },
+  {
+   "video_id": "80cKV5-eGl4",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "DUOL",
+   "direction": "HOLD",
+   "stated_price": "FV ~$200 (vs $135, with caution)",
+   "thesis": "First tracked: fair value cut from previous as growth slowed and monetization traded for user growth; earnings tomorrow could move it either way.",
+   "base_case": "$200 with great caution pending earnings",
+   "bull_case": "User growth encouraging",
+   "bear_case": "Earnings tomorrow could cut fair value further"
   }
  ],
  "byInf": [
   {
    "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 1
   }
  ]
 }
