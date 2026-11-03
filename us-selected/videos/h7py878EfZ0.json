@@ -1,0 +1,46 @@
+{
+ "video_id": "h7py878EfZ0",
+ "title": "Get READY for Election Week Chaos (3 Stocks That Win Anyway)",
+ "creator": "MarketBeat",
+ "published_at": "2026-11-01",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "MarketBeat analyst Chris Marcotte pitches three green-energy names as buys that win regardless of the election outcome, arguing the story is now demand-driven, not policy-driven. Investors wrongly treat green energy as subsidy-dependent, he says; the real driver is hyperscalers and neo-clouds struggling to power data centres efficiently without harming local communities, and companies solving that problem today benefit. Nuclear is explicitly excluded — it may have its day, but not now. Bloom Energy (BE) sells on-site fuel cells solving data centres' power problem today: a third-quarter beat ($0.94 versus $0.69 expected, revenue $1.24 billion versus $1.07 billion), now GAAP-profitable, and he would not exit after a 20% pullback despite a 161% year-to-date gain. Ecolab (ECL) serves data-centre water and liquid-cooling needs: third-quarter organic sales up 13%, EPS $2.18 (up 5%), a consensus target implying over 10% upside, and a 33-year dividend record ($2.92 per year). Brookfield Renewable (BEP) offers hydro, wind, solar and storage breadth, a 10,500 MW framework deal with Microsoft plus about 3,000 MW of hydro with Alphabet, and a 5.39% yield ($1.57 per year) under $30 — with a note that its MLP structure means extra tax forms. Calls: BE — BUY (reiterated), ECL — BUY (first tracked), BEP — BUY (first tracked).",
+ "calls": [
+  {
+   "video_id": "h7py878EfZ0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "BE",
+   "direction": "BUY",
+   "stated_price": null,
+   "thesis": "On-site fuel cells solving data centers' power problem today; Q3 beat ($0.94 vs $0.69 est, revenue $1.24B vs $1.07B est); now GAAP-profitable; would not exit after 20% pullback despite +161% YTD.",
+   "base_case": "Demand story, not policy-driven; hyperscalers keep buying on-site power",
+   "bull_case": "Earnings keep beating; institutions (77% ownership) still catching up",
+   "bear_case": "Premium PE after huge run; data centers may not get built"
+  },
+  {
+   "video_id": "h7py878EfZ0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "ECL",
+   "direction": "BUY",
+   "stated_price": null,
+   "thesis": "Data centers need water + liquid cooling; Q3 organic sales +13%, EPS $2.18 (+5%); consensus target implies >10% upside; 33-year dividend grower ($2.92/yr) — paid to wait.",
+   "base_case": "Steady growth plus dividend while data-center demand builds",
+   "bull_case": "Analysts raising targets above consensus since earnings",
+   "bear_case": "~35x is very high for Ecolab; growth may not justify valuation"
+  },
+  {
+   "video_id": "h7py878EfZ0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "BEP",
+   "direction": "BUY",
+   "stated_price": null,
+   "thesis": "Hydro/wind/solar/storage breadth; 10,500 MW framework deal with Microsoft + ~3,000 MW hydro deal with Alphabet; 5.39% yield ($1.57/yr) under $30; note MLP tax forms.",
+   "base_case": "Data-center deals deliver ~10,000 MW/yr of new projects from next year",
+   "bull_case": "Hyperscaler capex still rising; demand story intact",
+   "bear_case": "Down >20% over 5 years; anti-data-center push or oil/gas preference could remove catalyst"
+  }
+ ]
+}
