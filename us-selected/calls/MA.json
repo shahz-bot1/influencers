@@ -32,6 +32,18 @@
    "analyzed_at": "2026-09-25T22:06:06.990084+00:00",
    "flip": false,
    "backfilled": "15:00 intraday digest had MA HOLD but calls.json was missing it; added in 23:00 run"
+  },
+  {
+   "video_id": "80cKV5-eGl4",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "MA",
+   "direction": "HOLD",
+   "stated_price": "FV ~$700 (vs $659, ~6% upside)",
+   "thesis": "Explicit hold: back to normalized PE (~30x forward); record profits, moat wide as ever; only modest upside left.",
+   "base_case": "Trades to ~$700 fair value",
+   "bull_case": null,
+   "bear_case": "Temptation to take gains after resurgence from mid-2026 lows"
   }
  ],
  "byInf": [
