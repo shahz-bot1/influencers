@@ -1,0 +1,23 @@
+{
+ "video_id": "zBkrl2oASXw",
+ "title": "Palantir Could Hit $1,000 (But ONLY If This Happens TODAY)",
+ "creator": "Tom Nash",
+ "handle": "@TomNashTV",
+ "published_at": "2026-11-02T16:55:42.113720+00:00",
+ "summary": "Tom Nash previews Palantir's earnings (due today, 3 November in the video's framing) and reveals a new price target. He grades the business A+: net dollar retention of 157, the highest in the market, 93% year-over-year revenue growth, 240% operating growth, 57% cash growth, $4.5B of 2025 revenue and $6.2B over the past 12 months, yet the stock is down 11% over 12 months and forward P/E has compressed from 76 to 53. The core argument is that the stock is priced for perfection, so only a triple beat lifts it short term: beat official guidance of $2.164B (+83%), beat consensus of $2.18B and $0.41 EPS, and accelerate past the prior quarter's 93% growth, which he puts at $2.28B; anything less likely means a 5-15% dip. He cites a 98/100 score on his Stock MVP scorecard. Risks flagged are client concentration, over 85% US revenue with little European presence, and stock-based compensation at 13.7% of revenue. Earnings watch items include US commercial revenue of $950M, Q4 guidance of $2.5B, US commercial total contract value of $2.13B and remaining deal value of $6.24B. Calls: PLTR BUY, explicitly buying now, with a bear case of $495 (now his floor, ~170% upside), base case $717 and bull case $978, headline target $1,000 (~431% upside). He advises viewers not to buy or sell into earnings and to keep dollar-cost averaging. Captions garble Palantir in many spellings, but figures are consistent throughout.",
+ "calls": [
+  {
+   "video_id": "zBkrl2oASXw",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "thesis": "First explicit PLTR call (prior 2 Oct entry was a passing mention only, UNCERTAIN). Says he is buying it now: business graded A+ with 157 net dollar retention, 93% revenue growth, 57% cash growth and forward P/E down 76 to 53, yet stock down 11% over 12 months. Short-term spike after earnings needs a triple beat only: beat guidance ($2.164B), beat consensus ($2.18B, $0.41 EPS) and accelerate past prior quarter's 93% growth (needs $2.28B); otherwise a 5-15% dip is likely, but long-term holders should focus on fundamentals, not the print, and not buy/sell into earnings.",
+   "price_at_call": "Bear $495 (now his floor), base $717, bull $978, headline target $1,000 (~431% upside)",
+   "base_case": "Declining growth (95/90/85/80%), 42% net margin, 45x P/E gives $717.",
+   "bull_case": "Same growth pattern, 46% net margin, 55x P/E in 2030 gives $978, rounded to $1,000 target.",
+   "bear_case": "Bear case is now $495 on declining growth, 38% net margin, 35x P/E (~170% upside); risks flagged are client concentration, >85% US revenue with little European presence, and 13.7% of revenue to stock-based compensation.",
+   "analyzed_at": "2026-11-03T05:30:00+00:00"
+  }
+ ]
+}
