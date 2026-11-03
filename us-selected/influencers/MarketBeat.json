@@ -794,6 +794,30 @@
    "date": "",
    "price": null,
    "video_id": "QoCLjUVDRDU"
+  },
+  {
+   "ticker": "BE",
+   "tickerSlug": "BE",
+   "direction": "BUY",
+   "date": "",
+   "price": null,
+   "video_id": "h7py878EfZ0"
+  },
+  {
+   "ticker": "ECL",
+   "tickerSlug": "ECL",
+   "direction": "BUY",
+   "date": "",
+   "price": null,
+   "video_id": "h7py878EfZ0"
+  },
+  {
+   "ticker": "BEP",
+   "tickerSlug": "BEP",
+   "direction": "BUY",
+   "date": "",
+   "price": null,
+   "video_id": "h7py878EfZ0"
   }
  ]
 }
