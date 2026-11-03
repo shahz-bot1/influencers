@@ -19,6 +19,18 @@
    "base_case": "A predictable compounder: looking out 10 years the company is still in a great position and should deliver very attractive returns.",
    "bull_case": "Its unique, trusted data becomes paramount as businesses integrate it via APIs, entrenching the franchise.",
    "bear_case": "He 'just doesn't see the weaknesses the market is concerned about' — i.e. the market is pricing concerns he does not share; no specific bear case given."
+  },
+  {
+   "video_id": "80cKV5-eGl4",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "MCO",
+   "direction": "HOLD",
+   "stated_price": "FV ~$500 (~fair value, 1-2% overvalued)",
+   "thesis": "Explicitly holding off: valuation gap closed after recovery from $400 earlier this year; 28x forward PE. FLIP: was BUY (20 Oct).",
+   "base_case": "Stays around fair value",
+   "bull_case": null,
+   "bear_case": "Recent price spike removed the buying opportunity"
   }
  ],
  "byInf": [
