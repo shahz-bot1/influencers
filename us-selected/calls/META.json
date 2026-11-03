@@ -259,6 +259,18 @@
    "bear": "Scattershot spending; management headlines.",
    "collab_byline": "Investing Moats with Varun and Couch Investor",
    "published_at": "2026-07-01T14:30:34+00:00"
+  },
+  {
+   "video_id": "80cKV5-eGl4",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "META",
+   "direction": "HOLD",
+   "stated_price": "FV ~$850 (~40% upside)",
+   "thesis": "Deeply undervalued on 10-yr cash flow; Muse adoption widespread; not adding — already 11%+ weight.",
+   "base_case": "Trades to ~$850 (~26x forward PE, reasonable for its growth)",
+   "bull_case": null,
+   "bear_case": "Capex pain period while building server farms"
   }
  ],
  "byInf": [
