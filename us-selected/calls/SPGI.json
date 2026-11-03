@@ -44,6 +44,18 @@
    "bull_case": "ETF-linked AUM $3T-> $6T; strong economics at a low multiple.",
    "bear_case": "Stock can always go lower; rising rates temporarily slow debt issuance.",
    "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  },
+  {
+   "video_id": "80cKV5-eGl4",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "SPGI",
+   "direction": "HOLD",
+   "stated_price": "FV ~$550 (vs $475, ~16% upside)",
+   "thesis": "Holding 5th-largest position; upside as agentic-AI fears fade and multiple expands; not adding at current price. FLIP: was BUY (added $1,000 on 5 Oct).",
+   "base_case": "Multiple expands to 25-26x forward PE",
+   "bull_case": null,
+   "bear_case": "Agentic-tech disruption fears persist"
   }
  ],
  "byInf": [
