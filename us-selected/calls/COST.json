@@ -74,6 +74,18 @@
    "base_case": "DCF $843 vs market $897 — within margin of safety; 9% US comp sales (Aug), 17.9% digital growth, 90%+ membership renewal, 22.6% ROIC.",
    "bull_case": "Earnings beat reignites the premium multiple; compounding at near-historic low relative valuation.",
    "bear_case": "Valuation still 36x forward; a soft quarter on Sep 24 extends the de-rating despite quality."
+  },
+  {
+   "video_id": "80cKV5-eGl4",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "COST",
+   "direction": "HOLD",
+   "stated_price": "FV ~$800 (vs $1,000, ~22% overvalued)",
+   "thesis": "Overvalued even on a generous fair value, but very slow to sell; any weakness could compress the 45-46x multiple.",
+   "base_case": "Multiple compresses toward high-30s PE",
+   "bull_case": null,
+   "bear_case": "Premium 'indestructible' pricing vulnerable to any soft category"
   }
  ],
  "byInf": [
