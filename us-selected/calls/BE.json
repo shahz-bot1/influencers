@@ -48,6 +48,18 @@
    "base_case": "Rebounds to retest and set new highs",
    "bull_case": "Volume-backed rebound, hot MACD convergence",
    "bear_case": "Big industrials could eventually compete; must meet demand/backlog"
+  },
+  {
+   "video_id": "h7py878EfZ0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "BE",
+   "direction": "BUY",
+   "stated_price": null,
+   "thesis": "On-site fuel cells solving data centers' power problem today; Q3 beat ($0.94 vs $0.69 est, revenue $1.24B vs $1.07B est); now GAAP-profitable; would not exit after 20% pullback despite +161% YTD.",
+   "base_case": "Demand story, not policy-driven; hyperscalers keep buying on-site power",
+   "bull_case": "Earnings keep beating; institutions (77% ownership) still catching up",
+   "bear_case": "Premium PE after huge run; data centers may not get built"
   }
  ],
  "byInf": [
