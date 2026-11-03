@@ -4,6 +4,22 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "AAPL",
+   "tickerSlug": "AAPL",
+   "direction": "HOLD",
+   "date": "2026-11-03T21:58:26.168395+00:00",
+   "price": "DCF fair value $204 vs market $338 going into results; forward PE over 34",
+   "video_id": "vVsjMofRjqs"
+  },
+  {
+   "ticker": "DOCU",
+   "tickerSlug": "DOCU",
+   "direction": "BUY",
+   "date": "2026-11-03T18:00:13.492760+00:00",
+   "price": "DCF fair value $101 vs market $83; forward PE 15.9",
+   "video_id": "rar74ORyw3w"
+  },
+  {
    "ticker": "DKNG",
    "tickerSlug": "DKNG",
    "direction": "BUY",
@@ -180,6 +196,14 @@
    "video_id": "dDoG3M0z_c0"
   },
   {
+   "ticker": "HOOD",
+   "tickerSlug": "HOOD",
+   "direction": "HOLD",
+   "date": "2026-11-01T06:55:16.372093+00:00",
+   "price": "$91.60 current; fair value $58",
+   "video_id": "D96KGS5Ycgg"
+  },
+  {
    "ticker": "RIVN",
    "tickerSlug": "RIVN",
    "direction": "BUY",
@@ -274,6 +298,14 @@
    "date": "2026-10-30T11:55:39.676815+00:00",
    "price": null,
    "video_id": "6EAT85y5dtM"
+  },
+  {
+   "ticker": "DG",
+   "tickerSlug": "DG",
+   "direction": "BUY",
+   "date": "2026-10-30T06:55:16.372093+00:00",
+   "price": "DCF fair value $165 vs current $126",
+   "video_id": "Xn3w01P-UV0"
   },
   {
    "ticker": "APP",
