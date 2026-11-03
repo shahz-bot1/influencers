@@ -1,0 +1,24 @@
+{
+ "ticker": "ECL",
+ "slug": "ECL",
+ "calls": [
+  {
+   "video_id": "h7py878EfZ0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "ECL",
+   "direction": "BUY",
+   "stated_price": null,
+   "thesis": "Data centers need water + liquid cooling; Q3 organic sales +13%, EPS $2.18 (+5%); consensus target implies >10% upside; 33-year dividend grower ($2.92/yr) — paid to wait.",
+   "base_case": "Steady growth plus dividend while data-center demand builds",
+   "bull_case": "Analysts raising targets above consensus since earnings",
+   "bear_case": "~35x is very high for Ecolab; growth may not justify valuation"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
