@@ -15,6 +15,18 @@
    "bull_case": "When beef prices fall, net income rebounds sharply; customer trust preserved via stable pricing.",
    "bear_case": null,
    "analyzed_at": "2026-09-28T22:02:12.212482+00:00"
+  },
+  {
+   "video_id": "80cKV5-eGl4",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "TXRH",
+   "direction": "HOLD",
+   "stated_price": "FV ~$200 (vs $186, ~5-6% undervalued)",
+   "thesis": "Fantastic company navigating beef/commodity inflation better than rivals; weekly sales $177k vs <$100k when first bought; no massive disconnect. FLIP: was BUY (28 Sep).",
+   "base_case": "Trades toward $200",
+   "bull_case": null,
+   "bear_case": "Beef pricing and commodity inflation pressure"
   }
  ],
  "byInf": [
