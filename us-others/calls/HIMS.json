@@ -3,6 +3,19 @@
  "slug": "HIMS",
  "calls": [
   {
+   "video_id": "5YD-cDrHC2I",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "HIMS",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (prior BUY 10 Oct): calls Hims & Hers extremely undervalued and a potential 100x over 10-20 years, despite the stock down 38% over the past year and 8.2% in the past month. Five reasons: a huge US pharma market ($400-800B), market leadership (51% of observed telehealth sales, 48.5% of customers vs Ro/Roman ~23-25%), expanding specialties (dermatology, mental health, hormone health, weight loss, now testosterone/TRT), international expansion (Germany, Canada, Australia via Eucalyptus, Japan potential), and peptides as a new leg (in-house compounding facility, HHS draft interim policy opening BPC-157/TB500, modelled at $180M at 100k subscribers, $1.8B at 1M).",
+   "price_at_call": "~$6.4B market cap; ~$2.6B revenue, H2 2026 guidance +50% YoY",
+   "base_case": "Revenue grows toward $5-6B in a couple of years on peptides plus organic/GLP-1 momentum, justifying a much higher multiple than near-1x sales.",
+   "bull_case": "100x over 10-20 years if it becomes a top-2/3 player in a massive disrupted market.",
+   "bear_case": "International expansion adds execution risk for management; peptides still need final rules written; Q3 earnings due 9 Nov are the near-term catalyst.",
+   "analyzed_at": "2026-11-03T05:30:00+00:00"
+  },
+  {
    "video_id": "6scmMOSLPM4",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
