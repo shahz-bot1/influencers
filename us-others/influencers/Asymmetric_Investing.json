@@ -4,6 +4,22 @@
  "slug": "Asymmetric_Investing",
  "calls": [
   {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-11-03T05:30:00+00:00",
+   "price": "~15x trailing P/E, ~14x P/FCF; $137B market cap",
+   "video_id": "CILREIdG9Sw"
+  },
+  {
+   "ticker": "HIMS",
+   "tickerSlug": "HIMS",
+   "direction": "BUY",
+   "date": "2026-11-03T05:30:00+00:00",
+   "price": "~$6.4B market cap; ~$2.6B revenue, H2 2026 guidance +50% YoY",
+   "video_id": "5YD-cDrHC2I"
+  },
+  {
    "ticker": "GOOGL",
    "tickerSlug": "GOOGL",
    "direction": "HOLD",
