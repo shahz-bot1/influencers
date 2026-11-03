@@ -4,6 +4,14 @@
  "slug": "Tom_Nash",
  "calls": [
   {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-11-03T05:30:00+00:00",
+   "price": "Bear $495 (now his floor), base $717, bull $978, headline target $1,000 (~431% upside)",
+   "video_id": "zBkrl2oASXw"
+  },
+  {
    "ticker": "ARM",
    "tickerSlug": "ARM",
    "direction": "BUY",
