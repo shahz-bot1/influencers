@@ -3,6 +3,24 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "CrrqicN_Kbo",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Time to DOUBLE UP on Amazon?",
+   "published_at": "2026-11-03T14:30:37.491162+00:00",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "price_at_call": null,
+   "thesis": "HOLD reiterated (no flip; was HOLD 29 Oct) — not selling his largest holding, but prefers Amazon for his next invested dollar after Alphabet ad revenue missed expectations a second quarter running.",
+   "base_case": "Search, YouTube, Cloud and Android remain valuable businesses; cloud was strong.",
+   "bull_case": "",
+   "bear_case": "AI may disrupt its most profitable ad business while Amazon uses AI to expand existing profit pools.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-03T14:57:11.113486+00:00",
+   "collab": false
+  },
+  {
    "video_id": "qoGPMSRR4TI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -368,32 +386,44 @@
    "bear": "Regulatory risk looms.",
    "collab_byline": "BWB - Business With Brian and Dividendology",
    "published_at": "2025-08-14T14:45:01+00:00"
+  },
+  {
+   "video_id": "80cKV5-eGl4",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "stated_price": "FV $350 (~20+% upside)",
+   "thesis": "Undervalued but not adding (concentration); must still prove ad revenue holds up against AI agents.",
+   "base_case": "Reprices toward $350",
+   "bull_case": null,
+   "bear_case": "AI-search pressure for quarters; ad-revenue proof still pending"
   }
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "MarketBeat",
    "idx": 2
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 3
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 4
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
