@@ -1,0 +1,46 @@
+{
+ "video_id": "CrrqicN_Kbo",
+ "title": "Time to DOUBLE UP on Amazon?",
+ "creator": "Mark Roussin CPA",
+ "published_at": "2026-11-03T14:30:37.491162+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Mark Roussin CPA weighs doubling up on Amazon after third-quarter results that have him seriously considering adding more, then compares Amazon with Alphabet, his other large position, to decide where his next dollar goes. Amazon's revenue grew 12% year on year to over $200 billion in a quarter — without Prime Day, which moved to the second quarter this year versus the third last year — while operating income jumped about 61%, from $17.4 billion to $28.1 billion, for a record roughly 14% operating margin, the highest in company history. He credits prior investment cycles: Amazon has repeatedly spent heavily (e-commerce, delivery speed, cloud, now AI) and each time it has paid off. AWS is accelerating, with revenue up 39% year on year and growth guided above 40% into 2027-28, and custom Trainium chips plus inference growth add a new profit pool. Valuation looks cheap on his measures: forward PE 24x versus a five-year average of 46x, and forward EV/EBITDA near 10x, close to historic lows. The bear case is cash: free cash flow is deeply negative (about -$47 billion trailing twelve months) with roughly $220 billion of capex this year rising into 2027, so if AI spend does not pay off, valuation compresses. Alphabet, by contrast, is not being sold — it remains his largest holding — but ad revenue missed expectations for a second straight quarter, so Amazon gets his next dollar. Calls: AMZN — BUY (reiterated from 13 October), GOOGL — HOLD (reiterated from 29 October).",
+ "calls": [
+  {
+   "video_id": "CrrqicN_Kbo",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Time to DOUBLE UP on Amazon?",
+   "published_at": "2026-11-03T14:30:37.491162+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "Forward PE 24x vs 5-year average 46x; forward EV/EBITDA ~10x, near historic lows",
+   "thesis": "BUY reiterated (no flip; was BUY 13 Oct) — one of his most interesting adds, likely to add very soon and accumulate on dips; AWS accelerating (revenue +39% YoY, growth guided above 40% into 2027-28), operating income +61% with record ~14% margin.",
+   "base_case": "Operating leverage across AWS, retail and ads keeps expanding margins and funds AI spend.",
+   "bull_case": "AWS demand outstrips capacity; custom Trainium chips and inference growth add a new profit pool.",
+   "bear_case": "Free cash flow deeply negative (~-$47B TTM) with ~$220B capex this year rising into 2027; if AI spend does not pay off, valuation compresses.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-03T14:57:11.113486+00:00",
+   "collab": false
+  },
+  {
+   "video_id": "CrrqicN_Kbo",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Time to DOUBLE UP on Amazon?",
+   "published_at": "2026-11-03T14:30:37.491162+00:00",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "price_at_call": null,
+   "thesis": "HOLD reiterated (no flip; was HOLD 29 Oct) — not selling his largest holding, but prefers Amazon for his next invested dollar after Alphabet ad revenue missed expectations a second quarter running.",
+   "base_case": "Search, YouTube, Cloud and Android remain valuable businesses; cloud was strong.",
+   "bull_case": "",
+   "bear_case": "AI may disrupt its most profitable ad business while Amazon uses AI to expand existing profit pools.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-03T14:57:11.113486+00:00",
+   "collab": false
+  }
+ ]
+}
