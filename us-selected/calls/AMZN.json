@@ -3,6 +3,24 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "CrrqicN_Kbo",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Time to DOUBLE UP on Amazon?",
+   "published_at": "2026-11-03T14:30:37.491162+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "Forward PE 24x vs 5-year average 46x; forward EV/EBITDA ~10x, near historic lows",
+   "thesis": "BUY reiterated (no flip; was BUY 13 Oct) — one of his most interesting adds, likely to add very soon and accumulate on dips; AWS accelerating (revenue +39% YoY, growth guided above 40% into 2027-28), operating income +61% with record ~14% margin.",
+   "base_case": "Operating leverage across AWS, retail and ads keeps expanding margins and funds AI spend.",
+   "bull_case": "AWS demand outstrips capacity; custom Trainium chips and inference growth add a new profit pool.",
+   "bear_case": "Free cash flow deeply negative (~-$47B TTM) with ~$220B capex this year rising into 2027; if AI spend does not pay off, valuation compresses.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-03T14:57:11.113486+00:00",
+   "collab": false
+  },
+  {
    "video_id": "fbgsQde4kRU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -241,28 +259,40 @@
    "bear": "Tariffs will have impact but momentum holds.",
    "collab_byline": "BWB - Business With Brian and Dividendology",
    "published_at": "2025-08-14T14:45:01+00:00"
+  },
+  {
+   "video_id": "80cKV5-eGl4",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "ticker": "AMZN",
+   "direction": "HOLD",
+   "stated_price": "FV $350 (~40% upside)",
+   "thesis": "One of the best opportunities today and deeply undervalued, but not adding — already 2nd-largest position and ~60% of portfolio in 4-5 names.",
+   "base_case": "Reprices toward $350 on AWS/logistics strength",
+   "bull_case": null,
+   "bear_case": "Bear case incredibly weak per him; Q3 selloff was short-term noise"
   }
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 2
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 5
+   "channel": "BWB - Business With Brian",
+   "idx": 3
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 9
+   "idx": 10
   },
   {
    "channel": "Couch Investor",
-   "idx": 10
+   "idx": 11
   }
  ]
 }
