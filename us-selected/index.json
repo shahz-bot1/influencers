@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:10:28.394703+00:00",
+ "updated": "2026-11-04T23:11:49.480386+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -50,12 +50,12 @@
   {
    "ticker": "ADBE",
    "slug": "ADBE",
-   "lastDate": "2026-11-02T11:55:42.258763+00:00",
+   "lastDate": "2026-11-04T17:00:01.133208+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$349"
+     "avg": "$360"
     },
     {
      "dir": "HOLD",
@@ -67,8 +67,8 @@
     "Parkevtate Vosianc CFA",
     "Couch Investor"
    ],
-   "lastStated": "Fair value $349; current market price not extractable from captions (garbled)",
-   "nCalls": 3
+   "lastStated": "DCF fair value $360 (revised slightly higher from $349 on 2 Nov) vs market $251 ",
+   "nCalls": 4
   },
   {
    "ticker": "AEM",
@@ -2754,17 +2754,12 @@
   {
    "ticker": "PLTR",
    "slug": "PLTR",
-   "lastDate": "2026-10-29T11:55:41.645847+00:00",
+   "lastDate": "2026-11-04T12:55:52.880164+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 3,
-     "avg": "$59.5"
-    },
-    {
-     "dir": "HOLD",
-     "n": 1,
-     "avg": "$192"
+     "n": 4,
+     "avg": "$104.33"
     }
    ],
    "influencers": [
@@ -2773,8 +2768,8 @@
     "Couch Investor",
     "BWB - Business With Brian"
    ],
-   "lastStated": "Fair value $192 vs $199 market (stated fairly valued)",
-   "nCalls": 7
+   "lastStated": "DCF fair value just over $194 vs $173 after-hours ($178 into earnings)",
+   "nCalls": 8
   },
   {
    "ticker": "PSX",
@@ -4001,14 +3996,14 @@
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
    "nCalls": 82,
-   "nVideos": 64
+   "nVideos": 65
   },
   {
    "name": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
    "slug": "Joseph_Carlson_After_Hours",
    "nCalls": 42,
-   "nVideos": 10
+   "nVideos": 11
   },
   {
    "name": "Mark Roussin CPA",
@@ -4022,14 +4017,14 @@
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
    "nCalls": 102,
-   "nVideos": 41
+   "nVideos": 42
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 204,
-   "nVideos": 190
+   "nCalls": 206,
+   "nVideos": 194
   },
   {
    "name": "The German Value Investor",
@@ -4040,6 +4035,76 @@
   }
  ],
  "videos": [
+  {
+   "id": "eeawNrRi-cc",
+   "title": "My Biggest Stock Gain Ever",
+   "creator": "Joseph Carlson After Hours",
+   "channels": [
+    "Joseph Carlson After Hours"
+   ],
+   "published_at": "2026-11-04T19:58:29.614716+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "kFRcbCyuXLs",
+   "title": "Adobe Stock: Buy or Sell?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-04T17:00:01.133208+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "F2gAluh0q6I",
+   "title": "Why Is Everyone Talking About Microsoft Stock Stock? | MSFT Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-04T16:00:01.133208+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "5PABjQp-9x4",
+   "title": "What's Going on With Alphabet? | GOOG Stock Deep Dive Part 1",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-04T14:45:52.880164+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "e23u2estF9E",
+   "title": "Why Is Palantir Stock Falling, and is it a Buying Opportunity? | PLTR Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-04T12:55:52.880164+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "KBSBIugrBmc",
+   "title": "AMD Crushed Earnings! Is The Stock Cheap Enough To Buy?",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-11-04T00:55:21.804370+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "S6CZmzrHzcc",
+   "title": "The Election Won’t Stop THIS (Most Aren’t Ready)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-11-03T23:55:21.804370+00:00",
+   "nCalls": 0
+  },
   {
    "id": "vVsjMofRjqs",
    "title": "Is Apple Stock a Buy After Earnings? | AAPL Stock Analysis",
