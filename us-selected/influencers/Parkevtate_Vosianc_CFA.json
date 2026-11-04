@@ -4,6 +4,22 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "ADBE",
+   "tickerSlug": "ADBE",
+   "direction": "BUY",
+   "date": "2026-11-04T17:00:01.133208+00:00",
+   "price": "DCF fair value $360 (revised slightly higher from $349 on 2 Nov) vs market $251 (~40% undervalued); forward P/E 9.1",
+   "video_id": "kFRcbCyuXLs"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-11-04T12:55:52.880164+00:00",
+   "price": "DCF fair value just over $194 vs $173 after-hours ($178 into earnings)",
+   "video_id": "e23u2estF9E"
+  },
+  {
    "ticker": "AAPL",
    "tickerSlug": "AAPL",
    "direction": "HOLD",
