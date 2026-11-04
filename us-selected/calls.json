@@ -11150,5 +11150,41 @@
   "stance_flip": null,
   "analyzed_at": "2026-11-03T23:04:54.552469+00:00",
   "collab": false
+ },
+ {
+  "video_id": "e23u2estF9E",
+  "channel": "Parkevtate Vosianc CFA",
+  "handle": "@parkevtatevosiancfa9544",
+  "video_title": "Why Is Palantir Stock Falling, and is it a Buying Opportunity? | PLTR Stock",
+  "published_at": "2026-11-04T12:55:52.880164+00:00",
+  "ticker": "PLTR",
+  "direction": "BUY",
+  "flip": true,
+  "stance_flip": "HOLD (29 Oct, wait for earnings) -> BUY",
+  "price_at_call": "DCF fair value just over $194 vs $173 after-hours ($178 into earnings)",
+  "thesis": "BUY reiterated with low confidence: slightly undervalued on DCF after a beat-and-raise quarter (revenue +96% YoY to $2.3B), though valuation is getting rich and he sees early signs of a slowdown. Creator frames it as reiterating his 26 Oct buy; tracked most-recent call in calls.json was HOLD (29 Oct, neither buy nor sell before earnings), so this counts as a flip under runbook rules.",
+  "base_case": "Trades toward ~$194 fair value on continued AI-driven demand.",
+  "bull_case": "Revenue +96% YoY, 47% operating margin, 52% cash-flow-from-operations-to-sales, $10.4B cash earning ~$500M/year in interest.",
+  "bear_case": "Total contract value only +6% YoY and US commercial remaining deal value only +4% QoQ \u2014 early slowdown signs; at 76x forward PE the premium price demands perfection.",
+  "analyzed_at": "2026-11-04T14:59:25.294428+00:00",
+  "collab": false
+ },
+ {
+  "video_id": "kFRcbCyuXLs",
+  "channel": "Parkevtate Vosianc CFA",
+  "handle": "@parkevtatevosiancfa9544",
+  "video_title": "Adobe Stock: Buy or Sell?",
+  "published_at": "2026-11-04T17:00:01.133208+00:00",
+  "ticker": "ADBE",
+  "direction": "BUY",
+  "flip": false,
+  "stance_flip": null,
+  "price_at_call": "DCF fair value $360 (revised slightly higher from $349 on 2 Nov) vs market $251 (~40% undervalued); forward P/E 9.1",
+  "thesis": "BUY reiterated (was BUY 2 Nov) \u2014 ranked one of the best stocks to buy right now; deep discount prices in continued deceleration despite double-digit top-line growth and an entrenched customer base.",
+  "base_case": "Freemium shift working (100M+ monthly active users, +70% YoY) and analyst EPS growth estimates revised up to ~14% from ~13%; high switching costs blunt the AI threat.",
+  "bull_case": "Freemium momentum keeps converting and the market re-rates a double-digit grower off a 9.1 forward P/E.",
+  "bear_case": "AI effectiveness is one of the largest risk factors of any company he follows and threatens Adobe's business model and customer base.",
+  "analyzed_at": "2026-11-04T19:03:05.241603+00:00",
+  "collab": false
  }
 ]
