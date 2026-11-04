@@ -1,0 +1,28 @@
+{
+ "video_id": "kFRcbCyuXLs",
+ "title": "Adobe Stock: Buy or Sell?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-04T17:00:01.133208+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc CFA asks whether Adobe is a buying opportunity after its shift to a freemium model to counter AI competition. Freemium monthly active users passed 100 million, up 70% year on year, early evidence the strategy is working. Analyst EPS growth estimates have been revised up from about 13% to about 14% — a small move, but in the right direction, and one he welcomes because the stock trades at a deep discount: a forward P/E of just 9.1, about a third of its level a couple of years ago and a third of the S&P 500 average, despite continued double-digit top-line growth and an entrenched customer base. The biggest risk remains AI effectiveness threatening Adobe's business model and customer base, partly offset by high switching costs that make it difficult and time-consuming for customers to move. He revises his discounted cash flow fair value slightly higher to $360 (weighted average cost of capital 13.14%), against a $251 market price — roughly 40% undervalued — and ranks Adobe one of the best stocks to buy right now, with elevated risk acknowledged. Nvidia's late-November results are flagged as the next AI datapoint. Call recorded: ADBE BUY reiterated (was BUY 2 November), no stance flip.",
+ "calls": [
+  {
+   "video_id": "kFRcbCyuXLs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Adobe Stock: Buy or Sell?",
+   "published_at": "2026-11-04T17:00:01.133208+00:00",
+   "ticker": "ADBE",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF fair value $360 (revised slightly higher from $349 on 2 Nov) vs market $251 (~40% undervalued); forward P/E 9.1",
+   "thesis": "BUY reiterated (was BUY 2 Nov) — ranked one of the best stocks to buy right now; deep discount prices in continued deceleration despite double-digit top-line growth and an entrenched customer base.",
+   "base_case": "Freemium shift working (100M+ monthly active users, +70% YoY) and analyst EPS growth estimates revised up to ~14% from ~13%; high switching costs blunt the AI threat.",
+   "bull_case": "Freemium momentum keeps converting and the market re-rates a double-digit grower off a 9.1 forward P/E.",
+   "bear_case": "AI effectiveness is one of the largest risk factors of any company he follows and threatens Adobe's business model and customer base.",
+   "analyzed_at": "2026-11-04T19:03:05.241603+00:00",
+   "collab": false
+  }
+ ]
+}
