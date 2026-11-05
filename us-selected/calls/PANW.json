@@ -3,6 +3,24 @@
  "slug": "PANW",
  "calls": [
   {
+   "video_id": "TuVB0tX9BQs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Palo Alto Stock a Buy Right Now in November? | PANW Stock",
+   "published_at": "2026-11-05T16:59:59.696161+00:00",
+   "analyzed_at": "2026-11-05T19:02:26.028492+00:00",
+   "collab": false,
+   "flip": true,
+   "stance_flip": "AVOID (2026-10-04) -> HOLD",
+   "ticker": "PANW",
+   "direction": "HOLD",
+   "price_at_call": "~$353 (stated)",
+   "fair_value": "below $353 (DCF: overvalued; exact figure not stated in captions)",
+   "thesis": "Still not a buying opportunity after falling from $400: forward P/E 72 is rich against sub-20% EPS growth and his DCF says overvalued; he had downgraded it to a hold a couple of months ago and reaches the same conclusion now.",
+   "bull": "Agentic AI is lifting long-term EPS growth estimates from 12% to 19% and growing the need for cybersecurity.",
+   "bear": "Market already prices in enterprise agentic AI plus consumer catalysts not yet seen; volatile since the $400 peak."
+  },
+  {
    "video_id": "MhJNvSPOivk",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -81,11 +99,11 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "MarketBeat",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
