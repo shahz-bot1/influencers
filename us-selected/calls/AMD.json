@@ -3,6 +3,40 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "v4N90FddtEw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is AMD Stock a Buy After the Spectacular Investor Update?",
+   "published_at": "2026-11-05T12:55:47.230289+00:00",
+   "analyzed_at": "2026-11-05T14:58:56.564126+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "price_at_call": "~$518-521 (stated; fair value $394)",
+   "fair_value": "$394",
+   "thesis": "HOLD reiterated after record Q3 (revenue +45% to $13.4B, Q4 guide ~$17B, +66% growth): fundamentals excellent and estimates likely to be revised higher, but price ~$518 still well above his $394 DCF fair value, so no buy upgrade yet.",
+   "bull": "Hyperscaler capex rising 'meaningfully/significantly' next year; AMD Instinct/Epic demand strengthening, Helios/Venice scaling; multi-year growth ahead.",
+   "bear": "Valuation: forward P/E ~30 (was 40+), still ~31% above $394 fair value; margins (54% gross) trail NVDA/Micron (75-80%)."
+  },
+  {
+   "video_id": "0M2-yDoGLYc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "price_at_call": "up ~120% YTD, ~23-24% off highs; forward P/E ~44.5x (stated)",
+   "thesis": "Q3 beat with FY27 guide over 80% growth (~$94B revenue); not buying more today because NBIS/AVGO/NVDA/META/GOOG look cheaper on risk/reward, but keeps his large position.",
+   "base_case": "FY27 revenue ~$94B; data-centre revenue over 80% of total; 2x server CPU and 2x+ data-centre AI revenue.",
+   "bull_case": "Growth accelerates; AMD closes to ~$100B revenue by end FY27.",
+   "bear_case": "Valuation still high vs peers; drawdown continues if AI-spending fears persist.",
+   "video_title": "AI Stocks Dropped After the Election. Here's Why I Think It's Overdone",
+   "published_at": "2026-11-04T19:55:15.687024+00:00",
+   "analyzed_at": "2026-11-05T06:57:08.933635+00:00",
+   "stance_flip": null
+  },
+  {
    "video_id": "g1GeJQnFse8",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -259,20 +293,20 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 2
   },
   {
-   "channel": "Couch Investor",
-   "idx": 7
+   "channel": "Mark Roussin CPA",
+   "idx": 4
   }
  ]
 }
