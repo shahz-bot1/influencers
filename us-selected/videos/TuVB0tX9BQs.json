@@ -1,0 +1,28 @@
+{
+ "video_id": "TuVB0tX9BQs",
+ "title": "Is Palo Alto Stock a Buy Right Now in November? | PANW Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-05T16:59:59.696161+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc revisits Palo Alto Networks after its fall from $400 to about $353 and concludes it is still not a buying opportunity, keeping it a hold. Cybersecurity stocks are up almost 100% in 2026 and Palo Alto over 91%, and he notes he downgraded the group to hold a couple of months ago, which proved correct as the shares turned volatile. The agentic AI boom has lifted Wall Street's long-term EPS growth estimates for Palo Alto from 12% earlier this year to 19%, since agents taking more actions creates more risk and more need for security. But the valuation has already absorbed that: the forward P/E is 72 against sub-20% EPS growth, and his discounted cash flow model still says the stock is overvalued at $352. He also thinks the market is pricing in consumer-side agentic AI catalysts, such as Meta's Muse, before any results have appeared. He last reviewed the name on 29 September with the same conclusion. Call: PANW HOLD, a stance flip from AVOID on 4 October (he had already moved it to hold a couple of months ago; this video confirms the hold at the lower price).",
+ "calls": [
+  {
+   "video_id": "TuVB0tX9BQs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Palo Alto Stock a Buy Right Now in November? | PANW Stock",
+   "published_at": "2026-11-05T16:59:59.696161+00:00",
+   "analyzed_at": "2026-11-05T19:02:26.028492+00:00",
+   "collab": false,
+   "flip": true,
+   "stance_flip": "AVOID (2026-10-04) -> HOLD",
+   "ticker": "PANW",
+   "direction": "HOLD",
+   "price_at_call": "~$353 (stated)",
+   "fair_value": "below $353 (DCF: overvalued; exact figure not stated in captions)",
+   "thesis": "Still not a buying opportunity after falling from $400: forward P/E 72 is rich against sub-20% EPS growth and his DCF says overvalued; he had downgraded it to a hold a couple of months ago and reaches the same conclusion now.",
+   "bull": "Agentic AI is lifting long-term EPS growth estimates from 12% to 19% and growing the need for cybersecurity.",
+   "bear": "Market already prices in enterprise agentic AI plus consumer catalysts not yet seen; volatile since the $400 peak."
+  }
+ ]
+}
