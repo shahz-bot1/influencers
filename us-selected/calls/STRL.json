@@ -3,6 +3,24 @@
  "slug": "STRL",
  "calls": [
   {
+   "video_id": "8RpSAWLesDw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "3 Stocks I Just BOUGHT",
+   "published_at": "2026-11-05T14:59:59.696161+00:00",
+   "analyzed_at": "2026-11-05T19:02:26.028492+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "STRL",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "fair_value": "~$445",
+   "thesis": "BUY (bought): AI infrastructure buildout — Q3 revenue +127% to ~$1.6B, organic +70%, adj EPS +118% to $7.58, combined backlog $6.1B (+80%); forward P/E 12.9 on ~$28 next-year EPS.",
+   "bull": "Hyperscaler capex still rising into next year; e-infrastructure solutions revenue +200% year over year; guidance raised.",
+   "bear": "Depends on continued data-centre spending — delays, cost rises or hyperscaler cuts would hit hard; signed backlog dipped slightly quarter over quarter."
+  },
+  {
    "video_id": "Fjyfta0Ltzw",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
