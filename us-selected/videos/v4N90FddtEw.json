@@ -1,0 +1,28 @@
+{
+ "video_id": "v4N90FddtEw",
+ "title": "Is AMD Stock a Buy After the Spectacular Investor Update?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-05T12:55:47.230289+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc answers whether AMD is a buy after its record quarter, and keeps it a hold. Revenue rose 45% to $13.4 billion, above the high end of guidance, gross margin improved to 54%, operating margin rose from 14% to 21% and operating income jumped 123% to $2.8 billion. Management guided fourth-quarter revenue of about $17 billion, implying 66% growth, and said Instinct and Epic demand keeps strengthening as Helios and Venice production scales. He validates the outlook against the hyperscalers, who almost unanimously said they will spend meaningfully or significantly more capex next year. But the valuation still blocks an upgrade: the shares trade around $518 to $521 against his $394 fair value, a forward P/E of about 30, and the stock is still up 126% in 2026. He notes a viewer joked his earlier caution had aged badly, but points out the shares were $531 when he recorded that video and are lower now even after the 7.7% post-earnings jump. He expects to revise his estimates higher after reading the call transcripts, but does not expect the revision to be large enough to justify a buy. Call: AMD HOLD reiterated at about $518, fair value $394.",
+ "calls": [
+  {
+   "video_id": "v4N90FddtEw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is AMD Stock a Buy After the Spectacular Investor Update?",
+   "published_at": "2026-11-05T12:55:47.230289+00:00",
+   "analyzed_at": "2026-11-05T14:58:56.564126+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "price_at_call": "~$518-521 (stated; fair value $394)",
+   "fair_value": "$394",
+   "thesis": "HOLD reiterated after record Q3 (revenue +45% to $13.4B, Q4 guide ~$17B, +66% growth): fundamentals excellent and estimates likely to be revised higher, but price ~$518 still well above his $394 DCF fair value, so no buy upgrade yet.",
+   "bull": "Hyperscaler capex rising 'meaningfully/significantly' next year; AMD Instinct/Epic demand strengthening, Helios/Venice scaling; multi-year growth ahead.",
+   "bear": "Valuation: forward P/E ~30 (was 40+), still ~31% above $394 fair value; margins (54% gross) trail NVDA/Micron (75-80%)."
+  }
+ ]
+}
