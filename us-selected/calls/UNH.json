@@ -3,6 +3,24 @@
  "slug": "UNH",
  "calls": [
   {
+   "video_id": "8RpSAWLesDw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "3 Stocks I Just BOUGHT",
+   "published_at": "2026-11-05T14:59:59.696161+00:00",
+   "analyzed_at": "2026-11-05T19:02:26.028492+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "UNH",
+   "direction": "BUY",
+   "price_at_call": "$375 (his late-September purchase price; up ~7% since)",
+   "fair_value": "~$540",
+   "thesis": "BUY (bought late Sep at $375): healthcare turnaround play — Q3 revenue ~$113B, adj EPS $4.69, FY outlook raised to at least $20.50, medical care ratio improved to 88.4% from 89.9%; forward P/E 17 vs 5-year average ~20.",
+   "bull": "Stabilising earnings plus a higher multiple if medical cost trends stay predictable; diversified platform (UnitedHealthcare + Optum).",
+   "bear": "Rising medical costs, regulatory scrutiny, and Medicare Advantage/Optum execution concerns remain."
+  },
+  {
    "video_id": "vjhRZBn7dbI",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -66,16 +84,16 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
