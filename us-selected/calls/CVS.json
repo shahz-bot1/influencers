@@ -1,0 +1,28 @@
+{
+ "ticker": "CVS",
+ "slug": "CVS",
+ "calls": [
+  {
+   "video_id": "jipyWfNwJyg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "CVS",
+   "direction": "BUY",
+   "price_at_call": "$91.41 (close); fair value over $120 (stated), upside over 30%",
+   "thesis": "Reiterates BUY (first tracked call; ranked a buy all year, last update 13 Aug 2026): Bloomberg/FT report of a possible retail-pharmacy spin-off is a positive; forward P/E 10.72 below forecast 12% EPS growth.",
+   "base_case": "Double-digit EPS growth over next few years; spin-off details emerge at next quarterly update.",
+   "bull_case": "Spin-off unlocks value; fair value over $120, 30%+ upside.",
+   "bear_case": "$74B+ long-term debt; divestiture of ~9,000 stores is complex and slow; retail footfall keeps declining.",
+   "video_title": "Huge News for CVS Stock Investors",
+   "published_at": "2026-11-04T22:55:15.687024+00:00",
+   "analyzed_at": "2026-11-05T06:57:08.933635+00:00",
+   "stance_flip": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
