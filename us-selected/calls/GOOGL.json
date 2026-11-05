@@ -3,6 +3,24 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "p2fpLPGrA5c",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "not stated (bought a little today)",
+   "thesis": "Bought a little Google on the crash day; AWS/Google Cloud/Azure still growing significantly, AWS expected to grow over 40% in the next two years.",
+   "base_case": "Cloud growth continues; capex dollars still rising.",
+   "bull_case": "Sell-off proves an overreaction; GOOGL re-rates as cloud/AI monetisation compounds.",
+   "bear_case": "Capex growth has peaked and the spend-versus-revenue gap does not close.",
+   "video_title": "We Need To Honestly Talk About This Crash...",
+   "published_at": "2026-11-05T19:58:14.766137+00:00",
+   "analyzed_at": "2026-11-05T23:05:24.151283+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": "CONDITIONAL_BUY (2026-10-29) -> BUY (upgraded; bought a little today)"
+  },
+  {
    "video_id": "CrrqicN_Kbo",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -402,28 +420,28 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "MarketBeat",
    "idx": 3
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 4
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
