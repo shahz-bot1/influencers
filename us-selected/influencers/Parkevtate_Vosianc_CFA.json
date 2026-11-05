@@ -4,6 +4,46 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "RIVN",
+   "tickerSlug": "RIVN",
+   "direction": "BUY",
+   "date": "2026-11-05T18:15:59.696161+00:00",
+   "price": "~$13 (stated)",
+   "video_id": "DnLaWUZt30s"
+  },
+  {
+   "ticker": "QCOM",
+   "tickerSlug": "QCOM",
+   "direction": "BUY",
+   "date": "2026-11-05T18:11:59.696161+00:00",
+   "price": "$169 (stated)",
+   "video_id": "XjB529j4ytc"
+  },
+  {
+   "ticker": "PANW",
+   "tickerSlug": "PANW",
+   "direction": "HOLD",
+   "date": "2026-11-05T16:59:59.696161+00:00",
+   "price": "~$353 (stated)",
+   "video_id": "TuVB0tX9BQs"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "HOLD",
+   "date": "2026-11-05T12:55:47.230289+00:00",
+   "price": "~$518-521 (stated; fair value $394)",
+   "video_id": "v4N90FddtEw"
+  },
+  {
+   "ticker": "CVS",
+   "tickerSlug": "CVS",
+   "direction": "BUY",
+   "date": "2026-11-04T22:55:15.687024+00:00",
+   "price": "$91.41 (close); fair value over $120 (stated), upside over 30%",
+   "video_id": "jipyWfNwJyg"
+  },
+  {
    "ticker": "ADBE",
    "tickerSlug": "ADBE",
    "direction": "BUY",
