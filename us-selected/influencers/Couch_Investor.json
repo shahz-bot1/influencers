@@ -4,6 +4,62 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-05T19:58:14.766137+00:00",
+   "price": "not stated (bought a little today)",
+   "video_id": "p2fpLPGrA5c"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-11-05T19:58:14.766137+00:00",
+   "price": "not stated (bought a little today)",
+   "video_id": "p2fpLPGrA5c"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-05T19:58:14.766137+00:00",
+   "price": "not stated (bought a little today)",
+   "video_id": "p2fpLPGrA5c"
+  },
+  {
+   "ticker": "MELI",
+   "tickerSlug": "MELI",
+   "direction": "BUY",
+   "date": "2026-11-05T19:58:14.766137+00:00",
+   "price": "not stated",
+   "video_id": "p2fpLPGrA5c"
+  },
+  {
+   "ticker": "FICO",
+   "tickerSlug": "FICO",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-05T19:58:14.766137+00:00",
+   "price": "not stated",
+   "video_id": "p2fpLPGrA5c"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "HOLD",
+   "date": "2026-11-04T19:55:15.687024+00:00",
+   "price": "up ~120% YTD, ~23-24% off highs; forward P/E ~44.5x (stated)",
+   "video_id": "0M2-yDoGLYc"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-04T19:55:15.687024+00:00",
+   "price": null,
+   "video_id": "0M2-yDoGLYc"
+  },
+  {
    "ticker": "RBRK",
    "tickerSlug": "RBRK",
    "direction": "SELL",
