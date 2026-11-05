@@ -3,6 +3,24 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "p2fpLPGrA5c",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "not stated (bought a little today)",
+   "thesis": "Bought a little Meta on the crash day, leaning toward the big guys; growth story unchanged over the last few days, sell-off looks like an overreaction.",
+   "base_case": "Big-cap AI names keep growing; capex dollars still rising even as growth rates slow.",
+   "bull_case": "Market flushes out overleveraged funds and continues healthier; META benefits as hyperscaler spend continues.",
+   "bear_case": "Citrini's 'end of the trade' thesis proves right: capex peaks, AI revenue gap never closes, downside risk dominates.",
+   "video_title": "We Need To Honestly Talk About This Crash...",
+   "published_at": "2026-11-05T19:58:14.766137+00:00",
+   "analyzed_at": "2026-11-05T23:05:24.151283+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": "BUY reiterated (was BUY 2026-10-25)"
+  },
+  {
    "video_id": "fbgsQde4kRU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -275,16 +293,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
-   "idx": 4
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
