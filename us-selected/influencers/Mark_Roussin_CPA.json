@@ -4,6 +4,30 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "UNH",
+   "tickerSlug": "UNH",
+   "direction": "BUY",
+   "date": "2026-11-05T14:59:59.696161+00:00",
+   "price": "$375 (his late-September purchase price; up ~7% since)",
+   "video_id": "8RpSAWLesDw"
+  },
+  {
+   "ticker": "STRL",
+   "tickerSlug": "STRL",
+   "direction": "BUY",
+   "date": "2026-11-05T14:59:59.696161+00:00",
+   "price": "not stated",
+   "video_id": "8RpSAWLesDw"
+  },
+  {
+   "ticker": "VRT",
+   "tickerSlug": "VRT",
+   "direction": "BUY",
+   "date": "2026-11-05T14:59:59.696161+00:00",
+   "price": "not stated (up ~10% since his purchase a few weeks ago)",
+   "video_id": "8RpSAWLesDw"
+  },
+  {
    "ticker": "AMZN",
    "tickerSlug": "AMZN",
    "direction": "BUY",
