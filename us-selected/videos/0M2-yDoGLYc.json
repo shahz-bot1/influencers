@@ -1,0 +1,42 @@
+{
+ "video_id": "0M2-yDoGLYc",
+ "title": "AI Stocks Dropped After the Election. Here’s Why I Think It’s Overdone",
+ "creator": "Couch Investor",
+ "published_at": "2026-11-04T19:55:15.687024+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Couch Investor argues the post-midterm sell-off in AI stocks is overdone. The Democrats winning the House and Senate changes nothing about data-centre build-out, he says, and the earnings evidence points the other way: AMD reported a strong quarter and guided to over 80% growth in fiscal 2027, close to $100 billion of revenue, while Nvidia's growth is still accelerating. He plays a clip from Howard Marks on tuning out short-term noise and sticking to the long-term story. He also covers Uber's strong quarter, with bookings up 20%, trailing-twelve-month free cash flow of $10.4 billion and a forward P/E of 17.8x, which he reads as cheap for the growth. AMD is up about 120% year-to-date, so he is not adding at these levels and sees Nebius, Broadcom, Nvidia, Meta and Google as better risk/reward, but he keeps his large AMD position. On Nebius he stays extremely bullish ahead of its report and guidance next week, possibly including a 2027 ARR number, while warning GPU pricing a year out will look very different. Calls: AMD HOLD (reiterated), NBIS BUY (first clear stance, was UNCERTAIN), UBER UNCERTAIN (positive read, no instruction).",
+ "calls": [
+  {
+   "video_id": "0M2-yDoGLYc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "price_at_call": "up ~120% YTD, ~23-24% off highs; forward P/E ~44.5x (stated)",
+   "thesis": "Q3 beat with FY27 guide over 80% growth (~$94B revenue); not buying more today because NBIS/AVGO/NVDA/META/GOOG look cheaper on risk/reward, but keeps his large position.",
+   "base_case": "FY27 revenue ~$94B; data-centre revenue over 80% of total; 2x server CPU and 2x+ data-centre AI revenue.",
+   "bull_case": "Growth accelerates; AMD closes to ~$100B revenue by end FY27.",
+   "bear_case": "Valuation still high vs peers; drawdown continues if AI-spending fears persist.",
+   "video_title": "AI Stocks Dropped After the Election. Here's Why I Think It's Overdone",
+   "published_at": "2026-11-04T19:55:15.687024+00:00",
+   "analyzed_at": "2026-11-05T06:57:08.933635+00:00",
+   "stance_flip": null
+  },
+  {
+   "video_id": "0M2-yDoGLYc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "'Still extremely bullish' on Nebius; expects a very good report and guidance next week, possibly a 2027 ARR number; stock hit hard on headlines.",
+   "base_case": "Strong report and guidance next week; contracts for 2027 already set in stone support upside surprise.",
+   "bull_case": "2027 ARR number surprises the market.",
+   "bear_case": "GPU pricing a year out will look very different; ARR number should be taken with a grain of salt.",
+   "video_title": "AI Stocks Dropped After the Election. Here's Why I Think It's Overdone",
+   "published_at": "2026-11-04T19:55:15.687024+00:00",
+   "analyzed_at": "2026-11-05T06:57:08.933635+00:00",
+   "stance_flip": "UNCERTAIN->BUY (first clear stance; was UNCERTAIN on 2026-10-26)"
+  }
+ ]
+}
