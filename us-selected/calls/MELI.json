@@ -3,6 +3,24 @@
  "slug": "MELI",
  "calls": [
   {
+   "video_id": "p2fpLPGrA5c",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "'Still extremely bullish' on Mercado Libre; now the top position in his retirement portfolio. 30th consecutive quarter of over 30% revenue growth; this quarter revenue up 45%.",
+   "base_case": "Investment cycle eventually ends and efficiency shows up in the numbers; items sold per buyer up 22% YoY, Brazil cost per shipment down 5% YoY.",
+   "bull_case": "Every cost lever is a deliberate choice; share gains in commerce and fintech in every major market; unit economics keep improving.",
+   "bear_case": "Operating income shrinking while revenue grows 45%; new investment areas keep appearing; net interest margin after losses and late-stage credit trends suffer.",
+   "video_title": "We Need To Honestly Talk About This Crash...",
+   "published_at": "2026-11-05T19:58:14.766137+00:00",
+   "analyzed_at": "2026-11-05T23:05:24.151283+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": "UNCERTAIN (2026-10-26) -> BUY (first clear stance)"
+  },
+  {
    "video_id": "Fjyfta0Ltzw",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -114,24 +132,24 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 2
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 3
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
