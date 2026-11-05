@@ -3,6 +3,23 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "PHONn62qAyQ",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "CRWV",
+   "direction": "AVOID",
+   "price_at_call": null,
+   "thesis": "Guest Porter Stansberry (Porter and Company) reiterates his view that CoreWeave equity is 'worthless' and 'will go to zero' — no switching costs / unsustainable AI buildout economics.",
+   "base_case": "AI capex fails to produce economic returns over next 2-3 years.",
+   "bull_case": null,
+   "bear_case": "Equity goes to zero.",
+   "video_title": "Can You Survive the Coming Financial Reset? Here's What to Know",
+   "published_at": "2026-11-04T23:55:15.687024+00:00",
+   "analyzed_at": "2026-11-05T06:57:08.933635+00:00",
+   "stance_flip": null,
+   "guest": "Porter Stansberry"
+  },
+  {
    "video_id": "g1GeJQnFse8",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -97,11 +114,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Couch Investor",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
