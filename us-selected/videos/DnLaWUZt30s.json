@@ -1,0 +1,28 @@
+{
+ "video_id": "DnLaWUZt30s",
+ "title": "Did I Call the Bottom With Rivian Stock? | RIVN Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-05T18:15:59.696161+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc asks whether he called the bottom in Rivian and reiterates his buy. The R2 launch is off to an excellent start, with the 2026 sales guide raised to about 70,000 units from about 60,000, and point-to-point driverless technology is expected in limited form later this year and more broadly in 2027, following Tesla's success with nearly 2 million subscribers to a similar feature. He upgraded Rivian to a buy on 26 October at around $11, and the shares are now over $13, but he warns investors have been fooled by false bottoms before, at $15, $13 and $20, so he will not declare the bottom called. Trailing-twelve-month sales are over $6.4 billion against about $4 billion in 2024, despite soft US EV demand and the removal of purchase incentives, and the operating margin has improved to negative 53% from negative 130% in 2024, with a $45,000 R2 variant still to come. He revised his discounted cash flow fair value up to $15.50, about 16% above the $13 market price, and the forward price-to-sales of 1.675 also looks attractive. Call: RIVN BUY reiterated at about $13, fair value $15.50; high risk, with negative free cash flow expected for a couple of years.",
+ "calls": [
+  {
+   "video_id": "DnLaWUZt30s",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Did I Call the Bottom With Rivian Stock? | RIVN Stock Analysis",
+   "published_at": "2026-11-05T18:15:59.696161+00:00",
+   "analyzed_at": "2026-11-05T19:02:26.028492+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "RIVN",
+   "direction": "BUY",
+   "price_at_call": "~$13 (stated)",
+   "fair_value": "$15.50",
+   "thesis": "BUY reiterated after R2 launch beat expectations (2026 sales guide raised to ~70,000 units) and driverless-tech progress; DCF $15.50, ~16% above the ~$13 price, forward P/S 1.675.",
+   "bull": "R2 ramp plus a $45,000 variant and driverless tech could drive high-margin revenue; operating margin improving (-53% vs -130% in 2024).",
+   "bear": "Still loss-making with negative free cash flow expected for a couple of years; EV demand soft with purchase incentives removed; history of false bottoms ($15, $13, $11)."
+  }
+ ]
+}
