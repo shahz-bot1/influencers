@@ -3,6 +3,24 @@
  "slug": "QCOM",
  "calls": [
   {
+   "video_id": "XjB529j4ytc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "SpaceX Delivered Fantastic News for Qualcomm Stock Investors",
+   "published_at": "2026-11-05T18:11:59.696161+00:00",
+   "analyzed_at": "2026-11-05T19:02:26.028492+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "price_at_call": "$169 (stated)",
+   "fair_value": "$282",
+   "thesis": "BUY reiterated: SpaceX picked Qualcomm's Dragon Wing platform for Starlink Mobile's nationwide 5G network; already significantly undervalued on DCF before the news, data-centre entry is the next catalyst.",
+   "bull": "Multi-year SpaceX deployment ramping from next year, 6G upgrade cycle ahead, data-centre expansion coming.",
+   "bear": "Smartphone unit sales struggling into 2027; component costs rising as data-centre builders compete for the same memory/storage."
+  },
+  {
    "video_id": "bQjNidzf00c",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -58,7 +76,7 @@
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
