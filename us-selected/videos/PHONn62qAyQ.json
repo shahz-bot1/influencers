@@ -1,0 +1,27 @@
+{
+ "video_id": "PHONn62qAyQ",
+ "title": "Can You Survive the Coming Financial Reset? Here's What to Know",
+ "creator": "MarketBeat",
+ "published_at": "2026-11-04T23:55:15.687024+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "MarketBeat hosts guest Porter Stansberry of Porter and Company to discuss his book's thesis of a generational monetary reset arriving around 2029, driven by government debt and the Social Security trust fund running dry. Stansberry argues most S&P 500 stocks are already in a bear market hidden behind narrow AI concentration, and recommends lightening equities in favour of roughly 25% T-bills, 25% gold and Bitcoin, 25% property and casualty insurers, and 25% ultra-high-quality stocks. On individual names he is blunt about CoreWeave, calling its equity worthless and saying it will go to zero, because it has no switching costs and the AI build-out economics are unsustainable. He also says he owns Nvidia, but gives no new call on it, and the gold and Bitcoin comments are asset-class allocations rather than stock calls. The video is a macro and portfolio-positioning discussion rather than a stock-picking one, with the single explicit stock stance being the CoreWeave avoid. Call: CRWV AVOID (reiterated, was AVOID 29 Oct). No new call on NVDA, gold or Bitcoin.",
+ "calls": [
+  {
+   "video_id": "PHONn62qAyQ",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "CRWV",
+   "direction": "AVOID",
+   "price_at_call": null,
+   "thesis": "Guest Porter Stansberry (Porter and Company) reiterates his view that CoreWeave equity is 'worthless' and 'will go to zero' — no switching costs / unsustainable AI buildout economics.",
+   "base_case": "AI capex fails to produce economic returns over next 2-3 years.",
+   "bull_case": null,
+   "bear_case": "Equity goes to zero.",
+   "video_title": "Can You Survive the Coming Financial Reset? Here's What to Know",
+   "published_at": "2026-11-04T23:55:15.687024+00:00",
+   "analyzed_at": "2026-11-05T06:57:08.933635+00:00",
+   "stance_flip": null,
+   "guest": "Porter Stansberry"
+  }
+ ]
+}
