@@ -3,6 +3,22 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "0M2-yDoGLYc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "'Still extremely bullish' on Nebius; expects a very good report and guidance next week, possibly a 2027 ARR number; stock hit hard on headlines.",
+   "base_case": "Strong report and guidance next week; contracts for 2027 already set in stone support upside surprise.",
+   "bull_case": "2027 ARR number surprises the market.",
+   "bear_case": "GPU pricing a year out will look very different; ARR number should be taken with a grain of salt.",
+   "video_title": "AI Stocks Dropped After the Election. Here's Why I Think It's Overdone",
+   "published_at": "2026-11-04T19:55:15.687024+00:00",
+   "analyzed_at": "2026-11-05T06:57:08.933635+00:00",
+   "stance_flip": "UNCERTAIN->BUY (first clear stance; was UNCERTAIN on 2026-10-26)"
+  },
+  {
    "video_id": "qn1sZcuek6Y",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -243,20 +259,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 11
+   "idx": 12
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 13
+   "idx": 14
   }
  ]
 }
