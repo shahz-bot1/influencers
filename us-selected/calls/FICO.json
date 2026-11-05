@@ -3,6 +3,24 @@
  "slug": "FICO",
  "calls": [
   {
+   "video_id": "p2fpLPGrA5c",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "FICO",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "Value-hunt candidate in the AI sell-off: a non-AI name beaten down ~50% year-to-date by a political fight over housing affordability, while the business just had its most successful year ever.",
+   "base_case": "Record year: revenue up 27% YoY, Scores up 33%, Software up 19%, non-GAAP EPS up 43%, free cash flow over $1B up 40%; shares outstanding down 10% in 12 months.",
+   "bull_case": "Business keeps compounding while the political overhang fades; platform ARR up 72%, 156% net retention.",
+   "bear_case": "No FY27 guidance given; pricing transparency reduced (customised, private lender pricing) which reads badly in headlines; political fight continues.",
+   "video_title": "We Need To Honestly Talk About This Crash...",
+   "published_at": "2026-11-05T19:58:14.766137+00:00",
+   "analyzed_at": "2026-11-05T23:05:24.151283+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": "first tracked call"
+  },
+  {
    "video_id": "htLYrLT9rHQ",
    "channel": "Parkevtate Vosianc CFA",
    "ticker": "FICO",
@@ -26,8 +44,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
