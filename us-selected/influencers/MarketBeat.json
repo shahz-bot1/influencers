@@ -4,6 +4,14 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "AVOID",
+   "date": "2026-11-04T23:55:15.687024+00:00",
+   "price": null,
+   "video_id": "PHONn62qAyQ"
+  },
+  {
    "ticker": "ORCL",
    "tickerSlug": "ORCL",
    "direction": "BUY",
