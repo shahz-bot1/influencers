@@ -3,6 +3,24 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "p2fpLPGrA5c",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated (bought a little today)",
+   "thesis": "Bought a little Nvidia on the crash day (down 6.7% on the day); still expected to grow at least 70% next year and that has not changed.",
+   "base_case": "NVDA growth of at least 70% next year holds; hyperscaler capex keeps rising.",
+   "bull_case": "Dip proves an overreaction; earnings/guidance keep beating.",
+   "bear_case": "Hyperscalers cut capex plans; semiconductor demand disappoints.",
+   "video_title": "We Need To Honestly Talk About This Crash...",
+   "published_at": "2026-11-05T19:58:14.766137+00:00",
+   "analyzed_at": "2026-11-05T23:05:24.151283+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": "BUY reiterated (was BUY 2026-10-25)"
+  },
+  {
    "video_id": "fbgsQde4kRU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -395,20 +413,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
-   "idx": 6
+   "channel": "Mark Roussin CPA",
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
