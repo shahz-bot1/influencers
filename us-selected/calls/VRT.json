@@ -3,6 +3,24 @@
  "slug": "VRT",
  "calls": [
   {
+   "video_id": "8RpSAWLesDw",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "3 Stocks I Just BOUGHT",
+   "published_at": "2026-11-05T14:59:59.696161+00:00",
+   "analyzed_at": "2026-11-05T19:02:26.028492+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "VRT",
+   "direction": "BUY",
+   "price_at_call": "not stated (up ~10% since his purchase a few weeks ago)",
+   "fair_value": "~at current price (models); PEG below 1 on next-year EPS",
+   "thesis": "BUY (bought a few weeks ago, added before earnings): power/cooling for AI data centres — Q3 revenue +61% to $4.3B, organic orders +100%, FY26 guide raised to ~$14.65B revenue, ~$7.15 EPS, ~$2.7B free cash flow.",
+   "bull": "Denser AI compute needs ever more cooling/power; orders growing faster than revenue; cash-generative while hyperscalers go FCF-negative.",
+   "bear": "High expectations — any growth or margin miss, or project delays, means sharp volatility; capacity and supply-chain execution risks."
+  },
+  {
    "video_id": "SzdxupnhTfY",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -55,7 +73,7 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
