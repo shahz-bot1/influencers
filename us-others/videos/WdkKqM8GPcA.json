@@ -1,0 +1,23 @@
+{
+ "video_id": "WdkKqM8GPcA",
+ "title": "The Market Hated MELI's Earnings - Here's What You Need To Know",
+ "creator": "Daniel Pronk",
+ "handle": "@danielpronk",
+ "published_at": "2026-11-05T22:55:35.223108+00:00",
+ "summary": "Daniel Pronk buys more MercadoLibre after the stock fell 12.4% to near its 52-week lows following Q3 earnings, calling it a long-term buy at roughly $1,500 (~$76bn market cap). Revenue grew 45% (41% FX-neutral), total payment volume hit $109bn (+53%), gross merchandise volume $23bn (+38%), but operating income fell 6% to $676m (6.3% margin) and net income was $448m (4.2%) as the company keeps sacrificing margins to reinvest. Brazil, its largest market, accelerated to 50% revenue growth; Mexico decelerated (GMV growth 42% to 25%). Fintech reached 93 million monthly active users (+29%), the largest digital bank in Mexico, with the credit book up 62% to $18bn, assets under management up 67%, and advertising up 51% to 11% of Latin American digital ad revenue. Ecosystem users (both commerce and fintech) grew 33% and generate 3-4x the revenue per user. He estimates the fintech and advertising businesses alone already earn ~$5bn, plus ~$1bn from commerce, implying ~$6bn of underlying profit or ~13x. Risks he flags: 90+ day non-performing loans uptrending to ~19.3% (though 15-90 day NPLs are near historic lows at ~7% and provisions exceed 100%), Mexico weakness, and margins that may take years to expand. He also calls the sell-off in Nubank unjustified and contrasts MercadoLibre with hyperscalers being rewarded for slowing AI capex. Call: MELI BUY (first tracked; added to his ~8% position).",
+ "calls": [
+  {
+   "video_id": "WdkKqM8GPcA",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "thesis": "First tracked MELI call. Added to his position after the 12.4% post-earnings drop to near 52-week lows (~$1,500, ~$76bn market cap): revenue +45% (+41% FX-neutral), TPV +53%, GMV +38%, Brazil accelerating +50%, fintech 93m MAU +29%, credit book +62%, ads +51% and taking share; margins are being deliberately sacrificed to compound, and he estimates the business already earns ~$6bn of underlying profit (~13x). A 5-10-20 year hold; short-term volatility irrelevant.",
+   "price_at_call": "~$1,500 (down 12.4% on the day, near 52-week lows; ~$76bn market cap)",
+   "base_case": "Growth stays 20%+ and margins expand once investment slows; profits explode as the credit/advertising flywheel matures.",
+   "bull_case": "In 5 years revenue is multiples higher and the stock is far above $1,500 as LatAm digitisation compounds.",
+   "bear_case": "Margins never expand, Mexico deceleration spreads, or 90+ day NPLs (uptrending ~19.3%) deteriorate into real credit losses.",
+   "analyzed_at": "2026-11-06T04:58:37.767680+00:00"
+  }
+ ]
+}
