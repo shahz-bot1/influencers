@@ -4,6 +4,46 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "QCOM",
+   "tickerSlug": "QCOM",
+   "direction": "BUY",
+   "date": "2026-11-06T11:55:39.066530+00:00",
+   "price": "$165 (stated market price)",
+   "video_id": "qVkz6eo5OkQ"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-06T11:55:39.066530+00:00",
+   "price": "$326 (stated market price)",
+   "video_id": "qVkz6eo5OkQ"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-06T11:55:39.066530+00:00",
+   "price": "$799 (stated market price)",
+   "video_id": "qVkz6eo5OkQ"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-11-06T11:55:39.066530+00:00",
+   "price": "$395 (stated market price)",
+   "video_id": "qVkz6eo5OkQ"
+  },
+  {
+   "ticker": "QCOM",
+   "tickerSlug": "QCOM",
+   "direction": "BUY",
+   "date": "2026-11-05T18:57:55.055243+00:00",
+   "price": "~$160 (aftermarket, down ~7%)",
+   "video_id": "v93-UPv6ozY"
+  },
+  {
    "ticker": "RIVN",
    "tickerSlug": "RIVN",
    "direction": "BUY",
@@ -58,6 +98,14 @@
    "date": "2026-11-04T12:55:52.880164+00:00",
    "price": "DCF fair value just over $194 vs $173 after-hours ($178 into earnings)",
    "video_id": "e23u2estF9E"
+  },
+  {
+   "ticker": "MSFT",
+   "tickerSlug": "MSFT",
+   "direction": "BUY",
+   "date": "2026-11-03T22:58:14.766137+00:00",
+   "price": "$529 (stated market price, down from $550); DCF fair value ~11.4% above market after margin of safety (exact figure garbled in captions)",
+   "video_id": "f5efGSr-Nhw"
   },
   {
    "ticker": "AAPL",
