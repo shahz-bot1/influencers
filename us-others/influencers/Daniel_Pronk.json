@@ -4,6 +4,14 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "MELI",
+   "tickerSlug": "MELI",
+   "direction": "BUY",
+   "date": "2026-11-06T04:58:37.767680+00:00",
+   "price": "~$1,500 (down 12.4% on the day, near 52-week lows; ~$76bn market cap)",
+   "video_id": "WdkKqM8GPcA"
+  },
+  {
    "ticker": "AMZN",
    "tickerSlug": "AMZN",
    "direction": "BUY",
