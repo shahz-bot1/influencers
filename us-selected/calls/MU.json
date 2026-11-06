@@ -3,6 +3,41 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "qVkz6eo5OkQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Stock Market Sell-Off: 4 Ridiculously Cheap Semiconductor Stocks You Can Buy Today",
+   "published_at": "2026-11-06T11:55:39.066530+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": "$799 (stated market price)",
+   "fair_value": "$1,556",
+   "thesis": "Undervalued: DCF fair value $1,556 vs $799; 80%+ operating margins for two straight quarters, component prices up triple digits, sold out until 2028 with longer-term customer agreements.",
+   "bull_case": "Average selling prices soaring; long-term supply agreements reduce overbuild and planning risk.",
+   "bear_case": "Still cyclical at heart; a demand slowdown would hit EPS hard, though long-term deals mitigate it.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-06T14:58:40+00:00",
+   "collab": false
+  },
+  {
+   "video_id": "7d2yvEwmv_s",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "5 AI Stocks I Can’t Wait to Buy on This Dip",
+   "published_at": "2026-11-05T23:57:55.055243+00:00",
+   "ticker": "MU",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "price_at_call": "P/E under $9 (stated); lowest since ~May",
+   "thesis": "Taiwan expansion pause is a near-term headwind only — labour dispute likely resolved; orders maxed through end of next year into late 2028, demand visibility into early next decade; buy the dip once the market bottoms.",
+   "base_case": "Business grows into its outlook and drives the stock to new highs.",
+   "bull_case": "HBM demand keeps growing with data-centre buildout; long runway for solid earnings.",
+   "bear_case": "Legacy memory-cycle lens: cycle peaks and business implodes; data-centre moratoriums slow the buildout.",
+   "analyzed_at": "2026-11-06T11:00:07.298835+00:00",
+   "stance_flip": "UNCERTAIN (15 Oct) -> CONDITIONAL_BUY (first explicit call)"
+  },
+  {
    "video_id": "_m1XcP1addc",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -198,24 +233,24 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
+   "channel": "BWB - Business With Brian",
+   "idx": 2
+  },
+  {
    "channel": "Mark Roussin CPA",
-   "idx": 5
+   "idx": 7
   },
   {
    "channel": "Couch Investor",
-   "idx": 6
-  },
-  {
-   "channel": "MarketBeat",
-   "idx": 10
+   "idx": 8
   }
  ]
 }
