@@ -3,6 +3,23 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "7d2yvEwmv_s",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "5 AI Stocks I Can’t Wait to Buy on This Dip",
+   "published_at": "2026-11-05T23:57:55.055243+00:00",
+   "ticker": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "price_at_call": "not stated (down double digits post-earnings)",
+   "thesis": "Guest analyst Thomas Hughes calls AMD a 'screaming buy' on MI450/Helios momentum — data-centre business +100%, guidance raised 5pts, growth could top 100% next year — but explicitly wait for the market to show bottom support, don't catch the falling knife.",
+   "base_case": "A cycle of quarterly outperformance and guidance upgrades akin to NVDA over the past few years.",
+   "bull_case": "Growth tops 100% next year on MI450; CPU inference tailwind as CPU:GPU ratio nears 1:1.",
+   "bear_case": "Sell-off could deepen; no bottom signal yet, market still in fear mode.",
+   "analyzed_at": "2026-11-06T11:00:07.298835+00:00",
+   "stance_flip": "BUY (29 Oct) -> CONDITIONAL_BUY (softening: now waiting for a bottom signal)"
+  },
+  {
    "video_id": "v4N90FddtEw",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -293,20 +310,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
