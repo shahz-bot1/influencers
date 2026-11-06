@@ -3,6 +3,23 @@
  "slug": "CRDO",
  "calls": [
   {
+   "video_id": "7d2yvEwmv_s",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "5 AI Stocks I Can’t Wait to Buy on This Dip",
+   "published_at": "2026-11-05T23:57:55.055243+00:00",
+   "ticker": "CRDO",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "price_at_call": "not stated (down ~45% in the last month)",
+   "thesis": "Credo is locked into Nvidia ecosystem product cycles (copper now, optical next); rising trading volume through the correction shows a strengthening support base; rebound could begin before year-end on a positive headline — wait for it.",
+   "base_case": "Correction bottoms out and leads to a rebound as execution continues.",
+   "bull_case": "Analysts see a much higher price; next-gen cycles keep including Credo products.",
+   "bear_case": "Rebound timing uncertain; the irrational market could take longer, adding risk.",
+   "analyzed_at": "2026-11-06T11:00:07.298835+00:00",
+   "stance_flip": "BUY (28 Sep) -> CONDITIONAL_BUY (softening: now waiting for a bottom signal)"
+  },
+  {
    "video_id": "o3L-3ZDKjcg",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -68,12 +85,12 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
-   "idx": 3
+   "channel": "Mark Roussin CPA",
+   "idx": 1
   }
  ]
 }
