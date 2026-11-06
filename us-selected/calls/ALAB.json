@@ -1,0 +1,28 @@
+{
+ "ticker": "ALAB",
+ "slug": "ALAB",
+ "calls": [
+  {
+   "video_id": "7d2yvEwmv_s",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "5 AI Stocks I Can’t Wait to Buy on This Dip",
+   "published_at": "2026-11-05T23:57:55.055243+00:00",
+   "ticker": "ALAB",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "price_at_call": "below $200 (stated); down 50% in a month from just shy of $500 end of June",
+   "thesis": "First tracked for MarketBeat. Astera Labs is the connectivity nuts-and-bolts of AI; accelerating backlog and revenue growth, next-gen products ramping; Elliott-wave sentiment cycle points to a larger up-cycle once fear turns to optimism — wait for the turn signal.",
+   "base_case": "Upcoming results reconfirm strong demand; markets re-engage.",
+   "bull_case": "Fractal wave cycle leads to a much larger up-wave as the market grows.",
+   "bear_case": "Ran ahead of itself in June; valuation still looks a little expensive.",
+   "analyzed_at": "2026-11-06T11:00:07.298835+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
