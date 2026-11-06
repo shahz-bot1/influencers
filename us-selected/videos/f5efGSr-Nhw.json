@@ -1,0 +1,29 @@
+{
+ "video_id": "f5efGSr-Nhw",
+ "title": "Microsoft Stock: Buy or Sell? (My Final Verdict)",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-03T22:58:14.766137+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc CFA updates Microsoft after its quarterly results and upgrades the stock to a buying opportunity, reversing the downgrade he made a few weeks earlier when the price ran from $350 to $550 between July and October. Shares now trade at $529. The centrepiece is remaining performance obligations of $677 billion - contracted cloud revenue, with roughly 30% (about $225 billion) recognised in the next 12 months over a 2.3-year weighted average duration - though a large share comes from OpenAI, and fears that OpenAI may delay or not pay its obligations have ebbed and flowed; Anthropic's narrowing losses and a possible OpenAI IPO would ease that concern. On the weak side, Windows OEM revenue fell 27% year on year on soft PC demand and elevated channel inventory, with management expecting declines to worsen - the same higher memory and CPU prices driving AI demand are hurting consumer electronics. At a forward P/E of 22, slightly below its average since early 2024, his updated discounted cash flow model gives a higher fair value, about 11.4% above the market price after a margin of safety (the exact fair-value figure is garbled in the captions). He upgraded Microsoft to BUY on 29 October 2026 with medium conviction, and now records the date of each rating change in his spreadsheets.",
+ "calls": [
+  {
+   "video_id": "f5efGSr-Nhw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Microsoft Stock: Buy or Sell? (My Final Verdict)",
+   "published_at": "2026-11-03T22:58:14.766137+00:00",
+   "ticker": "MSFT",
+   "direction": "BUY",
+   "price_at_call": "$529 (stated market price, down from $550); DCF fair value ~11.4% above market after margin of safety (exact figure garbled in captions)",
+   "fair_value": null,
+   "thesis": "Upgrades MSFT to a buying opportunity (medium conviction) after downgrading it a few weeks ago when the price ran $350 to $550 (Jul-Oct). Updated DCF after Q1 results gives a higher fair value; CRPO of $677B with ~30% (~$225B) converting to revenue in the next 12 months supports the AI/cloud story, though Windows OEM revenue fell 27% YoY on weak PC demand.",
+   "base_case": "Contracted cloud backlog converts steadily (2.3-year weighted average duration); AI segments boom while PC/Windows/gaming stay soft for a few quarters.",
+   "bull_case": "OpenAI concentration fears ease - Anthropic's losses narrowing, an OpenAI IPO would add transparency - and contracted revenue plus capacity build drives growth.",
+   "bear_case": "OpenAI may delay or not pay its obligations; memory/CPU prices keep suppressing PC demand and channel inventory stays elevated.",
+   "flip": true,
+   "stance_flip": "HOLD (25 Oct) -> BUY (upgrade dated 29 Oct, announced in this video)",
+   "analyzed_at": "2026-11-06T23:07:23.676483+00:00",
+   "collab": false
+  }
+ ]
+}
