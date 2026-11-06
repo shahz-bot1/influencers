@@ -3,6 +3,24 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "qVkz6eo5OkQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Stock Market Sell-Off: 4 Ridiculously Cheap Semiconductor Stocks You Can Buy Today",
+   "published_at": "2026-11-06T11:55:39.066530+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "$326 (stated market price)",
+   "fair_value": "$523",
+   "thesis": "Undervalued: DCF fair value $523 vs $326; builds custom AI chips for Alphabet and other hyperscalers. Election-driven data-centre slowdown fears only delay, not cancel, buildouts. He owns it and is adding more.",
+   "bull_case": "AI ASIC demand from hyperscalers keeps compounding; buildout delays are a slowdown, not cancellations.",
+   "bear_case": "Slower data-centre approvals delay Broadcom sales; AI demand visibility only runs through early 2028.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-06T14:58:40+00:00",
+   "collab": false
+  },
+  {
    "video_id": "Fjyfta0Ltzw",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -297,20 +315,20 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Couch Investor",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
