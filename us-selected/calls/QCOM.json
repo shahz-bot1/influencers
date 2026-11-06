@@ -3,6 +3,43 @@
  "slug": "QCOM",
  "calls": [
   {
+   "video_id": "qVkz6eo5OkQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Stock Market Sell-Off: 4 Ridiculously Cheap Semiconductor Stocks You Can Buy Today",
+   "published_at": "2026-11-06T11:55:39.066530+00:00",
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "price_at_call": "$165 (stated market price)",
+   "fair_value": "$282",
+   "thesis": "Undervalued chip name to add in November: DCF fair value $282 vs $165 (~71% upside); data-centre entry via Meta/Amazon deals starts generating revenue in 2027. He owns it and is adding more.",
+   "bull_case": "Data-centre deals with Meta and Amazon hyperscalers; new revenue leg from 2027 offsets smartphone softness.",
+   "bear_case": "Consumer-electronics declines; higher memory/storage component prices in 2026 are a headwind to smartphones.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-06T14:58:40+00:00",
+   "collab": false
+  },
+  {
+   "video_id": "v93-UPv6ozY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Qualcomm Stock Falling, and is it a Buying Opportunity? | QCOM Stock Analysis",
+   "published_at": "2026-11-05T18:57:55.055243+00:00",
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "price_at_call": "~$160 (aftermarket, down ~7%)",
+   "fair_value": "$281",
+   "thesis": "Excellent buying opportunity with high conviction: forward P/E 13, near its cheapest valuation in years; smartphone weakness from higher memory/storage prices is a near-term headwind, but the data-centre pivot (SpaceX multi-year partnership, Amazon multi-generational AI data-centre collaboration, ~$5B data-centre revenue guided for FY2027) is the new growth leg. He bought a few weeks ago and is still adding.",
+   "base_case": "Data-centre revenue of ~$5B in FY2027 (>10% of FY2026's $43B total) grows to a larger share; the smartphone upgrade cycle continues despite higher component prices.",
+   "bull_case": "Data-centre demand soars and the $5B FY2027 guide proves conservative as the segment scales fast.",
+   "bear_case": "Smartphone weakness persists as higher component prices suppress unit sales; Q1 FY2027 revenue guide midpoint $10.8B already disappointed; operating cash flow fell to $11.1B in FY2026 from $14B.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-06T23:07:23.676483+00:00",
+   "collab": false
+  },
+  {
    "video_id": "XjB529j4ytc",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -76,7 +113,7 @@
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 4
+   "idx": 6
   }
  ]
 }
