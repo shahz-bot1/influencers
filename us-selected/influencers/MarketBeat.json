@@ -4,6 +4,46 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-05T23:57:55.055243+00:00",
+   "price": "not stated (down double digits post-earnings)",
+   "video_id": "7d2yvEwmv_s"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-05T23:57:55.055243+00:00",
+   "price": "P/E under $9 (stated); lowest since ~May",
+   "video_id": "7d2yvEwmv_s"
+  },
+  {
+   "ticker": "ALAB",
+   "tickerSlug": "ALAB",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-05T23:57:55.055243+00:00",
+   "price": "below $200 (stated); down 50% in a month from just shy of $500 end of June",
+   "video_id": "7d2yvEwmv_s"
+  },
+  {
+   "ticker": "CRDO",
+   "tickerSlug": "CRDO",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-05T23:57:55.055243+00:00",
+   "price": "not stated (down ~45% in the last month)",
+   "video_id": "7d2yvEwmv_s"
+  },
+  {
+   "ticker": "ORCL",
+   "tickerSlug": "ORCL",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-05T23:57:55.055243+00:00",
+   "price": "not stated",
+   "video_id": "7d2yvEwmv_s"
+  },
+  {
    "ticker": "CRWV",
    "tickerSlug": "CRWV",
    "direction": "AVOID",
