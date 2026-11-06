@@ -66,9 +66,10 @@
  },
  "Of4_80Z_cvY": {
   "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
   "title": "Asymmetric Portfolio: October Stock Buys",
   "published_at": "2026-10-03T04:55:41.125284+00:00",
-  "analyzed_at": "2026-11-03T05:30:00+00:00",
+  "analyzed_at": "2026-11-04T04:56:45+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
@@ -457,6 +458,30 @@
   "title": "Why Hims & Hers Could 100X Your Money",
   "published_at": "2026-11-02T16:55:42.113720+00:00",
   "analyzed_at": "2026-11-03T05:30:00+00:00",
+  "alerted": true
+ },
+ "J_Uzz_o8cjQ": {
+  "channel": "Sven Carlin",
+  "handle": "@value-investing",
+  "title": "Buy The Dip Market Mechanics - What Needs To Happen For A Proper Crash!",
+  "published_at": "2026-11-05T18:55:35.223108+00:00",
+  "analyzed_at": "2026-11-06T04:58:37.767680+00:00",
+  "alerted": true
+ },
+ "WdkKqM8GPcA": {
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "title": "The Market Hated MELI's Earnings - Here's What You Need To Know",
+  "published_at": "2026-11-05T22:55:35.223108+00:00",
+  "analyzed_at": "2026-11-06T04:58:37.767680+00:00",
+  "alerted": true
+ },
+ "decr2Viwot0": {
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "title": "Why The Market Is Crashing Right Now",
+  "published_at": "2026-11-05T17:55:35.223108+00:00",
+  "analyzed_at": "2026-11-06T04:58:37.767680+00:00",
   "alerted": true
  }
 }
