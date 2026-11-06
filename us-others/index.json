@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T05:02:42.170585+00:00",
+ "updated": "2026-11-06T04:59:29.263344+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -1202,6 +1202,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "MELI",
+   "slug": "MELI",
+   "lastDate": "2026-11-06T04:58:37.767680+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$1,500"
+    }
+   ],
+   "influencers": [
+    "Daniel Pronk"
+   ],
+   "lastStated": "~$1,500 (down 12.4% on the day, near 52-week lows; ~$76bn market cap)",
+   "nCalls": 1
+  },
+  {
    "ticker": "META",
    "slug": "META",
    "lastDate": "2026-10-29T04:58:25.783269+00:00",
@@ -2197,7 +2214,7 @@
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
    "nCalls": 27,
-   "nVideos": 11
+   "nVideos": 12
   },
   {
    "name": "Brian Feroldi",
@@ -2210,8 +2227,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 14,
-   "nVideos": 9
+   "nCalls": 15,
+   "nVideos": 10
   },
   {
    "name": "Everything Money",
@@ -2246,7 +2263,7 @@
    "handle": "@value-investing",
    "slug": "Sven_Carlin",
    "nCalls": 25,
-   "nVideos": 4
+   "nVideos": 5
   },
   {
    "name": "Tom Nash",
@@ -2264,6 +2281,36 @@
   }
  ],
  "videos": [
+  {
+   "id": "WdkKqM8GPcA",
+   "title": "The Market Hated MELI's Earnings - Here's What You Need To Know",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-11-05T22:55:35.223108+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "J_Uzz_o8cjQ",
+   "title": "Buy The Dip Market Mechanics - What Needs To Happen For A Proper Crash!",
+   "creator": "Sven Carlin",
+   "channels": [
+    "Sven Carlin"
+   ],
+   "published_at": "2026-11-05T18:55:35.223108+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "decr2Viwot0",
+   "title": "Why The Market Is Crashing Right Now",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-11-05T17:55:35.223108+00:00",
+   "nCalls": 0
+  },
   {
    "id": "CILREIdG9Sw",
    "title": "My Top Stock to Buy in November",
