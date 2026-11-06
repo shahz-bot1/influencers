@@ -1,0 +1,29 @@
+{
+ "video_id": "v93-UPv6ozY",
+ "title": "Why Is Qualcomm Stock Falling, and is it a Buying Opportunity? | QCOM Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-05T18:57:55.055243+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble names/numbers in places",
+ "summary": "Parkevtate Vosianc CFA asks whether Qualcomm's post-earnings slide is a sell or a buying opportunity, after revenue fell 8% year on year and earnings before taxes fell 61%, with the smartphone industry hit by higher memory and storage component prices forcing higher handset prices and fewer units sold. The stock fell nearly 7% after hours to about $160, giving up most of the day's gains from a multi-year SpaceX partnership announcement. He stresses the positives: renewed long-term licence agreements with Apple, Huawei and Transsion (rendered 'Transition' in captions), and the data-centre pivot - a multi-generational AI data-centre collaboration with Amazon, with roughly $5 billion of data-centre revenue guided for fiscal 2027 against $43 billion total revenue in fiscal 2026. Guidance disappointed, with next-quarter revenue guided to a $10.8 billion midpoint, and cash flow from operations fell to $11.1 billion in fiscal 2026 from $14 billion. But at a forward P/E of 13 - near its cheapest in years - he sees an opportunity: he bought a few weeks ago, is still adding, and values the business at $281 a share, calling it an excellent buying opportunity with high conviction. He also flags Nvidia's results on 17 November, which he will cover live for members only.",
+ "calls": [
+  {
+   "video_id": "v93-UPv6ozY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Qualcomm Stock Falling, and is it a Buying Opportunity? | QCOM Stock Analysis",
+   "published_at": "2026-11-05T18:57:55.055243+00:00",
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "price_at_call": "~$160 (aftermarket, down ~7%)",
+   "fair_value": "$281",
+   "thesis": "Excellent buying opportunity with high conviction: forward P/E 13, near its cheapest valuation in years; smartphone weakness from higher memory/storage prices is a near-term headwind, but the data-centre pivot (SpaceX multi-year partnership, Amazon multi-generational AI data-centre collaboration, ~$5B data-centre revenue guided for FY2027) is the new growth leg. He bought a few weeks ago and is still adding.",
+   "base_case": "Data-centre revenue of ~$5B in FY2027 (>10% of FY2026's $43B total) grows to a larger share; the smartphone upgrade cycle continues despite higher component prices.",
+   "bull_case": "Data-centre demand soars and the $5B FY2027 guide proves conservative as the segment scales fast.",
+   "bear_case": "Smartphone weakness persists as higher component prices suppress unit sales; Q1 FY2027 revenue guide midpoint $10.8B already disappointed; operating cash flow fell to $11.1B in FY2026 from $14B.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-06T23:07:23.676483+00:00",
+   "collab": false
+  }
+ ]
+}
