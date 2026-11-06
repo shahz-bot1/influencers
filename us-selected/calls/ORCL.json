@@ -3,6 +3,23 @@
  "slug": "ORCL",
  "calls": [
   {
+   "video_id": "7d2yvEwmv_s",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "5 AI Stocks I Can’t Wait to Buy on This Dip",
+   "published_at": "2026-11-05T23:57:55.055243+00:00",
+   "ticker": "ORCL",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "price_at_call": "not stated",
+   "thesis": "Most controversial of the five: debt, dilution, spending and cash-flow problems are real, but backlog tracking toward $1tn, capex set to hit a ceiling and a transition back to positive free cash flow; deeply corrected and oversold, high probability of rebound on a positive trigger.",
+   "base_case": "Subsequent reports improve as investments monetise and cash flow turns positive.",
+   "bull_case": "Capex cap + FCF turn + return of capacity to return capital to investors.",
+   "bear_case": "Risk of new lows; debt load and spending remain the fear.",
+   "analyzed_at": "2026-11-06T11:00:07.298835+00:00",
+   "stance_flip": "BUY (31 Oct) -> CONDITIONAL_BUY (softening: now waiting for a positive trigger)"
+  },
+  {
    "video_id": "ZWSeoBObE08",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -54,11 +71,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Couch Investor",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
