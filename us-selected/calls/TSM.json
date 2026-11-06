@@ -3,6 +3,24 @@
  "slug": "TSM",
  "calls": [
   {
+   "video_id": "qVkz6eo5OkQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Stock Market Sell-Off: 4 Ridiculously Cheap Semiconductor Stocks You Can Buy Today",
+   "published_at": "2026-11-06T11:55:39.066530+00:00",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price_at_call": "$395 (stated market price)",
+   "fair_value": "$566",
+   "thesis": "Undervalued: DCF fair value $566 vs $395; calls it the best manufacturing company in the world, demand still exceeding supply. Only one of the four he does not own yet, but interested in adding.",
+   "bull_case": "Demand exceeds supply and high capacity utilisation is offsetting margin pressure from overseas fabs.",
+   "bear_case": "US-China/Taiwan geopolitical risk; management guides gross margins down from 58% to 53% as US/Europe/Japan fabs ramp.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-06T14:58:40+00:00",
+   "collab": false
+  },
+  {
    "video_id": "vBt4asdgxoI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -78,7 +96,7 @@
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
