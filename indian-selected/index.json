@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T01:31:50.361865+00:00",
+ "updated": "2026-11-07T01:30:53.938009+00:00",
  "tickers": [
   {
    "ticker": "DATA CENTER THEME",
@@ -44,7 +44,7 @@
   {
    "ticker": "GOOGL",
    "slug": "GOOGL",
-   "lastDate": "2026-10-30T15:26:31.859677+00:00",
+   "lastDate": "2026-11-05T15:26:25.226127+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -56,7 +56,7 @@
     "Akshat Shrivastava"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "INDIA IT",
@@ -146,19 +146,20 @@
   {
    "ticker": "NASDAQ 100",
    "slug": "NASDAQ_100",
-   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "lastDate": "2026-11-05T15:26:25.226127+00:00",
    "chips": [
     {
      "dir": "HOLD",
-     "n": 1,
+     "n": 2,
      "avg": null
     }
    ],
    "influencers": [
+    "Akshat Shrivastava",
     "Rahul Jain"
    ],
    "lastStated": "",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "NIFTY 100",
@@ -316,8 +317,13 @@
   {
    "ticker": "US AI STOCKS",
    "slug": "US_AI_STOCKS",
-   "lastDate": "2026-09-23T20:54:12.349385+00:00",
+   "lastDate": "2026-11-05T15:26:25.226127+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
     {
      "dir": "SELL",
      "n": 1,
@@ -325,10 +331,11 @@
     }
    ],
    "influencers": [
+    "Akshat Shrivastava",
     "Rahul Jain"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "WEALTH MANAGEMENT / CAPITAL MARKET STOCKS",
@@ -353,8 +360,8 @@
    "name": "Akshat Shrivastava",
    "handle": "@AkshatZayn",
    "slug": "Akshat_Shrivastava",
-   "nCalls": 2,
-   "nVideos": 10
+   "nCalls": 5,
+   "nVideos": 11
   },
   {
    "name": "Rahul Jain",
@@ -372,6 +379,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "oq5odXfokrM",
+   "title": "Great time for Indian Markets? (after Trump's loss) | Akshat Shrivastava",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-11-05",
+   "nCalls": 3
+  },
   {
    "id": "m8NsCq3Qkhc",
    "title": "How to Spot GREAT Stocks, Avoid Bad Stocks and Survive Market Cycles - Rahul Jain G2G",
