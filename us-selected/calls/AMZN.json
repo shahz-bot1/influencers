@@ -3,6 +3,25 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "66swIUTdJdk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Amazon Stock: Buy or Sell? (My Final Verdict)",
+   "published_at": "2026-11-07T13:55:38.779718+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "$251",
+   "fair_value": "$335",
+   "thesis": "Ads deceleration and negative free cash flow are short-term; AWS guided to grow north of 40% in 2027-28, chips business thriving, forward PE 22.7.",
+   "base_case": "Free cash flow improves from 2028 as capex normalises after heavy 2026-27 spend.",
+   "bull_case": "AWS could be a trillion-dollar revenue business in 5-10 years; 2027 capex of $275-350B funds that demand.",
+   "bear_case": "Free cash flow stays negative for another couple of years on heavy capex; agentic AI could threaten the ads moat.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T14:57:58.163508+00:00",
+   "collab": false
+  },
+  {
    "video_id": "CrrqicN_Kbo",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -275,24 +294,24 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 10
+   "idx": 11
   },
   {
    "channel": "Couch Investor",
-   "idx": 11
+   "idx": 12
   }
  ]
 }
