@@ -3,6 +3,45 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "S-p77T41-D8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "2027 Market Predictions: Here’s What We’re Actually Doing",
+   "published_at": "2026-11-07T21:58:31.432985+00:00",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T23:13:54.000000+00:00",
+   "collab": false,
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "~$630",
+   "fair_value": null,
+   "thesis": "2027 lean: picks Meta over Micron every day of the week - expects 20%+ stock appreciation next year from ~$630; ad business about to overtake Google revenue-wise, 3bn+ users, Muse an early success; free cash flow negative near-term on data-centre/GPU spend, expected to turn positive in about a year.",
+   "base_case": "Core ads keep compounding; AI improves targeting while Muse monetisation starts earlier than usual at Meta.",
+   "bull_case": "Muse becomes a real revenue line and Reality Labs losses shrink as promised, restoring free cash flow.",
+   "bear_case": "Costs grew ~70% vs revenue +30% last quarter; no cloud business to offset the AI spend, unlike Microsoft/Amazon/Google."
+  },
+  {
+   "video_id": "qdFdLiDy7WE",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Stock Sell-Off: 4 Stocks Wall Street Is Getting Wrong?",
+   "published_at": "2026-11-07T01:55:16.071212+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "~20x forward earnings; was $500-550 a couple of months ago",
+   "fair_value": null,
+   "thesis": "Neil's first pick: very undervalued after the sell-off. Ad business about to overtake Google revenue-wise, 3bn+ family-of-apps users, Muse an early success; free cash flow negative near-term on data-centre/GPU buildout but expected to turn positive in about a year.",
+   "base_case": "Core ads keep compounding; AI improves targeting and recommendations while Muse monetisation starts earlier than usual at Meta.",
+   "bull_case": "Muse becomes a real revenue line and Reality Labs losses shrink as promised, restoring free cash flow.",
+   "bear_case": "Costs grew ~70% vs revenue +30% last quarter, pressuring operating income; unlike Microsoft/Amazon/Google there is no cloud business to offset the AI spend.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T06:58:21.384156+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor"
+  },
+  {
    "video_id": "p2fpLPGrA5c",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -298,11 +337,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 3
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 7
+   "idx": 9
   }
  ]
 }
