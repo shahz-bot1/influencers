@@ -3,6 +3,25 @@
  "slug": "ZETA",
  "calls": [
   {
+   "video_id": "S-p77T41-D8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "2027 Market Predictions: Here’s What We’re Actually Doing",
+   "published_at": "2026-11-07T21:58:31.432985+00:00",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T23:13:54.000000+00:00",
+   "collab": false,
+   "ticker": "ZETA",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "~$32-$34",
+   "fair_value": "$30 (his 16 Oct fair value; bull case +37%)",
+   "thesis": "First explicit call (prior UNCERTAIN, 16 Oct): more excited to buy Zeta next year - if he buys it in the January public portfolio his cost basis would be ~$32, and he would like it more at a 20-25% discount (~$24-$27). Wants a name he can defend and add to on dips.",
+   "base_case": "Zeta keeps compounding at $32; he buys in January and holds through volatility.",
+   "bull_case": "Bull case +37% over his $30 fair value; a 20-25% discount entry makes the risk/reward compelling.",
+   "bear_case": "At $32-$34 it is still above his $30 fair value; without a discount the entry is thin on margin of safety."
+  },
+  {
    "video_id": "Ngrx4ZNDWI0",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -21,8 +40,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
