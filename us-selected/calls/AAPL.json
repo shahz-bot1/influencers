@@ -3,6 +3,26 @@
  "slug": "AAPL",
  "calls": [
   {
+   "video_id": "qdFdLiDy7WE",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Stock Sell-Off: 4 Stocks Wall Street Is Getting Wrong?",
+   "published_at": "2026-11-07T01:55:16.071212+00:00",
+   "ticker": "AAPL",
+   "direction": "HOLD",
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "First tracked call. Record fiscal year: Q4 revenue ~$115bn (+12%), iPhone ~$58bn (+17%), services a record ~$32bn. Couch calls it the most predictable, boring Mag 7 name: it does not need to win at AI, and its cash pile lets it buy AI companies later if needed.",
+   "base_case": "iPhone 17 demand and services growth keep compounding; AI tailwinds arrive second-order via App Store fees on external AI apps (~$1bn+/yr).",
+   "bull_case": "In a downturn Apple uses its cash to scoop up AI assets and re-enters the race cheaply.",
+   "bear_case": "Rising memory costs and the rebuilt Siri rollout squeeze holiday-quarter margins; iPad, wearables and Greater China stay soft.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T06:58:21.384156+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor"
+  },
+  {
    "video_id": "vVsjMofRjqs",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -52,12 +72,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  },
+  {
    "channel": "Mark Roussin CPA",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
