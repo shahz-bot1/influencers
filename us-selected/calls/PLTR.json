@@ -3,6 +3,25 @@
  "slug": "PLTR",
  "calls": [
   {
+   "video_id": "S-p77T41-D8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "2027 Market Predictions: Here’s What We’re Actually Doing",
+   "published_at": "2026-11-07T21:58:31.432985+00:00",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T23:13:54.000000+00:00",
+   "collab": false,
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "Still very bullish: Palantir is one of the two biggest positions in his portfolio (with HOOD) from very low cost bases; insatiable enterprise and sovereign AI demand. Prior BUY stands - the 16 Oct overvaluation flag was a valuation note, not a stance change.",
+   "base_case": "Enterprise AI demand keeps compounding; Palantir stays a top government/enterprise AI winner.",
+   "bull_case": "Sovereign AI deals and agentic adoption drive revenue well past current expectations.",
+   "bear_case": "Flagged overvalued on his dashboard (~22% above price even on aggressive assumptions, 16 Oct); premium valuation leaves no room for disappointment."
+  },
+  {
    "video_id": "e23u2estF9E",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -128,20 +147,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
-   "idx": 2
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   },
   {
-   "channel": "Couch Investor",
-   "idx": 6
+   "channel": "MarketBeat",
+   "idx": 3
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
