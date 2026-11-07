@@ -3,6 +3,25 @@
  "slug": "CIFR",
  "calls": [
   {
+   "video_id": "h17AZEdmxgM",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "These AI Stocks Got Crushed (Only 3 Are Buys)",
+   "published_at": "2026-11-06T23:55:16.071212+00:00",
+   "ticker": "CIFR",
+   "direction": "AVOID",
+   "price_at_call": "Down 60% in a month, 59% YTD",
+   "fair_value": null,
+   "thesis": "Red zone, reiterated: 15-year AWS lease is solid, but the market doubts how Cipher funds its buildout; the stock fell 18% Wednesday and the 2 Nov earnings did not refresh the story, with no new lease announcements.",
+   "base_case": "One great lease is not enough until the funding is lined up.",
+   "bull_case": "Investment-grade tenant (AWS) means the lease itself should be fulfilled.",
+   "bear_case": "No funding lined up and no new leases; the sell-off has run since before the midterms with no catalyst to stop it.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T06:58:21.384156+00:00",
+   "collab": false
+  },
+  {
    "video_id": "g1GeJQnFse8",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
