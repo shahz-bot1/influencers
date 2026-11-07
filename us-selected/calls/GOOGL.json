@@ -3,6 +3,45 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "QW9HCb7op00",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Alphabet Stock: Buy or Sell? (My Final Verdict)",
+   "published_at": "2026-11-07T12:55:38.779718+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "$279",
+   "fair_value": null,
+   "thesis": "Revenue +25%, Google Cloud +100% with a $561B backlog, TPU demand insatiable; forward PE 18.6. (Fair-value figure was garbled in the auto-captions and could not be read.)",
+   "base_case": "About $280B of the $561B cloud backlog converts to revenue over the next 24 months.",
+   "bull_case": "ROIC above 30% (38% most recently), well above the 9.8% cost of capital; capex returns stay attractive.",
+   "bear_case": "$8.2B quarterly loss on the SpaceX holding; heavy borrowing and capex rising significantly in 2027.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T14:57:58.163508+00:00",
+   "collab": false
+  },
+  {
+   "video_id": "qdFdLiDy7WE",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Stock Sell-Off: 4 Stocks Wall Street Is Getting Wrong?",
+   "published_at": "2026-11-07T01:55:16.071212+00:00",
+   "ticker": "GOOGL",
+   "direction": "HOLD",
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "Couch is not changing his position after a rough quarter: Cloud revenue more than doubled to ~$30bn and backlog is over $500bn, but EPS $2.12 missed the $2.32 estimate, free cash flow was -$9bn and the stock had its worst single-day drop since the 2004 IPO. Still a long-term compounder, but no new buying here.",
+   "base_case": "Cloud keeps doubling and could overtake Search within a year; search query growth was the highest in five years.",
+   "bull_case": "Gemini-driven cloud and ads growth re-rates the stock once capex normalises.",
+   "bear_case": "AI Mode monetises worse than traditional search, search growth is decelerating, and heavy AI capex keeps pressuring margins and cash flow.",
+   "flip": true,
+   "stance_flip": "BUY (5 Nov) -> HOLD",
+   "analyzed_at": "2026-11-07T06:58:21.384156+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor"
+  },
+  {
    "video_id": "p2fpLPGrA5c",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -420,28 +459,28 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
-  },
-  {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 3
   },
   {
+   "channel": "MarketBeat",
+   "idx": 5
+  },
+  {
    "channel": "Joseph Carlson After Hours",
-   "idx": 4
+   "idx": 6
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 9
+   "idx": 11
   }
  ]
 }
