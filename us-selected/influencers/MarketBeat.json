@@ -4,6 +4,70 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "RIOT",
+   "tickerSlug": "RIOT",
+   "direction": "BUY",
+   "date": "2026-11-06T23:55:16.071212+00:00",
+   "price": "Under $20; down ~20% from summer highs despite a 31% rally in 5 days",
+   "video_id": "h17AZEdmxgM"
+  },
+  {
+   "ticker": "WULF",
+   "tickerSlug": "WULF",
+   "direction": "BUY",
+   "date": "2026-11-06T23:55:16.071212+00:00",
+   "price": "Down ~40% in 3 months",
+   "video_id": "h17AZEdmxgM"
+  },
+  {
+   "ticker": "HUT",
+   "tickerSlug": "HUT",
+   "direction": "BUY",
+   "date": "2026-11-06T23:55:16.071212+00:00",
+   "price": "Down 46% in the last month",
+   "video_id": "h17AZEdmxgM"
+  },
+  {
+   "ticker": "APLD",
+   "tickerSlug": "APLD",
+   "direction": "HOLD",
+   "date": "2026-11-06T23:55:16.071212+00:00",
+   "price": "~$15, near 52-week lows; down 50% YTD",
+   "video_id": "h17AZEdmxgM"
+  },
+  {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "HOLD",
+   "date": "2026-11-06T23:55:16.071212+00:00",
+   "price": null,
+   "video_id": "h17AZEdmxgM"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "HOLD",
+   "date": "2026-11-06T23:55:16.071212+00:00",
+   "price": "~$39bn market cap on ~$1.4bn trailing revenue (~28x sales)",
+   "video_id": "h17AZEdmxgM"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "AVOID",
+   "date": "2026-11-06T23:55:16.071212+00:00",
+   "price": null,
+   "video_id": "h17AZEdmxgM"
+  },
+  {
+   "ticker": "CIFR",
+   "tickerSlug": "CIFR",
+   "direction": "AVOID",
+   "date": "2026-11-06T23:55:16.071212+00:00",
+   "price": "Down 60% in a month, 59% YTD",
+   "video_id": "h17AZEdmxgM"
+  },
+  {
    "ticker": "AMD",
    "tickerSlug": "AMD",
    "direction": "CONDITIONAL_BUY",
