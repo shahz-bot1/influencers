@@ -3,6 +3,25 @@
  "slug": "APLD",
  "calls": [
   {
+   "video_id": "h17AZEdmxgM",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "These AI Stocks Got Crushed (Only 3 Are Buys)",
+   "published_at": "2026-11-06T23:55:16.071212+00:00",
+   "ticker": "APLD",
+   "direction": "HOLD",
+   "price_at_call": "~$15, near 52-week lows; down 50% YTD",
+   "fair_value": null,
+   "thesis": "Yellow/caution, not a buy: a landlord on paper with ~1.4 GW of leases worth ~$36bn, but flagship Polaris Forge 1 is leased to CoreWeave, so the lease is only as good as the tenant. Chris gives it an asterisk; investors may overlook it more than the other two yellow names as it fans out to more tenants.",
+   "base_case": "Diversified campuses attract a broader tenant base and the CoreWeave exposure dilutes over time.",
+   "bull_case": "Lease book is large and diverse; entry point near the bottom of the 52-week range if the long-term thesis holds.",
+   "bear_case": "CoreWeave credit stress could impair the flagship lease; tenant quality is the open question.",
+   "flip": true,
+   "stance_flip": "BUY (31 Oct) -> HOLD",
+   "analyzed_at": "2026-11-07T06:58:21.384156+00:00",
+   "collab": false
+  },
+  {
    "video_id": "ZWSeoBObE08",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -90,11 +109,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
