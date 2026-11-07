@@ -3,6 +3,22 @@
  "slug": "US_AI_STOCKS",
  "calls": [
   {
+   "video_id": "oq5odXfokrM",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "Great time for Indian Markets? (after Trump's loss) | Akshat Shrivastava",
+   "published_at": "2026-11-05T15:26:25.226127+00:00",
+   "ticker": "US AI STOCKS",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "The AI story is intact and no bubble is bursting: AI is penetrating almost every segment, valuations are reasonable (Google 19 PE), and AI backers have bipartisan support; he is cutting some Indian equities to move more money into AI stocks",
+   "base_case": "High-quality AI names bought on discount compound over 2-3 years without needing a short-term sale",
+   "bull_case": "AI earnings keep growing ~20% and the discounted names re-rate",
+   "bear_case": "Cheap, fast debt issuance dries up and AI capex fails to convert into profits",
+   "note": "First Akshat call on the US AI theme (Rahul Jain's earlier SELL does not count - flips are per creator). Specific names beyond Google are reserved for his community, so only the theme-level call is recorded.",
+   "analyzed_at": "2026-11-07T01:28:59.934062+00:00"
+  },
+  {
    "video_id": "NZ0fsllxcdE",
    "channel": "Rahul Jain",
    "handle": "@torahulj",
@@ -20,8 +36,12 @@
  ],
  "byInf": [
   {
-   "channel": "Rahul Jain",
+   "channel": "Akshat Shrivastava",
    "idx": 0
+  },
+  {
+   "channel": "Rahul Jain",
+   "idx": 1
   }
  ]
 }
