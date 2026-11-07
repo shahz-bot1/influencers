@@ -3,6 +3,25 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "h17AZEdmxgM",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "These AI Stocks Got Crushed (Only 3 Are Buys)",
+   "published_at": "2026-11-06T23:55:16.071212+00:00",
+   "ticker": "CRWV",
+   "direction": "AVOID",
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "Red zone, reiterated: operator funded entirely by debt, ~$52bn total debt, unsecured bonds below 80 cents (yields above 15%) — the bond market is worried. Backlog ~$104bn but concentrated in Meta and OpenAI (~$40bn).",
+   "base_case": "Revenue keeps doubling but debt-funded growth stays fragile while credit markets show cracks.",
+   "bull_case": "Revenue more than doubled last quarter and the $104bn backlog converts if tenants stay put.",
+   "bear_case": "If Meta or OpenAI pulls back, backlog and debt payments come under pressure; funding relies on credit markets that are already cracking.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T06:58:21.384156+00:00",
+   "collab": false
+  },
+  {
    "video_id": "PHONn62qAyQ",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -114,11 +133,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Couch Investor",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
