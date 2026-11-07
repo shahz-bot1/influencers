@@ -1,0 +1,29 @@
+{
+ "video_id": "QW9HCb7op00",
+ "title": "Alphabet Stock: Buy or Sell? (My Final Verdict)",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-07T12:55:38.779718+00:00",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate Vosianc CFA reviews Alphabet after the stock fell a further 10% post-earnings, extending a slide from about $400. Revenue rose 25%, R&D rose 36% on AI talent and depreciation, and operating profit still grew 30%. The disappointment is an $8.2 billion quarterly loss on the SpaceX holding — he wishes Alphabet had sold the stake after the IPO pop and would like it to sell what it can. Encouragingly, flat operating cash flow partly reflects a TPU inventory build-up, with TPU demand insatiable. The balance sheet is strong: over $265 billion of cash against $125 billion of long-term debt. Google Cloud grew revenue by over 100% with a $561 billion backlog, about 55% of which (roughly $280 billion) should convert to revenue over the next 24 months. Capex of $200 billion is guided for 2026 and is set to rise significantly in 2027 — he guesses $250–300 billion. Return on invested capital has been above 30% since 2025 (38% most recently) against a 9.8% weighted average cost of capital, so he trusts management to earn an attractive return on the spend. His DCF fair-value figure was garbled in the auto-captions and could not be read, so it is not recorded; at $279 and a forward P/E of 18.6 the stock looks undervalued on both methods. He calls it a buying opportunity with high conviction. Call: GOOGL BUY (reiterated; prior BUY 31 October).",
+ "calls": [
+  {
+   "video_id": "QW9HCb7op00",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Alphabet Stock: Buy or Sell? (My Final Verdict)",
+   "published_at": "2026-11-07T12:55:38.779718+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "$279",
+   "fair_value": null,
+   "thesis": "Revenue +25%, Google Cloud +100% with a $561B backlog, TPU demand insatiable; forward PE 18.6. (Fair-value figure was garbled in the auto-captions and could not be read.)",
+   "base_case": "About $280B of the $561B cloud backlog converts to revenue over the next 24 months.",
+   "bull_case": "ROIC above 30% (38% most recently), well above the 9.8% cost of capital; capex returns stay attractive.",
+   "bear_case": "$8.2B quarterly loss on the SpaceX holding; heavy borrowing and capex rising significantly in 2027.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T14:57:58.163508+00:00",
+   "collab": false
+  }
+ ]
+}
