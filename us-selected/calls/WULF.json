@@ -1,0 +1,31 @@
+{
+ "ticker": "WULF",
+ "slug": "WULF",
+ "calls": [
+  {
+   "video_id": "h17AZEdmxgM",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "These AI Stocks Got Crushed (Only 3 Are Buys)",
+   "published_at": "2026-11-06T23:55:16.071212+00:00",
+   "ticker": "WULF",
+   "direction": "BUY",
+   "price_at_call": "Down ~40% in 3 months",
+   "fair_value": null,
+   "thesis": "First tracked call. The safest landlord of the three buys: 20-year Anthropic lease, 401 MW in Kentucky, ~$19bn over the lease life, with a Google credit backstop on project financing; Q3 revenue +51% YoY, 83% from AI/HPC leases.",
+   "base_case": "Anthropic capacity comes online early 2028 and lease revenue scales on a Google-backed tenant.",
+   "bull_case": "Named investment-grade-backed tenant plus already-growing lease revenue before new capacity arrives.",
+   "bear_case": "Capacity not online until early 2028; still a buildout story exposed to power and construction timelines.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T06:58:21.384156+00:00",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
