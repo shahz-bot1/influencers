@@ -1,0 +1,29 @@
+{
+ "video_id": "ip2CoRiQKoA",
+ "title": "Great News for Take Two Interactive Stock Investors | TTWO STock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-07T14:45:38.779718+00:00",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate Vosianc CFA says GTA VI pre-orders have already reached $750 million, according to Sensor Tower — just $50 million short of GTA V’s $800 million day-one record, at higher $80/$100 pricing with a digital-heavy mix, and GTA V went on to $1 billion in its first three days, so GTA VI could top that. He calls it arguably the most anticipated game launch in history and possibly the biggest consumer product launch of all time. The game is not launching on PC initially — consoles only at launch — and the $100 complete edition accounts for most pre-orders, lifting the average selling price while digital sales carry lower distribution costs. Despite the hype, Take-Two trades at its cheapest valuation in years, a forward P/E of just 20, which he finds surprising given the anticipation. On higher expected free cash flow he raised his fair value to $234 against a current price of $212, slightly undervalued on both a DCF and a forward-P/E basis, and calls it a buying opportunity heading into launch. Longer term, the company has a track record beyond GTA — Red Dead Redemption, NBA 2K and others — of making games people love. Call: TTWO BUY (reiterated; prior BUY 27 September), fair value $234 vs $212.",
+ "calls": [
+  {
+   "video_id": "ip2CoRiQKoA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Great News for Take Two Interactive Stock Investors | TTWO STock Analysis",
+   "published_at": "2026-11-07T14:45:38.779718+00:00",
+   "ticker": "TTWO",
+   "direction": "BUY",
+   "price_at_call": "$212",
+   "fair_value": "$234",
+   "thesis": "GTA VI pre-orders already $750M, near GTA V's $800M day-one record, at higher $80/$100 pricing with a digital mix; forward PE 20, cheapest valuation in years.",
+   "base_case": "GTA VI launch delivers record sales at higher average selling prices, lifting free cash flow.",
+   "bull_case": "Pre-orders near the record two weeks before launch; GTA VI likely well above GTA V's $1B first-three-days total.",
+   "bear_case": null,
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T14:57:58.163508+00:00",
+   "collab": false
+  }
+ ]
+}
