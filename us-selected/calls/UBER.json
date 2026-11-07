@@ -3,6 +3,24 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "zGAy-kA50pQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": "Fair value $125 (~75% undervalued, stated); forward PE 16.3 (stated); trading price not stated (up 7.35% on the day)",
+   "thesis": "BUY reiterated (was BUY 2 Nov, FV $122) - still one of the best stocks to buy right now, high conviction, ranking updated 4 Nov 2026. Post-earnings update: revenue +10% to $14.8B, adj EBITDA +31% to ~$3B, stock +7% the day after results; DCF fair value raised to $125.",
+   "base_case": "Gross bookings guided $64.25B at midpoint (+20% YoY); 215M+ monthly active platform customers (+14% YoY); operating cash flow $2.6B in the quarter.",
+   "bull_case": "Driverless is an opportunity, not just a risk: ~$22B of driver payments could be captured if an AV ride costs less than a driver ride, boosting profitability and letting Uber cut prices; Tesla AV rollout slower than expected (Texas election results, bureaucracy); Uber's customer relationships and brand are a moat a new AV provider must build from scratch.",
+   "bear_case": "Mobility revenue fell 2% on a lower take rate despite mobility gross bookings +18% YoY; driverless remains a huge risk if Tesla/Waymo scale fast; stock still underperforming the S&P 500.",
+   "analyzed_at": "2026-11-07T19:03:42.181104+00:00",
+   "published_at": "2026-11-07T16:00:12.940928+00:00",
+   "video_title": "Is Uber One of the Most Undervalued Stocks to Buy Right Now?",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null
+  },
+  {
    "video_id": "fbgsQde4kRU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -141,15 +159,15 @@
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "Couch Investor",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
