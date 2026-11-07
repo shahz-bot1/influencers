@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T05:00:21.327422+00:00",
+ "updated": "2026-11-07T04:59:19.739019+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -993,12 +993,12 @@
   {
    "ticker": "IREN",
    "slug": "IREN",
-   "lastDate": "2026-11-02T05:05:00+00:00",
+   "lastDate": "2026-11-07T04:58:21.218742+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$37"
+     "avg": "$48"
     },
     {
      "dir": "AVOID",
@@ -1011,8 +1011,8 @@
     "Asymmetric Investing",
     "Daniel Pronk"
    ],
-   "lastStated": "No price stated; down ~37% over three months",
-   "nCalls": 4
+   "lastStated": "No price stated; neoclouds sharply down (Nebius ~48% in 5 months)",
+   "nCalls": 5
   },
   {
    "ticker": "JBLU",
@@ -2241,8 +2241,8 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 37,
-   "nVideos": 17
+   "nCalls": 38,
+   "nVideos": 18
   },
   {
    "name": "Joseph Hogue, CFA",
@@ -2281,6 +2281,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "7vOchO5Uifg",
+   "title": "AI Stocks Crash After Midterms: Is Wall Street Overreacting?",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-11-06T16:55:39.927196+00:00",
+   "nCalls": 1
+  },
   {
    "id": "WdkKqM8GPcA",
    "title": "The Market Hated MELI's Earnings - Here's What You Need To Know",
