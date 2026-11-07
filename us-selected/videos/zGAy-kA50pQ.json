@@ -1,0 +1,28 @@
+{
+ "video_id": "zGAy-kA50pQ",
+ "title": "Is Uber One of the Most Undervalued Stocks to Buy Right Now?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-07T16:00:12.940928+00:00",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate Vosianc CFA updates Uber after quarterly results: revenue up 10% to $14.8 billion, adjusted EBITDA up 31% to about $3 billion, and the stock up almost 7% the day after results. Gross bookings are guided at $64.25 billion (+20% year on year) and monthly active platform customers exceed 215 million (+14% year on year). Driverless technology is the overhang: management’s focus is now commercial execution, with about 700 fully driverless vehicles on Uber by year-end, nearly tripling to 2,000 by end-2027, via partnerships — Tesla is famously not a partner. Texas election results may slow Tesla’s driverless rollout, a tailwind for Uber, and he has long argued Tesla’s rollout would be far slower than promised, with bureaucracy slowing it further even once the technology is ready. He reframes driverless as an opportunity, not just a risk: roughly $22 billion of driver payments could be captured if autonomous rides cost less than driver rides, boosting profitability or letting Uber cut prices. The bear note is mobility revenue down 2% on a lower take rate despite mobility gross bookings up 18% year on year. His DCF fair value rises to $125 (about 75% undervalued); forward P/E is 16.3. He has high conviction, ranking updated 4 November. Call: UBER BUY (reiterated; prior BUY 2 November, fair value $122 raised to $125).",
+ "calls": [
+  {
+   "video_id": "zGAy-kA50pQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": "Fair value $125 (~75% undervalued, stated); forward PE 16.3 (stated); trading price not stated (up 7.35% on the day)",
+   "thesis": "BUY reiterated (was BUY 2 Nov, FV $122) - still one of the best stocks to buy right now, high conviction, ranking updated 4 Nov 2026. Post-earnings update: revenue +10% to $14.8B, adj EBITDA +31% to ~$3B, stock +7% the day after results; DCF fair value raised to $125.",
+   "base_case": "Gross bookings guided $64.25B at midpoint (+20% YoY); 215M+ monthly active platform customers (+14% YoY); operating cash flow $2.6B in the quarter.",
+   "bull_case": "Driverless is an opportunity, not just a risk: ~$22B of driver payments could be captured if an AV ride costs less than a driver ride, boosting profitability and letting Uber cut prices; Tesla AV rollout slower than expected (Texas election results, bureaucracy); Uber's customer relationships and brand are a moat a new AV provider must build from scratch.",
+   "bear_case": "Mobility revenue fell 2% on a lower take rate despite mobility gross bookings +18% YoY; driverless remains a huge risk if Tesla/Waymo scale fast; stock still underperforming the S&P 500.",
+   "analyzed_at": "2026-11-07T19:03:42.181104+00:00",
+   "published_at": "2026-11-07T16:00:12.940928+00:00",
+   "video_title": "Is Uber One of the Most Undervalued Stocks to Buy Right Now?",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null
+  }
+ ]
+}
