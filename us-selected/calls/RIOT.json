@@ -1,0 +1,31 @@
+{
+ "ticker": "RIOT",
+ "slug": "RIOT",
+ "calls": [
+  {
+   "video_id": "h17AZEdmxgM",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "These AI Stocks Got Crushed (Only 3 Are Buys)",
+   "published_at": "2026-11-06T23:55:16.071212+00:00",
+   "ticker": "RIOT",
+   "direction": "BUY",
+   "price_at_call": "Under $20; down ~20% from summer highs despite a 31% rally in 5 days",
+   "fair_value": null,
+   "thesis": "First tracked call. Landlord, not operator: 15-year lease with a leading frontier AI lab for the entire Corsicana campus, 910 MW, ~$28bn over the initial term; just turned a GAAP profit last quarter.",
+   "base_case": "Contracted lease revenue starts flowing from mid-2028 while mining revenue carries the business until then.",
+   "bull_case": "Tenant bears GPU-obsolescence risk; long leases with hyperscalers make this a standout in the sector.",
+   "bear_case": "Most lease revenue does not arrive until mid-2028; still 64% Bitcoin-mining revenue; buildout costs $7.6-7.8bn; tenant unnamed, so credit quality is unproven.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T06:58:21.384156+00:00",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
