@@ -3,6 +3,45 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "qdFdLiDy7WE",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Stock Sell-Off: 4 Stocks Wall Street Is Getting Wrong?",
+   "published_at": "2026-11-07T01:55:16.071212+00:00",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "price_at_call": "Under $40bn market cap; down 50% from 52-week highs",
+   "fair_value": null,
+   "thesis": "Neil puts Nebius on the list again: best-in-class neocloud operator run by the ex-Yandex team, ARR ~$3bn, raised ~$3.5bn from Citi, demand not a problem; reports 12 Nov. Couch flags the funding risk but does not counter the buy.",
+   "base_case": "1 GW of Nvidia Vera Rubin capacity comes online (back-half loaded) in 2027, lifting exit ARR toward $7bn and 2028 revenue toward ~$40bn.",
+   "bull_case": "GPU prices keep rising and on-demand capacity sales fund the buildout without heavy dilution.",
+   "bear_case": "Capital markets are tightening, it must raise constantly to fund data centres and GPUs, and Gartner expects 80% of independent neoclouds to fail by 2030.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T06:58:21.384156+00:00",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor"
+  },
+  {
+   "video_id": "h17AZEdmxgM",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "These AI Stocks Got Crushed (Only 3 Are Buys)",
+   "published_at": "2026-11-06T23:55:16.071212+00:00",
+   "ticker": "NBIS",
+   "direction": "HOLD",
+   "price_at_call": "~$39bn market cap on ~$1.4bn trailing revenue (~28x sales)",
+   "fair_value": null,
+   "thesis": "First explicit MarketBeat call (prior mentions were UNCERTAIN). Yellow/caution on valuation, not the business: strongest neocloud balance sheet, ~$10bn debt vs CoreWeave's $52bn, profitable on a trailing basis, but shareholders pay the premium through dilution; earnings 12 Nov are the show-me moment.",
+   "base_case": "Growth keeps pace with the valuation at the 12 Nov print and the stock becomes more attractive.",
+   "bull_case": "Fast growth plus a strong balance sheet justify the premium if GPU depreciation stays manageable.",
+   "bear_case": "28x sales is too rich; dilution funds growth instead of debt, and GPU depreciation risk looms.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T06:58:21.384156+00:00",
+   "collab": false
+  },
+  {
    "video_id": "0M2-yDoGLYc",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -263,16 +302,16 @@
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
-   "channel": "MarketBeat",
-   "idx": 12
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 3
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 14
+   "idx": 16
   }
  ]
 }
