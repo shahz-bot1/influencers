@@ -3,6 +3,22 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "oq5odXfokrM",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "Great time for Indian Markets? (after Trump's loss) | Akshat Shrivastava",
+   "published_at": "2026-11-05T15:26:25.226127+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Google is a buy-on-dips core stock: down ~30% from its peak, 19 PE, 20%+ earnings growth over 20 years in dollar terms; he is buying another major round and will continue to add",
+   "base_case": "Aggregate at these levels and hold 2-5 years; even 15% earnings growth with a 30-40% margin of safety leaves a good return",
+   "bull_case": "20%+ earnings growth continues and the derating reverses from a 19 PE",
+   "bear_case": "Search gets commoditised and AI capex keeps rising without payoff, so the derating continues",
+   "note": "Reiterates his GOOGL BUY of 30 Oct 2026. His own action: buying another major round on top of a position already ~60-70% up from his purchase ~1-1.5 years ago. No share price stated, only percentage fall and PE.",
+   "analyzed_at": "2026-11-07T01:28:59.934062+00:00"
+  },
+  {
    "video_id": "_-QSrevxzuU",
    "channel": "Akshat Shrivastava",
    "handle": "@AkshatZayn",
