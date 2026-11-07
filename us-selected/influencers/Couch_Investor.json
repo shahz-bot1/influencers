@@ -7,6 +7,78 @@
    "ticker": "META",
    "tickerSlug": "META",
    "direction": "BUY",
+   "date": "2026-11-07T21:58:31.432985+00:00",
+   "price": "~$630",
+   "video_id": "S-p77T41-D8"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "HOLD",
+   "date": "2026-11-07T21:58:31.432985+00:00",
+   "price": "~$800",
+   "video_id": "S-p77T41-D8"
+  },
+  {
+   "ticker": "RBRK",
+   "tickerSlug": "RBRK",
+   "direction": "SELL",
+   "date": "2026-11-07T21:58:31.432985+00:00",
+   "price": "Sold a couple of days ago; ~90% gain",
+   "video_id": "S-p77T41-D8"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-11-07T21:58:31.432985+00:00",
+   "price": null,
+   "video_id": "S-p77T41-D8"
+  },
+  {
+   "ticker": "ZETA",
+   "tickerSlug": "ZETA",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-07T21:58:31.432985+00:00",
+   "price": "~$32-$34",
+   "video_id": "S-p77T41-D8"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-07T01:55:16.071212+00:00",
+   "price": "~20x forward earnings; was $500-550 a couple of months ago",
+   "video_id": "qdFdLiDy7WE"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "HOLD",
+   "date": "2026-11-07T01:55:16.071212+00:00",
+   "price": null,
+   "video_id": "qdFdLiDy7WE"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-07T01:55:16.071212+00:00",
+   "price": "Under $40bn market cap; down 50% from 52-week highs",
+   "video_id": "qdFdLiDy7WE"
+  },
+  {
+   "ticker": "AAPL",
+   "tickerSlug": "AAPL",
+   "direction": "HOLD",
+   "date": "2026-11-07T01:55:16.071212+00:00",
+   "price": null,
+   "video_id": "qdFdLiDy7WE"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
    "date": "2026-11-05T19:58:14.766137+00:00",
    "price": "not stated (bought a little today)",
    "video_id": "p2fpLPGrA5c"
