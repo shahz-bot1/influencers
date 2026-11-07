@@ -1,0 +1,29 @@
+{
+ "video_id": "66swIUTdJdk",
+ "title": "Amazon Stock: Buy or Sell? (My Final Verdict)",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-07T13:55:38.779718+00:00",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate Vosianc CFA gives his post-earnings verdict on Amazon, starting with two red flags: advertising decelerated from over 20% growth to under double digits (management blames timing and expects a re-acceleration) and free cash flow is significantly negative, likely for another couple of years. He treats both as short-term: ads should thrive given hundreds of millions of customers with payment details on file, though agentic AI is a durability worry, and free cash flow should improve from 2028 as capex normalises. The positives dominate: the chips business (Graviton/Trainium) is growing triple digits, revenue commitments are up more than 20x, and he calls Amazon’s proprietary chip programme arguably the best among the non-branded makers (Amazon, Alphabet, Meta, Microsoft), approaching a $25 billion run rate and potentially over $100 billion. Amazon reiterated about $220 billion of 2026 capex and guided to ‘meaningfully more’ in 2027, which he reads as $275–350 billion, and AWS is guided to grow north of 40% in 2027–28 and could become a trillion-dollar revenue business in 5–10 years. He also praises management for lowering the cost to serve customers despite years of inflation. His DCF fair value rises to $335 against a $251 market price (about 33% undervalued); forward P/E is 22.7. His top-10 ranking is reiterated with high conviction; he owns it and may add. Call: AMZN BUY (reiterated; prior BUY 2 November), fair value $335.",
+ "calls": [
+  {
+   "video_id": "66swIUTdJdk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Amazon Stock: Buy or Sell? (My Final Verdict)",
+   "published_at": "2026-11-07T13:55:38.779718+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "$251",
+   "fair_value": "$335",
+   "thesis": "Ads deceleration and negative free cash flow are short-term; AWS guided to grow north of 40% in 2027-28, chips business thriving, forward PE 22.7.",
+   "base_case": "Free cash flow improves from 2028 as capex normalises after heavy 2026-27 spend.",
+   "bull_case": "AWS could be a trillion-dollar revenue business in 5-10 years; 2027 capex of $275-350B funds that demand.",
+   "bear_case": "Free cash flow stays negative for another couple of years on heavy capex; agentic AI could threaten the ads moat.",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T14:57:58.163508+00:00",
+   "collab": false
+  }
+ ]
+}
