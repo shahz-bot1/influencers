@@ -3182,5 +3182,15 @@
   "bull_case": "In 5 years revenue is multiples higher and the stock is far above $1,500 as LatAm digitisation compounds.",
   "bear_case": "Margins never expand, Mexico deceleration spreads, or 90+ day NPLs (uptrending ~19.3%) deteriorate into real credit losses.",
   "analyzed_at": "2026-11-06T04:58:37.767680+00:00"
+ },
+ {
+  "video_id": "7vOchO5Uifg",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "IREN",
+  "direction": "BUY",
+  "thesis": "Reiterated bullish: still very much bullish on the neocloud space and rotating Mag 7 proceeds into high-beta AI names in tranches. IREN's earnings showed disciplined capex (lowered, not chasing growth at any cost) and a strong pricing bull case: long-term contracts $22M per megawatt over 5 years with 90% of GPU capex prepaid, short-term contracts up to $40M/MW, and H100s recontracted at double the old price.",
+  "analyzed_at": "2026-11-07T04:58:21.218742+00:00",
+  "price_at_call": "No price stated; neoclouds sharply down (Nebius ~48% in 5 months)"
  }
 ]
