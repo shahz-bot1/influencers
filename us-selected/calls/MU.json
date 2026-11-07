@@ -3,6 +3,25 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "S-p77T41-D8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "2027 Market Predictions: Here’s What We’re Actually Doing",
+   "published_at": "2026-11-07T21:58:31.432985+00:00",
+   "flip": false,
+   "stance_flip": null,
+   "analyzed_at": "2026-11-07T23:13:54.000000+00:00",
+   "collab": false,
+   "ticker": "MU",
+   "direction": "HOLD",
+   "price_at_call": "~$800",
+   "fair_value": "$1,200+ (stated; caption numbers garbled - he also cites $900-$1,600 on 8-9x forward earnings)",
+   "thesis": "Holds his position (bought near $70, sold some this year, the rest is house money) but will not add: at ~$800 the risk/reward is too binary - down 40% or up 100% - and if capex growth has peaked, future cash flows must be discounted more; cyclical memory with CXMT supply risk.",
+   "base_case": "Memory demand stays insatiable near-term; HBM sold out, earnings peak 2028, and the next four years of EPS roughly equal the current price.",
+   "bull_case": "Wall Street's 2028 earnings peak proves too pessimistic; HBM pricing power holds and the stock doubles toward $1,600.",
+   "bear_case": "Capex-growth peak compresses multiples; new supply or a memory innovation breaks pricing power and the stock halves."
+  },
+  {
    "video_id": "qVkz6eo5OkQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -233,23 +252,23 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "MarketBeat",
    "idx": 2
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 7
+   "channel": "BWB - Business With Brian",
+   "idx": 3
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 8
   }
  ]
