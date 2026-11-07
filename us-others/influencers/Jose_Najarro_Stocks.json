@@ -4,6 +4,14 @@
  "slug": "Jose_Najarro_Stocks",
  "calls": [
   {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "BUY",
+   "date": "2026-11-07T04:58:21.218742+00:00",
+   "price": "No price stated; neoclouds sharply down (Nebius ~48% in 5 months)",
+   "video_id": "7vOchO5Uifg"
+  },
+  {
    "ticker": "AMD",
    "tickerSlug": "AMD",
    "direction": "BUY",
