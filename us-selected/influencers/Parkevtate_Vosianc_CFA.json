@@ -4,6 +4,38 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-11-07T16:00:12.940928+00:00",
+   "price": "Fair value $125 (~75% undervalued, stated); forward PE 16.3 (stated); trading price not stated (up 7.35% on the day)",
+   "video_id": "zGAy-kA50pQ"
+  },
+  {
+   "ticker": "TTWO",
+   "tickerSlug": "TTWO",
+   "direction": "BUY",
+   "date": "2026-11-07T14:45:38.779718+00:00",
+   "price": "$212",
+   "video_id": "ip2CoRiQKoA"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-07T13:55:38.779718+00:00",
+   "price": "$251",
+   "video_id": "66swIUTdJdk"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-11-07T12:55:38.779718+00:00",
+   "price": "$279",
+   "video_id": "QW9HCb7op00"
+  },
+  {
    "ticker": "QCOM",
    "tickerSlug": "QCOM",
    "direction": "BUY",
