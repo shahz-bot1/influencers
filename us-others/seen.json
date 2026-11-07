@@ -69,7 +69,7 @@
   "handle": "@asymmetricinvesting",
   "title": "Asymmetric Portfolio: October Stock Buys",
   "published_at": "2026-10-03T04:55:41.125284+00:00",
-  "analyzed_at": "2026-11-04T04:56:45+00:00",
+  "analyzed_at": "2026-11-07T04:58:21.218742+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
@@ -483,5 +483,21 @@
   "published_at": "2026-11-05T17:55:35.223108+00:00",
   "analyzed_at": "2026-11-06T04:58:37.767680+00:00",
   "alerted": true
+ },
+ "7vOchO5Uifg": {
+  "channel": "Jose Najarro Stocks",
+  "title": "AI Stocks Crash After Midterms: Is Wall Street Overreacting?",
+  "published_at": "2026-11-06T16:55:39.927196+00:00",
+  "analyzed_at": "2026-11-07T04:58:21.218742+00:00",
+  "alerted": true
+ },
+ "A8juPdhm1aM": {
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "title": "Asymmetric Portfolio Buys - November 2026",
+  "published_at": "2026-11-05T02:55:34.358646+00:00",
+  "analyzed_at": "2026-11-07T04:58:21.218742+00:00",
+  "alerted": false,
+  "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  }
 }
