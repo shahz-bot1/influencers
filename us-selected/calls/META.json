@@ -3,6 +3,19 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "Bought 3 shares on Tuesday; low $600s, support $500-520, wants $630-640",
+   "thesis": "BUY reiterated — added 3 shares Tuesday; 'extremely undervalued' despite renewed pressure.",
+   "base_case": "Holds above the $500-520 support area.",
+   "bull_case": "Back to $630-640 on calmer sentiment.",
+   "bear_case": "Breaks support if AI-spend fears deepen.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "S-p77T41-D8",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -337,11 +350,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 9
+   "idx": 10
   }
  ]
 }
