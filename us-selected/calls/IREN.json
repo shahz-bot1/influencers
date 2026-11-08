@@ -3,6 +3,19 @@
  "slug": "IREN",
  "calls": [
   {
+   "video_id": "yaVPpVzXCPI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "IREN",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $46 (stated) vs ~$18 current (caption figure garbled)",
+   "thesis": "BUY reiterated, conviction upgraded low->medium; $7.7B long-term debt vs $7.3B market cap, but upside huge if AI demand holds.",
+   "base_case": "Data-center demand stays ahead of supply; existing capacity can charge more.",
+   "bull_case": "Continued AI expansion; supply < demand for ~2 years lifts prices.",
+   "bear_case": "Revenue slowdown -> missed debt payments / default; could go to zero.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
    "video_id": "h17AZEdmxgM",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -94,11 +107,11 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 1
   }
  ]
