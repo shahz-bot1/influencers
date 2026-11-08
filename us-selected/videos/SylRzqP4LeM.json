@@ -1,0 +1,23 @@
+{
+ "video_id": "SylRzqP4LeM",
+ "title": "Should Dividend Stock Investors Buy AT&T Stock? | T Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-08",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places (fair value figure unclear)",
+ "summary": "Parkevtate Vosianc revisits AT&T (T) as SpaceX invests aggressively in satellite networks, asking whether the stock is still a buy for dividend investors. Analysts expect 10%+ earnings-per-share growth over the next several years, but he is less optimistic: the wireless market is saturated, so growth must come from revenue per user and productivity rather than new customers, though AT&T has lifted its operating margin from 16% to over 21.6% over the past decade, partly using AI. The balance sheet is the big constraint, with over $178B in long-term debt, and the coming 5G-to-6G build-out will be expensive at higher interest rates. The valuation has compressed to a forward P/E of about 8.4, down from over 12 and near the cheapest since 2024. He trims his free-cash-flow estimates by under 1% from 2028 and raises his risk estimate as SpaceX competition grows, but still calculates a fair value implying roughly 22% upside versus the $21.75 current price. Call: T BUY (reiterated), with conviction downgraded from medium to low.",
+ "calls": [
+  {
+   "video_id": "SylRzqP4LeM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "T",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value ~$26.50 implied (~22% undervalued vs $21.75 current; FV figure garbled in captions); forward PE 8.4",
+   "thesis": "BUY reiterated, conviction downgraded medium -> low. Still undervalued ~22% and near the cheapest since 2024, but FCF estimates trimmed <1% from 2028 and risk raised as SpaceX satellite competition grows; $178B+ long-term debt and a 5G-to-6G build-out ahead.",
+   "base_case": "EPS grows >10%/yr on revenue-per-user and margin gains (operating margin already 16% -> 21.6% over a decade).",
+   "bull_case": "Cost savings and AI-driven productivity lift margins further.",
+   "bear_case": "SpaceX competition erodes pricing power; debt-funded build-out squeezes capital.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  }
+ ]
+}
