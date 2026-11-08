@@ -1,0 +1,88 @@
+{
+ "video_id": "AffqGxKi0XE",
+ "title": "Is The AI Bubble About to Pop? | Business With Brian's Top Stocks to Watch",
+ "creator": "BWB - Business With Brian",
+ "published_at": "2026-11-08",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places; collab hosted by The Mispriced Podcast (host Eli)",
+ "summary": "In a collaboration with The Mispriced Podcast (host Eli), Brian tackles whether we are in an AI bubble. He says no: unlike the dot-com era, today's spending is backed by real demand and hyperscalers investing for return on investment, with the AI build-out at only about 1.5-2% of GDP, and AI's productivity gains still mostly ahead. The key theme is bottlenecks — wherever customers pre-book capacity years ahead, a constraint exists — above all memory, where buyers now commit $30B and book 2-3 years out, and connectors shifting from copper to photonics. On Micron, he says the run has been so high and so fast it is scary: trim at all-time highs, but do not sell completely, since memory bookings may break the old cycle and a $30B buyback is coming in December. He calls SanDisk the highest risk of flash price compression as planned capacity exceeds demand. For a friend's top-three watchlist he names Nvidia as the anchor ('don't bet against Nvidia... a slam dunk', PE below the S&P 500, PEG below 1), TSMC as a very solid choice despite Taiwan/China risk, and Broadcom at fair value; the SMH ETF is the 'perfect option' for new investors. Eli adds that if there is a bubble it is in earnings, with the S&P 500 PE near 18.7. Calls: NVDA BUY (flip from CONDITIONAL_BUY earlier today), TSM BUY, AVGO BUY, SMH BUY (all reiterated), MU SELL/trim (flip from CONDITIONAL_BUY), SNDK AVOID (flip from CONDITIONAL_BUY).",
+ "calls": [
+  {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "Anchor position; PE now below the S&P 500 (stated), PEG below 1 (stated)",
+   "thesis": "BUY — FLIP from CONDITIONAL_BUY earlier today (did not add on position size). 'Nvidia is your anchor... don't bet against Nvidia... that's a slam dunk.' Collab with The Mispriced Podcast.",
+   "base_case": "Stays the AI-chip leader; demand holds.",
+   "bull_case": "Next-gen chips shipping; growth compounds.",
+   "bear_case": "Already a huge position for him; concentration risk if it falls further.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price_at_call": "Top-3 watchlist name (price not stated)",
+   "thesis": "BUY reiterated — 'a very solid choice' for a friend's top-3 watchlist; supplies the leading-edge capacity the whole AI build-out needs. Taiwan/China risk flagged as the big unknown.",
+   "base_case": "Capacity stays indispensable to every big AI buyer.",
+   "bull_case": "AI build-out keeps wafer demand ahead of supply.",
+   "bear_case": "Taiwan/China disruption.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "At fair value, 'in a great spot' (price not stated)",
+   "thesis": "BUY reiterated — top-3 watchlist name; not extremely undervalued but at fair value with the trajectory set to keep expanding. Collab with The Mispriced Podcast.",
+   "base_case": "AI infrastructure demand keeps Broadcom's trajectory expanding.",
+   "bull_case": "Custom AI chips and networking keep compounding.",
+   "bear_case": "Valuation already reflects the growth.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "MU",
+   "direction": "SELL",
+   "price_at_call": "Trim at all-time highs; $30B buyback coming in December (stated)",
+   "thesis": "SELL (trim) — FLIP from CONDITIONAL_BUY (1 Nov). The run has been so high and so fast it is scary: 'take your profits, trim' at all-time highs — but do NOT sell off completely, the potential remains. Memory bookings now run 2-3 years out, which may break the old cycle.",
+   "base_case": "Trimmed position still runs if bookings keep extending.",
+   "bull_case": "Bookings extend another 3 years and the cycle proves longer than feared.",
+   "bear_case": "Supply catches up and prices fall below cost, as in 2022-23.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "SNDK",
+   "direction": "AVOID",
+   "price_at_call": "Highest risk of price compression in flash (no price stated)",
+   "thesis": "AVOID — FLIP from CONDITIONAL_BUY (1 Nov). Sandisk carries the highest risk of price compression in flash memory as planned capacity exceeds demand; Edge demand blowing up is the upside caveat.",
+   "base_case": "Flash capacity overshoots; prices compress.",
+   "bull_case": "Edge AI needs far more flash than planned; the run keeps going.",
+   "bear_case": "Capacity glut crushes flash pricing.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "SMH",
+   "direction": "BUY",
+   "price_at_call": "ETF recommendation for new investors (price not stated)",
+   "thesis": "BUY reiterated — SMH is the 'perfect option' for anyone new to investing who wants AI exposure without picking single names; ETFs are the smartest play if you cannot babysit positions.",
+   "base_case": "Semiconductor demand holds; the basket tracks the AI build-out.",
+   "bull_case": "AI capex keeps compounding across the basket.",
+   "bear_case": "Sector-wide drawdown hits every holding at once.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  }
+ ]
+}
