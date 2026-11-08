@@ -446,5 +446,21 @@
   "published_at": "2026-11-05T15:26:25.226127+00:00",
   "analyzed_at": "2026-11-07T01:28:59.934062+00:00",
   "alerted": true
+ },
+ "euOdZdn96zA": {
+  "channel": "Rahul Jain",
+  "title": "This Diwali Muhurat, Let me Show you How To Build a Winning STOCK Portfolio! | Rahul Jain",
+  "published_at": "2026-11-07T14:26:29.417916+00:00",
+  "analyzed_at": "2026-11-08T01:30:11.064299+00:00",
+  "alerted": true
+ },
+ "bxkwo3F4TQk": {
+  "channel": "Rahul Jain - Hindi",
+  "title": "Invest Vs EMIs Vs Spend - पैसा ऐसे बाँटो कि आज भी Enjoy करो और कल भी अमीर बनो! | Rahul Jain Hindi",
+  "published_at": "2026-11-07T15:26:29.417916+00:00",
+  "analyzed_at": "2026-11-08T01:30:11.064299+00:00",
+  "alerted": false,
+  "skipped": "no English captions",
+  "skipped_permanent": true
  }
 }
