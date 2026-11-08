@@ -3,6 +3,19 @@
  "slug": "CRDO",
  "calls": [
   {
+   "video_id": "cbkQCsrubBM",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "CRDO",
+   "direction": "BUY",
+   "price_at_call": "On crash-buy list; fell ~18% Thursday; 3-yr forecast ~46%/yr; sales more than tripled last year, +80% expected this year",
+   "thesis": "BUY, first tracked — on his crash-buy list. Credo cables connect AI servers with less power and fewer failures; analyst 12-mo target implies >100% upside. Risk: management warned of thinner margins per sale.",
+   "base_case": "AI server density keeps rising; more connections needed.",
+   "bull_case": "Becomes the standard interconnect inside data centers.",
+   "bear_case": "Margin warning deepens; growth slows.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
    "video_id": "7d2yvEwmv_s",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -85,12 +98,16 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 1
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 2
   }
  ]
 }
