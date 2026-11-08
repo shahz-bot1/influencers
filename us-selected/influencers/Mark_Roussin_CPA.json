@@ -4,6 +4,22 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Buying more (price not stated)",
+   "video_id": "RCTtEjdjbXQ"
+  },
+  {
+   "ticker": "GDX",
+   "tickerSlug": "GDX",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Sold puts on GDX (options trade, not shares)",
+   "video_id": "RCTtEjdjbXQ"
+  },
+  {
    "ticker": "UNH",
    "tickerSlug": "UNH",
    "direction": "BUY",
