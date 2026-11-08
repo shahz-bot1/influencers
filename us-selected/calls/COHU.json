@@ -1,0 +1,25 @@
+{
+ "ticker": "COHU",
+ "slug": "COHU",
+ "calls": [
+  {
+   "video_id": "cbkQCsrubBM",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "COHU",
+   "direction": "BUY",
+   "price_at_call": "On crash-buy list; fell ~21% Thursday (steepest on list); orders more than doubled YoY; two biggest cloud companies as new customers; sales expected +30-40% next year",
+   "thesis": "BUY, first tracked — on his crash-buy list. Cohu (caption garbles the name as 'Kohou') makes the machines that test chips before they ship; orders more than doubled and it just swung back into profit.",
+   "base_case": "Every AI chip must be tested; orders keep doubling.",
+   "bull_case": "Testing demand scales with AI chip volumes.",
+   "bear_case": "Chip cycle turns; test orders dry up.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
