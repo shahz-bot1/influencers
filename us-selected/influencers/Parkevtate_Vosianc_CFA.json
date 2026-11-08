@@ -4,6 +4,78 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "TSLA",
+   "tickerSlug": "TSLA",
+   "direction": "AVOID",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Down 23.4% YTD (stated)",
+   "video_id": "6DPoz2s-zLQ"
+  },
+  {
+   "ticker": "SPCX",
+   "tickerSlug": "SPCX",
+   "direction": "AVOID",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Down 22% YTD (stated)",
+   "video_id": "6DPoz2s-zLQ"
+  },
+  {
+   "ticker": "T",
+   "tickerSlug": "T",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "DCF fair value ~$26.50 implied (~22% undervalued vs $21.75 current; FV figure garbled in captions); forward PE 8.4",
+   "video_id": "SylRzqP4LeM"
+  },
+  {
+   "ticker": "VZ",
+   "tickerSlug": "VZ",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "DCF fair value over $57 vs $46 current (~24% undervalued); forward PE 8.7",
+   "video_id": "_NAN4LisAtQ"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "DCF fair value $84 (stated) vs ~$44 current (stated)",
+   "video_id": "yaVPpVzXCPI"
+  },
+  {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "DCF fair value $46 (stated) vs ~$18 current (caption figure garbled)",
+   "video_id": "yaVPpVzXCPI"
+  },
+  {
+   "ticker": "APLD",
+   "tickerSlug": "APLD",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "DCF fair value $26 (stated) vs ~$14 current (stated), near 52-week low",
+   "video_id": "yaVPpVzXCPI"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "DCF fair value $264 (stated) vs ~$120 current (stated); fair value raised from $248",
+   "video_id": "yaVPpVzXCPI"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "DCF fair value cut to $311 (stated) vs $183 current (stated); forward PE 11.42 (stated)",
+   "video_id": "xoZqxf62UKg"
+  },
+  {
    "ticker": "UBER",
    "tickerSlug": "UBER",
    "direction": "BUY",
