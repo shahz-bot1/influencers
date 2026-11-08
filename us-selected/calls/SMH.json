@@ -3,6 +3,19 @@
  "slug": "SMH",
  "calls": [
   {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "SMH",
+   "direction": "BUY",
+   "price_at_call": "ETF recommendation for new investors (price not stated)",
+   "thesis": "BUY reiterated — SMH is the 'perfect option' for anyone new to investing who wants AI exposure without picking single names; ETFs are the smartest play if you cannot babysit positions.",
+   "base_case": "Semiconductor demand holds; the basket tracks the AI build-out.",
+   "bull_case": "AI capex keeps compounding across the basket.",
+   "bear_case": "Sector-wide drawdown hits every holding at once.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "ticker": "SMH",
    "direction": "BUY",
    "channel": "BWB - Business With Brian",
