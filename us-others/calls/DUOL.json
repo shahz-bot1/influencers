@@ -3,6 +3,16 @@
  "slug": "DUOL",
  "calls": [
   {
+   "video_id": "ekFi9ecbelQ",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "DUOL",
+   "direction": "HOLD",
+   "thesis": "After a 26% post-earnings jump to ~$160, the buying window was months ago at $90-$120; don't chase it now. Business is turning: DAU/MAU re-accelerating, AI tools lifting engagement, still ~5x EV/sales and ~19x P/FCF - but paid-subscriber conversion lags and margins are pressured short-term. He still holds his shares.",
+   "analyzed_at": "2026-11-08T05:01:44.676586+00:00",
+   "price_at_call": "~$160 after +26% earnings jump; was ~$90 in April 2026"
+  },
+  {
    "video_id": "6scmMOSLPM4",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
