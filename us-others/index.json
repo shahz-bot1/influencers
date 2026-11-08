@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T04:59:19.739019+00:00",
+ "updated": "2026-11-08T05:02:30.127343+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -742,19 +742,19 @@
   {
    "ticker": "DUOL",
    "slug": "DUOL",
-   "lastDate": "2026-10-10T03:56:54.429840+00:00",
+   "lastDate": "2026-11-08T05:01:44.676586+00:00",
    "chips": [
     {
-     "dir": "BUY",
+     "dir": "HOLD",
      "n": 1,
-     "avg": "$56"
+     "avg": "$160"
     }
    ],
    "influencers": [
     "Asymmetric Investing"
    ],
-   "lastStated": "down 56% over past year; up 66% over past 6 months",
-   "nCalls": 1
+   "lastStated": "~$160 after +26% earnings jump; was ~$90 in April 2026",
+   "nCalls": 2
   },
   {
    "ticker": "ETHA",
@@ -2213,8 +2213,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 27,
-   "nVideos": 12
+   "nCalls": 28,
+   "nVideos": 13
   },
   {
    "name": "Brian Feroldi",
@@ -2320,6 +2320,16 @@
    ],
    "published_at": "2026-11-05T17:55:35.223108+00:00",
    "nCalls": 0
+  },
+  {
+   "id": "ekFi9ecbelQ",
+   "title": "Don't Buy Duolingo Yet! | Here's What You Need To Know",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-11-04T16:55:34.358646+00:00",
+   "nCalls": 1
   },
   {
    "id": "CILREIdG9Sw",
