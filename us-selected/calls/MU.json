@@ -3,6 +3,32 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "MU",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "At ~$449, buy zone low $400s, support ~$420; 3-4x forward earnings (caption figures garbled)",
+   "thesis": "CONDITIONAL_BUY — FLIP from HOLD (7 Nov, when he said he would not add). Now 'thinking of buying': extremely cheap at 3-4x forward earnings, HBM changes the cycle (annual cadence, no more inventory stockpiling), huge expected free cash flow over the next three fiscal years; will likely add if the market calms.",
+   "base_case": "HBM demand stays tied to the compute roadmap; no extreme down-cycle.",
+   "bull_case": "Market-beating upside over the next few months/quarters; cycle lasts longer than feared.",
+   "bear_case": "Memory cycle turns as it has before; margins compress.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "MU",
+   "direction": "SELL",
+   "price_at_call": "Trim at all-time highs; $30B buyback coming in December (stated)",
+   "thesis": "SELL (trim) — FLIP from CONDITIONAL_BUY (1 Nov). The run has been so high and so fast it is scary: 'take your profits, trim' at all-time highs — but do NOT sell off completely, the potential remains. Memory bookings now run 2-3 years out, which may break the old cycle.",
+   "base_case": "Trimmed position still runs if bookings keep extending.",
+   "bull_case": "Bookings extend another 3 years and the cycle proves longer than feared.",
+   "bear_case": "Supply catches up and prices fall below cost, as in 2022-23.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "S-p77T41-D8",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -256,20 +282,20 @@
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "MarketBeat",
-   "idx": 2
-  },
-  {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 3
   },
   {
+   "channel": "MarketBeat",
+   "idx": 4
+  },
+  {
    "channel": "Mark Roussin CPA",
-   "idx": 8
+   "idx": 10
   }
  ]
 }
