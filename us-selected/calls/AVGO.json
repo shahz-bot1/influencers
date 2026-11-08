@@ -3,6 +3,32 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AVGO",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "Buy zone a bit lower than current; could be back above $300 soon",
+   "thesis": "CONDITIONAL_BUY — softened from BUY (19 Oct). Buy zone to add a bit more sits a little lower than current prices; positive AI-buildout news could take it back above $300 soon.",
+   "base_case": "Dips into his buy zone; he adds.",
+   "bull_case": "Semiconductor sentiment turns; back above $300.",
+   "bear_case": "AI-spend fears keep pressing the name.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "price_at_call": "At fair value, 'in a great spot' (price not stated)",
+   "thesis": "BUY reiterated — top-3 watchlist name; not extremely undervalued but at fair value with the trajectory set to keep expanding. Collab with The Mispriced Podcast.",
+   "base_case": "AI infrastructure demand keeps Broadcom's trajectory expanding.",
+   "bull_case": "Custom AI chips and networking keep compounding.",
+   "bear_case": "Valuation already reflects the growth.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "qVkz6eo5OkQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -315,20 +341,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 3
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   },
   {
-   "channel": "Couch Investor",
-   "idx": 4
+   "channel": "Mark Roussin CPA",
+   "idx": 3
   }
  ]
 }
