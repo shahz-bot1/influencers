@@ -1,0 +1,101 @@
+{
+ "video_id": "i8vFBCkcxqs",
+ "title": "The Market Is Crashing and I Just Bought $8,000 of These 4 Stocks",
+ "creator": "Couch Investor",
+ "published_at": "2026-11-08",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places (some price figures inconsistent)",
+ "summary": "Couch Investor gives a portfolio update after a brutal week: his portfolio fell 6.18% against the S&P 500's 2.66% drop, but is still up 12.78% year to date versus 7.88% for the index. On Tuesday he bought 10 shares of Nvidia, 3 of Meta, 7 of Alphabet and 125 of SoFi, and cut his PayPal bull spread in half to raise cash. He walks through the technical picture name by name: Alphabet's buy zone is $260-270 against ~$284; Meta is 'extremely undervalued' in the low $600s with support at $500-520; SoFi is in its buy zone around $16.21. He is now thinking of buying Micron, calling it extremely cheap at 3-4x forward earnings and arguing HBM changes the memory cycle — annual cadence and no more inventory stockpiling — with very large free cash flow expected over the next three fiscal years. He reviews Axon's quarter (revenue +28%, software +43%, ARR +40% to $1.8B, record 126% net retention) and wants to lift it from 2.36% to above 3% of the portfolio. He previews a big earnings week — Rocket Lab Monday, CoreWeave Tuesday, Nebius Thursday — and argues the midterm-driven data-centre sell-off is an overreaction, since 2027-28 capacity is mostly already under construction. Calls: NVDA BUY, META BUY, GOOGL BUY (flip from HOLD), SOFI BUY, AXON BUY (all reiterated except GOOGL), MU CONDITIONAL_BUY (flip from HOLD), AVGO CONDITIONAL_BUY (softened from BUY).",
+ "calls": [
+  {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "Bought 10 shares on Tuesday (price not stated)",
+   "thesis": "BUY reiterated — added 10 shares Tuesday; still undervalued big-tech name, held up well in the sell-off; one of the four stocks he bought $8,000 of this week.",
+   "base_case": "Big tech keeps holding up while neocloud/semiconductor names stay volatile.",
+   "bull_case": "AI build-out continues; large-cap tech re-rates.",
+   "bear_case": "Further multiple compression if AI spending slows.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "Bought 3 shares on Tuesday; low $600s, support $500-520, wants $630-640",
+   "thesis": "BUY reiterated — added 3 shares Tuesday; 'extremely undervalued' despite renewed pressure.",
+   "base_case": "Holds above the $500-520 support area.",
+   "bull_case": "Back to $630-640 on calmer sentiment.",
+   "bear_case": "Breaks support if AI-spend fears deepen.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "Bought 7 shares on Tuesday; at ~$284, buy/target zone $260-270",
+   "thesis": "BUY — FLIP from HOLD (7 Nov). Bought 7 shares Tuesday; still undervalued with a lot of growth left and lower beta than the neocloud names.",
+   "base_case": "Drifts toward the $260-270 buy zone and bases there.",
+   "bull_case": "Big-tech resilience carries it back above resistance.",
+   "bear_case": "Cloud/AI-spend worries drag it lower.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "price_at_call": "Bought 125 shares on Tuesday; at ~$16.21, in the buy zone, support ~$16.74",
+   "thesis": "BUY reiterated — added 125 shares Tuesday; in the buy zone, non-data-centre fintech name that held up OK.",
+   "base_case": "Holds the buy zone and bases.",
+   "bull_case": "Fintech re-rates as rates/sentiment stabilise.",
+   "bear_case": "Still down a lot YTD; further market weakness hits it again.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AXON",
+   "direction": "BUY",
+   "price_at_call": "2.36% of portfolio, wants above 3%; down 24% on his average; low $300s, support $300-313",
+   "thesis": "BUY reiterated — wants to increase the position above 3%. Q3 revenue +28% (federal DoD contract delays cost ~$130m), software +43%, ARR +40% to $1.8B, record 126% NRR; reaffirmed 30%+ 5-yr revenue CAGR and the 2028 model ($6B revenue, 28% adj. EBITDA).",
+   "base_case": "Delayed federal contracts land; 30%+ growth holds.",
+   "bull_case": "Software mix keeps rising toward half of revenue; margins expand.",
+   "bear_case": "Memory-price inflation bites (50bps in 2026, 4x that in 2027); hardware stays slow.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "MU",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "At ~$449, buy zone low $400s, support ~$420; 3-4x forward earnings (caption figures garbled)",
+   "thesis": "CONDITIONAL_BUY — FLIP from HOLD (7 Nov, when he said he would not add). Now 'thinking of buying': extremely cheap at 3-4x forward earnings, HBM changes the cycle (annual cadence, no more inventory stockpiling), huge expected free cash flow over the next three fiscal years; will likely add if the market calms.",
+   "base_case": "HBM demand stays tied to the compute roadmap; no extreme down-cycle.",
+   "bull_case": "Market-beating upside over the next few months/quarters; cycle lasts longer than feared.",
+   "bear_case": "Memory cycle turns as it has before; margins compress.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AVGO",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "Buy zone a bit lower than current; could be back above $300 soon",
+   "thesis": "CONDITIONAL_BUY — softened from BUY (19 Oct). Buy zone to add a bit more sits a little lower than current prices; positive AI-buildout news could take it back above $300 soon.",
+   "base_case": "Dips into his buy zone; he adds.",
+   "bull_case": "Semiconductor sentiment turns; back above $300.",
+   "bear_case": "AI-spend fears keep pressing the name.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  }
+ ]
+}
