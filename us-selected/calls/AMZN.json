@@ -3,6 +3,19 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "RCTtEjdjbXQ",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "Buying more (price not stated)",
+   "thesis": "BUY reiterated — buying more Amazon. If the data-centre build-out slows, existing compute gets scarcer and more valuable; AWS is the biggest and growing fast (fastest growth in nearly 5 years), and hyperscalers are still raising 2027 spend.",
+   "base_case": "Build-out slows but does not stop; existing capacity earns more.",
+   "bull_case": "AWS growth re-accelerates; compute scarcity lifts pricing.",
+   "bear_case": "Management teams dial back capex plans post-midterms; spending growth disappoints suppliers.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "66swIUTdJdk",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -294,24 +307,24 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 11
+   "idx": 12
   },
   {
    "channel": "Couch Investor",
-   "idx": 12
+   "idx": 13
   }
  ]
 }
