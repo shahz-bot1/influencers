@@ -3,6 +3,19 @@
  "slug": "TSLA",
  "calls": [
   {
+   "video_id": "6DPoz2s-zLQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "TSLA",
+   "direction": "AVOID",
+   "price_at_call": "Down 23.4% YTD (stated)",
+   "thesis": "AVOID — stance stays negative (last explicit call SELL 26 Oct; the 28 Oct UNCERTAIN was a no-call news update). One of the most overvalued stocks in the market; Democrats' Texas wins make a Tesla/SpaceX merger and data-centre build-out harder; not a buying opportunity.",
+   "base_case": "Stays overvalued and prone to sell-offs when investors question delivery vs forecasts.",
+   "bull_case": "Musk's loyal following bids it back up on any announcement; no crash expected.",
+   "bear_case": "Bubble bursts if delivery keeps missing ambitious targets.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "83F2533_VzU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -64,11 +77,11 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
