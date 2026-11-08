@@ -499,5 +499,53 @@
   "analyzed_at": "2026-11-07T04:58:21.218742+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
+ },
+ "ekFi9ecbelQ": {
+  "channel": "Asymmetric Investing",
+  "handle": "@asymmetricinvesting",
+  "title": "Don't Buy Duolingo Yet! | Here's What You Need To Know",
+  "published_at": "2026-11-04T16:55:34.358646+00:00",
+  "analyzed_at": "2026-11-08T05:01:44.676586+00:00",
+  "alerted": true
+ },
+ "yZ04xcND2A4": {
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "title": "These Are Best Stocks to Buy After Earnings",
+  "published_at": "2026-11-04T20:55:34.358646+00:00",
+  "analyzed_at": "2026-11-08T05:01:44.676586+00:00",
+  "alerted": false,
+  "skipped": "Sign in to confirm you're not a bot",
+  "caption_retries": 1
+ },
+ "ddW_RCLYdJ4": {
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "title": "5 Stocks to Buy in the Biggest Market Opportunity Nobody Sees",
+  "published_at": "2026-11-04T16:55:34.358646+00:00",
+  "analyzed_at": "2026-11-08T05:01:44.676586+00:00",
+  "alerted": false,
+  "skipped": "Sign in to confirm you're not a bot",
+  "caption_retries": 1
+ },
+ "XopekzfZKiQ": {
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "title": "I Just Bought $15,000 Of A New Stock - Here's Why",
+  "published_at": "2026-11-07T16:55:35.240235+00:00",
+  "analyzed_at": "2026-11-08T05:01:44.676586+00:00",
+  "alerted": false,
+  "skipped": "No caption tracks returned (playable, status OK)",
+  "caption_retries": 1
+ },
+ "ncslbnvnaMI": {
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "title": "Nvidia Stock Is DIRT CHEAP \u2014 Wall Street Got It Wrong!!",
+  "published_at": "2026-11-08T02:55:35.240235+00:00",
+  "analyzed_at": "2026-11-08T05:01:44.676586+00:00",
+  "alerted": false,
+  "skipped": "Sign in to confirm you're not a bot",
+  "caption_retries": 1
  }
 }
