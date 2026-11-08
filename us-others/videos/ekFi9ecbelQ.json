@@ -1,0 +1,20 @@
+{
+ "video_id": "ekFi9ecbelQ",
+ "title": "Don't Buy Duolingo Yet! | Here's What You Need To Know",
+ "creator": "Asymmetric Investing",
+ "handle": "@asymmetricinvesting",
+ "published_at": "2026-11-04T16:55:34.358646+00:00",
+ "summary": "Travis of Asymmetric Investing breaks down Duolingo's earnings after the stock jumped 26% in early trading on the results. The market reacted not to revenue but to user growth: monthly active users rose by almost 13 million in the quarter - more than the previous five quarters combined - and daily active users added more than 6 million, a sharp acceleration after a year of near-flat monthly user growth (130 million in Q1 2025 to 140 million by Q2 2026). Revenue growth has slowed from 40% into the teens, and paid subscribers are lagging the user influx, which he expects to convert with a lag as engagement rises. He argues AI is a tailwind, not a threat: conversational AI tools are being added to the free tier, pricing is being simplified to one premium plan, and management is paying staff bonuses (about $11 million this quarter) tied to daily active user goals. Gross margins are flat and operating margins are falling on AI costs - though he notes conversation costs have fallen from several dollars to about a penny - plus the one-off bonuses. Duolingo stays free-cash-flow positive with $1.4 billion in cash and a $400 million buyback barely used, which is his one critique: management should have bought aggressively at $90-$120 earlier in the year instead of now at about $160. At roughly 5x enterprise value to sales and 19x price to free cash flow he still calls the valuation good, but says the time to buy was a few months ago - don't chase it after the jump. His call: DUOL HOLD (flip from his 10 Oct BUY); he still holds his shares. No other tickers are discussed; Fiscal AI is the video's sponsor. Caption garbles: a '33% jump' label in the fetched metadata conflicts with the spoken 26%.",
+ "calls": [
+  {
+   "video_id": "ekFi9ecbelQ",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "DUOL",
+   "direction": "HOLD",
+   "thesis": "After a 26% post-earnings jump to ~$160, the buying window was months ago at $90-$120; don't chase it now. Business is turning: DAU/MAU re-accelerating, AI tools lifting engagement, still ~5x EV/sales and ~19x P/FCF - but paid-subscriber conversion lags and margins are pressured short-term. He still holds his shares.",
+   "analyzed_at": "2026-11-08T05:01:44.676586+00:00",
+   "price_at_call": "~$160 after +26% earnings jump; was ~$90 in April 2026"
+  }
+ ]
+}
