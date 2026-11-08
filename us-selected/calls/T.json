@@ -3,6 +3,19 @@
  "slug": "T",
  "calls": [
   {
+   "video_id": "SylRzqP4LeM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "T",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value ~$26.50 implied (~22% undervalued vs $21.75 current; FV figure garbled in captions); forward PE 8.4",
+   "thesis": "BUY reiterated, conviction downgraded medium -> low. Still undervalued ~22% and near the cheapest since 2024, but FCF estimates trimmed <1% from 2028 and risk raised as SpaceX satellite competition grows; $178B+ long-term debt and a 5G-to-6G build-out ahead.",
+   "base_case": "EPS grows >10%/yr on revenue-per-user and margin gains (operating margin already 16% -> 21.6% over a decade).",
+   "bull_case": "Cost savings and AI-driven productivity lift margins further.",
+   "bear_case": "SpaceX competition erodes pricing power; debt-funded build-out squeezes capital.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "gL8nYBmX_eI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
