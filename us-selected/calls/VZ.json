@@ -3,6 +3,19 @@
  "slug": "VZ",
  "calls": [
   {
+   "video_id": "_NAN4LisAtQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "VZ",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value over $57 vs $46 current (~24% undervalued); forward PE 8.7",
+   "thesis": "BUY reiterated, conviction downgraded medium -> low. Ranked a buying opportunity all year and has beaten the S&P 500 YTD (+13% plus dividends), but less optimistic now: EPS growth expectations cut from 10%+ to ~7%, FCF estimates trimmed ~$300m/yr, $184B debt at/above market cap.",
+   "base_case": "Low-single-digit revenue growth, mid-to-high-single-digit EPS growth; valuation stays mid-range.",
+   "bull_case": "AI customer-service savings lift margins (already 20% -> 23.9% over a decade).",
+   "bear_case": "SpaceX competition disrupts the three-carrier status quo; debt limits the 6G build-out.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "gL8nYBmX_eI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
