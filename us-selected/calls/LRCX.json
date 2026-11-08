@@ -3,6 +3,19 @@
  "slug": "LRCX",
  "calls": [
   {
+   "video_id": "cbkQCsrubBM",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "LRCX",
+   "direction": "BUY",
+   "price_at_call": "On crash-buy list; fell ~16% Thursday; 3-yr forecast ~34%/yr; best quarter ever, sales +54%",
+   "thesis": "BUY, first tracked — on his crash-buy list. Lam Research machines build the tiny circuits inside chips layer by layer, in nearly every big chip fab; more chips = more machines. Risk: ~1/3 of sales from China.",
+   "base_case": "Chipmakers keep buying etch/deposition tools as capacity grows.",
+   "bull_case": "AI build-out keeps tool demand high for years.",
+   "bear_case": "China sales hit by restrictions; chip cycle turns.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
    "video_id": "BRg4GLx5hcA",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -23,8 +36,12 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 1
   }
  ]
 }
