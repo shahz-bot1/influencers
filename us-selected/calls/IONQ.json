@@ -3,6 +3,19 @@
  "slug": "IONQ",
  "calls": [
   {
+   "video_id": "cbkQCsrubBM",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "IONQ",
+   "direction": "BUY",
+   "price_at_call": "On crash-buy list; fell ~11% Thursday; record quarter, quantum sales more than doubled; $1.2B signed contracts",
+   "thesis": "BUY reiterated (prior BUY 3 Oct) — on his crash-buy list. Quantum company actually selling machines and growing revenue; one machine going into Nvidia's quantum research centre; $1.2B signed contracts vs this year's expected revenue.",
+   "base_case": "Signed contracts convert to sales; quantum revenue keeps doubling.",
+   "bull_case": "Real quantum revenue scales while rivals stay pre-revenue.",
+   "bear_case": "Still no profit; quantum timelines slip.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
    "video_id": "BK5tO8w8z5w",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -49,12 +62,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 2
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
