@@ -1,0 +1,36 @@
+{
+ "video_id": "6DPoz2s-zLQ",
+ "title": "Interesting News for SpaceX Stock and Tesla Stock Investors",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-08",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate Vosianc says the midterm results are bad news for Tesla and SpaceX investors on two fronts: Democrats winning the Texas Senate, governor and attorney general seats raises regulatory hurdles for building data centres — SpaceX now earns billions renting excess data-centre capacity to Alphabet and Anthropic — and makes a Tesla/SpaceX merger harder, even though he argues merging the two trillion-dollar companies makes obvious sense. He cites Dan Ives' view that the merger still happens but faces a much tougher regulatory road to 2027, and notes Musk poured hundreds of millions into the losing Texas campaigns, though he argues Musk's popularity and influence are not waning. He reiterates his long-standing warning that both stocks are among the most overvalued in the market, with Tesla down 23.4% and SpaceX down 22% year to date — both worse than the S&P 500 with more risk. He does not expect a crash, since Musk's loyal following can bid the shares back up on any announcement, but he sees no buying opportunity here. Calls: TSLA AVOID (stance stays negative; last explicit call SELL 26 Oct), SPCX AVOID (flip from HOLD 24 Oct).",
+ "calls": [
+  {
+   "video_id": "6DPoz2s-zLQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "TSLA",
+   "direction": "AVOID",
+   "price_at_call": "Down 23.4% YTD (stated)",
+   "thesis": "AVOID — stance stays negative (last explicit call SELL 26 Oct; the 28 Oct UNCERTAIN was a no-call news update). One of the most overvalued stocks in the market; Democrats' Texas wins make a Tesla/SpaceX merger and data-centre build-out harder; not a buying opportunity.",
+   "base_case": "Stays overvalued and prone to sell-offs when investors question delivery vs forecasts.",
+   "bull_case": "Musk's loyal following bids it back up on any announcement; no crash expected.",
+   "bear_case": "Bubble bursts if delivery keeps missing ambitious targets.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "6DPoz2s-zLQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "SPCX",
+   "direction": "AVOID",
+   "price_at_call": "Down 22% YTD (stated)",
+   "thesis": "AVOID — FLIP from HOLD (24 Oct; 28 Oct UNCERTAIN was passing opinion only). SpaceX overvalued (less so than Tesla); merger with Tesla faces a much tougher regulatory road after Democrats won the Texas Senate, governor and AG seats.",
+   "base_case": "Data-centre rental revenue (Alphabet, Anthropic) slows if build-out is restricted.",
+   "bull_case": "Merger still happens in 2027 despite the tougher roadmap (Dan Ives view, which he disputes).",
+   "bear_case": "Regulators block the merger; valuation compresses.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  }
+ ]
+}
