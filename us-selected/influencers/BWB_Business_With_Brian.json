@@ -4,6 +4,134 @@
  "slug": "BWB_Business_With_Brian",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Anchor position; PE now below the S&P 500 (stated), PEG below 1 (stated)",
+   "video_id": "AffqGxKi0XE"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Top-3 watchlist name (price not stated)",
+   "video_id": "AffqGxKi0XE"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "At fair value, 'in a great spot' (price not stated)",
+   "video_id": "AffqGxKi0XE"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "SELL",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Trim at all-time highs; $30B buyback coming in December (stated)",
+   "video_id": "AffqGxKi0XE"
+  },
+  {
+   "ticker": "SNDK",
+   "tickerSlug": "SNDK",
+   "direction": "AVOID",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Highest risk of price compression in flash (no price stated)",
+   "video_id": "AffqGxKi0XE"
+  },
+  {
+   "ticker": "SMH",
+   "tickerSlug": "SMH",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "ETF recommendation for new investors (price not stated)",
+   "video_id": "AffqGxKi0XE"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "Bought Thursday after ~11% drop; 3-yr forecast ~25%/yr; sales +41% last quarter",
+   "video_id": "cbkQCsrubBM"
+  },
+  {
+   "ticker": "ASML",
+   "tickerSlug": "ASML",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "Bought Thursday after ~9% drop; 3-yr forecast ~26%/yr; sales +55% last quarter",
+   "video_id": "cbkQCsrubBM"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "Bought Thursday after ~7% drop; 3-yr forecast ~49%/yr; data-center business nearly doubled; $100B+ OpenAI deal",
+   "video_id": "cbkQCsrubBM"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "Would buy if small position; did NOT add — already ~12% of his portfolio; severely undervalued, 3-yr forecast ~38%/yr; $96B quarterly sales, fell 9% Thursday",
+   "video_id": "cbkQCsrubBM"
+  },
+  {
+   "ticker": "LRCX",
+   "tickerSlug": "LRCX",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "On crash-buy list; fell ~16% Thursday; 3-yr forecast ~34%/yr; best quarter ever, sales +54%",
+   "video_id": "cbkQCsrubBM"
+  },
+  {
+   "ticker": "CRDO",
+   "tickerSlug": "CRDO",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "On crash-buy list; fell ~18% Thursday; 3-yr forecast ~46%/yr; sales more than tripled last year, +80% expected this year",
+   "video_id": "cbkQCsrubBM"
+  },
+  {
+   "ticker": "ALAB",
+   "tickerSlug": "ALAB",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "On crash-buy list; fell ~20% Thursday; 3-yr forecast ~45%/yr; sales +150% YoY",
+   "video_id": "cbkQCsrubBM"
+  },
+  {
+   "ticker": "IONQ",
+   "tickerSlug": "IONQ",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "On crash-buy list; fell ~11% Thursday; record quarter, quantum sales more than doubled; $1.2B signed contracts",
+   "video_id": "cbkQCsrubBM"
+  },
+  {
+   "ticker": "RMBS",
+   "tickerSlug": "RMBS",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "On crash-buy list; fell ~16% Thursday; 3-yr forecast ~23%/yr; record sales +22% YoY",
+   "video_id": "cbkQCsrubBM"
+  },
+  {
+   "ticker": "COHU",
+   "tickerSlug": "COHU",
+   "direction": "BUY",
+   "date": "2026-11-08T14:59:54.080668+00:00",
+   "price": "On crash-buy list; fell ~21% Thursday (steepest on list); orders more than doubled YoY; two biggest cloud companies as new customers; sales expected +30-40% next year",
+   "video_id": "cbkQCsrubBM"
+  },
+  {
    "ticker": "MU",
    "tickerSlug": "MU",
    "direction": "CONDITIONAL_BUY",
