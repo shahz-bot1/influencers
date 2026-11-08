@@ -3,6 +3,19 @@
  "slug": "SNDK",
  "calls": [
   {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "SNDK",
+   "direction": "AVOID",
+   "price_at_call": "Highest risk of price compression in flash (no price stated)",
+   "thesis": "AVOID — FLIP from CONDITIONAL_BUY (1 Nov). Sandisk carries the highest risk of price compression in flash memory as planned capacity exceeds demand; Edge demand blowing up is the upside caveat.",
+   "base_case": "Flash capacity overshoots; prices compress.",
+   "bull_case": "Edge AI needs far more flash than planned; the run keeps going.",
+   "bear_case": "Capacity glut crushes flash pricing.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "_m1XcP1addc",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -58,7 +71,7 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
