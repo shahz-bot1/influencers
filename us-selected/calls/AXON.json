@@ -3,6 +3,19 @@
  "slug": "AXON",
  "calls": [
   {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "AXON",
+   "direction": "BUY",
+   "price_at_call": "2.36% of portfolio, wants above 3%; down 24% on his average; low $300s, support $300-313",
+   "thesis": "BUY reiterated — wants to increase the position above 3%. Q3 revenue +28% (federal DoD contract delays cost ~$130m), software +43%, ARR +40% to $1.8B, record 126% NRR; reaffirmed 30%+ 5-yr revenue CAGR and the 2028 model ($6B revenue, 28% adj. EBITDA).",
+   "base_case": "Delayed federal contracts land; 30%+ growth holds.",
+   "bull_case": "Software mix keeps rising toward half of revenue; margins expand.",
+   "bear_case": "Memory-price inflation bites (50bps in 2026, 4x that in 2027); hardware stays slow.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "fH5DacZxQug",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
