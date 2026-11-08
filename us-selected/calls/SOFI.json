@@ -3,6 +3,19 @@
  "slug": "SOFI",
  "calls": [
   {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "price_at_call": "Bought 125 shares on Tuesday; at ~$16.21, in the buy zone, support ~$16.74",
+   "thesis": "BUY reiterated — added 125 shares Tuesday; in the buy zone, non-data-centre fintech name that held up OK.",
+   "base_case": "Holds the buy zone and bases.",
+   "bull_case": "Fintech re-rates as rates/sentiment stabilise.",
+   "bear_case": "Still down a lot YTD; further market weakness hits it again.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "XsSN7JMauAo",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -152,16 +165,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
