@@ -3,6 +3,19 @@
  "slug": "RMBS",
  "calls": [
   {
+   "video_id": "cbkQCsrubBM",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "RMBS",
+   "direction": "BUY",
+   "price_at_call": "On crash-buy list; fell ~16% Thursday; 3-yr forecast ~23%/yr; record sales +22% YoY",
+   "thesis": "BUY — upgraded from CONDITIONAL_BUY (1 Nov) to BUY; now on his crash-buy list. Rambus chips sit on the memory in almost every server keeping data moving on time; more AI servers = more memory = more of its chips. Analysts' 12-mo forecast +68%.",
+   "base_case": "AI server memory keeps growing; its chips ride along.",
+   "bull_case": "Memory content per server keeps climbing.",
+   "bear_case": "Server build-out slows; memory cycle turns.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
    "video_id": "_m1XcP1addc",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
