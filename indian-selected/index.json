@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:30:53.938009+00:00",
+ "updated": "2026-11-08T01:32:51.403131+00:00",
  "tickers": [
   {
    "ticker": "DATA CENTER THEME",
@@ -368,7 +368,7 @@
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
    "nCalls": 23,
-   "nVideos": 26
+   "nVideos": 27
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -379,6 +379,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "euOdZdn96zA",
+   "title": "This Diwali Muhurat, Let me Show you How To Build a Winning STOCK Portfolio! | Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-11-07",
+   "nCalls": 0
+  },
   {
    "id": "oq5odXfokrM",
    "title": "Great time for Indian Markets? (after Trump's loss) | Akshat Shrivastava",
