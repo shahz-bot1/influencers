@@ -1,0 +1,62 @@
+{
+ "video_id": "yaVPpVzXCPI",
+ "title": "Massive News for CoreWeave, Nebius, IREN, and Applied Digital Stock Investors",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-08",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate Vosianc revisits CoreWeave (CRWV), Nebius (NBIS), IREN and Applied Digital (APLD) after all four fell 12-17% on the day and roughly 44-51% over the past month, on midterm-election fears that data-centre approvals and build-outs will slow. The core worry is debt: CoreWeave carries over $51B in long-term debt against a $24B market cap, IREN $7.7B against $7.3B, APLD $6.4B against $4.3B, while Nebius has the healthiest ratio at just over $10B of debt against a $32.7B+ market cap. He stresses these are among the riskiest stocks you can buy and any of them could go to zero if revenue slows, but argues the upside justifies the risk while AI demand still exceeds supply for roughly the next two years — and a slower build-out would only push prices higher for existing capacity. His DCF fair values: CRWV $84 vs ~$44 current, IREN $46 vs ~$18, APLD $26 vs ~$14, NBIS $264 (raised from $248) vs ~$120. Calls: CRWV BUY, IREN BUY, APLD BUY, NBIS BUY — all reiterated, with conviction upgraded from low to medium on each. He closes by looking ahead to Nebius earnings and a members-only live stream.",
+ "calls": [
+  {
+   "video_id": "yaVPpVzXCPI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $84 (stated) vs ~$44 current (stated)",
+   "thesis": "BUY reiterated, conviction upgraded low->medium after ~51% one-month sell-off; huge upside despite $51B+ long-term debt (worst balance sheet of the four) and real default risk if revenue slows; AI demand still exceeds supply.",
+   "base_case": "Data-center demand stays ahead of supply; existing capacity can charge more.",
+   "bull_case": "Continued AI expansion; supply < demand for ~2 years lifts prices.",
+   "bear_case": "Revenue slowdown -> missed debt payments / default; could go to zero.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
+   "video_id": "yaVPpVzXCPI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "IREN",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $46 (stated) vs ~$18 current (caption figure garbled)",
+   "thesis": "BUY reiterated, conviction upgraded low->medium; $7.7B long-term debt vs $7.3B market cap, but upside huge if AI demand holds.",
+   "base_case": "Data-center demand stays ahead of supply; existing capacity can charge more.",
+   "bull_case": "Continued AI expansion; supply < demand for ~2 years lifts prices.",
+   "bear_case": "Revenue slowdown -> missed debt payments / default; could go to zero.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
+   "video_id": "yaVPpVzXCPI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "APLD",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $26 (stated) vs ~$14 current (stated), near 52-week low",
+   "thesis": "BUY reiterated, conviction upgraded low->medium; $6.4B debt vs $4.3B market cap, but significantly undervalued after the sell-off.",
+   "base_case": "Data-center demand stays ahead of supply; existing capacity can charge more.",
+   "bull_case": "Continued AI expansion; supply < demand for ~2 years lifts prices.",
+   "bear_case": "Revenue slowdown -> missed debt payments / default; could go to zero.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
+   "video_id": "yaVPpVzXCPI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $264 (stated) vs ~$120 current (stated); fair value raised from $248",
+   "thesis": "BUY reiterated, conviction upgraded low->medium; best debt/market-cap ratio of the four ($10B+ debt vs $32.7B market cap).",
+   "base_case": "Data-center demand stays ahead of supply; existing capacity can charge more.",
+   "bull_case": "Continued AI expansion; supply < demand for ~2 years lifts prices.",
+   "bear_case": "Revenue slowdown -> missed debt payments / default; could go to zero.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  }
+ ]
+}
