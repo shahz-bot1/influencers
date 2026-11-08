@@ -1,0 +1,23 @@
+{
+ "video_id": "_NAN4LisAtQ",
+ "title": "Is Verizon an Undervalued Dividend Stock to Buy Right Now in November? | VZ Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-08",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate Vosianc revisits Verizon (VZ) as SpaceX competition intensifies in telecom. Wall Street has cut Verizon's expected earnings-per-share growth from over 10% to about 7% over the next several years, which he considers realistic for a mature industry where four players now fight over existing customers. Verizon has improved its operating margin from roughly 20% in 2017 to 23.9% over the trailing twelve months, with AI helping cut customer-support costs. The balance sheet remains heavy: over $184B in debt, at or above the market capitalisation. The forward P/E of 8.7 sits mid-range in its 7-10 band of recent years, which he calls reasonable for the growth on offer. He trims his DCF free-cash-flow estimates by only about $300m a year against $23B+ of annual free cash flow, and calculates a fair value over $57 per share versus $46 current — roughly 24% undervalued. Verizon has beaten the S&P 500 year to date, up over 13% plus dividends. Call: VZ BUY (reiterated), with conviction downgraded from medium to low given the new competitive risk.",
+ "calls": [
+  {
+   "video_id": "_NAN4LisAtQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "VZ",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value over $57 vs $46 current (~24% undervalued); forward PE 8.7",
+   "thesis": "BUY reiterated, conviction downgraded medium -> low. Ranked a buying opportunity all year and has beaten the S&P 500 YTD (+13% plus dividends), but less optimistic now: EPS growth expectations cut from 10%+ to ~7%, FCF estimates trimmed ~$300m/yr, $184B debt at/above market cap.",
+   "base_case": "Low-single-digit revenue growth, mid-to-high-single-digit EPS growth; valuation stays mid-range.",
+   "bull_case": "AI customer-service savings lift margins (already 20% -> 23.9% over a decade).",
+   "bear_case": "SpaceX competition disrupts the three-carrier status quo; debt limits the 6G build-out.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  }
+ ]
+}
