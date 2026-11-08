@@ -3,6 +3,32 @@
  "slug": "TSM",
  "calls": [
   {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price_at_call": "Top-3 watchlist name (price not stated)",
+   "thesis": "BUY reiterated — 'a very solid choice' for a friend's top-3 watchlist; supplies the leading-edge capacity the whole AI build-out needs. Taiwan/China risk flagged as the big unknown.",
+   "base_case": "Capacity stays indispensable to every big AI buyer.",
+   "bull_case": "AI build-out keeps wafer demand ahead of supply.",
+   "bear_case": "Taiwan/China disruption.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "cbkQCsrubBM",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price_at_call": "Bought Thursday after ~11% drop; 3-yr forecast ~25%/yr; sales +41% last quarter",
+   "thesis": "BUY, first tracked — bought on Thursday. Fab behind nearly every advanced chip; gets paid no matter whose chip wins; AI demand exceeds supply, doubling most advanced capacity next year.",
+   "base_case": "AI demand stays bigger than supply; capacity expansion pays off.",
+   "bull_case": "Every AI build-out needs more leading-edge wafers.",
+   "bear_case": "AI demand cools; capacity overbuild.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
    "video_id": "qVkz6eo5OkQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -91,12 +117,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
+  },
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 4
   }
  ]
 }
