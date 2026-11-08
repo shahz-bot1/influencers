@@ -3,6 +3,19 @@
  "slug": "SPCX",
  "calls": [
   {
+   "video_id": "6DPoz2s-zLQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "SPCX",
+   "direction": "AVOID",
+   "price_at_call": "Down 22% YTD (stated)",
+   "thesis": "AVOID — FLIP from HOLD (24 Oct; 28 Oct UNCERTAIN was passing opinion only). SpaceX overvalued (less so than Tesla); merger with Tesla faces a much tougher regulatory road after Democrats won the Texas Senate, governor and AG seats.",
+   "base_case": "Data-centre rental revenue (Alphabet, Anthropic) slows if build-out is restricted.",
+   "bull_case": "Merger still happens in 2027 despite the tougher roadmap (Dan Ives view, which he disputes).",
+   "bear_case": "Regulators block the merger; valuation compresses.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "LauJrBZP3xc",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
