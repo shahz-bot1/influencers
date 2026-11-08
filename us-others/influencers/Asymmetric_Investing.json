@@ -4,6 +4,14 @@
  "slug": "Asymmetric_Investing",
  "calls": [
   {
+   "ticker": "DUOL",
+   "tickerSlug": "DUOL",
+   "direction": "HOLD",
+   "date": "2026-11-08T05:01:44.676586+00:00",
+   "price": "~$160 after +26% earnings jump; was ~$90 in April 2026",
+   "video_id": "ekFi9ecbelQ"
+  },
+  {
    "ticker": "UBER",
    "tickerSlug": "UBER",
    "direction": "BUY",
