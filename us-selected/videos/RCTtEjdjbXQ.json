@@ -1,0 +1,36 @@
+{
+ "video_id": "RCTtEjdjbXQ",
+ "title": "Stock Market Crash: What to do Now",
+ "creator": "Mark Roussin CPA",
+ "published_at": "2026-11-08",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Mark Roussin works through the post-midterm crash — the Dow down 1,800 points (3.4%) on Thursday, the S&P 500 down over 4%, the Nasdaq down 5.5% and the semiconductor ETF down nearly 13%, the worst tech selling since April 2025 — and stresses separating stock performance from business performance. The economy, he argues, is not falling apart: ISM manufacturing came in at 55.5, services at 54.5, and JOLTS job openings at 7.5 million, all above expectations. The real risk is political: Democrats won Congress and key Texas races, and new data-centre restrictions could slow the AI build-out, though he distinguishes projects already under construction from approved and merely planned ones, and notes demand can shift to friendlier states. Hyperscalers are still raising 2027 spending, with AWS reporting its fastest growth in nearly five years. His own move is buying more Amazon: if the build-out slows, existing compute becomes scarcer and more valuable, and AWS is the biggest and fastest-growing. He also sold puts on the gold miners ETF (GDX) and is watching power names GE Vernova, Bloom Energy and NextEra, plus gold miner AEM. He closes with history — the market was positive 12 months after all 21 midterm elections since 1942 — and urges discipline over emotion. Calls: AMZN BUY (reiterated), GDX BUY (first tracked).",
+ "calls": [
+  {
+   "video_id": "RCTtEjdjbXQ",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "Buying more (price not stated)",
+   "thesis": "BUY reiterated — buying more Amazon. If the data-centre build-out slows, existing compute gets scarcer and more valuable; AWS is the biggest and growing fast (fastest growth in nearly 5 years), and hyperscalers are still raising 2027 spend.",
+   "base_case": "Build-out slows but does not stop; existing capacity earns more.",
+   "bull_case": "AWS growth re-accelerates; compute scarcity lifts pricing.",
+   "bear_case": "Management teams dial back capex plans post-midterms; spending growth disappoints suppliers.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "RCTtEjdjbXQ",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "GDX",
+   "direction": "BUY",
+   "price_at_call": "Sold puts on GDX (options trade, not shares)",
+   "thesis": "BUY, first tracked — sold puts on GDX. Gold, especially the gold miners, is an area he has been preaching inside his community.",
+   "base_case": "Gold miners keep working as a diversifier while tech stays volatile.",
+   "bull_case": "Gold strength carries the miners higher.",
+   "bear_case": "Gold rolls over; put sale loses.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  }
+ ]
+}
