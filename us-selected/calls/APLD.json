@@ -3,6 +3,19 @@
  "slug": "APLD",
  "calls": [
   {
+   "video_id": "yaVPpVzXCPI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "APLD",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $26 (stated) vs ~$14 current (stated), near 52-week low",
+   "thesis": "BUY reiterated, conviction upgraded low->medium; $6.4B debt vs $4.3B market cap, but significantly undervalued after the sell-off.",
+   "base_case": "Data-center demand stays ahead of supply; existing capacity can charge more.",
+   "bull_case": "Continued AI expansion; supply < demand for ~2 years lifts prices.",
+   "bear_case": "Revenue slowdown -> missed debt payments / default; could go to zero.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
    "video_id": "h17AZEdmxgM",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -104,16 +117,16 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "channel": "MarketBeat",
+   "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
