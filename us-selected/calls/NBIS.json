@@ -3,6 +3,19 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "yaVPpVzXCPI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $264 (stated) vs ~$120 current (stated); fair value raised from $248",
+   "thesis": "BUY reiterated, conviction upgraded low->medium; best debt/market-cap ratio of the four ($10B+ debt vs $32.7B market cap).",
+   "base_case": "Data-center demand stays ahead of supply; existing capacity can charge more.",
+   "bull_case": "Continued AI expansion; supply < demand for ~2 years lifts prices.",
+   "bear_case": "Revenue slowdown -> missed debt payments / default; could go to zero.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
    "video_id": "qdFdLiDy7WE",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -298,20 +311,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "channel": "MarketBeat",
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 16
+   "idx": 17
   }
  ]
 }
