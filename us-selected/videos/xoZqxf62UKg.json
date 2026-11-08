@@ -1,0 +1,23 @@
+{
+ "video_id": "xoZqxf62UKg",
+ "title": "The Best Stock to Buy Right Now in November?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-08",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate Vosianc argues Nvidia (NVDA) is still the best stock to buy after falling 9% on the day and 15% over five sessions on midterm-election fears of slower data-centre build-outs. He adjusts his model for the new political landscape by spreading the same total AI spend over a longer period — for example Meta building its data centres over five years instead of three — arguing total spending will not fall and may even rise, while a slower pace lets supply chains catch up and lowers component prices that had risen 300-400% in the rush. His revised DCF fair value is $311 per share versus a $183 current price, and on a forward P/E of 11.42 — the lowest in years — he notes Nvidia is now priced almost as cheaply as T-Mobile, a saturated, zero-growth wireless business. He reiterates NVDA as his top-ranked buy and his largest conviction name, while flagging the 17 November earnings report as a major event he will cover live for channel members. Call: NVDA BUY (reiterated).",
+ "calls": [
+  {
+   "video_id": "xoZqxf62UKg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value cut to $311 (stated) vs $183 current (stated); forward PE 11.42 (stated)",
+   "thesis": "BUY reiterated as the best stock to buy right now; midterm-election fears may spread data-center build-out over more years (Meta $600B over 5 yrs not 3) but total spend is not falling and demand is intact; ridiculously cheap on DCF and forward PE.",
+   "base_case": "Build-out spreads over more years at lower component prices; total AI spend holds or grows.",
+   "bull_case": "Driverless cars, pharma/drug discovery, robotics and drone delivery extend the growth runway.",
+   "bear_case": "Election outcome actually cuts data-center approvals and spending.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  }
+ ]
+}
