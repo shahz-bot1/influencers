@@ -4,6 +4,62 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Bought 10 shares on Tuesday (price not stated)",
+   "video_id": "i8vFBCkcxqs"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Bought 3 shares on Tuesday; low $600s, support $500-520, wants $630-640",
+   "video_id": "i8vFBCkcxqs"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Bought 7 shares on Tuesday; at ~$284, buy/target zone $260-270",
+   "video_id": "i8vFBCkcxqs"
+  },
+  {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Bought 125 shares on Tuesday; at ~$16.21, in the buy zone, support ~$16.74",
+   "video_id": "i8vFBCkcxqs"
+  },
+  {
+   "ticker": "AXON",
+   "tickerSlug": "AXON",
+   "direction": "BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "2.36% of portfolio, wants above 3%; down 24% on his average; low $300s, support $300-313",
+   "video_id": "i8vFBCkcxqs"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "At ~$449, buy zone low $400s, support ~$420; 3-4x forward earnings (caption figures garbled)",
+   "video_id": "i8vFBCkcxqs"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-08T19:07:35.730824+00:00",
+   "price": "Buy zone a bit lower than current; could be back above $300 soon",
+   "video_id": "i8vFBCkcxqs"
+  },
+  {
    "ticker": "META",
    "tickerSlug": "META",
    "direction": "BUY",
