@@ -1,0 +1,25 @@
+{
+ "ticker": "GDX",
+ "slug": "GDX",
+ "calls": [
+  {
+   "video_id": "RCTtEjdjbXQ",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "GDX",
+   "direction": "BUY",
+   "price_at_call": "Sold puts on GDX (options trade, not shares)",
+   "thesis": "BUY, first tracked — sold puts on GDX. Gold, especially the gold miners, is an area he has been preaching inside his community.",
+   "base_case": "Gold miners keep working as a diversifier while tech stays volatile.",
+   "bull_case": "Gold strength carries the miners higher.",
+   "bear_case": "Gold rolls over; put sale loses.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
