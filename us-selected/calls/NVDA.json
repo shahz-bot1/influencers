@@ -3,6 +3,58 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "Bought 10 shares on Tuesday (price not stated)",
+   "thesis": "BUY reiterated — added 10 shares Tuesday; still undervalued big-tech name, held up well in the sell-off; one of the four stocks he bought $8,000 of this week.",
+   "base_case": "Big tech keeps holding up while neocloud/semiconductor names stay volatile.",
+   "bull_case": "AI build-out continues; large-cap tech re-rates.",
+   "bear_case": "Further multiple compression if AI spending slows.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "AffqGxKi0XE",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "Anchor position; PE now below the S&P 500 (stated), PEG below 1 (stated)",
+   "thesis": "BUY — FLIP from CONDITIONAL_BUY earlier today (did not add on position size). 'Nvidia is your anchor... don't bet against Nvidia... that's a slam dunk.' Collab with The Mispriced Podcast.",
+   "base_case": "Stays the AI-chip leader; demand holds.",
+   "bull_case": "Next-gen chips shipping; growth compounds.",
+   "bear_case": "Already a huge position for him; concentration risk if it falls further.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
+   "video_id": "xoZqxf62UKg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value cut to $311 (stated) vs $183 current (stated); forward PE 11.42 (stated)",
+   "thesis": "BUY reiterated as the best stock to buy right now; midterm-election fears may spread data-center build-out over more years (Meta $600B over 5 yrs not 3) but total spend is not falling and demand is intact; ridiculously cheap on DCF and forward PE.",
+   "base_case": "Build-out spreads over more years at lower component prices; total AI spend holds or grows.",
+   "bull_case": "Driverless cars, pharma/drug discovery, robotics and drone delivery extend the growth runway.",
+   "bear_case": "Election outcome actually cuts data-center approvals and spending.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
+   "video_id": "cbkQCsrubBM",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "ticker": "NVDA",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "Would buy if small position; did NOT add — already ~12% of his portfolio; severely undervalued, 3-yr forecast ~38%/yr; $96B quarterly sales, fell 9% Thursday",
+   "thesis": "CONDITIONAL_BUY — would have bought more if he owned only a small percentage; did not add because it is already ~12% of his portfolio. AI-chip leader, still severely undervalued. Prior BWB call was BUY (25 Oct) — stance softened on position size, not thesis.",
+   "base_case": "Stays the AI-chip leader; demand holds.",
+   "bull_case": "Next-gen chips shipping; growth compounds.",
+   "bear_case": "Already 12% of his portfolio — concentration risk if it falls further.",
+   "analyzed_at": "2026-11-08T14:59:54.080668+00:00"
+  },
+  {
    "video_id": "p2fpLPGrA5c",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -417,16 +469,16 @@
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 8
+   "channel": "Mark Roussin CPA",
+   "idx": 6
   }
  ]
 }
