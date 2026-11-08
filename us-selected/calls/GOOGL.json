@@ -3,6 +3,19 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "i8vFBCkcxqs",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "Bought 7 shares on Tuesday; at ~$284, buy/target zone $260-270",
+   "thesis": "BUY — FLIP from HOLD (7 Nov). Bought 7 shares Tuesday; still undervalued with a lot of growth left and lower beta than the neocloud names.",
+   "base_case": "Drifts toward the $260-270 buy zone and bases there.",
+   "bull_case": "Big-tech resilience carries it back above resistance.",
+   "bear_case": "Cloud/AI-spend worries drag it lower.",
+   "analyzed_at": "2026-11-08T19:07:35.730824+00:00"
+  },
+  {
    "video_id": "QW9HCb7op00",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -459,28 +472,28 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "MarketBeat",
-   "idx": 5
-  },
-  {
-   "channel": "Joseph Carlson After Hours",
    "idx": 6
   },
   {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 7
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 11
+   "idx": 12
   }
  ]
 }
