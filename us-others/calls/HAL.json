@@ -1,0 +1,22 @@
+{
+ "ticker": "HAL",
+ "slug": "HAL",
+ "calls": [
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "HAL",
+   "direction": "BUY",
+   "thesis": "'Halliburton's probably the better deal here' - similar revenue growth and margins to SLB/BKR but significantly cheaper; Venezuela agreements signed, ~2% operating-margin improvement expected in 2027.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "15.5x P/E"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
