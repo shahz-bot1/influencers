@@ -1,0 +1,151 @@
+{
+ "video_id": "XHNZMOhHa8g",
+ "title": "I Just Bought $74,000 in this Crushed AI Stock",
+ "creator": "Joseph Hogue, CFA",
+ "handle": "@josephhogue",
+ "published_at": "2026-11-08T17:55:36.498969+00:00",
+ "summary": "Joseph Hogue's weekly market update, published 8 November 2026, is a dip-buying tour of 29 AI stocks after a brutal sell-off: the Nasdaq is down over 10% from its peak into correction territory, Nvidia is down 22% in a month and Micron 34%, with Marvell down 50%. He argues the sell-off is overdone because nothing fundamental has changed - hyperscalers plus Oracle are set to spend over $1 trillion on AI in 2027, already locked in and funded - and because a data-center construction slowdown was coming anyway for physical reasons (power generation takes years, high-bandwidth memory is short), so the post-midterm political fears change the messaging, not the demand. He screens five groups - AI infrastructure, memory, AI power, cybersecurity and software - on forward revenue growth and PEG ratio, finding a wide gap between collapsing prices and still-strong fundamentals, AMD being the clearest example (revenue +45%, data-center revenue +97%, yet down a third). His headline action is a real purchase: 700 shares of ServiceNow at $106 each, $74,000, on its orchestration story. He would also pick up Palantir, Micron, SanDisk, Bloom Energy, Fortinet and Zscaler, while holding Palo Alto, CrowdStrike, Okta and Cloudflare as too expensive to add, and pulling back on Arista after its earnings pop. A sponsored Gigastar segment interrupts the analysis. Note: the caption file ends mid-sentence during the Palantir discussion, so the video's closing picks are missing from the captions; 'A net'/'Aenet' is Arista Networks, 'Epic CPUs' is EPYC, and figures like 'Micron revenue growth of 378%' and 'ServiceNow revenue growth of $20 billion' are garbled.",
+ "calls": [
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "thesis": "Cheapest software name at 1.06x PEG; AI contracts +70% to $1.7B, full-year outlook raised; ServiceNow is building the 'orchestration' layer between enterprise AI agents and models.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "$106/share - he bought 700 shares ($74,000) last week"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "thesis": "'I would be picking it up' - 65% expected revenue growth, and 'I can't believe I'm saying this, but Palantir is actually very attractively priced' vs its usual premium.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "1.7x PEG"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "MU",
+   "direction": "BUY",
+   "thesis": "'Definitely one I would be picking up on the drop here' - 104% expected revenue growth, sold-out memory capacity years in advance, pricing power from the shortage.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "0.07x PEG",
+   "bear_case": "He still believes memory is cyclical - 'we're just seeing a super cycle here.'"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SNDK",
+   "direction": "BUY",
+   "thesis": "Paired with Micron as 'very good deals' if data-center capex keeps rising - 102% expected revenue growth, high-bandwidth memory.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "0.09x PEG"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BE",
+   "direction": "BUY",
+   "thesis": "'Definitely be looking at Bloom Energy, picking that up on the dip' - 68-69% expected revenue growth, fastest power colocation (~90 days), Q3 revenue +179%.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "0.58x PEG"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FTNT",
+   "direction": "BUY",
+   "thesis": "'I'd be picking up more shares of Fortinet' after a 37% monthly drop on a marginal $40M service-revenue guidance trim, despite 22% revenue growth and $865M FCF.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "~2.0x PEG"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "thesis": "'I would pick up more Zscaler here' - cheapest of the cyber five, 20% expected revenue growth; owns all five cyber names but would only add ZS and FTNT now.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "1.8x PEG"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "VST",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "'Real surprise potential' from the Cogentrix acquisition (+5.5 GW gas capacity) - attractive if it surprises on revenue growth, which is only 10% expected.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "0.38x PEG"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "MPWR",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "'I'd really focus on Bloom Energy and Monolithic Power for that growth' (43% expected revenue growth) - highlighted as a focus name, but no explicit 'pick up' language.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "No price stated"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ANET",
+   "direction": "HOLD",
+   "thesis": "'I'd probably pull back a little bit on Arista, especially after that really strong earnings report' - owns it, 58% revenue growth and ~50% operating margins, but not adding after the pop.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "No price stated"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PANW",
+   "direction": "HOLD",
+   "thesis": "Owns it; 'wouldn't be loading up on all of them just yet' - 34% growth, 63% next-gen security growth, but too expensive to add.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "4.0x PEG"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "CRWD",
+   "direction": "HOLD",
+   "thesis": "'I love the company... best platform with its Falcon platform' but 'still very expensive... I would like to see it come down a little bit more before I continue to load up.'",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "5.9x PEG"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "OKTA",
+   "direction": "HOLD",
+   "thesis": "Owns it; covered by the group 'wouldn't be loading up on all of them just yet' - slowest growth in the group at 10-11%.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "2.4x PEG"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NET",
+   "direction": "HOLD",
+   "thesis": "'Still just a little bit too expensive for my taste' despite a strong earnings beat and the agent-orchestration story.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "4.0x PEG"
+  }
+ ]
+}
