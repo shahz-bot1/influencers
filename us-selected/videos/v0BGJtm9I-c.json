@@ -1,0 +1,46 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-09T18:00:03.510338+00:00",
+ "source_note": "Auto-captions heavily garble names throughout: Jensen Huang appears as 'Jensen Hong', 'Johnson Wong', 'Jensen Jong' and 'Jensen Hang'; 'extramarital affair' is rendered 'extra matter of affair'; Easterbrook, Krzanich, Hurd, Lisa Su and Pat Gelsinger are also misspelled. The Micron move is garbled as 'up over 6 12%'.",
+ "summary": "Parkevtate Vosianc CFA covers what he calls massive, significantly negative news for Nvidia: the board has opened an investigation into CEO Jensen Huang's relationship with a woman the intelligence community believes could be a Chinese spy, and Huang admitted in a Sunday memo to an extramarital affair, apologising to family and staff and pledging cooperation with an independent review. Nvidia fell over 5% on the day while the wider semiconductor sector surged — ASML up 6%, TSMC over 4%, Broadcom over 8% and Marvell over 10% — suggesting the stock could otherwise have risen 5%. He studies historical precedents — Steve Easterbrook at McDonald's in 2019, Brian Krzanich at Intel, Mark Hurd at HP in 2010 and Brian Dunn at Best Buy — where CEOs were typically removed, with shares falling 3-10%, and warns the key risk is a cover-up of expenses. With Huang among the world's most important CEOs and no obvious number two, he floats Lisa Su of AMD or former Intel chief Pat Gelsinger as replacements. The mitigating factor is valuation: a forward P/E of just 11 and a discounted cash flow fair value of $313 against a price of about $177-$178, near the 52-week low of $164. Calls: NVDA BUY retained but demoted from his number-one pick (still top 10), with META promoted to first place; he warns Nvidia could drop out of the top 10 as the investigation develops. Nvidia reports on 17 November.",
+ "title": "Terrible News for Nvidia Stock Investors",
+ "video_id": "v0BGJtm9I-c",
+ "calls": [
+  {
+   "video_id": "v0BGJtm9I-c",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Terrible News for Nvidia Stock Investors",
+   "published_at": "2026-11-09T18:00:03.510338+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $313 vs current ~$177-178 (stated); forward P/E ~11; near 52-week low $164",
+   "thesis": "BUY but DOWNGRADED from his #1 best stock to buy — the board opened an independent investigation into CEO Jensen Huang over a reported relationship with a woman the intelligence community believes could be a Chinese spy; Huang admitted an extramarital affair and apologised, per the video. He sees the risk as Huang being forced out with no obvious successor, citing McDonald's/Intel/HP/Best Buy precedents where CEOs were removed. Still keeps NVDA in his top 10, but would not be surprised if it drops out as details emerge. Earnings 17 Nov now even bigger.",
+   "base_case": "Valuation already cheap (forward P/E ~11, DCF $313) should limit downside; stock near its 52-week low.",
+   "bull_case": "Investigation clears Huang or ends without a leadership change; the stock was set for a +5% day on semis strength.",
+   "bear_case": "Huang forced to resign; no credible successor (he floats poaching AMD's Lisa Su or ex-Intel's Pat Gelsinger); a cover-up of expenses/financials emerges.",
+   "analyzed_at": "2026-11-09T19:03:43.083444+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null
+  },
+  {
+   "video_id": "v0BGJtm9I-c",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Terrible News for Nvidia Stock Investors",
+   "published_at": "2026-11-09T18:00:03.510338+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "No new fair value stated in this video",
+   "thesis": "BUY reiterated and UPGRADED to his #1 best stock to buy (was #2 behind NVDA) as NVDA was demoted. No new valuation given here; prior explicit META call was BUY 2 Nov (FV $928).",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-11-09T19:03:43.083444+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null
+  }
+ ]
+}
