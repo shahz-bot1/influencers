@@ -4,6 +4,70 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-11-09T18:00:03.510338+00:00",
+   "price": "Fair value $126 vs current $68 (stated)",
+   "video_id": "AtubYu6Yemw"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-09T18:00:03.510338+00:00",
+   "price": "DCF fair value $313 vs current ~$177-178 (stated); forward P/E ~11; near 52-week low $164",
+   "video_id": "v0BGJtm9I-c"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-09T18:00:03.510338+00:00",
+   "price": "No new fair value stated in this video",
+   "video_id": "v0BGJtm9I-c"
+  },
+  {
+   "ticker": "TMUS",
+   "tickerSlug": "TMUS",
+   "direction": "BUY",
+   "date": "2026-11-09T17:00:03.510338+00:00",
+   "price": "DCF fair value $222 vs current $159 (stated); forward P/E below long-term EPS growth (PEG < 1)",
+   "video_id": "GrveN3HYcoY"
+  },
+  {
+   "ticker": "MELI",
+   "tickerSlug": "MELI",
+   "direction": "BUY",
+   "date": "2026-11-09T16:00:03.510338+00:00",
+   "price": "DCF fair value $2,213 vs current $1,512 (stated); forward P/E 27, cheapest in years",
+   "video_id": "tUvjqIrih14"
+  },
+  {
+   "ticker": "ORCL",
+   "tickerSlug": "ORCL",
+   "direction": "BUY",
+   "date": "2026-11-09T15:06:51.017104+00:00",
+   "price": "FV $167 vs current ~$112, near 52-wk low $109; forward P/E ~10",
+   "video_id": "f8JLZMEgaHs"
+  },
+  {
+   "ticker": "SNDK",
+   "tickerSlug": "SNDK",
+   "direction": "BUY",
+   "date": "2026-11-09T15:06:51.017104+00:00",
+   "price": "FV $1,808 vs current ~$806 after a 22% one-day drop; forward P/E 2.8",
+   "video_id": "TeEKQNlXSak"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-09T15:06:51.017104+00:00",
+   "price": "FV $1,531 vs current ~$697 (down ~50% from $1,250 ATH); forward P/E 3.4",
+   "video_id": "k7cmoCOfrtg"
+  },
+  {
    "ticker": "TSLA",
    "tickerSlug": "TSLA",
    "direction": "AVOID",
