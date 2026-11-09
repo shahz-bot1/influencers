@@ -3,6 +3,16 @@
  "slug": "PANW",
  "calls": [
   {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PANW",
+   "direction": "HOLD",
+   "thesis": "Owns it; 'wouldn't be loading up on all of them just yet' - 34% growth, 63% next-gen security growth, but too expensive to add.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "4.0x PEG"
+  },
+  {
    "video_id": "IaSD9j5O_ZQ",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
