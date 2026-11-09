@@ -1,0 +1,23 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-09T12:03:08.518438+00:00",
+ "source_note": "The captions garble the current price as '68' where the video's own earlier figure is $697; the $697 figure is used here. The Tesla forward P/E comparison is also partly garbled in the captions.",
+ "summary": "Parkevtate Vosianc CFA asks whether Micron's crash — down almost 13% on the day, over 25% in five days and almost 35% in a month — is a generational buying opportunity. The trigger is the US midterm election: Democrats took the House and Senate and several local anti-data-centre measures passed, raising fears that data-centre build-outs will slow. He explains why communities resist data centres: unlike a car plant, they create few lasting jobs but consume energy and water and raise local prices, while adding noise and pollution. The shift is a headwind, he concedes, but demand is not going away: hyperscalers still want the capacity, so spending may simply stretch from two or three years to five or six, and AI's cost savings for enterprises keep demand intact. Micron's boom is extraordinary: a record 75% trailing operating margin, above 80% in each of the last two quarters — the first time in eight years of covering thousands of statements he has seen that. The stock is still up sharply in 2026 despite falling nearly 50% from its $1,250 all-time high to about $697. At a forward P/E of 3.4 — versus Tesla at roughly 150 — his fair value is $1,531. Call: MU BUY; he has recently added Micron to his own portfolio and says he may add more.",
+ "title": "Why Is Micron Stock Crashing, and is it a Generational Buying Opportunity? | MU Stock Analysis",
+ "video_id": "k7cmoCOfrtg",
+ "calls": [
+  {
+   "video_id": "k7cmoCOfrtg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": "FV $1,531 vs current ~$697 (down ~50% from $1,250 ATH); forward P/E 3.4",
+   "thesis": "BUY reiterated (was BUY, 6 Nov): election-driven data-center fears slow the build-out but do not kill demand; at 3.4x forward P/E the cyclical slowdown is already priced in; he has added MU to his own portfolio and may add more.",
+   "base_case": "Record 75% TTM operating margins (80%+ two quarters running) moderate as the build-out stretches over 5-6 years instead of 2-3; FV $1,531.",
+   "bull_case": "Hyperscalers keep building, just slower and longer; component shortages persist and pricing stays high.",
+   "bear_case": "Political and local opposition stalls data-center approvals; the memory cycle turns and margins collapse from record highs; near-term headlines stay choppy.",
+   "analyzed_at": "2026-11-09T15:06:51.017104+00:00"
+  }
+ ]
+}
