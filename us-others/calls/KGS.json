@@ -1,0 +1,22 @@
+{
+ "ticker": "KGS",
+ "slug": "KGS",
+ "calls": [
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "KGS",
+   "direction": "BUY",
+   "thesis": "'I would definitely be picking up shares of KGS' - 53% EBITDA margin, 70% adjusted gross margins, turbine supply agreement up to 1 GW with a path past 2 GW by 2030 in distributed power/data centers.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "18x P/E"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
