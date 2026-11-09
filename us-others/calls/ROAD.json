@@ -3,6 +3,19 @@
  "slug": "ROAD",
  "calls": [
   {
+   "video_id": "XopekzfZKiQ",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ROAD",
+   "direction": "BUY",
+   "thesis": "The 20% sell-off is a short-term overreaction to a wet Q4 and a diesel-price spike; FY26 revenue +30%, net income +40%, EBITDA +23%, and FY27 guidance still calls for ~15% revenue/EBITDA growth with margins re-expanding in H2 2027.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "~$77/share (was ~$80, rallied to ~$100, fell back after preliminary Q4 results; down 20% on the day; 8.4x trailing-12-month EBITDA, below its 2022 bottom of 11.8x)",
+   "base_case": "15% annual EBITDA growth, 13x EBITDA exit (below ~15x long-term median) -> 24.3% CAGR over 5 years.",
+   "bull_case": "Hits FY27 projections, ~$1bn EBITDA by 2030, back to 15x EBITDA -> 30% CAGR.",
+   "bear_case": "Only 10% annual growth and 10x EBITDA (a 33% discount to history) -> still ~13% CAGR."
+  },
+  {
    "video_id": "H12AMJAOSE4",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
