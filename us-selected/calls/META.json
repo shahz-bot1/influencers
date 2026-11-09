@@ -3,6 +3,24 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "v0BGJtm9I-c",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Terrible News for Nvidia Stock Investors",
+   "published_at": "2026-11-09T18:00:03.510338+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "No new fair value stated in this video",
+   "thesis": "BUY reiterated and UPGRADED to his #1 best stock to buy (was #2 behind NVDA) as NVDA was demoted. No new valuation given here; prior explicit META call was BUY 2 Nov (FV $928).",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-11-09T19:03:43.083444+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null
+  },
+  {
    "video_id": "i8vFBCkcxqs",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -345,16 +363,16 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 4
+   "channel": "Couch Investor",
+   "idx": 1
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 10
+   "idx": 11
   }
  ]
 }
