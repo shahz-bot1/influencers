@@ -3,6 +3,42 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "s-H0yY1OPII",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Same buy-the-dip framing as MSFT - 'even the great Nvidia' drops, and those drops are buying opportunities.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "+500% over 5 years; dropped 54% in 2022, twice 20%, once 36% in April last year"
+  },
+  {
+   "video_id": "XpvoTf97TsE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Thesis intact 'as long as the evidence hold[s]': business is business, hyperscalers/neoclouds keep buying, no customer cancellations expected, deep bench beyond Jensen; stock 'extremely extreme cheap'.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "~$180 overnight, -3% from Friday's close, ~24% below the October closing high of ~$240; forward P/E ~13x Friday, ~12.5x after the overnight drop",
+   "base_case": "Business intact - customers keep buying Nvidia GPUs/systems, Jensen is the face not the operation, and the board backs him today.",
+   "bull_case": "Best case is Jensen disclosed the blackmail risk himself / it was caught before it affected any decisions - no effect on the business.",
+   "bear_case": "Two risks - (1) CEO-change risk: investigation unfinished, a leadership change would mean succession uncertainty and the stock would be punished; (2) policy/regulatory risk: tighter export restrictions, House briefing, or headlines that secrets were compromised / allegations are true - all create heavy volatility."
+  },
+  {
+   "video_id": "ncslbnvnaMI",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "'Long-term, I remain bullish on Nvidia full stack' - capex keeps rising, the AI cycle does not end in 24 months, he is 'owning a lot and a lot more than I was just a few weeks ago'.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "~$186-187 now, -22% from ~$240 early-October high; forward NTM P/E 13.1x; at 15x P/E -> $213; even with a 20% earnings cut, 15x is still fairly valued",
+   "base_case": "CY2027 capex rises (MSFT ~$170B, Alphabet ~$200B, Amazon ~$220B, Meta ~$140B) and CY2028 capex rises again; the cycle does not end in 12/18/24 months; margin reset (Q3 ~74%, Q4 low 71-72%, FY2028 72-73%) is HBM memory pricing, not competition or demand, with margins recovering toward the higher end.",
+   "bull_case": "15x P/E implies ~$213; next fiscal year expected +70% growth (supply-constrained); Vera Rubin at ~$40B revenue per gigawatt vs Blackwell ~$25B; AI demand keeps growing with not enough capacity.",
+   "bear_case": "(The market's case, which he disputes): the cycle ends in 12-24 months, making forward P/E look 20-30x; funding gets too expensive and hyperscalers/neoclouds throttle buildouts; the margin reset is really competition/demand, not memory pricing."
+  },
+  {
    "video_id": "Qf72K1Fends",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -99,12 +135,16 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Tom Nash",
    "idx": 0
   },
   {
+   "channel": "Jose Najarro Stocks",
+   "idx": 1
+  },
+  {
    "channel": "Joseph Hogue, CFA",
-   "idx": 6
+   "idx": 9
   }
  ]
 }
