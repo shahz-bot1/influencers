@@ -1,0 +1,23 @@
+{
+ "video_id": "XpvoTf97TsE",
+ "title": "Jensen Huang Affair and Nvidia Board Probe: What It Means for NVDA",
+ "creator": "Jose Najarro Stocks",
+ "handle": "@josenajarrostocks",
+ "published_at": "2026-11-09T03:55:36.498969+00:00",
+ "summary": "Jose Najarro's 9 November 2026 episode covers Nvidia CEO Jensen Huang's admission of infidelity - a message to the company on Sunday 8 November saying 'I was unfaithful to my wife' - and the board's independent investigation. The woman is reported by major outlets as a former executive at Mega Speed, a private Singapore-based GPU cloud company and Nvidia customer under scrutiny since October 2025 over whether banned Nvidia chips reached China. Najarro stresses three separate buckets: one confirmed admission, one company under scrutiny, and serious but anonymously sourced allegations - the New York Times reported US intelligence concluded the executive collected information for Beijing and was allegedly recruited by China's Ministry of State Security, with a classified memo said to have been overseen by Secretary Rubio. The Chinese embassy called the allegations unfounded; Singapore said there was no investigation of her alleged intelligence ties, though its police probe into Mega Speed continues. The board says it has no reason to believe national security or Nvidia secrets were compromised, and Jensen stays CEO without interruption. His take: Nvidia is bigger than one person and the business is intact - hyperscalers keep buying, no cancellations expected - but Jensen's word now carries less weight with him personally. Garbled caption spots: 'Megaspe' for Mega Speed, Culper rendered 'Corporate Research'/'Coper', 'outside console' for outside counsel, 'secession uncertainty' for succession uncertainty, '13* 4 PE' for 13x forward P/E.",
+ "calls": [
+  {
+   "video_id": "XpvoTf97TsE",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Thesis intact 'as long as the evidence hold[s]': business is business, hyperscalers/neoclouds keep buying, no customer cancellations expected, deep bench beyond Jensen; stock 'extremely extreme cheap'.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "~$180 overnight, -3% from Friday's close, ~24% below the October closing high of ~$240; forward P/E ~13x Friday, ~12.5x after the overnight drop",
+   "base_case": "Business intact - customers keep buying Nvidia GPUs/systems, Jensen is the face not the operation, and the board backs him today.",
+   "bull_case": "Best case is Jensen disclosed the blackmail risk himself / it was caught before it affected any decisions - no effect on the business.",
+   "bear_case": "Two risks - (1) CEO-change risk: investigation unfinished, a leadership change would mean succession uncertainty and the stock would be punished; (2) policy/regulatory risk: tighter export restrictions, House briefing, or headlines that secrets were compromised / allegations are true - all create heavy volatility."
+  }
+ ]
+}
