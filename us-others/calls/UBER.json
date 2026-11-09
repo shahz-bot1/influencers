@@ -3,6 +3,16 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "yZ04xcND2A4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "UBER",
+   "direction": "AVOID",
+   "thesis": "Actually cheap for a business growing bookings 20%+ with five straight quarters above 20% bookings growth - but he is not a buyer because he doesn't know what the business looks like long-term as autonomous driving (Waymo, Tesla) becomes mainstream, and he only takes concentrated, high-conviction positions.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "16x forward P/E, ~14.6x free cash flow; no share price stated; down ~28% from all-time highs, up 7% on the day after earnings"
+  },
+  {
    "video_id": "CILREIdG9Sw",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -44,12 +54,16 @@
  ],
  "byInf": [
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Daniel Pronk",
    "idx": 0
   },
   {
+   "channel": "Asymmetric Investing",
+   "idx": 1
+  },
+  {
    "channel": "Sven Carlin",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
