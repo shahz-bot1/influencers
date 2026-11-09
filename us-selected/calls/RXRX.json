@@ -1,0 +1,25 @@
+{
+ "ticker": "RXRX",
+ "slug": "RXRX",
+ "calls": [
+  {
+   "video_id": "hURcdKs201s",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "RXRX",
+   "direction": "BUY",
+   "price_at_call": "~$3.50-$4 (price stated); stop if it loses $3-$3.50",
+   "thesis": "BUY (first tracked) — guest Ross Given: Recursion's robots run millions of cell experiments and AI picks the drug; its AI-made cancer drug REC-1245 showed 87% of patients improving in a trial announced 2 Nov. Broke out of a $3-$4 range in October; 'a $4 stock' that 'could be a $24 stock'.",
+   "base_case": "Stage-two uptrend forming off a rounded bottom; one working drug transforms the story.",
+   "bull_case": "Analysts see 100%+ upside; pipeline drugs follow REC-1245 to market.",
+   "bear_case": "Not profitable yet; riskier turnaround story, peaked at $40 in 2021, $2bn market cap with $750m cash through 2029.",
+   "analyzed_at": "2026-11-09T06:57:11.723197+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
