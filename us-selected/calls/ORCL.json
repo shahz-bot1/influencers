@@ -3,6 +3,19 @@
  "slug": "ORCL",
  "calls": [
   {
+   "video_id": "f8JLZMEgaHs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "ORCL",
+   "direction": "BUY",
+   "price_at_call": "FV $167 vs current ~$112, near 52-wk low $109; forward P/E ~10",
+   "thesis": "BUY reiterated (was BUY, 24 Sep), conviction upgraded low to medium: management's FY29 FCF target of $30B+ beats his $17.5B estimate by ~50%, and even on his own more pessimistic forecast the stock looks undervalued despite the debt-funded data-center build-out.",
+   "base_case": "His FCF forecast $17.5B by FY29; FV $167 vs $112; 40% operating margins by FY30 achievable.",
+   "bull_case": "If management's $30B+ FCF target is hit, the stock is worth even more than his $167 FV.",
+   "bear_case": "Long-term debt has tripled since 2020 to $165B+; growth needs heavy capex, making the business riskier; if FCF falls short of his forecast, valuation support weakens.",
+   "analyzed_at": "2026-11-09T15:06:51.017104+00:00"
+  },
+  {
    "video_id": "7d2yvEwmv_s",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -66,16 +79,16 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "channel": "MarketBeat",
+   "idx": 1
   },
   {
    "channel": "Couch Investor",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
