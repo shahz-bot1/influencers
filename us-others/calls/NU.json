@@ -1,0 +1,23 @@
+{
+ "ticker": "NU",
+ "slug": "NU",
+ "calls": [
+  {
+   "video_id": "XopekzfZKiQ",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "NU",
+   "direction": "BUY",
+   "thesis": "Far too cheap for 50%+ growth; huge runway digitising Latin America, just starting in Mexico where digital banking barely exists; the Brazil election sell-off is a non-event. Beats SoFi on every metric - 5x the earnings, faster growth, half the multiple.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "~16x trailing P/E, ~11x forward P/E (10.8x); no share price stated",
+   "base_case": "Even 15-20% annual growth from here should produce 15-20% annual returns, plus upside from any multiple expansion."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Daniel Pronk",
+   "idx": 0
+  }
+ ]
+}
