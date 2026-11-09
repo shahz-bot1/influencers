@@ -3,6 +3,16 @@
  "slug": "SHOP",
  "calls": [
   {
+   "video_id": "yZ04xcND2A4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "SHOP",
+   "direction": "AVOID",
+   "thesis": "Great business, beautiful growth (29% GMV, 32% revenue, FCF $2.7bn TTM) but 83x FCF is too high a price; DCF of 30% FCF growth at 50x FCF yields only a 9% CAGR, and the multiple will contract as growth decelerates.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "83x free cash flow; no share price stated; down 21% from recent highs"
+  },
+  {
    "video_id": "jbtxHHpX_u0",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -14,8 +24,12 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Daniel Pronk",
    "idx": 0
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 1
   }
  ]
 }
