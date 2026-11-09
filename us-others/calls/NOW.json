@@ -3,6 +3,26 @@
  "slug": "NOW",
  "calls": [
   {
+   "video_id": "yZ04xcND2A4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "NOW",
+   "direction": "AVOID",
+   "thesis": "Decent quarter (revenue +21%) but RPO growth decelerating to 18.5%, gross margins down 3% YoY and falling for ~18 months, operating margins down to 9.7% from ~14%, stock-based compensation accelerating while fundamentals don't, and a CEO he calls too promotional about AI tailwinds that aren't materialising.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "~24x free cash flow; no share price stated; down 31% after earnings"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "thesis": "Cheapest software name at 1.06x PEG; AI contracts +70% to $1.7B, full-year outlook raised; ServiceNow is building the 'orchestration' layer between enterprise AI agents and models.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "$106/share - he bought 700 shares ($74,000) last week"
+  },
+  {
    "video_id": "D0QIMlwlT6I",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -48,8 +68,12 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Daniel Pronk",
    "idx": 0
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 1
   }
  ]
 }
