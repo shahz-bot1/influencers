@@ -1,0 +1,23 @@
+{
+ "video_id": "ncslbnvnaMI",
+ "title": "Nvidia Stock Down 22% — Is Its 13x Forward P/E a STEAL?",
+ "creator": "Jose Najarro Stocks",
+ "handle": "@josenajarrostocks",
+ "published_at": "2026-11-08T02:55:35.240235+00:00",
+ "summary": "Jose Najarro's 8 November 2026 episode argues Nvidia, down 22% from its early-October high of around $240 to roughly $186, is a steal at a 13.1x forward P/E - the cheapest of the group he compares, against Broadcom at 15.4x, TSMC at 17.3x, Google and Meta in the 18s, Amazon at 23x, Microsoft at about 25x and AMD at roughly 32x. His thesis rests on capital expenditure: Microsoft ~$170B, Alphabet ~$200B, Amazon ~$220B and Meta ~$140B, with spending rising in calendar 2027 and, he predicts, 2028 too. The market, he says, is not worried about the next 12 months but about the cycle ending in 24-36 months; he does not believe it ends in 24 months, and even Oracle's investor-day suggestion that capex peaks around 2028 would only lift Nvidia from ~13x to ~15x if the step-down is flat or -5%. Nvidia is not just a chip, he argues, but full-stack AI factories - GPUs, CPUs, NVLink, Spectrum-X and CUDA - with Blackwell worth ~$25B per gigawatt and Vera Rubin ~$40B. AMD's data-center growth of 97% year over year is a positive read-through, since supply - not demand - is the constraint, though competition from Google TPUs, Amazon Trainium, AMD and custom ASICs is real. At ~$187, a 15x multiple implies $213, and even a 20% earnings cut leaves the stock fairly valued. Garbled caption spots: 'Nebas' for Nebius, 'IN'/'Iran' for IREN, 'Grockbot' for Grok, 'Envy Link' for NVLink, 'Capix' for capex.",
+ "calls": [
+  {
+   "video_id": "ncslbnvnaMI",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "'Long-term, I remain bullish on Nvidia full stack' - capex keeps rising, the AI cycle does not end in 24 months, he is 'owning a lot and a lot more than I was just a few weeks ago'.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "~$186-187 now, -22% from ~$240 early-October high; forward NTM P/E 13.1x; at 15x P/E -> $213; even with a 20% earnings cut, 15x is still fairly valued",
+   "base_case": "CY2027 capex rises (MSFT ~$170B, Alphabet ~$200B, Amazon ~$220B, Meta ~$140B) and CY2028 capex rises again; the cycle does not end in 12/18/24 months; margin reset (Q3 ~74%, Q4 low 71-72%, FY2028 72-73%) is HBM memory pricing, not competition or demand, with margins recovering toward the higher end.",
+   "bull_case": "15x P/E implies ~$213; next fiscal year expected +70% growth (supply-constrained); Vera Rubin at ~$40B revenue per gigawatt vs Blackwell ~$25B; AI demand keeps growing with not enough capacity.",
+   "bear_case": "(The market's case, which he disputes): the cycle ends in 12-24 months, making forward P/E look 20-30x; funding gets too expensive and hyperscalers/neoclouds throttle buildouts; the margin reset is really competition/demand, not memory pricing."
+  }
+ ]
+}
