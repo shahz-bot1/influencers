@@ -1,0 +1,27 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-09T18:00:03.510338+00:00",
+ "summary": "Parkevtate Vosianc CFA, a shareholder in both companies, says Amazon's new partnership with Uber is bigger news for Uber. Prime members can now order from restaurants via Uber Eats with free delivery on orders of $25 or more, plus $20 off their first two orders of $25 or more in the first 14 days. Delivery fees — often around $8 on a $25 order — are the main constraint on ordering, so free delivery should raise order frequency, benefiting Uber, its restaurant partners and drivers, while the $20 offer raises awareness of a benefit many Prime members may not know about (Amazon also offers Grubhub via Prime). The risk is that Uber One members ($9.99 a month or $96 a year) cancel and use Prime instead, but he sees that as roughly neutral since Uber One's benefits largely offset its fee. The bigger prize is driverless cars: Amazon's Zoox unit is already testing in several US cities, and a working partnership makes it more likely Amazon eventually lists its driverless cars on Uber's platform, reducing the autonomous-vehicle risk that keeps Uber cheap — and might even encourage Alphabet's Waymo to partner too. Call: UBER BUY, fair value $126 against a current price of $68; he ranks it among his top 10 stocks to buy and says the announcement makes him more bullish.",
+ "title": "Amazon Delivers Fantastic News for Uber Stock Investors",
+ "video_id": "AtubYu6Yemw",
+ "calls": [
+  {
+   "video_id": "AtubYu6Yemw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Amazon Delivers Fantastic News for Uber Stock Investors",
+   "published_at": "2026-11-09T18:00:03.510338+00:00",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": "Fair value $126 vs current $68 (stated)",
+   "thesis": "BUY reiterated (was BUY 7 Nov, FV $125) — Amazon Prime members now get free Uber Eats delivery on $25+ orders plus $20 off their first two orders; he expects higher order frequency and sees the partnership as a step toward Amazon listing its Zoox driverless cars on Uber, easing the biggest risk hanging over the stock. The news only makes him more bullish; he owns both stocks.",
+   "base_case": "Free delivery removes the biggest constraint on ordering; more frequent orders benefit Uber, its partners and drivers.",
+   "bull_case": "Amazon lists Zoox driverless cars on Uber's platform and Waymo follows — the driverless risk premium collapses.",
+   "bear_case": "Uber One members cancel ($9.99/mo) for the Prime benefit — he judges the net effect small since members' perks roughly offset the fee.",
+   "analyzed_at": "2026-11-09T19:03:43.083444+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null
+  }
+ ]
+}
