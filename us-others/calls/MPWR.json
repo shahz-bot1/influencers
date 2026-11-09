@@ -1,0 +1,22 @@
+{
+ "ticker": "MPWR",
+ "slug": "MPWR",
+ "calls": [
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "MPWR",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "'I'd really focus on Bloom Energy and Monolithic Power for that growth' (43% expected revenue growth) - highlighted as a focus name, but no explicit 'pick up' language.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "No price stated"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
