@@ -3,6 +3,16 @@
  "slug": "BE",
  "calls": [
   {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BE",
+   "direction": "BUY",
+   "thesis": "'Definitely be looking at Bloom Energy, picking that up on the dip' - 68-69% expected revenue growth, fastest power colocation (~90 days), Q3 revenue +179%.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "0.58x PEG"
+  },
+  {
    "video_id": "yn_cvSds3lw",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
