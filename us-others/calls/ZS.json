@@ -3,6 +3,16 @@
  "slug": "ZS",
  "calls": [
   {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "thesis": "'I would pick up more Zscaler here' - cheapest of the cyber five, 20% expected revenue growth; owns all five cyber names but would only add ZS and FTNT now.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "1.8x PEG"
+  },
+  {
    "video_id": "S3pQiAXNVPU",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
