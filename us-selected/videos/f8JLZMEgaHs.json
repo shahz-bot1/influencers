@@ -1,0 +1,22 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-09T14:45:08.518438+00:00",
+ "summary": "Parkevtate Vosianc CFA asks whether Oracle, down 40% in 2026, is a buying opportunity after its 28 October 2026 investor day. Management forecast over $30 billion of free cash flow by fiscal 2029 — roughly 50% above his own $17.5 billion estimate — and a return to 40% operating margins by fiscal 2030, which he sees as the more realistic target. Wall Street EPS growth estimates have nearly tripled in 18 months, from about 10% to about 30%, yet the valuation has fallen: Oracle trades at a forward P/E of just 10, comparable to AT&T and Verizon despite far stronger growth prospects. The problem, he argues, is capital intensity: long-term debt has more than tripled since 2020 to over $165 billion against $37 billion of cash, so growth depends on building new data centres rather than existing capacity, making the business riskier. Even on his more pessimistic cash-flow forecast, his discounted cash flow model gives a fair value of $167 against a current price of about $112, near the 52-week low of $109. Call: ORCL BUY reiterated, conviction upgraded from low to medium (last updated 24 September 2026). He also flags Nvidia's 17 November results as the next big AI read-through.",
+ "title": "Down 40% in 2026, Is it Time to Buy Oracle Stock on the Dip? | ORCL Stock Analysis",
+ "video_id": "f8JLZMEgaHs",
+ "calls": [
+  {
+   "video_id": "f8JLZMEgaHs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "ORCL",
+   "direction": "BUY",
+   "price_at_call": "FV $167 vs current ~$112, near 52-wk low $109; forward P/E ~10",
+   "thesis": "BUY reiterated (was BUY, 24 Sep), conviction upgraded low to medium: management's FY29 FCF target of $30B+ beats his $17.5B estimate by ~50%, and even on his own more pessimistic forecast the stock looks undervalued despite the debt-funded data-center build-out.",
+   "base_case": "His FCF forecast $17.5B by FY29; FV $167 vs $112; 40% operating margins by FY30 achievable.",
+   "bull_case": "If management's $30B+ FCF target is hit, the stock is worth even more than his $167 FV.",
+   "bear_case": "Long-term debt has tripled since 2020 to $165B+; growth needs heavy capex, making the business riskier; if FCF falls short of his forecast, valuation support weakens.",
+   "analyzed_at": "2026-11-09T15:06:51.017104+00:00"
+  }
+ ]
+}
