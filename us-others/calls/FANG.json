@@ -1,0 +1,22 @@
+{
+ "ticker": "FANG",
+ "slug": "FANG",
+ "calls": [
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FANG",
+   "direction": "BUY",
+   "thesis": "'I would go with Fang and Devon Energy here' among the explorers - 20% expected revenue growth, 72% EBITDA margin, cheapest of the group.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "9.4x P/E"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
