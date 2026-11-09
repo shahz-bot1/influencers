@@ -1,0 +1,23 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-09T14:03:08.518438+00:00",
+ "source_note": "The caption figure of $11 billion quarterly revenue, up 378%, looks garbled or misstated relative to SanDisk's usual scale; it is reported here as captioned.",
+ "summary": "Parkevtate Vosianc CFA examines SanDisk's crash — down over 22% in a day and 53% in a month — after a US midterm election result that handed Democrats control of the House and Senate and saw several anti-data-centre referendums pass. The market fears slower data-centre construction and therefore slower orders for SanDisk's products, despite strong results a week earlier: the captions state revenue of $11 billion, up 378% year over year, with $5.7 billion of operating cash flow, a CFO-to-sales ratio above 50%. He argues the sell-off prices in the worst case — that data centres are never built — before the newly elected legislators have even formed a plan, and that building could simply stretch over more years or move to friendlier states. SanDisk was already cheap and is now, in his view, ridiculously undervalued at a forward P/E of 2.8. His model has free cash flow rising from $8 billion in 2026 to $31 billion in 2027 and $38 billion in 2028, then growing very slowly on replacement demand and higher prices, giving a fair value of $1,808 against a current price of $806. Call: SNDK BUY reiterated, conviction upgraded from low to medium. He also notes Nvidia's 17 November earnings as the next catalyst.",
+ "title": "Why Is Sandisk Stock Crashing, and is it a Generational Buying Opportunity? | SNDK Stock Analysis",
+ "video_id": "TeEKQNlXSak",
+ "calls": [
+  {
+   "video_id": "TeEKQNlXSak",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "SNDK",
+   "direction": "BUY",
+   "price_at_call": "FV $1,808 vs current ~$806 after a 22% one-day drop; forward P/E 2.8",
+   "thesis": "BUY reiterated, conviction upgraded low to medium: the post-election AI sell-off prices in a worst case (data centers never built) that has not happened; an already-cheap stock is now 'ridiculously undervalued' on his FCF model.",
+   "base_case": "FCF booms in FY27-28 ($31B rising to $38B) then moderates to slow replacement-driven growth; FV $1,808.",
+   "bull_case": "Data-center build-out continues, just spread over more years or in other states; replacement demand plus higher prices sustain growth.",
+   "bear_case": "Democratic House/Senate and local anti-data-center measures slow the build-out materially; the memory boom peaks and FCF stalls.",
+   "analyzed_at": "2026-11-09T15:06:51.017104+00:00"
+  }
+ ]
+}
