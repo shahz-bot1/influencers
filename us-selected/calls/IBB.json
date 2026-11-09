@@ -1,0 +1,25 @@
+{
+ "ticker": "IBB",
+ "slug": "IBB",
+ "calls": [
+  {
+   "video_id": "hURcdKs201s",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "IBB",
+   "direction": "BUY",
+   "price_at_call": "Breaking out to new highs (price not stated); up 30% in the last 5 months",
+   "thesis": "BUY (first tracked) — guest Ross Given: iShares Biotechnology ETF as the lower-volatility way to play the AI-in-biotech theme; biotech is the leading sector with institutions and pensions moving in, and the ETF gives diversified exposure without single-drug trial risk. 'Very appropriate for like an IRA type trade.'",
+   "base_case": "Sector keeps marching higher with minimal retracements as AI drug discovery scales.",
+   "bull_case": "One of the leading areas for the next several years, even the decade, as healthcare spending and custom-drug demand grow.",
+   "bear_case": "Already up sharply since 2025; a sector-wide drug-trial failure wave or funding pullback hits the whole basket.",
+   "analyzed_at": "2026-11-09T06:57:11.723197+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
