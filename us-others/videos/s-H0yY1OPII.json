@@ -1,0 +1,52 @@
+{
+ "video_id": "s-H0yY1OPII",
+ "title": "The UNTHINKABLE is About to Happen to Stocks (Emergency Update)",
+ "creator": "Tom Nash",
+ "handle": "@TomNashTV",
+ "published_at": "2026-11-08T17:55:36.498969+00:00",
+ "summary": "Tom Nash's emergency update, published 8 November 2026, responds to the S&P 500 falling 3% in five days and 5% in thirty days, with Friday the worst day since COVID for stocks - chip stocks down 12% and the Nasdaq down 6% - after an AI-led sell-off. His core argument is that the panic is normal sentiment, not deteriorating fundamentals: 5% drops have happened 25 times in 15 years, and the S&P is up 500% over that period. He walks through Microsoft (up 1,800% in 15 years despite two 30% drops), Nvidia (up 500% in five years despite a 54% drop in 2022) and Palantir (up 1,600% since IPO despite three 40%+ drops), arguing every drop was a buying opportunity because earnings kept improving. He distinguishes sentimental crashes, where profits keep growing and recovery takes weeks or months, from fundamental crashes like 2008, which took five years - and with S&P profits growing 30% and a 33% full-year guide, he puts this in the first bucket. He dismisses data-center ban fears at federal level (no votes to beat a filibuster or override a veto) and in Texas (a pause already passed in September; 2026-28 projects proceed). He sold zero shares and changed nothing: his system buys 10-20% below 52-week highs using cash freed by trimming at +50%, +100% and +150% gains. The video closes with a pitch for his academy (41,000 students). Garbled caption spot: the ban legislation is rendered 'BTTF 4 / Back to the Future 4'.",
+ "calls": [
+  {
+   "video_id": "s-H0yY1OPII",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "SPY",
+   "direction": "BUY",
+   "thesis": "Sentiment sell-off, not fundamentals: 5% drops happened 25x in 15 years and the S&P is up 500% over that period; hold and dollar-cost average, deploy sidelined cash now while prices are cheap.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "S&P 500 -3% in 5 days, -5% in 30 days; profits growing 30%, full-year guide 33%",
+   "base_case": "This is a sentimental crash (profits still growing), so recovery takes weeks/months (COVID 60 days, 2025 tariffs 12 weeks).",
+   "bear_case": "A fundamental crash (profits falling, clients lost) would take years (2008 took 5 years) - but he says that is not what is happening."
+  },
+  {
+   "video_id": "s-H0yY1OPII",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "MSFT",
+   "direction": "BUY",
+   "thesis": "Every drop was a buying opportunity because earnings and fundamentals kept improving.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "+1,800% over 15 years; dropped 30% twice, 20% twice, 10% nine times"
+  },
+  {
+   "video_id": "s-H0yY1OPII",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "Same buy-the-dip framing as MSFT - 'even the great Nvidia' drops, and those drops are buying opportunities.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "+500% over 5 years; dropped 54% in 2022, twice 20%, once 36% in April last year"
+  },
+  {
+   "video_id": "s-H0yY1OPII",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "thesis": "Drops are opportunities to build better positions and lower cost basis; he says it 'changed my life'.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "+1,600% since IPO; 40%+ drops three times, 30% drops five times, 20% six times, 10% seven times"
+  }
+ ]
+}
