@@ -4,6 +4,22 @@
  "slug": "Jose_Najarro_Stocks",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "~$180 overnight, -3% from Friday's close, ~24% below the October closing high of ~$240; forward P/E ~13x Friday, ~12.5x after the overnight drop",
+   "video_id": "XpvoTf97TsE"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "~$186-187 now, -22% from ~$240 early-October high; forward NTM P/E 13.1x; at 15x P/E -> $213; even with a 20% earnings cut, 15x is still fairly valued",
+   "video_id": "ncslbnvnaMI"
+  },
+  {
    "ticker": "IREN",
    "tickerSlug": "IREN",
    "direction": "BUY",
