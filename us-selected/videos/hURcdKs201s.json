@@ -1,0 +1,49 @@
+{
+ "creator": "MarketBeat",
+ "published_at": "2026-11-08T23:55:17.924699+00:00",
+ "source_note": "Auto-captions garble several names and figures: 'Tempus AI' is rendered 'Tempest AI' throughout, Merck/Moderna appear as 'Merc with Madna', the 100-year bond as '100redyear bond', and RXRX's market cap is given inconsistently as both $2 billion and $24 billion.",
+ "summary": "MarketBeat's 8 November 2026 interview with guest Ross Given of Trader Agency argues the biggest long-term AI winners will be the companies that use AI, not those building it. Given draws parallels with railroads and the internet: the builders borrowed heavily and mostly went bankrupt, while users such as Google, Amazon and Facebook built trillion-dollar businesses on infrastructure others paid for. He says the same pattern is emerging as hyperscalers burn cash and issue debt — Google issued a 100-year bond — while compute gets cheaper. Money, he argues, is rotating from AI builders into AI users, with the S&P 500 excluding AI names rising since 1 September while AI leaders such as Broadcom, Intel, Arm, Oracle and Western Digital fell. His chosen sector is biotechnology. First pick Tempus AI (TEM), which tests cancer patients' tumours and rents its database to drugmakers; Q3 sales were about $400 million, up 23%, with new data deals worth $500-600 million, and the stock, which has ranged from $40 to $105 in a year, is about 25% off its high. Second is Recursion Pharmaceuticals (RXRX), whose AI-designed drug REC-1245 showed improvement in 87% of patients in a trial reported 2 November; it trades near $3.50-$4 with $750 million cash through 2029. Third is the iShares Biotechnology ETF (IBB), up 30% in five months, offered as lower-volatility sector exposure. Calls: TEM BUY, RXRX BUY, IBB BUY (no explicit price targets stated).",
+ "title": "Why the Biggest AI Winners Won't Be the Ones Building It",
+ "video_id": "hURcdKs201s",
+ "calls": [
+  {
+   "video_id": "hURcdKs201s",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "TEM",
+   "direction": "BUY",
+   "price_at_call": "~25% off its highs (52-wk range $40-$105, price not stated)",
+   "thesis": "BUY (first tracked) — guest Ross Given: Tempus AI uses AI on tumour-test data to help doctors pick the best cancer treatment, and drug companies rent that data back, so it gets paid at both ends; Q3 sales ~$400m, up 23%, forecast raised. 'Just buy this, give it some room, trailing a stop 15-20%.'",
+   "base_case": "Data deals ($500-600m inked this year) keep compounding as drug companies rent the library.",
+   "bull_case": "A $14bn company that 'could easily be a $140bn company' as AI drug design scales.",
+   "bear_case": "Moves ~8% high-to-low on an average day; valuation hard to pin down while growth is lumpy.",
+   "analyzed_at": "2026-11-09T06:57:11.723197+00:00"
+  },
+  {
+   "video_id": "hURcdKs201s",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "RXRX",
+   "direction": "BUY",
+   "price_at_call": "~$3.50-$4 (price stated); stop if it loses $3-$3.50",
+   "thesis": "BUY (first tracked) — guest Ross Given: Recursion's robots run millions of cell experiments and AI picks the drug; its AI-made cancer drug REC-1245 showed 87% of patients improving in a trial announced 2 Nov. Broke out of a $3-$4 range in October; 'a $4 stock' that 'could be a $24 stock'.",
+   "base_case": "Stage-two uptrend forming off a rounded bottom; one working drug transforms the story.",
+   "bull_case": "Analysts see 100%+ upside; pipeline drugs follow REC-1245 to market.",
+   "bear_case": "Not profitable yet; riskier turnaround story, peaked at $40 in 2021, $2bn market cap with $750m cash through 2029.",
+   "analyzed_at": "2026-11-09T06:57:11.723197+00:00"
+  },
+  {
+   "video_id": "hURcdKs201s",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "IBB",
+   "direction": "BUY",
+   "price_at_call": "Breaking out to new highs (price not stated); up 30% in the last 5 months",
+   "thesis": "BUY (first tracked) — guest Ross Given: iShares Biotechnology ETF as the lower-volatility way to play the AI-in-biotech theme; biotech is the leading sector with institutions and pensions moving in, and the ETF gives diversified exposure without single-drug trial risk. 'Very appropriate for like an IRA type trade.'",
+   "base_case": "Sector keeps marching higher with minimal retracements as AI drug discovery scales.",
+   "bull_case": "One of the leading areas for the next several years, even the decade, as healthcare spending and custom-drug demand grow.",
+   "bear_case": "Already up sharply since 2025; a sector-wide drug-trial failure wave or funding pullback hits the whole basket.",
+   "analyzed_at": "2026-11-09T06:57:11.723197+00:00"
+  }
+ ]
+}
