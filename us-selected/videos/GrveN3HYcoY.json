@@ -1,0 +1,28 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-09T17:00:03.510338+00:00",
+ "source_note": "The captions omit the actual forward P/E number for T-Mobile ('trading at' with no figure), so no P/E value is stated here.",
+ "summary": "Parkevtate Vosianc CFA assesses T-Mobile as the third and final stock in his series on SpaceX's threat to US telecoms, having already covered Verizon and AT&T. SpaceX is expanding its ambitions, and the three incumbents face disruption from a rival that raised roughly $100 billion in its recent IPO at a nearly $2 trillion valuation, with Elon Musk able to raise capital cheaply from loyal investors despite SpaceX being loss-making. T-Mobile is the fastest-growing of the three: earnings per share are expected to grow nearly 18% over the next several years, versus about 10% for AT&T and 8% for Verizon, revenue grew nearly double digits last quarter, and management forecasts nearly 1 million net additions in 2026. Its operating margin has almost tripled over a decade, from roughly 7% in 2017 to 21.8% trailing, and at about $114 billion of long-term debt it is less indebted than its rivals — though all three carry heavy debt that leaves little room to retaliate against SpaceX. The valuation has fallen to its lowest forward P/E in years, below its long-term EPS growth rate, a PEG under one. His discounted cash flow model gives a fair value of $222 against a current price of $159. Call: TMUS BUY reiterated, conviction upgraded from low to medium on 4 November 2026.",
+ "title": "T-Mobile Stock: Buy or Sell? | TMUS Stock Analysis",
+ "video_id": "GrveN3HYcoY",
+ "calls": [
+  {
+   "video_id": "GrveN3HYcoY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "T-Mobile Stock: Buy or Sell? | TMUS Stock Analysis",
+   "published_at": "2026-11-09T17:00:03.510338+00:00",
+   "ticker": "TMUS",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $222 vs current $159 (stated); forward P/E below long-term EPS growth (PEG < 1)",
+   "thesis": "BUY reiterated (was BUY, low confidence) — confidence upgraded low → medium on 4 Nov 2026. Fastest-growing of the big three US telcos (EPS growth ~18% vs ~10% AT&T, ~8% Verizon), operating margin nearly tripled in a decade to 21.8%, less debt than rivals; stock at a multi-year low on forward P/E despite the SpaceX disruption threat.",
+   "base_case": "EPS ~18% growth, ~1m net adds forecast for 2026, margins still improving.",
+   "bull_case": "Growth and margin expansion continue; SpaceX threat proves manageable and the cheap PEG re-rates.",
+   "bear_case": "SpaceX disruption with a lower cost of capital (post-IPO ~$2T market cap, ~$100B raised) squeezes all three indebted telcos, which have little room to retaliate.",
+   "analyzed_at": "2026-11-09T19:03:43.083444+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null
+  }
+ ]
+}
