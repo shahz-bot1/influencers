@@ -1,0 +1,22 @@
+{
+ "ticker": "MSFT",
+ "slug": "MSFT",
+ "calls": [
+  {
+   "video_id": "s-H0yY1OPII",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "MSFT",
+   "direction": "BUY",
+   "thesis": "Every drop was a buying opportunity because earnings and fundamentals kept improving.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "+1,800% over 15 years; dropped 30% twice, 20% twice, 10% nine times"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Tom Nash",
+   "idx": 0
+  }
+ ]
+}
