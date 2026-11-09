@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "TEM",
+   "tickerSlug": "TEM",
+   "direction": "BUY",
+   "date": "2026-11-09T06:57:11.723197+00:00",
+   "price": "~25% off its highs (52-wk range $40-$105, price not stated)",
+   "video_id": "hURcdKs201s"
+  },
+  {
+   "ticker": "RXRX",
+   "tickerSlug": "RXRX",
+   "direction": "BUY",
+   "date": "2026-11-09T06:57:11.723197+00:00",
+   "price": "~$3.50-$4 (price stated); stop if it loses $3-$3.50",
+   "video_id": "hURcdKs201s"
+  },
+  {
+   "ticker": "IBB",
+   "tickerSlug": "IBB",
+   "direction": "BUY",
+   "date": "2026-11-09T06:57:11.723197+00:00",
+   "price": "Breaking out to new highs (price not stated); up 30% in the last 5 months",
+   "video_id": "hURcdKs201s"
+  },
+  {
    "ticker": "RIOT",
    "tickerSlug": "RIOT",
    "direction": "BUY",
