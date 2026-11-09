@@ -1,0 +1,83 @@
+{
+ "video_id": "ddW_RCLYdJ4",
+ "title": "5 Stocks to Buy in the Biggest Market Opportunity Nobody Sees",
+ "creator": "Joseph Hogue, CFA",
+ "handle": "@josephhogue",
+ "published_at": "2026-11-05T04:55:36.498969+00:00",
+ "summary": "Published 5 November 2026, this video argues the next big energy opportunity is hiding in plain sight: oilfield equipment and services. Hogue recaps his August call on the explorers - ConocoPhillips up 71%, Devon up 60%, Diamondback up 56% over the last year, with energy the top sector at +53% and profits up 108% - but notes the equipment and services names were left behind (Halliburton +34%, Baker Hughes +14%, Liberty Energy just +3%) because the majors capped spending to protect prices and return cash instead. His core argument is that this discipline cannot last: nearly 90% of upstream investment since 2019 has only offset declining production, and without continued investment global output would fall about 8% a year, from 100 million barrels a day toward 20 million by 2040, while Goldman Sachs sees demand rising to 110 million by 2035. On top of that forced reinvestment he stacks three catalysts - a $183 billion Venezuela restoration, a $58 billion Middle East rebuild, and AI data centers needing some $3 trillion of infrastructure by 2030. His five picks are SLB, Halliburton, Baker Hughes, Kodiak Gas Services and Liberty Energy, with Kodiak the most emphatic buy and Liberty the one to pass on at 99 times earnings; among the explorers he still favours Diamondback and Devon on valuation. Note: the captions garble some figures (ConocoPhillips is quoted up 71% early on and 75% later; Liberty is +3% in one passage and down 8.5% in another; Kodiak's expected revenue growth figure is missing/garbled), and 'shell explorer' is shale, 'Exo-XOMs' is Exxon.",
+ "calls": [
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SLB",
+   "direction": "BUY",
+   "thesis": "Largest oilfield technology company; Middle East Q3 revenue +13% sequentially, Venezuela revenue expected to more than double, and data-center solutions revenue +76% YoY to $230M - 'exposure to two major infrastructure spending cycles in one stock.'",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "21-22x P/E",
+   "base_case": "Theme-level base case: producers must restart investment just to offset the ~8% annual natural decline in oil production, shifting earnings growth from explorers into equipment/services.",
+   "bull_case": "Theme-level bull case: three catalysts - Venezuela restoration (~$183B to return to 3M barrels/day), Middle East rebuild (~$58B in energy repairs), and AI data centers (~$3T infrastructure by 2030) - could add hundreds of billions in demand.",
+   "bear_case": "Theme-level bear case: the majors may keep limiting spending to protect prices (the discipline that caused the equipment lag in the first place), delaying the turnaround."
+  },
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "HAL",
+   "direction": "BUY",
+   "thesis": "'Halliburton's probably the better deal here' - similar revenue growth and margins to SLB/BKR but significantly cheaper; Venezuela agreements signed, ~2% operating-margin improvement expected in 2027.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "15.5x P/E"
+  },
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BKR",
+   "direction": "BUY",
+   "thesis": "'May offer the most diversified growth opportunity... one of the best opportunities' - turbines/compression/power-gen exposure to LNG, Middle East rebuild and AI data centers; record $39.4B backlog after a 1.1 GW power-gen order.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "21.3x P/E"
+  },
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "KGS",
+   "direction": "BUY",
+   "thesis": "'I would definitely be picking up shares of KGS' - 53% EBITDA margin, 70% adjusted gross margins, turbine supply agreement up to 1 GW with a path past 2 GW by 2030 in distributed power/data centers.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "18x P/E"
+  },
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "LBRT",
+   "direction": "HOLD",
+   "thesis": "'I might take a pass on Liberty for right now. Wait to see it come down a little bit in a better valuation' - Liberty Power Innovations targeting 1.2 GW for AI data centers, but 12% EBITDA margin and 99x P/E are too rich.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "99x P/E"
+  },
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FANG",
+   "direction": "BUY",
+   "thesis": "'I would go with Fang and Devon Energy here' among the explorers - 20% expected revenue growth, 72% EBITDA margin, cheapest of the group.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "9.4x P/E"
+  },
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "DVN",
+   "direction": "BUY",
+   "thesis": "Same explicit pick - 18% expected revenue growth, 47% EBITDA margin, cheapest of the group alongside Diamondback.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "9.5x P/E"
+  }
+ ]
+}
