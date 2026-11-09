@@ -3,6 +3,19 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "k7cmoCOfrtg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": "FV $1,531 vs current ~$697 (down ~50% from $1,250 ATH); forward P/E 3.4",
+   "thesis": "BUY reiterated (was BUY, 6 Nov): election-driven data-center fears slow the build-out but do not kill demand; at 3.4x forward P/E the cyclical slowdown is already priced in; he has added MU to his own portfolio and may add more.",
+   "base_case": "Record 75% TTM operating margins (80%+ two quarters running) moderate as the build-out stretches over 5-6 years instead of 2-3; FV $1,531.",
+   "bull_case": "Hyperscalers keep building, just slower and longer; component shortages persist and pricing stays high.",
+   "bear_case": "Political and local opposition stalls data-center approvals; the memory cycle turns and margins collapse from record highs; near-term headlines stay choppy.",
+   "analyzed_at": "2026-11-09T15:06:51.017104+00:00"
+  },
+  {
    "video_id": "i8vFBCkcxqs",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -278,24 +291,24 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "channel": "BWB - Business With Brian",
+   "idx": 2
   },
   {
    "channel": "MarketBeat",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 10
+   "idx": 11
   }
  ]
 }
