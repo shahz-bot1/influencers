@@ -1,0 +1,25 @@
+{
+ "ticker": "SLB",
+ "slug": "SLB",
+ "calls": [
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SLB",
+   "direction": "BUY",
+   "thesis": "Largest oilfield technology company; Middle East Q3 revenue +13% sequentially, Venezuela revenue expected to more than double, and data-center solutions revenue +76% YoY to $230M - 'exposure to two major infrastructure spending cycles in one stock.'",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "21-22x P/E",
+   "base_case": "Theme-level base case: producers must restart investment just to offset the ~8% annual natural decline in oil production, shifting earnings growth from explorers into equipment/services.",
+   "bull_case": "Theme-level bull case: three catalysts - Venezuela restoration (~$183B to return to 3M barrels/day), Middle East rebuild (~$58B in energy repairs), and AI data centers (~$3T infrastructure by 2030) - could add hundreds of billions in demand.",
+   "bear_case": "Theme-level bear case: the majors may keep limiting spending to protect prices (the discipline that caused the equipment lag in the first place), delaying the turnaround."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
