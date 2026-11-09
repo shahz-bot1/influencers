@@ -3,6 +3,24 @@
  "slug": "TMUS",
  "calls": [
   {
+   "video_id": "GrveN3HYcoY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "T-Mobile Stock: Buy or Sell? | TMUS Stock Analysis",
+   "published_at": "2026-11-09T17:00:03.510338+00:00",
+   "ticker": "TMUS",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $222 vs current $159 (stated); forward P/E below long-term EPS growth (PEG < 1)",
+   "thesis": "BUY reiterated (was BUY, low confidence) — confidence upgraded low → medium on 4 Nov 2026. Fastest-growing of the big three US telcos (EPS growth ~18% vs ~10% AT&T, ~8% Verizon), operating margin nearly tripled in a decade to 21.8%, less debt than rivals; stock at a multi-year low on forward P/E despite the SpaceX disruption threat.",
+   "base_case": "EPS ~18% growth, ~1m net adds forecast for 2026, margins still improving.",
+   "bull_case": "Growth and margin expansion continue; SpaceX threat proves manageable and the cheap PEG re-rates.",
+   "bear_case": "SpaceX disruption with a lower cost of capital (post-IPO ~$2T market cap, ~$100B raised) squeezes all three indebted telcos, which have little room to retaliate.",
+   "analyzed_at": "2026-11-09T19:03:43.083444+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null
+  },
+  {
    "video_id": "gL8nYBmX_eI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
