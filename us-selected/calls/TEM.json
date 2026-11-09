@@ -1,0 +1,25 @@
+{
+ "ticker": "TEM",
+ "slug": "TEM",
+ "calls": [
+  {
+   "video_id": "hURcdKs201s",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "TEM",
+   "direction": "BUY",
+   "price_at_call": "~25% off its highs (52-wk range $40-$105, price not stated)",
+   "thesis": "BUY (first tracked) — guest Ross Given: Tempus AI uses AI on tumour-test data to help doctors pick the best cancer treatment, and drug companies rent that data back, so it gets paid at both ends; Q3 sales ~$400m, up 23%, forecast raised. 'Just buy this, give it some room, trailing a stop 15-20%.'",
+   "base_case": "Data deals ($500-600m inked this year) keep compounding as drug companies rent the library.",
+   "bull_case": "A $14bn company that 'could easily be a $140bn company' as AI drug design scales.",
+   "bear_case": "Moves ~8% high-to-low on an average day; valuation hard to pin down while growth is lumpy.",
+   "analyzed_at": "2026-11-09T06:57:11.723197+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
