@@ -3,6 +3,24 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "v0BGJtm9I-c",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Terrible News for Nvidia Stock Investors",
+   "published_at": "2026-11-09T18:00:03.510338+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $313 vs current ~$177-178 (stated); forward P/E ~11; near 52-week low $164",
+   "thesis": "BUY but DOWNGRADED from his #1 best stock to buy — the board opened an independent investigation into CEO Jensen Huang over a reported relationship with a woman the intelligence community believes could be a Chinese spy; Huang admitted an extramarital affair and apologised, per the video. He sees the risk as Huang being forced out with no obvious successor, citing McDonald's/Intel/HP/Best Buy precedents where CEOs were removed. Still keeps NVDA in his top 10, but would not be surprised if it drops out as details emerge. Earnings 17 Nov now even bigger.",
+   "base_case": "Valuation already cheap (forward P/E ~11, DCF $313) should limit downside; stock near its 52-week low.",
+   "bull_case": "Investigation clears Huang or ends without a leadership change; the stock was set for a +5% day on semis strength.",
+   "bear_case": "Huang forced to resign; no credible successor (he floats poaching AMD's Lisa Su or ex-Intel's Pat Gelsinger); a cover-up of expenses/financials emerges.",
+   "analyzed_at": "2026-11-09T19:03:43.083444+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null
+  },
+  {
    "video_id": "i8vFBCkcxqs",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -465,20 +483,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
