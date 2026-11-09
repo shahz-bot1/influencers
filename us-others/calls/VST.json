@@ -3,6 +3,16 @@
  "slug": "VST",
  "calls": [
   {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "VST",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "'Real surprise potential' from the Cogentrix acquisition (+5.5 GW gas capacity) - attractive if it surprises on revenue growth, which is only 10% expected.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "0.38x PEG"
+  },
+  {
    "video_id": "yn_cvSds3lw",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
