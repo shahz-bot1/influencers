@@ -1,0 +1,27 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-09T16:00:03.510338+00:00",
+ "summary": "Parkevtate Vosianc CFA asks whether MercadoLibre's crash is a buying opportunity after management spooked investors with an aggressive spending push: a lower free-delivery threshold to boost engagement and an expanded logistics footprint of warehouses to cut cost per customer at scale. Early signs support the strategy: results on 4 November showed net revenue up 41% year over year, monthly active users up 29%, financial-services assets under management up 67%, and cost per shipment in Brazil down 5% despite high inflation. Analysts have trimmed long-term EPS growth estimates from about 34% in January to about 28%, still an excellent rate, he says, and he backs management's approach given its record: operating margin was 25% in 2017, fell to minus 10% in an earlier investment cycle, recovered to about 15%, and is now 8.26% and falling again as spending rises. He sees the same invest-then-grow pattern repeating. The stock trades at a forward P/E of 27, its cheapest in years and below its EPS growth estimate. His discounted cash flow model, with lower near-term free cash flow, higher free cash flow from 2029, and a higher risk premium and risk-free rate after Brazil's election, gives a fair value of $2,213 against a current price of $1,512. Call: MELI BUY — risks are higher, but he judges the upside worth taking for a long-term investor.",
+ "title": "Why Is MELI Stock Crashing, and is it a Buying Opportunity?",
+ "video_id": "tUvjqIrih14",
+ "calls": [
+  {
+   "video_id": "tUvjqIrih14",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is MELI Stock Crashing, and is it a Buying Opportunity?",
+   "published_at": "2026-11-09T16:00:03.510338+00:00",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "price_at_call": "DCF fair value $2,213 vs current $1,512 (stated); forward P/E 27, cheapest in years",
+   "thesis": "BUY (was BUY 17 Oct) — aggressive investment push (lower free-delivery threshold, logistics expansion) is spooking investors, but Q4 showed revenue +41%, monthly active users +29%, fintech AUM +67%, and Brazil cost per shipment down 5% despite inflation. He backs the spend: management has invested and recovered margins before (25% in 2017, down to -10%, back to ~15%). Risks higher, upside worth it.",
+   "base_case": "Near-30% EPS growth (revised down from ~34%) with investment paying off from 2029; FV $2,213.",
+   "bull_case": "Investments compound into the Latin America e-commerce/fintech tailwind; margins recover toward prior cycle highs.",
+   "bear_case": "Brazil election outcome and higher regional rates/volatility keep margins compressed; Wall Street keeps cutting EPS estimates.",
+   "analyzed_at": "2026-11-09T19:03:43.083444+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null
+  }
+ ]
+}
