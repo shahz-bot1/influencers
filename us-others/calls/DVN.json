@@ -1,0 +1,22 @@
+{
+ "ticker": "DVN",
+ "slug": "DVN",
+ "calls": [
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "DVN",
+   "direction": "BUY",
+   "thesis": "Same explicit pick - 18% expected revenue growth, 47% EBITDA margin, cheapest of the group alongside Diamondback.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "9.5x P/E"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
