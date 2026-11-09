@@ -1,0 +1,22 @@
+{
+ "ticker": "BKR",
+ "slug": "BKR",
+ "calls": [
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "BKR",
+   "direction": "BUY",
+   "thesis": "'May offer the most diversified growth opportunity... one of the best opportunities' - turbines/compression/power-gen exposure to LNG, Middle East rebuild and AI data centers; record $39.4B backlog after a 1.1 GW power-gen order.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "21.3x P/E"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
