@@ -4,6 +4,38 @@
  "slug": "Tom_Nash",
  "calls": [
   {
+   "ticker": "SPY",
+   "tickerSlug": "SPY",
+   "direction": "BUY",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "S&P 500 -3% in 5 days, -5% in 30 days; profits growing 30%, full-year guide 33%",
+   "video_id": "s-H0yY1OPII"
+  },
+  {
+   "ticker": "MSFT",
+   "tickerSlug": "MSFT",
+   "direction": "BUY",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "+1,800% over 15 years; dropped 30% twice, 20% twice, 10% nine times",
+   "video_id": "s-H0yY1OPII"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "+500% over 5 years; dropped 54% in 2022, twice 20%, once 36% in April last year",
+   "video_id": "s-H0yY1OPII"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "+1,600% since IPO; 40%+ drops three times, 30% drops five times, 20% six times, 10% seven times",
+   "video_id": "s-H0yY1OPII"
+  },
+  {
    "ticker": "PLTR",
    "tickerSlug": "PLTR",
    "direction": "BUY",
