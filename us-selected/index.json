@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T23:09:36.287069+00:00",
+ "updated": "2026-11-09T23:12:46.419393+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -1624,6 +1624,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "IBB",
+   "slug": "IBB",
+   "lastDate": "2026-11-09T06:57:11.723197+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$30"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "IBM",
    "slug": "IBM",
    "lastDate": "2026-10-02T17:00:45.184344+00:00",
@@ -2119,33 +2136,33 @@
   {
    "ticker": "MELI",
    "slug": "MELI",
-   "lastDate": "2026-11-05T19:58:14.766137+00:00",
+   "lastDate": "2026-11-09T16:00:03.510338+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 5,
-     "avg": "$636"
+     "avg": "$748.33"
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Couch Investor",
     "Mark Roussin CPA",
     "MarketBeat",
-    "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "Down nearly 20% YTD; analyst average 12-month target $2,160 (~30% upside)",
-   "nCalls": 8
+   "lastStated": "DCF fair value $2,213 vs current $1,512 (stated); forward P/E 27, cheapest in ye",
+   "nCalls": 9
   },
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-11-08T19:07:35.730824+00:00",
+   "lastDate": "2026-11-09T18:00:03.510338+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$465.5"
+     "avg": "$3"
     },
     {
      "dir": "HOLD",
@@ -2154,12 +2171,12 @@
     }
    ],
    "influencers": [
-    "Couch Investor",
     "Parkevtate Vosianc CFA",
+    "Couch Investor",
     "Joseph Carlson After Hours"
    ],
-   "lastStated": "Bought 3 shares on Tuesday; low $600s, support $500-520, wants $630-640",
-   "nCalls": 21
+   "lastStated": "No new fair value stated in this video",
+   "nCalls": 22
   },
   {
    "ticker": "MMM",
@@ -2332,12 +2349,12 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-11-08T19:07:35.730824+00:00",
+   "lastDate": "2026-11-09T15:06:51.017104+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$799"
+     "avg": "$1,531"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -2351,14 +2368,14 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Couch Investor",
     "BWB - Business With Brian",
-    "Parkevtate Vosianc CFA",
     "MarketBeat",
     "Mark Roussin CPA"
    ],
-   "lastStated": "At ~$449, buy zone low $400s, support ~$420; 3-4x forward earnings (caption figu",
-   "nCalls": 17
+   "lastStated": "FV $1,531 vs current ~$697 (down ~50% from $1,250 ATH); forward P/E 3.4",
+   "nCalls": 18
   },
   {
    "ticker": "NBIS",
@@ -2557,22 +2574,22 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-08T19:07:35.730824+00:00",
+   "lastDate": "2026-11-09T18:00:03.510338+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$208.25"
+     "avg": "$208.75"
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Couch Investor",
     "BWB - Business With Brian",
-    "Parkevtate Vosianc CFA",
     "Mark Roussin CPA"
    ],
-   "lastStated": "Anchor position; PE now below the S&P 500 (stated), PEG below 1 (stated)",
-   "nCalls": 30
+   "lastStated": "DCF fair value $313 vs current ~$177-178 (stated); forward P/E ~11; near 52-week",
+   "nCalls": 31
   },
   {
    "ticker": "NVO",
@@ -2686,12 +2703,12 @@
   {
    "ticker": "ORCL",
    "slug": "ORCL",
-   "lastDate": "2026-11-05T23:57:55.055243+00:00",
+   "lastDate": "2026-11-09T15:06:51.017104+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$139"
+     "avg": "$167"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -2700,12 +2717,12 @@
     }
    ],
    "influencers": [
-    "MarketBeat",
     "Parkevtate Vosianc CFA",
+    "MarketBeat",
     "Couch Investor"
    ],
-   "lastStated": "No price level given by Hughes; analyst targets cited $110-$400, Dan Ives $155 (",
-   "nCalls": 4
+   "lastStated": "FV $167 vs current ~$112, near 52-wk low $109; forward P/E ~10",
+   "nCalls": 5
   },
   {
    "ticker": "OSCR",
@@ -3185,6 +3202,23 @@
    "nCalls": 2
   },
   {
+   "ticker": "RXRX",
+   "slug": "RXRX",
+   "lastDate": "2026-11-09T06:57:11.723197+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$3.5"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "~$3.50-$4 (price stated); stop if it loses $3-$3.50",
+   "nCalls": 1
+  },
+  {
    "ticker": "SBUX",
    "slug": "SBUX",
    "lastDate": "2026-09-27T13:56:51.947282+00:00",
@@ -3324,12 +3358,12 @@
   {
    "ticker": "SNDK",
    "slug": "SNDK",
-   "lastDate": "2026-11-08T19:07:35.730824+00:00",
+   "lastDate": "2026-11-09T15:06:51.017104+00:00",
    "chips": [
     {
-     "dir": "CONDITIONAL_BUY",
+     "dir": "BUY",
      "n": 1,
-     "avg": "$1,662"
+     "avg": "$1,808"
     },
     {
      "dir": "AVOID",
@@ -3338,11 +3372,11 @@
     }
    ],
    "influencers": [
-    "BWB - Business With Brian",
-    "Parkevtate Vosianc CFA"
+    "Parkevtate Vosianc CFA",
+    "BWB - Business With Brian"
    ],
-   "lastStated": "Highest risk of price compression in flash (no price stated)",
-   "nCalls": 4
+   "lastStated": "FV $1,808 vs current ~$806 after a 22% one-day drop; forward P/E 2.8",
+   "nCalls": 5
   },
   {
    "ticker": "SOFI",
@@ -3494,6 +3528,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "TEM",
+   "slug": "TEM",
+   "lastDate": "2026-11-09T06:57:11.723197+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$25"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "TER",
    "slug": "TER",
    "lastDate": "2026-10-23T22:55:21.834433+00:00",
@@ -3553,19 +3604,19 @@
   {
    "ticker": "TMUS",
    "slug": "TMUS",
-   "lastDate": "2026-10-11T18:04:45.730459+00:00",
+   "lastDate": "2026-11-09T17:00:03.510338+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$149"
+     "avg": "$222"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "~$149",
-   "nCalls": 1
+   "lastStated": "DCF fair value $222 vs current $159 (stated); forward P/E below long-term EPS gr",
+   "nCalls": 2
   },
   {
    "ticker": "TREASURY",
@@ -3720,12 +3771,12 @@
   {
    "ticker": "UBER",
    "slug": "UBER",
-   "lastDate": "2026-11-07T16:00:12.940928+00:00",
+   "lastDate": "2026-11-09T18:00:03.510338+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$91.33"
+     "avg": "$91.67"
     }
    ],
    "influencers": [
@@ -3734,8 +3785,8 @@
     "Mark Roussin CPA",
     "Couch Investor"
    ],
-   "lastStated": "Fair value $122; trading $65",
-   "nCalls": 10
+   "lastStated": "Fair value $126 vs current $68 (stated)",
+   "nCalls": 11
   },
   {
    "ticker": "UNH",
@@ -4171,7 +4222,7 @@
    "handle": "@JosephCarlsonAfterHours",
    "slug": "Joseph_Carlson_After_Hours",
    "nCalls": 42,
-   "nVideos": 11
+   "nVideos": 12
   },
   {
    "name": "Mark Roussin CPA",
@@ -4184,15 +4235,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 116,
-   "nVideos": 45
+   "nCalls": 119,
+   "nVideos": 46
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 230,
-   "nVideos": 217
+   "nCalls": 238,
+   "nVideos": 224
   },
   {
    "name": "The German Value Investor",
@@ -4203,6 +4254,96 @@
   }
  ],
  "videos": [
+  {
+   "id": "8W-6gjsEy8U",
+   "title": "The Jensen Scandal Is Much Worse Than It Looks",
+   "creator": "Joseph Carlson After Hours",
+   "channels": [
+    "Joseph Carlson After Hours"
+   ],
+   "published_at": "2026-11-09T20:58:16.815467+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "AtubYu6Yemw",
+   "title": "Amazon Delivers Fantastic News for Uber Stock Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-09T18:00:03.510338+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "v0BGJtm9I-c",
+   "title": "Terrible News for Nvidia Stock Investors",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-09T18:00:03.510338+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "GrveN3HYcoY",
+   "title": "T-Mobile Stock: Buy or Sell? | TMUS Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-09T17:00:03.510338+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "tUvjqIrih14",
+   "title": "Why Is MELI Stock Crashing, and is it a Buying Opportunity?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-09T16:00:03.510338+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "f8JLZMEgaHs",
+   "title": "Down 40% in 2026, Is it Time to Buy Oracle Stock on the Dip? | ORCL Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-09T14:45:08.518438+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "TeEKQNlXSak",
+   "title": "Why Is Sandisk Stock Crashing, and is it a Generational Buying Opportunity? | SNDK Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-09T14:03:08.518438+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "k7cmoCOfrtg",
+   "title": "Why Is Micron Stock Crashing, and is it a Generational Buying Opportunity? | MU Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-09T12:03:08.518438+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "hURcdKs201s",
+   "title": "Why the Biggest AI Winners Won't Be the Ones Building It",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-11-08T23:55:17.924699+00:00",
+   "nCalls": 3
+  },
   {
    "id": "yaVPpVzXCPI",
    "title": "Massive News for CoreWeave, Nebius, IREN, and Applied Digital Stock Investors",
