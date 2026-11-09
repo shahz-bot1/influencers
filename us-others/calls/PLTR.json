@@ -3,6 +3,36 @@
  "slug": "PLTR",
  "calls": [
   {
+   "video_id": "yZ04xcND2A4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "PLTR",
+   "direction": "AVOID",
+   "thesis": "Incredible quarter (Q3 revenue $2bn, Rule of 40 score 158%, $10.4bn cash, zero debt) but the multiple demands near-impossible sustained growth; total contract value only +6% YoY signals deceleration.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "101x free cash flow; no share price stated; down ~19% over the past month"
+  },
+  {
+   "video_id": "s-H0yY1OPII",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "thesis": "Drops are opportunities to build better positions and lower cost basis; he says it 'changed my life'.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "+1,600% since IPO; 40%+ drops three times, 30% drops five times, 20% six times, 10% seven times"
+  },
+  {
+   "video_id": "XHNZMOhHa8g",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "thesis": "'I would be picking it up' - 65% expected revenue growth, and 'I can't believe I'm saying this, but Palantir is actually very attractively priced' vs its usual premium.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "1.7x PEG"
+  },
+  {
    "video_id": "zBkrl2oASXw",
    "channel": "Tom Nash",
    "handle": "@TomNashTV",
@@ -41,12 +71,16 @@
  ],
  "byInf": [
   {
-   "channel": "Tom Nash",
+   "channel": "Daniel Pronk",
    "idx": 0
   },
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Tom Nash",
    "idx": 1
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 2
   }
  ]
 }
