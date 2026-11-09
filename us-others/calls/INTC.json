@@ -3,6 +3,16 @@
  "slug": "INTC",
  "calls": [
   {
+   "video_id": "yZ04xcND2A4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "INTC",
+   "direction": "AVOID",
+   "thesis": "Q3 revenue +21% to $16.5bn was solid and FCF is positive again ($3bn YTD), but the Q4 guide implies a sequential revenue decline, operating income/cash flow remain far below all-time highs; one of the lowest-quality chip stocks - not interested 'at any price.'",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "81x free cash flow, 43x forward P/E; no share price stated; down 60% from all-time highs, 50% in the last month"
+  },
+  {
    "video_id": "DOldWUpT3d8",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -15,8 +25,12 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Daniel Pronk",
    "idx": 0
+  },
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 1
   }
  ]
 }
