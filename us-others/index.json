@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T05:05:52.528064+00:00",
+ "updated": "2026-11-09T05:15:12.149992+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -188,19 +188,19 @@
   {
    "ticker": "ANET",
    "slug": "ANET",
-   "lastDate": "2026-11-02T05:05:00+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
-     "dir": "CONDITIONAL_BUY",
+     "dir": "HOLD",
      "n": 1,
-     "avg": "$150"
+     "avg": null
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Buy closer to $150; analyst average target $248, low $220",
-   "nCalls": 2
+   "lastStated": "No price stated",
+   "nCalls": 3
   },
   {
    "ticker": "APP",
@@ -308,19 +308,19 @@
   {
    "ticker": "BE",
    "slug": "BE",
-   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$0.4"
+     "avg": "$0.58"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "0.4x PEG; +223% over last year",
-   "nCalls": 2
+   "lastStated": "0.58x PEG",
+   "nCalls": 3
   },
   {
    "ticker": "BEKE",
@@ -407,6 +407,23 @@
    ],
    "lastStated": "No share price stated; down ~24% since August high (28% at one point in video), ",
    "nCalls": 2
+  },
+  {
+   "ticker": "BKR",
+   "slug": "BKR",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$21.3"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "21.3x P/E",
+   "nCalls": 1
   },
   {
    "ticker": "BLDR",
@@ -683,19 +700,19 @@
   {
    "ticker": "CRWD",
    "slug": "CRWD",
-   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$7"
+     "avg": "$5.9"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No price stated; down ~7% on Friday and ~16% over five days",
-   "nCalls": 2
+   "lastStated": "5.9x PEG",
+   "nCalls": 3
   },
   {
    "ticker": "CRWV",
@@ -757,6 +774,23 @@
    "nCalls": 2
   },
   {
+   "ticker": "DVN",
+   "slug": "DVN",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$9.5"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "9.5x P/E",
+   "nCalls": 1
+  },
+  {
    "ticker": "ETHA",
    "slug": "ETHA",
    "lastDate": "2026-10-19T04:01:40.277005+00:00",
@@ -788,6 +822,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "FANG",
+   "slug": "FANG",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$9.4"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "9.4x P/E",
    "nCalls": 1
   },
   {
@@ -827,19 +878,25 @@
   {
    "ticker": "FTNT",
    "slug": "FTNT",
-   "lastDate": "2026-11-02T05:05:00+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$114"
+     "avg": "$2"
+    },
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$27"
     }
    ],
    "influencers": [
+    "Daniel Pronk",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "~$114 at last year's 32x low; 37x expected $3.57 EPS now",
-   "nCalls": 4
+   "lastStated": "27x free cash flow (was ~40x before earnings); no share price stated; down 35% f",
+   "nCalls": 6
   },
   {
    "ticker": "GDS",
@@ -939,6 +996,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "HAL",
+   "slug": "HAL",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$15.5"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "15.5x P/E",
+   "nCalls": 1
+  },
+  {
    "ticker": "HIMS",
    "slug": "HIMS",
    "lastDate": "2026-11-03T05:30:00+00:00",
@@ -976,19 +1050,20 @@
   {
    "ticker": "INTC",
    "slug": "INTC",
-   "lastDate": "2026-10-15T03:59:03.849525+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "AVOID",
-     "n": 1,
-     "avg": null
+     "n": 2,
+     "avg": "$81"
     }
    ],
    "influencers": [
+    "Daniel Pronk",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "no price stated",
-   "nCalls": 1
+   "lastStated": "81x free cash flow, 43x forward P/E; no share price stated; down 60% from all-ti",
+   "nCalls": 2
   },
   {
    "ticker": "IREN",
@@ -1100,6 +1175,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "KGS",
+   "slug": "KGS",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$18"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "18x P/E",
+   "nCalls": 1
+  },
+  {
    "ticker": "KSPI",
    "slug": "KSPI",
    "lastDate": "2026-10-08T05:10:00+00:00",
@@ -1132,6 +1224,23 @@
    ],
    "lastStated": "",
    "nCalls": 2
+  },
+  {
+   "ticker": "LBRT",
+   "slug": "LBRT",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$99"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "99x P/E",
+   "nCalls": 1
   },
   {
    "ticker": "LITE",
@@ -1260,6 +1369,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "MPWR",
+   "slug": "MPWR",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "No price stated",
+   "nCalls": 1
+  },
+  {
    "ticker": "MRVL",
    "slug": "MRVL",
    "lastDate": "2026-10-19T04:01:40.277005+00:00",
@@ -1276,6 +1402,23 @@
    ],
    "lastStated": "No price stated",
    "nCalls": 5
+  },
+  {
+   "ticker": "MSFT",
+   "slug": "MSFT",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$1,800"
+    }
+   ],
+   "influencers": [
+    "Tom Nash"
+   ],
+   "lastStated": "+1,800% over 15 years; dropped 30% twice, 20% twice, 10% nine times",
+   "nCalls": 1
   },
   {
    "ticker": "MTCH",
@@ -1297,12 +1440,12 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$7.34"
+     "avg": "$7.33"
     },
     {
      "dir": "SELL",
@@ -1311,12 +1454,12 @@
     }
    ],
    "influencers": [
-    "Jose Najarro Stocks",
     "Joseph Hogue, CFA",
+    "Jose Najarro Stocks",
     "Asymmetric Investing"
    ],
-   "lastStated": "No share price stated; down 14.6% from 9-16 Oct; forward P/E ~4.09 cited",
-   "nCalls": 5
+   "lastStated": "0.07x PEG",
+   "nCalls": 6
   },
   {
    "ticker": "NBIS",
@@ -1345,19 +1488,19 @@
   {
    "ticker": "NET",
    "slug": "NET",
-   "lastDate": "2026-11-02T05:05:00+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
-     "dir": "CONDITIONAL_BUY",
+     "dir": "HOLD",
      "n": 1,
-     "avg": "$250"
+     "avg": "$4"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Buy on a dip closer to $250; analyst average $361, low $160",
-   "nCalls": 2
+   "lastStated": "4.0x PEG",
+   "nCalls": 3
   },
   {
    "ticker": "NFLX",
@@ -1402,19 +1545,25 @@
   {
    "ticker": "NOW",
    "slug": "NOW",
-   "lastDate": "2026-11-02T05:05:00+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$160"
+     "avg": "$106"
+    },
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$24"
     }
    ],
    "influencers": [
+    "Daniel Pronk",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "$160 at 40x expected $4 EPS (52% upside as stated)",
-   "nCalls": 4
+   "lastStated": "~24x free cash flow; no share price stated; down 31% after earnings",
+   "nCalls": 6
   },
   {
    "ticker": "NTES",
@@ -1434,22 +1583,40 @@
    "nCalls": 1
   },
   {
-   "ticker": "NVDA",
-   "slug": "NVDA",
-   "lastDate": "2026-10-28T04:58:24.879445+00:00",
+   "ticker": "NU",
+   "slug": "NU",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 2,
-     "avg": "$3"
+     "n": 1,
+     "avg": "$16"
     }
    ],
    "influencers": [
+    "Daniel Pronk"
+   ],
+   "lastStated": "~16x trailing P/E, ~11x forward P/E (10.8x); no share price stated",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NVDA",
+   "slug": "NVDA",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 3,
+     "avg": "$340"
+    }
+   ],
+   "influencers": [
+    "Tom Nash",
     "Jose Najarro Stocks",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No price stated; $3bn Nvidia investment in Meta as captioned",
-   "nCalls": 9
+   "lastStated": "+500% over 5 years; dropped 54% in 2022, twice 20%, once 36% in April last year",
+   "nCalls": 12
   },
   {
    "ticker": "NVDY",
@@ -1471,19 +1638,19 @@
   {
    "ticker": "OKTA",
    "slug": "OKTA",
-   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$20"
+     "avg": "$2.4"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No price stated; down ~20% over five days, the worst in the group",
-   "nCalls": 1
+   "lastStated": "2.4x PEG",
+   "nCalls": 2
   },
   {
    "ticker": "ORCL",
@@ -1506,19 +1673,19 @@
   {
    "ticker": "PANW",
    "slug": "PANW",
-   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$8"
+     "avg": "$4"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No price stated; down almost 8% on Friday and ~17% over five days",
-   "nCalls": 2
+   "lastStated": "4.0x PEG",
+   "nCalls": 3
   },
   {
    "ticker": "PATH",
@@ -1625,25 +1792,26 @@
   {
    "ticker": "PLTR",
    "slug": "PLTR",
-   "lastDate": "2026-11-03T05:30:00+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
-     "avg": "$495"
+     "n": 2,
+     "avg": "$800.85"
     },
     {
-     "dir": "CONDITIONAL_BUY",
+     "dir": "AVOID",
      "n": 1,
-     "avg": "$150"
+     "avg": "$101"
     }
    ],
    "influencers": [
+    "Daniel Pronk",
     "Tom Nash",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "Bear $495 (now his floor), base $717, bull $978, headline target $1,000 (~431% u",
-   "nCalls": 3
+   "lastStated": "101x free cash flow; no share price stated; down ~19% over the past month",
+   "nCalls": 6
   },
   {
    "ticker": "PTON",
@@ -1716,19 +1884,19 @@
   {
    "ticker": "ROAD",
    "slug": "ROAD",
-   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$178"
+     "avg": "$77"
     }
    ],
    "influencers": [
     "Daniel Pronk"
    ],
-   "lastStated": "DCF fair value $178; ~5.4% of his portfolio",
-   "nCalls": 2
+   "lastStated": "~$77/share (was ~$80, rallied to ~$100, fell back after preliminary Q4 results; ",
+   "nCalls": 3
   },
   {
    "ticker": "SCHW",
@@ -1750,19 +1918,25 @@
   {
    "ticker": "SHOP",
    "slug": "SHOP",
-   "lastDate": "2026-09-28T03:57:07.794861+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
      "avg": null
+    },
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$83"
     }
    ],
    "influencers": [
+    "Daniel Pronk",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "83x free cash flow; no share price stated; down 21% from recent highs",
+   "nCalls": 2
   },
   {
    "ticker": "SIRI",
@@ -1779,6 +1953,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SLB",
+   "slug": "SLB",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$21"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "21-22x P/E",
    "nCalls": 1
   },
   {
@@ -1801,19 +1992,19 @@
   {
    "ticker": "SNDK",
    "slug": "SNDK",
-   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$0.9"
+     "avg": "$0.09"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "0.9x PEG; down ~8% last week; up ~100% over last year",
-   "nCalls": 1
+   "lastStated": "0.09x PEG",
+   "nCalls": 2
   },
   {
    "ticker": "SNOW",
@@ -1926,19 +2117,19 @@
   {
    "ticker": "SPY",
    "slug": "SPY",
-   "lastDate": "2026-09-30T15:55:34.672871+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$500"
     }
    ],
    "influencers": [
     "Tom Nash"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "S&P 500 -3% in 5 days, -5% in 30 days; profits growing 30%, full-year guide 33%",
+   "nCalls": 2
   },
   {
    "ticker": "SYM",
@@ -2062,7 +2253,7 @@
   {
    "ticker": "UBER",
    "slug": "UBER",
-   "lastDate": "2026-11-03T05:30:00+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -2071,16 +2262,17 @@
     },
     {
      "dir": "AVOID",
-     "n": 1,
-     "avg": null
+     "n": 2,
+     "avg": "$16"
     }
    ],
    "influencers": [
+    "Daniel Pronk",
     "Asymmetric Investing",
     "Sven Carlin"
    ],
-   "lastStated": "~15x trailing P/E, ~14x P/FCF; $137B market cap",
-   "nCalls": 3
+   "lastStated": "16x forward P/E, ~14.6x free cash flow; no share price stated; down ~28% from al",
+   "nCalls": 4
   },
   {
    "ticker": "USB",
@@ -2102,19 +2294,19 @@
   {
    "ticker": "VST",
    "slug": "VST",
-   "lastDate": "2026-10-12T03:57:21.387889+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
-     "dir": "BUY",
+     "dir": "CONDITIONAL_BUY",
      "n": 1,
-     "avg": "$0.5"
+     "avg": "$0.38"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "0.5x PEG; down 23% over last year",
-   "nCalls": 1
+   "lastStated": "0.38x PEG",
+   "nCalls": 2
   },
   {
    "ticker": "WFC",
@@ -2193,19 +2385,19 @@
   {
    "ticker": "ZS",
    "slug": "ZS",
-   "lastDate": "2026-10-26T04:58:06.524826+00:00",
+   "lastDate": "2026-11-09T05:10:39.474328+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$2.1"
+     "avg": "$1.8"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No share price stated; ~2.1x PEG as stated",
-   "nCalls": 3
+   "lastStated": "1.8x PEG",
+   "nCalls": 4
   }
  ],
  "influencers": [
@@ -2227,8 +2419,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 15,
-   "nVideos": 10
+   "nCalls": 23,
+   "nVideos": 12
   },
   {
    "name": "Everything Money",
@@ -2241,15 +2433,15 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 38,
-   "nVideos": 18
+   "nCalls": 40,
+   "nVideos": 20
   },
   {
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 118,
-   "nVideos": 14
+   "nCalls": 139,
+   "nVideos": 16
   },
   {
    "name": "Patient Investor",
@@ -2269,8 +2461,8 @@
    "name": "Tom Nash",
    "handle": "@TomNashTV",
    "slug": "Tom_Nash",
-   "nCalls": 4,
-   "nVideos": 6
+   "nCalls": 8,
+   "nVideos": 7
   },
   {
    "name": "UNRIVALEDD INVESTING",
@@ -2281,6 +2473,56 @@
   }
  ],
  "videos": [
+  {
+   "id": "XpvoTf97TsE",
+   "title": "Jensen Huang Affair and Nvidia Board Probe: What It Means for NVDA",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-11-09T03:55:36.498969+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "s-H0yY1OPII",
+   "title": "The UNTHINKABLE is About to Happen to Stocks (Emergency Update)",
+   "creator": "Tom Nash",
+   "channels": [
+    "Tom Nash"
+   ],
+   "published_at": "2026-11-08T17:55:36.498969+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "XHNZMOhHa8g",
+   "title": "I Just Bought $74,000 in this Crushed AI Stock",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-11-08T17:55:36.498969+00:00",
+   "nCalls": 14
+  },
+  {
+   "id": "ncslbnvnaMI",
+   "title": "Nvidia Stock Down 22% — Is Its 13x Forward P/E a STEAL?",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-11-08T02:55:35.240235+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "XopekzfZKiQ",
+   "title": "2 Stocks I'm Buying While The Market Crashes",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-11-07T16:55:35.240235+00:00",
+   "nCalls": 2
+  },
   {
    "id": "7vOchO5Uifg",
    "title": "AI Stocks Crash After Midterms: Is Wall Street Overreacting?",
@@ -2320,6 +2562,26 @@
    ],
    "published_at": "2026-11-05T17:55:35.223108+00:00",
    "nCalls": 0
+  },
+  {
+   "id": "yZ04xcND2A4",
+   "title": "These Are Best Stocks to Buy After Earnings",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-11-05T04:55:36.498969+00:00",
+   "nCalls": 6
+  },
+  {
+   "id": "ddW_RCLYdJ4",
+   "title": "5 Stocks to Buy in the Biggest Market Opportunity Nobody Sees",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-11-05T04:55:36.498969+00:00",
+   "nCalls": 7
   },
   {
    "id": "ekFi9ecbelQ",
