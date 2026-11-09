@@ -1,0 +1,22 @@
+{
+ "ticker": "LBRT",
+ "slug": "LBRT",
+ "calls": [
+  {
+   "video_id": "ddW_RCLYdJ4",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "LBRT",
+   "direction": "HOLD",
+   "thesis": "'I might take a pass on Liberty for right now. Wait to see it come down a little bit in a better valuation' - Liberty Power Innovations targeting 1.2 GW for AI data centers, but 12% EBITDA margin and 99x P/E are too rich.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "99x P/E"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
