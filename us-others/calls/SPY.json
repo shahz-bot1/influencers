@@ -3,6 +3,18 @@
  "slug": "SPY",
  "calls": [
   {
+   "video_id": "s-H0yY1OPII",
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "ticker": "SPY",
+   "direction": "BUY",
+   "thesis": "Sentiment sell-off, not fundamentals: 5% drops happened 25x in 15 years and the S&P is up 500% over that period; hold and dollar-cost average, deploy sidelined cash now while prices are cheap.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "S&P 500 -3% in 5 days, -5% in 30 days; profits growing 30%, full-year guide 33%",
+   "base_case": "This is a sentimental crash (profits still growing), so recovery takes weeks/months (COVID 60 days, 2025 tariffs 12 weeks).",
+   "bear_case": "A fundamental crash (profits falling, clients lost) would take years (2008 took 5 years) - but he says that is not what is happening."
+  },
+  {
    "channel": "Tom Nash",
    "handle": "@TomNashTV",
    "ticker": "SPY",
