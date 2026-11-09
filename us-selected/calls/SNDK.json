@@ -3,6 +3,19 @@
  "slug": "SNDK",
  "calls": [
   {
+   "video_id": "TeEKQNlXSak",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "SNDK",
+   "direction": "BUY",
+   "price_at_call": "FV $1,808 vs current ~$806 after a 22% one-day drop; forward P/E 2.8",
+   "thesis": "BUY reiterated, conviction upgraded low to medium: the post-election AI sell-off prices in a worst case (data centers never built) that has not happened; an already-cheap stock is now 'ridiculously undervalued' on his FCF model.",
+   "base_case": "FCF booms in FY27-28 ($31B rising to $38B) then moderates to slow replacement-driven growth; FV $1,808.",
+   "bull_case": "Data-center build-out continues, just spread over more years or in other states; replacement demand plus higher prices sustain growth.",
+   "bear_case": "Democratic House/Senate and local anti-data-center measures slow the build-out materially; the memory boom peaks and FCF stalls.",
+   "analyzed_at": "2026-11-09T15:06:51.017104+00:00"
+  },
+  {
    "video_id": "AffqGxKi0XE",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -66,12 +79,12 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   }
  ]
 }
