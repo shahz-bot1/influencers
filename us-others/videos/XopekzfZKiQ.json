@@ -1,0 +1,34 @@
+{
+ "video_id": "XopekzfZKiQ",
+ "title": "2 Stocks I'm Buying While The Market Crashes",
+ "creator": "Daniel Pronk",
+ "handle": "@danielpronk",
+ "published_at": "2026-11-07T16:55:35.240235+00:00",
+ "summary": "Daniel Pronk's 7 November 2026 video covers the two stocks he is actively buying in the sell-off: Construction Partners (ROAD) and Nubank (NU). ROAD fell 20% after preliminary Q4 results and FY27 guidance, but Pronk argues the reaction is unjustified: FY26 still shows revenue up 30%, net income up 40% and EBITDA up 23%, with only Q4 margins dented by an unusually wet quarter and spiking diesel prices. FY27 guidance ($4.25bn revenue, $602m EBITDA, 14-14.5% margin) implies another ~15% growth year, and with three acquisitions already done in the first five weeks of FY27 he expects revenue guidance to be beaten comfortably. At ~$77 and 8.4x trailing EBITDA - COVID-era pricing - his updated DCF gives a 24.3% base-case CAGR, 30% bull case and ~13% even in a harsh bear case, so he has added to his position and plans to hold to at least 2030. He then introduces Nubank as a new, small position: ~16x trailing and ~11x forward earnings for 50-56% growth, a wide-open Mexico runway, and a Brazil-election sell-off he calls a non-event. Versus SoFi, Nubank earns 5x as much, grows faster, and trades at half the multiple, though he notes its historical peak P/E reached 41-46x. He also briefly reiterates buying Mercado Libre and says Brookfield Asset Management is fine and needs no coverage. Caption garbles: 'Rode' for ROAD throughout, and 'Muse' is his AI charting tool, not a ticker.",
+ "calls": [
+  {
+   "video_id": "XopekzfZKiQ",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ROAD",
+   "direction": "BUY",
+   "thesis": "The 20% sell-off is a short-term overreaction to a wet Q4 and a diesel-price spike; FY26 revenue +30%, net income +40%, EBITDA +23%, and FY27 guidance still calls for ~15% revenue/EBITDA growth with margins re-expanding in H2 2027.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "~$77/share (was ~$80, rallied to ~$100, fell back after preliminary Q4 results; down 20% on the day; 8.4x trailing-12-month EBITDA, below its 2022 bottom of 11.8x)",
+   "base_case": "15% annual EBITDA growth, 13x EBITDA exit (below ~15x long-term median) -> 24.3% CAGR over 5 years.",
+   "bull_case": "Hits FY27 projections, ~$1bn EBITDA by 2030, back to 15x EBITDA -> 30% CAGR.",
+   "bear_case": "Only 10% annual growth and 10x EBITDA (a 33% discount to history) -> still ~13% CAGR."
+  },
+  {
+   "video_id": "XopekzfZKiQ",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "NU",
+   "direction": "BUY",
+   "thesis": "Far too cheap for 50%+ growth; huge runway digitising Latin America, just starting in Mexico where digital banking barely exists; the Brazil election sell-off is a non-event. Beats SoFi on every metric - 5x the earnings, faster growth, half the multiple.",
+   "analyzed_at": "2026-11-09T05:10:39.474328+00:00",
+   "price_at_call": "~16x trailing P/E, ~11x forward P/E (10.8x); no share price stated",
+   "base_case": "Even 15-20% annual growth from here should produce 15-20% annual returns, plus upside from any multiple expansion."
+  }
+ ]
+}
