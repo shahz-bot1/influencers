@@ -3,6 +3,24 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "AtubYu6Yemw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Amazon Delivers Fantastic News for Uber Stock Investors",
+   "published_at": "2026-11-09T18:00:03.510338+00:00",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "price_at_call": "Fair value $126 vs current $68 (stated)",
+   "thesis": "BUY reiterated (was BUY 7 Nov, FV $125) — Amazon Prime members now get free Uber Eats delivery on $25+ orders plus $20 off their first two orders; he expects higher order frequency and sees the partnership as a step toward Amazon listing its Zoox driverless cars on Uber, easing the biggest risk hanging over the stock. The news only makes him more bullish; he owns both stocks.",
+   "base_case": "Free delivery removes the biggest constraint on ordering; more frequent orders benefit Uber, its partners and drivers.",
+   "bull_case": "Amazon lists Zoox driverless cars on Uber's platform and Waymo follows — the driverless risk premium collapses.",
+   "bear_case": "Uber One members cancel ($9.99/mo) for the Prime benefit — he judges the net effect small since members' perks roughly offset the fee.",
+   "analyzed_at": "2026-11-09T19:03:43.083444+00:00",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null
+  },
+  {
    "video_id": "zGAy-kA50pQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -159,15 +177,15 @@
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 6
+   "idx": 7
   },
   {
    "channel": "Couch Investor",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
