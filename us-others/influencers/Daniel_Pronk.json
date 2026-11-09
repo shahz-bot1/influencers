@@ -4,6 +4,70 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "ROAD",
+   "tickerSlug": "ROAD",
+   "direction": "BUY",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "~$77/share (was ~$80, rallied to ~$100, fell back after preliminary Q4 results; down 20% on the day; 8.4x trailing-12-month EBITDA, below its 2022 bottom of 11.8x)",
+   "video_id": "XopekzfZKiQ"
+  },
+  {
+   "ticker": "NU",
+   "tickerSlug": "NU",
+   "direction": "BUY",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "~16x trailing P/E, ~11x forward P/E (10.8x); no share price stated",
+   "video_id": "XopekzfZKiQ"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "AVOID",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "101x free cash flow; no share price stated; down ~19% over the past month",
+   "video_id": "yZ04xcND2A4"
+  },
+  {
+   "ticker": "SHOP",
+   "tickerSlug": "SHOP",
+   "direction": "AVOID",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "83x free cash flow; no share price stated; down 21% from recent highs",
+   "video_id": "yZ04xcND2A4"
+  },
+  {
+   "ticker": "INTC",
+   "tickerSlug": "INTC",
+   "direction": "AVOID",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "81x free cash flow, 43x forward P/E; no share price stated; down 60% from all-time highs, 50% in the last month",
+   "video_id": "yZ04xcND2A4"
+  },
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
+   "direction": "AVOID",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "27x free cash flow (was ~40x before earnings); no share price stated; down 35% from recent highs",
+   "video_id": "yZ04xcND2A4"
+  },
+  {
+   "ticker": "NOW",
+   "tickerSlug": "NOW",
+   "direction": "AVOID",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "~24x free cash flow; no share price stated; down 31% after earnings",
+   "video_id": "yZ04xcND2A4"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "AVOID",
+   "date": "2026-11-09T05:10:39.474328+00:00",
+   "price": "16x forward P/E, ~14.6x free cash flow; no share price stated; down ~28% from all-time highs, up 7% on the day after earnings",
+   "video_id": "yZ04xcND2A4"
+  },
+  {
    "ticker": "MELI",
    "tickerSlug": "MELI",
    "direction": "BUY",
