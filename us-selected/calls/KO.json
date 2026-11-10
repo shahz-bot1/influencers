@@ -3,6 +3,24 @@
  "slug": "KO",
  "calls": [
   {
+   "video_id": "14b4SyffbD4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "My Forever Portfolio: 4 Spectacular Stocks You Can Buy Now and Never Sell",
+   "published_at": "2026-11-10T12:00:03.267303+00:00",
+   "ticker": "KO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$96 (stated market; DCF fair value $100)",
+   "thesis": "Forever-hold buy reiterated: century-old brand, distribution network rivals cannot replicate; won KFC away from Pepsi.",
+   "base_case": "Exclusive restaurant relationships (McDonald's, Disney, now KFC) and reliable delivery.",
+   "bull_case": "Away-from-home dominance keeps compounding.",
+   "bear_case": "Near the 52-week high and only a few % below fair value - thin margin of safety.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  },
+  {
    "video_id": "jtdB9AMtnv4",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
