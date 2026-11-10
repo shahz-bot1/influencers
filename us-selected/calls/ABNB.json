@@ -1,0 +1,30 @@
+{
+ "ticker": "ABNB",
+ "slug": "ABNB",
+ "calls": [
+  {
+   "video_id": "vddQvciWLQ8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Airbnb Stock is Soaring! Is it Too Late to Buy? | ABNB Stock Analysis",
+   "published_at": "2026-11-10T17:00:03.267303+00:00",
+   "ticker": "ABNB",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$192 (stated market; DCF fair value $214)",
+   "thesis": "Buy reiterated but conviction cut medium -> low: still slightly undervalued (~12% upside) after a 40% YTD run and ~20% post-earnings jump; AI-driven support-cost cuts and 25% EPS growth vs Street 20%.",
+   "base_case": "Fair value $214 vs $192; revenue +19% to $4.9B; revenue/employee up ~50% since 2022 to ~$1.6M.",
+   "bull_case": "Asset-light model plus AI productivity keeps compounding; Street EPS estimates keep rising.",
+   "bear_case": "Forward P/E 31 vs ~20 at the start of 2026; local-regulation pushback limits expansion; CFO/sales down to 37% from ~45%.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
