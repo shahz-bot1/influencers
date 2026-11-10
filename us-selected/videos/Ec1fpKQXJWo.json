@@ -1,0 +1,28 @@
+{
+ "video_id": "Ec1fpKQXJWo",
+ "title": "I SOLD it ALL",
+ "creator": "Mark Roussin CPA",
+ "published_at": "2026-11-10",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Mark Roussin explains why he sold his entire Marvell (MRVL) position, stressing the decision had nothing to do with the recent AI sell-off — he remains very bullish on AI, custom silicon and optical networking, which he sees as early-to-mid innings. Marvell was attractive because hyperscalers like Amazon and Alphabet are building custom AI chips, and because optical networking matters more as AI data centres grow and copper connectivity hits its limits. He entered the position just over a year ago via an options trade and watched the shares rise nearly 180% in the twelve months to end-October 2026, before falling ~40% since. What changed was the 2 November agreement to acquire Lumentum (LITE) for ~$115B in an all-stock deal at a 25%-plus premium — 4.5 Marvell shares per Lumentum share — closing not until the first half of 2028. He accepts the strategic logic and the promised $1B-plus of synergies, and that the deal is accretive in year one, but lists three problems: dilution is his biggest concern, with existing holders keeping only ~67% of the combined company; the price paid is too high for a deal this size; and the long timeline brings regulatory and integration risk. His conclusion is that his money can work harder elsewhere, so he exited fully while staying bullish on the AI theme. Call: MRVL SELL — a stance flip from UNCERTAIN on 20 October, and a direct contradiction of Parkevtate's BUY reiteration the same day. The video also promotes his two-day options workshop on 11-12 November.",
+ "calls": [
+  {
+   "video_id": "Ec1fpKQXJWo",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "I SOLD it ALL",
+   "published_at": "2026-11-10T15:00:03.267303+00:00",
+   "ticker": "MRVL",
+   "direction": "SELL",
+   "flip": true,
+   "stance_flip": "UNCERTAIN -> SELL",
+   "price_at_call": "No stated price; shares down ~40% since end-October (up ~180% in the 12 months to end-Oct)",
+   "thesis": "Sold his entire position: not bearish on AI or Marvell's markets, but the $115B all-stock Lumentum deal (25%+ premium, a third of the combined company to Lumentum holders, close not until H1 2028) changed the risk/reward - better opportunities elsewhere.",
+   "base_case": "Dilution is the biggest concern: existing holders keep ~67% of the combined company.",
+   "bull_case": "Deal could still work - strategic logic sound, over $1B in synergies promised, accretive in year one; he accepts possibly missing out.",
+   "bear_case": "Premium too high, 1.5-year overhang, regulatory and integration risk; capital better deployed in AI names without deal uncertainty.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  }
+ ]
+}
