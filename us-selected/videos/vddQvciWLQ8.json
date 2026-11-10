@@ -1,0 +1,28 @@
+{
+ "video_id": "vddQvciWLQ8",
+ "title": "Airbnb Stock is Soaring! Is it Too Late to Buy? | ABNB Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-10",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate revisits Airbnb (ABNB) after strong Q3 results: revenue rose 19% to $4.9B, and management gave a rare quantified AI example, with artificial intelligence cutting customer-support costs per booking by a figure garbled in the captions. He likes specific, measured AI gains rather than vague claims, and notes AI is also speeding up new product launches while revenue per employee has risen nearly 50% since 2022 to about $1.6M. The question is whether the stock is still a buy after rising more than 40% year to date and ~20% since results. Wall Street expects ~20% annual earnings-per-share growth; he estimates closer to 25%. Airbnb is one of the most asset-light models on the planet, earning revenue from hosts' homes it does not own. Risks are local-community and political pushback against short-term rentals, and profitability is not improving — operating cash flow is 37% of sales, down from ~45% in 2022-2023. Valuation has compressed the upside: the forward P/E is now 31 versus ~20 at the start of 2026, roughly its multi-year average, and his updated DCF fair value is $214 against a $192 market price, only ~12% upside. He reiterates his BUY, first given in August, but cuts conviction from medium to low. Call: ABNB BUY reiterated, conviction cut medium to low.",
+ "calls": [
+  {
+   "video_id": "vddQvciWLQ8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Airbnb Stock is Soaring! Is it Too Late to Buy? | ABNB Stock Analysis",
+   "published_at": "2026-11-10T17:00:03.267303+00:00",
+   "ticker": "ABNB",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$192 (stated market; DCF fair value $214)",
+   "thesis": "Buy reiterated but conviction cut medium -> low: still slightly undervalued (~12% upside) after a 40% YTD run and ~20% post-earnings jump; AI-driven support-cost cuts and 25% EPS growth vs Street 20%.",
+   "base_case": "Fair value $214 vs $192; revenue +19% to $4.9B; revenue/employee up ~50% since 2022 to ~$1.6M.",
+   "bull_case": "Asset-light model plus AI productivity keeps compounding; Street EPS estimates keep rising.",
+   "bear_case": "Forward P/E 31 vs ~20 at the start of 2026; local-regulation pushback limits expansion; CFO/sales down to 37% from ~45%.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  }
+ ]
+}
