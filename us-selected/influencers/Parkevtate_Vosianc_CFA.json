@@ -4,6 +4,70 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "BROS",
+   "tickerSlug": "BROS",
+   "direction": "BUY",
+   "date": "2026-11-10T18:00:03.267303+00:00",
+   "price": "~$34 (stated market; DCF fair value $61)",
+   "video_id": "IlJhRGw-IKQ"
+  },
+  {
+   "ticker": "ABNB",
+   "tickerSlug": "ABNB",
+   "direction": "BUY",
+   "date": "2026-11-10T17:00:03.267303+00:00",
+   "price": "$192 (stated market; DCF fair value $214)",
+   "video_id": "vddQvciWLQ8"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-10T16:00:03.267303+00:00",
+   "price": "$293 (stated market; DCF fair value $462)",
+   "video_id": "_KQhMECp_uQ"
+  },
+  {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "BUY",
+   "date": "2026-11-10T14:00:03.267303+00:00",
+   "price": "$137 (stated market; DCF fair value $252)",
+   "video_id": "0FYP96IgPIU"
+  },
+  {
+   "ticker": "LLY",
+   "tickerSlug": "LLY",
+   "direction": "BUY",
+   "date": "2026-11-10T12:00:03.267303+00:00",
+   "price": "Stated prices garbled in captions; prior DCF $1,523 (20 Oct)",
+   "video_id": "14b4SyffbD4"
+  },
+  {
+   "ticker": "V",
+   "tickerSlug": "V",
+   "direction": "BUY",
+   "date": "2026-11-10T12:00:03.267303+00:00",
+   "price": "$423 (stated market; fair value garbled in captions)",
+   "video_id": "14b4SyffbD4"
+  },
+  {
+   "ticker": "KO",
+   "tickerSlug": "KO",
+   "direction": "BUY",
+   "date": "2026-11-10T12:00:03.267303+00:00",
+   "price": "$96 (stated market; DCF fair value $100)",
+   "video_id": "14b4SyffbD4"
+  },
+  {
+   "ticker": "CL",
+   "tickerSlug": "CL",
+   "direction": "BUY",
+   "date": "2026-11-10T12:00:03.267303+00:00",
+   "price": "$97 (stated market; DCF fair value over $120)",
+   "video_id": "14b4SyffbD4"
+  },
+  {
    "ticker": "UBER",
    "tickerSlug": "UBER",
    "direction": "BUY",
