@@ -3,6 +3,24 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "_KQhMECp_uQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Am I Buying the Dip in Broadcom Stock? | AVGO Stock Analysis",
+   "published_at": "2026-11-10T16:00:03.267303+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$293 (stated market; DCF fair value $462)",
+   "thesis": "Buy reiterated, high conviction: AI revenue to double to $230B by 2027 even supply-constrained; forward P/E 9.65, cheapest in years; he owns it and wants to add more.",
+   "base_case": "EPS growth >54%/yr expected; operating margin 48.6% above the pre-VMware peak; debt paid down ~$20B, cash $23.9B.",
+   "bull_case": "Custom ASIC (Jalapeno for OpenAI) delivered in under 10 months; management hits the forecasts it sets.",
+   "bear_case": "Mix shifting to the lower-margin semiconductor segment; NVDA earnings on 17 Nov could reset the whole AI tape.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  },
+  {
    "video_id": "i8vFBCkcxqs",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -341,20 +359,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
