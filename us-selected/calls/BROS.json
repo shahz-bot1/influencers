@@ -1,0 +1,30 @@
+{
+ "ticker": "BROS",
+ "slug": "BROS",
+ "calls": [
+  {
+   "video_id": "IlJhRGw-IKQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Dutch Bros Stock: Buy or Sell? | BROS Stock Analysis",
+   "published_at": "2026-11-10T18:00:03.267303+00:00",
+   "ticker": "BROS",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "UNCERTAIN -> BUY",
+   "price_at_call": "~$34 (stated market; DCF fair value $61)",
+   "thesis": "Buy reiterated, medium conviction: Q3 revenue +30% to $550M, cheapest forward P/E in years (26x, PEG <1), DCF $61 vs ~$34 near the 52-week low.",
+   "base_case": "EPS growth ~37%/yr expected; operating margin 9.6% and CFO/sales 19% near multi-year highs.",
+   "bull_case": "Densification wins share in proven markets; debt markets stay open while cash flow improves.",
+   "bear_case": "Record $1.27B long-term debt vs $195M cash; new stores cannibalise same-store sales (+4.4% only); growth is capital-intensive.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
