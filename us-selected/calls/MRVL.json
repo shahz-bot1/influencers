@@ -3,6 +3,42 @@
  "slug": "MRVL",
  "calls": [
   {
+   "video_id": "Ec1fpKQXJWo",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "I SOLD it ALL",
+   "published_at": "2026-11-10T15:00:03.267303+00:00",
+   "ticker": "MRVL",
+   "direction": "SELL",
+   "flip": true,
+   "stance_flip": "UNCERTAIN -> SELL",
+   "price_at_call": "No stated price; shares down ~40% since end-October (up ~180% in the 12 months to end-Oct)",
+   "thesis": "Sold his entire position: not bearish on AI or Marvell's markets, but the $115B all-stock Lumentum deal (25%+ premium, a third of the combined company to Lumentum holders, close not until H1 2028) changed the risk/reward - better opportunities elsewhere.",
+   "base_case": "Dilution is the biggest concern: existing holders keep ~67% of the combined company.",
+   "bull_case": "Deal could still work - strategic logic sound, over $1B in synergies promised, accretive in year one; he accepts possibly missing out.",
+   "bear_case": "Premium too high, 1.5-year overhang, regulatory and integration risk; capital better deployed in AI names without deal uncertainty.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  },
+  {
+   "video_id": "0FYP96IgPIU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Marvell Stock Crashing, and is it a Buying Opportunity? | MRVL Stock Analysis",
+   "published_at": "2026-11-10T14:00:03.267303+00:00",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$137 (stated market; DCF fair value $252)",
+   "thesis": "Buy reiterated, conviction raised low -> medium: down ~2/3 from the $330 high after the $110B+ all-stock Lumentum deal and the AI sell-off; forward P/E 18.7 vs 56% expected EPS growth.",
+   "base_case": "Deal seen as accretive in year one with ~$1B in synergies; EPS growth estimates quadrupled since 2024 to 56%.",
+   "bull_case": "NVDA's Huang previously tipped Marvell as a future $1T company; valuation now a fraction of the peak.",
+   "bear_case": "Deal is nearly Marvell's whole $120B market cap, all-stock dilution, thin cash ($4B) vs $5.4B debt; integration and regulatory risk.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  },
+  {
    "video_id": "PS8tmYrwyVU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -97,16 +133,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 3
+   "idx": 5
   }
  ]
 }
