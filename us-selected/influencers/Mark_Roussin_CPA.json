@@ -4,6 +4,14 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "SELL",
+   "date": "2026-11-10T15:00:03.267303+00:00",
+   "price": "No stated price; shares down ~40% since end-October (up ~180% in the 12 months to end-Oct)",
+   "video_id": "Ec1fpKQXJWo"
+  },
+  {
    "ticker": "AMZN",
    "tickerSlug": "AMZN",
    "direction": "BUY",
