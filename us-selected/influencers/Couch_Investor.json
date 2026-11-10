@@ -4,6 +4,30 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "BUY",
+   "date": "2026-11-09T20:57:57.632140+00:00",
+   "price": "No share price stated; ~$20-22B market cap, down ~37% YTD; ~20x 2027 earnings (stated)",
+   "video_id": "EL9pZIwiMNQ"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-09T20:57:57.632140+00:00",
+   "price": "No price stated; AWS Q3 revenue $46B (+40% YoY, fastest in ~5 years), $184B annualized run rate",
+   "video_id": "EL9pZIwiMNQ"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-09T20:57:57.632140+00:00",
+   "price": "No price stated; ~$5T market cap at ~17.5x forward earnings (stated)",
+   "video_id": "EL9pZIwiMNQ"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
