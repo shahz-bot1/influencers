@@ -3,6 +3,24 @@
  "slug": "SOFI",
  "calls": [
   {
+   "video_id": "EL9pZIwiMNQ",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "3 Stocks to Buy During This Earnings-Driven Market Selloff",
+   "published_at": "2026-11-09T20:57:57.632140+00:00",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "price_at_call": "No share price stated; ~$20-22B market cap, down ~37% YTD; ~20x 2027 earnings (stated)",
+   "thesis": "BUY reiterated (was BUY 27 Oct and 8 Nov) — Neil's (Motley Fool) pick in the collab. Triple-beat Q3, guidance raised again: 2026 revenue +40%, 2027 revenue +27% with EPS 90c; at ~20x next-year earnings he calls it 'very very cheap' for a business executing well in a tough rate environment.",
+   "base_case": "2027 revenue +27%, adjusted EBITDA margins ~35%, EPS 90c on management's own rate-hike assumptions.",
+   "bull_case": "Rates fall / macro improves and growth accelerates beyond guidance; 2028 targets need only +23% revenue and +18% EPS to hit the 2025-28 plan.",
+   "bear_case": "Rates stay elevated or rise again (management assumes two more hikes in 2026, two in 2027); lending and tech-platform growth slow.",
+   "analyzed_at": "2026-11-10T11:00:10.050990+00:00",
+   "collab": true,
+   "flip": false,
+   "stance_flip": null
+  },
+  {
    "video_id": "i8vFBCkcxqs",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -170,11 +188,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "MarketBeat",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
