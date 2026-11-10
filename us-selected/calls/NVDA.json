@@ -3,6 +3,24 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "EL9pZIwiMNQ",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "3 Stocks to Buy During This Earnings-Driven Market Selloff",
+   "published_at": "2026-11-09T20:57:57.632140+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "No price stated; ~$5T market cap at ~17.5x forward earnings (stated)",
+   "thesis": "BUY reiterated (was BUY 5 Nov and 8 Nov) — Neil's (Motley Fool) pick in the collab. Revenue +90.6% this fiscal year, guided +70%+ next year vs ~68% expected; ~$190B FCF this year rising toward ~$450B in two years; sovereign AI tripled to ~$30B and CUDA lock-in make it a 'de facto winner' in AI.",
+   "base_case": "Growth stays ahead of expectations with supply improving; margins stay high on strong demand.",
+   "bull_case": "Sovereign AI becomes a larger share of revenue, insulated from commercial tech-spending cycles; cash funds dividends, buybacks and acquisitions.",
+   "bear_case": "Growth decelerates substantially in ~2 years; custom-chip competition (Broadcom, Marvell, Google TPUs, AMD) erodes share.",
+   "analyzed_at": "2026-11-10T11:00:10.050990+00:00",
+   "collab": true,
+   "flip": false,
+   "stance_flip": null
+  },
+  {
    "video_id": "v0BGJtm9I-c",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -483,20 +501,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
