@@ -3,6 +3,24 @@
  "slug": "LLY",
  "calls": [
   {
+   "video_id": "14b4SyffbD4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "My Forever Portfolio: 4 Spectacular Stocks You Can Buy Now and Never Sell",
+   "published_at": "2026-11-10T12:00:03.267303+00:00",
+   "ticker": "LLY",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Stated prices garbled in captions; prior DCF $1,523 (20 Oct)",
+   "thesis": "Forever-hold buy reiterated: decades of R&D wins, weight-loss franchise the latest success; he owns it and wants to add more.",
+   "base_case": "Not a one-hit wonder - a history of successive blockbusters behind the weight-loss drugs.",
+   "bull_case": "Pipeline keeps producing new treatments over the next 10-30 years.",
+   "bear_case": "A structural break in the competitive moat would change the thesis; valuation carries less weight on a forever horizon.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  },
+  {
    "video_id": "W942c9Uw8aw",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -81,7 +99,7 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
