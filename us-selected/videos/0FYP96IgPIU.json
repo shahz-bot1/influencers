@@ -1,0 +1,28 @@
+{
+ "video_id": "0FYP96IgPIU",
+ "title": "Why Is Marvell Stock Crashing, and is it a Buying Opportunity? | MRVL Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-10",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate looks at Marvell (MRVL) after its shares crashed to ~$137, down roughly two-thirds from the $330 52-week high, hit first by the announcement of the Lumentum acquisition and then by a broad AI stock sell-off. The $110B-plus all-stock deal is nearly as large as Marvell's entire ~$120B market capitalisation, and investors fear dilution plus a shift away from Marvell's asset-light model, since Lumentum brings physical manufacturing assets. On the positive side, Wall Street earnings-per-share growth estimates have nearly quadrupled since 2024 to 56% a year, management says the deal is accretive in year one, and nearly $1B of annual synergies are promised. The balance sheet is thin for a deal this size, with only ~$4B of cash and short-term investments against $5.4B of debt, so adding cash to the offer would be difficult. Valuation has collapsed from a forward P/E above 40 earlier this year to 18.7, under a third of the expected EPS growth rate, and his updated DCF gives a $252 fair value against the $137 price. He notes he warned repeatedly that Marvell was too expensive above $300. He reiterates his BUY, first given on 28 October, and raises conviction from low to medium. Call: MRVL BUY reiterated, conviction raised. It directly contradicts Mark Roussin's SELL of the same stock the same day. He also flags Nvidia's 17 November earnings as the next big AI event.",
+ "calls": [
+  {
+   "video_id": "0FYP96IgPIU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Marvell Stock Crashing, and is it a Buying Opportunity? | MRVL Stock Analysis",
+   "published_at": "2026-11-10T14:00:03.267303+00:00",
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$137 (stated market; DCF fair value $252)",
+   "thesis": "Buy reiterated, conviction raised low -> medium: down ~2/3 from the $330 high after the $110B+ all-stock Lumentum deal and the AI sell-off; forward P/E 18.7 vs 56% expected EPS growth.",
+   "base_case": "Deal seen as accretive in year one with ~$1B in synergies; EPS growth estimates quadrupled since 2024 to 56%.",
+   "bull_case": "NVDA's Huang previously tipped Marvell as a future $1T company; valuation now a fraction of the peak.",
+   "bear_case": "Deal is nearly Marvell's whole $120B market cap, all-stock dilution, thin cash ($4B) vs $5.4B debt; integration and regulatory risk.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  }
+ ]
+}
