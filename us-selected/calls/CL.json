@@ -1,0 +1,30 @@
+{
+ "ticker": "CL",
+ "slug": "CL",
+ "calls": [
+  {
+   "video_id": "14b4SyffbD4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "My Forever Portfolio: 4 Spectacular Stocks You Can Buy Now and Never Sell",
+   "published_at": "2026-11-10T12:00:03.267303+00:00",
+   "ticker": "CL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$97 (stated market; DCF fair value over $120)",
+   "thesis": "Forever-hold buy, first tracked call: capital-intensive manufacturing and distribution moat like Coca-Cola's; saturated, shrinking shelf space deters entrants.",
+   "base_case": "Fair value over $120 vs $97 market.",
+   "bull_case": "Distribution moat endures in a slow-growth industry.",
+   "bear_case": "Slow growth and saturated markets cap the upside.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
