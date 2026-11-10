@@ -3,6 +3,24 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "EL9pZIwiMNQ",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "3 Stocks to Buy During This Earnings-Driven Market Selloff",
+   "published_at": "2026-11-09T20:57:57.632140+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "No price stated; AWS Q3 revenue $46B (+40% YoY, fastest in ~5 years), $184B annualized run rate",
+   "thesis": "BUY reiterated (was BUY 28 Sep) — his own pick in the collab. AWS reaccelerating for a sixth straight quarter, ~63% of operating profit, record company margins; negative FCF (-$42.4B) and debt up to $173B are the cost of funding AI growth, not distress.",
+   "base_case": "AWS growth above 40% projected for 2027 and 2028; backlog growing triple digits YoY.",
+   "bull_case": "AI capex converts into two $2T revenue businesses (AWS + rest of Amazon) over 5-10 years, per Jassy.",
+   "bear_case": "2026 capex heading to ~$220B; the open question is whether the spend earns the returns the growth numbers imply.",
+   "analyzed_at": "2026-11-10T11:00:10.050990+00:00",
+   "collab": true,
+   "flip": false,
+   "stance_flip": null
+  },
+  {
    "video_id": "RCTtEjdjbXQ",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -307,23 +325,23 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 12
-  },
-  {
-   "channel": "Couch Investor",
    "idx": 13
   }
  ]
