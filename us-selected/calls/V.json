@@ -3,6 +3,24 @@
  "slug": "V",
  "calls": [
   {
+   "video_id": "14b4SyffbD4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "My Forever Portfolio: 4 Spectacular Stocks You Can Buy Now and Never Sell",
+   "published_at": "2026-11-10T12:00:03.267303+00:00",
+   "ticker": "V",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$423 (stated market; fair value garbled in captions)",
+   "thesis": "Forever-hold buy reiterated: 4B+ cards, two-sided network nearly impossible to replicate; merchants must accept Visa.",
+   "base_case": "Network effect: merchants accept Visa because nearly everyone carries it; fee is a tiny share of merchant costs.",
+   "bull_case": "Network keeps compounding as the card base grows.",
+   "bear_case": "Regulatory hostility and stablecoins could bypass payment networks (per prior V calls).",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  },
+  {
    "video_id": "fbgsQde4kRU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -69,7 +87,7 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
