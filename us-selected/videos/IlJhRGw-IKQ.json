@@ -1,0 +1,28 @@
+{
+ "video_id": "IlJhRGw-IKQ",
+ "title": "Dutch Bros Stock: Buy or Sell? | BROS Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-10",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate examines Dutch Bros (BROS) after Q3 results reported 4 November 2026. Total revenue grew 30% to $550M, but same-store sales rose only 4.4% as growth came mostly from new stores, some of which cannibalise existing locations. Management is densifying its existing network to gain share in proven markets, with a target to expand the shop count substantially by 2029. Wall Street expects earnings per share to grow roughly 37% a year over the next several years, but funding that growth is capital-intensive for company-owned stores, and he argues vetted franchisee owner-operators would run locations better. Margins are near multi-year highs, with operating cash flow at 19% of sales and an operating margin of 9.6%. The balance sheet is the concern: long-term debt hit a record $1.27B against only $195M of cash and short-term investments, so the company is borrowing to fund expansion. Valuation is the cheapest in years at a forward P/E of 26 with a PEG below 1. He trimmed his free-cash-flow estimates ~8% but still values the business at $61 per share via DCF against a market price just under $34, near its 52-week low. Call: BROS BUY reiterated at medium conviction — a stance flip from UNCERTAIN on 27 September.",
+ "calls": [
+  {
+   "video_id": "IlJhRGw-IKQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Dutch Bros Stock: Buy or Sell? | BROS Stock Analysis",
+   "published_at": "2026-11-10T18:00:03.267303+00:00",
+   "ticker": "BROS",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "UNCERTAIN -> BUY",
+   "price_at_call": "~$34 (stated market; DCF fair value $61)",
+   "thesis": "Buy reiterated, medium conviction: Q3 revenue +30% to $550M, cheapest forward P/E in years (26x, PEG <1), DCF $61 vs ~$34 near the 52-week low.",
+   "base_case": "EPS growth ~37%/yr expected; operating margin 9.6% and CFO/sales 19% near multi-year highs.",
+   "bull_case": "Densification wins share in proven markets; debt markets stay open while cash flow improves.",
+   "bear_case": "Record $1.27B long-term debt vs $195M cash; new stores cannibalise same-store sales (+4.4% only); growth is capital-intensive.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  }
+ ]
+}
