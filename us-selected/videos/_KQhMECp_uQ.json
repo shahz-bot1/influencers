@@ -1,0 +1,28 @@
+{
+ "video_id": "_KQhMECp_uQ",
+ "title": "Am I Buying the Dip in Broadcom Stock? | AVGO Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-10",
+ "source_note": "Detailed summary generated from video captions; note: captions garbled in places",
+ "summary": "Parkevtate asks whether Broadcom (AVGO) is a buying opportunity after management reiterated it can double AI revenue from $115B next year to over $230B by 2027, even in a supply-constrained environment for data centres, power and chips — and that without constraints revenue would be significantly higher. The mix is shifting toward the lower-margin semiconductor segment, but operating margins should still rise on scale. Wall Street expects earnings per share to grow over 54% a year for the next several years, up from just 15% in 2024. He highlights faster product delivery — the custom OpenAI ASIC, codenamed Jalapeno, shipped in under 10 months — and management credibility: after the VMware deal, operating margins fell as promised, then recovered to 48.6% over the trailing twelve months, above the pre-deal peak. The balance sheet has improved markedly, with cash and short-term investments over $23.9B and long-term debt under $60B, roughly $20B of debt paid down and ~$14B of cash added from operations. Despite all the positives, the stock trades at a forward P/E of just 9.65, the cheapest in years and about a fifth of its EPS growth rate, and his DCF fair value is $462 against a $293 market price, over 50% upside. He reiterates his BUY with high conviction, owns the stock and wants to add more. Call: AVGO BUY reiterated, high conviction. He flags Nvidia's 17 November earnings as a major event for all investors.",
+ "calls": [
+  {
+   "video_id": "_KQhMECp_uQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Am I Buying the Dip in Broadcom Stock? | AVGO Stock Analysis",
+   "published_at": "2026-11-10T16:00:03.267303+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$293 (stated market; DCF fair value $462)",
+   "thesis": "Buy reiterated, high conviction: AI revenue to double to $230B by 2027 even supply-constrained; forward P/E 9.65, cheapest in years; he owns it and wants to add more.",
+   "base_case": "EPS growth >54%/yr expected; operating margin 48.6% above the pre-VMware peak; debt paid down ~$20B, cash $23.9B.",
+   "bull_case": "Custom ASIC (Jalapeno for OpenAI) delivered in under 10 months; management hits the forecasts it sets.",
+   "bear_case": "Mix shifting to the lower-margin semiconductor segment; NVDA earnings on 17 Nov could reset the whole AI tape.",
+   "analyzed_at": "2026-11-10T19:04:03.719818Z",
+   "collab": false
+  }
+ ]
+}
