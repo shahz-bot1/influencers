@@ -1,0 +1,48 @@
+{
+ "video_id": "v2oNlrJDE6k",
+ "title": "Should Investors Buy Micron Stock Over Taiwan Semiconductor Stock Right Now? | MU vs. TSM",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-11",
+ "source_note": "Detailed summary generated from video captions; note: captions garble some words and the sponsor name in places",
+ "summary": "Parkevtate compares Micron and Taiwan Semiconductor, both booming on AI demand and nearly sold out of manufacturing capacity for years, to decide which is the better buy. Micron makes the memory and storage going into data centers, while TSMC makes a broader set of components for data centers and consumer electronics. The core difference is volatility: Micron's EPS estimates have swung from 15% to 175% growth because its boom comes from higher selling prices, with some quarters seeing prices up triple digits year on year, while TSMC is conservative about passing on price rises. Longer-term contracts with price floors and ceilings should dampen Micron's volatility. On margins, TSMC is the consistent performer, with operating margins rising from about 40% in 2017 to about 58%, while Micron has swung from negative 40% in 2024 to over 80% in each of its last two quarters, a level he had never seen from any company he follows. TSMC's risk is geopolitical: most manufacturing is in Taiwan, and diversifying into the US, Japan and Europe will cut gross margins from about 58% toward 53%. On valuation, Micron's forward P/E of 3.5 looks deceptively cheap because earnings are at a peak, so he leans on DCF: a fair value of $1,566 versus a $729 price, against $567 for TSMC versus $390. He picks Micron over TSMC and reiterates both as BUYs, owning Micron but not TSMC yet, and notes Nvidia reports on 17 November. Both stocks are BUY reiterations.",
+ "calls": [
+  {
+   "video_id": "v2oNlrJDE6k",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Micron Stock Over Taiwan Semiconductor Stock Right Now? | MU vs. TSM",
+   "published_at": "2026-11-11T12:55:28.679505+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Market $729 (stated); DCF fair value $1,566; forward P/E 3.5",
+   "fair_value": "$1,566",
+   "thesis": "BUY reiterated (was BUY 9 Nov, FV $1,531) — his pick over TSM: record 80%+ operating margins two quarters running, longer-term customer contracts now dampen the old price volatility, and even with FCF growth peaking ~2028-29 the DCF still shows ~2x upside. He owns it.",
+   "base_case": "Longer-term contracts (price floor/ceiling) smooth the memory cycle; FCF growth peaks ~2028-29 then grows slowly.",
+   "bull_case": "Hyperscaler demand stays ahead of supply and pricing holds at record levels.",
+   "bear_case": "Peak-cycle earnings: the 3.5x P/E is peak EPS and margins collapse when the cycle turns, as in 2024 (-40% operating margin).",
+   "analyzed_at": "2026-11-11T14:58:06.321639+00:00",
+   "collab": false
+  },
+  {
+   "video_id": "v2oNlrJDE6k",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Micron Stock Over Taiwan Semiconductor Stock Right Now? | MU vs. TSM",
+   "published_at": "2026-11-11T12:55:28.679505+00:00",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Market $390 (stated); DCF fair value $567; forward P/E 16.7",
+   "fair_value": "$567",
+   "thesis": "BUY reiterated (was BUY 6 Nov, FV $566) — calls it the best manufacturing company in the world: operating margins ~58% TTM and far more consistent than Micron's, but loses the head-to-head on valuation. He does not own it yet and is interested in buying.",
+   "base_case": "Demand keeps exceeding supply; overseas fabs diversify the footprint at some margin cost.",
+   "bull_case": "AI build-out keeps wafer demand ahead of supply; pricing power offsets higher overseas costs.",
+   "bear_case": "Taiwan/China geopolitical risk; gross margins guided down from 58% to 53% as US/Europe/Japan fabs ramp.",
+   "analyzed_at": "2026-11-11T14:58:06.321639+00:00",
+   "collab": false
+  }
+ ]
+}
