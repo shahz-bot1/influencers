@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T23:08:02.704242+00:00",
+ "updated": "2026-11-11T23:18:06.950457+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -68,12 +68,12 @@
   {
    "ticker": "ADBE",
    "slug": "ADBE",
-   "lastDate": "2026-11-04T17:00:01.133208+00:00",
+   "lastDate": "2026-11-11T12:55:28.679505+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
-     "avg": "$360"
+     "n": 2,
+     "avg": "$305"
     },
     {
      "dir": "HOLD",
@@ -82,11 +82,12 @@
     }
    ],
    "influencers": [
+    "The German Value Investor",
     "Parkevtate Vosianc CFA",
     "Couch Investor"
    ],
-   "lastStated": "DCF fair value $360 (revised slightly higher from $349 on 2 Nov) vs market $251 ",
-   "nCalls": 4
+   "lastStated": "Market ~$250 (stated); his buy limit $270; base-scenario fair value ~50% above c",
+   "nCalls": 5
   },
   {
    "ticker": "AEM",
@@ -449,12 +450,12 @@
   {
    "ticker": "AVGO",
    "slug": "AVGO",
-   "lastDate": "2026-11-10T16:00:03.267303+00:00",
+   "lastDate": "2026-11-11T14:45:28.679505+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 3,
-     "avg": "$154"
+     "avg": "$167.5"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -468,8 +469,8 @@
     "BWB - Business With Brian",
     "Mark Roussin CPA"
    ],
-   "lastStated": "$293 (stated market; DCF fair value $462)",
-   "nCalls": 23
+   "lastStated": "Market $320 (stated); DCF fair value $462; forward P/E 10.6",
+   "nCalls": 24
   },
   {
    "ticker": "AXON",
@@ -718,19 +719,19 @@
   {
    "ticker": "CHWY",
    "slug": "CHWY",
-   "lastDate": "2026-10-30T11:55:39.676815+00:00",
+   "lastDate": "2026-11-11T18:00:00.311469+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$33"
+     "avg": "$23"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "Fair value $33; market price garbled in captions (~53% upside over 12-18 months)",
-   "nCalls": 1
+   "lastStated": "~$23 (stated)",
+   "nCalls": 2
   },
   {
    "ticker": "CIBR",
@@ -955,12 +956,12 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-11-08T14:59:54.080668+00:00",
+   "lastDate": "2026-11-11T16:00:00.311469+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$84"
+     "avg": "$49.5"
     },
     {
      "dir": "AVOID",
@@ -969,12 +970,12 @@
     }
    ],
    "influencers": [
+    "Couch Investor",
     "Parkevtate Vosianc CFA",
-    "MarketBeat",
-    "Couch Investor"
+    "MarketBeat"
    ],
-   "lastStated": "DCF fair value $84 (stated) vs ~$44 current (stated)",
-   "nCalls": 8
+   "lastStated": "No stated price; up ~15-16% on the day, still ~60% below 52-week high",
+   "nCalls": 9
   },
   {
    "ticker": "CSCO",
@@ -1085,21 +1086,55 @@
    "nCalls": 1
   },
   {
-   "ticker": "DKNG",
-   "slug": "DKNG",
-   "lastDate": "2026-11-02T17:00:01.695228+00:00",
+   "ticker": "DHS",
+   "slug": "DHS",
+   "lastDate": "2026-11-10T19:57:54.236247+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$20"
+     "avg": "$3"
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "~3% yield/yr; $10k -> ~$18k over 5 yrs through Oct",
+   "nCalls": 1
+  },
+  {
+   "ticker": "DIVO",
+   "slug": "DIVO",
+   "lastDate": "2026-11-10T19:57:54.236247+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$5"
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "~5% yield/yr",
+   "nCalls": 1
+  },
+  {
+   "ticker": "DKNG",
+   "slug": "DKNG",
+   "lastDate": "2026-11-11T17:00:00.311469+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$18.51"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "~$20 (stated 'a little over $20')",
-   "nCalls": 2
+   "lastStated": "$18.51 (stated)",
+   "nCalls": 3
   },
   {
    "ticker": "DOCN",
@@ -1709,6 +1744,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "IDVO",
+   "slug": "IDVO",
+   "lastDate": "2026-11-10T19:57:54.236247+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$6"
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "~6% yield/yr; +81% total return over 3 yrs through Oct",
+   "nCalls": 1
+  },
+  {
    "ticker": "IJR",
    "slug": "IJR",
    "lastDate": "2026-04-04T15:00:15+00:00",
@@ -1779,20 +1831,20 @@
   {
    "ticker": "IONQ",
    "slug": "IONQ",
-   "lastDate": "2026-11-08T14:59:54.080668+00:00",
+   "lastDate": "2026-11-11T13:55:28.679505+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$23"
+     "avg": "$32.5"
     }
    ],
    "influencers": [
-    "BWB - Business With Brian",
-    "Parkevtate Vosianc CFA"
+    "Parkevtate Vosianc CFA",
+    "BWB - Business With Brian"
    ],
-   "lastStated": "On crash-buy list; fell ~11% Thursday; record quarter, quantum sales more than d",
-   "nCalls": 4
+   "lastStated": "DCF fair value ~$54 (current price garbled in captions); forward P/S 16.7",
+   "nCalls": 5
   },
   {
    "ticker": "IREN",
@@ -1849,6 +1901,40 @@
     "The German Value Investor"
    ],
    "lastStated": "~$25 (stated, ~€22.50); buy limit ~$44 (stated)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "JEPI",
+   "slug": "JEPI",
+   "lastDate": "2026-11-10T19:57:54.236247+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "No stated price",
+   "nCalls": 1
+  },
+  {
+   "ticker": "JEPQ",
+   "slug": "JEPQ",
+   "lastDate": "2026-11-10T19:57:54.236247+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$12"
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "~12% yield/yr (~1%/mo); 3-yr total return ~74% vs Nasdaq ~100%",
    "nCalls": 1
   },
   {
@@ -2134,6 +2220,23 @@
    "nCalls": 3
   },
   {
+   "ticker": "MAIN",
+   "slug": "MAIN",
+   "lastDate": "2026-11-10T19:57:54.236247+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$6"
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "~6% yield/yr; 5-yr total return 86% vs S&P 76%",
+   "nCalls": 1
+  },
+  {
    "ticker": "MCD",
    "slug": "MCD",
    "lastDate": "2026-11-02T11:55:42.258763+00:00",
@@ -2400,12 +2503,12 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-11-09T15:06:51.017104+00:00",
+   "lastDate": "2026-11-11T12:55:28.679505+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$1,531"
+     "avg": "$729"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -2425,33 +2528,33 @@
     "MarketBeat",
     "Mark Roussin CPA"
    ],
-   "lastStated": "FV $1,531 vs current ~$697 (down ~50% from $1,250 ATH); forward P/E 3.4",
-   "nCalls": 18
+   "lastStated": "Market $729 (stated); DCF fair value $1,566; forward P/E 3.5",
+   "nCalls": 19
   },
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-11-08T14:59:54.080668+00:00",
+   "lastDate": "2026-11-11T16:00:00.311469+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 3,
-     "avg": "$152"
+     "n": 2,
+     "avg": "$264"
     },
     {
      "dir": "HOLD",
-     "n": 1,
-     "avg": "$39"
+     "n": 2,
+     "avg": "$26"
     }
    ],
    "influencers": [
-    "Parkevtate Vosianc CFA",
     "Couch Investor",
+    "Parkevtate Vosianc CFA",
     "MarketBeat",
     "BWB - Business With Brian"
    ],
-   "lastStated": "DCF fair value $264 (stated) vs ~$120 current (stated); fair value raised from $",
-   "nCalls": 18
+   "lastStated": "No stated price; up ~13-14% on the day; last add ~$150-160",
+   "nCalls": 19
   },
   {
    "ticker": "NET",
@@ -2625,12 +2728,12 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-09T20:57:57.632140+00:00",
+   "lastDate": "2026-11-11T16:00:00.311469+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$207.5"
+     "avg": "$211.72"
     }
    ],
    "influencers": [
@@ -2639,8 +2742,8 @@
     "BWB - Business With Brian",
     "Mark Roussin CPA"
    ],
-   "lastStated": "No price stated; ~$5T market cap at ~17.5x forward earnings (stated)",
-   "nCalls": 32
+   "lastStated": "No stated price; trailing P/E 21.9, forward P/E 14.3",
+   "nCalls": 33
   },
   {
    "ticker": "NVO",
@@ -2698,6 +2801,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "O",
+   "slug": "O",
+   "lastDate": "2026-11-10T19:57:54.236247+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$14"
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "No stated price; price down ~14% over 5 yrs",
    "nCalls": 1
   },
   {
@@ -3009,20 +3129,20 @@
   {
    "ticker": "QCOM",
    "slug": "QCOM",
-   "lastDate": "2026-11-06T11:55:39.066530+00:00",
+   "lastDate": "2026-11-11T14:45:28.679505+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$165"
+     "avg": "$175"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA",
     "Mark Roussin CPA"
    ],
-   "lastStated": "$165 (stated market price)",
-   "nCalls": 7
+   "lastStated": "Market $175 (stated); DCF fair value $279; forward P/E 14.3",
+   "nCalls": 8
   },
   {
    "ticker": "QQQ",
@@ -3073,6 +3193,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "Market ~$4 (no fair value given; upgraded to BUY 27 Jul at ~$5)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "QYLD",
+   "slug": "QYLD",
+   "lastDate": "2026-11-10T19:57:54.236247+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "No stated price",
    "nCalls": 1
   },
   {
@@ -3324,19 +3461,20 @@
   {
    "ticker": "SE",
    "slug": "SE",
-   "lastDate": "2026-10-20T16:00:16.810442+00:00",
+   "lastDate": "2026-11-11T18:00:00.311469+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
-     "avg": "$54.7"
+     "n": 2,
+     "avg": "$64.85"
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Couch Investor"
    ],
-   "lastStated": "$54.7B market cap (stated); no share price stated",
-   "nCalls": 1
+   "lastStated": "Just below $75 (stated); near 52-week low, was over $130 in August",
+   "nCalls": 2
   },
   {
    "ticker": "SERV",
@@ -3358,8 +3496,13 @@
   {
    "ticker": "SHOP",
    "slug": "SHOP",
-   "lastDate": "2026-10-17T16:00:07.664117+00:00",
+   "lastDate": "2026-11-10T23:57:54.236247+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$140"
+    },
     {
      "dir": "AVOID",
      "n": 1,
@@ -3367,10 +3510,11 @@
     }
    ],
    "influencers": [
+    "MarketBeat",
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "$177 (stated current, near 52-week high); fair value $66 (stated DCF)",
-   "nCalls": 1
+   "lastStated": "Pulled back to under $140 from ~$180 peak (Oct); lows $110 -> $124 -> $136",
+   "nCalls": 2
   },
   {
    "ticker": "SMH",
@@ -3492,6 +3636,23 @@
    ],
    "lastStated": "$403 (stated market; DCF fair value $311)",
    "nCalls": 4
+  },
+  {
+   "ticker": "SPYI",
+   "slug": "SPYI",
+   "lastDate": "2026-11-10T19:57:54.236247+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$12"
+    }
+   ],
+   "influencers": [
+    "BWB - Business With Brian"
+   ],
+   "lastStated": "~12% yield/yr; price ~8% above launch",
+   "nCalls": 1
   },
   {
    "ticker": "STRL",
@@ -3713,12 +3874,12 @@
   {
    "ticker": "TSM",
    "slug": "TSM",
-   "lastDate": "2026-11-08T19:07:35.730824+00:00",
+   "lastDate": "2026-11-11T12:55:28.679505+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$199"
+     "avg": "$196.5"
     },
     {
      "dir": "HOLD",
@@ -3727,12 +3888,12 @@
     }
    ],
    "influencers": [
-    "BWB - Business With Brian",
     "Parkevtate Vosianc CFA",
+    "BWB - Business With Brian",
     "Joseph Carlson After Hours"
    ],
-   "lastStated": "Bought Thursday after ~11% drop; 3-yr forecast ~25%/yr; sales +41% last quarter",
-   "nCalls": 8
+   "lastStated": "Market $390 (stated); DCF fair value $567; forward P/E 16.7",
+   "nCalls": 9
   },
   {
    "ticker": "TTD",
@@ -3842,12 +4003,12 @@
   {
    "ticker": "UNH",
    "slug": "UNH",
-   "lastDate": "2026-11-05T14:59:59.696161+00:00",
+   "lastDate": "2026-11-11T16:00:00.311469+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$446.5"
+     "avg": "$197.5"
     },
     {
      "dir": "AVOID",
@@ -3856,12 +4017,12 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Mark Roussin CPA",
-    "Joseph Carlson After Hours",
-    "Parkevtate Vosianc CFA"
+    "Joseph Carlson After Hours"
    ],
    "lastStated": "$375 (his late-September purchase price; up ~7% since)",
-   "nCalls": 5
+   "nCalls": 6
   },
   {
    "ticker": "UPST",
@@ -3952,19 +4113,19 @@
   {
    "ticker": "VEEV",
    "slug": "VEEV",
-   "lastDate": "",
+   "lastDate": "2026-11-10T23:57:54.236247+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$7"
     }
    ],
    "influencers": [
     "MarketBeat"
    ],
-   "lastStated": "",
-   "nCalls": 1
+   "lastStated": "Only ~7% off high; jumped $240 -> $285 after last earnings; next earnings Dec",
+   "nCalls": 2
   },
   {
    "ticker": "VIG",
@@ -4231,12 +4392,12 @@
   {
    "ticker": "ZS",
    "slug": "ZS",
-   "lastDate": "2026-10-30T22:30:15.075182+00:00",
+   "lastDate": "2026-11-10T23:57:54.236247+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$131.5"
+     "avg": "$236.5"
     },
     {
      "dir": "HOLD",
@@ -4249,8 +4410,8 @@
     "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "No price level given; ~50x current-year outlook noted as near-term valuation con",
-   "nCalls": 4
+   "lastStated": "Pulled back $260 -> $195 (~25% discount) in 7 days",
+   "nCalls": 5
   }
  ],
  "influencers": [
@@ -4258,15 +4419,15 @@
    "name": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
    "slug": "BWB_Business_With_Brian",
-   "nCalls": 89,
-   "nVideos": 15
+   "nCalls": 98,
+   "nVideos": 16
   },
   {
    "name": "Couch Investor",
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
-   "nCalls": 108,
-   "nVideos": 71
+   "nCalls": 111,
+   "nVideos": 72
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -4286,25 +4447,115 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 119,
-   "nVideos": 46
+   "nCalls": 122,
+   "nVideos": 47
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 246,
-   "nVideos": 229
+   "nCalls": 255,
+   "nVideos": 236
   },
   {
    "name": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
    "slug": "The_German_Value_Investor",
-   "nCalls": 12,
-   "nVideos": 9
+   "nCalls": 13,
+   "nVideos": 10
   }
  ],
  "videos": [
+  {
+   "id": "dfjB8Cs9d2s",
+   "title": "Better Semiconductor Stock to Buy: Broadcom or Qualcomm? | AVGO Stock vs. QCOM Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-11",
+   "nCalls": 2
+  },
+  {
+   "id": "q2JqEVpXc_A",
+   "title": "IonQ Stock: Buy the Dip?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-11",
+   "nCalls": 1
+  },
+  {
+   "id": "v2oNlrJDE6k",
+   "title": "Should Investors Buy Micron Stock Over Taiwan Semiconductor Stock Right Now? | MU vs. TSM",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-11",
+   "nCalls": 2
+  },
+  {
+   "id": "rAYCupNMuFI",
+   "title": "Adobe Stock: Cheapest in a Decade Despite Record Profits",
+   "creator": "The German Value Investor",
+   "channels": [
+    "The German Value Investor"
+   ],
+   "published_at": "2026-11-11",
+   "nCalls": 1
+  },
+  {
+   "id": "yMlNe3anpEc",
+   "title": "Is it Too Late to Buy UnitedHealth Stock? | UNH Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-11",
+   "nCalls": 1
+  },
+  {
+   "id": "oB4nunfA-PI",
+   "title": "Is Chewy Stock a Buy Right Now in November 2026? | CHWY Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-11",
+   "nCalls": 1
+  },
+  {
+   "id": "EY89N1U_pEw",
+   "title": "Why Is Sea Limited Stock Falling, and is it a Buying Opportunity? SE Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-11",
+   "nCalls": 1
+  },
+  {
+   "id": "ANKxq4k3ptk",
+   "title": "DraftKings Stock: Buy the Dip? | DKNG Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-11",
+   "nCalls": 1
+  },
+  {
+   "id": "i4Rh8-uJ_Jw",
+   "title": "We Need To Talk About Nvidia, CoreWeave and Nebius Before Tomorrow",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-11-11",
+   "nCalls": 3
+  },
   {
    "id": "IlJhRGw-IKQ",
    "title": "Dutch Bros Stock: Buy or Sell? | BROS Stock Analysis",
@@ -4364,6 +4615,26 @@
    ],
    "published_at": "2026-11-10",
    "nCalls": 1
+  },
+  {
+   "id": "XCQcwwauIb0",
+   "title": "Get Paid Every Month Without Selling a Share",
+   "creator": "BWB - Business With Brian",
+   "channels": [
+    "BWB - Business With Brian"
+   ],
+   "published_at": "2026-11-10",
+   "nCalls": 9
+  },
+  {
+   "id": "bmefL0adiZ4",
+   "title": "History Is About to Be Made (The Post-Midterm Rally Starts on THIS Date)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-11-10",
+   "nCalls": 3
   },
   {
    "id": "8W-6gjsEy8U",
