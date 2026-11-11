@@ -3,6 +3,25 @@
  "slug": "SE",
  "calls": [
   {
+   "video_id": "EY89N1U_pEw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Sea Limited Stock Falling, and is it a Buying Opportunity? SE Stock Analysis",
+   "published_at": "2026-11-11T18:00:00.311469+00:00",
+   "ticker": "SE",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Just below $75 (stated); near 52-week low, was over $130 in August",
+   "fair_value": "$104 (DCF)",
+   "thesis": "BUY — first tracked Parkevtate SE call. Undervalued on both forward P/E (14.83 vs 18.6% expected EPS growth) and DCF ($104 vs ~$75); balance sheet strong with $11.5bn cash vs $2.7bn debt.",
+   "base_case": "Total revenue +48% last quarter; Shopee GMV +28%, loan book +62%; gaming (most profitable segment) growing slowest at 15%.",
+   "bull_case": "Cash flow from operations/sales 18.8% funds growth ambitions; asset-light e-commerce expansion.",
+   "bear_case": "Costs rising sharply; concern lending standards are being relaxed too aggressively; macro headwinds and non-US risk; may take over a year to recalibrate expenses.",
+   "analyzed_at": "2026-11-11T19:03:50.105964+00:00",
+   "collab": false
+  },
+  {
    "video_id": "VLlqZqAsvRI",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -23,8 +42,12 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
   }
  ]
 }
