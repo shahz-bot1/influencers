@@ -1,0 +1,30 @@
+{
+ "ticker": "DHS",
+ "slug": "DHS",
+ "calls": [
+  {
+   "video_id": "XCQcwwauIb0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Get Paid Every Month Without Selling a Share",
+   "published_at": "2026-11-10T19:57:54.236247+00:00",
+   "ticker": "DHS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~3% yield/yr; $10k -> ~$18k over 5 yrs through Oct",
+   "thesis": "WisdomTree US High Dividend Fund: 300+ steady dividend payers (ABBV, XOM, PM); no MSFT/AAPL near the top.",
+   "base_case": "Monthly checks from established companies, beat the S&P 500 over 5 years.",
+   "bull_case": "Five-year total return beat the S&P 500.",
+   "bear_case": "Fell ~37% in the 2020 COVID crash, slightly more than the S&P 500.",
+   "analyzed_at": "2026-11-11T11:00:17Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
