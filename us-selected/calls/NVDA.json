@@ -3,6 +3,25 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "i4Rh8-uJ_Jw",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "We Need To Talk About Nvidia, CoreWeave and Nebius Before Tomorrow",
+   "published_at": "2026-11-11T16:00:00.311469+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No stated price; trailing P/E 21.9, forward P/E 14.3",
+   "fair_value": "Not stated",
+   "thesis": "BUY — reiterated (was BUY 10 Nov). Jensen affair / board probe and export-evasion headlines are a leadership overhang, but the business is unchanged: fast-growing, very profitable, cheap at ~22x trailing earnings, roadmap and hyperscaler demand intact.",
+   "base_case": "Revenue growth at least 70% next fiscal year per Nvidia; market expects 68%; OpenAI, Anthropic, Amazon, Google, Meta all still buying chips.",
+   "bull_case": "Succession could mirror post-Jobs Apple — a well-oiled company whose products carry it; risk/reward favours the reward.",
+   "bear_case": "If Alice Hong is proven a spy or export evasion is proven, a major legal/political overhang; board probe takes 4-6 weeks and Jensen testifies to Congress the day after 17 Nov earnings.",
+   "analyzed_at": "2026-11-11T19:03:50.105964+00:00",
+   "collab": false
+  },
+  {
    "video_id": "EL9pZIwiMNQ",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -506,15 +525,15 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
