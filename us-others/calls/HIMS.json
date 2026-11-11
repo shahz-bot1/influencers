@@ -3,6 +3,19 @@
  "slug": "HIMS",
  "calls": [
   {
+   "video_id": "JozmYeJl-XM",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "HIMS",
+   "direction": "HOLD",
+   "thesis": "Stance flip BUY (3 Nov) -> HOLD: after a disappointing Q3, he is NOT selling his shares and still calls Hims & Hers a great company to own over 5-10 years, but he is no longer adding — subscriber count fell ~100k QoQ, gross margin compressed 83% to 57% on the shift to branded GLP-1s, Q4 revenue guidance is slightly down vs Q3, full-year adjusted EBITDA guidance was cut, management skipped its usual 2030 guidance and earnings presentation. He says management has to answer the questions over the next handful of quarters.",
+   "price_at_call": "shares down ~18% after earnings, ~40% over the past month",
+   "base_case": "Long-term subscription-health / Costco model works: TRT and peptides (launching late Nov, made in-house in the US) re-accelerate customer growth in early 2027.",
+   "bull_case": "Peptides and TRT scale fast, Huberman board/adviser push lands, Hims becomes the platform that owns the customer relationship in a $400B+ pharma market.",
+   "bear_case": "Subscriber declines continue, competition from Ro/Amazon and small players overwhelms the model, peptide execution stumbles, or Q1 2027 guidance disappoints.",
+   "analyzed_at": "2026-11-11T04:57:37.191771+00:00"
+  },
+  {
    "video_id": "5YD-cDrHC2I",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
