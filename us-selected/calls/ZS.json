@@ -3,6 +3,24 @@
  "slug": "ZS",
  "calls": [
   {
+   "video_id": "bmefL0adiZ4",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "History Is About to Be Made (The Post-Midterm Rally Starts on THIS Date)",
+   "published_at": "2026-11-10T23:57:54.236247+00:00",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Pulled back $260 -> $195 (~25% discount) in 7 days",
+   "thesis": "Zscaler is his favourite cybersecurity name here: cloud-based security critical for the AI rollout, broke out above $180 in Sept, pullback to breakout level, smart money buying dips.",
+   "base_case": "Stronger technicals than CRWD/FTNT; money flow red only ~10 of last 120 days.",
+   "bull_case": "Cloud security is essential as AI models and data scale; easy to integrate.",
+   "bear_case": "Volatile 5-yr history; post-election fears of slower AI data-center buildout.",
+   "analyzed_at": "2026-11-11T11:00:17Z",
+   "collab": false
+  },
+  {
    "video_id": "ZWSeoBObE08",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -71,11 +89,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
