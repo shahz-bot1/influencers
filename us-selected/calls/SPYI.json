@@ -1,0 +1,30 @@
+{
+ "ticker": "SPYI",
+ "slug": "SPYI",
+ "calls": [
+  {
+   "video_id": "XCQcwwauIb0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Get Paid Every Month Without Selling a Share",
+   "published_at": "2026-11-10T19:57:54.236247+00:00",
+   "ticker": "SPYI",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~12% yield/yr; price ~8% above launch",
+   "thesis": "NEOS S&P 500 High Income ETF: owns the whole S&P 500, sells options; most payouts labelled return of capital.",
+   "base_case": "Big monthly check from the whole S&P 500, not just tech.",
+   "bull_case": "Broad diversification across 500 names.",
+   "bear_case": "Barely passed his price test (price only ~8% above launch); return-of-capital payouts.",
+   "analyzed_at": "2026-11-11T11:00:17Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
