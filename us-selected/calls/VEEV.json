@@ -3,6 +3,24 @@
  "slug": "VEEV",
  "calls": [
   {
+   "video_id": "bmefL0adiZ4",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "History Is About to Be Made (The Post-Midterm Rally Starts on THIS Date)",
+   "published_at": "2026-11-10T23:57:54.236247+00:00",
+   "ticker": "VEEV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Only ~7% off high; jumped $240 -> $285 after last earnings; next earnings Dec",
+   "thesis": "Veeva Systems: largest pharma data/records database, feeding drug companies' AI models to speed drug development; analysts raising estimates, high short interest is fuel.",
+   "base_case": "Outperforming since late July, found support, smart money buying.",
+   "bull_case": "Proprietary pharma data is the moat for AI drug development; estimates rising.",
+   "bear_case": "Consensus price targets show little upside room; analysts playing catch-up.",
+   "analyzed_at": "2026-11-11T11:00:17Z",
+   "collab": false
+  },
+  {
    "video_id": "QoCLjUVDRDU",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
