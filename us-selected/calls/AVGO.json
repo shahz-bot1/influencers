@@ -3,6 +3,25 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "dfjB8Cs9d2s",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Better Semiconductor Stock to Buy: Broadcom or Qualcomm? | AVGO Stock vs. QCOM Stock",
+   "published_at": "2026-11-11T14:45:28.679505+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Market $320 (stated); DCF fair value $462; forward P/E 10.6",
+   "fair_value": "$462",
+   "thesis": "BUY reiterated (was BUY 10 Nov, same FV $462) — his pick over QCOM: EPS growth estimates surging to +55%, forward P/E 10.6 cheapest in years, custom-chip business for Alphabet booming. He owns it and wants to add more.",
+   "base_case": "AI custom-chip orders keep compounding; EPS growth ~55% materialises.",
+   "bull_case": "Hyperscaler custom silicon keeps winning share; valuation re-rates off a decade-cheap multiple.",
+   "bear_case": "NVDA earnings on 17 Nov reset the whole AI tape; semiconductor mix shift pressures margins.",
+   "analyzed_at": "2026-11-11T14:58:06.321639+00:00",
+   "collab": false
+  },
+  {
    "video_id": "_KQhMECp_uQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -364,15 +383,15 @@
   },
   {
    "channel": "Couch Investor",
-   "idx": 1
-  },
-  {
-   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
+   "channel": "BWB - Business With Brian",
+   "idx": 3
+  },
+  {
    "channel": "Mark Roussin CPA",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
