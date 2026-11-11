@@ -4,6 +4,30 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-11T16:00:00.311469+00:00",
+   "price": "No stated price; trailing P/E 21.9, forward P/E 14.3",
+   "video_id": "i4Rh8-uJ_Jw"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-11T16:00:00.311469+00:00",
+   "price": "No stated price; up ~15-16% on the day, still ~60% below 52-week high",
+   "video_id": "i4Rh8-uJ_Jw"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "HOLD",
+   "date": "2026-11-11T16:00:00.311469+00:00",
+   "price": "No stated price; up ~13-14% on the day; last add ~$150-160",
+   "video_id": "i4Rh8-uJ_Jw"
+  },
+  {
    "ticker": "SOFI",
    "tickerSlug": "SOFI",
    "direction": "BUY",
