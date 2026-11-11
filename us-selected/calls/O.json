@@ -1,0 +1,30 @@
+{
+ "ticker": "O",
+ "slug": "O",
+ "calls": [
+  {
+   "video_id": "XCQcwwauIb0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Get Paid Every Month Without Selling a Share",
+   "published_at": "2026-11-10T19:57:54.236247+00:00",
+   "ticker": "O",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No stated price; price down ~14% over 5 yrs",
+   "thesis": "Realty Income (\"the monthly dividend company\", 55+ years of monthly dividends) excluded: price down ~14% over five years, failed his price test.",
+   "base_case": "Five-year price decline despite the dividend record.",
+   "bull_case": "None given.",
+   "bear_case": "Monthly dividend does not offset a shrinking share price.",
+   "analyzed_at": "2026-11-11T11:00:17Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
