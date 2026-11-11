@@ -1,0 +1,29 @@
+{
+ "video_id": "ANKxq4k3ptk",
+ "title": "DraftKings Stock: Buy the Dip? | DKNG Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-11",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate updates DraftKings after a disappointing quarter in which revenue grew about 20% but heavy investment in prediction markets cut profitability. Prediction markets are growing the overall pie but also destroying DraftKings' old moat: its state-by-state expansion used to lock in incumbents and keep entrants out, whereas new players such as Kambi and Playtech have entered and DraftKings is now only the number three player in prediction markets. Revenue is $6.2 billion on a trailing 12-month basis, up 19% year on year, though it peaked a couple of quarters ago, and the total addressable market has expanded from roughly $30 billion for sports and iGaming alone to perhaps approaching $100 billion at maturity with prediction markets included. The shares have been bid down to a forward P/E of 10.75, the cheapest in years, and his DCF fair value is $31.52 versus a price of $18.51, so the stock looks ridiculously undervalued on both measures. The swing factor is regulation: he presents it as a win-win, since a reversal to the old state-by-state regime, which he links to Democrats taking the House and Senate, would restore DraftKings' dominance in its nearly 20 sports-betting markets and five iGaming markets, while the status quo means competing in a larger market with more risk and more upside. He upgrades his conviction from low, where he had cut it in late October, back to medium, and reiterates his BUY, judging the risk-reward worthwhile.",
+ "calls": [
+  {
+   "video_id": "ANKxq4k3ptk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "DraftKings Stock: Buy the Dip? | DKNG Stock Analysis",
+   "published_at": "2026-11-11T17:00:00.311469+00:00",
+   "ticker": "DKNG",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$18.51 (stated)",
+   "fair_value": "$31.52 (DCF)",
+   "thesis": "BUY — reiterated (was BUY 2 Nov), conviction upgraded low to medium. Forward P/E 10.75, cheapest in years; DCF $31.52 vs $18.51; risk/reward worthwhile despite prediction-market competition.",
+   "base_case": "Revenue $6.2bn TTM (+19% YoY); prediction markets expand TAM toward ~$100bn at maturity; DKNG now #3 in prediction markets.",
+   "bull_case": "Regulatory reversal (Democrats taking House and Senate) could restore DKNG's state-by-state dominance; renewal-free upside if it regains share.",
+   "bear_case": "Prediction-market entrants (Kambi, Playtech) lead DKNG; investments to compete are cutting profitability; Q3 disappointed on the bottom line.",
+   "analyzed_at": "2026-11-11T19:03:50.105964+00:00",
+   "collab": false
+  }
+ ]
+}
