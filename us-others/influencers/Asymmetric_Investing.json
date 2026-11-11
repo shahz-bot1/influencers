@@ -4,6 +4,14 @@
  "slug": "Asymmetric_Investing",
  "calls": [
   {
+   "ticker": "HIMS",
+   "tickerSlug": "HIMS",
+   "direction": "HOLD",
+   "date": "2026-11-11T04:57:37.191771+00:00",
+   "price": "shares down ~18% after earnings, ~40% over the past month",
+   "video_id": "JozmYeJl-XM"
+  },
+  {
    "ticker": "DUOL",
    "tickerSlug": "DUOL",
    "direction": "HOLD",
