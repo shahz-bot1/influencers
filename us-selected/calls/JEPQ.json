@@ -1,0 +1,30 @@
+{
+ "ticker": "JEPQ",
+ "slug": "JEPQ",
+ "calls": [
+  {
+   "video_id": "XCQcwwauIb0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Get Paid Every Month Without Selling a Share",
+   "published_at": "2026-11-10T19:57:54.236247+00:00",
+   "ticker": "JEPQ",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~12% yield/yr (~1%/mo); 3-yr total return ~74% vs Nasdaq ~100%",
+   "thesis": "First pick on his monthly-dividend list: JPMorgan Nasdaq Equity Premium Income ETF, holds NVDA/AAPL/MSFT and sells covered calls for income.",
+   "base_case": "Tech exposure plus a ~12% annual yield paid monthly.",
+   "bull_case": "Monthly checks keep coming even in drawdowns; dividend stocks fell less than Nasdaq in past drops.",
+   "bear_case": "Selling options caps upside in big rallies (74% vs Nasdaq 100% over 3 yrs); distributions mostly non-qualified (taxed as income).",
+   "analyzed_at": "2026-11-11T11:00:17Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
