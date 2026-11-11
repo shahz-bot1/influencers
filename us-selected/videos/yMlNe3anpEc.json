@@ -1,0 +1,29 @@
+{
+ "video_id": "yMlNe3anpEc",
+ "title": "Is it Too Late to Buy UnitedHealth Stock? | UNH Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-11",
+ "source_note": "Detailed summary generated from video captions; note: captions garble the DCF fair value and current price figures, so they are not stated here",
+ "summary": "Parkevtate revisits UnitedHealth after its 2026 recovery from the 2025 crisis, when the company underestimated the cost of serving customers, mispriced policies and saw profitability and free cash flow collapse. Management promised improvements from 2026 and has delivered slightly better than forecast, with the shares up almost 20% year to date, so he asks whether it is still a buy. The key evidence is Wall Street's change of mind: analysts who had cut EPS growth estimates to flat or negative have now revised them back above 14.2%, near the midpoint of management's 13-16% long-term guide. The balance sheet has also strengthened: long-term debt has been cut by about $9 billion in 2026, from roughly $80 billion to just over $71.4 billion, which should reduce interest expense and free cash for further debt paydown or the aggressive buybacks of the last 12-18 months. Valuation has improved but not dramatically: the forward P/E is 17, still below pre-2025 levels, which he calls attractive against 13-16% expected EPS growth. The caveat is that costs did not fall, they were merely estimated correctly this time, so structurally higher costs persist, and the company has exited some markets and raised prices, serving fewer customers. His updated DCF also shows the stock undervalued, though the exact fair value and current price figures are garbled in the captions. He concludes UnitedHealth remains a buying opportunity, a first tracked BUY for him, with a worthwhile risk-reward.",
+ "calls": [
+  {
+   "video_id": "yMlNe3anpEc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is it Too Late to Buy UnitedHealth Stock? | UNH Stock Analysis",
+   "published_at": "2026-11-11T16:00:00.311469+00:00",
+   "ticker": "UNH",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Not stated in captions (figures garbled); up almost 20% YTD 2026",
+   "fair_value": "Not stated in captions (figures garbled)",
+   "thesis": "BUY — first tracked Parkevtate UNH call; 'I still think the stock is a buying opportunity. I reiterated that by ranking today.' 2026 turnaround on track: EPS estimates back above 14.2%, midpoint of management's 13-16% guide; forward P/E 17 still below pre-2025 levels.",
+   "base_case": "Debt cut ~$9bn (from ~$80bn to ~$71.4bn) in 2026; buybacks aggressive; management reiterated 13-16% long-term EPS growth.",
+   "bull_case": "Estimates revised higher through 2026 as the 2025 cost mispricing was fixed; freed cash flow funds buybacks and further deleveraging.",
+   "bear_case": "Structurally higher costs persist; company exited some markets and raised prices, serving fewer customers; valuation still held back by that concern.",
+   "analyzed_at": "2026-11-11T19:03:50.105964+00:00",
+   "collab": false
+  }
+ ]
+}
