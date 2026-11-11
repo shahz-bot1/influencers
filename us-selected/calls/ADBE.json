@@ -3,6 +3,25 @@
  "slug": "ADBE",
  "calls": [
   {
+   "video_id": "rAYCupNMuFI",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "Adobe Stock: Cheapest in a Decade Despite Record Profits",
+   "published_at": "2026-11-11T12:55:28.679505+00:00",
+   "ticker": "ADBE",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Market ~$250 (stated); his buy limit $270; base-scenario fair value ~50% above current (~$375); bear-scenario fair value ~$190",
+   "fair_value": "~$375 (base scenario)",
+   "thesis": "BUY — first tracked ADBE call for him. Record profits, P/E compressed from ~50 to ~14 while revenue grew $4bn to $24bn since 2013; 96% recurring subscription revenue, ~$5.8bn FCF in 9 months, heavy buybacks. Staying invested and considering adding more, but not a large position — AI disruption risk and recent management turnover keep it small.",
+   "base_case": "Revenue keeps growing ~11%/yr for 5 years, then ~8%; fair P/E 17; ~12% annual returns over 10 years.",
+   "bull_case": "Fair price over 140% higher if growth holds and the market re-rates off a 14x P/E.",
+   "bear_case": "Even with earnings -2%/yr for 5 years then stagnation and a 10x P/E, returns stay ~+3%/yr; moat narrows as Canva, Affinity and AI image tools pull smaller users away.",
+   "analyzed_at": "2026-11-11T14:58:06.321639+00:00",
+   "collab": false
+  },
+  {
    "video_id": "kFRcbCyuXLs",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -70,12 +89,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 0
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  },
+  {
    "channel": "Couch Investor",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
