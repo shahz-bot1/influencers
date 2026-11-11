@@ -1,0 +1,29 @@
+{
+ "video_id": "oB4nunfA-PI",
+ "title": "Is Chewy Stock a Buy Right Now in November 2026? | CHWY Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-11",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate checks whether Chewy is still a buy after management reiterated its ambition of double-digit revenue growth, built from low-to-mid single-digit new customer growth plus each customer spending a little under double digits more per year. The evidence so far is encouraging: net spending per active customer rises each year a customer stays, and nearly 80% of sales come from autoship, the recurring orders that make inventory and logistics far easier to plan. Wall Street expects EPS growth of over 31% over the next several years, which he calls reasonable given the double-digit revenue outlook and a large fixed cost base that needs no new assets: Chewy already has the distribution and transport networks it needs and generates enough cash internally to fund all its growth, without raising capital or borrowing, a contrast with AI companies spending tens or hundreds of billions on data centers. He praises management as one of the better teams in the market, one of the few that handled both the pandemic lockdown and the reopening well, and points to the operating margin improving from negative 16% in 2019 to about 2.75%. On valuation, the forward P/E of 12 is near its cheapest in years and roughly a third of expected EPS growth, giving a PEG ratio of about a third, and his DCF fair value is $36 versus a price of about $23, roughly 58% undervalued. He reiterates his BUY, while noting every investment carries risk and he is confident in the risk-reward.",
+ "calls": [
+  {
+   "video_id": "oB4nunfA-PI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Chewy Stock a Buy Right Now in November 2026? | CHWY Stock Analysis",
+   "published_at": "2026-11-11T18:00:00.311469+00:00",
+   "ticker": "CHWY",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$23 (stated)",
+   "fair_value": "$36 (DCF)",
+   "thesis": "BUY — reiterated (was BUY 30 Oct). 'I will be reiterating my buy ranking for Chewy today.' Forward P/E 12, about one-third of expected EPS growth (PEG ~1/3); DCF $36 vs ~$23, ~58% undervalued; self-funding growth, no need for new capital.",
+   "base_case": "Management targets double-digit revenue growth: low-to-mid single-digit new customers plus near-double-digit spend growth per customer; Wall Street expects 31%+ EPS growth.",
+   "bull_case": "Nearly 80% of sales from autoship recurring orders; operating margin improved from -16% (2019) to ~2.75%.",
+   "bear_case": "Every investment carries risk; growth depends on sustaining customer-spend gains — no specific bear case quantified in the video.",
+   "analyzed_at": "2026-11-11T19:03:50.105964+00:00",
+   "collab": false
+  }
+ ]
+}
