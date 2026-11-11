@@ -3,6 +3,25 @@
  "slug": "CHWY",
  "calls": [
   {
+   "video_id": "oB4nunfA-PI",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Chewy Stock a Buy Right Now in November 2026? | CHWY Stock Analysis",
+   "published_at": "2026-11-11T18:00:00.311469+00:00",
+   "ticker": "CHWY",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$23 (stated)",
+   "fair_value": "$36 (DCF)",
+   "thesis": "BUY — reiterated (was BUY 30 Oct). 'I will be reiterating my buy ranking for Chewy today.' Forward P/E 12, about one-third of expected EPS growth (PEG ~1/3); DCF $36 vs ~$23, ~58% undervalued; self-funding growth, no need for new capital.",
+   "base_case": "Management targets double-digit revenue growth: low-to-mid single-digit new customers plus near-double-digit spend growth per customer; Wall Street expects 31%+ EPS growth.",
+   "bull_case": "Nearly 80% of sales from autoship recurring orders; operating margin improved from -16% (2019) to ~2.75%.",
+   "bear_case": "Every investment carries risk; growth depends on sustaining customer-spend gains — no specific bear case quantified in the video.",
+   "analyzed_at": "2026-11-11T19:03:50.105964+00:00",
+   "collab": false
+  },
+  {
    "video_id": "6EAT85y5dtM",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
