@@ -3,6 +3,25 @@
  "slug": "UNH",
  "calls": [
   {
+   "video_id": "yMlNe3anpEc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is it Too Late to Buy UnitedHealth Stock? | UNH Stock Analysis",
+   "published_at": "2026-11-11T16:00:00.311469+00:00",
+   "ticker": "UNH",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Not stated in captions (figures garbled); up almost 20% YTD 2026",
+   "fair_value": "Not stated in captions (figures garbled)",
+   "thesis": "BUY — first tracked Parkevtate UNH call; 'I still think the stock is a buying opportunity. I reiterated that by ranking today.' 2026 turnaround on track: EPS estimates back above 14.2%, midpoint of management's 13-16% guide; forward P/E 17 still below pre-2025 levels.",
+   "base_case": "Debt cut ~$9bn (from ~$80bn to ~$71.4bn) in 2026; buybacks aggressive; management reiterated 13-16% long-term EPS growth.",
+   "bull_case": "Estimates revised higher through 2026 as the 2025 cost mispricing was fixed; freed cash flow funds buybacks and further deleveraging.",
+   "bear_case": "Structurally higher costs persist; company exited some markets and raised prices, serving fewer customers; valuation still held back by that concern.",
+   "analyzed_at": "2026-11-11T19:03:50.105964+00:00",
+   "collab": false
+  },
+  {
    "video_id": "8RpSAWLesDw",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -84,16 +103,16 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "channel": "Joseph Carlson After Hours",
+   "idx": 2
   }
  ]
 }
