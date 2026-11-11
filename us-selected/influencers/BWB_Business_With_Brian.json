@@ -4,6 +4,78 @@
  "slug": "BWB_Business_With_Brian",
  "calls": [
   {
+   "ticker": "JEPQ",
+   "tickerSlug": "JEPQ",
+   "direction": "BUY",
+   "date": "2026-11-10T19:57:54.236247+00:00",
+   "price": "~12% yield/yr (~1%/mo); 3-yr total return ~74% vs Nasdaq ~100%",
+   "video_id": "XCQcwwauIb0"
+  },
+  {
+   "ticker": "DIVO",
+   "tickerSlug": "DIVO",
+   "direction": "BUY",
+   "date": "2026-11-10T19:57:54.236247+00:00",
+   "price": "~5% yield/yr",
+   "video_id": "XCQcwwauIb0"
+  },
+  {
+   "ticker": "SPYI",
+   "tickerSlug": "SPYI",
+   "direction": "BUY",
+   "date": "2026-11-10T19:57:54.236247+00:00",
+   "price": "~12% yield/yr; price ~8% above launch",
+   "video_id": "XCQcwwauIb0"
+  },
+  {
+   "ticker": "IDVO",
+   "tickerSlug": "IDVO",
+   "direction": "BUY",
+   "date": "2026-11-10T19:57:54.236247+00:00",
+   "price": "~6% yield/yr; +81% total return over 3 yrs through Oct",
+   "video_id": "XCQcwwauIb0"
+  },
+  {
+   "ticker": "DHS",
+   "tickerSlug": "DHS",
+   "direction": "BUY",
+   "date": "2026-11-10T19:57:54.236247+00:00",
+   "price": "~3% yield/yr; $10k -> ~$18k over 5 yrs through Oct",
+   "video_id": "XCQcwwauIb0"
+  },
+  {
+   "ticker": "MAIN",
+   "tickerSlug": "MAIN",
+   "direction": "BUY",
+   "date": "2026-11-10T19:57:54.236247+00:00",
+   "price": "~6% yield/yr; 5-yr total return 86% vs S&P 76%",
+   "video_id": "XCQcwwauIb0"
+  },
+  {
+   "ticker": "JEPI",
+   "tickerSlug": "JEPI",
+   "direction": "AVOID",
+   "date": "2026-11-10T19:57:54.236247+00:00",
+   "price": "No stated price",
+   "video_id": "XCQcwwauIb0"
+  },
+  {
+   "ticker": "QYLD",
+   "tickerSlug": "QYLD",
+   "direction": "AVOID",
+   "date": "2026-11-10T19:57:54.236247+00:00",
+   "price": "No stated price",
+   "video_id": "XCQcwwauIb0"
+  },
+  {
+   "ticker": "O",
+   "tickerSlug": "O",
+   "direction": "AVOID",
+   "date": "2026-11-10T19:57:54.236247+00:00",
+   "price": "No stated price; price down ~14% over 5 yrs",
+   "video_id": "XCQcwwauIb0"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
