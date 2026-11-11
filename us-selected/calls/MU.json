@@ -3,6 +3,25 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "v2oNlrJDE6k",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Micron Stock Over Taiwan Semiconductor Stock Right Now? | MU vs. TSM",
+   "published_at": "2026-11-11T12:55:28.679505+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Market $729 (stated); DCF fair value $1,566; forward P/E 3.5",
+   "fair_value": "$1,566",
+   "thesis": "BUY reiterated (was BUY 9 Nov, FV $1,531) — his pick over TSM: record 80%+ operating margins two quarters running, longer-term customer contracts now dampen the old price volatility, and even with FCF growth peaking ~2028-29 the DCF still shows ~2x upside. He owns it.",
+   "base_case": "Longer-term contracts (price floor/ceiling) smooth the memory cycle; FCF growth peaks ~2028-29 then grows slowly.",
+   "bull_case": "Hyperscaler demand stays ahead of supply and pricing holds at record levels.",
+   "bear_case": "Peak-cycle earnings: the 3.5x P/E is peak EPS and margins collapse when the cycle turns, as in 2024 (-40% operating margin).",
+   "analyzed_at": "2026-11-11T14:58:06.321639+00:00",
+   "collab": false
+  },
+  {
    "video_id": "k7cmoCOfrtg",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -296,19 +315,19 @@
   },
   {
    "channel": "Couch Investor",
-   "idx": 1
-  },
-  {
-   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
+   "channel": "BWB - Business With Brian",
+   "idx": 3
+  },
+  {
    "channel": "MarketBeat",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 11
+   "idx": 12
   }
  ]
 }
