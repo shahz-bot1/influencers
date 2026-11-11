@@ -1,0 +1,48 @@
+{
+ "video_id": "dfjB8Cs9d2s",
+ "title": "Better Semiconductor Stock to Buy: Broadcom or Qualcomm? | AVGO Stock vs. QCOM Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-11",
+ "source_note": "Detailed summary generated from video captions; note: captions garble some words and the sponsor name in places",
+ "summary": "Parkevtate compares Broadcom and Qualcomm head-to-head; he owns both and wants to add to each, so the question is which to buy first. On earnings prospects, Broadcom's expected EPS growth has surged to 55%, driven by its custom-chip business helping companies such as Alphabet build proprietary chips, with sales in the tens of billions, while Qualcomm's EPS expectations are muted because smartphones, its main profit source, are strained by higher component prices caused partly by AI demand. Qualcomm is diversifying well, he argues: automotive is booming, its chips for computers and laptops are doing well, and data-center orders already run into the billions and should become meaningful from the second half of 2027, which is why he opened the position. On margins, Broadcom leads with operating margins above 48% against Qualcomm's 21% and falling, though Qualcomm's return on invested capital is higher at 33% versus Broadcom's 26%. Both are asset-light, outsourcing manufacturing to TSMC. On valuation, Broadcom trades at a forward P/E of 10.6, its cheapest in years, against Qualcomm's 14.3, but his DCF fair values flip the ranking: $462 for Broadcom versus a $320 price (about 44% upside) and $279 for Qualcomm versus $175 (about 60% upside), so overall the valuation gap is negligible. He picks Broadcom, but calls it a close call and wants more of both. He also flags the Nvidia scandal, with Nvidia down over 5%, and notes Nvidia reports on 17 November, which he will cover live for channel members. Both stocks are BUY reiterations.",
+ "calls": [
+  {
+   "video_id": "dfjB8Cs9d2s",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Better Semiconductor Stock to Buy: Broadcom or Qualcomm? | AVGO Stock vs. QCOM Stock",
+   "published_at": "2026-11-11T14:45:28.679505+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Market $320 (stated); DCF fair value $462; forward P/E 10.6",
+   "fair_value": "$462",
+   "thesis": "BUY reiterated (was BUY 10 Nov, same FV $462) — his pick over QCOM: EPS growth estimates surging to +55%, forward P/E 10.6 cheapest in years, custom-chip business for Alphabet booming. He owns it and wants to add more.",
+   "base_case": "AI custom-chip orders keep compounding; EPS growth ~55% materialises.",
+   "bull_case": "Hyperscaler custom silicon keeps winning share; valuation re-rates off a decade-cheap multiple.",
+   "bear_case": "NVDA earnings on 17 Nov reset the whole AI tape; semiconductor mix shift pressures margins.",
+   "analyzed_at": "2026-11-11T14:58:06.321639+00:00",
+   "collab": false
+  },
+  {
+   "video_id": "dfjB8Cs9d2s",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Better Semiconductor Stock to Buy: Broadcom or Qualcomm? | AVGO Stock vs. QCOM Stock",
+   "published_at": "2026-11-11T14:45:28.679505+00:00",
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Market $175 (stated); DCF fair value $279; forward P/E 14.3",
+   "fair_value": "$279",
+   "thesis": "BUY reiterated (was BUY 5 Nov, FV $281) — loses the head-to-head to AVGO but still undervalued ~60% on DCF: automotive diversifying away from smartphones, data-centre orders already in the billions and meaningful from H2 2027. He owns it and wants more of both.",
+   "base_case": "Data-centre revenue becomes meaningful from H2 2027; auto and PC/laptop segments keep diversifying revenue.",
+   "bull_case": "Data-centre build-out orders scale faster than expected; smartphone headwinds fade.",
+   "bear_case": "Smartphone industry strain from higher component pricing keeps EPS expectations muted; operating margins (21%) stay on a downtrend.",
+   "analyzed_at": "2026-11-11T14:58:06.321639+00:00",
+   "collab": false
+  }
+ ]
+}
