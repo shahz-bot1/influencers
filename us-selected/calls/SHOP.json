@@ -3,6 +3,24 @@
  "slug": "SHOP",
  "calls": [
   {
+   "video_id": "bmefL0adiZ4",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "History Is About to Be Made (The Post-Midterm Rally Starts on THIS Date)",
+   "published_at": "2026-11-10T23:57:54.236247+00:00",
+   "ticker": "SHOP",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Pulled back to under $140 from ~$180 peak (Oct); lows $110 -> $124 -> $136",
+   "thesis": "Shopify is a perfect dip candidate: strong Nov 3 earnings, still in an uptrend (higher highs, higher lows), smart money accumulating on the sell-off.",
+   "base_case": "Uptrend intact with rising lows; bullish Power Gauge rating.",
+   "bull_case": "AI-powered e-commerce moat as the second source to Amazon; businesses wary of Amazon competing with them.",
+   "bear_case": "Pulled back ~20% in a month; earlier 2026 fears that AI would displace its offering.",
+   "analyzed_at": "2026-11-11T11:00:17Z",
+   "collab": false
+  },
+  {
    "video_id": "TkobBIJzPk0",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -23,8 +41,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
