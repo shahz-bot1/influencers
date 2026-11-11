@@ -3,6 +3,25 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "i4Rh8-uJ_Jw",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "We Need To Talk About Nvidia, CoreWeave and Nebius Before Tomorrow",
+   "published_at": "2026-11-11T16:00:00.311469+00:00",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No stated price; up ~15-16% on the day, still ~60% below 52-week high",
+   "fair_value": "Not stated",
+   "thesis": "BUY — reiterated (last explicit BUY 25 Oct). Excellent Q3: revenue +168% YoY, $132.5bn backlog (+138%), guidance raised, margins improving two quarters running; renewal of 300k paid-off GPUs in 2027-28 could unlock ~$10bn annualised revenue with no new capex.",
+   "base_case": "FY26 revenue $13-13.3bn guided; adjusted EBITDA less D&A less interest improving every quarter, positive in about a year.",
+   "bull_case": "Renewal pricing $20-25m/MW long-term, $40m+/MW short-term; parent-level capital raises capped at $5bn through 2027.",
+   "bear_case": "Still GAAP net loss; interest expense up 30% QoQ to ~$1.1bn; heavy debt load means the story depends on the margin trend continuing.",
+   "analyzed_at": "2026-11-11T19:03:50.105964+00:00",
+   "collab": false
+  },
+  {
    "video_id": "yaVPpVzXCPI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -141,16 +160,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
-   "idx": 5
+   "channel": "MarketBeat",
+   "idx": 2
   }
  ]
 }
