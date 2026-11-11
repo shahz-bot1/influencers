@@ -3,6 +3,25 @@
  "slug": "DKNG",
  "calls": [
   {
+   "video_id": "ANKxq4k3ptk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "DraftKings Stock: Buy the Dip? | DKNG Stock Analysis",
+   "published_at": "2026-11-11T17:00:00.311469+00:00",
+   "ticker": "DKNG",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$18.51 (stated)",
+   "fair_value": "$31.52 (DCF)",
+   "thesis": "BUY — reiterated (was BUY 2 Nov), conviction upgraded low to medium. Forward P/E 10.75, cheapest in years; DCF $31.52 vs $18.51; risk/reward worthwhile despite prediction-market competition.",
+   "base_case": "Revenue $6.2bn TTM (+19% YoY); prediction markets expand TAM toward ~$100bn at maturity; DKNG now #3 in prediction markets.",
+   "bull_case": "Regulatory reversal (Democrats taking House and Senate) could restore DKNG's state-by-state dominance; renewal-free upside if it regains share.",
+   "bear_case": "Prediction-market entrants (Kambi, Playtech) lead DKNG; investments to compete are cutting profitability; Q3 disappointed on the bottom line.",
+   "analyzed_at": "2026-11-11T19:03:50.105964+00:00",
+   "collab": false
+  },
+  {
    "video_id": "1JccECudmGk",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
