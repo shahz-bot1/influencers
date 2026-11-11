@@ -3,6 +3,25 @@
  "slug": "TSM",
  "calls": [
   {
+   "video_id": "v2oNlrJDE6k",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Micron Stock Over Taiwan Semiconductor Stock Right Now? | MU vs. TSM",
+   "published_at": "2026-11-11T12:55:28.679505+00:00",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Market $390 (stated); DCF fair value $567; forward P/E 16.7",
+   "fair_value": "$567",
+   "thesis": "BUY reiterated (was BUY 6 Nov, FV $566) — calls it the best manufacturing company in the world: operating margins ~58% TTM and far more consistent than Micron's, but loses the head-to-head on valuation. He does not own it yet and is interested in buying.",
+   "base_case": "Demand keeps exceeding supply; overseas fabs diversify the footprint at some margin cost.",
+   "bull_case": "AI build-out keeps wafer demand ahead of supply; pricing power offsets higher overseas costs.",
+   "bear_case": "Taiwan/China geopolitical risk; gross margins guided down from 58% to 53% as US/Europe/Japan fabs ramp.",
+   "analyzed_at": "2026-11-11T14:58:06.321639+00:00",
+   "collab": false
+  },
+  {
    "video_id": "AffqGxKi0XE",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -117,16 +136,16 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
