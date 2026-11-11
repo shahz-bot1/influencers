@@ -3,6 +3,25 @@
  "slug": "IONQ",
  "calls": [
   {
+   "video_id": "q2JqEVpXc_A",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "IonQ Stock: Buy the Dip?",
+   "published_at": "2026-11-11T13:55:28.679505+00:00",
+   "ticker": "IONQ",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF fair value ~$54 (current price garbled in captions); forward P/S 16.7",
+   "fair_value": "$54",
+   "thesis": "BUY reiterated (upgraded 23 Sep, first-ever BUY; FV was $49-50) after a record Q3: revenue $174m, +336% YoY, DARPA stage C milestone hit, $3.7bn pro forma cash after a $2bn October raise. Buying opportunity ONLY for very high risk tolerance — one of the riskiest stocks in the market.",
+   "base_case": "Milestones keep landing on time and on budget; cash burn improves (operating cash flow/sales improved from -375% in 2024 to -170% TTM).",
+   "bull_case": "Quantum scales and the stock 5x-50x if management's ambitions land.",
+   "bear_case": "Continued losses and shareholder dilution; company may never reach self-sustaining revenue.",
+   "analyzed_at": "2026-11-11T14:58:06.321639+00:00",
+   "collab": false
+  },
+  {
    "video_id": "cbkQCsrubBM",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -62,11 +81,11 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   }
  ]
