@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T05:15:12.149992+00:00",
+ "updated": "2026-11-11T04:58:59.696494+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -1015,19 +1015,19 @@
   {
    "ticker": "HIMS",
    "slug": "HIMS",
-   "lastDate": "2026-11-03T05:30:00+00:00",
+   "lastDate": "2026-11-11T04:57:37.191771+00:00",
    "chips": [
     {
-     "dir": "BUY",
+     "dir": "HOLD",
      "n": 1,
-     "avg": "$6.4"
+     "avg": "$18"
     }
    ],
    "influencers": [
     "Asymmetric Investing"
    ],
-   "lastStated": "~$6.4B market cap; ~$2.6B revenue, H2 2026 guidance +50% YoY",
-   "nCalls": 2
+   "lastStated": "shares down ~18% after earnings, ~40% over the past month",
+   "nCalls": 3
   },
   {
    "ticker": "HOOD",
@@ -2405,8 +2405,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 28,
-   "nVideos": 13
+   "nCalls": 29,
+   "nVideos": 14
   },
   {
    "name": "Brian Feroldi",
@@ -2473,6 +2473,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "JozmYeJl-XM",
+   "title": "Hims & Hers Collapses 30% In a Week",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-11-10T20:55:35.005104+00:00",
+   "nCalls": 1
+  },
   {
    "id": "XpvoTf97TsE",
    "title": "Jensen Huang Affair and Nvidia Board Probe: What It Means for NVDA",
