@@ -3,6 +3,25 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "i4Rh8-uJ_Jw",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "We Need To Talk About Nvidia, CoreWeave and Nebius Before Tomorrow",
+   "published_at": "2026-11-11T16:00:00.311469+00:00",
+   "ticker": "NBIS",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "Was BUY on 7 Nov (adding); now HOLD — not buying before earnings.",
+   "price_at_call": "No stated price; up ~13-14% on the day; last add ~$150-160",
+   "fair_value": "Not stated",
+   "thesis": "HOLD — FLIP from BUY (was BUY 7 Nov). Holds a big position and expects NBIS to crush Thursday's earnings, but will NOT add before the print; a small add is possible, not planned.",
+   "base_case": "Revenue expected +520% YoY this quarter, +542% next; 2027 ARR could top $25bn; 1 GW of Vera Rubin online in 2027.",
+   "bull_case": "CoreWeave and IREN read-throughs point to the same strong GPU pricing; a big beat could trigger a major re-rating.",
+   "bear_case": "Stock makes very big moves on earnings; already up ~13-14% today into the print, so the gamble is asymmetric against adding now.",
+   "analyzed_at": "2026-11-11T19:03:50.105964+00:00",
+   "collab": false
+  },
+  {
    "video_id": "yaVPpVzXCPI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -311,20 +330,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 17
+   "idx": 18
   }
  ]
 }
