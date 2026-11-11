@@ -3,6 +3,25 @@
  "slug": "QCOM",
  "calls": [
   {
+   "video_id": "dfjB8Cs9d2s",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Better Semiconductor Stock to Buy: Broadcom or Qualcomm? | AVGO Stock vs. QCOM Stock",
+   "published_at": "2026-11-11T14:45:28.679505+00:00",
+   "ticker": "QCOM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Market $175 (stated); DCF fair value $279; forward P/E 14.3",
+   "fair_value": "$279",
+   "thesis": "BUY reiterated (was BUY 5 Nov, FV $281) — loses the head-to-head to AVGO but still undervalued ~60% on DCF: automotive diversifying away from smartphones, data-centre orders already in the billions and meaningful from H2 2027. He owns it and wants more of both.",
+   "base_case": "Data-centre revenue becomes meaningful from H2 2027; auto and PC/laptop segments keep diversifying revenue.",
+   "bull_case": "Data-centre build-out orders scale faster than expected; smartphone headwinds fade.",
+   "bear_case": "Smartphone industry strain from higher component pricing keeps EPS expectations muted; operating margins (21%) stay on a downtrend.",
+   "analyzed_at": "2026-11-11T14:58:06.321639+00:00",
+   "collab": false
+  },
+  {
    "video_id": "qVkz6eo5OkQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -113,7 +132,7 @@
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
