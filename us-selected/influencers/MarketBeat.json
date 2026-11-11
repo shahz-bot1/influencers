@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "SHOP",
+   "tickerSlug": "SHOP",
+   "direction": "BUY",
+   "date": "2026-11-10T23:57:54.236247+00:00",
+   "price": "Pulled back to under $140 from ~$180 peak (Oct); lows $110 -> $124 -> $136",
+   "video_id": "bmefL0adiZ4"
+  },
+  {
+   "ticker": "VEEV",
+   "tickerSlug": "VEEV",
+   "direction": "BUY",
+   "date": "2026-11-10T23:57:54.236247+00:00",
+   "price": "Only ~7% off high; jumped $240 -> $285 after last earnings; next earnings Dec",
+   "video_id": "bmefL0adiZ4"
+  },
+  {
+   "ticker": "ZS",
+   "tickerSlug": "ZS",
+   "direction": "BUY",
+   "date": "2026-11-10T23:57:54.236247+00:00",
+   "price": "Pulled back $260 -> $195 (~25% discount) in 7 days",
+   "video_id": "bmefL0adiZ4"
+  },
+  {
    "ticker": "TEM",
    "tickerSlug": "TEM",
    "direction": "BUY",
