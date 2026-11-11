@@ -4,6 +4,78 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "SE",
+   "tickerSlug": "SE",
+   "direction": "BUY",
+   "date": "2026-11-11T18:00:00.311469+00:00",
+   "price": "Just below $75 (stated); near 52-week low, was over $130 in August",
+   "video_id": "EY89N1U_pEw"
+  },
+  {
+   "ticker": "CHWY",
+   "tickerSlug": "CHWY",
+   "direction": "BUY",
+   "date": "2026-11-11T18:00:00.311469+00:00",
+   "price": "~$23 (stated)",
+   "video_id": "oB4nunfA-PI"
+  },
+  {
+   "ticker": "DKNG",
+   "tickerSlug": "DKNG",
+   "direction": "BUY",
+   "date": "2026-11-11T17:00:00.311469+00:00",
+   "price": "$18.51 (stated)",
+   "video_id": "ANKxq4k3ptk"
+  },
+  {
+   "ticker": "UNH",
+   "tickerSlug": "UNH",
+   "direction": "BUY",
+   "date": "2026-11-11T16:00:00.311469+00:00",
+   "price": "Not stated in captions (figures garbled); up almost 20% YTD 2026",
+   "video_id": "yMlNe3anpEc"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-11T14:45:28.679505+00:00",
+   "price": "Market $320 (stated); DCF fair value $462; forward P/E 10.6",
+   "video_id": "dfjB8Cs9d2s"
+  },
+  {
+   "ticker": "QCOM",
+   "tickerSlug": "QCOM",
+   "direction": "BUY",
+   "date": "2026-11-11T14:45:28.679505+00:00",
+   "price": "Market $175 (stated); DCF fair value $279; forward P/E 14.3",
+   "video_id": "dfjB8Cs9d2s"
+  },
+  {
+   "ticker": "IONQ",
+   "tickerSlug": "IONQ",
+   "direction": "BUY",
+   "date": "2026-11-11T13:55:28.679505+00:00",
+   "price": "DCF fair value ~$54 (current price garbled in captions); forward P/S 16.7",
+   "video_id": "q2JqEVpXc_A"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-11T12:55:28.679505+00:00",
+   "price": "Market $729 (stated); DCF fair value $1,566; forward P/E 3.5",
+   "video_id": "v2oNlrJDE6k"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-11-11T12:55:28.679505+00:00",
+   "price": "Market $390 (stated); DCF fair value $567; forward P/E 16.7",
+   "video_id": "v2oNlrJDE6k"
+  },
+  {
    "ticker": "BROS",
    "tickerSlug": "BROS",
    "direction": "BUY",
