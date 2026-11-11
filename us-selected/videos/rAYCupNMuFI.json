@@ -1,0 +1,29 @@
+{
+ "video_id": "rAYCupNMuFI",
+ "title": "Adobe Stock: Cheapest in a Decade Despite Record Profits",
+ "creator": "The German Value Investor",
+ "published_at": "2026-11-11",
+ "source_note": "Detailed summary generated from video captions; note: captions garble some figures and words (e.g. P/E rendered as 'AP ratio') in places",
+ "summary": "Adobe is posting record profits yet the stock is down 30% in 12 months and more than 50% from its 2021 peak near $700, now around $250, compressing the P/E from roughly 50 to about 14. The German Value Investor argues the business is still strong: since 2013 revenue has grown from $4 billion to $24 billion and net profit from $300 million to over $7 billion, with net margins now 25-30%, and 96% of revenue is recurring subscription income. In the first nine months revenue rose from about $17.6 billion to almost $20 billion, with about $5.8 billion of free cash flow, while the share count fell from 424 million to 395 million on heavy buybacks. He criticises past capital allocation, noting shares were bought back at over $500, and flags the Semrush acquisition at about $1.6-1.9 billion and management turnover with the CEO, CFO and creative head all leaving within months. The key risk is AI disruption: Canva, free Affinity and chatbots such as ChatGPT and Gemini are pulling smaller users away, though professional users are staying. His base case gives a fair value about 50% above the price, about 12% annual returns over 10 years, while a bear case of 2% earnings declines for five years then stagnation still yields 3% a year. With his buy limit at $270 and the price around $250, he calls Adobe a BUY, his first tracked call on the stock, but will keep it a small position given the AI uncertainty.",
+ "calls": [
+  {
+   "video_id": "rAYCupNMuFI",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "Adobe Stock: Cheapest in a Decade Despite Record Profits",
+   "published_at": "2026-11-11T12:55:28.679505+00:00",
+   "ticker": "ADBE",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Market ~$250 (stated); his buy limit $270; base-scenario fair value ~50% above current (~$375); bear-scenario fair value ~$190",
+   "fair_value": "~$375 (base scenario)",
+   "thesis": "BUY — first tracked ADBE call for him. Record profits, P/E compressed from ~50 to ~14 while revenue grew $4bn to $24bn since 2013; 96% recurring subscription revenue, ~$5.8bn FCF in 9 months, heavy buybacks. Staying invested and considering adding more, but not a large position — AI disruption risk and recent management turnover keep it small.",
+   "base_case": "Revenue keeps growing ~11%/yr for 5 years, then ~8%; fair P/E 17; ~12% annual returns over 10 years.",
+   "bull_case": "Fair price over 140% higher if growth holds and the market re-rates off a 14x P/E.",
+   "bear_case": "Even with earnings -2%/yr for 5 years then stagnation and a 10x P/E, returns stay ~+3%/yr; moat narrows as Canva, Affinity and AI image tools pull smaller users away.",
+   "analyzed_at": "2026-11-11T14:58:06.321639+00:00",
+   "collab": false
+  }
+ ]
+}
