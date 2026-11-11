@@ -1,0 +1,23 @@
+{
+ "video_id": "JozmYeJl-XM",
+ "title": "Hims & Hers Collapses 30% In a Week",
+ "creator": "Asymmetric Investing",
+ "handle": "@asymmetricinvesting",
+ "published_at": "2026-11-10T20:55:35.005104+00:00",
+ "summary": "Travis Holien (Asymmetric Investing) reacts to Hims & Hers' Q3 2026 earnings, published 10 November 2026, after the stock fell about 18% in late trading and roughly 40% over the past month — the title's '30% in a week' figure is not repeated in the captions. Revenue rose 49% year over year, but he argues the headline flatters the quarter because much of the growth came from the Eucalyptus acquisition, and management guided Q4 revenue slightly down. The core problem is mix: gross margin fell from about 83% to 57% as sales shifted to branded GLP-1s, though gross profit dollars still rose. Subscribers fell by about 100,000 quarter over quarter as the company moved away from low-cost ED and hair-loss products toward $150-plus monthly GLP-1s, TRT and peptides, while monthly revenue per subscriber climbed. SG&A fell nearly $20 million as marketing was pulled back ahead of 2027 launches, and full-year adjusted EBITDA guidance was cut. He flags two red flags: no 2030 guidance and no earnings presentation this quarter. The positives are TRT, peptides launching later in November (Sermorelin, glutathione, NAD+ first, BPC-157 and TB-500 later) made in-house in the US, and Andrew Huberman joining the board as an adviser. His call is a HOLD: he is not selling his shares and still sees a great company over 5–10 years on a subscription-health, Costco-style model, but he is no longer in buying mode and says management must prove the strategy over the next few quarters. Zeta Global gets only a passing mention as the new No. 2 holding; no call.",
+ "calls": [
+  {
+   "video_id": "JozmYeJl-XM",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "HIMS",
+   "direction": "HOLD",
+   "thesis": "Stance flip BUY (3 Nov) -> HOLD: after a disappointing Q3, he is NOT selling his shares and still calls Hims & Hers a great company to own over 5-10 years, but he is no longer adding — subscriber count fell ~100k QoQ, gross margin compressed 83% to 57% on the shift to branded GLP-1s, Q4 revenue guidance is slightly down vs Q3, full-year adjusted EBITDA guidance was cut, management skipped its usual 2030 guidance and earnings presentation. He says management has to answer the questions over the next handful of quarters.",
+   "price_at_call": "shares down ~18% after earnings, ~40% over the past month",
+   "base_case": "Long-term subscription-health / Costco model works: TRT and peptides (launching late Nov, made in-house in the US) re-accelerate customer growth in early 2027.",
+   "bull_case": "Peptides and TRT scale fast, Huberman board/adviser push lands, Hims becomes the platform that owns the customer relationship in a $400B+ pharma market.",
+   "bear_case": "Subscriber declines continue, competition from Ro/Amazon and small players overwhelms the model, peptide execution stumbles, or Q1 2027 guidance disappoints.",
+   "analyzed_at": "2026-11-11T04:57:37.191771+00:00"
+  }
+ ]
+}
