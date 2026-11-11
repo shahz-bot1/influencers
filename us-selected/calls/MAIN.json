@@ -1,0 +1,30 @@
+{
+ "ticker": "MAIN",
+ "slug": "MAIN",
+ "calls": [
+  {
+   "video_id": "XCQcwwauIb0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Get Paid Every Month Without Selling a Share",
+   "published_at": "2026-11-10T19:57:54.236247+00:00",
+   "ticker": "MAIN",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~6% yield/yr; 5-yr total return 86% vs S&P 76%",
+   "thesis": "Main Street Capital: lends to smaller private companies, never cut its regular monthly dividend since 2007; the only monthly dividend stock that made his list, keep it small.",
+   "base_case": "Never cut its regular monthly dividend since 2007; 5-yr total return beat the S&P.",
+   "bull_case": "Reliable monthly payer with a long no-cut record.",
+   "bear_case": "Sold first when investors fear private lending; fell ~64% in the 2020 COVID crash.",
+   "analyzed_at": "2026-11-11T11:00:17Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
