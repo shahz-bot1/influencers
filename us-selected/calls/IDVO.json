@@ -1,0 +1,30 @@
+{
+ "ticker": "IDVO",
+ "slug": "IDVO",
+ "calls": [
+  {
+   "video_id": "XCQcwwauIb0",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Get Paid Every Month Without Selling a Share",
+   "published_at": "2026-11-10T19:57:54.236247+00:00",
+   "ticker": "IDVO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~6% yield/yr; +81% total return over 3 yrs through Oct",
+   "thesis": "Amplify CWP International Enhanced Dividend Income ETF: dividend payers outside the US (TSM, big Japanese/Canadian banks).",
+   "base_case": "Best 3-yr total return of the five ETFs (+81% incl. dividends).",
+   "bull_case": "Diversifies dividend income away from the S&P 500.",
+   "bear_case": "Only ~4 years old, untested in a full bear market (-20% or more).",
+   "analyzed_at": "2026-11-11T11:00:17Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
