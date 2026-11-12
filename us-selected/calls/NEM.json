@@ -1,0 +1,31 @@
+{
+ "ticker": "NEM",
+ "slug": "NEM",
+ "calls": [
+  {
+   "video_id": "7mzj-HjCFOQ",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "A Once in a 100 Year Investment Opportunity Just Started (Felix Nikolas Prehn on Where He's Buying)",
+   "published_at": "2026-11-11T23:55:18.299396+00:00",
+   "ticker": "NEM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Off 10-12% from high; ~14x (stated)",
+   "fair_value": "Not stated",
+   "thesis": "BUY — first tracked. Blue-chip gold miner: generates real cash at $4,000/oz gold with extraction costs far below the price, so any gold rebound is leveraged into pure profit.",
+   "base_case": "Cash-generative at current gold prices; rebound in gold flows straight to profit.",
+   "bull_case": "Gold runs to $4,500-5,000 and miners throw off much more cash.",
+   "bear_case": "Gold falls and the leverage works the other way.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
