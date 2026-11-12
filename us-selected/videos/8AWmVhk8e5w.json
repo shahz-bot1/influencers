@@ -1,0 +1,29 @@
+{
+ "video_id": "8AWmVhk8e5w",
+ "title": "How Far Could Nvidia Stock Fall if Jensen Huang Resigns?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-11",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate sizes the worst case for Nvidia after the Jensen Huang scandal deepened. Over the weekend it emerged Huang had an affair with Alice Wang, whom the US government reportedly identified as a Chinese intelligence asset, with ties dating to at least 2023; The Information reported her firm may have helped facilitate at least $7.5 billion of Nvidia chips reaching Chinese companies. House Democratic leader Hakeem Jeffries wants answers, the FBI is looking into it, and President Trump sounded supportive of Huang. Parkevtate says the worst case is Huang stepping down or being fired: he is irreplaceable, with no clear successor and no CEO transition training comparable to Procter & Gamble. He puts the downside at 20-30%, citing Dan Ives, though closer to 20-25% in his own view. Even so, he argues the risk is priced in: the stock is already about $70 off its $243 high, trades at a 10.5x forward P/E, the cheapest in years, with demand soaring and product sold out through next year. His DCF fair value is $312 against a ~$169 price, about 85% upside, and he says the risk-reward would still be worthwhile even at $200. Other risks stack up too: hyperscalers building their own chips, circular financing, and AI-bubble worries. He is holding and interested in adding more ahead of Q3 earnings on 17 November. Call: NVDA BUY reiterated at ~$169, fair value $312.",
+ "calls": [
+  {
+   "video_id": "8AWmVhk8e5w",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "How Far Could Nvidia Stock Fall if Jensen Huang Resigns?",
+   "published_at": "2026-11-11T22:55:18.299396+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$169 (stated); DCF fair value $312",
+   "fair_value": "$312 (DCF)",
+   "thesis": "BUY reiterated — holding and interested in adding more. Worst case if Jensen Huang resigns/is fired is a 20-30% lower valuation, but the stock is already ~$70 off its $243 high, so the risk looks priced in; at a 10.5x forward P/E it is the cheapest in years with demand soaring and product sold out through next year.",
+   "base_case": "Downside capped at ~25% even if Jensen exits; 85% upside to $312 fair value in 12-18 months.",
+   "bull_case": "Demand soaring, sold out for the rest of this year and next; China sales approval could add further upside; even at $200 the risk/reward would still be worthwhile.",
+   "bear_case": "Jensen is irreplaceable with no clear successor and no CEO transition training; competition from hyperscalers' own chips, circular financing and AI-bubble worries already pressured the stock; Q3 earnings 17 Nov is the next risk event.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  }
+ ]
+}
