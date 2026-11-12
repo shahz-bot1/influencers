@@ -3,6 +3,38 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "GSmzKs643dQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": 289,
+   "thesis": "BUY reiterated (was BUY 7 Nov; no flip) — FV raised to $370. New TPUs (Ironwood-class) with Bloomberg seeing TPU sales $12B -> $135B+ by 2028; forward P/E 18.6, cheapest since mid-2025; Alphabet's chips win on price/performance vs Nvidia, though Nvidia still leads on peak power.",
+   "base_case": "TPU sales compound as hyperscaler alternative to Nvidia; Cloud + Search keep growing.",
+   "bull_case": "TPU sales >$135B by 2028; analyst EPS growth estimates (5.3%) revised higher after a stabilising quarter.",
+   "bear_case": "Nvidia still best-in-class on peak power; TPU gains come at AMD's expense, not Nvidia's.",
+   "analyzed_at": "2026-11-12T19:05:37Z"
+  },
+  {
+   "video_id": "7mzj-HjCFOQ",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "A Once in a 100 Year Investment Opportunity Just Started (Felix Nikolas Prehn on Where He's Buying)",
+   "published_at": "2026-11-11T23:55:18.299396+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Down ~28-29% (stated)",
+   "fair_value": "Not stated",
+   "thesis": "BUY reiterated (was BUY 29 Oct). Google is the most obvious AI winner: owns search (every query now gets an AI answer), has the distribution no challenger can replicate, owns one of the largest data-centre fleets (which becomes more valuable if fewer are built), and can simply buy any threatening new technology.",
+   "base_case": "Dominant moat in search/ads plus valuable data centres; survives any market drawdown.",
+   "bull_case": "AI makes Google's advertising business more profitable at lower cost.",
+   "bear_case": "A new technology displaces search, or AI capex keeps ballooning without payoff.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  },
+  {
    "video_id": "i8vFBCkcxqs",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -472,28 +504,28 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 4
+   "channel": "Couch Investor",
+   "idx": 2
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 6
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 7
+   "idx": 9
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 12
+   "idx": 14
   }
  ]
 }
