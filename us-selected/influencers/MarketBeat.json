@@ -4,6 +4,78 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "GOLD",
+   "tickerSlug": "GOLD",
+   "direction": "BUY",
+   "date": "2026-11-11T23:55:18.299396+00:00",
+   "price": "Gold ~$4,000 (stated)",
+   "video_id": "7mzj-HjCFOQ"
+  },
+  {
+   "ticker": "NEM",
+   "tickerSlug": "NEM",
+   "direction": "BUY",
+   "date": "2026-11-11T23:55:18.299396+00:00",
+   "price": "Off 10-12% from high; ~14x (stated)",
+   "video_id": "7mzj-HjCFOQ"
+  },
+  {
+   "ticker": "AEM",
+   "tickerSlug": "AEM",
+   "direction": "BUY",
+   "date": "2026-11-11T23:55:18.299396+00:00",
+   "price": "Not stated",
+   "video_id": "7mzj-HjCFOQ"
+  },
+  {
+   "ticker": "WPM",
+   "tickerSlug": "WPM",
+   "direction": "BUY",
+   "date": "2026-11-11T23:55:18.299396+00:00",
+   "price": "Down ~18% (stated)",
+   "video_id": "7mzj-HjCFOQ"
+  },
+  {
+   "ticker": "EMR",
+   "tickerSlug": "EMR",
+   "direction": "BUY",
+   "date": "2026-11-11T23:55:18.299396+00:00",
+   "price": "Off ~5% (stated)",
+   "video_id": "7mzj-HjCFOQ"
+  },
+  {
+   "ticker": "CEG",
+   "tickerSlug": "CEG",
+   "direction": "BUY",
+   "date": "2026-11-11T23:55:18.299396+00:00",
+   "price": "Down 30-40% (stated); pays a dividend",
+   "video_id": "7mzj-HjCFOQ"
+  },
+  {
+   "ticker": "VST",
+   "tickerSlug": "VST",
+   "direction": "BUY",
+   "date": "2026-11-11T23:55:18.299396+00:00",
+   "price": "Down ~40%+ (stated)",
+   "video_id": "7mzj-HjCFOQ"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-11-11T23:55:18.299396+00:00",
+   "price": "Down ~28-29% (stated)",
+   "video_id": "7mzj-HjCFOQ"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-11-11T23:55:18.299396+00:00",
+   "price": "Down ~30% YTD (stated)",
+   "video_id": "7mzj-HjCFOQ"
+  },
+  {
    "ticker": "SHOP",
    "tickerSlug": "SHOP",
    "direction": "BUY",
