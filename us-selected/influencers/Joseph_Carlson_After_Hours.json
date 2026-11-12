@@ -4,6 +4,46 @@
  "slug": "Joseph_Carlson_After_Hours",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-11T20:55:18.299396+00:00",
+   "price": "~$174 (stated); 12.6x forward P/E",
+   "video_id": "T3LdlJH2iLE"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-11T20:55:18.299396+00:00",
+   "price": "Buy trigger $60 (stated); will add $10,000",
+   "video_id": "T3LdlJH2iLE"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-11T20:55:18.299396+00:00",
+   "price": "Buy trigger below $60 (stated); ~16x forward P/E at $60",
+   "video_id": "T3LdlJH2iLE"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-11T20:55:18.299396+00:00",
+   "price": "Not stated; late-March dip recovered above $650, now down again",
+   "video_id": "T3LdlJH2iLE"
+  },
+  {
+   "ticker": "COST",
+   "tickerSlug": "COST",
+   "direction": "HOLD",
+   "date": "2026-11-11T20:55:18.299396+00:00",
+   "price": "Holds ~$93,000, up ~2.7x; $30 special dividend declared (~3% yield)",
+   "video_id": "T3LdlJH2iLE"
+  },
+  {
    "ticker": "GOOGL",
    "tickerSlug": "GOOGL",
    "direction": "HOLD",
