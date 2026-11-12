@@ -1,0 +1,31 @@
+{
+ "ticker": "VST",
+ "slug": "VST",
+ "calls": [
+  {
+   "video_id": "7mzj-HjCFOQ",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "A Once in a 100 Year Investment Opportunity Just Started (Felix Nikolas Prehn on Where He's Buying)",
+   "published_at": "2026-11-11T23:55:18.299396+00:00",
+   "ticker": "VST",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Down ~40%+ (stated)",
+   "fair_value": "Not stated",
+   "thesis": "BUY — first tracked. Vistra, like Constellation, is a profitable power company with real earnings and contracts — the boring, profitable version of the AI-power play rather than a moonshot.",
+   "base_case": "Profitable generator with real contracts; grows with electricity demand.",
+   "bull_case": "Power demand growth lifts the profitable generators.",
+   "bear_case": "AI demand disappoints and the sector stays depressed.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
