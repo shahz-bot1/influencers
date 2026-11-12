@@ -1,0 +1,31 @@
+{
+ "ticker": "GOLD",
+ "slug": "GOLD",
+ "calls": [
+  {
+   "video_id": "7mzj-HjCFOQ",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "A Once in a 100 Year Investment Opportunity Just Started (Felix Nikolas Prehn on Where He's Buying)",
+   "published_at": "2026-11-11T23:55:18.299396+00:00",
+   "ticker": "GOLD",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Gold ~$4,000 (stated)",
+   "fair_value": "Not stated",
+   "thesis": "BUY — first tracked MarketBeat gold call (guest Felix Nikolas Prehn). Gold is a 10+ year safety play: gold doesn't go up, the dollar goes down; the Fed is printing at astounding rates, so gold protects against inflation.",
+   "base_case": "Long-horizon inflation hedge; money printing lifts gold over time.",
+   "bull_case": "Dollar debasement accelerates and gold re-rates well above $4,000.",
+   "bear_case": "War lifts oil/inflation expectations and rates, making bonds more attractive and pressuring gold; Middle East sellers add supply.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
