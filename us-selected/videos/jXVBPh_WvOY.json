@@ -1,0 +1,28 @@
+{
+ "video_id": "jXVBPh_WvOY",
+ "title": "IREN Stock: Buy or Sell?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-12",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate explains why IREN is down 68% over six months and whether the dip is a buying opportunity. The latest quarter had good news: new multi-year contracts, including with a leading frontier AI lab, took the revenue backlog above $20 billion, two-thirds of it with investment-grade customers; Horizon 1 was handed over to Microsoft with Nvidia exemplar cloud status; operating annual recurring revenue doubled to $1 billion and adjusted EBITDA margin rose from 14% to 29%. The bad news is execution: the target of more than $4 billion of operating ARR online by the end of 2026 has slipped to January or February 2027 while remaining equipment arrives, which he reads as a warning about delivering on contracted timelines amid industry-wide supply shortages. Demand itself has not slowed: contracts signed at $22 million of annualised revenue per megawatt on five-year terms, and over $40 million per megawatt on shorter terms, with customer prepayments covering about 90% of the associated GPU capex. The balance sheet is worsening, with $10.2 billion of long-term debt against $5.7 billion of cash, versus roughly $7 billion of each a few months ago. He argues IREN differs from a typical neocloud because it owns the land, power, infrastructure and compute, giving lenders collateral. Forward price-to-sales is about 1, the cheapest since 2024, and his updated DCF fair value is $32 against a $19.73 market price. Call: IREN BUY reiterated, medium conviction: one of the riskiest stocks in the market, but the reward justifies the risk.",
+ "calls": [
+  {
+   "video_id": "jXVBPh_WvOY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "IREN Stock: Buy or Sell?",
+   "published_at": "2026-11-12T13:55:40.914585+00:00",
+   "ticker": "IREN",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "$19.73",
+   "fair_value": "$32",
+   "thesis": "BUY reiterated, medium conviction — one of the riskiest stocks in the market, but reward justifies the risk; $20bn+ backlog, cheapest on forward price-to-sales since 2024.",
+   "base_case": "Backlog converts to revenue; $4bn ARR target slips only to Jan/Feb 2027 on equipment delays.",
+   "bull_case": "Demand unslowed, $22m/MW 5-year contracts with ~90% customer prepay of GPU capex.",
+   "bear_case": "Execution slips and heavy upfront capex strain the balance sheet ($10.2bn debt vs $5.7bn cash).",
+   "analyzed_at": "2026-11-12T15:00:01.649616+00:00",
+   "collab": false
+  }
+ ]
+}
