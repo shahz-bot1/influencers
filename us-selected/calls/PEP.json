@@ -3,6 +3,25 @@
  "slug": "PEP",
  "calls": [
   {
+   "video_id": "ZYeZiDarwGw",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "Nike, PayPal, Adobe, Netflix, PepsiCo: Which Is Actually Cheap Now?",
+   "published_at": "2026-11-12T11:55:40.914585+00:00",
+   "ticker": "PEP",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "Was SELL on 18 Oct; now HOLD — on the sidelines, fair price $80 vs ~$140, buy limit $55.",
+   "price_at_call": "~$140",
+   "fair_value": "$80 (buy limit $55)",
+   "thesis": "On the sidelines — dividend aristocrat at 4%+ yield, but barely growing and highly indebted; fair P/E ~10, about half today's multiple.",
+   "base_case": "4% growth with 70% payout still leaves the stock fairly valued only at a much lower multiple.",
+   "bull_case": "8% then 6% growth gets it roughly to fair value; still only ~10% downside even in the positive scenario.",
+   "bear_case": "Fair price $80 implies ~44% downside from ~$140.",
+   "analyzed_at": "2026-11-12T15:00:01.649616+00:00",
+   "collab": false
+  },
+  {
    "video_id": "J-OmpNfuFX0",
    "channel": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
@@ -70,7 +89,7 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
