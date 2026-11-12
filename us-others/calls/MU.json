@@ -3,6 +3,21 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "KB6BUs0VDrE",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_title": "9 Insanely Cheap AI Stocks to Buy Now",
+   "published_at": "2026-11-11T16:55:34.790305+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "thesis": "BUY reiterated: 'put this on your list of stocks to look at maybe stocks to buy' — 146% upside even at a conservative 7x price-to-sales on $275bn revenue (+107% this year); $58bn free cash flow and one of only three global DRAM makers.",
+   "base_case": "At 7x sales on $275bn revenue, ~146% upside to a ~$2tn market cap.",
+   "bull_case": "At 10x sales the upside is ~252%; memory shortage keeps prices and margins high.",
+   "bear_case": "Memory cyclicality returns: revenue growth hits a wall at 16% next year and overproduction kills pricing.",
+   "price_at_call": "$782bn market cap",
+   "analyzed_at": "2026-11-12T04:59:16.436274+00:00"
+  },
+  {
    "video_id": "XHNZMOhHa8g",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -77,11 +92,11 @@
   },
   {
    "channel": "Jose Najarro Stocks",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
