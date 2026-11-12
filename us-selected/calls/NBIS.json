@@ -3,6 +3,19 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "wv8qzrG8M1M",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": 125,
+   "thesis": "FLIP: HOLD (11 Nov) -> CONDITIONAL_BUY — remains bullish, may add in the next couple of days once the market calms after the Jensen news. Q3 headline beat but core revenue only +13% QoQ, ARR delayed to Feb 2027; 2027 revenue midpoint $12.5B (4x), breakeven Q4 2027, ~3.2x next-year sales; his $59 avg 'still very well protected'.",
+   "base_case": "2027 revenue $12-13B, breakeven Q4 2027.",
+   "bull_case": "Prepayments $10B committed rising to $17-20B; profitable by end-2028 at multi-GW scale.",
+   "bear_case": "Q3 core miss + ARR delay; data-centre delays (DataOne) can slip revenue again.",
+   "analyzed_at": "2026-11-12T19:05:37Z"
+  },
+  {
    "video_id": "i4Rh8-uJ_Jw",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -335,15 +348,15 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "MarketBeat",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 18
+   "idx": 19
   }
  ]
 }
