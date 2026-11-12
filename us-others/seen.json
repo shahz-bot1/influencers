@@ -66,10 +66,9 @@
  },
  "Of4_80Z_cvY": {
   "channel": "Asymmetric Investing",
-  "handle": "@asymmetricinvesting",
   "title": "Asymmetric Portfolio: October Stock Buys",
-  "published_at": "2026-10-10T04:55:36.498969+00:00",
-  "analyzed_at": "2026-11-11T04:57:37.191771+00:00",
+  "published_at": "2026-10-13T04:55:34.790305+00:00",
+  "analyzed_at": "2026-11-12T04:59:16.436274+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
@@ -493,10 +492,9 @@
  },
  "A8juPdhm1aM": {
   "channel": "Asymmetric Investing",
-  "handle": "@asymmetricinvesting",
   "title": "Asymmetric Portfolio Buys - November 2026",
-  "published_at": "2026-11-05T04:55:36.498969+00:00",
-  "analyzed_at": "2026-11-11T04:57:37.191771+00:00",
+  "published_at": "2026-11-05T04:55:34.790305+00:00",
+  "analyzed_at": "2026-11-12T04:59:16.436274+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
@@ -570,6 +568,20 @@
   "title": "Hims & Hers Collapses 30% In a Week",
   "published_at": "2026-11-10T20:55:35.005104+00:00",
   "analyzed_at": "2026-11-11T04:57:37.191771+00:00",
+  "alerted": true
+ },
+ "fpJfxrgZz1o": {
+  "channel": "Daniel Pronk",
+  "title": "Buy The Dip On Nvidia Or Wait It Out?",
+  "published_at": "2026-11-11T21:55:34.790305+00:00",
+  "analyzed_at": "2026-11-12T04:59:16.436274+00:00",
+  "alerted": true
+ },
+ "KB6BUs0VDrE": {
+  "channel": "Joseph Hogue, CFA",
+  "title": "9 Insanely Cheap AI Stocks to Buy Now",
+  "published_at": "2026-11-11T16:55:34.790305+00:00",
+  "analyzed_at": "2026-11-12T04:59:16.436274+00:00",
   "alerted": true
  }
 }
