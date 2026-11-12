@@ -1,0 +1,23 @@
+{
+ "video_id": "wv8qzrG8M1M",
+ "title": "The Nvidia Chaos: Is This a Buying Opportunity?",
+ "creator": "Couch Investor",
+ "published_at": "2026-11-12",
+ "source_note": "Detailed summary generated from video captions; note: captions garble several names and figures in places",
+ "summary": "Couch Investor reacts to the biggest Nvidia news yet: Jensen Huang has resigned, CFO Colette Kress is interim CEO, and Nvidia has appointed its first-ever board chair. The stock fell 5.7% and at one point touched $150. Broadcom and AMD rose on the perception that Huang's exit hands them more business, a logic he doubts. Fundamentally he says the business is unchanged: Nvidia is still guiding at least 70% growth for the next fiscal year, possibly 80%, the roadmap is set, and contracts with TSMC, Meta, Microsoft, Google and Amazon will not change because the CEO left. Even so, he makes no explicit Nvidia call and says do not rush to buy at about $163: wait until after Tuesday 17 November earnings for clarity. The second half covers Nebius Q3: headline revenue beat at $980.8 million versus roughly $970 million consensus, but $325 million of that was one-off revenue recognition, core revenue was only $656 million, up just 13% quarter over quarter, and the $7-9 billion ARR target slipped from December to February 2027. The 2027 revenue midpoint is $12.5 billion, a fourfold increase, with breakeven expected in Q4 2027 and prepayments rising from $10 billion toward $17-20 billion. The stock fell 18.4% to about $125-126. He flips NBIS from HOLD to CONDITIONAL_BUY at about $125: he remains bullish, may add once the market calms, and notes the stock trades at about 3.2x next-year sales with his $59 average well protected. Note: auto-captions garble names (Huang as 'Wong', Kress as 'Crest').",
+ "calls": [
+  {
+   "video_id": "wv8qzrG8M1M",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "ticker": "NBIS",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": 125,
+   "thesis": "FLIP: HOLD (11 Nov) -> CONDITIONAL_BUY — remains bullish, may add in the next couple of days once the market calms after the Jensen news. Q3 headline beat but core revenue only +13% QoQ, ARR delayed to Feb 2027; 2027 revenue midpoint $12.5B (4x), breakeven Q4 2027, ~3.2x next-year sales; his $59 avg 'still very well protected'.",
+   "base_case": "2027 revenue $12-13B, breakeven Q4 2027.",
+   "bull_case": "Prepayments $10B committed rising to $17-20B; profitable by end-2028 at multi-GW scale.",
+   "bear_case": "Q3 core miss + ARR delay; data-centre delays (DataOne) can slip revenue again.",
+   "analyzed_at": "2026-11-12T19:05:37Z"
+  }
+ ]
+}
