@@ -4,6 +4,14 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "AVOID",
+   "date": "2026-11-11T21:55:34.790305+00:00",
+   "price": "No share price stated; 15x forward P/E, lowest since 2012",
+   "video_id": "fpJfxrgZz1o"
+  },
+  {
    "ticker": "ROAD",
    "tickerSlug": "ROAD",
    "direction": "BUY",
