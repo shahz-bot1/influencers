@@ -3,6 +3,44 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "7mzj-HjCFOQ",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "A Once in a 100 Year Investment Opportunity Just Started (Felix Nikolas Prehn on Where He's Buying)",
+   "published_at": "2026-11-11T23:55:18.299396+00:00",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Down ~30% YTD (stated)",
+   "fair_value": "Not stated",
+   "thesis": "BUY — first tracked for MarketBeat. Uber is now free-cash-flow positive and self-funding, dominates mobility distribution (hundreds of millions have the app), and the self-driving threat is backwards — Tesla would rather lease robotaxis to Uber than replicate its distribution, regulation and pricing power.",
+   "base_case": "Self-funding dominant platform; distribution wins whatever the next transport mode is.",
+   "bull_case": "Robotaxi fleets get sold through Uber's channel and margins expand.",
+   "bear_case": "Self-driving rivals bypass Uber and undercut its take rate.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  },
+  {
+   "video_id": "T3LdlJH2iLE",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "5 Quality Stocks To Buy On A Huge Dip",
+   "published_at": "2026-11-11T20:55:18.299396+00:00",
+   "ticker": "UBER",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Buy trigger $60 (stated); will add $10,000",
+   "fair_value": "Not stated",
+   "thesis": "CONDITIONAL_BUY reiterated — will add $10,000 if Uber drops to $60. Good combination of growth and price; otherwise holding. (Same conditional stance as his 2 Nov price-target video.)",
+   "base_case": "Uber dips to $60 and he adds $10,000; growth at a low valuation.",
+   "bull_case": "Dip to $60 gives a low-valuation entry into a high-quality grower.",
+   "bear_case": "Stock never reaches $60, so no add; or growth slows at current prices.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  },
+  {
    "video_id": "AtubYu6Yemw",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -172,20 +210,24 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 5
+   "idx": 1
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 7
+   "idx": 9
   },
   {
    "channel": "Couch Investor",
-   "idx": 9
+   "idx": 11
   }
  ]
 }
