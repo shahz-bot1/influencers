@@ -3,6 +3,25 @@
  "slug": "CEG",
  "calls": [
   {
+   "video_id": "7mzj-HjCFOQ",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "A Once in a 100 Year Investment Opportunity Just Started (Felix Nikolas Prehn on Where He's Buying)",
+   "published_at": "2026-11-11T23:55:18.299396+00:00",
+   "ticker": "CEG",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Down 30-40% (stated); pays a dividend",
+   "fair_value": "Not stated",
+   "thesis": "BUY — first tracked. Constellation Energy is a profitable power generator with real earnings, real power contracts and a dividend — the established side of the AI-power trade that got damaged by the selloff while the fundamental business is intact.",
+   "base_case": "Real cash flow and offtake agreements; unlikely to go to zero, governments would step in.",
+   "bull_case": "Power demand growth re-rates the profitable generators.",
+   "bear_case": "AI buildout disappoints and power stocks stay out of favour.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  },
+  {
    "video_id": "4Rh8fxlUvVQ",
    "channel": "Parkevtate Vosianc CFA",
    "title": "Massive News for Alphabet Stock and Constellation Energy Stock Investors | GOOG Stock | CEG Stock",
@@ -22,8 +41,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
