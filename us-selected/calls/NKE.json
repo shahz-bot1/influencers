@@ -3,6 +3,24 @@
  "slug": "NKE",
  "calls": [
   {
+   "video_id": "ZYeZiDarwGw",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "Nike, PayPal, Adobe, Netflix, PepsiCo: Which Is Actually Cheap Now?",
+   "published_at": "2026-11-12T11:55:40.914585+00:00",
+   "ticker": "NKE",
+   "direction": "HOLD",
+   "flip": false,
+   "price_at_call": "Not stated",
+   "fair_value": "Buy limit ~$21",
+   "thesis": "Staying on the sidelines — margins collapsed from 10-13% to ~5%; $2.5bn cost-cutting may restore them by 2031, but the brand is losing customers and the weighted return is under 5% a year.",
+   "base_case": "Normal scenario: fair price ~$30, margin-of-safety ~$23 — not cheap at current levels.",
+   "bull_case": "Margins recover to 20% earnings growth for 5 years; fair price $60, over 50% upside.",
+   "bear_case": "Profits fall 7% a year and the brand keeps losing share; 80% downside.",
+   "analyzed_at": "2026-11-12T15:00:01.649616+00:00",
+   "collab": false
+  },
+  {
    "video_id": "J7BNeWyVHGI",
    "channel": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
@@ -69,11 +87,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
