@@ -3,6 +3,21 @@
  "slug": "ALAB",
  "calls": [
   {
+   "video_id": "KB6BUs0VDrE",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_title": "9 Insanely Cheap AI Stocks to Buy Now",
+   "published_at": "2026-11-11T16:55:34.790305+00:00",
+   "ticker": "ALAB",
+   "direction": "BUY",
+   "thesis": "Long-time favourite in AI networking connectivity: revenue expected +125-137% to ~$2bn this year; at 23x price-to-sales (its low over the past year) fair value is ~$46bn market cap vs $33.2bn now, about 39% upside.",
+   "base_case": "Investors return to the AI theme and pay 23x sales on $2bn revenue for ~39% upside.",
+   "bull_case": "Analyst estimates keep being raised (124% to 137% growth in days) and the multiple re-rates toward its June peak of 86x sales.",
+   "bear_case": "Price-to-sales stays compressed on AI-bust fears and the growth forecast disappoints.",
+   "price_at_call": "$33.2bn market cap",
+   "analyzed_at": "2026-11-12T04:59:16.436274+00:00"
+  },
+  {
    "video_id": "fOe_Ck6pBsE",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -48,12 +63,12 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Hogue, CFA",
-   "idx": 2
+   "channel": "Jose Najarro Stocks",
+   "idx": 1
   }
  ]
 }
