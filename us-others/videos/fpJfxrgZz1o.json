@@ -1,0 +1,25 @@
+{
+ "video_id": "fpJfxrgZz1o",
+ "title": "Buy The Dip On Nvidia Or Wait It Out?",
+ "creator": "Daniel Pronk",
+ "handle": "@danielpronk",
+ "published_at": "2026-11-11T21:55:34.790305+00:00",
+ "summary": "Daniel Pronk answers viewer requests on Nvidia after a 27% correction left it at a 15x forward P/E, the lowest since 2012. The sell-off follows CEO Jensen Huang admitting an affair with Alice Wang, who US officials allege was recruited by China's Ministry of State Security and whose network allegedly moved $7.5bn of Nvidia chips to China; the board has opened an independent investigation and the Justice Department is investigating Mega Speed, not Nvidia or Jensen. Pronk reads Jensen's apology note to staff and rejects speculation about an open relationship. He compares past CEO-affair cases (HP, Best Buy, Booking, Intel, TI, Amazon, Microsoft, Google): stocks fell on the news but the businesses mostly kept growing, so affairs alone did not decide long-term prices. His worry is specific to Nvidia: Jensen is the face of AI, there is no succession plan, and 60 directors report directly to him, so losing him would be disruptive. His DCF on analyst estimates (15% earnings growth to 2034, 25x terminal P/E) implies ~18% annual returns over 8 years, and if margins hold today's prices look cheap — but he is not a buyer, citing margin risk from Google, Amazon and AMD competition and an eventual AI capex slowdown, and says he finds better certainty in Amazon, Meta and an electrical-infrastructure holding. Caption garble: the infrastructure holding's name is rendered as 'Tasa' and could not be verified.",
+ "calls": [
+  {
+   "video_id": "fpJfxrgZz1o",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "video_title": "Buy The Dip On Nvidia Or Wait It Out?",
+   "published_at": "2026-11-11T21:55:34.790305+00:00",
+   "ticker": "NVDA",
+   "direction": "AVOID",
+   "thesis": "Not buying the dip despite a 15x forward P/E (lowest since 2012) and a DCF implying ~18% CAGR over 8 years: the Jensen affair leaves Nvidia with no succession plan (60 direct reports, no replacement) and he sees margin risk from Google/Amazon/AMD competition plus an eventual AI capex slowdown; better certainty elsewhere (Amazon, Meta, an electrical-infrastructure holding).",
+   "base_case": "Affair is a short-term sentiment hit; fundamentals keep growing and the stock compounds with the business.",
+   "bull_case": "If margins hold and analyst earnings (~$640bn by 2031) come true, today's prices are very cheap.",
+   "bear_case": "Jensen steps down with no succession plan, pricing power erodes as competitors catch up, and the AI buildout slows, re-rating chip names lower.",
+   "price_at_call": "No share price stated; 15x forward P/E, lowest since 2012",
+   "analyzed_at": "2026-11-12T04:59:16.436274+00:00"
+  }
+ ]
+}
