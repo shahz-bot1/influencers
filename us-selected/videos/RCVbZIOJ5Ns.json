@@ -1,0 +1,23 @@
+{
+ "video_id": "RCVbZIOJ5Ns",
+ "title": "Tesla Just Revealed the NEXT BIG Investing Boom",
+ "creator": "Mark Roussin CPA",
+ "published_at": "2026-11-12",
+ "source_note": "Detailed summary generated from video captions; note: captions garble several names and figures in places",
+ "summary": "Roussin argues robotics, or 'physical AI', could be the next major investment theme as AI moves from the digital world into the physical one. Tesla has begun early production of its Optimus humanoid robots at Fremont, and Elon Musk said at a Baron conference on 6 November that Tesla could rent the robots out rather than sell them, a model that lowers upfront costs for businesses and creates recurring revenue. Musk's targets are up to 1 million Optimus robots in 2027 at a 20,000-per-week ramp, with manufacturing costs falling toward $20,000 per robot over time, which Roussin treats as a long-term aspiration. But he says the opportunity is not in Tesla specifically: it is in the suppliers. Nvidia is his top pick, a BUY reiterated 'especially at current prices', as a picks-and-shovels play on robotics (training, simulation, software, onboard compute) on top of its dominant data-centre business. Teradyne (TER) is watchlist only: it owns established robotics businesses (Universal Robots, Mobile Industrial Robots) with real customers and revenue, but demand and profitability have been weak and he wants accelerating growth first. Texas Instruments (TXN) is also watchlist only: its analog and embedded chips handle sensing, motor control, radar and power management, and it already collaborates with Nvidia on physical AI. He warns that trillion-dollar market forecasts rest on big assumptions, adoption could take longer than expected, and a fast-growing industry does not guarantee profitable investments. Tesla itself gets no call. Note: auto-captions render Teradyne as 'Pterodine' throughout.",
+ "calls": [
+  {
+   "video_id": "RCVbZIOJ5Ns",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 1 Nov; no flip) — his top pick from the robotics group 'especially at current prices': picks-and-shovels for physical AI/robotics on top of the dominant AI data-centre business; robotics not yet a revenue driver.",
+   "base_case": "Robotics is a long-term growth option on top of the data-centre business.",
+   "bull_case": "Nvidia supplies training, simulation, robotics software and onboard compute to many robot makers.",
+   "bear_case": "Robotics revenue contribution unknown for years; AI stocks selling off and NVDA price 'hammered of late'.",
+   "analyzed_at": "2026-11-12T19:05:37Z"
+  }
+ ]
+}
