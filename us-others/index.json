@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T04:58:59.696494+00:00",
+ "updated": "2026-11-12T05:02:10.972287+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -56,20 +56,20 @@
   {
    "ticker": "ALAB",
    "slug": "ALAB",
-   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "lastDate": "2026-11-11T16:55:34.790305+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$66"
+     "avg": "$49.6"
     }
    ],
    "influencers": [
-    "Jose Najarro Stocks",
-    "Joseph Hogue, CFA"
+    "Joseph Hogue, CFA",
+    "Jose Najarro Stocks"
    ],
-   "lastStated": "No price stated; forward P/E ~66 near-term cited",
-   "nCalls": 4
+   "lastStated": "$33.2bn market cap",
+   "nCalls": 5
   },
   {
    "ticker": "ALL",
@@ -1440,12 +1440,12 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-11T16:55:34.790305+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$7.33"
+     "avg": "$398.3"
     },
     {
      "dir": "SELL",
@@ -1458,8 +1458,8 @@
     "Jose Najarro Stocks",
     "Asymmetric Investing"
    ],
-   "lastStated": "0.07x PEG",
-   "nCalls": 6
+   "lastStated": "$782bn market cap",
+   "nCalls": 7
   },
   {
    "ticker": "NBIS",
@@ -1602,21 +1602,27 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-11T21:55:34.790305+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 3,
-     "avg": "$340"
+     "avg": "$228.17"
+    },
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$15"
     }
    ],
    "influencers": [
+    "Daniel Pronk",
+    "Joseph Hogue, CFA",
     "Tom Nash",
-    "Jose Najarro Stocks",
-    "Joseph Hogue, CFA"
+    "Jose Najarro Stocks"
    ],
-   "lastStated": "+500% over 5 years; dropped 54% in 2022, twice 20%, once 36% in April last year",
-   "nCalls": 12
+   "lastStated": "No share price stated; 15x forward P/E, lowest since 2012",
+   "nCalls": 14
   },
   {
    "ticker": "NVDY",
@@ -1975,19 +1981,19 @@
   {
    "ticker": "SMCI",
    "slug": "SMCI",
-   "lastDate": "2026-11-02T05:05:00+00:00",
+   "lastDate": "2026-11-11T16:55:34.790305+00:00",
    "chips": [
     {
-     "dir": "HOLD",
+     "dir": "BUY",
      "n": 1,
-     "avg": "$45"
+     "avg": "$18.9"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "$45-$50 over the next year (average analyst target just over $40); covered calls",
-   "nCalls": 2
+   "lastStated": "$18.9bn market cap",
+   "nCalls": 3
   },
   {
    "ticker": "SNDK",
@@ -2197,6 +2203,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "Down ~27% over the last year, up ~15% since his 15 July recommendation; analyst ",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TER",
+   "slug": "TER",
+   "lastDate": "2026-11-11T16:55:34.790305+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$34"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "$34bn market cap (~$240/share, down from a ~$500 peak)",
    "nCalls": 1
   },
   {
@@ -2419,8 +2442,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 23,
-   "nVideos": 12
+   "nCalls": 24,
+   "nVideos": 13
   },
   {
    "name": "Everything Money",
@@ -2440,8 +2463,8 @@
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 139,
-   "nVideos": 16
+   "nCalls": 144,
+   "nVideos": 17
   },
   {
    "name": "Patient Investor",
@@ -2473,6 +2496,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "fpJfxrgZz1o",
+   "title": "Buy The Dip On Nvidia Or Wait It Out?",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-11-11T21:55:34.790305+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "KB6BUs0VDrE",
+   "title": "9 Insanely Cheap AI Stocks to Buy Now",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-11-11T16:55:34.790305+00:00",
+   "nCalls": 5
+  },
   {
    "id": "JozmYeJl-XM",
    "title": "Hims & Hers Collapses 30% In a Week",
