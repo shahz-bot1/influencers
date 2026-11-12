@@ -3,6 +3,22 @@
  "slug": "SMCI",
  "calls": [
   {
+   "video_id": "KB6BUs0VDrE",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_title": "9 Insanely Cheap AI Stocks to Buy Now",
+   "published_at": "2026-11-11T16:55:34.790305+00:00",
+   "ticker": "SMCI",
+   "direction": "BUY",
+   "stance_flip": true,
+   "thesis": "Stance flips from HOLD (2 Nov): cheapest name on the list at 0.24x price-to-sales with 146% upside at 0.6x sales on $77.6bn revenue (+98%); makes the best high-performance servers of the three server makers — but management scandals and -$6.9bn free cash flow are the reason it is cheap.",
+   "base_case": "At 0.6x sales on $77.6bn revenue, ~146% upside to a $46.5bn market cap.",
+   "bull_case": "Management stays out of the way, data-centre spend continues and the multiple reaches 0.7x sales or more.",
+   "bear_case": "Another management scandal or the revenue wall (11% growth next year) keeps investors away.",
+   "price_at_call": "$18.9bn market cap",
+   "analyzed_at": "2026-11-12T04:59:16.436274+00:00"
+  },
+  {
    "video_id": "D0QIMlwlT6I",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
