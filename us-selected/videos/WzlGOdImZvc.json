@@ -1,0 +1,23 @@
+{
+ "video_id": "WzlGOdImZvc",
+ "title": "That Didn't Last Long",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-12",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate downgrades Costco just seven weeks after upgrading it. On 21 September he upgraded Costco to a BUY for the first time in years, at about $890-900, when the forward P/E had fallen to about 36, its lowest in years, and it barely qualified as a buy under his framework. Since then the stock has soared to over $1,060, up 23% year to date, without any phenomenal earnings to justify the move: investors simply realised Costco was cheap and rushed in. The forward P/E is now over 42 and his DCF fair value is about $833, so the stock trades about 21% above fair value. He stresses he is not saying it is ridiculously expensive, only that the rare cheap entry has passed: it is a great Hall of Fame business to hold if you already own it, with no need to take profits, but he does not think it will outperform over the next 12-18 months at this price, and a dip back toward $890 would be a buy again. He tracks every ranking change in a spreadsheet for transparency, showing the 21 September upgrade and the 13 October reiteration before this downgrade, which he dates to 9 November in the video. His call is COST HOLD, flipping from BUY. The video is short and single-stock: no other tickers are discussed.",
+ "calls": [
+  {
+   "video_id": "WzlGOdImZvc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "COST",
+   "direction": "HOLD",
+   "price_at_call": 1060,
+   "thesis": "FLIP: BUY (21 Sep @ ~$890, reiterated 13 Oct) -> HOLD — stock ran to $1,060+, forward P/E over 42 vs his ~$833 DCF fair value (21% above FV); great Hall of Fame business to hold, but the rare cheap entry is gone and unlikely to outperform over the next 12-18 months.",
+   "base_case": "Performs in line with the market; no need to take profits.",
+   "bull_case": "Hall of Fame compounder; a dip back toward $890 would be a buy again.",
+   "bear_case": "Valuation stays elevated (P/E >42); no earnings catalyst drove the rally, just multiple expansion.",
+   "analyzed_at": "2026-11-12T19:05:37Z"
+  }
+ ]
+}
