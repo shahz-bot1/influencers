@@ -1,0 +1,31 @@
+{
+ "ticker": "WPM",
+ "slug": "WPM",
+ "calls": [
+  {
+   "video_id": "7mzj-HjCFOQ",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "A Once in a 100 Year Investment Opportunity Just Started (Felix Nikolas Prehn on Where He's Buying)",
+   "published_at": "2026-11-11T23:55:18.299396+00:00",
+   "ticker": "WPM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Down ~18% (stated)",
+   "fair_value": "Not stated",
+   "thesis": "BUY — first tracked. Wheaton Precious Metals is a royalty/streaming company, not a miner: finances miners for a share of production, so no operational risk, diversified across many miners, plus good silver exposure.",
+   "base_case": "Royalty model removes operational risk while keeping gold/silver upside.",
+   "bull_case": "Gold and silver rebound; streaming margins expand.",
+   "bear_case": "Miners it finances run into trouble and streams underdeliver.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
