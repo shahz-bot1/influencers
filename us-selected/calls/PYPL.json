@@ -3,6 +3,24 @@
  "slug": "PYPL",
  "calls": [
   {
+   "video_id": "ZYeZiDarwGw",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "Nike, PayPal, Adobe, Netflix, PepsiCo: Which Is Actually Cheap Now?",
+   "published_at": "2026-11-12T11:55:40.914585+00:00",
+   "ticker": "PYPL",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$60 (as captioned)",
+   "fair_value": "Buy limit just under $60",
+   "thesis": "BUY, first tracked for GVI — largest community-portfolio position (16%), up 7%, buying more on dips; adjusted P/E ~11, nearly all FCF funding buybacks of 10%+ of shares a year.",
+   "base_case": "Normal scenario: 34% upside.",
+   "bull_case": "Nearly 150% upside in the positive scenario.",
+   "bear_case": "26% downside in the negative scenario.",
+   "analyzed_at": "2026-11-12T15:00:01.649616+00:00",
+   "collab": false
+  },
+  {
    "ticker": "PYPL",
    "direction": "BUY",
    "channel": "Parkevtate Vosianc CFA",
@@ -32,12 +50,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 2
   }
  ]
 }
