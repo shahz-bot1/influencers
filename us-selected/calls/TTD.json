@@ -3,6 +3,19 @@
  "slug": "TTD",
  "calls": [
   {
+   "video_id": "_Ywo7iFZ2NM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "TTD",
+   "direction": "BUY",
+   "price_at_call": 18,
+   "thesis": "FLIP vs recorded SELL (26 Sep, sold 1/3 for tax-loss harvesting) -> BUY, low conviction; he frames it as reiterating his low-conviction buy from 24 Sep. Q3 beat, co-founder Dave Pickles returning, buyback raised to $1B; keeping shares he had planned to sell for tax-loss harvesting. DCF FV $25 vs ~$18 after-hours, forward P/E 14.7.",
+   "base_case": "Stabilisation: Q4 revenue guide >=$755M, sequential improvement.",
+   "bull_case": "Agentic AI demand + buyback execution re-rates the stock toward his $25 FV.",
+   "bear_case": "Q3 revenue still slightly down YoY ($736M vs $739M); lost market share through 2026 as Amazon encroached.",
+   "analyzed_at": "2026-11-12T19:05:37Z"
+  },
+  {
    "video_id": "y2yDNpF-uL4",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
