@@ -3,6 +3,37 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "fpJfxrgZz1o",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "video_title": "Buy The Dip On Nvidia Or Wait It Out?",
+   "published_at": "2026-11-11T21:55:34.790305+00:00",
+   "ticker": "NVDA",
+   "direction": "AVOID",
+   "thesis": "Not buying the dip despite a 15x forward P/E (lowest since 2012) and a DCF implying ~18% CAGR over 8 years: the Jensen affair leaves Nvidia with no succession plan (60 direct reports, no replacement) and he sees margin risk from Google/Amazon/AMD competition plus an eventual AI capex slowdown; better certainty elsewhere (Amazon, Meta, an electrical-infrastructure holding).",
+   "base_case": "Affair is a short-term sentiment hit; fundamentals keep growing and the stock compounds with the business.",
+   "bull_case": "If margins hold and analyst earnings (~$640bn by 2031) come true, today's prices are very cheap.",
+   "bear_case": "Jensen steps down with no succession plan, pricing power erodes as competitors catch up, and the AI buildout slows, re-rating chip names lower.",
+   "price_at_call": "No share price stated; 15x forward P/E, lowest since 2012",
+   "analyzed_at": "2026-11-12T04:59:16.436274+00:00"
+  },
+  {
+   "video_id": "KB6BUs0VDrE",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_title": "9 Insanely Cheap AI Stocks to Buy Now",
+   "published_at": "2026-11-11T16:55:34.790305+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "stance_flip": true,
+   "thesis": "Stance flips from UNCERTAIN (9 Nov): 83% upside if Nvidia returns to a still-conservative 20x price-to-sales on $411bn expected revenue (+90% this year, +68% next); $127bn free cash flow (3.5x P/FCF) and he does not think Jensen will be forced out over the affair.",
+   "base_case": "At 20x sales on $411bn revenue the stock is worth ~$8.2tn vs $4.5tn now (+83%).",
+   "bull_case": "Revenue reaches ~$700bn next year and the multiple recovers toward 22-25x sales.",
+   "bear_case": "Custom-chip competition (Broadcom, Marvell, AMD), hyperscaler spending cuts and export restrictions slow growth.",
+   "price_at_call": "~$4.5tn market cap",
+   "analyzed_at": "2026-11-12T04:59:16.436274+00:00"
+  },
+  {
    "video_id": "s-H0yY1OPII",
    "channel": "Tom Nash",
    "handle": "@TomNashTV",
@@ -135,16 +166,20 @@
  ],
  "byInf": [
   {
-   "channel": "Tom Nash",
+   "channel": "Daniel Pronk",
    "idx": 0
   },
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Joseph Hogue, CFA",
    "idx": 1
   },
   {
-   "channel": "Joseph Hogue, CFA",
-   "idx": 9
+   "channel": "Tom Nash",
+   "idx": 2
+  },
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 3
   }
  ]
 }
