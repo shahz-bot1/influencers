@@ -1,0 +1,27 @@
+{
+ "ticker": "TER",
+ "slug": "TER",
+ "calls": [
+  {
+   "video_id": "KB6BUs0VDrE",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_title": "9 Insanely Cheap AI Stocks to Buy Now",
+   "published_at": "2026-11-11T16:55:34.790305+00:00",
+   "ticker": "TER",
+   "direction": "BUY",
+   "thesis": "First tracked Teradyne call: 50% upside to 10x price-to-sales on $5.2bn revenue (+64% this year); 138% earnings growth as chip complexity lifts semiconductor test equipment demand, plus industrial robotics.",
+   "base_case": "At 10x sales on $5.2bn revenue, a $52bn market cap vs $34.6bn now (+50%).",
+   "bull_case": "Multiple returns toward the 20x sales seen in June for far larger upside.",
+   "bear_case": "Revenue growth slows to 24% next year and the AI fear premium persists.",
+   "price_at_call": "$34bn market cap (~$240/share, down from a ~$500 peak)",
+   "analyzed_at": "2026-11-12T04:59:16.436274+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
