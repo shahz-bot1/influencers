@@ -3,6 +3,25 @@
  "slug": "AEM",
  "calls": [
   {
+   "video_id": "7mzj-HjCFOQ",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "A Once in a 100 Year Investment Opportunity Just Started (Felix Nikolas Prehn on Where He's Buying)",
+   "published_at": "2026-11-11T23:55:18.299396+00:00",
+   "ticker": "AEM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Not stated",
+   "fair_value": "Not stated",
+   "thesis": "BUY reiterated (was BUY 21 Oct). Agnico Eagle named alongside Newmont as one of the interesting blue-chip gold miners worth looking at after the selloff.",
+   "base_case": "Large, cash-generative miner; leveraged to a gold rebound.",
+   "bull_case": "Gold recovers and blue-chip miners re-rate.",
+   "bear_case": "Gold keeps falling; miners de-rate with it.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  },
+  {
    "video_id": "7jcAqx7huGU",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
