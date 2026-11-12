@@ -1,0 +1,31 @@
+{
+ "ticker": "EMR",
+ "slug": "EMR",
+ "calls": [
+  {
+   "video_id": "7mzj-HjCFOQ",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "A Once in a 100 Year Investment Opportunity Just Started (Felix Nikolas Prehn on Where He's Buying)",
+   "published_at": "2026-11-11T23:55:18.299396+00:00",
+   "ticker": "EMR",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Off ~5% (stated)",
+   "fair_value": "Not stated",
+   "thesis": "BUY — first tracked. Emerson Electric is the cleanest power/electrification play: the US needs far more electricity whatever happens to AI data-centre buildout, and EMR is profitable and reputable.",
+   "base_case": "Electricity demand grows regardless of AI; EMR is the cleanest way to own it.",
+   "bull_case": "US energy infrastructure catch-up accelerates EMR's growth.",
+   "bear_case": "AI buildout scales back sharply and electrification spending slows.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
