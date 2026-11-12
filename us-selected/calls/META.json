@@ -3,6 +3,25 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "T3LdlJH2iLE",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "5 Quality Stocks To Buy On A Huge Dip",
+   "published_at": "2026-11-11T20:55:18.299396+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Was HOLD on 2 Nov (FV ~$850); now BUY.",
+   "price_at_call": "Not stated; late-March dip recovered above $650, now down again",
+   "fair_value": "Not stated",
+   "thesis": "BUY — FLIP from HOLD (2 Nov). Really good value today; pushes back on Steve Eisman's off-balance-sheet-debt attack — everything is public and SEC-registered, rating agencies factor the SPVs in, Meta funds only 20% (~$5bn) of the $27bn Louisiana data centre and can exit the lease with minimal damage, and operating income is ~$80bn.",
+   "base_case": "Debt/capex fears are overblown; the Louisiana SPV is a small, flexible commitment, not Enron-style hiding.",
+   "bull_case": "Muse adoption and AI monetisation re-rate the stock as capex fears fade.",
+   "bear_case": "Capex/debt load keeps rising and the market keeps punishing the buildout.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  },
+  {
    "video_id": "v0BGJtm9I-c",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -363,16 +382,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 11
+   "channel": "Couch Investor",
+   "idx": 2
   }
  ]
 }
