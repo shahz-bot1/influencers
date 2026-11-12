@@ -3,6 +3,24 @@
  "slug": "INTC",
  "calls": [
   {
+   "video_id": "c1ruBISVkQM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "What's Going on With Intel Stock? | INTC Stock Deep Dive Part 1",
+   "published_at": "2026-11-12T14:45:40.914585+00:00",
+   "ticker": "INTC",
+   "direction": "HOLD",
+   "flip": false,
+   "price_at_call": "~$57",
+   "fair_value": "$51.50",
+   "thesis": "HOLD reiterated — not a buying opportunity just yet, but getting much closer; fairly valued after the fall from $133, forward P/E 32 vs ~80 earlier in the year.",
+   "base_case": "Valuation now close to prospects; 18A Clearwater Forest shipping for revenue, demand for 2027 significant.",
+   "bull_case": "AI demand and supply expansion lift earnings back toward the growth the market once priced in.",
+   "bear_case": "Supply shortages and rising capex commitments persist; rivals Micron and TSMC are sold out while Intel is not.",
+   "analyzed_at": "2026-11-12T15:00:01.649616+00:00",
+   "collab": false
+  },
+  {
    "video_id": "BUNbdt1Iyx0",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
