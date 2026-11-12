@@ -4,6 +4,46 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "ALAB",
+   "tickerSlug": "ALAB",
+   "direction": "BUY",
+   "date": "2026-11-11T16:55:34.790305+00:00",
+   "price": "$33.2bn market cap",
+   "video_id": "KB6BUs0VDrE"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-11T16:55:34.790305+00:00",
+   "price": "~$4.5tn market cap",
+   "video_id": "KB6BUs0VDrE"
+  },
+  {
+   "ticker": "TER",
+   "tickerSlug": "TER",
+   "direction": "BUY",
+   "date": "2026-11-11T16:55:34.790305+00:00",
+   "price": "$34bn market cap (~$240/share, down from a ~$500 peak)",
+   "video_id": "KB6BUs0VDrE"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-11T16:55:34.790305+00:00",
+   "price": "$782bn market cap",
+   "video_id": "KB6BUs0VDrE"
+  },
+  {
+   "ticker": "SMCI",
+   "tickerSlug": "SMCI",
+   "direction": "BUY",
+   "date": "2026-11-11T16:55:34.790305+00:00",
+   "price": "$18.9bn market cap",
+   "video_id": "KB6BUs0VDrE"
+  },
+  {
    "ticker": "NOW",
    "tickerSlug": "NOW",
    "direction": "BUY",
