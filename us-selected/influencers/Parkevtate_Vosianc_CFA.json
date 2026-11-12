@@ -4,6 +4,62 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-12T19:58:31.532271+00:00",
+   "price": "~$160 after-hours (stated); DCF fair value $313",
+   "video_id": "kenZihNMD_E"
+  },
+  {
+   "ticker": "COST",
+   "tickerSlug": "COST",
+   "direction": "HOLD",
+   "date": "2026-11-12T19:05:37Z",
+   "price": 1060,
+   "video_id": "WzlGOdImZvc"
+  },
+  {
+   "ticker": "TTD",
+   "tickerSlug": "TTD",
+   "direction": "BUY",
+   "date": "2026-11-12T19:05:37Z",
+   "price": 18,
+   "video_id": "_Ywo7iFZ2NM"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-11-12T19:05:37Z",
+   "price": 289,
+   "video_id": "GSmzKs643dQ"
+  },
+  {
+   "ticker": "INTC",
+   "tickerSlug": "INTC",
+   "direction": "HOLD",
+   "date": "2026-11-12T14:45:40.914585+00:00",
+   "price": "~$57",
+   "video_id": "c1ruBISVkQM"
+  },
+  {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "BUY",
+   "date": "2026-11-12T13:55:40.914585+00:00",
+   "price": "$19.73",
+   "video_id": "jXVBPh_WvOY"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-11T22:55:18.299396+00:00",
+   "price": "~$169 (stated); DCF fair value $312",
+   "video_id": "8AWmVhk8e5w"
+  },
+  {
    "ticker": "SE",
    "tickerSlug": "SE",
    "direction": "BUY",
