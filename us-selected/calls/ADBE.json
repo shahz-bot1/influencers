@@ -3,6 +3,24 @@
  "slug": "ADBE",
  "calls": [
   {
+   "video_id": "ZYeZiDarwGw",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "Nike, PayPal, Adobe, Netflix, PepsiCo: Which Is Actually Cheap Now?",
+   "published_at": "2026-11-12T11:55:40.914585+00:00",
+   "ticker": "ADBE",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$240 (as captioned)",
+   "fair_value": "Buy limit $270",
+   "thesis": "BUY reiterated — buying and may buy more; record revenue and profits despite AI fears, adjusted P/E 13, heavy buybacks at cheap prices.",
+   "base_case": "11% earnings growth for 5 years, P/E 17; over 60% upside.",
+   "bull_case": "Over 150% upside in the positive scenario.",
+   "bear_case": "AI takes small-customer share, business shrinks 2% a year; still only ~20% downside.",
+   "analyzed_at": "2026-11-12T15:00:01.649616+00:00",
+   "collab": false
+  },
+  {
    "video_id": "rAYCupNMuFI",
    "channel": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
@@ -94,11 +112,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Couch Investor",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
