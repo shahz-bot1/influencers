@@ -1,0 +1,23 @@
+{
+ "video_id": "_Ywo7iFZ2NM",
+ "title": "Finally! Great News for The Trade Desk Stock Investors | TTD Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-12",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate covers a huge day for The Trade Desk: the stock rose over 17% in regular trading as co-founder Dave Pickles announced he is returning in a leadership role, then another 21% after hours on a better-than-expected Q3, up $5.35 in a day from a $13 start. The quarter itself was mixed: revenue actually declined from $739 million to $736 million, and The Trade Desk lost market share through 2026 while the overall advertising industry grew mid-single digits, largely because Amazon launched a competing product at a fraction of its fees. Positives include new agentic AI capabilities, a buyback authorisation raised from about $270 million remaining to $1 billion, and cost discipline: general and administrative spending fell from $131 million to $125 million even as technology, sales and platform spending rose. Q4 guidance is revenue of at least $755 million, a sequential increase but in the seasonally strong holiday quarter. Valuation is still cheap at a 14.7x forward P/E, and his DCF fair value is $25 against an after-hours price near $18. He reiterates his low-conviction BUY, saying he was close to raising conviction to medium and will decide after the conference call. The stance is a flip against the SELL recorded on 26 September, when he had planned to sell a third of his position for tax-loss harvesting; he now plans to keep those shares. Call: TTD BUY, low conviction, at about $18, fair value $25.",
+ "calls": [
+  {
+   "video_id": "_Ywo7iFZ2NM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "TTD",
+   "direction": "BUY",
+   "price_at_call": 18,
+   "thesis": "FLIP vs recorded SELL (26 Sep, sold 1/3 for tax-loss harvesting) -> BUY, low conviction; he frames it as reiterating his low-conviction buy from 24 Sep. Q3 beat, co-founder Dave Pickles returning, buyback raised to $1B; keeping shares he had planned to sell for tax-loss harvesting. DCF FV $25 vs ~$18 after-hours, forward P/E 14.7.",
+   "base_case": "Stabilisation: Q4 revenue guide >=$755M, sequential improvement.",
+   "bull_case": "Agentic AI demand + buyback execution re-rates the stock toward his $25 FV.",
+   "bear_case": "Q3 revenue still slightly down YoY ($736M vs $739M); lost market share through 2026 as Amazon encroached.",
+   "analyzed_at": "2026-11-12T19:05:37Z"
+  }
+ ]
+}
