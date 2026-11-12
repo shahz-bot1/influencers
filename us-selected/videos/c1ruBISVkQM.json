@@ -1,0 +1,28 @@
+{
+ "video_id": "c1ruBISVkQM",
+ "title": "What's Going on With Intel Stock? | INTC Stock Deep Dive Part 1",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-12",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate takes a deep dive on Intel after the stock lost more than half its value from a peak above $133. Management says the industry is navigating one of the most significant supply shortages in history, driven by unprecedented demand for CPUs, GPUs, memory and storage from large-language-model providers such as OpenAI, Anthropic and Google's Gemini. Supply is inelastic: building a new fab takes time, skill and capital few companies can muster, so prices rise and players without secured supply suffer. Intel responded by selling stock in its August equity offering, which he calls prudent: he had recommended Intel at $20-30 and warned above $60 that the price had run ahead of tangible performance, advice he says is now vindicated as the stock sits near $57. Capex and purchase commitments are set to rise significantly over coming quarters, which investors disliked. On the positive side, Clearwater Forest, its first Intel 18A server product, is already shipping for revenue with significant demand for 2027. But Intel is not sold out like Micron and TSMC, a mismatch between its capability and what the market demands. Valuation has compressed: forward P/E is now 32 against nearly 80 earlier in the year, and his DCF fair value is $51.50 against a $57 market price, so the stock looks fairly valued. His call is INTC HOLD reiterated: not a buying opportunity just yet, but getting much closer. He notes Nvidia's 17 November results will teach investors a lot more about the AI industry.",
+ "calls": [
+  {
+   "video_id": "c1ruBISVkQM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "What's Going on With Intel Stock? | INTC Stock Deep Dive Part 1",
+   "published_at": "2026-11-12T14:45:40.914585+00:00",
+   "ticker": "INTC",
+   "direction": "HOLD",
+   "flip": false,
+   "price_at_call": "~$57",
+   "fair_value": "$51.50",
+   "thesis": "HOLD reiterated — not a buying opportunity just yet, but getting much closer; fairly valued after the fall from $133, forward P/E 32 vs ~80 earlier in the year.",
+   "base_case": "Valuation now close to prospects; 18A Clearwater Forest shipping for revenue, demand for 2027 significant.",
+   "bull_case": "AI demand and supply expansion lift earnings back toward the growth the market once priced in.",
+   "bear_case": "Supply shortages and rising capex commitments persist; rivals Micron and TSMC are sold out while Intel is not.",
+   "analyzed_at": "2026-11-12T15:00:01.649616+00:00",
+   "collab": false
+  }
+ ]
+}
