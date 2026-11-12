@@ -1,0 +1,29 @@
+{
+ "video_id": "kenZihNMD_E",
+ "title": "More Unfortunate News for Nvidia Stock Investors | NVDA Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-12",
+ "source_note": "Detailed summary generated from video captions; note: captions garble several names and figures in places",
+ "summary": "Parkevtate's evening update on Nvidia lands as the scandal escalates again. The New York Times reported a second alleged extramarital affair involving Jensen Huang, this time with Kimberly Powell, a vice president at the company and a direct report, which violates company policy; the first affair was allegedly with a woman identified as a Chinese intelligence asset. The Wall Street Journal reports the board is preparing to remove Huang and is meeting to decide, and an announcement may have come by the time viewers watch. The stock is down over 8% in after-hours trading, approaching $160, against his DCF fair value of $313. He downgrades Nvidia again: it is no longer one of his top 10 stocks to buy, after he had already removed it from his number-one ranking on 9 November, and this morning's video still had him interested in adding more. He still ranks it a BUY on long-term value, but he is not selling yet and not adding more, and expects flat-to-down action until the board decides. A big-name successor could change that: he floats AMD chief Lisa Su or former Apple chief Tim Cook out of retirement. Q3 earnings on Tuesday 17 November are the most anticipated report; he would not be surprised if they are delayed. Call: NVDA BUY reiterated at about $160, fair value $313, with adding paused. Note: captions garble names; recorded before the resignation announcement reported elsewhere the same evening.",
+ "calls": [
+  {
+   "video_id": "kenZihNMD_E",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "More Unfortunate News for Nvidia Stock Investors | NVDA Stock",
+   "published_at": "2026-11-12T19:58:31.532271+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$160 after-hours (stated); DCF fair value $313",
+   "fair_value": "$313 (DCF)",
+   "thesis": "BUY reiterated but downgraded again — no longer in his top 10 stocks to buy (downgraded off his #1 ranking on 9 Nov; this morning he was still interested in adding more). A second alleged affair (Kimberly Powell, an executive at the company) and WSJ reporting the board is preparing to remove Jensen Huang; stock down over 8% after hours toward ~$160 vs a $313 DCF fair value. He is NOT selling yet and NOT adding more — the risk/reward still favours holding, but he sees no positive catalyst for days/weeks and expects flat-to-down price action until the board decides; Q3 earnings on 17 Nov is the next big event and could even be delayed.",
+   "base_case": "Flat to down over the next few days/weeks while the board decides; 20-30% downside if Jensen is removed, already partly priced in.",
+   "bull_case": "Business unchanged — market leader in data-centre AI with dominant share and sold-out demand; a big-name successor (he floats AMD CEO Lisa Su, or Tim Cook out of retirement) would restore confidence fast; $313 DCF fair value vs ~$160.",
+   "bear_case": "Board leaning toward removing Jensen; second affair violates company policy; no clear successor and a new CEO needs time to learn the company and win over stakeholders; the 17 Nov earnings call will be dominated by the investigation, not the business.",
+   "analyzed_at": "2026-11-12T23:09:44Z",
+   "collab": false
+  }
+ ]
+}
