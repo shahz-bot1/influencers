@@ -1,0 +1,23 @@
+{
+ "video_id": "GSmzKs643dQ",
+ "title": "Interesting News for Alphabet Stock Investors | GOOG Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-12",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate updates Alphabet after Google announced two new tensor processing units, the TPU ATX and 8I Max, the first time it has introduced four TPU systems in a single year. Bloomberg Intelligence sees TPU sales rising from about $12 billion this year to more than $135 billion by 2028, an 11-fold increase in two years that does not even count chips rented through Google Cloud, a faster ramp than Nvidia showed after ChatGPT launched. He argues Alphabet, alongside Amazon, has the best hyperscaler chips: on peak power Nvidia's Rubin system still leads at 35 against Alphabet at 20 and Blackwell Ultra at 15, but Google wins on price, with its Ironwood TPU delivering up to three times as much AI output per dollar as Nvidia's Blackwell chips when running AI agents. The loser is AMD: two years ago he called the AMD boom because hyperscalers wanted an alternative to Nvidia, but they now have their own proprietary chips, so AMD's tailwind has faded and its price looks stretched against Nvidia. That is a passing negative mention only, recorded as UNCERTAIN with no call. Alphabet trades at an 18.6x forward P/E, the cheapest since mid-2025, and he has raised his DCF fair value to $370 against a $289 price. He owns Alphabet and recalls ranking it the best stock to buy at the peak of search-cannibalisation fears. Call: GOOGL BUY reiterated at $289, fair value $370.",
+ "calls": [
+  {
+   "video_id": "GSmzKs643dQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": 289,
+   "thesis": "BUY reiterated (was BUY 7 Nov; no flip) — FV raised to $370. New TPUs (Ironwood-class) with Bloomberg seeing TPU sales $12B -> $135B+ by 2028; forward P/E 18.6, cheapest since mid-2025; Alphabet's chips win on price/performance vs Nvidia, though Nvidia still leads on peak power.",
+   "base_case": "TPU sales compound as hyperscaler alternative to Nvidia; Cloud + Search keep growing.",
+   "bull_case": "TPU sales >$135B by 2028; analyst EPS growth estimates (5.3%) revised higher after a stabilising quarter.",
+   "bear_case": "Nvidia still best-in-class on peak power; TPU gains come at AMD's expense, not Nvidia's.",
+   "analyzed_at": "2026-11-12T19:05:37Z"
+  }
+ ]
+}
