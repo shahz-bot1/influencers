@@ -3,6 +3,38 @@
  "slug": "COST",
  "calls": [
   {
+   "video_id": "WzlGOdImZvc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "COST",
+   "direction": "HOLD",
+   "price_at_call": 1060,
+   "thesis": "FLIP: BUY (21 Sep @ ~$890, reiterated 13 Oct) -> HOLD — stock ran to $1,060+, forward P/E over 42 vs his ~$833 DCF fair value (21% above FV); great Hall of Fame business to hold, but the rare cheap entry is gone and unlikely to outperform over the next 12-18 months.",
+   "base_case": "Performs in line with the market; no need to take profits.",
+   "bull_case": "Hall of Fame compounder; a dip back toward $890 would be a buy again.",
+   "bear_case": "Valuation stays elevated (P/E >42); no earnings catalyst drove the rally, just multiple expansion.",
+   "analyzed_at": "2026-11-12T19:05:37Z"
+  },
+  {
+   "video_id": "T3LdlJH2iLE",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "5 Quality Stocks To Buy On A Huge Dip",
+   "published_at": "2026-11-11T20:55:18.299396+00:00",
+   "ticker": "COST",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Holds ~$93,000, up ~2.7x; $30 special dividend declared (~3% yield)",
+   "fair_value": "Not stated; ~$800 FV in his 2 Nov video (vs ~$1,000, overvalued)",
+   "thesis": "HOLD reiterated — strategy of holding and doing nothing keeps paying off. Costco declared a $30/share special dividend (~$13bn) from ~$21bn cash against ~$4bn debt, and still has plenty to spare; up 24% YTD and outperforming the S&P 500 and QQQ over 5 and 10 years.",
+   "base_case": "Cash piles up so fast Costco keeps returning it via special dividends while funding 20-30 new stores a year from cash.",
+   "bull_case": "Special dividends keep coming and the compounder keeps outperforming.",
+   "bear_case": "Valuation stays stretched (~45x) and any weakness compresses the multiple.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  },
+  {
    "video_id": "gqNQ48XJGJA",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -99,7 +131,7 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 5
   }
  ]
 }
