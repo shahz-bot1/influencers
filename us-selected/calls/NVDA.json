@@ -3,6 +3,76 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "kenZihNMD_E",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "More Unfortunate News for Nvidia Stock Investors | NVDA Stock",
+   "published_at": "2026-11-12T19:58:31.532271+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$160 after-hours (stated); DCF fair value $313",
+   "fair_value": "$313 (DCF)",
+   "thesis": "BUY reiterated but downgraded again — no longer in his top 10 stocks to buy (downgraded off his #1 ranking on 9 Nov; this morning he was still interested in adding more). A second alleged affair (Kimberly Powell, an executive at the company) and WSJ reporting the board is preparing to remove Jensen Huang; stock down over 8% after hours toward ~$160 vs a $313 DCF fair value. He is NOT selling yet and NOT adding more — the risk/reward still favours holding, but he sees no positive catalyst for days/weeks and expects flat-to-down price action until the board decides; Q3 earnings on 17 Nov is the next big event and could even be delayed.",
+   "base_case": "Flat to down over the next few days/weeks while the board decides; 20-30% downside if Jensen is removed, already partly priced in.",
+   "bull_case": "Business unchanged — market leader in data-centre AI with dominant share and sold-out demand; a big-name successor (he floats AMD CEO Lisa Su, or Tim Cook out of retirement) would restore confidence fast; $313 DCF fair value vs ~$160.",
+   "bear_case": "Board leaning toward removing Jensen; second affair violates company policy; no clear successor and a new CEO needs time to learn the company and win over stakeholders; the 17 Nov earnings call will be dominated by the investigation, not the business.",
+   "analyzed_at": "2026-11-12T23:09:44Z",
+   "collab": false
+  },
+  {
+   "video_id": "RCVbZIOJ5Ns",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 1 Nov; no flip) — his top pick from the robotics group 'especially at current prices': picks-and-shovels for physical AI/robotics on top of the dominant AI data-centre business; robotics not yet a revenue driver.",
+   "base_case": "Robotics is a long-term growth option on top of the data-centre business.",
+   "bull_case": "Nvidia supplies training, simulation, robotics software and onboard compute to many robot makers.",
+   "bear_case": "Robotics revenue contribution unknown for years; AI stocks selling off and NVDA price 'hammered of late'.",
+   "analyzed_at": "2026-11-12T19:05:37Z"
+  },
+  {
+   "video_id": "8AWmVhk8e5w",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "How Far Could Nvidia Stock Fall if Jensen Huang Resigns?",
+   "published_at": "2026-11-11T22:55:18.299396+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$169 (stated); DCF fair value $312",
+   "fair_value": "$312 (DCF)",
+   "thesis": "BUY reiterated — holding and interested in adding more. Worst case if Jensen Huang resigns/is fired is a 20-30% lower valuation, but the stock is already ~$70 off its $243 high, so the risk looks priced in; at a 10.5x forward P/E it is the cheapest in years with demand soaring and product sold out through next year.",
+   "base_case": "Downside capped at ~25% even if Jensen exits; 85% upside to $312 fair value in 12-18 months.",
+   "bull_case": "Demand soaring, sold out for the rest of this year and next; China sales approval could add further upside; even at $200 the risk/reward would still be worthwhile.",
+   "bear_case": "Jensen is irreplaceable with no clear successor and no CEO transition training; competition from hyperscalers' own chips, circular financing and AI-bubble worries already pressured the stock; Q3 earnings 17 Nov is the next risk event.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  },
+  {
+   "video_id": "T3LdlJH2iLE",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "5 Quality Stocks To Buy On A Huge Dip",
+   "published_at": "2026-11-11T20:55:18.299396+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Was UNCERTAIN on 9 Nov (Jensen scandal video); now BUY.",
+   "price_at_call": "~$174 (stated); 12.6x forward P/E",
+   "fair_value": "Not stated",
+   "thesis": "BUY — FLIP from UNCERTAIN (9 Nov). The 22% fall on the Jensen scandal looks disproportionate to fundamentals; at 12.6x forward P/E Nvidia is one of the cheapest names in the AI ecosystem. He is not buying himself only because his portfolio is already concentrated in the same industry.",
+   "base_case": "Scandal dents Jensen's influence and invites regulatory scrutiny, but much of that is priced in after a 22% drop.",
+   "bull_case": "Growth and margins hold and the stock re-rates from a cheap 12.6x multiple.",
+   "bear_case": "Scandal proves worse than expected for leadership/regulation, or growth/margins slip and the cheap multiple is deserved.",
+   "analyzed_at": "2026-11-12T07:01:34.950469+00:00",
+   "collab": false
+  },
+  {
    "video_id": "i4Rh8-uJ_Jw",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -520,20 +590,24 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "channel": "Mark Roussin CPA",
+   "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
+   "idx": 3
+  },
+  {
+   "channel": "Couch Investor",
    "idx": 4
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 9
+   "channel": "BWB - Business With Brian",
+   "idx": 8
   }
  ]
 }
