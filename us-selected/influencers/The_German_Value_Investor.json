@@ -4,6 +4,46 @@
  "slug": "The_German_Value_Investor",
  "calls": [
   {
+   "ticker": "NKE",
+   "tickerSlug": "NKE",
+   "direction": "HOLD",
+   "date": "2026-11-12T11:55:40.914585+00:00",
+   "price": "Not stated",
+   "video_id": "ZYeZiDarwGw"
+  },
+  {
+   "ticker": "PEP",
+   "tickerSlug": "PEP",
+   "direction": "HOLD",
+   "date": "2026-11-12T11:55:40.914585+00:00",
+   "price": "~$140",
+   "video_id": "ZYeZiDarwGw"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-11-12T11:55:40.914585+00:00",
+   "price": "~$63 (as captioned)",
+   "video_id": "ZYeZiDarwGw"
+  },
+  {
+   "ticker": "ADBE",
+   "tickerSlug": "ADBE",
+   "direction": "BUY",
+   "date": "2026-11-12T11:55:40.914585+00:00",
+   "price": "~$240 (as captioned)",
+   "video_id": "ZYeZiDarwGw"
+  },
+  {
+   "ticker": "PYPL",
+   "tickerSlug": "PYPL",
+   "direction": "BUY",
+   "date": "2026-11-12T11:55:40.914585+00:00",
+   "price": "~$60 (as captioned)",
+   "video_id": "ZYeZiDarwGw"
+  },
+  {
    "ticker": "ADBE",
    "tickerSlug": "ADBE",
    "direction": "BUY",
