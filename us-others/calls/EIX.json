@@ -1,0 +1,22 @@
+{
+ "ticker": "EIX",
+ "slug": "EIX",
+ "calls": [
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "EIX",
+   "direction": "BUY",
+   "thesis": "Regulated Southern California utility, 22 consecutive dividend increases, 5-7% expected annual earnings growth through 2030 on electrification demand; California wildfire liabilities remain a significant risk.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up 9% over the last year, 5.9% dividend yield"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
