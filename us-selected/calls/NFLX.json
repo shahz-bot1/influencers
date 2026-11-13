@@ -21,6 +21,24 @@
    "collab": false
   },
   {
+   "video_id": "3DKnFZ4FTXc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 4th Best Stock to Buy Right Now?",
+   "published_at": "2026-11-12T06:55:18.738341+00:00",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No new FV/price stated in this video",
+   "thesis": "Restated as his #3 best stock to buy right now; no new FV or price given in this video.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  },
+  {
    "video_id": "T3LdlJH2iLE",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -350,16 +368,16 @@
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 2
   },
   {
    "channel": "Couch Investor",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
