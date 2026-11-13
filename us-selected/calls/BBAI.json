@@ -3,6 +3,24 @@
  "slug": "BBAI",
  "calls": [
   {
+   "video_id": "4Cw_bYmQo_0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is BigBear.ai Stock Crashing, and is it a Buying Opportunity? BBAI Stock Analysis",
+   "published_at": "2026-11-11T06:55:18.738341+00:00",
+   "ticker": "BBAI",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV ~$2.50 vs price ~$2.45 (auto-captions dropped decimals: '$25'/'$245')",
+   "thesis": "Not a buy yet but getting closer — third straight quarter of growth (+31%), guidance raised to $150-165m, backlog $330m (+22% QoQ), gross margin +878bps; still cash-flow negative and forward P/S 6.8 looks expensive vs peers.",
+   "base_case": "",
+   "bull_case": "Another solid quarter like this, with margins improving for several quarters running, would signal an inflection and earn a BUY upgrade.",
+   "bear_case": "Volatile sales history, leadership churn and worsening operating cash flow resume; the stock stays a value trap.",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  },
+  {
    "video_id": "n2uLj3gmL4I",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
