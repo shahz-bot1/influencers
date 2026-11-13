@@ -1,0 +1,31 @@
+{
+ "ticker": "CENTA",
+ "slug": "CENTA",
+ "calls": [
+  {
+   "video_id": "8HBjdVljGgY",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Forget the NVIDIA Dip (3 Stocks That Are Actually Cheap)",
+   "published_at": "2026-11-12T23:55:18.738341+00:00",
+   "guest": "Mark Lichtenfeld (Oxford Club)",
+   "ticker": "CENTA",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Breakout above $45 (2021 high, just below it); bull ~$60 within 12 months",
+   "thesis": "Recession-resistant consumer staples/pet company, ~$2.6bn market cap, trading at 14x forward earnings (below 16x sector median) with earnings expected +27% over 4 years, ~$300m/year free cash flow and a healthy balance sheet. Stock has traded sideways ~5-6 years; a break above the $45 2021 high is the trigger.",
+   "base_case": "Cheap valuation with steady pet/garden demand; range-bound until the breakout.",
+   "bull_case": "Breaks above $45 and runs to ~$60 within 12 months as price moves ahead of fundamentals.",
+   "bear_case": "Five-plus years sideways for a reason; in a recession pet owners may trade down on food/spend, and the breakout may not come.",
+   "analyzed_at": "2026-11-13T10:59:53Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
