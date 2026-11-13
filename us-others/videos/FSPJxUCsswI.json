@@ -1,0 +1,20 @@
+{
+ "video_id": "FSPJxUCsswI",
+ "title": "Why NVIDIA Is in Trouble: 7 Reasons to Sell After the Scandal",
+ "creator": "Asymmetric Investing",
+ "handle": "@asymmetricinvesting",
+ "published_at": "2026-11-12T17:55:35.511371+00:00",
+ "summary": "Travis Hoyt argues Nvidia is in trouble after Jensen Huang resigned on 12 November (CFO Colette Kress named interim CEO) and lays out seven reasons not to buy the dip. First, Nvidia was built around Huang — 60+ direct reports, reading 100 emails a day, the driving force behind CUDA — and no successor, least of all the CFO, can replace that vision. Second, China demand will dry up as the US cracks down on chips reaching China, pressuring revenue and the 75% gross margin. Third, the neocloud circular financing Huang created (funding customers like CoreWeave, who then buy Nvidia chips) falls apart without him; CoreWeave, Nebius and IREN all fell on the news. Fourth, hyperscalers (Alphabet's TPUs, Amazon's Trainium) gain leverage and will push for better pricing. Fifth, startup funding shrinks as one of the ecosystem's biggest funders exits, while hyperscalers are collectively free-cash-flow negative. Sixth, a brain drain is likely as rivals poach Nvidia talent. Seventh, the Nvidia premium — operational and valuation — is gone; even at low-teens forward earnings the stock could grind lower for three to five years. He holds no Nvidia in his portfolio. (Auto-captions garble some names, e.g. 'Jensen Wong' for Huang.)",
+ "calls": [
+  {
+   "video_id": "FSPJxUCsswI",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "NVDA",
+   "direction": "SELL",
+   "thesis": "Huang has resigned (CFO Colette Kress interim CEO) and Nvidia loses its visionary: no successor can replace his role, China demand dries up, neocloud circular financing unravels, hyperscalers gain leverage with own chips, startup funding and talent drain; the Nvidia premium is gone and the stock could grind slowly lower for 3-5 years. Not buying the dip.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Stock fell to ~$150 at the open on 12 Nov after the resignation; ~35% below its Oct record"
+  }
+ ]
+}
