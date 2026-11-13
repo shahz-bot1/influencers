@@ -3,6 +3,24 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "66RFXm4jz6U",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Nvidia Is Falling. These 4 Stocks I Own Could Win From It",
+   "published_at": "2026-11-13T18:40:03.476504+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "CONDITIONAL_BUY (8 Nov) -> BUY",
+   "price_at_call": "Added in the low $700s; forward P/E 4.3x (stated)",
+   "thesis": "FLIP from CONDITIONAL_BUY (8 Nov) — was a net seller of Micron this year but added in the low $700s last week; margin of safety and risk/reward 'quite good' at 4.3x forward earnings; HBM and long-term agreements mean the cycle peak is not near and the down-cycle should be milder than before.",
+   "base_case": "Revenue and free cash flow through FY29 dwarf anything the company has done before; no extreme down-cycle.",
+   "bull_case": "Back to $1,000 per share in the short run, possibly all-time highs.",
+   "bear_case": "Memory cycle turns as it has before; margins compress.",
+   "analyzed_at": "2026-11-13T19:04:00Z",
+   "collab": false
+  },
+  {
    "video_id": "v2oNlrJDE6k",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -310,24 +328,24 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
-   "idx": 2
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "MarketBeat",
-   "idx": 6
+   "idx": 7
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 12
+   "idx": 13
   }
  ]
 }
