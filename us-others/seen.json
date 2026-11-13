@@ -67,8 +67,8 @@
  "Of4_80Z_cvY": {
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio: October Stock Buys",
-  "published_at": "2026-10-13T04:55:34.790305+00:00",
-  "analyzed_at": "2026-11-12T04:59:16.436274+00:00",
+  "published_at": "2026-10-14T04:55:35.511371+00:00",
+  "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
@@ -493,8 +493,8 @@
  "A8juPdhm1aM": {
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio Buys - November 2026",
-  "published_at": "2026-11-05T04:55:34.790305+00:00",
-  "analyzed_at": "2026-11-12T04:59:16.436274+00:00",
+  "published_at": "2026-11-05T04:55:35.511371+00:00",
+  "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
@@ -582,6 +582,27 @@
   "title": "9 Insanely Cheap AI Stocks to Buy Now",
   "published_at": "2026-11-11T16:55:34.790305+00:00",
   "analyzed_at": "2026-11-12T04:59:16.436274+00:00",
+  "alerted": true
+ },
+ "MEcTLSQUA1s": {
+  "channel": "Joseph Hogue, CFA",
+  "title": "11 Stock Portfolio that Beats the Market",
+  "published_at": "2026-11-12T16:55:35.511371+00:00",
+  "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+  "alerted": true
+ },
+ "FSPJxUCsswI": {
+  "channel": "Asymmetric Investing",
+  "title": "Why NVIDIA Is in Trouble: 7 Reasons to Sell After the Scandal",
+  "published_at": "2026-11-12T17:55:35.511371+00:00",
+  "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+  "alerted": true
+ },
+ "h4k6-xHcwlw": {
+  "channel": "Jose Najarro Stocks",
+  "title": "Nvidia CEO Jensen Huang Is OUT \u2014 Why I'm NOT Selling NVDA Stock!!",
+  "published_at": "2026-11-12T17:55:35.511371+00:00",
+  "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
   "alerted": true
  }
 }
