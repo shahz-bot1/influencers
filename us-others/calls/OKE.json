@@ -1,0 +1,22 @@
+{
+ "ticker": "OKE",
+ "slug": "OKE",
+ "calls": [
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "OKE",
+   "direction": "BUY",
+   "thesis": "Midstream cash-flow machine: ~90% fee revenue, 47% total return over the last year, 30+ years of dividend stability, 3-4% annual dividend growth targeted plus a $2bn buyback.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up 42% over the last year, 4.6% dividend yield"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
