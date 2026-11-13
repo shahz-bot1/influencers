@@ -3,6 +3,24 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "H0-3514112k",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "What's Going on With CoreWeave Stock? | CRWV Stock Deep Dive Part 1",
+   "published_at": "2026-11-13T00:55:18.738341+00:00",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV $94 vs price $61.53 (after +26% day); forward P/S ~1.28",
+   "thesis": "BUY reiterated (upgraded 14 Oct, conviction raised 5 Nov): revenue $3.7bn +168% YoY, backlog ~$133bn, margins rising faster than planned and funding anchored by secured lending, prepayments and operating cash flow; but $50bn+ long-term debt makes it one of the riskiest stocks — high risk tolerance only.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  },
+  {
    "video_id": "i4Rh8-uJ_Jw",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -160,16 +178,16 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
