@@ -1,0 +1,28 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-11T06:55:18.738341+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc asks whether BigBear.ai (BBAI) is finally a buying opportunity after its third consecutive quarter of revenue growth, noting the stock is down over 50% year-to-date in 2026 and that he has warned all year it was too expensive. Revenue rose 31% in the quarter, management raised full-year 2026 guidance to $150–165 million for the first time — about 23% growth at the midpoint — and backlog reached $330 million, up 22% from the prior quarter. Gross margins improved by 878 basis points and the cash-flow-to-sales ratio improved after years of deterioration, though the company still loses money, holds almost $400 million in cash and short-term investments, and trailing-twelve-month revenue of $142 million remains below its mid-2023 peak of $162 million. He sizes the opportunity at roughly $140 billion, combining $112 billion of expected 2027 US defence AI and autonomy spending with a global aviation security market growing from over $17 billion in 2026 to $27 billion by 2031. Valuation is still rich at a forward price-to-sales ratio of 6.8 versus rivals, though cheaper than in 2025. His discounted cash flow fair value rose to about $2.50 against a current price of about $2.45 — the auto-captions garble these as $25 and $245 — so the stock is converging on fair value but not there yet. Call: BBAI AVOID at about $2.45, fair value about $2.50, with another solid quarter potentially earning an upgrade to BUY.",
+ "title": "Why Is BigBear.ai Stock Crashing, and is it a Buying Opportunity? BBAI Stock Analysis",
+ "video_id": "4Cw_bYmQo_0",
+ "calls": [
+  {
+   "video_id": "4Cw_bYmQo_0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is BigBear.ai Stock Crashing, and is it a Buying Opportunity? BBAI Stock Analysis",
+   "published_at": "2026-11-11T06:55:18.738341+00:00",
+   "ticker": "BBAI",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV ~$2.50 vs price ~$2.45 (auto-captions dropped decimals: '$25'/'$245')",
+   "thesis": "Not a buy yet but getting closer — third straight quarter of growth (+31%), guidance raised to $150-165m, backlog $330m (+22% QoQ), gross margin +878bps; still cash-flow negative and forward P/S 6.8 looks expensive vs peers.",
+   "base_case": "",
+   "bull_case": "Another solid quarter like this, with margins improving for several quarters running, would signal an inflection and earn a BUY upgrade.",
+   "bear_case": "Volatile sales history, leadership churn and worsening operating cash flow resume; the stock stays a value trap.",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  }
+ ]
+}
