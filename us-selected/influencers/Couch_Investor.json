@@ -4,6 +4,38 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-11-13T18:40:03.476504+00:00",
+   "price": "Close to $300 per share; forward P/E 21.1x (stated)",
+   "video_id": "66RFXm4jz6U"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-13T18:40:03.476504+00:00",
+   "price": "21.5x trailing earnings, 19.1x forward earnings (stated)",
+   "video_id": "66RFXm4jz6U"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-13T18:40:03.476504+00:00",
+   "price": "Added in the low $700s; forward P/E 4.3x (stated)",
+   "video_id": "66RFXm4jz6U"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-13T18:40:03.476504+00:00",
+   "price": "No stated price; position now bigger than his NVDA",
+   "video_id": "66RFXm4jz6U"
+  },
+  {
    "ticker": "NBIS",
    "tickerSlug": "NBIS",
    "direction": "CONDITIONAL_BUY",
