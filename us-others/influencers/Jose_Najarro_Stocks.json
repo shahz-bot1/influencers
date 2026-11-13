@@ -6,6 +6,30 @@
   {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
+   "direction": "HOLD",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "~$150 at recording, up ~10% from the intraday low, forward P/E ~10-11x",
+   "video_id": "h4k6-xHcwlw"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Latest buys in the $44-48 range",
+   "video_id": "h4k6-xHcwlw"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "No price stated",
+   "video_id": "h4k6-xHcwlw"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
    "direction": "BUY",
    "date": "2026-11-09T05:10:39.474328+00:00",
    "price": "~$180 overnight, -3% from Friday's close, ~24% below the October closing high of ~$240; forward P/E ~13x Friday, ~12.5x after the overnight drop",
