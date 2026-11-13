@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "ASH",
+   "tickerSlug": "ASH",
+   "direction": "BUY",
+   "date": "2026-11-12T23:55:18.738341+00:00",
+   "price": "$76 (stated current); comp-implied ~$118 if sold (he does not expect $118)",
+   "video_id": "8HBjdVljGgY"
+  },
+  {
+   "ticker": "CENTA",
+   "tickerSlug": "CENTA",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-12T23:55:18.738341+00:00",
+   "price": "Breakout above $45 (2021 high, just below it); bull ~$60 within 12 months",
+   "video_id": "8HBjdVljGgY"
+  },
+  {
+   "ticker": "HCA",
+   "tickerSlug": "HCA",
+   "direction": "BUY",
+   "date": "2026-11-12T23:55:18.738341+00:00",
+   "price": "~10% below all-time highs (no current price stated)",
+   "video_id": "8HBjdVljGgY"
+  },
+  {
    "ticker": "GOLD",
    "tickerSlug": "GOLD",
    "direction": "BUY",
