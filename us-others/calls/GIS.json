@@ -1,0 +1,22 @@
+{
+ "ticker": "GIS",
+ "slug": "GIS",
+ "calls": [
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "GIS",
+   "direction": "BUY",
+   "thesis": "Worst stock in its group (down 27%) but getting very attractive on valuation with strong brands; 125+ years of uninterrupted dividends; $750m cost savings targeted in FY27, $3bn through 2030.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Down 27% over the last year, 7% dividend yield"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
