@@ -7,6 +7,30 @@
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
+   "date": "2026-11-13T19:58:06.953325+00:00",
+   "price": "~$165 (stated); DCF fair value cut to $257 (was $313)",
+   "video_id": "Zy-2b4qLLcc"
+  },
+  {
+   "ticker": "DELL",
+   "tickerSlug": "DELL",
+   "direction": "HOLD",
+   "date": "2026-11-13T00:55:18.738341+00:00",
+   "price": "FV $287 vs price $377 (after +13% day); forward P/E 12.44",
+   "video_id": "znm98foYb8I"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-13T00:55:18.738341+00:00",
+   "price": "FV $94 vs price $61.53 (after +26% day); forward P/S ~1.28",
+   "video_id": "H0-3514112k"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
    "date": "2026-11-12T19:58:31.532271+00:00",
    "price": "~$160 after-hours (stated); DCF fair value $313",
    "video_id": "kenZihNMD_E"
@@ -50,6 +74,54 @@
    "date": "2026-11-12T13:55:40.914585+00:00",
    "price": "$19.73",
    "video_id": "jXVBPh_WvOY"
+  },
+  {
+   "ticker": "HIMS",
+   "tickerSlug": "HIMS",
+   "direction": "BUY",
+   "date": "2026-11-12T06:55:18.738341+00:00",
+   "price": "FV just over $22 vs price $19; forward P/E 25.4",
+   "video_id": "JBLeLx9gFbs"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-12T06:55:18.738341+00:00",
+   "price": "FV $365 vs price $272",
+   "video_id": "3DKnFZ4FTXc"
+  },
+  {
+   "ticker": "UBER",
+   "tickerSlug": "UBER",
+   "direction": "BUY",
+   "date": "2026-11-12T06:55:18.738341+00:00",
+   "price": "FV $110 vs price $70",
+   "video_id": "3DKnFZ4FTXc"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-12T06:55:18.738341+00:00",
+   "price": "No new FV/price stated in this video",
+   "video_id": "3DKnFZ4FTXc"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-12T06:55:18.738341+00:00",
+   "price": "No new FV/price stated in this video",
+   "video_id": "3DKnFZ4FTXc"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-11-12T06:55:18.738341+00:00",
+   "price": "No new FV/price stated in this video",
+   "video_id": "3DKnFZ4FTXc"
   },
   {
    "ticker": "NVDA",
@@ -130,6 +202,14 @@
    "date": "2026-11-11T12:55:28.679505+00:00",
    "price": "Market $390 (stated); DCF fair value $567; forward P/E 16.7",
    "video_id": "v2oNlrJDE6k"
+  },
+  {
+   "ticker": "BBAI",
+   "tickerSlug": "BBAI",
+   "direction": "AVOID",
+   "date": "2026-11-11T06:55:18.738341+00:00",
+   "price": "FV ~$2.50 vs price ~$2.45 (auto-captions dropped decimals: '$25'/'$245')",
+   "video_id": "4Cw_bYmQo_0"
   },
   {
    "ticker": "BROS",
