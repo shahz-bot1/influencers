@@ -3,6 +3,24 @@
  "slug": "HIMS",
  "calls": [
   {
+   "video_id": "JBLeLx9gFbs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Hims Stock Crashing, and is it a Buying Opportunity?",
+   "published_at": "2026-11-12T06:55:18.738341+00:00",
+   "ticker": "HIMS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV just over $22 vs price $19; forward P/E 25.4",
+   "thesis": "BUY reiterated but conviction cut medium to low: revenue +49%, subscribers +13% to 2.79m, revenue per subscriber +30% to $105, but G&A nearly doubled to $151.5m, operating income swung to -$66m and operating cash flow halved to $119m; the ~19% drop is reasonable and the stock still looks undervalued on DCF and P/E.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  },
+  {
    "video_id": "WZIfLpuA3eo",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -40,7 +58,7 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
