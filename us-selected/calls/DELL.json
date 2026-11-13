@@ -3,6 +3,24 @@
  "slug": "DELL",
  "calls": [
   {
+   "video_id": "znm98foYb8I",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Dell Stock Before the Huge Investor Update?",
+   "published_at": "2026-11-13T00:55:18.738341+00:00",
+   "ticker": "DELL",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV $287 vs price $377 (after +13% day); forward P/E 12.44",
+   "thesis": "HOLD reiterated ahead of earnings: AI data-centre demand is booming and operating margin is at a record 9.9%, but the consumer business is weak, DCF says overvalued and P/E only fairly valued — not a buying opportunity at these levels.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  },
+  {
    "video_id": "6NOUMblSxqY",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -24,8 +42,12 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 1
   }
  ]
 }
