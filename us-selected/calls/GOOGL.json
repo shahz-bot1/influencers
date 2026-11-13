@@ -3,6 +3,24 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "66RFXm4jz6U",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Nvidia Is Falling. These 4 Stocks I Own Could Win From It",
+   "published_at": "2026-11-13T18:40:03.476504+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Close to $300 per share; forward P/E 21.1x (stated)",
+   "thesis": "BUY reiterated (was BUY 8 Nov) — Alphabet 'very cheap' at ~21x forward earnings; GCP and the TPU business gaining traction and set to become much bigger in 2027 as Nvidia alternatives gain share; capex growth slowing toward a free-cash-flow inflection; 'gets overlooked'.",
+   "base_case": "GCP/TPU keep growing and get more profitable; capex growth slows and the core business keeps compounding toward an FCF inflection.",
+   "bull_case": "TPU becomes a much bigger business in 2027; Google close to generating free cash flow sooner than expected.",
+   "bear_case": "AI-spend worries and heavy capex persist; FCF inflection slips.",
+   "analyzed_at": "2026-11-13T19:04:00Z",
+   "collab": false
+  },
+  {
    "video_id": "GSmzKs643dQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -504,28 +522,28 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "MarketBeat",
    "idx": 2
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 6
+   "idx": 7
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 9
+   "idx": 10
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 14
+   "idx": 15
   }
  ]
 }
