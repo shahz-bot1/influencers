@@ -1,0 +1,28 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-13T00:55:18.738341+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc revisits Dell Technologies ahead of its earnings report and investor update, asking whether it is a buying opportunity again after a wild round trip. Dell was one of his better picks for years, but he downgraded it earlier this year when the price rose above $400; the stock then soared to $600 before crashing back to around $350, and it now trades at $377 after a 13% single-day jump. Wall Street analysts expect roughly 38% earnings-per-share growth each year for the next few years on booming AI data-centre server demand, while the consumer segment struggles as surging component prices dampen PC and laptop demand, a headwind expected into at least mid-next year. Dell's operating margin is at a record high of 9.9%, return on invested capital is also at a record high, and its made-to-order model keeps inventory costs low, though rivals Super Micro and Hewlett Packard Enterprise operate on similarly thin margins. Valuation has compressed to a forward price-to-earnings ratio of 12.44, down from about 19 earlier this year but still above the four to five times level of early 2026. His discounted cash flow fair value is $287 per share versus the $377 price, so the stock looks overvalued on that basis and fairly valued on earnings. Call: DELL HOLD at $377, fair value $287, first tracked, reiterating the hold he set earlier this year and repeated on 17 August — not a buy at these levels, especially with earnings volatility ahead.",
+ "title": "Should You Buy Dell Stock Before the Huge Investor Update?",
+ "video_id": "znm98foYb8I",
+ "calls": [
+  {
+   "video_id": "znm98foYb8I",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Dell Stock Before the Huge Investor Update?",
+   "published_at": "2026-11-13T00:55:18.738341+00:00",
+   "ticker": "DELL",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV $287 vs price $377 (after +13% day); forward P/E 12.44",
+   "thesis": "HOLD reiterated ahead of earnings: AI data-centre demand is booming and operating margin is at a record 9.9%, but the consumer business is weak, DCF says overvalued and P/E only fairly valued — not a buying opportunity at these levels.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  }
+ ]
+}
