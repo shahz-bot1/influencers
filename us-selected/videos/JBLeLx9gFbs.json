@@ -1,0 +1,28 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-12T06:55:18.738341+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc reviews Hims & Hers (HIMS) after quarterly results that sent the stock down almost 19% in a day, asking whether the dip is a buying opportunity. Revenue rose 49%, with 21% domestic growth and a surge internationally following a new acquisition, subscribers grew 13% to 2.79 million as of 30 September, and monthly revenue per average subscriber rose 30% to $105 — impressive because new subscribers usually spend less, so existing customers must be spending much more. Management guides to $885 million of revenue and $80 million of adjusted EBIT next quarter, similar to the quarter just reported. The disappointment is cost: general and administrative expenses nearly doubled year over year to $151.5 million, which he suspects relates to the acquisition, operating income swung from $11.8 million to minus $66 million, cash flow from operations fell from $239 million to $119 million, and the company paid $318 million for acquisitions, leaving nothing for buybacks versus $9.5 million a year earlier. He calls the drop reasonable and argues the direct-to-consumer model — owning the customer relationship and bypassing insurers and middlemen — remains attractive in a convoluted US healthcare system. The stock now trades at a forward price-to-earnings ratio of 25.4, near its lowest since 2025, and his discounted cash flow fair value is just over $22 per share against a $19 market price. Call: HIMS BUY at $19, fair value just over $22, reiterated but with conviction cut from medium to low (dated 10 November in the captions).",
+ "title": "Why Is Hims Stock Crashing, and is it a Buying Opportunity?",
+ "video_id": "JBLeLx9gFbs",
+ "calls": [
+  {
+   "video_id": "JBLeLx9gFbs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Hims Stock Crashing, and is it a Buying Opportunity?",
+   "published_at": "2026-11-12T06:55:18.738341+00:00",
+   "ticker": "HIMS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV just over $22 vs price $19; forward P/E 25.4",
+   "thesis": "BUY reiterated but conviction cut medium to low: revenue +49%, subscribers +13% to 2.79m, revenue per subscriber +30% to $105, but G&A nearly doubled to $151.5m, operating income swung to -$66m and operating cash flow halved to $119m; the ~19% drop is reasonable and the stock still looks undervalued on DCF and P/E.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  }
+ ]
+}
