@@ -1,0 +1,28 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-13T00:55:18.738341+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc reviews CoreWeave (CRWV) after quarterly results that lifted the stock 26% the next day, asking whether it is still a buying opportunity after his upgrade about six weeks ago and conviction raise on 5 November. Revenue reached $3.7 billion, up 168% year over year and above guidance, adding $1 billion from the prior quarter, while adjusted operating income hit $379 million versus $230 million forecast and the newest contracts are among the most profitable ever underwritten. Backlog grew to approximately $133 billion and active power more than doubled since the start of the year to over 1.7 gigawatts, with data centres online faster than expected — unlike IREN, whose build-out slipped by a couple of months. He spends much of the video on funding, the industry's central worry: data centres need huge upfront cash before revenue arrives, a mismatch he compares to building an apartment block before collecting rent. Management says funding is anchored by secured lending, customer prepayments and operating cash flow, not the circular-financing scheme some fear. The risk is real — over $50 billion of long-term debt and revenue that only materialises if the capacity gets built — but the stock trades at a forward price-to-sales ratio of 1.283, near its cheapest in years, and his fair value is $94 against a $61.53 price. Call: CRWV BUY at $61.53, fair value $94, reiterated, but only for high-risk-tolerance investors, with Nvidia as a key strategic supporter ahead of its 17 November earnings.",
+ "title": "What's Going on With CoreWeave Stock? | CRWV Stock Deep Dive Part 1",
+ "video_id": "H0-3514112k",
+ "calls": [
+  {
+   "video_id": "H0-3514112k",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "What's Going on With CoreWeave Stock? | CRWV Stock Deep Dive Part 1",
+   "published_at": "2026-11-13T00:55:18.738341+00:00",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV $94 vs price $61.53 (after +26% day); forward P/S ~1.28",
+   "thesis": "BUY reiterated (upgraded 14 Oct, conviction raised 5 Nov): revenue $3.7bn +168% YoY, backlog ~$133bn, margins rising faster than planned and funding anchored by secured lending, prepayments and operating cash flow; but $50bn+ long-term debt makes it one of the riskiest stocks — high risk tolerance only.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  }
+ ]
+}
