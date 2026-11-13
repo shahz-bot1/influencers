@@ -1,0 +1,22 @@
+{
+ "ticker": "HPQ",
+ "slug": "HPQ",
+ "calls": [
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "HPQ",
+   "direction": "BUY",
+   "thesis": "World's largest PC/printer maker benefiting from AI-PC demand; Q3 FY26 revenue +12.5% to $15bn; up to $3.2bn free cash flow expected in FY26; 9 consecutive dividend increases.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up 4% over the last year, 4.2% dividend yield"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
