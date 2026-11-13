@@ -3,6 +3,24 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "3DKnFZ4FTXc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 4th Best Stock to Buy Right Now?",
+   "published_at": "2026-11-12T06:55:18.738341+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV $365 vs price $272",
+   "thesis": "Ranked his #4 best stock to buy right now: EPS growth ~23.4%/yr, AWS margins near 40% and rising, most durable moat of the pair; undervalued ~30% after margin of safety.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  },
+  {
    "video_id": "EL9pZIwiMNQ",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -325,24 +343,24 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 6
+   "idx": 7
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 13
+   "idx": 14
   }
  ]
 }
