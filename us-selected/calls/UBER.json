@@ -3,6 +3,24 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "3DKnFZ4FTXc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 4th Best Stock to Buy Right Now?",
+   "published_at": "2026-11-12T06:55:18.738341+00:00",
+   "ticker": "UBER",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "FV $110 vs price $70",
+   "thesis": "Ranked #5, just behind Amazon: EPS growth 30%+/yr, better operating margin (14% vs 13.3%) and cheaper at 16x forward P/E vs 25x, but higher risk — driverless tech is both a threat and a cost-saving opportunity.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  },
+  {
    "video_id": "7mzj-HjCFOQ",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -210,24 +228,24 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 2
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 9
+   "idx": 10
   },
   {
    "channel": "Couch Investor",
-   "idx": 11
+   "idx": 12
   }
  ]
 }
