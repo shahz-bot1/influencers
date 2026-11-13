@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T05:02:10.972287+00:00",
+ "updated": "2026-11-13T05:02:54.641695+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -104,6 +104,23 @@
    ],
    "lastStated": "",
    "nCalls": 2
+  },
+  {
+   "ticker": "AMCR",
+   "slug": "AMCR",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$20"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Up 20% over the last year, 5.3% dividend yield, $2.60/share annually",
+   "nCalls": 1
   },
   {
    "ticker": "AMD",
@@ -717,12 +734,12 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-10-28T04:58:24.879445+00:00",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$44"
     },
     {
      "dir": "AVOID",
@@ -736,8 +753,8 @@
     "Daniel Pronk",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No price stated",
-   "nCalls": 9
+   "lastStated": "Latest buys in the $44-48 range",
+   "nCalls": 10
   },
   {
    "ticker": "DHI",
@@ -791,6 +808,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "EIX",
+   "slug": "EIX",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$9"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Up 9% over the last year, 5.9% dividend yield",
+   "nCalls": 1
+  },
+  {
    "ticker": "ETHA",
    "slug": "ETHA",
    "lastDate": "2026-10-19T04:01:40.277005+00:00",
@@ -822,6 +856,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "F",
+   "slug": "F",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$5"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Down 5% over the last year, 4.8% dividend yield",
    "nCalls": 1
   },
   {
@@ -950,6 +1001,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "GIS",
+   "slug": "GIS",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$27"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Down 27% over the last year, 7% dividend yield",
+   "nCalls": 1
+  },
+  {
    "ticker": "GOOGL",
    "slug": "GOOGL",
    "lastDate": "2026-10-29T04:58:25.783269+00:00",
@@ -1046,6 +1114,23 @@
    ],
    "lastStated": "No share price stated; analyst average target $139 (~42% upside), low target $11",
    "nCalls": 3
+  },
+  {
+   "ticker": "HPQ",
+   "slug": "HPQ",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$4"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Up 4% over the last year, 4.2% dividend yield",
+   "nCalls": 1
   },
   {
    "ticker": "INTC",
@@ -1464,8 +1549,13 @@
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-10-24T03:57:34.097774+00:00",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
     {
      "dir": "CONDITIONAL_BUY",
      "n": 1,
@@ -1478,12 +1568,13 @@
     }
    ],
    "influencers": [
+    "Jose Najarro Stocks",
     "Asymmetric Investing",
     "Daniel Pronk",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No share price stated; September convertible debt trading at about 85 cents on t",
-   "nCalls": 4
+   "lastStated": "No price stated",
+   "nCalls": 5
   },
   {
    "ticker": "NET",
@@ -1602,12 +1693,22 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-11T21:55:34.790305+00:00",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 3,
-     "avg": "$228.17"
+     "n": 2,
+     "avg": "$252.25"
+    },
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$150"
+    },
+    {
+     "dir": "SELL",
+     "n": 1,
+     "avg": "$150"
     },
     {
      "dir": "AVOID",
@@ -1616,13 +1717,14 @@
     }
    ],
    "influencers": [
+    "Asymmetric Investing",
+    "Jose Najarro Stocks",
     "Daniel Pronk",
     "Joseph Hogue, CFA",
-    "Tom Nash",
-    "Jose Najarro Stocks"
+    "Tom Nash"
    ],
-   "lastStated": "No share price stated; 15x forward P/E, lowest since 2012",
-   "nCalls": 14
+   "lastStated": "Stock fell to ~$150 at the open on 12 Nov after the resignation; ~35% below its ",
+   "nCalls": 16
   },
   {
    "ticker": "NVDY",
@@ -1639,6 +1741,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "47% targeted distribution rate",
+   "nCalls": 1
+  },
+  {
+   "ticker": "OKE",
+   "slug": "OKE",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$42"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Up 42% over the last year, 4.6% dividend yield",
    "nCalls": 1
   },
   {
@@ -1742,6 +1861,23 @@
     "Sven Carlin"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "PFE",
+   "slug": "PFE",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$23"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Up 23% over the last year, 5.6% dividend yield",
    "nCalls": 1
   },
   {
@@ -2257,6 +2393,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "TROW",
+   "slug": "TROW",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$4"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Up ~4% over the last year, 4.9% dividend yield",
+   "nCalls": 1
+  },
+  {
    "ticker": "TSLA",
    "slug": "TSLA",
    "lastDate": "2026-09-30T03:57:13.629546+00:00",
@@ -2298,6 +2451,23 @@
    "nCalls": 4
   },
   {
+   "ticker": "UPS",
+   "slug": "UPS",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$15"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Up 15% over the last year, 6% dividend yield",
+   "nCalls": 1
+  },
+  {
    "ticker": "USB",
    "slug": "USB",
    "lastDate": "2026-10-08T05:10:00+00:00",
@@ -2312,6 +2482,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "VICI",
+   "slug": "VICI",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$18"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Down 18% over the last year, 7.4% dividend yield",
    "nCalls": 1
   },
   {
@@ -2330,6 +2517,23 @@
    ],
    "lastStated": "0.38x PEG",
    "nCalls": 2
+  },
+  {
+   "ticker": "VZ",
+   "slug": "VZ",
+   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$14"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Up 14% over the last year, 6.3% dividend yield",
+   "nCalls": 1
   },
   {
    "ticker": "WFC",
@@ -2428,8 +2632,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 29,
-   "nVideos": 14
+   "nCalls": 30,
+   "nVideos": 15
   },
   {
    "name": "Brian Feroldi",
@@ -2456,15 +2660,15 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 40,
-   "nVideos": 20
+   "nCalls": 43,
+   "nVideos": 21
   },
   {
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 144,
-   "nVideos": 17
+   "nCalls": 155,
+   "nVideos": 18
   },
   {
    "name": "Patient Investor",
@@ -2496,6 +2700,36 @@
   }
  ],
  "videos": [
+  {
+   "id": "FSPJxUCsswI",
+   "title": "Why NVIDIA Is in Trouble: 7 Reasons to Sell After the Scandal",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-11-12T17:55:35.511371+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "h4k6-xHcwlw",
+   "title": "Nvidia CEO Jensen Huang Is OUT — Why I'm NOT Selling NVDA Stock!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-11-12T17:55:35.511371+00:00",
+   "nCalls": 3
+  },
+  {
+   "id": "MEcTLSQUA1s",
+   "title": "11 Stock Portfolio that Beats the Market",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-11-12T16:55:35.511371+00:00",
+   "nCalls": 11
+  },
   {
    "id": "fpJfxrgZz1o",
    "title": "Buy The Dip On Nvidia Or Wait It Out?",
