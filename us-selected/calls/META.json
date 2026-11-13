@@ -3,6 +3,42 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "66RFXm4jz6U",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Nvidia Is Falling. These 4 Stocks I Own Could Win From It",
+   "published_at": "2026-11-13T18:40:03.476504+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "21.5x trailing earnings, 19.1x forward earnings (stated)",
+   "thesis": "BUY reiterated (was BUY 8 Nov) — ads had a better quarter than other advertisers; core business 'still very profitable' and growing ~28% this fiscal year, 21.7% next, 19.2% in FY28; 'does not get the respect it deserves'.",
+   "base_case": "Ad momentum continues; free cash flow returns by FY28 on the guided growth path.",
+   "bull_case": "Growth runs above the ~28%/22%/19% path; multiple re-rates.",
+   "bear_case": "AI-spend drag deepens with no cloud business to offset it.",
+   "analyzed_at": "2026-11-13T19:04:00Z",
+   "collab": false
+  },
+  {
+   "video_id": "3DKnFZ4FTXc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The 4th Best Stock to Buy Right Now?",
+   "published_at": "2026-11-12T06:55:18.738341+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No new FV/price stated in this video",
+   "thesis": "Restated as his #1 best stock to buy right now in the AMZN vs UBER comparison; no new FV or price given in this video.",
+   "base_case": "",
+   "bull_case": "",
+   "bear_case": "",
+   "analyzed_at": "2026-11-13T18:06:01Z",
+   "collab": false
+  },
+  {
    "video_id": "T3LdlJH2iLE",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -382,7 +418,7 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
@@ -390,7 +426,7 @@
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 2
   }
  ]
