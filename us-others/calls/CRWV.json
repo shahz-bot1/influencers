@@ -3,6 +3,16 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "h4k6-xHcwlw",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "thesis": "Actively buying during the sell-off and still buying at these levels; CoreWeave had a way better earnings print than Nebius; exposure increased dramatically.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Latest buys in the $44-48 range"
+  },
+  {
    "video_id": "Qf72K1Fends",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -102,15 +112,15 @@
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Daniel Pronk",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
