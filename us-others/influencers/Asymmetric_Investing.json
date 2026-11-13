@@ -4,6 +4,14 @@
  "slug": "Asymmetric_Investing",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "SELL",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Stock fell to ~$150 at the open on 12 Nov after the resignation; ~35% below its Oct record",
+   "video_id": "FSPJxUCsswI"
+  },
+  {
    "ticker": "HIMS",
    "tickerSlug": "HIMS",
    "direction": "HOLD",
