@@ -4,6 +4,94 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "OKE",
+   "tickerSlug": "OKE",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Up 42% over the last year, 4.6% dividend yield",
+   "video_id": "MEcTLSQUA1s"
+  },
+  {
+   "ticker": "PFE",
+   "tickerSlug": "PFE",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Up 23% over the last year, 5.6% dividend yield",
+   "video_id": "MEcTLSQUA1s"
+  },
+  {
+   "ticker": "AMCR",
+   "tickerSlug": "AMCR",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Up 20% over the last year, 5.3% dividend yield, $2.60/share annually",
+   "video_id": "MEcTLSQUA1s"
+  },
+  {
+   "ticker": "GIS",
+   "tickerSlug": "GIS",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Down 27% over the last year, 7% dividend yield",
+   "video_id": "MEcTLSQUA1s"
+  },
+  {
+   "ticker": "HPQ",
+   "tickerSlug": "HPQ",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Up 4% over the last year, 4.2% dividend yield",
+   "video_id": "MEcTLSQUA1s"
+  },
+  {
+   "ticker": "TROW",
+   "tickerSlug": "TROW",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Up ~4% over the last year, 4.9% dividend yield",
+   "video_id": "MEcTLSQUA1s"
+  },
+  {
+   "ticker": "UPS",
+   "tickerSlug": "UPS",
+   "direction": "AVOID",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Up 15% over the last year, 6% dividend yield",
+   "video_id": "MEcTLSQUA1s"
+  },
+  {
+   "ticker": "VICI",
+   "tickerSlug": "VICI",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Down 18% over the last year, 7.4% dividend yield",
+   "video_id": "MEcTLSQUA1s"
+  },
+  {
+   "ticker": "F",
+   "tickerSlug": "F",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Down 5% over the last year, 4.8% dividend yield",
+   "video_id": "MEcTLSQUA1s"
+  },
+  {
+   "ticker": "EIX",
+   "tickerSlug": "EIX",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Up 9% over the last year, 5.9% dividend yield",
+   "video_id": "MEcTLSQUA1s"
+  },
+  {
+   "ticker": "VZ",
+   "tickerSlug": "VZ",
+   "direction": "BUY",
+   "date": "2026-11-13T04:59:10.909488+00:00",
+   "price": "Up 14% over the last year, 6.3% dividend yield",
+   "video_id": "MEcTLSQUA1s"
+  },
+  {
    "ticker": "ALAB",
    "tickerSlug": "ALAB",
    "direction": "BUY",
