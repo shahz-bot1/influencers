@@ -1,0 +1,31 @@
+{
+ "ticker": "HCA",
+ "slug": "HCA",
+ "calls": [
+  {
+   "video_id": "8HBjdVljGgY",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Forget the NVIDIA Dip (3 Stocks That Are Actually Cheap)",
+   "published_at": "2026-11-12T23:55:18.738341+00:00",
+   "guest": "Mark Lichtenfeld (Oxford Club)",
+   "ticker": "HCA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~10% below all-time highs (no current price stated)",
+   "thesis": "Largest hospital network in the US, somewhat recession-proof (people need care in good times and bad), trading at 17x PE trailing and forward vs a 20x sector median while earnings are projected to more than triple over 10 years; strong Texas/Florida demographics. Political tailwinds: Democrats controlling Congress fighting to roll back Medicaid cuts, and Medicare for All on the table post-2028 if they hold power.",
+   "base_case": "Single-digit earnings growth in 2026-27, accelerating to double digits from 2028; a set-it-and-forget-it long-term hold.",
+   "bull_case": "30x in ~15 years already; Medicaid rollback / Medicare for All tailwinds plus scale advantages compound over 5-10 years.",
+   "bear_case": "Politics cuts both ways — a Republican win or Congress shift in 2028 could pressure the story; the stock has had significant dips along the way despite the strong long-term chart.",
+   "analyzed_at": "2026-11-13T10:59:53Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
