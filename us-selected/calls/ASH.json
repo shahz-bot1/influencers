@@ -1,0 +1,31 @@
+{
+ "ticker": "ASH",
+ "slug": "ASH",
+ "calls": [
+  {
+   "video_id": "8HBjdVljGgY",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Forget the NVIDIA Dip (3 Stocks That Are Actually Cheap)",
+   "published_at": "2026-11-12T23:55:18.738341+00:00",
+   "guest": "Mark Lichtenfeld (Oxford Club)",
+   "ticker": "ASH",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$76 (stated current); comp-implied ~$118 if sold (he does not expect $118)",
+   "thesis": "Beaten-up ingredient/additives company (food, beauty, life sciences) at 18x 2027 earnings with earnings expected +28% in FY2027 (ends Sep 2027) and +32% over the next 2 years — PEG at or below 1, so a bargain. Activist investors have added two board members and the board is considering strategic alternatives (sale or spin-off).",
+   "base_case": "Turnaround proves out in 2027 reporting and valuation re-rates from 18x as earnings grow.",
+   "bull_case": "Sale/spin-off at a comp multiple (Celanese materials business sold at 13x EBITDA) implies ~$118/share vs $76 now, though he does not expect the full premium.",
+   "bear_case": "11% of float sold short — shorts are usually informed; company has struggled for years and has not yet proven the turnaround; transition/sale execution risk.",
+   "analyzed_at": "2026-11-13T10:59:53Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
