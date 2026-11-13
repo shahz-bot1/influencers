@@ -1,0 +1,40 @@
+{
+ "video_id": "h4k6-xHcwlw",
+ "title": "Nvidia CEO Jensen Huang Is OUT — Why I'm NOT Selling NVDA Stock!!",
+ "creator": "Jose Najarro Stocks",
+ "handle": "@josenajarrostocks",
+ "published_at": "2026-11-12T17:55:35.511371+00:00",
+ "summary": "Jose Najarro, recording on vacation, says he is not selling any Nvidia after Jensen Huang resigned and CFO Colette Kress became interim CEO. His core argument is that Huang, famously paranoid about key-man risk, built a management architecture where everyone knew everything, so the company can survive without him; the hard decisions (annual chip cadence, neocloud investments, DGX Cloud, supply-chain build-out) are already made and the AI wave still has years of runway, so the new CEO mostly has to follow the existing road map. At roughly 10-11x forward earnings he calls the stock extremely cheap with the risk priced in, and he does not expect it to go south over the next two to three years. The real risks are uncertainty: possible legal liability if the affairs involved abuse of power or the alleged Chinese spy, Jensen starting a rival company or poaching talent if he is angry about being pushed out, and whether the permanent CEO (he prefers an internal candidate) has the vision for what comes after AI. He also notes CoreWeave reported much better earnings than Nebius, says he has been actively buying CoreWeave in the $44-48 range and is still bullish on Nebius. (Auto-captions garble some names, e.g. 'Cororeef' for CoreWeave.)",
+ "calls": [
+  {
+   "video_id": "h4k6-xHcwlw",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "HOLD",
+   "thesis": "Not selling: long-term fine because Jensen built a management architecture that survives without him, the AI road map for the next 2-3 years is already laid, and at ~10-11x forward earnings the risk looks priced in. Key risks: liability from the affairs, Jensen starting a rival or poaching talent, and uncertainty over the permanent CEO; prefers an internal successor.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "~$150 at recording, up ~10% from the intraday low, forward P/E ~10-11x"
+  },
+  {
+   "video_id": "h4k6-xHcwlw",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "thesis": "Actively buying during the sell-off and still buying at these levels; CoreWeave had a way better earnings print than Nebius; exposure increased dramatically.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Latest buys in the $44-48 range"
+  },
+  {
+   "video_id": "h4k6-xHcwlw",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "thesis": "Still bullish on Nebius and calls it a great company, though CoreWeave reported better earnings this quarter.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "No price stated"
+  }
+ ]
+}
