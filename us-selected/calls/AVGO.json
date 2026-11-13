@@ -3,6 +3,24 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "66RFXm4jz6U",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Nvidia Is Falling. These 4 Stocks I Own Could Win From It",
+   "published_at": "2026-11-13T18:40:03.476504+00:00",
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "CONDITIONAL_BUY (8 Nov) -> BUY",
+   "price_at_call": "No stated price; position now bigger than his NVDA",
+   "thesis": "FLIP from CONDITIONAL_BUY (8 Nov) — 'still fairly cheap' with 'very incredible' growth rates right now; could benefit further from Nvidia's downfall; his Broadcom position is now bigger than his Nvidia position.",
+   "base_case": "AI-buildout demand keeps growth high; cash from operations keeps climbing.",
+   "bull_case": "Takes share as Nvidia stumbles; growth re-rates the name.",
+   "bear_case": "AI-spend fears keep pressing the name.",
+   "analyzed_at": "2026-11-13T19:04:00Z",
+   "collab": false
+  },
+  {
    "video_id": "dfjB8Cs9d2s",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -378,20 +396,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
-   "idx": 2
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
