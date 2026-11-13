@@ -1,0 +1,29 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-13T19:58:06.953325+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc, an Nvidia shareholder, assesses CEO Jensen Huang's resignation, with CFO Colette Kress as interim CEO, noting the stock is up over 377,000% since Nvidia came to market and asking whether anyone can replace a 30-year co-founder. He breaks Huang's value into six parts: irreplaceable company-specific knowledge; supply-chain relationships with TSMC, Micron and SK Hynix under an asset-light model; customer relationships with Meta, Amazon, Alphabet, Microsoft and Oracle plus neoclouds CoreWeave, Nebius and IREN; investor sentiment and trust; technical knowledge; and government relations, where he rates Tim Cook as the best. The CEO search is now an upside catalyst: poaching AMD chief Lisa Su could bring a 10% instant bump, Tim Cook perhaps 5–6%, and former Intel CEO Pat Gelsinger is also named. The stock is down 5% today, 9% over five sessions, 27% in a month and 11% year to date, against a worst case he previously put at 20–30%, but weeks of stakeholder distractions lie ahead. He speculates the news was known for a year or more — citing a memo from Marco Rubio — and that informed investors avoiding the stock may explain its cheap 11 times forward earnings. He cut free-cash-flow estimates and raised beta from 2.1 to 2.5, cutting his fair value from over $313 to $257. Call: NVDA BUY at about $165, fair value $257, still a buying opportunity and not a sell, but he will not add until after the 17 November earnings, having downgraded it off his top-ten list.",
+ "title": "The Brutal Truth About Nvidia Without Jensen Huang",
+ "video_id": "Zy-2b4qLLcc",
+ "calls": [
+  {
+   "video_id": "Zy-2b4qLLcc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "The Brutal Truth About Nvidia Without Jensen Huang",
+   "published_at": "2026-11-13T19:58:06.953325+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$165 (stated); DCF fair value cut to $257 (was $313)",
+   "fair_value": "$257 (DCF, cut from $313)",
+   "thesis": "BUY reiterated (was BUY 12 Nov @ ~$160, FV $313) but DCF fair value cut to $257 after trimming free-cash-flow estimates and raising beta 2.1 to 2.5 for distraction and execution risk; still 'ridiculously undervalued' vs ~$165 at ~11x forward earnings. He is not selling, is curious about adding more, but will not add until after Q3 earnings Tue 17 Nov. The CEO search is now an upside catalyst: a Lisa Su announcement could add ~10% instantly, Tim Cook ~5-6%; any credible hire removes uncertainty. Down 5% today, 9% over five sessions, 27% in a month - less than the 20-30% worst case he sized earlier.",
+   "base_case": "Flat-to-down drift while the CEO search and stakeholder questions distract management; 20% downside remains the more likely worst case, 30% the extreme.",
+   "bull_case": "A big-name CEO (Lisa Su, Tim Cook, Pat Gelsinger floated) triggers an instant re-rate; sidelined deep-pocketed investors who knew the news was coming now buy at ~11x forward earnings; business still booming, sold out, best revenue growth of the Mag 7.",
+   "bear_case": "CEO search drags on, distraction hurts execution and free cash flow over the next couple of years; governance overhang persists into the 17 Nov earnings call; a weak or unknown hire fails to restore investor trust - Jensen's 30+ years of company-specific knowledge, supply-chain and customer relationships are hard to replace.",
+   "analyzed_at": "2026-11-13T23:04:08Z",
+   "collab": false
+  }
+ ]
+}
