@@ -1,0 +1,120 @@
+{
+ "video_id": "MEcTLSQUA1s",
+ "title": "11 Stock Portfolio that Beats the Market",
+ "creator": "Joseph Hogue, CFA",
+ "handle": "@josephhogue",
+ "published_at": "2026-11-12T16:55:35.511371+00:00",
+ "summary": "Joseph Hogue builds an 11-stock dividend portfolio, one pick from each S&P 500 sector, arguing income beats inflation better than waiting for prices to fall. The basket averaged a 7.5% price return plus a 5.6% dividend yield over the last year, a 13.1% combined return ahead of the S&P 500's 11.7%. His picks: ONEOK (OKE, energy, 4.6% yield, 47% total return, 90% fee revenue), Pfizer (PFE, healthcare, 5.6% yield, 10x P/E), Amcor (AMCR, materials, 5.3% yield, Berry Global merger scale), General Mills (GIS, staples, 7% yield, down 27% but a rebound candidate with $3bn of cost savings planned), HP Inc (HPQ, tech, 4.2% yield, AI-PC demand), T. Rowe Price (TROW, financials, 4.9% yield, 40 straight annual increases), UPS (industrials, 6% yield, but his least favourite — payout ~120% of earnings, and he would swap it out), Vici Properties (VICI, real estate, 7.4% yield, his favourite, holding for a rebound), Ford (F, discretionary, 4.8% yield, cheap but a weak dividend history), Edison International (EIX, utilities, 5.9% yield, 22 straight increases, wildfire risk) and Verizon (VZ, communication services, 6.3% yield, $25bn buyback). He stresses sector diversification over chasing the highest yields, warning that a 15% yield can signal a coming cut. (Sponsored segment for Kickoff credit-builder mid-video.)",
+ "calls": [
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "OKE",
+   "direction": "BUY",
+   "thesis": "Midstream cash-flow machine: ~90% fee revenue, 47% total return over the last year, 30+ years of dividend stability, 3-4% annual dividend growth targeted plus a $2bn buyback.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up 42% over the last year, 4.6% dividend yield"
+  },
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PFE",
+   "direction": "BUY",
+   "thesis": "One of the world's largest drug makers at just 10x P/E; pipeline (oncology, obesity) replacing patent expiries; 85+ years of dividends with 17 consecutive increases.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up 23% over the last year, 5.6% dividend yield"
+  },
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "AMCR",
+   "direction": "BUY",
+   "thesis": "Global packaging leader; Berry Global merger gives scale (400 facilities, 40+ countries); 6 consecutive dividend increases, though packaging demand fluctuates with the economy.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up 20% over the last year, 5.3% dividend yield, $2.60/share annually"
+  },
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "GIS",
+   "direction": "BUY",
+   "thesis": "Worst stock in its group (down 27%) but getting very attractive on valuation with strong brands; 125+ years of uninterrupted dividends; $750m cost savings targeted in FY27, $3bn through 2030.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Down 27% over the last year, 7% dividend yield"
+  },
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "HPQ",
+   "direction": "BUY",
+   "thesis": "World's largest PC/printer maker benefiting from AI-PC demand; Q3 FY26 revenue +12.5% to $15bn; up to $3.2bn free cash flow expected in FY26; 9 consecutive dividend increases.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up 4% over the last year, 4.2% dividend yield"
+  },
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "TROW",
+   "direction": "BUY",
+   "thesis": "One of the largest investment managers (~$2tn client assets); 40 consecutive years of dividend increases, averaging 7% annual growth over 5 years.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up ~4% over the last year, 4.9% dividend yield"
+  },
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "UPS",
+   "direction": "AVOID",
+   "thesis": "Least favourite stock in the portfolio despite the highest yield in its sector: payout ~120% of reported earnings, free cash flow barely covers the dividend, limited revenue growth; he would swap it for another dividend name.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up 15% over the last year, 6% dividend yield"
+  },
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "VICI",
+   "direction": "BUY",
+   "thesis": "Favourite real-estate pick: gaming/entertainment REIT (Caesars Palace, MGM Grand, Venetian) with long-term leases; 9 consecutive dividend increases; holding for a rebound as valuations get cheap.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Down 18% over the last year, 7.4% dividend yield"
+  },
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "F",
+   "direction": "BUY",
+   "thesis": "Attractive valuation for sector diversification, but a weaker dividend name: no consecutive annual increases since the 2022 reinstatement, 64% payout ratio, history of suspending dividends.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Down 5% over the last year, 4.8% dividend yield"
+  },
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "EIX",
+   "direction": "BUY",
+   "thesis": "Regulated Southern California utility, 22 consecutive dividend increases, 5-7% expected annual earnings growth through 2030 on electrification demand; California wildfire liabilities remain a significant risk.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up 9% over the last year, 5.9% dividend yield"
+  },
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "VZ",
+   "direction": "BUY",
+   "thesis": "Largest US telecom, oversold on SpaceX competition fears; 20 consecutive dividend increases, $25bn buyback program, though substantial debt and slow growth will moderate returns.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up 14% over the last year, 6.3% dividend yield"
+  }
+ ]
+}
