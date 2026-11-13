@@ -1,0 +1,22 @@
+{
+ "ticker": "VZ",
+ "slug": "VZ",
+ "calls": [
+  {
+   "video_id": "MEcTLSQUA1s",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "VZ",
+   "direction": "BUY",
+   "thesis": "Largest US telecom, oversold on SpaceX competition fears; 20 consecutive dividend increases, $25bn buyback program, though substantial debt and slow growth will moderate returns.",
+   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+   "price_at_call": "Up 14% over the last year, 6.3% dividend yield"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
