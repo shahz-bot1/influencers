@@ -1,0 +1,50 @@
+{
+ "video_id": "WmjFbYz-RYA",
+ "title": "BUY HEAVY! These 5 Stocks Will Make Millionaires",
+ "creator": "Joseph Hogue, CFA",
+ "handle": "@josephhogue",
+ "published_at": "2026-11-13T16:55:33.208509+00:00",
+ "summary": "Joseph Hogue, a former Marine, argues drone warfare is a fundamental, decades-long shift, not a temporary war-driven surge: cheap FPV drones now account for about 60% of Russian losses in Ukraine, while the Iran conflict showed defending against them is expensive, creating a new counter-drone market. The five pure-play drone stocks soared after 2022 (Red Cat and AeroVironment up over 600% by January) then crashed roughly 58-67% from their peaks on defence-budget uncertainty, stretched valuations (90-120x earnings at the peak) and contract execution risk, including a cancelled $1.7 billion Space Force deal at AeroVironment. He compares all five on growth, profitability and valuation: AeroVironment (AVAV), the established leader with combat-proven Switchblade munitions and BlueHalo counter-drone/directed-energy tech, 45% forward revenue growth, about 11% EBITDA margin, 3.1x sales, average analyst target $210 (+68%); Kratos (KTOS), jet-powered XQ-58 Valkyrie drones, 24% growth, 5.5% margin, 4x sales, target $75 (+103%); Red Cat (RCAT), Black Widow Army recon pick plus FPV and a Palantir partnership, 128% growth, 7x sales, target $13.25 (+197%); Ondas (ONDS), the broadest platform with $757 million backlog and an $11 billion-plus pipeline, 420% growth but deeply negative margins, 12.6x sales, target about $19 (+227%); and Dragonfly (DPRO), the smallest and riskiest at about $118 million market cap, 77% growth, 15x sales, target $10 (+227%). His picks are AVAV and RCAT, with KTOS a maybe; he is holding off on DPRO. (Auto-captions garble some names, e.g. 'Anduril' for Ondas and 'Dedrone' for Dragonfly in the valuation section, and 'sync' for Ondas.)",
+ "calls": [
+  {
+   "video_id": "WmjFbYz-RYA",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "AVAV",
+   "direction": "BUY",
+   "thesis": "Clear leader of the five drone names: Switchblade combat-proven (42,000+ platforms), BlueHalo adds counter-drone/directed-energy, ~45% forward revenue growth, ~11% EBITDA margin, cheapest of the group at ~3.1x sales; avg analyst target $210 (+68%).",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "Avg analyst target $210 (+68% upside); low target +31%"
+  },
+  {
+   "video_id": "WmjFbYz-RYA",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "KTOS",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Likes the XQ-58 Valkyrie unmanned jet and hypersonics exposure; 24% forward revenue growth, 5.5% EBITDA margin, ~4x sales; avg analyst target $75 (+103%), high $120 (+225%). A 'might look at' rather than a firm buy.",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "Avg analyst target $75 (+103% upside); high $120 (+225%)"
+  },
+  {
+   "video_id": "WmjFbYz-RYA",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "RCAT",
+   "direction": "BUY",
+   "thesis": "Direct play on Ukraine-style battlefield drones (Black Widow Army recon pick, Fang FPV, Palantir GPS-denied navigation); 128% forward revenue growth at ~7x sales; avg analyst target $13.25 (+197%), low $6.",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "Avg analyst target $13.25 (+197% upside); low $6"
+  },
+  {
+   "video_id": "WmjFbYz-RYA",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "DPRO",
+   "direction": "HOLD",
+   "thesis": "Holding off for now: smallest and riskiest ($118-128m market cap, Flex FPV drones, NDAA-compliant North American manufacturing) and priciest of the five at ~15x sales on 77% growth; avg analyst target $10 (+227%) but lacks financial flexibility in a downturn.",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "Avg analyst target $10 (+227% upside); ~$3/share, ~$118m market cap"
+  }
+ ]
+}
