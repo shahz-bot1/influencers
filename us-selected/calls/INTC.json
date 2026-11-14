@@ -3,6 +3,25 @@
  "slug": "INTC",
  "calls": [
   {
+   "video_id": "h-WUuLR7gyU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Everyone Talking About Intel Stock? | INTC Stock Deep Dive Part 2",
+   "published_at": "2026-11-14T14:45:45.832116+00:00",
+   "ticker": "INTC",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$57.34 (stated current); peaked at $141 earlier this year",
+   "fair_value": "Below $57.34 — 'still a little bit above the fair value estimate'",
+   "thesis": "HOLD reiterated — not a buying opportunity just yet, still a little rich even after the fall from $141; valuation is getting closer to his fair value but near-term headwinds keep him waiting for a lower entry.",
+   "base_case": "CPU demand soaring as agentic AI proliferates; new D-series inference GPU unveiled with encouraging early feedback and customer engagements progressing toward firm commitments; pent-up PC replacement demand keeps growing (2020-21 buyers now in the 4-6 year cycle).",
+   "bull_case": "If Intel captures even mid-single-digit GPU market share for data centres it would be huge and is not priced in; a PC rebound once memory/storage component prices normalise releases the coiled-spring pent-up demand.",
+   "bear_case": "Israel factory accident shuts output and hits Q4 10nm server products; PC correction accelerating as partners manage inventory down and consumers balk at higher prices — no rebound in H1 2027, probably not in 2027 at all.",
+   "analyzed_at": "2026-11-14T15:01:28Z",
+   "collab": false
+  },
+  {
    "video_id": "c1ruBISVkQM",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
