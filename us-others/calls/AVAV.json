@@ -1,0 +1,22 @@
+{
+ "ticker": "AVAV",
+ "slug": "AVAV",
+ "calls": [
+  {
+   "video_id": "WmjFbYz-RYA",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "AVAV",
+   "direction": "BUY",
+   "thesis": "Clear leader of the five drone names: Switchblade combat-proven (42,000+ platforms), BlueHalo adds counter-drone/directed-energy, ~45% forward revenue growth, ~11% EBITDA margin, cheapest of the group at ~3.1x sales; avg analyst target $210 (+68%).",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "Avg analyst target $210 (+68% upside); low target +31%"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
