@@ -3,6 +3,24 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "VNQSXEPHdyg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Everyone Talking About CoreWeave Stock Right Now? | CRWV Stock Deep Dive Part 2",
+   "published_at": "2026-11-14T16:00:02.895437+00:00",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF fair value ~$94 (stated); stock up ~27% on the day after Q3 results",
+   "thesis": "BUY reiterated (upgraded 14 Oct, confidence raised 5 Nov) — still undervalued at ~$94 FV after the Q3 jump; debt-cost fears overblown, will fund capex via customer prepayments and contract-matched term loans, not unsecured debt.",
+   "base_case": "Weighted average cost of debt 7.9%, down 250bps YoY; remaining capex funded mainly by delayed-draw term loans matched to specific customer contracts.",
+   "bull_case": "Soaring backlog with customers waiting in line; data centres owned free and clear once the contract ends and debt is repaid — then pure cash flow.",
+   "bear_case": "Still a risky stock: growth could slow from triple digits if it cannot fund new data centres as fast without tapping expensive debt markets.",
+   "analyzed_at": "2026-11-14T19:02:24Z",
+   "collab": false
+  },
+  {
    "video_id": "H0-3514112k",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -183,11 +201,11 @@
   },
   {
    "channel": "Couch Investor",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "MarketBeat",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
