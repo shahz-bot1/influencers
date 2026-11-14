@@ -3,6 +3,25 @@
  "slug": "PLTR",
  "calls": [
   {
+   "video_id": "wyGECTepDR0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "The Last Time This Happened Was 1989 (3 Stocks Flashing Buy Signals)",
+   "published_at": "2026-11-13T23:55:16.918288+00:00",
+   "analyzed_at": "2026-11-14T06:58:52Z",
+   "collab": false,
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "UNCERTAIN -> BUY",
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "FLIP from UNCERTAIN. Guest Keith Kaplan (TradeSmith) flags a sprint (momentum) signal on Palantir: AI platforms for governments and big companies. Revenue grew 96% last quarter, US commercial +148%, full-year guidance raised to about $8.5bn; stock still fell almost 10% on Thursday to a 3-month low. Momentum name on a pullback — already moving, history says it keeps moving. Short-term signal trade, about a week.",
+   "base_case": "Momentum continuation after the pullback; average return almost 7% in about a week.",
+   "bull_case": "Highest win rate on the list: right over 93% of the time (61 occurrences).",
+   "bear_case": "Only 61 occurrences (smaller sample than the other two) and valuation makes Palantir speculative by any measure — it moves fast both ways, so size it smaller."
+  },
+  {
    "video_id": "S-p77T41-D8",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -147,20 +166,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "MarketBeat",
-   "idx": 3
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
