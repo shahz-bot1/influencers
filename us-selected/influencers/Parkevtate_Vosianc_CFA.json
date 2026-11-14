@@ -4,6 +4,54 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "COST",
+   "tickerSlug": "COST",
+   "direction": "BUY",
+   "date": "2026-11-14T18:00:02.895437+00:00",
+   "price": "Forward PE 42.3 (vs WMT 39); no stated share price",
+   "video_id": "ReKzkNcUhcU"
+  },
+  {
+   "ticker": "BA",
+   "tickerSlug": "BA",
+   "direction": "HOLD",
+   "date": "2026-11-14T18:00:02.895437+00:00",
+   "price": "$173 (stated current); DCF fair value $165; forward PE 80",
+   "video_id": "T6xdLcU_-XM"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-14T16:00:02.895437+00:00",
+   "price": "DCF fair value ~$94 (stated); stock up ~27% on the day after Q3 results",
+   "video_id": "VNQSXEPHdyg"
+  },
+  {
+   "ticker": "INTC",
+   "tickerSlug": "INTC",
+   "direction": "HOLD",
+   "date": "2026-11-14T14:45:45.832116+00:00",
+   "price": "$57.34 (stated current); peaked at $141 earlier this year",
+   "video_id": "h-WUuLR7gyU"
+  },
+  {
+   "ticker": "SMCI",
+   "tickerSlug": "SMCI",
+   "direction": "BUY",
+   "date": "2026-11-14T14:45:45.832116+00:00",
+   "price": "DCF fair value $56 (stated, updated); forward P/E 3.9 (stated)",
+   "video_id": "0Wxz2mzeuCk"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-14T13:55:45.832116+00:00",
+   "price": "$129 (stated current, down 16% on the day after results); DCF fair value $236 (stated, updated from $264 on 8 Nov)",
+   "video_id": "oqmBYuq-GQM"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
