@@ -3,6 +3,25 @@
  "slug": "RBRK",
  "calls": [
   {
+   "video_id": "wyGECTepDR0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "The Last Time This Happened Was 1989 (3 Stocks Flashing Buy Signals)",
+   "published_at": "2026-11-13T23:55:16.918288+00:00",
+   "analyzed_at": "2026-11-14T06:58:52Z",
+   "collab": false,
+   "ticker": "RBRK",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY reiterated (was BUY). Guest Keith Kaplan (TradeSmith) flags a pivot signal on Rubrik, a cyber-recovery company (ransomware backup) that went public in 2024. Revenue grew 38% last quarter, recurring revenue north of $1.5bn; fell 22% in the crash week with no company news at all — sold off only because software was being sold. Short-term signal trade, typical hold ~6 days.",
+   "base_case": "Pivot snap-back after a no-news 22% sell-off; average return just under 5% in about 6 days.",
+   "bull_case": "Signal right 87.12% over 128 occurrences.",
+   "bear_case": "Worst historical loss on this signal 14.9%."
+  },
+  {
    "video_id": "S-p77T41-D8",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -88,12 +107,12 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
-   "idx": 3
+   "channel": "Couch Investor",
+   "idx": 1
   }
  ]
 }
