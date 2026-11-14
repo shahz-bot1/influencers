@@ -1,0 +1,22 @@
+{
+ "ticker": "KTOS",
+ "slug": "KTOS",
+ "calls": [
+  {
+   "video_id": "WmjFbYz-RYA",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "KTOS",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "Likes the XQ-58 Valkyrie unmanned jet and hypersonics exposure; 24% forward revenue growth, 5.5% EBITDA margin, ~4x sales; avg analyst target $75 (+103%), high $120 (+225%). A 'might look at' rather than a firm buy.",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "Avg analyst target $75 (+103% upside); high $120 (+225%)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
