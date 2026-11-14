@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T05:02:54.641695+00:00",
+ "updated": "2026-11-14T05:00:33.722843+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -251,6 +251,23 @@
     "Tom Nash"
    ],
    "lastStated": "Down ~50% (no dollar price stated); revenue +22%, ~$4bn cash, zero debt",
+   "nCalls": 1
+  },
+  {
+   "ticker": "AVAV",
+   "slug": "AVAV",
+   "lastDate": "2026-11-14T04:58:11.052937+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$210"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Avg analyst target $210 (+68% upside); low target +31%",
    "nCalls": 1
   },
   {
@@ -774,6 +791,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "DPRO",
+   "slug": "DPRO",
+   "lastDate": "2026-11-14T04:58:11.052937+00:00",
+   "chips": [
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$10"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Avg analyst target $10 (+227% upside); ~$3/share, ~$118m market cap",
+   "nCalls": 1
+  },
+  {
    "ticker": "DUOL",
    "slug": "DUOL",
    "lastDate": "2026-11-08T05:01:44.676586+00:00",
@@ -1294,6 +1328,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "KTOS",
+   "slug": "KTOS",
+   "lastDate": "2026-11-14T04:58:11.052937+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$75"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Avg analyst target $75 (+103% upside); high $120 (+225%)",
+   "nCalls": 1
+  },
+  {
    "ticker": "KUAIS",
    "slug": "KUAIS",
    "lastDate": "2026-10-08T05:10:00+00:00",
@@ -1676,19 +1727,19 @@
   {
    "ticker": "NU",
    "slug": "NU",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-14T04:58:11.052937+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$16"
+     "avg": "$14"
     }
    ],
    "influencers": [
     "Daniel Pronk"
    ],
-   "lastStated": "~16x trailing P/E, ~11x forward P/E (10.8x); no share price stated",
-   "nCalls": 1
+   "lastStated": "~14x trailing P/E, 11.8x forward P/E; up 10%+ after Q3 earnings",
+   "nCalls": 2
   },
   {
    "ticker": "NVDA",
@@ -1990,6 +2041,23 @@
    "nCalls": 2
   },
   {
+   "ticker": "RCAT",
+   "slug": "RCAT",
+   "lastDate": "2026-11-14T04:58:11.052937+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$13.25"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Avg analyst target $13.25 (+197% upside); low $6",
+   "nCalls": 1
+  },
+  {
    "ticker": "RDDT",
    "slug": "RDDT",
    "lastDate": "2026-10-26T04:58:06.524826+00:00",
@@ -2026,19 +2094,19 @@
   {
    "ticker": "ROAD",
    "slug": "ROAD",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-14T04:58:11.052937+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$77"
+     "avg": "$5.6"
     }
    ],
    "influencers": [
     "Daniel Pronk"
    ],
-   "lastStated": "~$77/share (was ~$80, rallied to ~$100, fell back after preliminary Q4 results; ",
-   "nCalls": 3
+   "lastStated": "~$5.6bn market cap, ~8.3x trailing EBITDA",
+   "nCalls": 4
   },
   {
    "ticker": "SCHW",
@@ -2646,8 +2714,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 24,
-   "nVideos": 13
+   "nCalls": 26,
+   "nVideos": 14
   },
   {
    "name": "Everything Money",
@@ -2667,8 +2735,8 @@
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 155,
-   "nVideos": 18
+   "nCalls": 159,
+   "nVideos": 19
   },
   {
    "name": "Patient Investor",
@@ -2700,6 +2768,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "Mw5EXAyrPr4",
+   "title": "Here Are The Top 2 Stocks I'm Buying Now",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-11-13T21:55:33.208509+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "WmjFbYz-RYA",
+   "title": "BUY HEAVY! These 5 Stocks Will Make Millionaires",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-11-13T16:55:33.208509+00:00",
+   "nCalls": 4
+  },
   {
    "id": "FSPJxUCsswI",
    "title": "Why NVIDIA Is in Trouble: 7 Reasons to Sell After the Scandal",
