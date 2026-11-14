@@ -3,6 +3,24 @@
  "slug": "BA",
  "calls": [
   {
+   "video_id": "T6xdLcU_-XM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Boeing an Undervalued Dividend Stock to Buy Right Now? | BA Stock Analysis",
+   "published_at": "2026-11-14T18:00:02.895437+00:00",
+   "ticker": "BA",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$173 (stated current); DCF fair value $165; forward PE 80",
+   "thesis": "HOLD reiterated (first tracked) — down >20% YTD but still not a buying opportunity: fairly valued on DCF ($165 FV vs $173), expensive on forward PE 80, and execution risk remains as the 52-planes/month ramp slips to H2 2027.",
+   "base_case": "Revenue recovered to $94.9B (peak $102B in 2019); hitting 52/month in H2 2027 could push revenue past 2019 levels; FCF forecast $10B by 2028.",
+   "bull_case": "Hundreds of billions in backlog — no need to win new sales for years; debt down to ~$41B from $65B with $20B+ cash; cash flow improving.",
+   "bear_case": "Repeated deadline pushbacks — would not be surprised if the H2 2027 ramp slips again; thin margins (peak ~13% operating margin); EPS extremely volatile.",
+   "analyzed_at": "2026-11-14T19:02:24Z",
+   "collab": false
+  },
+  {
    "video_id": "Fjyfta0Ltzw",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -21,8 +39,12 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 1
   }
  ]
 }
