@@ -4143,5 +4143,75 @@
   "thesis": "Still bullish on Nebius and calls it a great company, though CoreWeave reported better earnings this quarter.",
   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
   "price_at_call": "No price stated"
+ },
+ {
+  "video_id": "Mw5EXAyrPr4",
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "ticker": "NU",
+  "direction": "BUY",
+  "thesis": "Buying most aggressively over the past week; Q3 revenue +37% to $6.3bn, earnings +31%, ROE 32%, 143m customers; still undervalued at ~14x trailing / 11.8x forward P/E despite 30%+ growth, with a long runway in Mexico/Colombia and a new US push.",
+  "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+  "price_at_call": "~14x trailing P/E, 11.8x forward P/E; up 10%+ after Q3 earnings"
+ },
+ {
+  "video_id": "Mw5EXAyrPr4",
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "ticker": "ROAD",
+  "direction": "BUY",
+  "thesis": "Buying most aggressively; CEO owned the Q4 guide miss (diesel +40%, bad weather), FY27 guide of 15% revenue/EBITDA growth looks sandbagged with $290m acquired revenue already banked; ~8.3x trailing EBITDA, cheapest since the 2020 crash, 2030 targets $6bn revenue / $1bn EBITDA intact.",
+  "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+  "price_at_call": "~$5.6bn market cap, ~8.3x trailing EBITDA"
+ },
+ {
+  "video_id": "WmjFbYz-RYA",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "AVAV",
+  "direction": "BUY",
+  "thesis": "Clear leader of the five drone names: Switchblade combat-proven (42,000+ platforms), BlueHalo adds counter-drone/directed-energy, ~45% forward revenue growth, ~11% EBITDA margin, cheapest of the group at ~3.1x sales; avg analyst target $210 (+68%).",
+  "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+  "price_at_call": "Avg analyst target $210 (+68% upside); low target +31%"
+ },
+ {
+  "video_id": "WmjFbYz-RYA",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "KTOS",
+  "direction": "CONDITIONAL_BUY",
+  "thesis": "Likes the XQ-58 Valkyrie unmanned jet and hypersonics exposure; 24% forward revenue growth, 5.5% EBITDA margin, ~4x sales; avg analyst target $75 (+103%), high $120 (+225%). A 'might look at' rather than a firm buy.",
+  "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+  "price_at_call": "Avg analyst target $75 (+103% upside); high $120 (+225%)"
+ },
+ {
+  "video_id": "WmjFbYz-RYA",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "RCAT",
+  "direction": "BUY",
+  "thesis": "Direct play on Ukraine-style battlefield drones (Black Widow Army recon pick, Fang FPV, Palantir GPS-denied navigation); 128% forward revenue growth at ~7x sales; avg analyst target $13.25 (+197%), low $6.",
+  "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+  "price_at_call": "Avg analyst target $13.25 (+197% upside); low $6"
+ },
+ {
+  "video_id": "WmjFbYz-RYA",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "ONDS",
+  "direction": "UNCERTAIN",
+  "thesis": "Broadest autonomous-warfare platform (Iron Drone counter-drone, loitering munitions, Skyweaver AI) with $757m backlog and $11bn+ pipeline; 420% forward revenue growth but deeply negative EBITDA at ~12.6x sales; avg analyst target ~$19 (+227%). No explicit buy/hold stance given.",
+  "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+  "price_at_call": "Avg analyst target ~$19 (+227% upside); low $13 (Roth MKM)"
+ },
+ {
+  "video_id": "WmjFbYz-RYA",
+  "channel": "Joseph Hogue, CFA",
+  "handle": "@josephhogue",
+  "ticker": "DPRO",
+  "direction": "HOLD",
+  "thesis": "Holding off for now: smallest and riskiest ($118-128m market cap, Flex FPV drones, NDAA-compliant North American manufacturing) and priciest of the five at ~15x sales on 77% growth; avg analyst target $10 (+227%) but lacks financial flexibility in a downturn.",
+  "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+  "price_at_call": "Avg analyst target $10 (+227% upside); ~$3/share, ~$118m market cap"
  }
 ]
