@@ -4,6 +4,38 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "AVAV",
+   "tickerSlug": "AVAV",
+   "direction": "BUY",
+   "date": "2026-11-14T04:58:11.052937+00:00",
+   "price": "Avg analyst target $210 (+68% upside); low target +31%",
+   "video_id": "WmjFbYz-RYA"
+  },
+  {
+   "ticker": "KTOS",
+   "tickerSlug": "KTOS",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-14T04:58:11.052937+00:00",
+   "price": "Avg analyst target $75 (+103% upside); high $120 (+225%)",
+   "video_id": "WmjFbYz-RYA"
+  },
+  {
+   "ticker": "RCAT",
+   "tickerSlug": "RCAT",
+   "direction": "BUY",
+   "date": "2026-11-14T04:58:11.052937+00:00",
+   "price": "Avg analyst target $13.25 (+197% upside); low $6",
+   "video_id": "WmjFbYz-RYA"
+  },
+  {
+   "ticker": "DPRO",
+   "tickerSlug": "DPRO",
+   "direction": "HOLD",
+   "date": "2026-11-14T04:58:11.052937+00:00",
+   "price": "Avg analyst target $10 (+227% upside); ~$3/share, ~$118m market cap",
+   "video_id": "WmjFbYz-RYA"
+  },
+  {
    "ticker": "OKE",
    "tickerSlug": "OKE",
    "direction": "BUY",
