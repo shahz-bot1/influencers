@@ -1,0 +1,30 @@
+{
+ "ticker": "SMCI",
+ "slug": "SMCI",
+ "calls": [
+  {
+   "video_id": "0Wxz2mzeuCk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy the Dip in Super Micro Stock? | SMCI Stock Analysis",
+   "published_at": "2026-11-14T14:45:45.832116+00:00",
+   "ticker": "SMCI",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Parkevtate was AVOID on SMCI — he warned investors against buying all year, last updated 11 Aug — now BUY: 'the new situation warrants an upgrade... it looks like an attractive stock to buy for investors that have a higher risk tolerance.' First tracked SMCI call in calls.json (no prior tracked entry); flip is from his own stated prior stance in the video.",
+   "price_at_call": "DCF fair value $56 (stated, updated); forward P/E 3.9 (stated)",
+   "thesis": "BUY — FLIP from AVOID: FY27 revenue guidance raised to a $77bn midpoint (+10% vs 3 months ago) with gross margin forecast ~12% (near the top of the decade range) and FCF estimates revised up, so the stock looks significantly undervalued even after a big risk premium for management history — for high-risk-tolerance investors only.",
+   "base_case": "FY27 revenue midpoint $77bn, gross margin ~12%; Wall Street expects ~23% EPS growth per year; $6.9bn cash and short-term investments cushions the cash-flow mismatch.",
+   "bull_case": "Forward P/E 3.9 is near the cheapest in years; DCF fair value $56 vs a much lower price; margins improving toward mid-teens.",
+   "bear_case": "Operating cash flow negative since 2022; over $7bn long-term debt; one customer ~50% of revenue; management transparency history (late filings, former auditor resigned citing lack of transparency); data-centre readiness delays can slow growth.",
+   "analyzed_at": "2026-11-14T15:01:28Z",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
