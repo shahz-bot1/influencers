@@ -3,6 +3,24 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "oqmBYuq-GQM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Nebius Stock Crashing, and is it a Buying Opportunity? | NBIS Stock Analysis",
+   "published_at": "2026-11-14T13:55:45.832116+00:00",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$129 (stated current, down 16% on the day after results); DCF fair value $236 (stated, updated from $264 on 8 Nov)",
+   "thesis": "BUY reiterated — the 16% post-earnings dip on build-out delays is a buying opportunity: updated DCF $236 vs $129, demand still exceeds supply, prepayments now cover >100% of new-capacity capex and payback shortened to 1y7m. High-risk-tolerance investors only.",
+   "base_case": "Q3 lease pricing above $25m per megawatt (up from $20-25m in Q2), spot ~$40m/MW; demand exceeds supply, driving prices higher; prepayments on new contracts now cover more than 100% of the capital needed (was 50-60% three months ago).",
+   "bull_case": "Customers are paying more, earlier and for longer; payback on new data centres shortened to 1 year 7 months from 1 year 10 months — revenue after that is 'icing on the cake'.",
+   "bear_case": "Lenders are charging more over leverage and possible 2028-29 data-centre oversupply; build-out delays push revenue later; Microsoft is relying less on third-party data centres; one of the riskiest stocks in the market — high risk, high reward.",
+   "analyzed_at": "2026-11-14T15:01:28Z",
+   "collab": false
+  },
+  {
    "video_id": "wv8qzrG8M1M",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -343,20 +361,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "channel": "Couch Investor",
+   "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 19
+   "idx": 20
   }
  ]
 }
