@@ -4,6 +4,22 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "NU",
+   "tickerSlug": "NU",
+   "direction": "BUY",
+   "date": "2026-11-14T04:58:11.052937+00:00",
+   "price": "~14x trailing P/E, 11.8x forward P/E; up 10%+ after Q3 earnings",
+   "video_id": "Mw5EXAyrPr4"
+  },
+  {
+   "ticker": "ROAD",
+   "tickerSlug": "ROAD",
+   "direction": "BUY",
+   "date": "2026-11-14T04:58:11.052937+00:00",
+   "price": "~$5.6bn market cap, ~8.3x trailing EBITDA",
+   "video_id": "Mw5EXAyrPr4"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "AVOID",
