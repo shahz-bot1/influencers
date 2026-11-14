@@ -67,8 +67,8 @@
  "Of4_80Z_cvY": {
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio: October Stock Buys",
-  "published_at": "2026-10-14T04:55:35.511371+00:00",
-  "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+  "published_at": "2026-10-15T04:55:33.208509+00:00",
+  "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
@@ -493,8 +493,8 @@
  "A8juPdhm1aM": {
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio Buys - November 2026",
-  "published_at": "2026-11-05T04:55:35.511371+00:00",
-  "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+  "published_at": "2026-11-05T04:55:33.208509+00:00",
+  "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
   "alerted": false,
   "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
  },
@@ -603,6 +603,20 @@
   "title": "Nvidia CEO Jensen Huang Is OUT \u2014 Why I'm NOT Selling NVDA Stock!!",
   "published_at": "2026-11-12T17:55:35.511371+00:00",
   "analyzed_at": "2026-11-13T04:59:10.909488+00:00",
+  "alerted": true
+ },
+ "Mw5EXAyrPr4": {
+  "channel": "Daniel Pronk",
+  "title": "Here Are The Top 2 Stocks I'm Buying Now",
+  "published_at": "2026-11-13T21:55:33.208509+00:00",
+  "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+  "alerted": true
+ },
+ "WmjFbYz-RYA": {
+  "channel": "Joseph Hogue, CFA",
+  "title": "BUY HEAVY! These 5 Stocks Will Make Millionaires",
+  "published_at": "2026-11-13T16:55:33.208509+00:00",
+  "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
   "alerted": true
  }
 }
