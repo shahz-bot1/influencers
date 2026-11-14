@@ -3,6 +3,24 @@
  "slug": "COST",
  "calls": [
   {
+   "video_id": "ReKzkNcUhcU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Costco Stock Instead of Walmart Stock?",
+   "published_at": "2026-11-14T18:00:02.895437+00:00",
+   "ticker": "COST",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "HOLD -> BUY",
+   "price_at_call": "Forward PE 42.3 (vs WMT 39); no stated share price",
+   "thesis": "FLIP: HOLD -> BUY — Costco is the better buy today: stronger revenue and EPS growth than Walmart, deserves its ~10% premium valuation, >90% membership renewal and best-in-class inventory turnover (15.63 vs WMT 12).",
+   "base_case": "Wall Street expects ~10.75% EPS growth for both; he expects Costco to beat Walmart on EPS growth as its better revenue growth flows through.",
+   "bull_case": "Costco could expand its thin 3.85% operating margin any time by pricing higher; membership loyalty above 90% keeps customers coming back.",
+   "bear_case": "Forward PE 42.3 is ~10% pricier than Walmart; lags on buy-online-pickup-in-store; operating margin only 3.85% vs Walmart 4.4%.",
+   "analyzed_at": "2026-11-14T19:02:24Z",
+   "collab": false
+  },
+  {
    "video_id": "WzlGOdImZvc",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -127,11 +145,11 @@
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
