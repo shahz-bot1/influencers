@@ -1,0 +1,22 @@
+{
+ "ticker": "RCAT",
+ "slug": "RCAT",
+ "calls": [
+  {
+   "video_id": "WmjFbYz-RYA",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "RCAT",
+   "direction": "BUY",
+   "thesis": "Direct play on Ukraine-style battlefield drones (Black Widow Army recon pick, Fang FPV, Palantir GPS-denied navigation); 128% forward revenue growth at ~7x sales; avg analyst target $13.25 (+197%), low $6.",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "Avg analyst target $13.25 (+197% upside); low $6"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
