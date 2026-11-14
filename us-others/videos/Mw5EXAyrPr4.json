@@ -1,0 +1,30 @@
+{
+ "video_id": "Mw5EXAyrPr4",
+ "title": "Here Are The Top 2 Stocks I'm Buying Now",
+ "creator": "Daniel Pronk",
+ "handle": "@danielpronk",
+ "published_at": "2026-11-13T21:55:33.208509+00:00",
+ "summary": "Daniel Pronk gives an update on the two stocks he has been buying most aggressively over the past week: Nu Holdings (NU, called 'New Bank' throughout the captions) and Construction Partners (ROAD). On Nu, he walks through Q3 earnings reported the day before: revenue up 37% year over year to $6.3 billion, gross profit up 35%, earnings up 31%, return on equity of 32%, credit portfolio up 33%, and 3.7 million new customers taking the total to 143 million, serving 65% of Brazil's adult population. Mexico is now at 16.6 million customers (up 27%) after winning a banking charter, Colombia at 6.1 million (up 62%), and the US launch is under way. The one blemish is 90-day non-performing loans ticking up to a three-year high, but a 234% coverage ratio leaves him unworried. At about 14x trailing and 11.8x forward earnings he calls it still undervalued; his DCF gives a 26.4% annual return over three years on conservative assumptions (20% earnings growth, 17x terminal multiple) and 39% on more realistic ones. On Construction Partners, he summarises a 30-minute CEO conference appearance: the CEO owned the Q4 guide miss (diesel prices up 40%, bad weather), guided FY27 to 15% revenue and EBITDA growth (7% organic, 8% acquisitions) with $290 million of acquired revenue already banked, which Pronk reads as sandbagging, and reaffirmed the 2030 targets of $6 billion revenue and $1 billion EBITDA. At about 8.3x trailing EBITDA, the cheapest since the 2020 crash, his DCF gives a 22.7% annual return to 2030. He notes Nu and MercadoLibre carry similar risks, so Nu is not a huge position, but he remains bullish on both and keeps adding.",
+ "calls": [
+  {
+   "video_id": "Mw5EXAyrPr4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "NU",
+   "direction": "BUY",
+   "thesis": "Buying most aggressively over the past week; Q3 revenue +37% to $6.3bn, earnings +31%, ROE 32%, 143m customers; still undervalued at ~14x trailing / 11.8x forward P/E despite 30%+ growth, with a long runway in Mexico/Colombia and a new US push.",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "~14x trailing P/E, 11.8x forward P/E; up 10%+ after Q3 earnings"
+  },
+  {
+   "video_id": "Mw5EXAyrPr4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ROAD",
+   "direction": "BUY",
+   "thesis": "Buying most aggressively; CEO owned the Q4 guide miss (diesel +40%, bad weather), FY27 guide of 15% revenue/EBITDA growth looks sandbagged with $290m acquired revenue already banked; ~8.3x trailing EBITDA, cheapest since the 2020 crash, 2030 targets $6bn revenue / $1bn EBITDA intact.",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "~$5.6bn market cap, ~8.3x trailing EBITDA"
+  }
+ ]
+}
