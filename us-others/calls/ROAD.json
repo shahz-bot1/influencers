@@ -3,6 +3,16 @@
  "slug": "ROAD",
  "calls": [
   {
+   "video_id": "Mw5EXAyrPr4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ROAD",
+   "direction": "BUY",
+   "thesis": "Buying most aggressively; CEO owned the Q4 guide miss (diesel +40%, bad weather), FY27 guide of 15% revenue/EBITDA growth looks sandbagged with $290m acquired revenue already banked; ~8.3x trailing EBITDA, cheapest since the 2020 crash, 2030 targets $6bn revenue / $1bn EBITDA intact.",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "~$5.6bn market cap, ~8.3x trailing EBITDA"
+  },
+  {
    "video_id": "XopekzfZKiQ",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
