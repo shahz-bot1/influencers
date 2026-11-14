@@ -3,6 +3,25 @@
  "slug": "VRT",
  "calls": [
   {
+   "video_id": "wyGECTepDR0",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "The Last Time This Happened Was 1989 (3 Stocks Flashing Buy Signals)",
+   "published_at": "2026-11-13T23:55:16.918288+00:00",
+   "analyzed_at": "2026-11-14T06:58:52Z",
+   "collab": false,
+   "ticker": "VRT",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "First tracked MarketBeat VRT call. Guest Keith Kaplan (TradeSmith CEO) flags a pivot (mean-reversion) signal on Vertiv, which builds data-centre power and cooling. Sales grew 61% last quarter and orders more than doubled; the stock then fell 13% one day and 14% the next on election/data-centre politics with nothing about the business changed. Short-term signal trade (system sets entry, exit target and a 1-month max hold), not a long-term investment case.",
+   "base_case": "Oversold snap-back: stock pushed too far too fast, history says it reverts; typical hold ~8 days.",
+   "bull_case": "Signal right 85.4% of the time over 158 occurrences, average return over 8%.",
+   "bear_case": null
+  },
+  {
    "video_id": "8RpSAWLesDw",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -68,12 +87,16 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
+   "channel": "Mark Roussin CPA",
+   "idx": 1
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
