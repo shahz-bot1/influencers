@@ -1,0 +1,22 @@
+{
+ "ticker": "DPRO",
+ "slug": "DPRO",
+ "calls": [
+  {
+   "video_id": "WmjFbYz-RYA",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "DPRO",
+   "direction": "HOLD",
+   "thesis": "Holding off for now: smallest and riskiest ($118-128m market cap, Flex FPV drones, NDAA-compliant North American manufacturing) and priciest of the five at ~15x sales on 77% growth; avg analyst target $10 (+227%) but lacks financial flexibility in a downturn.",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "Avg analyst target $10 (+227% upside); ~$3/share, ~$118m market cap"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
