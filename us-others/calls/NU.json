@@ -3,6 +3,16 @@
  "slug": "NU",
  "calls": [
   {
+   "video_id": "Mw5EXAyrPr4",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "NU",
+   "direction": "BUY",
+   "thesis": "Buying most aggressively over the past week; Q3 revenue +37% to $6.3bn, earnings +31%, ROE 32%, 143m customers; still undervalued at ~14x trailing / 11.8x forward P/E despite 30%+ growth, with a long runway in Mexico/Colombia and a new US push.",
+   "analyzed_at": "2026-11-14T04:58:11.052937+00:00",
+   "price_at_call": "~14x trailing P/E, 11.8x forward P/E; up 10%+ after Q3 earnings"
+  },
+  {
    "video_id": "XopekzfZKiQ",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
