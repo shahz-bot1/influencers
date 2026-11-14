@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:13:55.423213+00:00",
+ "updated": "2026-11-14T23:04:58.339760+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -504,19 +504,25 @@
   {
    "ticker": "BA",
    "slug": "BA",
-   "lastDate": "2026-11-01T19:05:59.142534Z",
+   "lastDate": "2026-11-14T18:00:02.895437+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
      "avg": "$10"
+    },
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$173"
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Mark Roussin CPA"
    ],
-   "lastStated": "Down ~10% in the past week; still down 20% over 5 years",
-   "nCalls": 1
+   "lastStated": "$173 (stated current); DCF fair value $165; forward PE 80",
+   "nCalls": 2
   },
   {
    "ticker": "BBAI",
@@ -885,17 +891,17 @@
   {
    "ticker": "COST",
    "slug": "COST",
-   "lastDate": "2026-11-12T19:05:37Z",
+   "lastDate": "2026-11-14T18:00:02.895437+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
-     "avg": "$12"
+     "n": 2,
+     "avg": "$27.15"
     },
     {
      "dir": "HOLD",
-     "n": 2,
-     "avg": "$47,030"
+     "n": 1,
+     "avg": "$93,000"
     }
    ],
    "influencers": [
@@ -903,8 +909,8 @@
     "Joseph Carlson After Hours",
     "BWB - Business With Brian"
    ],
-   "lastStated": "1060",
-   "nCalls": 8
+   "lastStated": "Forward PE 42.3 (vs WMT 39); no stated share price",
+   "nCalls": 9
   },
   {
    "ticker": "CRDO",
@@ -986,7 +992,7 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-11-13T00:55:18.738341+00:00",
+   "lastDate": "2026-11-14T16:00:02.895437+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1004,8 +1010,8 @@
     "Couch Investor",
     "MarketBeat"
    ],
-   "lastStated": "FV $94 vs price $61.53 (after +26% day); forward P/S ~1.28",
-   "nCalls": 10
+   "lastStated": "DCF fair value ~$94 (stated); stock up ~27% on the day after Q3 results",
+   "nCalls": 11
   },
   {
    "ticker": "CSCO",
@@ -1901,19 +1907,19 @@
   {
    "ticker": "INTC",
    "slug": "INTC",
-   "lastDate": "2026-11-12T14:45:40.914585+00:00",
+   "lastDate": "2026-11-14T14:45:45.832116+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$57"
+     "avg": "$57.34"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "~$57",
-   "nCalls": 2
+   "lastStated": "$57.34 (stated current); peaked at $141 earlier this year",
+   "nCalls": 3
   },
   {
    "ticker": "IONQ",
@@ -2616,12 +2622,12 @@
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-11-12T19:05:37Z",
+   "lastDate": "2026-11-14T13:55:45.832116+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$264"
+     "avg": "$129"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -2635,13 +2641,13 @@
     }
    ],
    "influencers": [
-    "Couch Investor",
     "Parkevtate Vosianc CFA",
+    "Couch Investor",
     "MarketBeat",
     "BWB - Business With Brian"
    ],
-   "lastStated": "125",
-   "nCalls": 20
+   "lastStated": "$129 (stated current, down 16% on the day after results); DCF fair value $236 (s",
+   "nCalls": 21
   },
   {
    "ticker": "NEM",
@@ -3179,7 +3185,7 @@
   {
    "ticker": "PLTR",
    "slug": "PLTR",
-   "lastDate": "2026-11-07T21:58:31.432985+00:00",
+   "lastDate": "2026-11-13T23:55:16.918288+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -3188,13 +3194,13 @@
     }
    ],
    "influencers": [
+    "MarketBeat",
     "Couch Investor",
     "Parkevtate Vosianc CFA",
-    "MarketBeat",
     "BWB - Business With Brian"
    ],
    "lastStated": "DCF fair value just over $194 vs $173 after-hours ($178 into earnings)",
-   "nCalls": 9
+   "nCalls": 10
   },
   {
    "ticker": "PSX",
@@ -3343,12 +3349,12 @@
   {
    "ticker": "RBRK",
    "slug": "RBRK",
-   "lastDate": "2026-11-07T21:58:31.432985+00:00",
+   "lastDate": "2026-11-13T23:55:16.918288+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$115"
+     "avg": null
     },
     {
      "dir": "SELL",
@@ -3357,11 +3363,11 @@
     }
    ],
    "influencers": [
-    "Couch Investor",
-    "MarketBeat"
+    "MarketBeat",
+    "Couch Investor"
    ],
    "lastStated": "Sold a couple of days ago; ~90% gain",
-   "nCalls": 5
+   "nCalls": 6
   },
   {
    "ticker": "RCAT",
@@ -3626,6 +3632,23 @@
    ],
    "lastStated": "Pulled back to under $140 from ~$180 peak (Oct); lows $110 -> $124 -> $136",
    "nCalls": 2
+  },
+  {
+   "ticker": "SMCI",
+   "slug": "SMCI",
+   "lastDate": "2026-11-14T14:45:45.832116+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$56"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "DCF fair value $56 (stated, updated); forward P/E 3.9 (stated)",
+   "nCalls": 1
   },
   {
    "ticker": "SMH",
@@ -4321,11 +4344,11 @@
   {
    "ticker": "VRT",
    "slug": "VRT",
-   "lastDate": "2026-11-05T14:59:59.696161+00:00",
+   "lastDate": "2026-11-13T23:55:16.918288+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": "$10"
     },
     {
@@ -4335,11 +4358,12 @@
     }
    ],
    "influencers": [
+    "MarketBeat",
     "Mark Roussin CPA",
     "BWB - Business With Brian"
    ],
    "lastStated": "",
-   "nCalls": 4
+   "nCalls": 5
   },
   {
    "ticker": "VST",
@@ -4598,14 +4622,14 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 134,
-   "nVideos": 49
+   "nCalls": 137,
+   "nVideos": 50
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 272,
+   "nCalls": 278,
    "nVideos": 250
   },
   {
@@ -4617,6 +4641,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "wyGECTepDR0",
+   "title": "The Last Time This Happened Was 1989 (3 Stocks Flashing Buy Signals)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-11-13T23:55:16.918288+00:00",
+   "nCalls": 3
+  },
   {
    "id": "Zy-2b4qLLcc",
    "title": "The Brutal Truth About Nvidia Without Jensen Huang",
