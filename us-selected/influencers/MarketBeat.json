@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "VRT",
+   "tickerSlug": "VRT",
+   "direction": "BUY",
+   "date": "2026-11-13T23:55:16.918288+00:00",
+   "price": null,
+   "video_id": "wyGECTepDR0"
+  },
+  {
+   "ticker": "RBRK",
+   "tickerSlug": "RBRK",
+   "direction": "BUY",
+   "date": "2026-11-13T23:55:16.918288+00:00",
+   "price": null,
+   "video_id": "wyGECTepDR0"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-11-13T23:55:16.918288+00:00",
+   "price": null,
+   "video_id": "wyGECTepDR0"
+  },
+  {
    "ticker": "ASH",
    "tickerSlug": "ASH",
    "direction": "BUY",
