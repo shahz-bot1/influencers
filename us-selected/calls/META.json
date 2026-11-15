@@ -3,6 +3,24 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "uc81ZM85WMc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Scared of the Dip? 16 YouTubers Agree on These 5 Stocks",
+   "published_at": "2026-11-15T13:59:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No stated price; system says undervalued on his price ladder",
+   "thesis": "BUY, first tracked - his #1 anchor in the dip-buy ranking: 8 of 16 YouTubers bullish, none bearish; sales +26% last quarter with ~15% fewer employees and rising ad prices; his system and price ladder both say undervalued, business and price finally line up.",
+   "base_case": "Ad impressions rising, family-of-apps users still growing; getting paid more per ad.",
+   "bull_case": "Capex spend flips from bear case to undervaluation driver (Motley Fool argument); efficiency gains compound.",
+   "bear_case": "Heavy AI/data-centre capex burned through cash last quarter; spending is the obvious catch.",
+   "collab": false
+  },
+  {
    "video_id": "66RFXm4jz6U",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -418,16 +436,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
+  },
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 3
   }
  ]
 }
