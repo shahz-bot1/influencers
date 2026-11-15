@@ -3,6 +3,24 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "uc81ZM85WMc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Scared of the Dip? 16 YouTubers Agree on These 5 Stocks",
+   "published_at": "2026-11-15T13:59:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Was CONDITIONAL_BUY on 25 Oct; now BUY.",
+   "price_at_call": "No stated price; his system says fairly valued - buy is his call over his system",
+   "thesis": "BUY - FLIP from CONDITIONAL_BUY (25 Oct): AWS growth sped up every quarter from ~17% to ~40%, now ~63% of operating profit (was ~53% a year ago); he buys because the money goes into the part of the business speeding up and getting more profitable, overruling his own system (fairly valued, cash-burning on data-centre build).",
+   "base_case": "AWS operating profit growing faster than sales; 9 of 16 YouTubers bullish, 1 bearish.",
+   "bull_case": "AWS acceleration continues; data-centre spend converts into durable profit.",
+   "bear_case": "46% of profit is Anthropic revaluation paper gains; analysts expect EPS down next year; Amazon went from making cash to burning it.",
+   "collab": false
+  },
+  {
    "video_id": "3DKnFZ4FTXc",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -343,24 +361,24 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 7
+   "channel": "Mark Roussin CPA",
+   "idx": 3
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 14
+   "idx": 15
   }
  ]
 }
