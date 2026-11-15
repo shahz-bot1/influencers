@@ -3,6 +3,24 @@
  "slug": "SNDK",
  "calls": [
   {
+   "video_id": "uc81ZM85WMc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Scared of the Dip? 16 YouTubers Agree on These 5 Stocks",
+   "published_at": "2026-11-15T13:59:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "SNDK",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "Was AVOID on 8 Nov; now HOLD.",
+   "price_at_call": "No stated price; ~$89B reservation book (stated)",
+   "thesis": "HOLD - FLIP from AVOID (8 Nov, highest flash price-compression risk): SanDisk fell ~22% on 5 Nov (worst in the S&P 500) but holds ~$89B of signed business still to deliver - more than two years of sales under contract; smaller slice because it swings hardest.",
+   "base_case": "Signed orders harder to walk away from than one-off sales.",
+   "bull_case": "Storage is essential to AI data centres; reservation book de-risks demand.",
+   "bear_case": "Memory is boom-and-bust; flash price compression risk was his prior concern.",
+   "collab": false
+  },
+  {
    "video_id": "TeEKQNlXSak",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -79,11 +97,11 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   }
  ]
