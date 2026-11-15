@@ -3,6 +3,42 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "oV8-eSOiu2U",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Just Bought $8,100 of 4 Stocks. Here’s Why",
+   "published_at": "2026-11-15T17:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$714 (stated; added 4 shares, +16.6% position)",
+   "thesis": "BUY reiterated (was BUY 13 Nov) - added 4 shares at $714 (+16.6%): 'a bit too cheap to ignore' after the sell-off; a run to $1,000 over weeks/months would be good returns, but not a 10-year hold - a risk/reward trade.",
+   "base_case": "Memory pricing strength; added after the dip.",
+   "bull_case": "Runs to $1,000 on continued memory tightness.",
+   "bear_case": "Cyclical memory - not a long-term hold; timing is the trade.",
+   "collab": false
+  },
+  {
+   "video_id": "uc81ZM85WMc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Scared of the Dip? 16 YouTubers Agree on These 5 Stocks",
+   "published_at": "2026-11-15T13:59:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "MU",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "Was SELL (trim) on 8 Nov; now HOLD.",
+   "price_at_call": "No stated price",
+   "thesis": "HOLD - FLIP from SELL (8 Nov trim at all-time highs): memory is a mid-tier holding at a smaller slice, not because a bust is coming - demand is booked far ahead and the cycle looks stretched, not broken; Micron keeps ~81% of sales as operating profit (was ~33% a year ago). His system flags peak earnings, but he disagrees this is the same old cycle.",
+   "base_case": "HBM demand entrenched, AI/inference growing; memory replaced with every chip generation, forcing repeat buying.",
+   "bull_case": "Demand runs far ahead of supply with years of bookings; market still views Micron through its legacy lens.",
+   "bear_case": "Record profits are historically what the top of the cycle looks like; memory stocks swing hard (proved by the -17% day).",
+   "collab": false
+  },
+  {
    "video_id": "66RFXm4jz6U",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -332,20 +368,20 @@
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 4
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 3
   },
   {
    "channel": "MarketBeat",
-   "idx": 7
+   "idx": 9
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 13
+   "idx": 15
   }
  ]
 }
