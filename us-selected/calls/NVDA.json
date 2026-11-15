@@ -3,6 +3,60 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "oV8-eSOiu2U",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Just Bought $8,100 of 4 Stocks. Here’s Why",
+   "published_at": "2026-11-15T17:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Was UNCERTAIN on 13 Nov; now BUY - bought more at $178 just before Jensen resigned.",
+   "price_at_call": "$178 (stated; added shares 2-3 days before Jensen resigned)",
+   "thesis": "BUY - FLIP from UNCERTAIN (13 Nov): bought more at $178 just before Jensen's resignation; 'very cheap' at 13.5x forward earnings after a 32.3% drawdown to under $4T; roadmap and growth intact post-Jensen, Q3 revenue expected ~$108.7B (+98% YoY). Earnings Tue 17 Nov.",
+   "base_case": "FY28 revenue guide of at least 70% stands; demand far exceeds it.",
+   "bull_case": "Call guides FY28 to 75-80% and the stock re-rates.",
+   "bear_case": "Post-Jensen execution and succession overhang is real; CFO was not fully behind ecosystem spending.",
+   "collab": false
+  },
+  {
+   "video_id": "uc81ZM85WMc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Scared of the Dip? 16 YouTubers Agree on These 5 Stocks",
+   "published_at": "2026-11-15T13:59:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "NVDA",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "stance_flip": "Was BUY on 8 Nov; now CONDITIONAL_BUY - holding his own shares, buy only if you don't own it yet.",
+   "price_at_call": "No stated price; PE less than half its usual level (stated)",
+   "thesis": "CONDITIONAL_BUY - FLIP from BUY (8 Nov): he's holding his own shares (no dry powder, already a big slice) but calls it 'a pretty fantastic opportunity' for anyone who doesn't own it and has waited for a dip; 8 of 16 YouTubers bullish, 1 said wait (TheStreet: stay away until CEO questions answered). Growth re-accelerated above 100% last quarter; PE at less than half its usual level.",
+   "base_case": "Business still cranking; first Jensen-less earnings this week (17 Nov) will be the test.",
+   "bull_case": "Worst case (Dan Ives via Parkevtate) only 25-30% downside; dip buyers already stepped in (one YouTuber put $35k in).",
+   "bear_case": "No guaranteed succession plan; Jensen was the face of the company; CFO Colette Kress interim; position-size trap - conviction confused with size.",
+   "collab": false
+  },
+  {
+   "video_id": "fbpEekpmboE",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Now That Jensen Huang is Out, Should Investors Buy AMD Stock Instead of Nvidia Stock? | AMD vs. NVDA",
+   "published_at": "2026-11-15T12:55:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$163 (stated); DCF fair value $257 (stated, cut from $313 after Jensen resignation)",
+   "thesis": "BUY reiterated (was BUY 13 Nov @ ~$165, FV $257) - choose NVDA over AMD at current prices: even after cutting FCF estimates and raising risk for the post-Jensen era, $163 vs $257 FV is deeply undervalued; NVDA dominates most metrics (65% operating margin vs AMD 17.7%, revenue/employee $5.5M vs $1.17M) while trading at one-third AMD's valuation. Earnings Tue 17 Nov will show more.",
+   "base_case": "EPS growth ~50%/yr expected; backlog covers the next couple of years, business unlikely disrupted near-term.",
+   "bull_case": "New CEO could surprise; margins stay near decade highs; next-gen innovation cycles intact.",
+   "bear_case": "Post-Jensen execution risk - replacement unlikely as effective/visionary; margin mean-reversion and lower long-run FCF already in his cut FV; succession uncertainty.",
+   "collab": false
+  },
+  {
    "video_id": "Zy-2b4qLLcc",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -627,24 +681,24 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "BWB - Business With Brian",
+   "idx": 1
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Mark Roussin CPA",
    "idx": 5
   },
   {
-   "channel": "Couch Investor",
-   "idx": 6
-  },
-  {
-   "channel": "BWB - Business With Brian",
-   "idx": 10
+   "channel": "Joseph Carlson After Hours",
+   "idx": 8
   }
  ]
 }
