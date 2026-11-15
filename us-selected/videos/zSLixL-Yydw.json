@@ -1,0 +1,28 @@
+{
+ "video_id": "zSLixL-Yydw",
+ "title": "What's Going on With Bloom Energy Stock? | BE Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-15T16:00:01.139404+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc looks at Bloom Energy as data-centre power demand booms, saying he is circling the stock as a potential portfolio addition but that it is not a buy yet. On its latest conference call management said hyperscalers are only the first to embrace onsite power, and more industries will follow; across 15 segments, 35% of facilities are expected to be fully powered onsite by 2035, and the IEA projects global electricity demand rising 40% by 2035 after two flat decades. Bloom is community-friendly because onsite power avoids drawing from the local grid and pushing up local electricity prices, a point of contention where data centres have been opposed. Sales guidance has been raised from over 60% growth to over 120% year on year, and the backlog is growing faster than revenue. The constraint is price: at his roughly $155 DCF target the stock is too expensive, so he keeps watching. Call: BE HOLD, DCF about $155, HOLD reiterated from 31 October. No flip. Bull: electricity demand up 40% by 2035. Bear: buildout delays are the execution risk. No other tickers are called in the video.",
+ "calls": [
+  {
+   "video_id": "zSLixL-Yydw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "What's Going on With Bloom Energy Stock? | BE Stock Analysis",
+   "published_at": "2026-11-15T16:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "BE",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF ~$155 (stated); current price not reliably captured in captions",
+   "thesis": "HOLD reiterated (was HOLD 31 Oct) - 'not a buying opportunity just yet, but it's getting close': revenue guide raised from +60% to +120%+ YoY, backlog growing faster than revenue, but too expensive at his ~$155 target - still circling.",
+   "base_case": "Onsite power demand from data centres; 35% of facilities fully onsite-powered by 2035.",
+   "bull_case": "Electricity demand +40% by 2035 (IEA); market nearly doubles to ~$6T in a decade.",
+   "bear_case": "Price above his buy level; buildout delays are the execution risk.",
+   "collab": false
+  }
+ ]
+}
