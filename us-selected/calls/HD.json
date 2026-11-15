@@ -3,6 +3,24 @@
  "slug": "HD",
  "calls": [
   {
+   "video_id": "bGDRdYG3RBE",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Home Depot Stock Before the Huge Investor Update? | HD Stock Analysis",
+   "published_at": "2026-11-15T18:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "HD",
+   "direction": "AVOID",
+   "flip": true,
+   "stance_flip": "Was BUY on 16 Oct; now AVOID - overvalued into the 17 Nov investor update.",
+   "price_at_call": "DCF $272 (stated); current price not captured in captions",
+   "thesis": "AVOID - FLIP from BUY (16 Oct): DCF $272, overvalued at 22x forward P/E with EPS growth slowing to 8.3%/yr; margins compressed (op margin 15.5% to 12.4%, ROIC above 40% to 18.5%); 'more downside than upside' into the 17 Nov investor update - will not buy before results.",
+   "base_case": "Best home-improvement retailer; share strong with pro contractors.",
+   "bull_case": "Results beat and valuation resets after the update.",
+   "bear_case": "Pulled-forward pandemic demand, tariffs, elevated rates and muted housing keep weighing.",
+   "collab": false
+  },
+  {
    "video_id": "ix4xFsnp0OA",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
