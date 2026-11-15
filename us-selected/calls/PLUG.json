@@ -1,0 +1,30 @@
+{
+ "ticker": "PLUG",
+ "slug": "PLUG",
+ "calls": [
+  {
+   "video_id": "o_J7mnQ3NX4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Plug Power Stock Has Taken Investors on a Roller Coaster Ride in 2026",
+   "published_at": "2026-11-15T18:16:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "PLUG",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No stated price; forward P/S 1.9 (stated)",
+   "thesis": "AVOID, first tracked - not a buying opportunity: revenue recovering ($650M to $768M TTM) and margins improving (op margin -175% to -44.5%, cash-flow-to-sales -150% to -61%), but still deeply loss-making with $838M debt vs $280M cash; 'on the right path, but I need to see more progress before upgrading'.",
+   "base_case": "Profitable-revenue focus is working; foundation better than ever in a decade of following it.",
+   "bull_case": "Data-centre energy demand lifts revenue; P/S 1.9 near the low end since 2024.",
+   "bear_case": "Balance sheet weak; still burning cash; long way to self-sustaining.",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
