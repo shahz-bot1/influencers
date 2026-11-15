@@ -3,6 +3,24 @@
  "slug": "PEP",
  "calls": [
   {
+   "video_id": "6PgHbdHQ59I",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "1 Relatively Safe and Undervalued Dividend Stock to Buy Right Now in November",
+   "published_at": "2026-11-15T17:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "PEP",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$143 (stated); DCF $190",
+   "thesis": "BUY reiterated (was BUY 12 Oct) - 'relatively safe, undervalued' dividend stock to buy now: EPS growth 7-9%/yr vs Street 5.5%, forward P/E 16.6 vs Coca-Cola 27.5; margin gap to KO (15.8% vs 32%) is room to improve, ROIC ~15% above cost of capital.",
+   "base_case": "Low-to-mid single-digit revenue growth with costs controlled.",
+   "bull_case": "Margin improvements close the KO gap and re-rate the multiple.",
+   "bear_case": "Macro headwinds; consumer shift to healthier options hits sugary drinks and salty snacks.",
+   "collab": false
+  },
+  {
    "video_id": "ZYeZiDarwGw",
    "channel": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
@@ -84,12 +102,12 @@
  ],
  "byInf": [
   {
-   "channel": "The German Value Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "channel": "The German Value Investor",
+   "idx": 1
   }
  ]
 }
