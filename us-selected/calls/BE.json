@@ -3,6 +3,42 @@
  "slug": "BE",
  "calls": [
   {
+   "video_id": "zSLixL-Yydw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "What's Going on With Bloom Energy Stock? | BE Stock Analysis",
+   "published_at": "2026-11-15T16:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "BE",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF ~$155 (stated); current price not reliably captured in captions",
+   "thesis": "HOLD reiterated (was HOLD 31 Oct) - 'not a buying opportunity just yet, but it's getting close': revenue guide raised from +60% to +120%+ YoY, backlog growing faster than revenue, but too expensive at his ~$155 target - still circling.",
+   "base_case": "Onsite power demand from data centres; 35% of facilities fully onsite-powered by 2035.",
+   "bull_case": "Electricity demand +40% by 2035 (IEA); market nearly doubles to ~$6T in a decade.",
+   "bear_case": "Price above his buy level; buildout delays are the execution risk.",
+   "collab": false
+  },
+  {
+   "video_id": "uc81ZM85WMc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Scared of the Dip? 16 YouTubers Agree on These 5 Stocks",
+   "published_at": "2026-11-15T13:59:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "BE",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No stated price; PE 'looks pretty scary' (stated)",
+   "thesis": "HOLD, first tracked - size small, 'the way you'd size any company that's still trying to prove itself': only 4 of 16 channels covered Bloom, all liked it; sales more than doubled YoY, operating margin improved from ~-20% (6 years ago) to ~15%, analysts raising estimates with no cuts - but PE is scary and last quarter's cash didn't keep up with profits.",
+   "base_case": "Demand plentiful; fuel cells solve the data-centre power bottleneck on-site.",
+   "bull_case": "Growth speeding up; on a growth-adjusted basis near cheapest all year.",
+   "bear_case": "Very high valuation, negative cash flow last quarter; still proving itself.",
+   "collab": false
+  },
+  {
    "video_id": "mNVCOCrbTbY",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -68,8 +104,12 @@
    "idx": 0
   },
   {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
+  },
+  {
    "channel": "MarketBeat",
-   "idx": 2
+   "idx": 4
   }
  ]
 }
