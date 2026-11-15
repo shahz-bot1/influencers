@@ -1,0 +1,23 @@
+{
+ "video_id": "UphQ4_qKucM",
+ "title": "Nvidia Stock: Jensen Huang's Exit Changes EVERYTHING...",
+ "creator": "Jose Najarro Stocks",
+ "handle": "@josenajarrostocks",
+ "published_at": "2026-11-14T17:55:25.365462+00:00",
+ "summary": "Jose Najarro updates his Nvidia stance after Jensen Huang's resignation, announced 12 November, with CFO Colette Kress named interim CEO while the board searches for a permanent successor. Nvidia is down roughly 26% in the past month and about 6% in five days, sitting below a $4 trillion market cap. His call is HOLD: he is not adding to his position and not selling, mainly because of portfolio allocation and because new information is still arriving. He argues the board 'shot first and asked questions later', citing Simon Erikson's post that the board should have kept Huang while investigating, but concedes the devil's advocate case — nobody outside the board knows what Huang confessed, and the only confirmed fact is the affair itself, with the alleged Chinese-spy link to Alice Huang unconfirmed and US intelligence and the DOJ reportedly uncertain. He dismisses fears that Kress is too conservative, noting she pushed back on Huang's proposed $250 billion OpenAI credit backstop to about $100 billion because that is a CFO's job — checks and balances, not lack of vision. His core worry is the supply chain: Huang personally talked tiny suppliers into giving Nvidia capacity, and with him gone Google is already asking those suppliers for capacity, while AMD, Broadcom and the hyperscalers' own chips (Google TPUs, Amazon Trainium) exploit the uncertainty. Established neocloud names CoreWeave, Nebius and IREN already have Nvidia contracts or investments, so he is less worried about them; brand-new neocloud hopefuls face more risk. He also flags talent drain (VCs offering billions to start rival chip/AI labs), notes Elon Musk is the only big-tech CEO publicly defending Huang and offering him a TerraFab CEO role, and reports Arm CEO Rene Haas has been approached as a successor candidate. He will judge the 17 November earnings call closely — who speaks, hesitations, cut-offs — before changing stance, and says if he held no Nvidia he would start a small starter position, while a small holder could hold and dollar-cost average lightly. Caption note: the auto-captions garble a few names ('CES EO', 'SpaceXAI', 'Rupen' for a supplier) but the substance is clear throughout.",
+ "calls": [
+  {
+   "video_id": "UphQ4_qKucM",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "HOLD",
+   "thesis": "Holding, not adding and not selling: Jensen Huang resigned 12 Nov (CFO Colette Kress interim CEO) and the board 'shot first and asked questions later', so the supply-chain and deal-making edge Jensen personally built is now uncertain; rivals (Google TPUs, AMD, Broadcom) are using the uncertainty to poach suppliers. He will listen closely to the 17 Nov earnings call before changing stance.",
+   "base_case": "Watch and wait: hold the existing position, no dip-buying, reassess after the 17 Nov earnings call and once a permanent CEO is named.",
+   "bull_case": "Jensen returns as board member or consultant, or a strong visionary + supply-chain CEO is appointed and the uncertainty itself pushes management to prove Nvidia works without him.",
+   "bear_case": "Without Jensen the supply chain advantage erodes (Google already begging suppliers for capacity), decision-making slows to corporate pace, and top talent leaves for VC-backed chip/AI startups.",
+   "analyzed_at": "2026-11-15T04:57:06.105520+00:00",
+   "price_at_call": "Down ~26% in the past month, below $4T market cap; down ~6% in 5 days"
+  }
+ ]
+}
