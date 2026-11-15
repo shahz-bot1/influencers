@@ -3,6 +3,24 @@
  "slug": "BA",
  "calls": [
   {
+   "video_id": "_10-UkM-akU",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "BUYING The Dip in 4 Stocks Before 2027",
+   "published_at": "2026-11-15T15:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "BA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No stated price; analyst avg target ~$245 (stated)",
+   "thesis": "BUY, first tracked - multi-year turnaround: deliveries recovering (635 commercial in TTM, highest in 7 years), backlog at an all-time high; earnings flip positive next year with strong growth into 2028; avg target ~$245 implies over 40% upside.",
+   "base_case": "Deliveries and free cash flow keep improving.",
+   "bull_case": "Boeing-Airbus duopoly; aging fleets need new aircraft.",
+   "bear_case": "Execution - production quality, cash flow, balance sheet.",
+   "collab": false
+  },
+  {
    "video_id": "T6xdLcU_-XM",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -39,11 +57,11 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   }
  ]
