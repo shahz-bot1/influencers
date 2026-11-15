@@ -1,0 +1,28 @@
+{
+ "video_id": "bGDRdYG3RBE",
+ "title": "Should You Buy Home Depot Stock Before the Huge Investor Update? | HD Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-15T18:00:01.139404+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc asks whether Home Depot is a buying opportunity ahead of its 17 November investor update, calling it arguably the best home improvement retailer in the world in a roughly $1 trillion US industry. Growth has slowed sharply: Wall Street expects 8.3% EPS growth a year, well below the pre-pandemic pattern of about 8% revenue growth and roughly double that in EPS, because pandemic lockdowns pulled forward years of demand as people painted, renovated and added home offices. Margins have compressed with it: operating margin down from a peak of 15.5% to 12.4%, cash flow from operations to sales from about 17% to 11%, and return on invested capital from above 40% to 18.5%. Market share remains strong, especially with professional contractors, thanks to assortment and service. His DCF puts fair value at $272, and at 22 times forward earnings he sees more downside than upside and will not buy before results. Call: HD AVOID, flipped from BUY on 16 October. Bull: share strength with pro contractors. Bear: pulled-forward pandemic demand, tariffs and a muted housing market. No other tickers are called in the video.",
+ "calls": [
+  {
+   "video_id": "bGDRdYG3RBE",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Home Depot Stock Before the Huge Investor Update? | HD Stock Analysis",
+   "published_at": "2026-11-15T18:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "HD",
+   "direction": "AVOID",
+   "flip": true,
+   "stance_flip": "Was BUY on 16 Oct; now AVOID - overvalued into the 17 Nov investor update.",
+   "price_at_call": "DCF $272 (stated); current price not captured in captions",
+   "thesis": "AVOID - FLIP from BUY (16 Oct): DCF $272, overvalued at 22x forward P/E with EPS growth slowing to 8.3%/yr; margins compressed (op margin 15.5% to 12.4%, ROIC above 40% to 18.5%); 'more downside than upside' into the 17 Nov investor update - will not buy before results.",
+   "base_case": "Best home-improvement retailer; share strong with pro contractors.",
+   "bull_case": "Results beat and valuation resets after the update.",
+   "bear_case": "Pulled-forward pandemic demand, tariffs, elevated rates and muted housing keep weighing.",
+   "collab": false
+  }
+ ]
+}
