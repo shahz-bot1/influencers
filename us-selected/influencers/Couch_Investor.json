@@ -4,6 +4,46 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-15T17:00:01.139404+00:00",
+   "price": "$714 (stated; added 4 shares, +16.6% position)",
+   "video_id": "oV8-eSOiu2U"
+  },
+  {
+   "ticker": "RKLB",
+   "tickerSlug": "RKLB",
+   "direction": "BUY",
+   "date": "2026-11-15T17:00:01.139404+00:00",
+   "price": "~$59 (stated; added 30 shares, +5.17% position)",
+   "video_id": "oV8-eSOiu2U"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-15T17:00:01.139404+00:00",
+   "price": "$178 (stated; added shares 2-3 days before Jensen resigned)",
+   "video_id": "oV8-eSOiu2U"
+  },
+  {
+   "ticker": "AXON",
+   "tickerSlug": "AXON",
+   "direction": "BUY",
+   "date": "2026-11-15T17:00:01.139404+00:00",
+   "price": "$312 (stated; added, +18.42% position)",
+   "video_id": "oV8-eSOiu2U"
+  },
+  {
+   "ticker": "RDDT",
+   "tickerSlug": "RDDT",
+   "direction": "HOLD",
+   "date": "2026-11-15T17:00:01.139404+00:00",
+   "price": "No stated price; wants a push well above $100",
+   "video_id": "oV8-eSOiu2U"
+  },
+  {
    "ticker": "GOOGL",
    "tickerSlug": "GOOGL",
    "direction": "BUY",
