@@ -3,6 +3,24 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "uc81ZM85WMc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Scared of the Dip? 16 YouTubers Agree on These 5 Stocks",
+   "published_at": "2026-11-15T13:59:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "NBIS",
+   "direction": "AVOID",
+   "flip": true,
+   "stance_flip": "Was BUY on 3 Oct; now AVOID for new money - 'new money should wait'.",
+   "price_at_call": "No stated price",
+   "thesis": "AVOID for new money - FLIP from BUY (3 Oct): channels split 3 bulls vs 2 bears; Q3 sales +570% YoY but boosted by a one-time payment, and it cut its full-year target to the bottom of the range as new capacity runs late; 'new money should wait' - no real profit yet, tiniest slice, never core.",
+   "base_case": "Sales +570% YoY.",
+   "bull_case": "Demand exceeds supply; prepayments cover capex (per Parkevtate's separate reiterated BUY).",
+   "bear_case": "One-time payment flattered Q3; FY target cut; capacity delays; riskiest corner of the AI trade.",
+   "collab": false
+  },
+  {
    "video_id": "oqmBYuq-GQM",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -361,20 +379,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "MarketBeat",
-   "idx": 5
+   "channel": "Couch Investor",
+   "idx": 2
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 20
+   "channel": "MarketBeat",
+   "idx": 6
   }
  ]
 }
