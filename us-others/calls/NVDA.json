@@ -3,6 +3,19 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "UphQ4_qKucM",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "HOLD",
+   "thesis": "Holding, not adding and not selling: Jensen Huang resigned 12 Nov (CFO Colette Kress interim CEO) and the board 'shot first and asked questions later', so the supply-chain and deal-making edge Jensen personally built is now uncertain; rivals (Google TPUs, AMD, Broadcom) are using the uncertainty to poach suppliers. He will listen closely to the 17 Nov earnings call before changing stance.",
+   "base_case": "Watch and wait: hold the existing position, no dip-buying, reassess after the 17 Nov earnings call and once a permanent CEO is named.",
+   "bull_case": "Jensen returns as board member or consultant, or a strong visionary + supply-chain CEO is appointed and the uncertainty itself pushes management to prove Nvidia works without him.",
+   "bear_case": "Without Jensen the supply chain advantage erodes (Google already begging suppliers for capacity), decision-making slows to corporate pace, and top talent leaves for VC-backed chip/AI startups.",
+   "analyzed_at": "2026-11-15T04:57:06.105520+00:00",
+   "price_at_call": "Down ~26% in the past month, below $4T market cap; down ~6% in 5 days"
+  },
+  {
    "video_id": "FSPJxUCsswI",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
@@ -186,24 +199,24 @@
  ],
  "byInf": [
   {
-   "channel": "Asymmetric Investing",
+   "channel": "Jose Najarro Stocks",
    "idx": 0
   },
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Asymmetric Investing",
    "idx": 1
   },
   {
    "channel": "Daniel Pronk",
-   "idx": 2
-  },
-  {
-   "channel": "Joseph Hogue, CFA",
    "idx": 3
   },
   {
-   "channel": "Tom Nash",
+   "channel": "Joseph Hogue, CFA",
    "idx": 4
+  },
+  {
+   "channel": "Tom Nash",
+   "idx": 5
   }
  ]
 }
