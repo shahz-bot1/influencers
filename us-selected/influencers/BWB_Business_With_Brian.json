@@ -4,6 +4,86 @@
  "slug": "BWB_Business_With_Brian",
  "calls": [
   {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-15T13:59:40.546128+00:00",
+   "price": "No stated price; system says undervalued on his price ladder",
+   "video_id": "uc81ZM85WMc"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-15T13:59:40.546128+00:00",
+   "price": "No stated price; his system says fairly valued - buy is his call over his system",
+   "video_id": "uc81ZM85WMc"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-15T13:59:40.546128+00:00",
+   "price": "No stated price; PE less than half its usual level (stated)",
+   "video_id": "uc81ZM85WMc"
+  },
+  {
+   "ticker": "MSFT",
+   "tickerSlug": "MSFT",
+   "direction": "HOLD",
+   "date": "2026-11-15T13:59:40.546128+00:00",
+   "price": "PE ~27 vs 10-yr average ~29 (stated)",
+   "video_id": "uc81ZM85WMc"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "HOLD",
+   "date": "2026-11-15T13:59:40.546128+00:00",
+   "price": "No stated price; 'more expensive than almost any time in its own history'",
+   "video_id": "uc81ZM85WMc"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "HOLD",
+   "date": "2026-11-15T13:59:40.546128+00:00",
+   "price": "No stated price",
+   "video_id": "uc81ZM85WMc"
+  },
+  {
+   "ticker": "SNDK",
+   "tickerSlug": "SNDK",
+   "direction": "HOLD",
+   "date": "2026-11-15T13:59:40.546128+00:00",
+   "price": "No stated price; ~$89B reservation book (stated)",
+   "video_id": "uc81ZM85WMc"
+  },
+  {
+   "ticker": "BE",
+   "tickerSlug": "BE",
+   "direction": "HOLD",
+   "date": "2026-11-15T13:59:40.546128+00:00",
+   "price": "No stated price; PE 'looks pretty scary' (stated)",
+   "video_id": "uc81ZM85WMc"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "AVOID",
+   "date": "2026-11-15T13:59:40.546128+00:00",
+   "price": "No stated price; backlog ~$132B (stated)",
+   "video_id": "uc81ZM85WMc"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "AVOID",
+   "date": "2026-11-15T13:59:40.546128+00:00",
+   "price": "No stated price",
+   "video_id": "uc81ZM85WMc"
+  },
+  {
    "ticker": "JEPQ",
    "tickerSlug": "JEPQ",
    "direction": "BUY",
