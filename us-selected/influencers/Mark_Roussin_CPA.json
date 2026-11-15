@@ -4,6 +4,38 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "CAT",
+   "tickerSlug": "CAT",
+   "direction": "BUY",
+   "date": "2026-11-15T15:00:01.139404+00:00",
+   "price": "No stated price; analyst avg target ~$918 (stated)",
+   "video_id": "_10-UkM-akU"
+  },
+  {
+   "ticker": "BA",
+   "tickerSlug": "BA",
+   "direction": "BUY",
+   "date": "2026-11-15T15:00:01.139404+00:00",
+   "price": "No stated price; analyst avg target ~$245 (stated)",
+   "video_id": "_10-UkM-akU"
+  },
+  {
+   "ticker": "HOOD",
+   "tickerSlug": "HOOD",
+   "direction": "BUY",
+   "date": "2026-11-15T15:00:01.139404+00:00",
+   "price": "No stated price; 'could be a $100 stock by end of 2026' (stated)",
+   "video_id": "_10-UkM-akU"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-11-15T15:00:01.139404+00:00",
+   "price": "No stated price; '$1,000 stock in my opinion' (stated)",
+   "video_id": "_10-UkM-akU"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
