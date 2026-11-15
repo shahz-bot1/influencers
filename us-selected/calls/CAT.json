@@ -1,0 +1,30 @@
+{
+ "ticker": "CAT",
+ "slug": "CAT",
+ "calls": [
+  {
+   "video_id": "_10-UkM-akU",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "BUYING The Dip in 4 Stocks Before 2027",
+   "published_at": "2026-11-15T15:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "CAT",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No stated price; analyst avg target ~$918 (stated)",
+   "thesis": "BUY, first tracked - down over 40% from July highs on AI-buildout fears; power generation for data centres is the underappreciated driver; edge score 82, forward P/E 18.8, PEG ~1, EPS $32.18 next year (+18%), target ~$918 implies over 50% upside.",
+   "base_case": "Data centres are not going away; buildout continues.",
+   "bull_case": "Power/infrastructure spend underestimated; resilient digital infrastructure needs backup generation.",
+   "bear_case": "Regulation could slow data-centre construction.",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
