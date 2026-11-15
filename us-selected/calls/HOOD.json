@@ -3,6 +3,24 @@
  "slug": "HOOD",
  "calls": [
   {
+   "video_id": "_10-UkM-akU",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "BUYING The Dip in 4 Stocks Before 2027",
+   "published_at": "2026-11-15T15:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "HOOD",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Was UNCERTAIN on 3 Oct; now BUY - platform has evolved; down 35% in a year.",
+   "price_at_call": "No stated price; 'could be a $100 stock by end of 2026' (stated)",
+   "thesis": "BUY - FLIP from UNCERTAIN (3 Oct): evolved beyond meme trading into a diversified financial platform; edge score 77, down 35% in 12 months, EPS $2.93 next year (+~40%), forward P/E 27.7, PEG under 1; looking to sell the $70 put expiring 18 Dec for ~$300 premium.",
+   "base_case": "Revenue growing; adjusted EBITDA at all-time high, operating margins 45.7%.",
+   "bull_case": "Younger customers deepen relationships - retirement, cash management - over time.",
+   "bear_case": "Sensitive to trading activity and market sentiment.",
+   "collab": false
+  },
+  {
    "video_id": "D96KGS5Ycgg",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -23,8 +41,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
