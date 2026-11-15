@@ -3,6 +3,24 @@
  "slug": "RDDT",
  "calls": [
   {
+   "video_id": "oV8-eSOiu2U",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Just Bought $8,100 of 4 Stocks. Here’s Why",
+   "published_at": "2026-11-15T17:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "RDDT",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "Was UNCERTAIN on 7 Nov; now HOLD - 'hands off' until a catalyst.",
+   "price_at_call": "No stated price; wants a push well above $100",
+   "thesis": "HOLD - FLIP from UNCERTAIN (7 Nov): 'hands off' - no adding until a catalyst, either logged-in-user monetisation working or a data-licensing deal; small position, down 40%.",
+   "base_case": "In no man's land; needs a push above $100.",
+   "bull_case": "Logged-in monetisation or a data deal re-rates it.",
+   "bear_case": "Falling knife until a catalyst; user base not yet proven to monetise better.",
+   "collab": false
+  },
+  {
    "video_id": "41LatuKsv7w",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -53,11 +71,11 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   }
  ]
