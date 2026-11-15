@@ -3,6 +3,24 @@
  "slug": "MSFT",
  "calls": [
   {
+   "video_id": "uc81ZM85WMc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Scared of the Dip? 16 YouTubers Agree on These 5 Stocks",
+   "published_at": "2026-11-15T13:59:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "MSFT",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "PE ~27 vs 10-yr average ~29 (stated)",
+   "thesis": "HOLD reiterated (was HOLD 4 Oct) - 'a solid choice to own, but I just don't see it as one that I want to chase': 8 of 16 YouTubers bullish, none bearish; bookings now cover ~2 years of sales (was just over 1 year); business as strong as it gets, but at PE ~27 vs ~29 average there's no discount - paying full price.",
+   "base_case": "Azure/bookings strength, ~2 years of sales under contract.",
+   "bull_case": "Bookings keep compounding on a bigger business.",
+   "bear_case": "No discount at current price; chasing with the crowd.",
+   "collab": false
+  },
+  {
    "video_id": "f5efGSr-Nhw",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -138,20 +156,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 4
+   "channel": "MarketBeat",
+   "idx": 2
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
