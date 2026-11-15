@@ -1,0 +1,28 @@
+{
+ "video_id": "o_J7mnQ3NX4",
+ "title": "Plug Power Stock Has Taken Investors on a Roller Coaster Ride in 2026",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-15T18:16:01.139404+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc asks whether Plug Power is a buying opportunity on the dip or a falling knife after a roller-coaster 2026 in which the stock soared above $4 and then crashed below $1.50. He traces the history: revenue grew from about $100 million in 2017 to $900 million in 2024, but losses worsened as management chased big-name contracts that were not profitable. In 2025 management pivoted to profitable growth, revenue fell to about $650 million, and since then it has recovered to $768 million on a trailing basis while margins improve, with operating margin up from negative 175% to negative 44.5% and cash flow to sales from negative 150% to negative 61%. The company is benefiting from rising energy demand from data centres, which partly explains the revenue recovery. Even so, Plug remains deeply loss-making, with $838 million of debt against $280 million of cash, and he wants to see more progress before upgrading. Call: PLUG AVOID, first tracked. Bull: data-centre energy demand and a price-to-sales ratio of 1.9 near the low end since 2024. Bear: weak balance sheet and continued cash burn. No other tickers are called in the video.",
+ "calls": [
+  {
+   "video_id": "o_J7mnQ3NX4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Plug Power Stock Has Taken Investors on a Roller Coaster Ride in 2026",
+   "published_at": "2026-11-15T18:16:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "PLUG",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No stated price; forward P/S 1.9 (stated)",
+   "thesis": "AVOID, first tracked - not a buying opportunity: revenue recovering ($650M to $768M TTM) and margins improving (op margin -175% to -44.5%, cash-flow-to-sales -150% to -61%), but still deeply loss-making with $838M debt vs $280M cash; 'on the right path, but I need to see more progress before upgrading'.",
+   "base_case": "Profitable-revenue focus is working; foundation better than ever in a decade of following it.",
+   "bull_case": "Data-centre energy demand lifts revenue; P/S 1.9 near the low end since 2024.",
+   "bear_case": "Balance sheet weak; still burning cash; long way to self-sustaining.",
+   "collab": false
+  }
+ ]
+}
