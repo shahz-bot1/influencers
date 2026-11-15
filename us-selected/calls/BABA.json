@@ -1,0 +1,30 @@
+{
+ "ticker": "BABA",
+ "slug": "BABA",
+ "calls": [
+  {
+   "video_id": "PMW3UhgWlHw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Alibaba Stock Before the Huge Investor Update? | BABA Stock Analysis",
+   "published_at": "2026-11-15T14:45:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "BABA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$94 (stated); DCF fair value $122 (stated)",
+   "thesis": "BUY, first tracked - buying opportunity before the 19 Nov earnings update: stock down 36% from above $175 to $94 (2026 low) while EPS estimates rise; fwd P/E just 10 (was 25 earlier in 2026), EPS growth ~27%/yr expected, AI revenue growing triple-digit %. Buy before earnings for higher risk/reward, or wait until after the print for lower risk - either way a buy.",
+   "base_case": "EPS growth ~27%/yr for next several years; AI revenue accelerating triple-digit %; balance sheet strong - $63B+ cash/short-term investments vs under $35B long-term debt.",
+   "bull_case": "AI revenue acceleration plus proprietary chips lower AI costs; valuation re-rates from fwd P/E 10 toward earlier 25.",
+   "bear_case": "Margins in long decline - operating margin from ~30% to low single digits, CFO/sales from 50%+ to single digits; earnings growth is capex-funded, not organic; revenue growth slowed.",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
