@@ -3,6 +3,24 @@
  "slug": "RKLB",
  "calls": [
   {
+   "video_id": "oV8-eSOiu2U",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Just Bought $8,100 of 4 Stocks. Here’s Why",
+   "published_at": "2026-11-15T17:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "RKLB",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$59 (stated; added 30 shares, +5.17% position)",
+   "thesis": "BUY reiterated (was BUY 18 Oct) - added 30 shares at ~$59 (+5.17%): post-earnings dip fully recovered and pushed higher, now just above the buy zone; resistance $66.34.",
+   "base_case": "Post-earnings recovery held; just above the buy zone.",
+   "bull_case": "Momentum carries through $66.34 resistance.",
+   "bear_case": "Already above the buy zone; resistance overhead.",
+   "collab": false
+  },
+  {
    "video_id": "o3L-3ZDKjcg",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -57,16 +75,16 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
