@@ -3,6 +3,60 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "_10-UkM-akU",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "BUYING The Dip in 4 Stocks Before 2027",
+   "published_at": "2026-11-15T15:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No stated price; '$1,000 stock in my opinion' (stated)",
+   "thesis": "BUY reiterated (was BUY 27 Oct) - highest-conviction growth stock: MI400/Helios rack-scale platform, hyperscalers diversifying away from single-supplier Nvidia dependence post-Jensen; EPS growth over 90% this year and over 100% next, P/E 33.",
+   "base_case": "Doesn't need to overtake Nvidia - just needs a larger share of a fast-growing market.",
+   "bull_case": "Supplier-diversification tailwind accelerates after the Nvidia headlines.",
+   "bear_case": "Nvidia's CUDA ecosystem still dominant; customers can't switch overnight.",
+   "collab": false
+  },
+  {
+   "video_id": "uc81ZM85WMc",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "Scared of the Dip? 16 YouTubers Agree on These 5 Stocks",
+   "published_at": "2026-11-15T13:59:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "Was BUY on 8 Nov (bought after a ~7% drop); now HOLD - not adding.",
+   "price_at_call": "No stated price; 'more expensive than almost any time in its own history'",
+   "thesis": "HOLD - FLIP from BUY (8 Nov, when he bought after a ~7% drop): reported another great quarter then fell ~17% in the sell-off anyway; EPS expected to more than double next year (+15% estimate revisions in 3 months), but after the bounce it's too expensive to add - sticking to regular dollar-cost averaging, no extra buys.",
+   "base_case": "EPS more than doubling next year expected; remains one of his anchors.",
+   "bull_case": "Even his bear case still likely outperforms the S&P 500 (quoted YouTuber).",
+   "bear_case": "Relatively expensive vs NVDA - slower growth, lower profitability; most expensive in its own history.",
+   "collab": false
+  },
+  {
+   "video_id": "fbpEekpmboE",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Now That Jensen Huang is Out, Should Investors Buy AMD Stock Instead of Nvidia Stock? | AMD vs. NVDA",
+   "published_at": "2026-11-15T12:55:40.546128+00:00",
+   "analyzed_at": "2026-11-15T15:02:18Z",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$533 (stated, after ~9% decline); DCF fair value $390 (stated)",
+   "thesis": "HOLD reiterated (was HOLD 5 Nov @ ~$518, FV $394) - overvalued vs NVDA: AMD's EPS growth is faster (70%/yr vs NVDA 50%) and its GPUs/CPUs are closing the gap, but at 3x NVDA's valuation the premium is undeserved; $533 vs $390 FV. He picks NVDA over AMD at current prices.",
+   "base_case": "EPS +70%/yr expected; data-centre share growing as second-place GPU provider; agentic AI lifts its CPU strength.",
+   "bull_case": "GPUs keep closing the gap; operating margin rises from 17.7% as scale builds.",
+   "bear_case": "Valuation 3x NVDA's; margins (17.7%) and revenue/employee ($1.17M) far behind NVDA; sentiment extremely positive in 2026.",
+   "collab": false
+  },
+  {
    "video_id": "cbkQCsrubBM",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -323,11 +377,11 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
@@ -335,11 +389,11 @@
    "idx": 2
   },
   {
-   "channel": "Couch Investor",
-   "idx": 3
+   "channel": "MarketBeat",
+   "idx": 4
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 6
   }
  ]
