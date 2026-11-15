@@ -3,6 +3,24 @@
  "slug": "AXON",
  "calls": [
   {
+   "video_id": "oV8-eSOiu2U",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "I Just Bought $8,100 of 4 Stocks. Here’s Why",
+   "published_at": "2026-11-15T17:00:01.139404+00:00",
+   "analyzed_at": "2026-11-15T19:07:36Z",
+   "ticker": "AXON",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$312 (stated; added, +18.42% position)",
+   "thesis": "BUY reiterated (was BUY 8 Nov) - added at $312 (+18.42%): back above $300 at $315, wanted a cheaper add; still down 21% on the position overall.",
+   "base_case": "Above $300; wants a push well above $315 for comfort.",
+   "bull_case": "Momentum builds above $315.",
+   "bear_case": "Still needs more momentum to be comfortable for most investors.",
+   "collab": false
+  },
+  {
    "video_id": "i8vFBCkcxqs",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
