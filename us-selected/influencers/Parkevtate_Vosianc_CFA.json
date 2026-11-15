@@ -4,6 +4,62 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "PLUG",
+   "tickerSlug": "PLUG",
+   "direction": "AVOID",
+   "date": "2026-11-15T18:16:01.139404+00:00",
+   "price": "No stated price; forward P/S 1.9 (stated)",
+   "video_id": "o_J7mnQ3NX4"
+  },
+  {
+   "ticker": "HD",
+   "tickerSlug": "HD",
+   "direction": "AVOID",
+   "date": "2026-11-15T18:00:01.139404+00:00",
+   "price": "DCF $272 (stated); current price not captured in captions",
+   "video_id": "bGDRdYG3RBE"
+  },
+  {
+   "ticker": "PEP",
+   "tickerSlug": "PEP",
+   "direction": "BUY",
+   "date": "2026-11-15T17:00:01.139404+00:00",
+   "price": "~$143 (stated); DCF $190",
+   "video_id": "6PgHbdHQ59I"
+  },
+  {
+   "ticker": "BE",
+   "tickerSlug": "BE",
+   "direction": "HOLD",
+   "date": "2026-11-15T16:00:01.139404+00:00",
+   "price": "DCF ~$155 (stated); current price not reliably captured in captions",
+   "video_id": "zSLixL-Yydw"
+  },
+  {
+   "ticker": "BABA",
+   "tickerSlug": "BABA",
+   "direction": "BUY",
+   "date": "2026-11-15T14:45:40.546128+00:00",
+   "price": "~$94 (stated); DCF fair value $122 (stated)",
+   "video_id": "PMW3UhgWlHw"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-15T12:55:40.546128+00:00",
+   "price": "~$163 (stated); DCF fair value $257 (stated, cut from $313 after Jensen resignation)",
+   "video_id": "fbpEekpmboE"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "HOLD",
+   "date": "2026-11-15T12:55:40.546128+00:00",
+   "price": "~$533 (stated, after ~9% decline); DCF fair value $390 (stated)",
+   "video_id": "fbpEekpmboE"
+  },
+  {
    "ticker": "COST",
    "tickerSlug": "COST",
    "direction": "BUY",
