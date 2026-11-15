@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T05:00:33.722843+00:00",
+ "updated": "2026-11-15T04:58:06.089265+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -1744,7 +1744,7 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "lastDate": "2026-11-15T04:57:06.105520+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1754,7 +1754,7 @@
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$150"
+     "avg": "$26"
     },
     {
      "dir": "SELL",
@@ -1768,14 +1768,14 @@
     }
    ],
    "influencers": [
-    "Asymmetric Investing",
     "Jose Najarro Stocks",
+    "Asymmetric Investing",
     "Daniel Pronk",
     "Joseph Hogue, CFA",
     "Tom Nash"
    ],
-   "lastStated": "Stock fell to ~$150 at the open on 12 Nov after the resignation; ~35% below its ",
-   "nCalls": 16
+   "lastStated": "Down ~26% in the past month, below $4T market cap; down ~6% in 5 days",
+   "nCalls": 17
   },
   {
    "ticker": "NVDY",
@@ -2728,8 +2728,8 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 43,
-   "nVideos": 21
+   "nCalls": 44,
+   "nVideos": 22
   },
   {
    "name": "Joseph Hogue, CFA",
@@ -2768,6 +2768,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "UphQ4_qKucM",
+   "title": "Nvidia Stock: Jensen Huang's Exit Changes EVERYTHING...",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-11-14T17:55:25.365462+00:00",
+   "nCalls": 1
+  },
   {
    "id": "Mw5EXAyrPr4",
    "title": "Here Are The Top 2 Stocks I'm Buying Now",
