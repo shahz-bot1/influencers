@@ -1,0 +1,28 @@
+{
+ "video_id": "NPbz95mgKBk",
+ "title": "Why Is SoundhoundAI Stock Crashing, and is it a Buying Opportunity? | SOUN Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-16T13:55:42.651358+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate asks whether SoundHound AI, down about 65% year to date in 2026 to $3.50 and nearly 90% below its peak near $25, is finally a buying opportunity, and answers no. He has warned against the stock since its euphoric peak and reiterates the avoid: revenue growth is mostly acquisition-led rather than organic, trailing twelve-month revenue of $224m is up nearly 5x since 2024 after hundreds of millions spent on acquisitions, and management just revised its 2026 revenue outlook lower to focus on more profitable recurring revenue. Profitability remains distant: operating margin has improved from -500% to -98% and cash flow from operations to sales from -400% to -53%, and adjusted EBITDA positive is only guided for the second half of 2027. Offsetting that, the balance sheet is strong with over $207m in cash and almost no debt, and valuation has compressed to a forward price-to-sales of 4.5 from a peak forward P/E of 55. His updated DCF fair value is $2.02, up from about $1.50, still below the $3.50 price. Call: SOUN AVOID @ $3.50 (first tracked call). Note: he corrects himself in-video from 'Live Nation' to 'Live Person' for the latest acquisition.",
+ "calls": [
+  {
+   "video_id": "NPbz95mgKBk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is SoundhoundAI Stock Crashing, and is it a Buying Opportunity? | SOUN Stock Analysis",
+   "published_at": "2026-11-16T13:55:42.651358+00:00",
+   "analyzed_at": "2026-11-16T14:57:54Z",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "SOUN",
+   "direction": "AVOID",
+   "price_at_call": "$3.50",
+   "thesis": "First tracked call: reiterates his long-standing avoid — down ~65% YTD and near 52-week lows, but his DCF fair value is only $2.02 vs $3.50, so still overvalued; not a buying opportunity yet.",
+   "base_case": "Revenue growth is mostly acquisition-led, not organic; 2026 outlook revised lower as management shifts to profitable recurring revenue.",
+   "bull_case": "Balance sheet is strong ($207m cash, almost no debt) and valuation is far cheaper than the peak (forward P/S 4.5 vs peak P/E 55); adjusted EBITDA positive guided for H2 2027.",
+   "bear_case": "Operating margin still -98% and cash flow from operations to sales -53%; profitability remains a long way off."
+  }
+ ]
+}
