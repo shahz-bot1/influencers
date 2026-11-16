@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T23:10:01.823899+00:00",
+ "updated": "2026-11-16T23:07:15.174980+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -1944,19 +1944,19 @@
   {
    "ticker": "INTC",
    "slug": "INTC",
-   "lastDate": "2026-11-14T14:45:45.832116+00:00",
+   "lastDate": "2026-11-16T14:45:42.651358+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$57.34"
+     "avg": "$57.32"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "$57.34 (stated current); peaked at $141 earlier this year",
-   "nCalls": 3
+   "lastStated": "$57.32",
+   "nCalls": 4
   },
   {
    "ticker": "IONQ",
@@ -2886,11 +2886,11 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-15T17:00:01.139404+00:00",
+   "lastDate": "2026-11-15T23:55:20.097935+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 4,
+     "n": 5,
      "avg": "$171.67"
     },
     {
@@ -2900,6 +2900,7 @@
     }
    ],
    "influencers": [
+    "MarketBeat",
     "Couch Investor",
     "BWB - Business With Brian",
     "Parkevtate Vosianc CFA",
@@ -2907,7 +2908,7 @@
     "Joseph Carlson After Hours"
    ],
    "lastStated": "$178 (stated; added shares 2-3 days before Jensen resigned)",
-   "nCalls": 42
+   "nCalls": 43
   },
   {
    "ticker": "NVO",
@@ -3795,6 +3796,23 @@
    ],
    "lastStated": "No share price stated; ~$20-22B market cap, down ~37% YTD; ~20x 2027 earnings (s",
    "nCalls": 11
+  },
+  {
+   "ticker": "SOUN",
+   "slug": "SOUN",
+   "lastDate": "2026-11-16T13:55:42.651358+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$3.5"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "$3.50",
+   "nCalls": 1
   },
   {
    "ticker": "SPCX",
@@ -4687,15 +4705,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 137,
-   "nVideos": 50
+   "nCalls": 138,
+   "nVideos": 51
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 285,
-   "nVideos": 256
+   "nCalls": 287,
+   "nVideos": 260
   },
   {
    "name": "The German Value Investor",
@@ -4706,6 +4724,56 @@
   }
  ],
  "videos": [
+  {
+   "id": "9oY2_5rATIs",
+   "title": "If You're a CoreWeave Stock Investor, You Need to Know This | CRWV Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-16T16:00:01.255786+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "rClnvnl88J0",
+   "title": "Interesting Update for Intel Stock Investors | INTC Stock Deep Dive Part 3",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-16T14:45:42.651358+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "NPbz95mgKBk",
+   "title": "Why Is SoundhoundAI Stock Crashing, and is it a Buying Opportunity? | SOUN Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-16T13:55:42.651358+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "KJ0MBImxwus",
+   "title": "Why Is Everyone Talking About Bloom Energy Stock? | BE STock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-16T12:55:42.651358+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "F7tWKK4CqlY",
+   "title": "The UNTHINKABLE is About to Happen to Stocks (72 Hours of Chaos Starts Tuesday)",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-11-15T23:55:20.097935+00:00",
+   "nCalls": 1
+  },
   {
    "id": "o_J7mnQ3NX4",
    "title": "Plug Power Stock Has Taken Investors on a Roller Coaster Ride in 2026",
