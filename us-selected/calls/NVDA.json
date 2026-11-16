@@ -3,6 +3,25 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "F7tWKK4CqlY",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "The UNTHINKABLE is About to Happen to Stocks (72 Hours of Chaos Starts Tuesday)",
+   "published_at": "2026-11-15T23:55:20.097935+00:00",
+   "analyzed_at": "2026-11-16T06:57:41.492776Z",
+   "guest": "Thomas Hughes",
+   "collab": false,
+   "flip": true,
+   "stance_flip": "UNCERTAIN -> BUY",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Guest analyst Thomas Hughes calls the post-resignation capitulation low a 'textbook trend following buy signal' and says 'right now it looks like a great time to buy'. Stock corrected ~35% from its peak, now ~2x its 10-year earnings forecast, which he calls a huge valuation discount; product cycles locked in for 3-5 years and GPU demand 'wicked hot' into Tuesday 17 Nov earnings. FLIP from UNCERTAIN (12 Nov: wait for the stock to settle) to BUY - first explicit MarketBeat NVDA BUY since Jensen Huang resigned.",
+   "base_case": "Earnings validate the build-out, outlook and generation cycle; stock holds around current levels on valuation alone, then market piles back in and reinflates valuation at least partly.",
+   "bull_case": "Better-than-expected results trigger market follow-through on the buy signal; Nvidia slows acquisitions/heavy reinvestment, letting cash build up and de-risking the AI funding worry.",
+   "bear_case": "Only bad news would be missing consensus estimates or signalling a peak in the cycle / forward decline; risk of no smooth CEO transition or no new visionary; further Huang headlines could cause knee-jerk moves, and a lower low is still possible."
+  },
+  {
    "video_id": "oV8-eSOiu2U",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -681,24 +700,28 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 3
+  },
+  {
    "channel": "Mark Roussin CPA",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
