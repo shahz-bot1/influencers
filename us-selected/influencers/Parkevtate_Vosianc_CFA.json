@@ -4,6 +4,22 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "INTC",
+   "tickerSlug": "INTC",
+   "direction": "HOLD",
+   "date": "2026-11-16T14:45:42.651358+00:00",
+   "price": "$57.32",
+   "video_id": "rClnvnl88J0"
+  },
+  {
+   "ticker": "SOUN",
+   "tickerSlug": "SOUN",
+   "direction": "AVOID",
+   "date": "2026-11-16T13:55:42.651358+00:00",
+   "price": "$3.50",
+   "video_id": "NPbz95mgKBk"
+  },
+  {
    "ticker": "PLUG",
    "tickerSlug": "PLUG",
    "direction": "AVOID",
