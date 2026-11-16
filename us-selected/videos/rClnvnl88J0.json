@@ -1,0 +1,28 @@
+{
+ "video_id": "rClnvnl88J0",
+ "title": "Interesting Update for Intel Stock Investors | INTC Stock Deep Dive Part 3",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-16T14:45:42.651358+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate updates his Intel thesis after the stock fell more than 50% from its all-time high earlier in 2026. The core positive is manufacturing: Nova Lake, the first Intel 18A client product, is tracking ahead of schedule with design wins expected at twice Panther Lake's at launch, and Intel 3 and 18A yields are improving, 18A at a double-digit rate, with wafer output above expectations. He argues agentic AI is lifting demand for data-centre CPUs, Intel's strong suit, and cites Intel's estimate that the server CPU total addressable market could grow fivefold, from $40bn to over $200bn in five years, with consumer agentic AI (Meta Muse passed 10 million downloads in its first month) still to come. The big open opportunity is external foundry customers: Intel has idle capacity and strategic engagements, but has not yet won those customers from TSMC, and it remains far behind in GPUs. Headcount has been cut by roughly 25,000-30,000 to under 90,000. On valuation, forward P/E is 32, down from 80 earlier in the year, and his DCF fair value is $51.37 against a $57.32 price, so he calls Intel fairly valued and reiterates HOLD; around $45 would make it undervalued. Call: INTC HOLD @ $57.32 (reiterated).",
+ "calls": [
+  {
+   "video_id": "rClnvnl88J0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Interesting Update for Intel Stock Investors | INTC Stock Deep Dive Part 3",
+   "published_at": "2026-11-16T14:45:42.651358+00:00",
+   "analyzed_at": "2026-11-16T14:57:54Z",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "INTC",
+   "direction": "HOLD",
+   "price_at_call": "$57.32",
+   "thesis": "Fairly valued after the >50% crash from its all-time high: his DCF fair value is $51.37 vs $57.32 market, forward P/E 32 (was 80). Buying at fair value is reasonable; ~$45 would make it undervalued.",
+   "base_case": "18A yields improving at a double-digit rate, Nova Lake design wins tracking 2x Panther Lake, agentic AI could grow the server CPU TAM 5x ($40bn to $200bn+ in 5 years).",
+   "bull_case": "Foundry wins from external customers would use idle capacity and lift margins and cash flow sharply.",
+   "bear_case": "Still far behind in GPUs and has not yet captured external foundry customers; fair value below the current price."
+  }
+ ]
+}
