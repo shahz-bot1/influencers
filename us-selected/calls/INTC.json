@@ -3,6 +3,24 @@
  "slug": "INTC",
  "calls": [
   {
+   "video_id": "rClnvnl88J0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Interesting Update for Intel Stock Investors | INTC Stock Deep Dive Part 3",
+   "published_at": "2026-11-16T14:45:42.651358+00:00",
+   "analyzed_at": "2026-11-16T14:57:54Z",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "INTC",
+   "direction": "HOLD",
+   "price_at_call": "$57.32",
+   "thesis": "Fairly valued after the >50% crash from its all-time high: his DCF fair value is $51.37 vs $57.32 market, forward P/E 32 (was 80). Buying at fair value is reasonable; ~$45 would make it undervalued.",
+   "base_case": "18A yields improving at a double-digit rate, Nova Lake design wins tracking 2x Panther Lake, agentic AI could grow the server CPU TAM 5x ($40bn to $200bn+ in 5 years).",
+   "bull_case": "Foundry wins from external customers would use idle capacity and lift margins and cash flow sharply.",
+   "bear_case": "Still far behind in GPUs and has not yet captured external foundry customers; fair value below the current price."
+  },
+  {
    "video_id": "h-WUuLR7gyU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
