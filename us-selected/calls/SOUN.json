@@ -1,0 +1,30 @@
+{
+ "ticker": "SOUN",
+ "slug": "SOUN",
+ "calls": [
+  {
+   "video_id": "NPbz95mgKBk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is SoundhoundAI Stock Crashing, and is it a Buying Opportunity? | SOUN Stock Analysis",
+   "published_at": "2026-11-16T13:55:42.651358+00:00",
+   "analyzed_at": "2026-11-16T14:57:54Z",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "SOUN",
+   "direction": "AVOID",
+   "price_at_call": "$3.50",
+   "thesis": "First tracked call: reiterates his long-standing avoid — down ~65% YTD and near 52-week lows, but his DCF fair value is only $2.02 vs $3.50, so still overvalued; not a buying opportunity yet.",
+   "base_case": "Revenue growth is mostly acquisition-led, not organic; 2026 outlook revised lower as management shifts to profitable recurring revenue.",
+   "bull_case": "Balance sheet is strong ($207m cash, almost no debt) and valuation is far cheaper than the peak (forward P/S 4.5 vs peak P/E 55); adjusted EBITDA positive guided for H2 2027.",
+   "bear_case": "Operating margin still -98% and cash flow from operations to sales -53%; profitability remains a long way off."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
