@@ -3,6 +3,24 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "EK-WNXzFwfo",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "AI Stocks Are CRASHING — Don't Miss This Opportunity",
+   "published_at": "2026-11-17T16:00:01.309952+00:00",
+   "analyzed_at": "2026-11-17T19:03:33Z",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$504 (Mon close, ~25% off 52-week high over $650); analyst avg PT ~$660 (~31% upside)",
+   "thesis": "BUY reiterated (was BUY 15 Nov): highest-conviction growth stock, 'pound the table' — Anthropic ported Claude to AMD MI355 GPUs in 3 days vs 6–12 months normally; EPS expected to double next year, forward P/E ~30x, PEG below 1.",
+   "base_case": "AMD captures a larger share of an expanding AI compute market without needing to replace Nvidia.",
+   "bull_case": "MI400/Helios ramp and Anthropic validation accelerate share gains; analysts rate it a strong buy.",
+   "bear_case": "Growth expectations disappoint or Nvidia competition caps share gains; pullback alone does not make it cheap.",
+   "collab": false
+  },
+  {
    "video_id": "_10-UkM-akU",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -382,19 +400,19 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
-  },
-  {
-   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 3
+  },
+  {
    "channel": "MarketBeat",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "Couch Investor",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
