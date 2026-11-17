@@ -3,6 +3,24 @@
  "slug": "VRT",
  "calls": [
   {
+   "video_id": "EK-WNXzFwfo",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "AI Stocks Are CRASHING — Don't Miss This Opportunity",
+   "published_at": "2026-11-17T16:00:01.309952+00:00",
+   "analyzed_at": "2026-11-17T19:03:33Z",
+   "ticker": "VRT",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$189 (Mon close, ~50% off 52-week high near $380); analyst avg PT ~$335 (~78% upside)",
+   "thesis": "BUY reiterated (was BUY 5 Nov): revenue +61% YoY to ~$4.3bn, adjusted operating profit +83%, EPS +78%, organic orders +100% YoY, guidance raised; forward P/E ~20x, PEG below 1, analysts rate it a strong buy.",
+   "base_case": "Power and cooling demand persists even if data-center construction slows — existing facilities still need upgrades.",
+   "bull_case": "Order growth converts to revenue and margins keep expanding; the disconnect between price and fundamentals closes.",
+   "bear_case": "A capex slowdown or project delays hit revenue growth; Vertiv is not immune to customers delaying major projects.",
+   "collab": false
+  },
+  {
    "video_id": "wyGECTepDR0",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -87,16 +105,16 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
