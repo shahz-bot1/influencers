@@ -3,6 +3,24 @@
  "slug": "BE",
  "calls": [
   {
+   "video_id": "Cns_lx_FV9Q",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Interesting Update for Bloom Energy Stock Investors | BE Stock Analysis",
+   "published_at": "2026-11-17T13:55:43.792949+00:00",
+   "analyzed_at": "2026-11-17T14:59:12Z",
+   "ticker": "BE",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "DCF fair value $156 (stated); forward P/E 38 (stated)",
+   "thesis": "HOLD reiterated (was HOLD 15 Nov, FV ~$155): fairly valued overall — forward P/E 38 looks relatively undervalued for triple-digit growth, but DCF says ~20% overvalued; not buying now, watching closely for a better entry price or strong results at the same price.",
+   "base_case": "Revenue guide $4.5bn for 2026 (+~122% vs 2025), operating margin guide raised to 22% (from 14%), $2.5bn cash and positive full-year free cash flow.",
+   "bull_case": "Electricity demand to skyrocket for decades on AI, EVs and driverless tech; data-centre power buildout keeps backlog and margins rising.",
+   "bear_case": "Q3 free cash flow was -$181m on working-capital timing; paying above his $156 DCF value leaves no margin of safety.",
+   "collab": false
+  },
+  {
    "video_id": "zSLixL-Yydw",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -105,11 +123,11 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "MarketBeat",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
