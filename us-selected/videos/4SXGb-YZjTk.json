@@ -1,0 +1,46 @@
+{
+ "video_id": "4SXGb-YZjTk",
+ "title": "Rigetti Stock: Buy the Dip? | RGTI Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-17T12:55:43.792949+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate asks whether Rigetti Computing is a buying opportunity after a 57% fall in 2026 and roughly 80% off its ~$50 all-time high, and answers no. The positives are real: a 95.5% median two-qubit fidelity milestone and a $100m US government funding agreement, plus a strong balance sheet — over $383m of cash against about $4m of debt, raised by selling stock at euphoric 2025 valuations, so no near-term need to raise. But revenue is lumpy and inconsistent, the quantum industry is still very early with few enterprise use cases (most revenue comes from research institutions experimenting), and losses are massive at negative 500% operating cash flow to sales and negative 800% operating margin. At a forward P/E of 76 it still looks expensive, especially against rival IonQ at 13.5, which he calls the only quantum stock he currently ranks as a buying opportunity — still high risk, high reward. He would wait for more progress or a lower price before upgrading Rigetti. Calls: RGTI AVOID (first tracked call), IONQ BUY reiterated (was BUY 11 Nov, FV ~$54).",
+ "calls": [
+  {
+   "video_id": "4SXGb-YZjTk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Rigetti Stock: Buy the Dip? | RGTI Stock Analysis",
+   "published_at": "2026-11-17T12:55:43.792949+00:00",
+   "analyzed_at": "2026-11-17T14:59:12Z",
+   "ticker": "RGTI",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Forward P/E 76 (stated); down 57% YTD 2026, ~80% off ~$50 all-time high",
+   "thesis": "First tracked call on RGTI: NOT a buying opportunity on this dip — would wait for more progress or a lower price before upgrading to a buy; valuation still expensive after the crash.",
+   "base_case": "Wait for milestones or a lower price; balance sheet is strong ($383m+ cash vs ~$4m debt) so no near-term need to raise.",
+   "bull_case": "95.5% median two-qubit fidelity milestone plus a $100m US government funding agreement; hitting milestones could unlock enterprise use cases and huge revenue growth.",
+   "bear_case": "Forward P/E 76 vs IonQ at 13.5; revenue lumpy and inconsistent, massive losses (operating cash flow/sales -500%, operating margin -800%); quantum still very early with few enterprise use cases.",
+   "collab": false
+  },
+  {
+   "video_id": "4SXGb-YZjTk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Rigetti Stock: Buy the Dip? | RGTI Stock Analysis",
+   "published_at": "2026-11-17T12:55:43.792949+00:00",
+   "analyzed_at": "2026-11-17T14:59:12Z",
+   "ticker": "IONQ",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Forward P/E 13.5 (stated, vs RGTI 76); DCF fair value ~$54 per 11 Nov call",
+   "thesis": "BUY reiterated (was BUY 11 Nov, FV ~$54): the only quantum computing stock he currently ranks as a buying opportunity — much cheaper than Rigetti, but still very high risk / high reward.",
+   "base_case": "Milestones keep landing and cash burn keeps improving; quantum use cases emerge over time.",
+   "bull_case": "Quantum scales and the stock multiplies if management's ambitions land.",
+   "bear_case": "Continued losses and dilution; company may never reach self-sustaining revenue.",
+   "collab": false
+  }
+ ]
+}
