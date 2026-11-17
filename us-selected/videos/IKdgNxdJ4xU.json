@@ -1,0 +1,28 @@
+{
+ "video_id": "IKdgNxdJ4xU",
+ "title": "Massive News for Nvidia Stock Investors as BoD Suggests Jensen Huang Will Not Be Back as CEO",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-17T17:00:01.309952+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate reacts to a CNBC report that Nvidia's board is not considering reinstating Jensen Huang as CEO and is focused on the national security investigation — the question being how much Nvidia sales skirted export restrictions on advanced chips to China, possibly via third parties in Singapore, after Huang's reported affairs with employees and alleged Chinese spy Alice Wang. He argues growth can hold without China: Huang had forecast 70% revenue growth while supply-constrained, demand exceeds supply, and domestic customers plus AMD would absorb redirected allocation. The door on a return is not fully closed — if the CEO search drags on for 6–9 months, or if TSMC or hyperscalers like Amazon, Alphabet, Microsoft and Meta press the board over preferential allocation, pressure to bring Huang back could grow — but a legal outcome could close it for good. With the stock down more than 27% in a month, he says the distraction will hurt competitiveness for a while. He calls Tuesday's earnings the most anticipated report he can remember in nine years, will go live for channel members, and says he is not buying into the release but is interested in buying more after it, once uncertainty reduces. At ~$155 against his $256 DCF fair value he sees about 60% upside, and a forward P/E of 9.8 — the valuation of a zero-growth company — against ~70% forecast revenue growth. Call: NVDA CONDITIONAL_BUY (flip from BUY 15 Nov @ ~$165, FV $257). Note: captions garble Huang's name repeatedly (Hang/Wong/Hong) and interim CEO Colette Kress's name.",
+ "calls": [
+  {
+   "video_id": "IKdgNxdJ4xU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive News for Nvidia Stock Investors as BoD Suggests Jensen Huang Will Not Be Back as CEO",
+   "published_at": "2026-11-17T17:00:01.309952+00:00",
+   "analyzed_at": "2026-11-17T19:03:33Z",
+   "ticker": "NVDA",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "stance_flip": "BUY -> CONDITIONAL_BUY",
+   "price_at_call": "~$155 (stated); DCF fair value $256 (~60% upside)",
+   "thesis": "FLIP from BUY (15 Nov @ ~$165, FV $257): not buying into Tuesday's earnings, but interested in buying more after the release once uncertainty reduces — still sees ~60% upside to his $256 fair value at ~$155, forward P/E 9.8 vs ~70% revenue growth forecast.",
+   "base_case": "Demand exceeds supply — Nvidia is sold out, so growth holds even without China sales; domestic customers and AMD absorb any redirected allocation.",
+   "bull_case": "The door on a Huang return stays open if the CEO search drags on or TSMC/hyperscalers press the board; demand reallocation keeps sales growth intact.",
+   "bear_case": "The export-control investigation and any legal ramifications could close the door on Huang for good; the board is not considering a return and near-term distraction hurts competitiveness.",
+   "collab": false
+  }
+ ]
+}
