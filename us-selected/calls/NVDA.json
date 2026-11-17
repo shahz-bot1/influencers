@@ -3,6 +3,60 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "IKdgNxdJ4xU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive News for Nvidia Stock Investors as BoD Suggests Jensen Huang Will Not Be Back as CEO",
+   "published_at": "2026-11-17T17:00:01.309952+00:00",
+   "analyzed_at": "2026-11-17T19:03:33Z",
+   "ticker": "NVDA",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "stance_flip": "BUY -> CONDITIONAL_BUY",
+   "price_at_call": "~$155 (stated); DCF fair value $256 (~60% upside)",
+   "thesis": "FLIP from BUY (15 Nov @ ~$165, FV $257): not buying into Tuesday's earnings, but interested in buying more after the release once uncertainty reduces — still sees ~60% upside to his $256 fair value at ~$155, forward P/E 9.8 vs ~70% revenue growth forecast.",
+   "base_case": "Demand exceeds supply — Nvidia is sold out, so growth holds even without China sales; domestic customers and AMD absorb any redirected allocation.",
+   "bull_case": "The door on a Huang return stays open if the CEO search drags on or TSMC/hyperscalers press the board; demand reallocation keeps sales growth intact.",
+   "bear_case": "The export-control investigation and any legal ramifications could close the door on Huang for good; the board is not considering a return and near-term distraction hurts competitiveness.",
+   "collab": false
+  },
+  {
+   "video_id": "EK-WNXzFwfo",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "AI Stocks Are CRASHING — Don't Miss This Opportunity",
+   "published_at": "2026-11-17T16:00:01.309952+00:00",
+   "analyzed_at": "2026-11-17T19:03:33Z",
+   "ticker": "NVDA",
+   "direction": "SELL",
+   "flip": true,
+   "stance_flip": "BUY -> SELL",
+   "price_at_call": "Trim — sold some of his position last week (size not stated)",
+   "thesis": "FLIP from BUY (12 Nov): sold some of his Nvidia last week — not because it is expensive (valuation 'extremely interesting' on expected earnings growth) but because of the major cloud of uncertainty around the business; he does not like capital tied up in companies facing significant distractions.",
+   "base_case": "Uncertainty persists into Tuesday's earnings; shares will not trade on results, and management may skip guidance or Q&A.",
+   "bull_case": "Earnings are 'fantastic' and the valuation is compelling once leadership clarity returns.",
+   "bear_case": "Leadership vacuum and possible no-guidance earnings deepen the overhang; capital stays stuck in a distracted name.",
+   "collab": false
+  },
+  {
+   "video_id": "7iaF5Nox1ig",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "Super Investors Are Changing Strategies",
+   "published_at": "2026-11-16T23:55:16.580684+00:00",
+   "analyzed_at": "2026-11-17T06:57:00Z",
+   "collab": false,
+   "flip": false,
+   "stance_flip": null,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Reiterates NVDA as a buy after a ~30% drop, calling it one of the top buys of the past week, while stressing Jensen Huang's resignation is serious and material and a return is very unlikely.",
+   "base_case": "Stock keeps falling post-resignation; the China chip-sales lobbying and congressional scrutiny are material, not noise.",
+   "bull_case": "After a ~30% correction it is one of the top buys of the past week.",
+   "bear_case": "Leadership uncertainty with Huang gone and Congress moving to halt China workarounds; a Huang return is very unlikely."
+  },
+  {
    "video_id": "F7tWKK4CqlY",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -700,28 +754,28 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 2
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 3
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 6
+   "channel": "Couch Investor",
+   "idx": 4
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 9
+   "channel": "BWB - Business With Brian",
+   "idx": 5
   }
  ]
 }
