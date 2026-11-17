@@ -4,6 +4,38 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-17T17:00:01.309952+00:00",
+   "price": "~$155 (stated); DCF fair value $256 (~60% upside)",
+   "video_id": "IKdgNxdJ4xU"
+  },
+  {
+   "ticker": "BE",
+   "tickerSlug": "BE",
+   "direction": "HOLD",
+   "date": "2026-11-17T13:55:43.792949+00:00",
+   "price": "DCF fair value $156 (stated); forward P/E 38 (stated)",
+   "video_id": "Cns_lx_FV9Q"
+  },
+  {
+   "ticker": "RGTI",
+   "tickerSlug": "RGTI",
+   "direction": "AVOID",
+   "date": "2026-11-17T12:55:43.792949+00:00",
+   "price": "Forward P/E 76 (stated); down 57% YTD 2026, ~80% off ~$50 all-time high",
+   "video_id": "4SXGb-YZjTk"
+  },
+  {
+   "ticker": "IONQ",
+   "tickerSlug": "IONQ",
+   "direction": "BUY",
+   "date": "2026-11-17T12:55:43.792949+00:00",
+   "price": "Forward P/E 13.5 (stated, vs RGTI 76); DCF fair value ~$54 per 11 Nov call",
+   "video_id": "4SXGb-YZjTk"
+  },
+  {
    "ticker": "INTC",
    "tickerSlug": "INTC",
    "direction": "HOLD",
