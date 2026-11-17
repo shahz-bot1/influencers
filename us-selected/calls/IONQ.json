@@ -3,6 +3,24 @@
  "slug": "IONQ",
  "calls": [
   {
+   "video_id": "4SXGb-YZjTk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Rigetti Stock: Buy the Dip? | RGTI Stock Analysis",
+   "published_at": "2026-11-17T12:55:43.792949+00:00",
+   "analyzed_at": "2026-11-17T14:59:12Z",
+   "ticker": "IONQ",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Forward P/E 13.5 (stated, vs RGTI 76); DCF fair value ~$54 per 11 Nov call",
+   "thesis": "BUY reiterated (was BUY 11 Nov, FV ~$54): the only quantum computing stock he currently ranks as a buying opportunity — much cheaper than Rigetti, but still very high risk / high reward.",
+   "base_case": "Milestones keep landing and cash burn keeps improving; quantum use cases emerge over time.",
+   "bull_case": "Quantum scales and the stock multiplies if management's ambitions land.",
+   "bear_case": "Continued losses and dilution; company may never reach self-sustaining revenue.",
+   "collab": false
+  },
+  {
    "video_id": "q2JqEVpXc_A",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -86,7 +104,7 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
