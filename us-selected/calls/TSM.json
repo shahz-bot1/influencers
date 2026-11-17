@@ -3,6 +3,24 @@
  "slug": "TSM",
  "calls": [
   {
+   "video_id": "7iaF5Nox1ig",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "Super Investors Are Changing Strategies",
+   "published_at": "2026-11-16T23:55:16.580684+00:00",
+   "analyzed_at": "2026-11-17T06:57:00Z",
+   "collab": false,
+   "flip": true,
+   "stance_flip": "HOLD -> BUY",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Likes Dev Kantesaria's TSM buy and is looking at adding it himself: incredibly strong, super wide moat, low valuation, and a more durable model than Nvidia or AMD.",
+   "base_case": "Wide, nearly impenetrable moat at a low valuation, unlike ASML.",
+   "bull_case": "More durable business model than Nvidia or AMD; a foundry moat that compounds.",
+   "bear_case": "China/Taiwan invasion risk, which he dismisses as unlikely."
+  },
+  {
    "video_id": "v2oNlrJDE6k",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -136,16 +154,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 5
+   "channel": "BWB - Business With Brian",
+   "idx": 2
   }
  ]
 }
