@@ -4,6 +4,30 @@
  "slug": "Joseph_Carlson_After_Hours",
  "calls": [
   {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-16T23:55:16.580684+00:00",
+   "price": "$257",
+   "video_id": "7iaF5Nox1ig"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-16T23:55:16.580684+00:00",
+   "price": null,
+   "video_id": "7iaF5Nox1ig"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-11-16T23:55:16.580684+00:00",
+   "price": null,
+   "video_id": "7iaF5Nox1ig"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
