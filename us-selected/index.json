@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T23:07:15.174980+00:00",
+ "updated": "2026-11-17T23:10:56.516168+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -234,12 +234,12 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-11-15T15:00:01.139404+00:00",
+   "lastDate": "2026-11-17T16:00:01.309952+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$1,000"
+     "avg": "$504"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -259,8 +259,8 @@
     "MarketBeat",
     "Couch Investor"
    ],
-   "lastStated": "No stated price; '$1,000 stock in my opinion' (stated)",
-   "nCalls": 23
+   "lastStated": "~$504 (Mon close, ~25% off 52-week high over $650); analyst avg PT ~$660 (~31% u",
+   "nCalls": 24
   },
   {
    "ticker": "AMPX",
@@ -282,28 +282,23 @@
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-11-15T13:59:40.546128+00:00",
+   "lastDate": "2026-11-16T23:55:16.580684+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 4,
-     "avg": "$184"
-    },
-    {
-     "dir": "HOLD",
-     "n": 1,
-     "avg": "$12"
+     "n": 5,
+     "avg": "$208.33"
     }
    ],
    "influencers": [
+    "Joseph Carlson After Hours",
     "BWB - Business With Brian",
     "Parkevtate Vosianc CFA",
     "Couch Investor",
-    "Mark Roussin CPA",
-    "Joseph Carlson After Hours"
+    "Mark Roussin CPA"
    ],
-   "lastStated": "No stated price; his system says fairly valued - buy is his call over his system",
-   "nCalls": 22
+   "lastStated": "$257",
+   "nCalls": 23
   },
   {
    "ticker": "APLD",
@@ -556,7 +551,7 @@
   {
    "ticker": "BE",
    "slug": "BE",
-   "lastDate": "2026-11-15T16:00:01.139404+00:00",
+   "lastDate": "2026-11-17T13:55:43.792949+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -566,7 +561,7 @@
     {
      "dir": "HOLD",
      "n": 2,
-     "avg": "$155"
+     "avg": "$156"
     }
    ],
    "influencers": [
@@ -574,8 +569,8 @@
     "BWB - Business With Brian",
     "MarketBeat"
    ],
-   "lastStated": "DCF ~$155 (stated); current price not reliably captured in captions",
-   "nCalls": 6
+   "lastStated": "DCF fair value $156 (stated); forward P/E 38 (stated)",
+   "nCalls": 7
   },
   {
    "ticker": "BEP",
@@ -1961,20 +1956,20 @@
   {
    "ticker": "IONQ",
    "slug": "IONQ",
-   "lastDate": "2026-11-11T13:55:28.679505+00:00",
+   "lastDate": "2026-11-17T12:55:43.792949+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$32.5"
+     "avg": "$12.25"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "DCF fair value ~$54 (current price garbled in captions); forward P/S 16.7",
-   "nCalls": 5
+   "lastStated": "Forward P/E 13.5 (stated, vs RGTI 76); DCF fair value ~$54 per 11 Nov call",
+   "nCalls": 6
   },
   {
    "ticker": "IREN",
@@ -2886,29 +2881,34 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-15T23:55:20.097935+00:00",
+   "lastDate": "2026-11-17T17:00:01.309952+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 5,
-     "avg": "$171.67"
+     "n": 3,
+     "avg": "$178"
     },
     {
      "dir": "CONDITIONAL_BUY",
+     "n": 2,
+     "avg": "$155"
+    },
+    {
+     "dir": "SELL",
      "n": 1,
      "avg": null
     }
    ],
    "influencers": [
-    "MarketBeat",
-    "Couch Investor",
-    "BWB - Business With Brian",
     "Parkevtate Vosianc CFA",
     "Mark Roussin CPA",
-    "Joseph Carlson After Hours"
+    "Joseph Carlson After Hours",
+    "MarketBeat",
+    "Couch Investor",
+    "BWB - Business With Brian"
    ],
-   "lastStated": "$178 (stated; added shares 2-3 days before Jensen resigned)",
-   "nCalls": 43
+   "lastStated": "~$155 (stated); DCF fair value $256 (~60% upside)",
+   "nCalls": 46
   },
   {
    "ticker": "NVO",
@@ -3474,6 +3474,23 @@
    ],
    "lastStated": "No stated price; wants a push well above $100",
    "nCalls": 4
+  },
+  {
+   "ticker": "RGTI",
+   "slug": "RGTI",
+   "lastDate": "2026-11-17T12:55:43.792949+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$76"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "Forward P/E 76 (stated); down 57% YTD 2026, ~80% off ~$50 all-time high",
+   "nCalls": 1
   },
   {
    "ticker": "RIO",
@@ -4091,26 +4108,21 @@
   {
    "ticker": "TSM",
    "slug": "TSM",
-   "lastDate": "2026-11-11T12:55:28.679505+00:00",
+   "lastDate": "2026-11-16T23:55:16.580684+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 2,
+     "n": 3,
      "avg": "$196.5"
-    },
-    {
-     "dir": "HOLD",
-     "n": 1,
-     "avg": "$21"
     }
    ],
    "influencers": [
+    "Joseph Carlson After Hours",
     "Parkevtate Vosianc CFA",
-    "BWB - Business With Brian",
-    "Joseph Carlson After Hours"
+    "BWB - Business With Brian"
    ],
    "lastStated": "Market $390 (stated); DCF fair value $567; forward P/E 16.7",
-   "nCalls": 9
+   "nCalls": 10
   },
   {
    "ticker": "TTD",
@@ -4427,12 +4439,12 @@
   {
    "ticker": "VRT",
    "slug": "VRT",
-   "lastDate": "2026-11-13T23:55:16.918288+00:00",
+   "lastDate": "2026-11-17T16:00:01.309952+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$10"
+     "avg": "$189"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -4441,12 +4453,12 @@
     }
    ],
    "influencers": [
-    "MarketBeat",
     "Mark Roussin CPA",
+    "MarketBeat",
     "BWB - Business With Brian"
    ],
-   "lastStated": "",
-   "nCalls": 5
+   "lastStated": "~$189 (Mon close, ~50% off 52-week high near $380); analyst avg PT ~$335 (~78% u",
+   "nCalls": 6
   },
   {
    "ticker": "VST",
@@ -4691,15 +4703,15 @@
    "name": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
    "slug": "Joseph_Carlson_After_Hours",
-   "nCalls": 47,
-   "nVideos": 13
+   "nCalls": 50,
+   "nVideos": 14
   },
   {
    "name": "Mark Roussin CPA",
    "handle": "@markroussincpa",
    "slug": "Mark_Roussin_CPA",
-   "nCalls": 70,
-   "nVideos": 26
+   "nCalls": 73,
+   "nVideos": 27
   },
   {
    "name": "MarketBeat",
@@ -4712,8 +4724,8 @@
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 287,
-   "nVideos": 260
+   "nCalls": 291,
+   "nVideos": 264
   },
   {
    "name": "The German Value Investor",
@@ -4724,6 +4736,66 @@
   }
  ],
  "videos": [
+  {
+   "id": "IKdgNxdJ4xU",
+   "title": "Massive News for Nvidia Stock Investors as BoD Suggests Jensen Huang Will Not Be Back as CEO",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-17T17:00:01.309952+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "FbAblfd75iE",
+   "title": "CoreWeave Says They Have 10X Demand Compared to Available Supply | CRWV Stock Deep Dive Part 4",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-17T16:00:01.309952+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "EK-WNXzFwfo",
+   "title": "AI Stocks Are CRASHING — Don't Miss This Opportunity",
+   "creator": "Mark Roussin CPA",
+   "channels": [
+    "Mark Roussin CPA"
+   ],
+   "published_at": "2026-11-17T16:00:01.309952+00:00",
+   "nCalls": 3
+  },
+  {
+   "id": "Cns_lx_FV9Q",
+   "title": "Interesting Update for Bloom Energy Stock Investors | BE Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-17T13:55:43.792949+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "4SXGb-YZjTk",
+   "title": "Rigetti Stock: Buy the Dip? | RGTI Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-17T12:55:43.792949+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "7iaF5Nox1ig",
+   "title": "Super Investors Are Changing Strategies",
+   "creator": "Joseph Carlson After Hours",
+   "channels": [
+    "Joseph Carlson After Hours"
+   ],
+   "published_at": "2026-11-16T23:55:16.580684+00:00",
+   "nCalls": 3
+  },
   {
    "id": "9oY2_5rATIs",
    "title": "If You're a CoreWeave Stock Investor, You Need to Know This | CRWV Stock",
