@@ -7,6 +7,14 @@
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "HOLD",
+   "date": "2026-11-17T04:57:53.270594+00:00",
+   "price": "~$156 now; ~$239 close on 6 Oct, down ~35% from October high",
+   "video_id": "ro12y589YEA"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "HOLD",
    "date": "2026-11-15T04:57:06.105520+00:00",
    "price": "Down ~26% in the past month, below $4T market cap; down ~6% in 5 days",
    "video_id": "UphQ4_qKucM"
