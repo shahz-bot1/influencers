@@ -3,6 +3,24 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "7iaF5Nox1ig",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "Super Investors Are Changing Strategies",
+   "published_at": "2026-11-16T23:55:16.580684+00:00",
+   "analyzed_at": "2026-11-17T06:57:00Z",
+   "collab": false,
+   "flip": true,
+   "stance_flip": "HOLD -> BUY",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "price_at_call": "$257",
+   "thesis": "Calls Amazon an excellent buy at $257 and his top pick going into 2026; mid-20s PE and under $2T market cap for a structurally strong company with huge operating leverage.",
+   "base_case": "Trades at a mid-20s PE ratio and under $2T market cap; retail, AWS, advertising and Prime Video all in one.",
+   "bull_case": "Robots and drones automating retail delivery over the next 10 years raise retail margins; AWS, ads and Prime Video add durable growth.",
+   "bear_case": null
+  },
+  {
    "video_id": "uc81ZM85WMc",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -361,24 +379,24 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 3
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 15
+   "channel": "Mark Roussin CPA",
+   "idx": 4
   }
  ]
 }
