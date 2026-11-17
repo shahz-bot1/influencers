@@ -3,6 +3,19 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "ro12y589YEA",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "HOLD",
+   "thesis": "Holding, not selling, ahead of Tuesday 17 Nov earnings: Nvidia is down ~35% from its October high (~$239 on 6 Oct, now ~$156) after Jensen Huang's resignation, and he is doing nothing until the call gives more information. Key watch: whether management holds the ~70% FY2028 revenue-growth guide, Q4 revenue guide (~$123B expected) and low-70s gross margins, plus any impact from new export licensing rules. He still calls the wider AI industry bullish (hyperscalers keep spending) but says Nvidia itself is the question mark.",
+   "price_at_call": "~$156 now; ~$239 close on 6 Oct, down ~35% from October high",
+   "base_case": "Watch and wait: hold the existing position, no buying or selling before earnings; reassess on the 17 Nov call, the 70% FY2028 guide, Q4 guide and margins.",
+   "bull_case": "Management holds or raises the 70% FY2028 guide (even to 75-80%), Q4 guide and margins intact; SemiAnalysis cut is still growth (2027 AI chip spend $627B, +60% YoY) and hyperscaler capex keeps rising, so the fear is overdone.",
+   "bear_case": "Guidance trimmed, margins slip further, or new export rules (licenses for advanced AI chips to Singapore, Malaysia, Thailand, Indonesia, Brazil) hit guidance; leadership uncertainty and any slip-up on the call feed the 'Nvidia was just Jensen' thesis.",
+   "analyzed_at": "2026-11-17T04:57:53.270594+00:00"
+  },
+  {
    "video_id": "UphQ4_qKucM",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -204,19 +217,19 @@
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Daniel Pronk",
-   "idx": 3
-  },
-  {
-   "channel": "Joseph Hogue, CFA",
    "idx": 4
   },
   {
-   "channel": "Tom Nash",
+   "channel": "Joseph Hogue, CFA",
    "idx": 5
+  },
+  {
+   "channel": "Tom Nash",
+   "idx": 6
   }
  ]
 }
