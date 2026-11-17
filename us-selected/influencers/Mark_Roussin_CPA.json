@@ -4,6 +4,30 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "BUY",
+   "date": "2026-11-17T16:00:01.309952+00:00",
+   "price": "~$504 (Mon close, ~25% off 52-week high over $650); analyst avg PT ~$660 (~31% upside)",
+   "video_id": "EK-WNXzFwfo"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "SELL",
+   "date": "2026-11-17T16:00:01.309952+00:00",
+   "price": "Trim — sold some of his position last week (size not stated)",
+   "video_id": "EK-WNXzFwfo"
+  },
+  {
+   "ticker": "VRT",
+   "tickerSlug": "VRT",
+   "direction": "BUY",
+   "date": "2026-11-17T16:00:01.309952+00:00",
+   "price": "~$189 (Mon close, ~50% off 52-week high near $380); analyst avg PT ~$335 (~78% upside)",
+   "video_id": "EK-WNXzFwfo"
+  },
+  {
    "ticker": "CAT",
    "tickerSlug": "CAT",
    "direction": "BUY",
