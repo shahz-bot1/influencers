@@ -1,0 +1,30 @@
+{
+ "ticker": "RGTI",
+ "slug": "RGTI",
+ "calls": [
+  {
+   "video_id": "4SXGb-YZjTk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Rigetti Stock: Buy the Dip? | RGTI Stock Analysis",
+   "published_at": "2026-11-17T12:55:43.792949+00:00",
+   "analyzed_at": "2026-11-17T14:59:12Z",
+   "ticker": "RGTI",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Forward P/E 76 (stated); down 57% YTD 2026, ~80% off ~$50 all-time high",
+   "thesis": "First tracked call on RGTI: NOT a buying opportunity on this dip — would wait for more progress or a lower price before upgrading to a buy; valuation still expensive after the crash.",
+   "base_case": "Wait for milestones or a lower price; balance sheet is strong ($383m+ cash vs ~$4m debt) so no near-term need to raise.",
+   "bull_case": "95.5% median two-qubit fidelity milestone plus a $100m US government funding agreement; hitting milestones could unlock enterprise use cases and huge revenue growth.",
+   "bear_case": "Forward P/E 76 vs IonQ at 13.5; revenue lumpy and inconsistent, massive losses (operating cash flow/sales -500%, operating margin -800%); quantum still very early with few enterprise use cases.",
+   "collab": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
