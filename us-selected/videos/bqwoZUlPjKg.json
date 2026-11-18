@@ -1,0 +1,28 @@
+{
+ "video_id": "bqwoZUlPjKg",
+ "title": "Sales are Booming for Applied Materials | AMAT Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-18T18:16:00.723025+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc asks whether Applied Materials is a buying opportunity after AI-driven demand surged. Management forecasts 2027 as another year of 30% demand growth, plans to double system output from Q4 2026 levels by 2028, and more than double manufacturing capacity by 2030. Wall Street expects 31% EPS growth per year, the most optimistic outlook since the early 2020s. Operating margin has risen to over 31% (from ~23% a decade ago) alongside the revenue growth, which he reads as evidence of genuine organic demand - unlike Mercado Libre or Palo Alto Networks, where growth comes with margin pressure. The balance sheet can fund the expansion: over $9.2bn in cash and short-term investments against under $6bn in long-term debt. Valuation is mixed: the forward P/E has fallen back to ~15 (where it started 2026) despite a much stronger business, roughly half the expected EPS growth rate, which looks attractive - but his DCF fair value is $357, barely below the ~$370 current price. Verdict: BUY, but low conviction, because the two valuation methods disagree.",
+ "calls": [
+  {
+   "video_id": "bqwoZUlPjKg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Sales are Booming for Applied Materials | AMAT Stock Analysis",
+   "published_at": "2026-11-18T18:16:00.723025+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "AMAT",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$370 (stated); DCF fair value $357",
+   "thesis": "BUY (first tracked) - a buying opportunity, but low conviction: the forward P/E has fallen back to ~15 (where 2026 started) against ~31% expected EPS growth and a >31% operating margin, yet his DCF fair value of $357 is barely below the ~$370 price, so the two methods disagree.",
+   "base_case": "Management forecasts 30% demand growth in 2027 and doubling system output by 2028; $9.2bn cash vs under $6bn long-term debt funds the expansion.",
+   "bull_case": "AI-driven demand keeps compounding and the multiple re-rates toward the growth rate.",
+   "bear_case": "DCF says roughly fairly valued; the P/E case may already be priced in."
+  }
+ ]
+}
