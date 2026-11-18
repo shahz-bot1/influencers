@@ -3,6 +3,24 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "79nNZtk2cPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I Just Bought $10,000 Of This Stock",
+   "published_at": "2026-11-18T21:58:14.600589+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Not stated; ~$70,000 in gains",
+   "thesis": "BUY reiterated - a more attractive buy today than Mastercard; he expects it to surpass Mastercard and become his largest holding within a year. He bought the dips through 2022-2023 as AWS kept growing.",
+   "base_case": "Fundamentals stayed solid through the drawdowns; dips are for accumulating.",
+   "bull_case": "AWS growth and margin recovery drive the stock higher.",
+   "bear_case": "Heavy capex drags free cash flow again."
+  },
+  {
    "video_id": "7iaF5Nox1ig",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -384,19 +402,19 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
-  },
-  {
-   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 3
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 4
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 5
   }
  ]
 }
