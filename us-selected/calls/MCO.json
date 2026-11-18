@@ -3,6 +3,24 @@
  "slug": "MCO",
  "calls": [
   {
+   "video_id": "79nNZtk2cPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I Just Bought $10,000 Of This Stock",
+   "published_at": "2026-11-18T21:58:14.600589+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "MCO",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Not stated; mostly flat for two years",
+   "thesis": "HOLD reiterated - he continues to hold, but puts the majority of new dollars into faster-growing positions.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null
+  },
+  {
    "video_id": "4BooxjnAfPY",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
