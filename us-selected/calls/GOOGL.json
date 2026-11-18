@@ -3,6 +3,24 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "79nNZtk2cPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I Just Bought $10,000 Of This Stock",
+   "published_at": "2026-11-18T21:58:14.600589+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "GOOGL",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "stance_flip": "HOLD -> CONDITIONAL_BUY",
+   "price_at_call": "Buy trigger $250 (stated); currently $277",
+   "thesis": "CONDITIONAL_BUY - buy-in trigger $250, currently $277 (11% above); the second-closest holding to its trigger in his portfolio. He would add $10,000 if it hits $250.",
+   "base_case": "19x forward P/E, Google Cloud growing fast, search risk being managed as growth shifts to cloud.",
+   "bull_case": "Cloud becomes the biggest part of the company and the stock re-rates.",
+   "bear_case": "AI search pressure on ad revenue persists for quarters."
+  },
+  {
    "video_id": "66RFXm4jz6U",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -522,28 +540,28 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 7
+   "channel": "MarketBeat",
+   "idx": 3
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 10
+   "channel": "Mark Roussin CPA",
+   "idx": 8
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 15
+   "idx": 16
   }
  ]
 }
