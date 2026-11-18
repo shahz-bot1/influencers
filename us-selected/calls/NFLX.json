@@ -3,6 +3,24 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "79nNZtk2cPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I Just Bought $10,000 Of This Stock",
+   "published_at": "2026-11-18T21:58:14.600589+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "CONDITIONAL_BUY (12 Nov, trigger below $60) -> BUY (trigger hit at $60)",
+   "price_at_call": "$60 (stated); added $10,000",
+   "thesis": "BUY - executed his pre-set $10,000 buy at $60 after a ~50% fall from all-time highs. Engagement fears are misread: YouTube watch time counts music and ambient listening, Netflix is event-driven TV, and churn fell year over year. At 16x next-12-months earnings the valuation is attractive if fundamentals hold.",
+   "base_case": "Valuation protects the downside and allows multiple expansion if growth continues.",
+   "bull_case": "Big hits return, subscribers are retained, and the stock re-rates on earnings growth plus multiple expansion.",
+   "bear_case": "Engagement really is deteriorating and short-form video / YouTube keeps eating share; then the valuation is meaningless."
+  },
+  {
    "video_id": "ZYeZiDarwGw",
    "channel": "The German Value Investor",
    "handle": "@TheGermanValueInvestor",
@@ -364,20 +382,20 @@
  ],
  "byInf": [
   {
-   "channel": "The German Value Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 1
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
    "channel": "Couch Investor",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
