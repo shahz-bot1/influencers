@@ -3,6 +3,24 @@
  "slug": "COST",
  "calls": [
   {
+   "video_id": "79nNZtk2cPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I Just Bought $10,000 Of This Stock",
+   "published_at": "2026-11-18T21:58:14.600589+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "COST",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Not stated; up 108% over 5 years, +29% year to date",
+   "thesis": "HOLD reiterated - not adding since ~2023 as the valuation expanded; just holding while it keeps growing. An all-weather subscription business with 60,000+ members per new location.",
+   "base_case": "Opens 30-40 locations a year, each flooded with new members; membership churn only ~6-7% a year.",
+   "bull_case": null,
+   "bear_case": "48x forward P/E keeps the valuation debate alive."
+  },
+  {
    "video_id": "ReKzkNcUhcU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -140,16 +158,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 2
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
