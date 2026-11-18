@@ -3,6 +3,42 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "Axu5bNbr2hs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Will CoreWeave Stock Investors Get Swallowed by its Debt? | CRWV Stock",
+   "published_at": "2026-11-18T16:00:00.723025+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$61 (stated); DCF fair value $93",
+   "thesis": "BUY reiterated - risk versus reward is attractive, but only for very high risk tolerance. He reiterated the buy he upgraded to on 14 Oct (and restated earlier today at ~$50): $6.5bn cash, ~$9bn of customer prepayments coming, secured debt trading near par, but capex of ~$38bn is roughly 300% of 2026 revenue.",
+   "base_case": "Largely sold out through 2027; pricing rising to $20-25m per megawatt on long contracts; adjusted net losses shrink in 2027, net income positive in 2028.",
+   "bull_case": "Demand keeps outrunning capacity and the backlog converts at higher prices.",
+   "bear_case": "Unsecured debt repricing, hyperscalers self-building, and prepayments making contracts less attractive."
+  },
+  {
+   "video_id": "gCNCotLkBYc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Better AI Stock to Buy: Coreweave vs. IREN vs. Nebius | CRWV Stock vs. IREN Stock vs. NBIS Stock",
+   "published_at": "2026-11-18T12:55:44.236607+00:00",
+   "analyzed_at": "2026-11-18T14:58:21Z",
+   "collab": false,
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "UNCERTAIN (17 Nov) -> BUY",
+   "price_at_call": "~$50; his DCF fair value $92",
+   "thesis": "BUY — his pick as best of the three: largest revenue ($9.9bn TTM, ~5x Nebius), building data centres faster than expected, though most indebted at $65.5bn debt.",
+   "base_case": "All three are undervalued per his DCF but extremely risky — only for investors with very high risk tolerance.",
+   "bull_case": "All three are sold out of data-centre capacity into next year and beyond, with billions in backlog from customers waiting to consume the computing they bring online.",
+   "bear_case": "Financing is getting harder for all three — they now ask customers for billions in prepayments, which makes them less attractive; hyperscalers may build data centres themselves, and Microsoft has said it will rely less on third-party providers."
+  },
+  {
    "video_id": "uc81ZM85WMc",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -214,20 +250,20 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "channel": "BWB - Business With Brian",
+   "idx": 2
   },
   {
    "channel": "Couch Investor",
-   "idx": 3
+   "idx": 5
   },
   {
    "channel": "MarketBeat",
-   "idx": 5
+   "idx": 7
   }
  ]
 }
