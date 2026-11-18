@@ -4,6 +4,54 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "AMAT",
+   "tickerSlug": "AMAT",
+   "direction": "BUY",
+   "date": "2026-11-18T18:16:00.723025+00:00",
+   "price": "~$370 (stated); DCF fair value $357",
+   "video_id": "bqwoZUlPjKg"
+  },
+  {
+   "ticker": "MA",
+   "tickerSlug": "MA",
+   "direction": "HOLD",
+   "date": "2026-11-18T18:00:00.723025+00:00",
+   "price": "~$661 (stated); DCF fair value $573",
+   "video_id": "28hqE3dkBQE"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-18T16:00:00.723025+00:00",
+   "price": "~$61 (stated); DCF fair value $93",
+   "video_id": "Axu5bNbr2hs"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-18T12:55:44.236607+00:00",
+   "price": "~$50; his DCF fair value $92",
+   "video_id": "gCNCotLkBYc"
+  },
+  {
+   "ticker": "IREN",
+   "tickerSlug": "IREN",
+   "direction": "BUY",
+   "date": "2026-11-18T12:55:44.236607+00:00",
+   "price": "~$16.40 (near 52-week low); his DCF fair value $32",
+   "video_id": "gCNCotLkBYc"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-18T12:55:44.236607+00:00",
+   "price": "~$107; his DCF fair value $226",
+   "video_id": "gCNCotLkBYc"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "CONDITIONAL_BUY",
@@ -34,6 +82,14 @@
    "date": "2026-11-17T12:55:43.792949+00:00",
    "price": "Forward P/E 13.5 (stated, vs RGTI 76); DCF fair value ~$54 per 11 Nov call",
    "video_id": "4SXGb-YZjTk"
+  },
+  {
+   "ticker": "PANW",
+   "tickerSlug": "PANW",
+   "direction": "HOLD",
+   "date": "2026-11-16T18:00:01.255786+00:00",
+   "price": "~$323 (stated)",
+   "video_id": "LVYP79tnpSU"
   },
   {
    "ticker": "INTC",
