@@ -3,6 +3,24 @@
  "slug": "UBER",
  "calls": [
   {
+   "video_id": "79nNZtk2cPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I Just Bought $10,000 Of This Stock",
+   "published_at": "2026-11-18T21:58:14.600589+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "UBER",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Buy trigger $60 (stated); currently ~13% above",
+   "thesis": "CONDITIONAL_BUY reiterated - buy-in trigger $60; a week ago it was only a couple of dollars above $60. He would add $10,000 if it hits $60.",
+   "base_case": "Huge ride-share market; robotaxis integrate into Uber's network rather than replacing it; delivery push plus the Amazon food-delivery deal.",
+   "bull_case": "Robotaxi integration and delivery growth re-rate the stock.",
+   "bear_case": "Robotaxis take all ride-share demand and Uber goes to zero."
+  },
+  {
    "video_id": "3DKnFZ4FTXc",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -228,24 +246,24 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "MarketBeat",
    "idx": 2
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 10
+   "idx": 11
   },
   {
    "channel": "Couch Investor",
-   "idx": 12
+   "idx": 13
   }
  ]
 }
