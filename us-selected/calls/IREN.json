@@ -3,6 +3,24 @@
  "slug": "IREN",
  "calls": [
   {
+   "video_id": "gCNCotLkBYc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Better AI Stock to Buy: Coreweave vs. IREN vs. Nebius | CRWV Stock vs. IREN Stock vs. NBIS Stock",
+   "published_at": "2026-11-18T12:55:44.236607+00:00",
+   "analyzed_at": "2026-11-18T14:58:21Z",
+   "collab": false,
+   "ticker": "IREN",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$16.40 (near 52-week low); his DCF fair value $32",
+   "thesis": "BUY reiterated (was BUY 12 Nov): cheapest of the three on forward price-to-sales; DCF fair value nearly double the current price.",
+   "base_case": "All three are undervalued per his DCF but extremely risky — only for investors with very high risk tolerance.",
+   "bull_case": "All three are sold out of data-centre capacity into next year and beyond, with billions in backlog from customers waiting to consume the computing they bring online.",
+   "bear_case": "Financing is getting harder for all three — they now ask customers for billions in prepayments, which makes them less attractive; hyperscalers may build data centres themselves, and Microsoft has said it will rely less on third-party providers. IREN also had delays building data centres in its latest quarter."
+  },
+  {
    "video_id": "jXVBPh_WvOY",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -130,7 +148,7 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
