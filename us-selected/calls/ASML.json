@@ -3,6 +3,24 @@
  "slug": "ASML",
  "calls": [
   {
+   "video_id": "79nNZtk2cPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I Just Bought $10,000 Of This Stock",
+   "published_at": "2026-11-18T21:58:14.600589+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "ASML",
+   "direction": "CONDITIONAL_BUY",
+   "flip": true,
+   "stance_flip": "HOLD -> CONDITIONAL_BUY",
+   "price_at_call": "Buy trigger not restated in this video",
+   "thesis": "CONDITIONAL_BUY - among the four holdings closest to their buy-in triggers. He holds a large position (bought ~$722, trimmed 20% near $1,900) and calls ASML a true monopoly: all roads to high-end chips pass through it, with no real alternative.",
+   "base_case": "Trades toward ~$1,800 fair value; impenetrable moat.",
+   "bull_case": "China cannot replicate the throughput at scale; the monopoly premium holds.",
+   "bear_case": "Has given back gains from the ~$2,000 peak; growth uncertainty returns."
+  },
+  {
    "video_id": "cbkQCsrubBM",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -59,11 +77,11 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   }
  ]
