@@ -3,6 +3,24 @@
  "slug": "TXRH",
  "calls": [
   {
+   "video_id": "79nNZtk2cPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I Just Bought $10,000 Of This Stock",
+   "published_at": "2026-11-18T21:58:14.600589+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "TXRH",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Cost basis $89; trades at $191",
+   "thesis": "HOLD reiterated - still likes it; his best-timed entry (bought soon after COVID as rivals failed and Texas Roadhouse grabbed market share). Valuation is not nearly as attractive as it once was.",
+   "base_case": "Cattle prices falling over the next couple of years would grow earnings substantially.",
+   "bull_case": null,
+   "bear_case": "Cattle prices stay high - by far its biggest input cost."
+  },
+  {
    "video_id": "ps7HQgBsw5I",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
