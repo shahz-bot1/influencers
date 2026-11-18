@@ -1,0 +1,30 @@
+{
+ "ticker": "AMAT",
+ "slug": "AMAT",
+ "calls": [
+  {
+   "video_id": "bqwoZUlPjKg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Sales are Booming for Applied Materials | AMAT Stock Analysis",
+   "published_at": "2026-11-18T18:16:00.723025+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "AMAT",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$370 (stated); DCF fair value $357",
+   "thesis": "BUY (first tracked) - a buying opportunity, but low conviction: the forward P/E has fallen back to ~15 (where 2026 started) against ~31% expected EPS growth and a >31% operating margin, yet his DCF fair value of $357 is barely below the ~$370 price, so the two methods disagree.",
+   "base_case": "Management forecasts 30% demand growth in 2027 and doubling system output by 2028; $9.2bn cash vs under $6bn long-term debt funds the expansion.",
+   "bull_case": "AI-driven demand keeps compounding and the multiple re-rates toward the growth rate.",
+   "bear_case": "DCF says roughly fairly valued; the P/E case may already be priced in."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
