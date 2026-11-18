@@ -3,6 +3,24 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "79nNZtk2cPY",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I Just Bought $10,000 Of This Stock",
+   "published_at": "2026-11-18T21:58:14.600589+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "META",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "BUY (12 Nov) -> HOLD",
+   "price_at_call": "Not stated; down ~$17,000 on the position",
+   "thesis": "HOLD - entered this year and now down ~$17,000, but holding through the volatility: low valuation, executing well, Muse doing great, and he believes it will look like a massive winner over time. He is not adding at this time.",
+   "base_case": "Advertising revenue growing fast at all-time-high daily active users; capex is a choice to invest, not forced.",
+   "bull_case": "Muse adoption and AI monetisation re-rate the stock as capex fears fade.",
+   "bear_case": "Capex/debt load keeps rising and the market keeps punishing the buildout."
+  },
+  {
    "video_id": "uc81ZM85WMc",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -436,19 +454,19 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 3
   }
  ]
