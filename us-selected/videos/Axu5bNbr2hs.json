@@ -1,0 +1,28 @@
+{
+ "video_id": "Axu5bNbr2hs",
+ "title": "Will CoreWeave Stock Investors Get Swallowed by its Debt? | CRWV Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-18T16:00:00.723025+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc examines whether CoreWeave's debt load will swallow investors, concluding the risk-reward is attractive - but only for very high risk tolerance. The company held $6.5bn in cash at 30 September and expects ~$9bn of customer prepayments and deposits in the next three months, a new funding source as debt costs rise; prepayments make contracts less attractive to hyperscalers, who may build data centres themselves. Debt splits into asset-level secured debt (backed by customer contracts and infrastructure, still trading near par) and riskier unsecured parent-level debt. 2026 revenue guidance was raised to ~$13.15bn with adjusted operating income of $1.325bn, but capex is planned at ~$38bn - roughly 300% of revenue. Management expects adjusted net losses to shrink meaningfully in 2027 and turn to adjusted net income in 2028, with pricing rising to $20-25m per megawatt on long contracts. He reiterates his BUY (upgraded 14 October, restated earlier today at ~$50) with a $93 DCF fair value against a ~$61 price, noting demand still exceeds capacity and the company is largely sold out through 2027.",
+ "calls": [
+  {
+   "video_id": "Axu5bNbr2hs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Will CoreWeave Stock Investors Get Swallowed by its Debt? | CRWV Stock",
+   "published_at": "2026-11-18T16:00:00.723025+00:00",
+   "analyzed_at": "2026-11-18T23:05:55Z",
+   "collab": false,
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$61 (stated); DCF fair value $93",
+   "thesis": "BUY reiterated - risk versus reward is attractive, but only for very high risk tolerance. He reiterated the buy he upgraded to on 14 Oct (and restated earlier today at ~$50): $6.5bn cash, ~$9bn of customer prepayments coming, secured debt trading near par, but capex of ~$38bn is roughly 300% of 2026 revenue.",
+   "base_case": "Largely sold out through 2027; pricing rising to $20-25m per megawatt on long contracts; adjusted net losses shrink in 2027, net income positive in 2028.",
+   "bull_case": "Demand keeps outrunning capacity and the backlog converts at higher prices.",
+   "bear_case": "Unsecured debt repricing, hyperscalers self-building, and prepayments making contracts less attractive."
+  }
+ ]
+}
