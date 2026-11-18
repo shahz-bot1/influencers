@@ -3,6 +3,25 @@
  "slug": "PANW",
  "calls": [
   {
+   "video_id": "LVYP79tnpSU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Palo Alto Stock Before the Huge Investor Update? | PANW Stock Analysis",
+   "published_at": "2026-11-16T18:00:01.255786+00:00",
+   "analyzed_at": "2026-11-18T19:05:37Z",
+   "ticker": "PANW",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$323 (stated)",
+   "fair_value": "$182 (DCF)",
+   "thesis": "HOLD reiterated (was HOLD 5 Nov @ ~$353) — still not a buying opportunity on the dip: forward P/E 66 is expensive vs his comfort of 55-60, and his DCF fair value is $182 vs ~$323. Wait for the 18 Nov earnings, digest the figures, then decide.",
+   "base_case": "Agentic AI is reinvigorating growth: RPO surged 34% to over $20bn; analysts now forecast EPS +17.5%/yr and he thinks low-20s% is more likely.",
+   "bull_case": "Consumer agentic AI adoption is still to come and could be the next demand catalyst for cybersecurity.",
+   "bear_case": "Operating margin has more than halved to ~5.4% (from a ~12-13% peak) as the company invests to generate growth; valuation has only partly corrected from the ~85x forward P/E peak.",
+   "collab": false
+  },
+  {
    "video_id": "TuVB0tX9BQs",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -99,11 +118,11 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "MarketBeat",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
