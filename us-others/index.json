@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T05:03:27.445823+00:00",
+ "updated": "2026-11-19T05:00:31.082556+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -734,19 +734,19 @@
   {
    "ticker": "CRWD",
    "slug": "CRWD",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-19T04:57:50.440891+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$5.9"
+     "avg": null
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
    "lastStated": "5.9x PEG",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "CRWV",
@@ -963,12 +963,12 @@
   {
    "ticker": "FTNT",
    "slug": "FTNT",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-19T04:57:50.440891+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$2"
+     "avg": null
     },
     {
      "dir": "AVOID",
@@ -977,11 +977,11 @@
     }
    ],
    "influencers": [
-    "Daniel Pronk",
-    "Joseph Hogue, CFA"
+    "Joseph Hogue, CFA",
+    "Daniel Pronk"
    ],
    "lastStated": "27x free cash flow (was ~40x before earnings); no share price stated; down 35% f",
-   "nCalls": 6
+   "nCalls": 7
   },
   {
    "ticker": "GDS",
@@ -1134,12 +1134,17 @@
   {
    "ticker": "HOOD",
    "slug": "HOOD",
-   "lastDate": "2026-10-26T04:58:06.524826+00:00",
+   "lastDate": "2026-11-19T04:57:50.440891+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 2,
-     "avg": "$84"
+     "n": 1,
+     "avg": "$29"
+    },
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
     }
    ],
    "influencers": [
@@ -1147,7 +1152,7 @@
     "Asymmetric Investing"
    ],
    "lastStated": "No share price stated; analyst average target $139 (~42% upside), low target $11",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "HPQ",
@@ -1687,12 +1692,12 @@
   {
    "ticker": "NOW",
    "slug": "NOW",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-19T04:57:50.440891+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$106"
+     "avg": null
     },
     {
      "dir": "AVOID",
@@ -1701,11 +1706,11 @@
     }
    ],
    "influencers": [
-    "Daniel Pronk",
-    "Joseph Hogue, CFA"
+    "Joseph Hogue, CFA",
+    "Daniel Pronk"
    ],
    "lastStated": "~24x free cash flow; no share price stated; down 31% after earnings",
-   "nCalls": 6
+   "nCalls": 7
   },
   {
    "ticker": "NTES",
@@ -1814,19 +1819,19 @@
   {
    "ticker": "OKTA",
    "slug": "OKTA",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-19T04:57:50.440891+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$2.4"
+     "avg": null
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
    "lastStated": "2.4x PEG",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "ORCL",
@@ -1849,19 +1854,19 @@
   {
    "ticker": "PANW",
    "slug": "PANW",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-19T04:57:50.440891+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
-     "avg": "$4"
+     "avg": null
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
    "lastStated": "4.0x PEG",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "PATH",
@@ -1985,12 +1990,12 @@
   {
    "ticker": "PLTR",
    "slug": "PLTR",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-19T04:57:50.440891+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$800.85"
+     "avg": "$1,600"
     },
     {
      "dir": "AVOID",
@@ -1999,12 +2004,12 @@
     }
    ],
    "influencers": [
+    "Joseph Hogue, CFA",
     "Daniel Pronk",
-    "Tom Nash",
-    "Joseph Hogue, CFA"
+    "Tom Nash"
    ],
    "lastStated": "101x free cash flow; no share price stated; down ~19% over the past month",
-   "nCalls": 6
+   "nCalls": 7
   },
   {
    "ticker": "PTON",
@@ -2253,17 +2258,12 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-11-02T05:05:00+00:00",
+   "lastDate": "2026-11-19T04:57:50.440891+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": "$44"
-    },
-    {
-     "dir": "HOLD",
-     "n": 1,
-     "avg": "$20"
     }
    ],
    "influencers": [
@@ -2271,7 +2271,7 @@
     "Asymmetric Investing"
    ],
    "lastStated": "$20 average analyst target; holds 6,000 shares",
-   "nCalls": 5
+   "nCalls": 6
   },
   {
    "ticker": "SOUN",
@@ -2680,19 +2680,19 @@
   {
    "ticker": "ZS",
    "slug": "ZS",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-19T04:57:50.440891+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$1.8"
+     "avg": null
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
    "lastStated": "1.8x PEG",
-   "nCalls": 4
+   "nCalls": 5
   }
  ],
  "influencers": [
@@ -2735,8 +2735,8 @@
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 159,
-   "nVideos": 19
+   "nCalls": 168,
+   "nVideos": 20
   },
   {
    "name": "Patient Investor",
@@ -2768,6 +2768,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "scqLPoVoRmY",
+   "title": "BUY HEAVY! I Ranked 16 Stocks… Here are the 3 I’m Buying",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-11-18T16:55:34.210540+00:00",
+   "nCalls": 9
+  },
   {
    "id": "ro12y589YEA",
    "title": "Is AI Spending Slowing? NVIDIA Earnings Preview After the SemiAnalysis Cut",
