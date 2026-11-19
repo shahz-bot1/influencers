@@ -1,0 +1,28 @@
+{
+ "video_id": "4WgW4mZuqQU",
+ "title": "Is Duolingo Stock a Buy?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-19T13:55:40.036747+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc keeps Duolingo on HOLD with medium conviction, saying it is 'moving much closer' to a buy but not there yet. Management's response to the AI threat — focusing on the free product and putting monetisation second — is working: daily active user growth accelerated to 23% and then 29% in the last two quarters, and management plans to focus more on monetisation in 2027, including a chess product that already has 10 million daily active users. But expenses are expected to grow faster than revenue as product investment continues. EPS prospects collapsed from over 50% growth to minus 30% in mid-2025 on the AI scare, and have only recovered to about 8% a year. The freemium focus is biting into margins: cash flow from operations to sales fell from a 40% peak to about 37%, and the operating margin from 15% to 12.5%. The balance sheet is strong, with over $1.3bn in cash and short-term investments against just $84m of debt. At a forward P/E of 21.8 the stock looks relatively cheap versus its own history, and his revised DCF puts it fairly valued (exact fair value garbled in captions) versus a $170 price that has almost doubled from its $88 52-week low. He stresses the stock is riskier today than before ChatGPT. Calls: DUOL HOLD at $170, reiterated.",
+ "calls": [
+  {
+   "video_id": "4WgW4mZuqQU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Duolingo Stock a Buy?",
+   "published_at": "2026-11-19T13:55:40.036747+00:00",
+   "analyzed_at": "2026-11-19T14:59:16Z",
+   "collab": false,
+   "ticker": "DUOL",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$170 (current; DCF fair value garbled in captions)",
+   "thesis": "HOLD reiterated, medium conviction. DAU growth re-accelerating (23% then 29%) after the AI-threat response (free-product focus, monetisation secondary), but EPS prospects only recovered to +8%/yr from -30%, margins slipping as freemium focus bites; fairly valued on DCF, slightly undervalued on forward P/E 21.8. 'Moving much closer' to a buy, but not yet.",
+   "base_case": "Monetisation push in 2027, including chess (10m DAU); expenses grow faster than revenue as product investment continues.",
+   "bull_case": "DAU acceleration continues and 2027 monetisation lands, restoring EPS growth toward the old 40-60% pace.",
+   "bear_case": "AI competition re-accelerates; monetisation stays secondary and margins keep slipping."
+  }
+ ]
+}
