@@ -4,6 +4,14 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "ANT",
+   "tickerSlug": "ANT",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-19T14:30:40.036747+00:00",
+   "price": null,
+   "video_id": "Evr-sErlgys"
+  },
+  {
    "ticker": "AMD",
    "tickerSlug": "AMD",
    "direction": "BUY",
