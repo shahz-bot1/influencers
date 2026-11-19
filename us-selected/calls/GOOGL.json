@@ -3,6 +3,25 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "95t1TqHptd4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Anthropic Is Public. 4 Stocks I'd Buy Right Now",
+   "published_at": "2026-11-19T18:04:01.382020+00:00",
+   "analyzed_at": "2026-11-19T19:02:23Z",
+   "collab": false,
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$277 (current); 21.1x forward P/E (stated)",
+   "thesis": "BUY reiterated (last BUY 13 Nov). 'Can you own enough of that name at these valuations' — 21.1x forward P/E still cheap; Cloud ($30.7B, 36.2% margin) could soon match Search in size, TPU business growing fast.",
+   "base_case": "Cloud keeps compounding and balances any Search monetisation lag; operating cash flow keeps rising, FCF flips positive after 2027.",
+   "bull_case": "Cloud matches Search within a year and TPUs take share from rivals.",
+   "bear_case": "AI-mode monetisation lags and FCF stays negative longer than expected.",
+   "fair_value": "Not stated"
+  },
+  {
    "video_id": "79nNZtk2cPY",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -540,28 +559,28 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
-  },
-  {
-   "channel": "MarketBeat",
    "idx": 3
   },
   {
+   "channel": "MarketBeat",
+   "idx": 4
+  },
+  {
    "channel": "Mark Roussin CPA",
-   "idx": 8
+   "idx": 9
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 16
+   "idx": 17
   }
  ]
 }
