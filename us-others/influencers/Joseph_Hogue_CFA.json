@@ -4,6 +4,78 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "NOW",
+   "tickerSlug": "NOW",
+   "direction": "BUY",
+   "date": "2026-11-19T04:57:50.440891+00:00",
+   "price": null,
+   "video_id": "scqLPoVoRmY"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-11-19T04:57:50.440891+00:00",
+   "price": null,
+   "video_id": "scqLPoVoRmY"
+  },
+  {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "BUY",
+   "date": "2026-11-19T04:57:50.440891+00:00",
+   "price": null,
+   "video_id": "scqLPoVoRmY"
+  },
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
+   "direction": "BUY",
+   "date": "2026-11-19T04:57:50.440891+00:00",
+   "price": null,
+   "video_id": "scqLPoVoRmY"
+  },
+  {
+   "ticker": "ZS",
+   "tickerSlug": "ZS",
+   "direction": "BUY",
+   "date": "2026-11-19T04:57:50.440891+00:00",
+   "price": null,
+   "video_id": "scqLPoVoRmY"
+  },
+  {
+   "ticker": "HOOD",
+   "tickerSlug": "HOOD",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-19T04:57:50.440891+00:00",
+   "price": null,
+   "video_id": "scqLPoVoRmY"
+  },
+  {
+   "ticker": "PANW",
+   "tickerSlug": "PANW",
+   "direction": "HOLD",
+   "date": "2026-11-19T04:57:50.440891+00:00",
+   "price": null,
+   "video_id": "scqLPoVoRmY"
+  },
+  {
+   "ticker": "CRWD",
+   "tickerSlug": "CRWD",
+   "direction": "HOLD",
+   "date": "2026-11-19T04:57:50.440891+00:00",
+   "price": null,
+   "video_id": "scqLPoVoRmY"
+  },
+  {
+   "ticker": "OKTA",
+   "tickerSlug": "OKTA",
+   "direction": "HOLD",
+   "date": "2026-11-19T04:57:50.440891+00:00",
+   "price": null,
+   "video_id": "scqLPoVoRmY"
+  },
+  {
    "ticker": "AVAV",
    "tickerSlug": "AVAV",
    "direction": "BUY",
