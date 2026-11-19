@@ -3,6 +3,43 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "95t1TqHptd4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Anthropic Is Public. 4 Stocks I'd Buy Right Now",
+   "published_at": "2026-11-19T18:04:01.382020+00:00",
+   "analyzed_at": "2026-11-19T19:02:23Z",
+   "collab": false,
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$1.7T market cap; EPS target ~$30 by 2028 (stated)",
+   "thesis": "BUY reiterated (last BUY 13 Nov). 'Extremely extremely attractive' on valuation: AI revenue set to double to $115B next year then $230B; FCF $49.1B FY26 rising to $136B FY28.",
+   "base_case": "AI revenue doubles twice as hyperscalers keep ordering; FCF funds buybacks and investment.",
+   "bull_case": "TPU/custom-silicon demand accelerates beyond the $230B AI-revenue plan.",
+   "bear_case": "Custom-chip rivals (Marvell, MediaTek) take share; AI spend slows.",
+   "fair_value": "Not stated"
+  },
+  {
+   "video_id": "DgCItWorPAw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why I Doubled Down on This Ridiculously Cheap Semiconductor Stock",
+   "published_at": "2026-11-19T12:55:40.036747+00:00",
+   "analyzed_at": "2026-11-19T14:59:16Z",
+   "collab": false,
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$333 (current; DCF fair value $451)",
+   "thesis": "BUY reiterated - he doubled his own position last week. Broadcom crashed from ~$500 to ~$333 while AI revenue is set to more than double to $115bn next year then $230bn; EPS growth ~55%/yr expected, record 48.6% operating margin, ROIC 26% (~2x WACC), cheapest forward P/E in years at 9.6. Interested in adding more if targets hold and valuation stays near these levels.",
+   "base_case": "Custom XPU partnerships (Alphabet, OpenAI) keep winning data-centre orders; AI revenue doubles twice as guided.",
+   "bull_case": "Demand stays ahead of supply and the backlog converts; valuation re-rates from a historic-low P/E.",
+   "bear_case": "Negative AI sentiment and data-centre ROI worries keep compressing multiples despite the fundamentals."
+  },
+  {
    "video_id": "66RFXm4jz6U",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -405,11 +442,11 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 4
+   "idx": 6
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 6
+   "idx": 8
   }
  ]
 }
