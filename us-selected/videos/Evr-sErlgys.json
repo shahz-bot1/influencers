@@ -1,0 +1,28 @@
+{
+ "video_id": "Evr-sErlgys",
+ "title": "Time to BUY Anthropic?",
+ "creator": "Mark Roussin CPA",
+ "published_at": "2026-11-19T14:30:40.036747+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Mark Roussin opens on the AI sell-off — Marvell and Micron down 55% from highs, Nvidia 35%, ASML 32%, AMD 25%, and the SMH semiconductor ETF down over 30% — then asks whether Anthropic's IPO could be the clearing event for the sector or a sign of a top. Anthropic, the company behind Claude, is going public in one of the largest IPOs ever: a $70-78 preliminary range, expected to price above it, raising over $60bn at a valuation approaching $1.5tn. The numbers are extraordinary: $4.6bn revenue in 2025, then $33.2bn in the first nine months of 2026 (up over 1,200% year over year), $17bn in Q3 alone and an $81bn annualised run rate in October. The operating loss narrowed to $1.3bn from $5.2bn. At $1.5tn that is about 18.5x annualised sales and 16.9x EV/sales ($130bn cash, $6bn debt). Only SpaceX among trillion-dollar companies also operates at a loss. A Carson Group chart of 36 major IPOs since Google in 2004 shows an average first-day gain near 49% (median 31%) but an average maximum drawdown of about 55% in the first 12 months. Roussin profited on the SpaceX downside after its pop and will likely do the same with Anthropic, playing options to the downside, possibly via GraniteShares' 2x leveraged ETFs AIL/ANS. He flags IPO lockups (180 days, then after FY26 earnings; 365 days for founder-related holders) and says he will only buy if the valuation becomes attractive down the road. A successful IPO could restore AI confidence, but it is not proof the sector has bottomed. Calls: ANT CONDITIONAL_BUY (first tracked).",
+ "calls": [
+  {
+   "video_id": "Evr-sErlgys",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Time to BUY Anthropic?",
+   "published_at": "2026-11-19T14:30:40.036747+00:00",
+   "analyzed_at": "2026-11-19T14:59:16Z",
+   "collab": false,
+   "ticker": "ANT",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "CONDITIONAL_BUY, first tracked for Roussin. Likes the business (revenue $33.2bn in 9M 2026, +1,200% YoY; $81bn annualised run rate; operating loss narrowing to $1.3bn) but will NOT chase the IPO: expects a first-day pop then profit-taking and will likely play options to the downside (as he did with SpaceX). Would consider buying only if the valuation becomes attractive down the road. ~$1.5tn valuation is ~18.5x annualised sales / 16.9x EV/sales - all future growth already priced in.",
+   "base_case": "IPO pops on strong demand, then gives back gains in the first 12 months (major IPOs average ~49% first-day pop, ~55% max drawdown in year one).",
+   "bull_case": "Revenue growth stays extraordinary, margins expand and FCF follows, justifying a premium valuation.",
+   "bear_case": "Growth slows, competition (OpenAI, Gemini) pressures Claude, or model costs stay high - no room for disappointment at this price."
+  }
+ ]
+}
