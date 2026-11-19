@@ -3,6 +3,25 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "95t1TqHptd4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Anthropic Is Public. 4 Stocks I'd Buy Right Now",
+   "published_at": "2026-11-19T18:04:01.382020+00:00",
+   "analyzed_at": "2026-11-19T19:02:23Z",
+   "collab": false,
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Was CONDITIONAL_BUY on 12 Nov; now BUY — buying again as the thesis holds through a ~60% drawdown.",
+   "price_at_call": "$33.1B market cap; ~60% drawdown",
+   "thesis": "BUY — FLIP from CONDITIONAL_BUY (12 Nov). Thesis unchanged by the sell-off or Jensen's exit: Nvidia has made clear it backs good neoclouds; 2027 is the tipping point, revenue 4x next year to ~$12.5B then $25.8B in FY28.",
+   "base_case": "No further delays: 2027 becomes a monster year, profitable by 2028.",
+   "bull_case": "Prepayments keep rising ($10B committed, heading $17-20B) and payback shortens (now 1y 7m).",
+   "bear_case": "Data-centre delays slip revenue again; interest payments don't wait.",
+   "fair_value": "Not stated"
+  },
+  {
    "video_id": "gCNCotLkBYc",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -397,20 +416,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
-   "idx": 3
+   "channel": "BWB - Business With Brian",
+   "idx": 2
   },
   {
    "channel": "MarketBeat",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
