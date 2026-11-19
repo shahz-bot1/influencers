@@ -3,6 +3,44 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "95t1TqHptd4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Anthropic Is Public. 4 Stocks I'd Buy Right Now",
+   "published_at": "2026-11-19T18:04:01.382020+00:00",
+   "analyzed_at": "2026-11-19T19:02:23Z",
+   "collab": false,
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "No stated price; backlog ~$130B",
+   "thesis": "BUY reiterated (last BUY 18 Nov). Backlog ~$130B, revenue $27B next fiscal year then $45.1B in FY28; adjusted EBITDA margin already 10% and improving; prepayment payback down to 1y 7m.",
+   "base_case": "Executes on schedule: core business starts contributing more in 2027 and the company lands on its own feet.",
+   "bull_case": "Margins keep improving fast and the backlog converts without delays.",
+   "bear_case": "Construction/compute delays hit a still-small business hard while interest payments continue.",
+   "fair_value": "Not stated"
+  },
+  {
+   "video_id": "jfGG74SIvc4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Nvidia Just Sent a Massive Signal to AI Stock Investors",
+   "published_at": "2026-11-18T23:55:16.232992+00:00",
+   "analyzed_at": "2026-11-19T06:58:35Z",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 11 Nov). 'Extremely bullish in the NeoCloud market - companies like CoreWeave': demand for AI tokens keeps growing and whoever has active power wins; Nvidia still backing neoclouds that are ready with land, power and shell.",
+   "base_case": "Token demand keeps outrunning capacity; neocloud backlogs convert.",
+   "bull_case": "AI token demand compounds and neoclouds monetize their capacity at rising prices.",
+   "bear_case": "Neocloud debt and funding fears; Nvidia leadership uncertainty."
+  },
+  {
    "video_id": "Axu5bNbr2hs",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -250,20 +288,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
-   "channel": "Couch Investor",
-   "idx": 5
+   "channel": "BWB - Business With Brian",
+   "idx": 4
   },
   {
    "channel": "MarketBeat",
-   "idx": 7
+   "idx": 9
   }
  ]
 }
