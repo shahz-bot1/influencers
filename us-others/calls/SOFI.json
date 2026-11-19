@@ -3,6 +3,15 @@
  "slug": "SOFI",
  "calls": [
   {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "thesis": "FLIP from HOLD (2026-11-02). 35% forward revenue growth vs 4-6% for traditional banks; best cross-selling across lending, investing and banking plus a tech platform; 1.7x price-to-book is low vs its own history (has traded 2-4x); prime beneficiary of the digital-banking shift and the Genius Act stablecoin rules taking effect in January.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
    "video_id": "D0QIMlwlT6I",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -63,7 +72,7 @@
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
