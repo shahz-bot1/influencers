@@ -4,6 +4,70 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "ANT",
+   "tickerSlug": "ANT",
+   "direction": "AVOID",
+   "date": "2026-11-19T18:04:01.382020+00:00",
+   "price": "$83 IPO price; ~$1.5-1.6T valuation",
+   "video_id": "95t1TqHptd4"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-11-19T18:04:01.382020+00:00",
+   "price": "~$277 (current); 21.1x forward P/E (stated)",
+   "video_id": "95t1TqHptd4"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-19T18:04:01.382020+00:00",
+   "price": "No stated price; up 134.5% YTD, ~39% drawdown",
+   "video_id": "95t1TqHptd4"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-19T18:04:01.382020+00:00",
+   "price": "$1.7T market cap; EPS target ~$30 by 2028 (stated)",
+   "video_id": "95t1TqHptd4"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-19T18:04:01.382020+00:00",
+   "price": "$33.1B market cap; ~60% drawdown",
+   "video_id": "95t1TqHptd4"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-19T18:04:01.382020+00:00",
+   "price": "No stated price; backlog ~$130B",
+   "video_id": "95t1TqHptd4"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-18T23:55:16.232992+00:00",
+   "price": null,
+   "video_id": "jfGG74SIvc4"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-18T23:55:16.232992+00:00",
+   "price": null,
+   "video_id": "jfGG74SIvc4"
+  },
+  {
    "ticker": "MU",
    "tickerSlug": "MU",
    "direction": "BUY",
