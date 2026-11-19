@@ -1,0 +1,29 @@
+{
+ "video_id": "pNosN89lV4s",
+ "title": "My Thoughts, Calculations, and Ratings on Nvidia Stock After the Earnings Report | NVDA Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-19T18:00:01.382020+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc's verdict on Nvidia's Q3 is relief: no disaster, and plenty of upside. Revenue was $116bn, more than doubling year over year and beating guidance by roughly $10bn, with gross margin near 75% versus 74% guided, and the FY28 growth outlook raised from 70% to 75% off a larger base. Vera Rubin is the fastest product ramp in Nvidia's history, and the company is now delivering new products on an annual cadence. The stock fell on the day anyway, which he says proves you must read the results rather than judge a quarter by the price reaction. On the leadership change: Jensen Huang resigned on 12 November after the board cited personal behaviour inconsistent with its code of conduct — Parkevtate doubts it was truly voluntary — and the door stays open if export investigations clear him; interim CEO Colette Kress, the longtime CFO, is someone he trusts to do a relatively good job. Nvidia also set up a national security and export control oversight committee, after export limits that were previously not strictly enforced. The cloud backlog grew $500bn in three months to $2.5tn (Amazon, Microsoft, Alphabet, Oracle), and demand still exceeds supply. His DCF fair value rose about $4 to $260 versus a $151 price — over 70% undervalued at a 9.8x forward P/E. He had double-downgraded Nvidia since the resignation, from best stock to buy to a plain buy on 11 November; he now upgrades it back to a top-10 stock to buy. Risks: AI regulation, data-centre build constraints, the Jensen investigation overhang. Note: captions garble names (Huang as 'Jansen Hong/Hang', Kress as 'Colette Chris'). Calls: NVDA BUY — FLIP from CONDITIONAL_BUY (17 Nov).",
+ "calls": [
+  {
+   "video_id": "pNosN89lV4s",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "My Thoughts, Calculations, and Ratings on Nvidia Stock After the Earnings Report | NVDA Stock",
+   "published_at": "2026-11-19T18:00:01.382020+00:00",
+   "analyzed_at": "2026-11-19T19:02:23Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Was CONDITIONAL_BUY on 17 Nov; now BUY — upgraded back to a top-10 stock to buy after the Q3 print.",
+   "price_at_call": "~$151 (current); DCF fair value $260 (stated, up ~$4)",
+   "thesis": "BUY — FLIP from CONDITIONAL_BUY (17 Nov). Upgraded to a top-10 buy: Q3 was 'fantastic' — $116B revenue beat by ~$10B, FY28 growth raised 70% to 75%, Vera Rubin the fastest ramp ever; >70% undervalued on DCF at 9.8x forward P/E.",
+   "base_case": "Demand exceeds supply and cloud backlog ($2.5T, +$500B in 3 months) converts as data centres get built.",
+   "bull_case": "Supply unlocks faster than expected and the 75% growth guide proves conservative.",
+   "bear_case": "AI regulation / data-centre build constraints bite; Jensen investigation overhang persists.",
+   "fair_value": "$260 (DCF, stated)"
+  }
+ ]
+}
