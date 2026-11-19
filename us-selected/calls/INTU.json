@@ -1,0 +1,31 @@
+{
+ "ticker": "INTU",
+ "slug": "INTU",
+ "calls": [
+  {
+   "video_id": "xPWXSto_Ssc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Intuit Stock: Buy or Sell?",
+   "published_at": "2026-11-19T16:00:01.382020+00:00",
+   "analyzed_at": "2026-11-19T19:02:23Z",
+   "collab": false,
+   "ticker": "INTU",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Forward P/E 12.8 (stated); PEG ~1",
+   "thesis": "CONDITIONAL_BUY first tracked. Yes, a buying opportunity at current prices — but wait until after the Q3 results (due 19 Nov) before deciding; lower risk then, even at the cost of missing some upside.",
+   "base_case": "Enterprise segment (near double-digit growth, rising ARPU via AI platform) offsets a price-sensitive consumer side; EPS growth ~15%/yr vs ~12.5% street.",
+   "bull_case": "Enterprise AI monetisation lifts ARPU faster than expected and EPS beats the street.",
+   "bear_case": "Consumer price sensitivity deepens and growth misses again.",
+   "fair_value": "Not stated"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
