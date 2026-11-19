@@ -3,6 +3,15 @@
  "slug": "ZS",
  "calls": [
   {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "thesis": "Picked up in the past at a lower valuation; 1.7x PEG is the cheapest in the cybersecurity group; 20% forward revenue growth intact and the AI threat is not showing up in revenue; zero-trust architecture still performing, though he is more sceptical it can compete alone against Palo Alto and CrowdStrike.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
    "video_id": "XHNZMOhHa8g",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
