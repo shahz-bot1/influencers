@@ -3,6 +3,15 @@
  "slug": "PLTR",
  "calls": [
   {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "thesis": "66% forward revenue growth (fastest in the software group) and 46% EBITDA margin; AIP connects AI models to real operational decisions and is furthest along in the AI management model; sticky government contracts keep revenue growing; 1.6x PEG is now one of the least expensive on a growth-adjusted basis.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
    "video_id": "yZ04xcND2A4",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
@@ -71,15 +80,15 @@
  ],
  "byInf": [
   {
-   "channel": "Daniel Pronk",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
   },
   {
-   "channel": "Tom Nash",
+   "channel": "Daniel Pronk",
    "idx": 1
   },
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Tom Nash",
    "idx": 2
   }
  ]
