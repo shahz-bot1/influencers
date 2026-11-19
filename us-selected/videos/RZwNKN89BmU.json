@@ -1,0 +1,28 @@
+{
+ "video_id": "RZwNKN89BmU",
+ "title": "Why Is ASML Stock Falling, and is it a Buying Opportunity?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-19T14:45:40.036747+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc upgrades ASML to a buying opportunity after its fall from a $2,000 52-week high to about $1,420. ASML supplies TSMC, Intel, Micron and Samsung with lithography equipment that is at least one step ahead of the competition and supply-constrained — customers are waiting until 2028-2029 for product — and price increases roll in through 2028. Wall Street now expects EPS growth of 33% a year for several years, orders run out to 2030, the operating margin is a record 38.5% (up from 25% in 2017) and cash flow from operations to sales is 57%. Despite booming sales and sold-out prospects, the stock trades at a forward P/E of 22.5, a relative discount he attributes to growing scepticism about the AI industry. He notes manufacturing facilities are welcomed by local communities for the jobs they bring, unlike data centres, though a data-centre slowdown could indirectly hit equipment demand. He revised his DCF valuation higher, with fair value very close to the $1,420 current price (the exact figure is garbled in the captions), and says an excellent business at a fair price is a great deal for long-term investors. He last evaluated ASML on 25 August, when it looked overvalued. He also offers free viewer voting on the next company he covers via a Google Form. Calls: ASML BUY at about $1,420 — FLIP from UNCERTAIN (19 Oct).",
+ "calls": [
+  {
+   "video_id": "RZwNKN89BmU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is ASML Stock Falling, and is it a Buying Opportunity?",
+   "published_at": "2026-11-19T14:45:40.036747+00:00",
+   "analyzed_at": "2026-11-19T14:59:16Z",
+   "collab": false,
+   "ticker": "ASML",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "UNCERTAIN -> BUY",
+   "price_at_call": "~$1,420 (current price; DCF fair value garbled in captions, described as very close to $1,420)",
+   "thesis": "FLIP from UNCERTAIN (Oct 19). Upgraded ASML to a buying opportunity on 16 Nov 2026: excellent business now fairly valued after falling from a $2,000 52-week high to ~$1,420. Supply-constrained lithography leader, EPS expected to grow 33%/yr, orders out to 2030, pricing power, record 38.5% operating margin, forward P/E 22.5.",
+   "base_case": "EPS growth ~33%/yr for several years; revenue booming with orders out to 2030 and price increases rolling in through 2028.",
+   "bull_case": "Supply stays constrained and pricing power lifts margins further; manufacturing-facility buildout keeps demand ahead of supply.",
+   "bear_case": "A data-centre construction slowdown indirectly hits equipment demand; negative AI sentiment keeps multiples compressed."
+  }
+ ]
+}
