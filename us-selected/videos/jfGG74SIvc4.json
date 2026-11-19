@@ -1,0 +1,48 @@
+{
+ "video_id": "jfGG74SIvc4",
+ "title": "Nvidia Just Sent a Massive Signal to AI Stock Investors",
+ "creator": "Couch Investor",
+ "published_at": "2026-11-18T23:55:16.232992+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Couch Investor and Motley Fool guest Neil dissect Nvidia's first earnings without founder Jensen Huang. Q3 was a huge beat: revenue $115.8bn (up over 100% year over year, roughly a $3bn beat versus the highest Wall Street estimate), data-centre revenue $107.6bn, non-GAAP gross margin 74.9%, EPS $2.68 and free cash flow $43.8bn. Q4 guidance of $130bn also beat, and the FY28 growth outlook was raised from 70% to 75% — Couch's best-case scenario. Interim CEO Colette Kress reaffirmed guidance and the AI-ecosystem commitments, which the pair read as 'business as usual' so far, though the CEO question stays open for weeks or months. They clarify the guarantees: maximum exposure $118bn, $32bn of neocloud agreements running 2028-2032, with nothing drawn yet, and supply/capacity commitments of about $390bn, roughly $210bn landing in FY28 on the Vera Rubin ramp. China revenue is excluded from guidance and Hopper shipments have stopped. Nvidia has now closed seven straight weeks lower, with weekly RSI at its lowest since October 2022. Couch stays 'extremely bullish' on neoclouds such as CoreWeave — token demand keeps growing and whoever has active power wins — and on the semiconductor supply chain. Calls: NVDA BUY reiterated, CRWV BUY reiterated. Note: auto-captions garble some names (Kress as 'Klet Crest').",
+ "calls": [
+  {
+   "video_id": "jfGG74SIvc4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Nvidia Just Sent a Massive Signal to AI Stock Investors",
+   "published_at": "2026-11-18T23:55:16.232992+00:00",
+   "analyzed_at": "2026-11-19T06:58:35Z",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (prior explicit stance BUY 15 Nov; 18 Nov video logged UNCERTAIN with no explicit call). Q3 huge beat - revenue $115.8bn (+100%+ YoY), data centre $107.6bn, non-GAAP gross margin 74.9%, EPS $2.68; Q4 guide $130bn; FY28 growth outlook raised 70% to 75% (his best case). Interim CEO Kress reaffirmed guidance and AI-ecosystem commitments; 'business as usual' so far. Still has 'strong hopes for Nvidia' and is 'extremely bullish' on the AI cycle long term.",
+   "base_case": "FY28 revenue $740bn+ on the supply-constrained outlook; guidance and neocloud commitments hold.",
+   "bull_case": "FY28 outlook raised again to ~80% at the Q4 print; Vera Rubin ramp lifts revenue toward $800bn.",
+   "bear_case": "CEO overhang lasts weeks/months; a new CEO reopens every question on guidance and commitments; SEC investigation overhang."
+  },
+  {
+   "video_id": "jfGG74SIvc4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Nvidia Just Sent a Massive Signal to AI Stock Investors",
+   "published_at": "2026-11-18T23:55:16.232992+00:00",
+   "analyzed_at": "2026-11-19T06:58:35Z",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 11 Nov). 'Extremely bullish in the NeoCloud market - companies like CoreWeave': demand for AI tokens keeps growing and whoever has active power wins; Nvidia still backing neoclouds that are ready with land, power and shell.",
+   "base_case": "Token demand keeps outrunning capacity; neocloud backlogs convert.",
+   "bull_case": "AI token demand compounds and neoclouds monetize their capacity at rising prices.",
+   "bear_case": "Neocloud debt and funding fears; Nvidia leadership uncertainty."
+  }
+ ]
+}
