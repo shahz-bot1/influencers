@@ -1,0 +1,76 @@
+{
+ "ticker": "ANT",
+ "slug": "ANT",
+ "calls": [
+  {
+   "video_id": "pIj2206VQMc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Massive News for Anthropic Stock Investors as IPO is Hugely Successful  | ANT Stock Analysis",
+   "published_at": "2026-11-19T19:58:13.934305+00:00",
+   "analyzed_at": "2026-11-19T23:02:47Z",
+   "collab": false,
+   "ticker": "ANT",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$83 IPO price (waiting for shares to settle; no entry level stated)",
+   "thesis": "CONDITIONAL_BUY, first tracked for Parkevtate. 'Very interested in owning shares' of 'one of the best AI companies in the market right now' and the only pure-play large-language-model/agentic-AI platform, but 'not interested in the early days' — waiting for the shares to settle down and for more information before deciding to buy. Expects the IPO pattern seen with SpaceX: an initial jump, then a pullback and settle. The ~$100bn raise (public + private) takes cash above $200bn, enough to reach a self-sustaining, cash-flow-neutral footing and fund next-gen models and inference.",
+   "base_case": "Anthropic keeps growing anywhere near current rates, reaches cash-flow neutral, and keeps buying compute — good news for the whole AI ecosystem (NVDA, AMD, Micron, Intel, Broadcom, TSMC, SK Hynix).",
+   "bull_case": "Growth stays extraordinary, computing efficiency keeps improving, and the platform becomes an enterprise/consumer software platform — 'significant growth ahead'.",
+   "bear_case": "Shares jump then settle well below the open (as SpaceX did after $200+), or Anthropic comes back to market for more capital despite the raise.",
+   "fair_value": "Not stated"
+  },
+  {
+   "video_id": "95t1TqHptd4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Anthropic Is Public. 4 Stocks I'd Buy Right Now",
+   "published_at": "2026-11-19T18:04:01.382020+00:00",
+   "analyzed_at": "2026-11-19T19:02:23Z",
+   "collab": false,
+   "ticker": "ANT",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$83 IPO price; ~$1.5-1.6T valuation",
+   "thesis": "AVOID first tracked. Not a buyer today or in the near future at a ~$1.5-1.6T valuation despite $17B last-quarter revenue and 10x YoY growth; prefers the four names below instead.",
+   "base_case": "FY26 revenue $56B, FY27 $144.7B, FY28 $270.3B expected; cash from operations just turned positive.",
+   "bull_case": "Growth re-accelerates toward 40%+ QoQ and margins hold as token prices fall.",
+   "bear_case": "Cash burn rises as gigawatts come online; token-price deflation squeezes margins.",
+   "fair_value": "Not stated"
+  },
+  {
+   "video_id": "Evr-sErlgys",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Time to BUY Anthropic?",
+   "published_at": "2026-11-19T14:30:40.036747+00:00",
+   "analyzed_at": "2026-11-19T14:59:16Z",
+   "collab": false,
+   "ticker": "ANT",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "CONDITIONAL_BUY, first tracked for Roussin. Likes the business (revenue $33.2bn in 9M 2026, +1,200% YoY; $81bn annualised run rate; operating loss narrowing to $1.3bn) but will NOT chase the IPO: expects a first-day pop then profit-taking and will likely play options to the downside (as he did with SpaceX). Would consider buying only if the valuation becomes attractive down the road. ~$1.5tn valuation is ~18.5x annualised sales / 16.9x EV/sales - all future growth already priced in.",
+   "base_case": "IPO pops on strong demand, then gives back gains in the first 12 months (major IPOs average ~49% first-day pop, ~55% max drawdown in year one).",
+   "bull_case": "Revenue growth stays extraordinary, margins expand and FCF follows, justifying a premium valuation.",
+   "bear_case": "Growth slows, competition (OpenAI, Gemini) pressures Claude, or model costs stay high - no room for disappointment at this price."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  },
+  {
+   "channel": "Couch Investor",
+   "idx": 1
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 2
+  }
+ ]
+}
