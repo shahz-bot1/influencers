@@ -3,6 +3,24 @@
  "slug": "DUOL",
  "calls": [
   {
+   "video_id": "4WgW4mZuqQU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Duolingo Stock a Buy?",
+   "published_at": "2026-11-19T13:55:40.036747+00:00",
+   "analyzed_at": "2026-11-19T14:59:16Z",
+   "collab": false,
+   "ticker": "DUOL",
+   "direction": "HOLD",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$170 (current; DCF fair value garbled in captions)",
+   "thesis": "HOLD reiterated, medium conviction. DAU growth re-accelerating (23% then 29%) after the AI-threat response (free-product focus, monetisation secondary), but EPS prospects only recovered to +8%/yr from -30%, margins slipping as freemium focus bites; fairly valued on DCF, slightly undervalued on forward P/E 21.8. 'Moving much closer' to a buy, but not yet.",
+   "base_case": "Monetisation push in 2027, including chess (10m DAU); expenses grow faster than revenue as product investment continues.",
+   "bull_case": "DAU acceleration continues and 2027 monetisation lands, restoring EPS growth toward the old 40-60% pace.",
+   "bear_case": "AI competition re-accelerates; monetisation stays secondary and margins keep slipping."
+  },
+  {
    "video_id": "79nNZtk2cPY",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -49,11 +67,11 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   }
  ]
