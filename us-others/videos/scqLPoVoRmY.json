@@ -1,0 +1,91 @@
+{
+ "video_id": "scqLPoVoRmY",
+ "title": "BUY HEAVY! I Ranked 16 Stocks… Here are the 3 I’m Buying",
+ "creator": "Joseph Hogue, CFA",
+ "handle": "@josephhogue",
+ "published_at": "2026-11-18T16:55:34.210540+00:00",
+ "summary": "Joseph Hogue ranks 16 growth stocks across his three favourite long-term themes — software, fintech and cybersecurity — arguing the recent sell-off threw the baby out with the bathwater and the dip is a buying chance. In software (ServiceNow NOW, Snowflake SNOW, Palantir PLTR, Datadog DDOG, AppLovin APP, Cloudflare NET), he says the AI replacement fear is real but only about 20% of SaaS spending is exposed: Gartner sees $234B exposed to agentic replacement through 2030 while total enterprise application spending grows ~13% a year to $740B by 2029. Spending is shifting to companies that orchestrate and manage AI agents efficiently, which favours NOW (his software buy, ~1.0x PEG) and PLTR (66% growth, 46% EBITDA margin); APP is the weakest, cheap for a reason. In fintech (SoFi SOFI, Coinbase COIN, Robinhood HOOD, PayPal PYPL, Ally ALLY), the post-midterm sell-off hit crypto names hardest (COIN -30%, HOOD -27% in a month) while SOFI, PYPL and ALLY rose; he picks SOFI (35% growth, 1.7x price-to-book) as his fintech buy, citing the Genius Act stablecoin rules from January, and wants HOOD cheaper despite liking it. In cybersecurity (Palo Alto PANW, CrowdStrike CRWD, Zscaler ZS, Okta OKTA, Fortinet FTNT), AI agents are driving demand — Gartner sees AI cybersecurity spending up 68% — and consolidation favours the big platforms; he is buying FTNT (35% EBITDA margin, 2.2x PEG) and still likes ZS at 1.7x PEG, while holding PANW and CRWD at expensive valuations. No price targets are stated; a few caption spots garble numbers (e.g. 'Quinn from Alibaba' for Qwen).",
+ "calls": [
+  {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "thesis": "Cheapest software name at ~1.0x PEG with 20% forward revenue growth and 21% EBITDA margin; best set up for the AI agent orchestration/management spending shift via embedded enterprise workflows; down 30% in a month on AI replacement fears.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "thesis": "66% forward revenue growth (fastest in the software group) and 46% EBITDA margin; AIP connects AI models to real operational decisions and is furthest along in the AI management model; sticky government contracts keep revenue growing; 1.6x PEG is now one of the least expensive on a growth-adjusted basis.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "thesis": "FLIP from HOLD (2026-11-02). 35% forward revenue growth vs 4-6% for traditional banks; best cross-selling across lending, investing and banking plus a tech platform; 1.7x price-to-book is low vs its own history (has traded 2-4x); prime beneficiary of the digital-banking shift and the Genius Act stablecoin rules taking effect in January.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FTNT",
+   "direction": "BUY",
+   "thesis": "35% EBITDA margin, the best profitability in the cybersecurity group; integrated security and networking hardware with custom ASIC technology; 2.2x PEG is relatively good value; last quarter's disappointment front-loaded revenue and he expects a bounce-back in the shares.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "thesis": "Picked up in the past at a lower valuation; 1.7x PEG is the cheapest in the cybersecurity group; 20% forward revenue growth intact and the AI threat is not showing up in revenue; zero-trust architecture still performing, though he is more sceptical it can compete alone against Palo Alto and CrowdStrike.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "HOOD",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "FLIP from BUY (2026-10-26). Beats Coinbase on consumer investing, banking and other services vs custody depth, but at 6.5x price-to-book it is the most expensive in the fintech group; he likes it but wants the shares to come down further before getting excited.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "PANW",
+   "direction": "HOLD",
+   "thesis": "Largest pure-play cybersecurity platform and broadest security offering, wins as enterprises consolidate to fewer vendors; 20-21% growth and 13% EBITDA margin, but 4x PEG is too expensive to add to now; holding and watching for a better valuation.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "CRWD",
+   "direction": "HOLD",
+   "thesis": "Falcon endpoint platform arguably best in the industry and Charlotte AI leads agentic security; 23% growth but only 2% EBITDA margin and 6x PEG, the most expensive in the group; holding and watching for a better valuation.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "OKTA",
+   "direction": "HOLD",
+   "thesis": "Identity access leader that just beat earnings ($1.05 vs $0.97 expected) with its order backlog up 17% to $4.86B, but only ~10% growth in a slower segment and a single product; too small to stand alone, he keeps waiting for a buyout.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  }
+ ]
+}
