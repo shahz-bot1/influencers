@@ -3,6 +3,25 @@
  "slug": "NOW",
  "calls": [
   {
+   "video_id": "8UI6Nu03VL8",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "ServiceNow Stock Down 27% in One Day: Is It a Bargain Now?",
+   "published_at": "2026-11-19T17:00:01.382020+00:00",
+   "analyzed_at": "2026-11-19T19:02:23Z",
+   "collab": false,
+   "ticker": "NOW",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Buy price only $47 (stated); current ~$94-101",
+   "thesis": "AVOID first tracked. Quality company (96-97% renewal, ~700 customers paying $5m+/yr) but 'definitely way too expensive' even after the 27% one-day drop: adjusted P/E 54, P/FCF ~70; would need another ~50% fall to consider buying.",
+   "base_case": "Normal scenario (20% EPS growth 5y, then 9%, exit P/E 20) gives fair price $71, 30% below current.",
+   "bull_case": "Growth re-accelerates above 20% and the Armis acquisition delivers synergies.",
+   "bear_case": "AI competition collapses earnings growth — downside over 80% in his negative scenario.",
+   "fair_value": "$71 normal scenario (stated); buy price $47"
+  },
+  {
    "video_id": "a-ad-B9AU54",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -69,12 +88,16 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 2
   }
  ]
 }
