@@ -3,6 +3,15 @@
  "slug": "NOW",
  "calls": [
   {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "thesis": "Cheapest software name at ~1.0x PEG with 20% forward revenue growth and 21% EBITDA margin; best set up for the AI agent orchestration/management spending shift via embedded enterprise workflows; down 30% in a month on AI replacement fears.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
    "video_id": "yZ04xcND2A4",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
@@ -68,11 +77,11 @@
  ],
  "byInf": [
   {
-   "channel": "Daniel Pronk",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Daniel Pronk",
    "idx": 1
   }
  ]
