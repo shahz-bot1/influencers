@@ -1,0 +1,28 @@
+{
+ "video_id": "eJDVqIMjyk4",
+ "title": "This is So Much Bigger Than the Anthropic IPO (Most Aren’t Ready)",
+ "creator": "MarketBeat",
+ "published_at": "2026-11-18T23:55:16.232992+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "MarketBeat host and guest analyst Thomas Hughes frame the Anthropic IPO (Thursday 19 Nov, about 7x oversubscribed) as the validation moment for the AI trade: Nvidia's earnings showed the buildout is real, and Anthropic's numbers will show whether the demand side can pay for it. Hughes calls Nvidia 'a major buying opportunity', trading at 'literally pennies on the dollar' versus its long-term forecast — mid-teens multiple on the current-year outlook, about 9x next year and about 7x 2029: 'It could rise by 50% right now and still be cheap. It could double in price and still be cheap.' Amazon is the primary Anthropic capacity provider (about $100bn committed over 10 years) and owns almost 15% of Anthropic (about 24% fully converted), so it could move either way on IPO day; retail strength plus AWS enterprise growth are tailwinds. SpaceX also contracts with Anthropic ($120.5bn) but its core is launches and Starlink, so it is unlikely to move much. Microsoft has nearly $50bn of contracted capacity and is an investor. Neoclouds with Anthropic contracts — CoreWeave, SpaceX, Nscale, Lambda, TeraWulf — hold 5-20 year deals, and others such as Nebius, IREN and Applied Digital could move on sentiment given capacity scarcity. Anthropic's revenue run rate is expected near $80bn by year-end and to double next year. Hughes warns capital drained into the IPO may delay the rebound, and the Huang overhang lingers. Calls: NVDA BUY reiterated, AMZN UNCERTAIN (first tracked).",
+ "calls": [
+  {
+   "video_id": "eJDVqIMjyk4",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This is So Much Bigger Than the Anthropic IPO (Most Aren’t Ready)",
+   "published_at": "2026-11-18T23:55:16.232992+00:00",
+   "analyzed_at": "2026-11-19T06:58:35Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 16 Nov). Guest analyst Thomas Hughes: Nvidia is 'a major buying opportunity' - trading at 'literally pennies on the dollar' vs its long-term forecast; mid-teens multiple on current-year outlook, ~9x next year, ~7x 2029. 'It could rise by 50% right now and still be cheap. It could double in price and still be cheap.'",
+   "base_case": "Fundamentals in place, backlogs growing, AI buildout accelerating over coming quarters.",
+   "bull_case": "Anthropic IPO validates the AI trade; the market stops pricing fear and focuses on monetization; NVDA up 50-200% and still cheap on his multiples.",
+   "bear_case": "Huang/CEO uncertainty lingers; capital drained into the Anthropic IPO delays the rebound."
+  }
+ ]
+}
