@@ -1,0 +1,28 @@
+{
+ "video_id": "IMMhyA4Ik5U",
+ "title": "Is Caterpillar a Sneaky Good AI Stock to Buy Right Now? | CAT Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-18T17:00:00.723025+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc asks whether Caterpillar is a buying opportunity after crashing from about $1,000 to about $600. He recommended it as a buy as far back as 2023 but warned investors to take profits above $750, and has said since then it was not a buying opportunity. The old slow-growing dividend stock has been transformed by AI: its power-generation business for data centres is booming, with orders out to 2029 and capacity set to more than triple by 2030, plus autonomous equipment solutions as a second growth source. Management reiterated almost 20% revenue growth this year, but inflation and tariff-driven import costs are squeezing free cash flow to the low end of target as the company absorbs those costs. Even so, margins sit near decade highs (19% cash flow from operations, 18% operating margin) and Wall Street expects over 18% EPS growth for several years. Forward P/E of 18.5 roughly matches EPS growth at a 1:1 ratio. He revised his DCF valuation significantly higher to $531 per share versus about $597 now, so the stock looks fairly valued to slightly overvalued — not a buy yet, but 'another 10 or 15% down and I can see myself upgrading Caterpillar stock to a buy'. Note: the caption file ends mid-sentence, so the closing line is cut off. Calls: CAT CONDITIONAL_BUY at about $507-537 (first tracked).",
+ "calls": [
+  {
+   "video_id": "IMMhyA4Ik5U",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Caterpillar a Sneaky Good AI Stock to Buy Right Now? | CAT Stock Analysis",
+   "published_at": "2026-11-18T17:00:00.723025+00:00",
+   "analyzed_at": "2026-11-19T06:58:35Z",
+   "collab": false,
+   "ticker": "CAT",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$507-537 (10-15% below ~$597)",
+   "thesis": "CONDITIONAL_BUY, first tracked for Parkevtate. Not a buying opportunity at ~$597: fairly valued to slightly overvalued (DCF $531 vs ~$597); forward P/E 18.5 roughly 1x EPS growth. 'Another 10 or 15% down and I can see myself upgrading Caterpillar stock to a buy' (tentative, not a firm trigger). Data-centre power demand booming, orders out to 2029, capacity to triple by 2030; but tariffs/inflation squeeze FCF to the low end of target. Note: caption file ends mid-sentence, so the closing line is cut off.",
+   "base_case": "Over 18% EPS growth over the next several years; operating margins near decade highs (19% cash flow from operations, 18% operating margin).",
+   "bull_case": "Power demand keeps soaring and capacity triples by 2030; data-centre energy bottleneck makes CAT a structural winner.",
+   "bear_case": "Tariffs and inflation keep squeezing margins and free cash flow; valuation stays ahead of the DCF."
+  }
+ ]
+}
