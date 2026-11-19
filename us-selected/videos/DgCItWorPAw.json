@@ -1,0 +1,28 @@
+{
+ "video_id": "DgCItWorPAw",
+ "title": "Why I Doubled Down on This Ridiculously Cheap Semiconductor Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-19T12:55:40.036747+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc explains why he doubled his own Broadcom position last week after the stock crashed from just under $500 to about $333. AI revenue is set to more than double to $115bn next year and double again to $230bn the year after — and that is a supply constraint, not a demand constraint, with data centres lacking ready power to plug Broadcom's products into. Wall Street expects about 55% EPS growth a year, and Broadcom's custom XPU partnerships with Alphabet, OpenAI and others let hyperscalers build proprietary chips instead of relying only on Nvidia or AMD. The operating margin hit a record 48.6%, and the VMware acquisition delivered the synergies management promised — margins now exceed pre-deal levels — unlike serial overpayers such as Salesforce. Return on invested capital is 26%, roughly double the weighted average cost of capital. Despite all this, the stock trades at a forward P/E of just 9.6, the cheapest in years, and his DCF values it at $451 versus $333. He blames negative AI sentiment: Jensen Huang's forced resignation from Nvidia and midterm election results showing voters dislike data centres. He is interested in adding more if the business hits its targets and the valuation stays near these levels. Calls: AVGO BUY at $333 (DCF $451), reiterated.",
+ "calls": [
+  {
+   "video_id": "DgCItWorPAw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why I Doubled Down on This Ridiculously Cheap Semiconductor Stock",
+   "published_at": "2026-11-19T12:55:40.036747+00:00",
+   "analyzed_at": "2026-11-19T14:59:16Z",
+   "collab": false,
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$333 (current; DCF fair value $451)",
+   "thesis": "BUY reiterated - he doubled his own position last week. Broadcom crashed from ~$500 to ~$333 while AI revenue is set to more than double to $115bn next year then $230bn; EPS growth ~55%/yr expected, record 48.6% operating margin, ROIC 26% (~2x WACC), cheapest forward P/E in years at 9.6. Interested in adding more if targets hold and valuation stays near these levels.",
+   "base_case": "Custom XPU partnerships (Alphabet, OpenAI) keep winning data-centre orders; AI revenue doubles twice as guided.",
+   "bull_case": "Demand stays ahead of supply and the backlog converts; valuation re-rates from a historic-low P/E.",
+   "bear_case": "Negative AI sentiment and data-centre ROI worries keep compressing multiples despite the fundamentals."
+  }
+ ]
+}
