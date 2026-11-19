@@ -3,6 +3,62 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "pNosN89lV4s",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "My Thoughts, Calculations, and Ratings on Nvidia Stock After the Earnings Report | NVDA Stock",
+   "published_at": "2026-11-19T18:00:01.382020+00:00",
+   "analyzed_at": "2026-11-19T19:02:23Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Was CONDITIONAL_BUY on 17 Nov; now BUY — upgraded back to a top-10 stock to buy after the Q3 print.",
+   "price_at_call": "~$151 (current); DCF fair value $260 (stated, up ~$4)",
+   "thesis": "BUY — FLIP from CONDITIONAL_BUY (17 Nov). Upgraded to a top-10 buy: Q3 was 'fantastic' — $116B revenue beat by ~$10B, FY28 growth raised 70% to 75%, Vera Rubin the fastest ramp ever; >70% undervalued on DCF at 9.8x forward P/E.",
+   "base_case": "Demand exceeds supply and cloud backlog ($2.5T, +$500B in 3 months) converts as data centres get built.",
+   "bull_case": "Supply unlocks faster than expected and the 75% growth guide proves conservative.",
+   "bear_case": "AI regulation / data-centre build constraints bite; Jensen investigation overhang persists.",
+   "fair_value": "$260 (DCF, stated)"
+  },
+  {
+   "video_id": "jfGG74SIvc4",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Nvidia Just Sent a Massive Signal to AI Stock Investors",
+   "published_at": "2026-11-18T23:55:16.232992+00:00",
+   "analyzed_at": "2026-11-19T06:58:35Z",
+   "collab": true,
+   "collab_byline": "The Motley Fool and Couch Investor",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (prior explicit stance BUY 15 Nov; 18 Nov video logged UNCERTAIN with no explicit call). Q3 huge beat - revenue $115.8bn (+100%+ YoY), data centre $107.6bn, non-GAAP gross margin 74.9%, EPS $2.68; Q4 guide $130bn; FY28 growth outlook raised 70% to 75% (his best case). Interim CEO Kress reaffirmed guidance and AI-ecosystem commitments; 'business as usual' so far. Still has 'strong hopes for Nvidia' and is 'extremely bullish' on the AI cycle long term.",
+   "base_case": "FY28 revenue $740bn+ on the supply-constrained outlook; guidance and neocloud commitments hold.",
+   "bull_case": "FY28 outlook raised again to ~80% at the Q4 print; Vera Rubin ramp lifts revenue toward $800bn.",
+   "bear_case": "CEO overhang lasts weeks/months; a new CEO reopens every question on guidance and commitments; SEC investigation overhang."
+  },
+  {
+   "video_id": "eJDVqIMjyk4",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This is So Much Bigger Than the Anthropic IPO (Most Aren’t Ready)",
+   "published_at": "2026-11-18T23:55:16.232992+00:00",
+   "analyzed_at": "2026-11-19T06:58:35Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 16 Nov). Guest analyst Thomas Hughes: Nvidia is 'a major buying opportunity' - trading at 'literally pennies on the dollar' vs its long-term forecast; mid-teens multiple on current-year outlook, ~9x next year, ~7x 2029. 'It could rise by 50% right now and still be cheap. It could double in price and still be cheap.'",
+   "base_case": "Fundamentals in place, backlogs growing, AI buildout accelerating over coming quarters.",
+   "bull_case": "Anthropic IPO validates the AI trade; the market stops pricing fear and focuses on monetization; NVDA up 50-200% and still cheap on his multiples.",
+   "bear_case": "Huang/CEO uncertainty lingers; capital drained into the Anthropic IPO delays the rebound."
+  },
+  {
    "video_id": "IKdgNxdJ4xU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -758,24 +814,24 @@
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "MarketBeat",
    "idx": 2
   },
   {
-   "channel": "MarketBeat",
-   "idx": 3
-  },
-  {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 4
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 5
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 8
   }
  ]
 }
