@@ -1,0 +1,29 @@
+{
+ "video_id": "xPWXSto_Ssc",
+ "title": "Intuit Stock: Buy or Sell?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-19T16:00:01.382020+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc says Intuit is a buying opportunity at current prices — but he would wait until after its quarterly results, due 19 November, before deciding. The consumer-facing business is struggling as price-sensitive consumers choose free or lower-priced filing options (with the government offering more free services), growing only low-to-mid single digits, while the enterprise segment grows near double digits and offsets the slowdown; overall revenue grew 14% with similar near-double-digit growth forecast. He is most excited about enterprise, where management sees room to raise average revenue per customer by combining its apps with proprietary data and AI into a higher-value platform. Wall Street expects about 12.5% EPS growth a year; he estimates closer to 15%. The operating margin is 29% over the trailing 12 months, near its highest in a decade, helped by the 2023 cost cuts and restructuring. The balance sheet is healthy: $7.2bn in cash and short-term investments against $7.1bn of long-term debt, which could be paid off entirely if management wanted. Valuation looks attractive at a forward P/E of 12.8 — near the cheapest in years — with a PEG ratio near 1. Waiting for the print is lower risk, he argues, even at the cost of missing some upside, given negative investor sentiment and a market inclined to move shares lower. Calls: INTU CONDITIONAL_BUY (first tracked).",
+ "calls": [
+  {
+   "video_id": "xPWXSto_Ssc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Intuit Stock: Buy or Sell?",
+   "published_at": "2026-11-19T16:00:01.382020+00:00",
+   "analyzed_at": "2026-11-19T19:02:23Z",
+   "collab": false,
+   "ticker": "INTU",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Forward P/E 12.8 (stated); PEG ~1",
+   "thesis": "CONDITIONAL_BUY first tracked. Yes, a buying opportunity at current prices — but wait until after the Q3 results (due 19 Nov) before deciding; lower risk then, even at the cost of missing some upside.",
+   "base_case": "Enterprise segment (near double-digit growth, rising ARPU via AI platform) offsets a price-sensitive consumer side; EPS growth ~15%/yr vs ~12.5% street.",
+   "bull_case": "Enterprise AI monetisation lifts ARPU faster than expected and EPS beats the street.",
+   "bear_case": "Consumer price sensitivity deepens and growth misses again.",
+   "fair_value": "Not stated"
+  }
+ ]
+}
