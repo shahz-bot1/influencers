@@ -3,6 +3,24 @@
  "slug": "ASML",
  "calls": [
   {
+   "video_id": "RZwNKN89BmU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is ASML Stock Falling, and is it a Buying Opportunity?",
+   "published_at": "2026-11-19T14:45:40.036747+00:00",
+   "analyzed_at": "2026-11-19T14:59:16Z",
+   "collab": false,
+   "ticker": "ASML",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "UNCERTAIN -> BUY",
+   "price_at_call": "~$1,420 (current price; DCF fair value garbled in captions, described as very close to $1,420)",
+   "thesis": "FLIP from UNCERTAIN (Oct 19). Upgraded ASML to a buying opportunity on 16 Nov 2026: excellent business now fairly valued after falling from a $2,000 52-week high to ~$1,420. Supply-constrained lithography leader, EPS expected to grow 33%/yr, orders out to 2030, pricing power, record 38.5% operating margin, forward P/E 22.5.",
+   "base_case": "EPS growth ~33%/yr for several years; revenue booming with orders out to 2030 and price increases rolling in through 2028.",
+   "bull_case": "Supply stays constrained and pricing power lifts margins further; manufacturing-facility buildout keeps demand ahead of supply.",
+   "bear_case": "A data-centre construction slowdown indirectly hits equipment demand; negative AI sentiment keeps multiples compressed."
+  },
+  {
    "video_id": "79nNZtk2cPY",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -77,12 +95,16 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 2
   }
  ]
 }
