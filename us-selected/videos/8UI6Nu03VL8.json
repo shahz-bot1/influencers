@@ -1,0 +1,29 @@
+{
+ "video_id": "8UI6Nu03VL8",
+ "title": "ServiceNow Stock Down 27% in One Day: Is It a Bargain Now?",
+ "creator": "The German Value Investor",
+ "published_at": "2026-11-19T17:00:01.382020+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "The German Value Investor asks whether ServiceNow is a bargain after its 27% one-day drop on 29 October — its biggest single-day fall since the IPO — and a near-60% slide since February 2025. The quality is real: revenue grew from $400m in 2013 to $13-15bn today, the company has been profitable since 2019 (about $1.7bn profit, net margin around 10-13%), and 96-97% of customers have renewed every year since 2016, with almost 700 of 8,700 customers paying $5m or more a year. But growth is fading (30-40% in 2017-2021, just over 20% since, and contracted revenue for the next 12 months only about 19% above the prior year) and the price is still far too high: adjusted P/E about 54 (headline 73-74; the forward P/E of about 23 is misleading because it ignores stock-based compensation), and price-to-free-cash-flow near 70. The balance sheet deteriorated after the $8bn Armis acquisition (over 20x sales, completed 20 April): net cash fell from nearly $10bn to under $1bn. In the latest quarter revenue rose 20% ($3.4bn to $4.1bn) but operating income only 10% and net income fell from $500m to nearly $300m; over $2bn of buybacks in nine months were mostly offset by $1.8bn of stock-based compensation, which consumes about two-thirds of operating cash flow. The CEO bought $3m in February at about $15 — the current level — but sold over $40m the month before, which he reads as signalling rather than conviction. His scenario calculator gives a normal-scenario fair price of $71 (30% below current) and a buy price of only $47, with over 80% downside in the negative scenario. Calls: NOW AVOID (first tracked).",
+ "calls": [
+  {
+   "video_id": "8UI6Nu03VL8",
+   "channel": "The German Value Investor",
+   "handle": "@TheGermanValueInvestor",
+   "video_title": "ServiceNow Stock Down 27% in One Day: Is It a Bargain Now?",
+   "published_at": "2026-11-19T17:00:01.382020+00:00",
+   "analyzed_at": "2026-11-19T19:02:23Z",
+   "collab": false,
+   "ticker": "NOW",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Buy price only $47 (stated); current ~$94-101",
+   "thesis": "AVOID first tracked. Quality company (96-97% renewal, ~700 customers paying $5m+/yr) but 'definitely way too expensive' even after the 27% one-day drop: adjusted P/E 54, P/FCF ~70; would need another ~50% fall to consider buying.",
+   "base_case": "Normal scenario (20% EPS growth 5y, then 9%, exit P/E 20) gives fair price $71, 30% below current.",
+   "bull_case": "Growth re-accelerates above 20% and the Armis acquisition delivers synergies.",
+   "bear_case": "AI competition collapses earnings growth — downside over 80% in his negative scenario.",
+   "fair_value": "$71 normal scenario (stated); buy price $47"
+  }
+ ]
+}
