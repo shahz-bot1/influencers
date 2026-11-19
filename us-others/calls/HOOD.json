@@ -3,6 +3,15 @@
  "slug": "HOOD",
  "calls": [
   {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "HOOD",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "FLIP from BUY (2026-10-26). Beats Coinbase on consumer investing, banking and other services vs custody depth, but at 6.5x price-to-book it is the most expensive in the fintech group; he likes it but wants the shares to come down further before getting excited.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
    "video_id": "S3pQiAXNVPU",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -43,7 +52,7 @@
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
