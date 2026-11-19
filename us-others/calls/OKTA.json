@@ -3,6 +3,15 @@
  "slug": "OKTA",
  "calls": [
   {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "OKTA",
+   "direction": "HOLD",
+   "thesis": "Identity access leader that just beat earnings ($1.05 vs $0.97 expected) with its order backlog up 17% to $4.86B, but only ~10% growth in a slower segment and a single product; too small to stand alone, he keeps waiting for a buyout.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
    "video_id": "XHNZMOhHa8g",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
