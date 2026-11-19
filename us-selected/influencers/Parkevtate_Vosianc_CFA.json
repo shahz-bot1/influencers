@@ -4,6 +4,54 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "ANT",
+   "tickerSlug": "ANT",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-19T19:58:13.934305+00:00",
+   "price": "$83 IPO price (waiting for shares to settle; no entry level stated)",
+   "video_id": "pIj2206VQMc"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-19T18:00:01.382020+00:00",
+   "price": "~$151 (current); DCF fair value $260 (stated, up ~$4)",
+   "video_id": "pNosN89lV4s"
+  },
+  {
+   "ticker": "INTU",
+   "tickerSlug": "INTU",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-19T16:00:01.382020+00:00",
+   "price": "Forward P/E 12.8 (stated); PEG ~1",
+   "video_id": "xPWXSto_Ssc"
+  },
+  {
+   "ticker": "ASML",
+   "tickerSlug": "ASML",
+   "direction": "BUY",
+   "date": "2026-11-19T14:45:40.036747+00:00",
+   "price": "~$1,420 (current price; DCF fair value garbled in captions, described as very close to $1,420)",
+   "video_id": "RZwNKN89BmU"
+  },
+  {
+   "ticker": "DUOL",
+   "tickerSlug": "DUOL",
+   "direction": "HOLD",
+   "date": "2026-11-19T13:55:40.036747+00:00",
+   "price": "$170 (current; DCF fair value garbled in captions)",
+   "video_id": "4WgW4mZuqQU"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-19T12:55:40.036747+00:00",
+   "price": "$333 (current; DCF fair value $451)",
+   "video_id": "DgCItWorPAw"
+  },
+  {
    "ticker": "AMAT",
    "tickerSlug": "AMAT",
    "direction": "BUY",
@@ -18,6 +66,14 @@
    "date": "2026-11-18T18:00:00.723025+00:00",
    "price": "~$661 (stated); DCF fair value $573",
    "video_id": "28hqE3dkBQE"
+  },
+  {
+   "ticker": "CAT",
+   "tickerSlug": "CAT",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-18T17:00:00.723025+00:00",
+   "price": "~$507-537 (10-15% below ~$597)",
+   "video_id": "IMMhyA4Ik5U"
   },
   {
    "ticker": "CRWV",
