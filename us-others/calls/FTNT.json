@@ -3,6 +3,15 @@
  "slug": "FTNT",
  "calls": [
   {
+   "video_id": "scqLPoVoRmY",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "FTNT",
+   "direction": "BUY",
+   "thesis": "35% EBITDA margin, the best profitability in the cybersecurity group; integrated security and networking hardware with custom ASIC technology; 2.2x PEG is relatively good value; last quarter's disappointment front-loaded revenue and he expects a bounce-back in the shares.",
+   "analyzed_at": "2026-11-19T04:57:50.440891+00:00"
+  },
+  {
    "video_id": "yZ04xcND2A4",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
@@ -68,11 +77,11 @@
  ],
  "byInf": [
   {
-   "channel": "Daniel Pronk",
+   "channel": "Joseph Hogue, CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Hogue, CFA",
+   "channel": "Daniel Pronk",
    "idx": 1
   }
  ]
