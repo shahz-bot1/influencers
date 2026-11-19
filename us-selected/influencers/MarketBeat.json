@@ -7,6 +7,14 @@
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
+   "date": "2026-11-18T23:55:16.232992+00:00",
+   "price": null,
+   "video_id": "eJDVqIMjyk4"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
    "date": "2026-11-15T23:55:20.097935+00:00",
    "price": "not stated",
    "video_id": "F7tWKK4CqlY"
