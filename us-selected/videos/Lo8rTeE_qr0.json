@@ -1,0 +1,29 @@
+{
+ "video_id": "Lo8rTeE_qr0",
+ "title": "Stock Market Crash: Why is the Stock Market Crashing, and What I am Doing With My Stock? | NVDA, MU",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-20T21:58:17.978348+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc addresses the market sell-off after another major day of selling on Thursday 19 November, despite Anthropic's successful IPO, with the Nasdaq down roughly 10% over the last month. He traces the selling to the US election results, where Democrats and politicians opposed to data-centre building won, raising fears that data-centre construction could slow. In the short term he sees Micron and SK Hynix as the most exposed: memory prices are up 200-400% on severe shortages and both are earning operating margins above 80%, which he calls unprecedented and unsustainable beyond about 24 months. But both trade at forward P/E under 3, so the market already prices in the slowdown, and their balance sheets are strong. Nvidia, AMD, Broadcom and Marvell are less exposed, he argues, because their growth comes from rising volumes and services rather than prices, and Nvidia trades at a forward P/E of 10 or less. Longer term, his biggest worry is AI-driven mass layoffs — over 100,000 jobs a month — crushing consumer spending and with it the cash flows funding AI investment. A slower build-out, spread over five years instead of three, would actually be positive, he argues, giving workers time to adapt and reducing waste. He owns Micron, is not selling, and is interested in adding more; his cash position is at its lowest in a long time as he has been buying more in recent weeks than ever. He also announces his book on his six-step investing framework and a members-only Q&A on the first Monday of December. Note: captions garble names (Jensen Huang as 'Jensen Hong', SK Hynix as 'SKH Highix'). Calls: MU BUY reiterated; NVDA UNCERTAIN (discussed positively, no explicit buy).",
+ "calls": [
+  {
+   "video_id": "Lo8rTeE_qr0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Stock Market Crash: Why is the Stock Market Crashing, and What I am Doing With My Stock? | NVDA, MU",
+   "published_at": "2026-11-20T21:58:17.978348+00:00",
+   "analyzed_at": "2026-11-20T23:07:35Z",
+   "collab": false,
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Not stated; forward P/E ~3 (stated); DCF fair value more than 2x market price (stated)",
+   "thesis": "BUY reiterated (prior BUY earlier today and 11 Nov, no flip). 'I'm not selling it. In fact, I'm interested in adding more.' He owns Micron; forward P/E ~3 and his DCF fair value is more than twice the market price. He has been buying more stocks in recent weeks than ever before and his cash position is at its lowest percentage in a long time — when there is widespread fear, 'that's when I feel most encouraged about buying stocks'.",
+   "base_case": "Memory shortages persist and Micron stays sold out through 2027; strong balance sheet, very profitable, no danger of missing debt payments.",
+   "bull_case": "Prices stay elevated and 80%+ operating margins persist another year or two; data-centre replacement cycle in 2029-30 adds a new demand source.",
+   "bear_case": "80%+ operating margins and triple-digit price rises are unsustainable; a data-centre slowdown cuts memory prices dramatically and near-term sales and profits decline; new capacity from late 2027 compresses returns.",
+   "fair_value": "More than 2x market price (DCF, stated; exact figure not given)"
+  }
+ ]
+}
