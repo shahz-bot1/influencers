@@ -1,0 +1,28 @@
+{
+ "ticker": "PSN",
+ "slug": "PSN",
+ "calls": [
+  {
+   "video_id": "WSpxSDpXmGo",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This Pullback is a Gift. I'm Buying These 3 Stocks NOW.",
+   "published_at": "2026-11-19T23:55:18.275157+00:00",
+   "ticker": "PSN",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$5.5B mkt cap; EPS $2.46 this yr (P/E ~21), $3.39 next yr (P/E ~15, 14 analysts); P/S below 1 (stated)",
+   "thesis": "Direct play on modernising US air-traffic control after the FAA groundings: just won a ~$600M FAA contract extension for air-traffic facilities, comms, radar, navigation and power; DoT has asked for ~$50B more, and Parsons is positioned for a slice.",
+   "base_case": "Headline-driven but cheap on sales and earnings; EPS rebounds next year as contracts land.",
+   "bull_case": "Bipartisan pressure to fund ATC modernisation turns into multi-billion-dollar awards; a $5.5B company moves a lot on hundred-million contracts.",
+   "bear_case": "Event-driven volatility: contracts roll off (EPS -22% YoY this year) and gaps between awards hurt; funding depends on politics.",
+   "analyzed_at": "2026-11-20T06:56:51.720193+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
