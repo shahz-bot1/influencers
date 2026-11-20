@@ -1,0 +1,48 @@
+{
+ "ticker": "ANT",
+ "slug": "ANT",
+ "calls": [
+  {
+   "video_id": "vEJ58cI6zSY",
+   "video_title": "The Stock Market Is Crashing - What I'm Doing Now",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ANT",
+   "direction": "AVOID",
+   "thesis": "Not buying the Anthropic IPO. IPOs come at peak enthusiasm and peak prices (Graham: 'it's probably overpriced'); even his lawyer asked him about it, a sign of peak hype. May get interested in the trough years after the IPO, when newly listed companies are usually cheapest.",
+   "base_case": "Anthropic's quarterly reporting gives transparency into frontier-lab economics; good numbers support the AI trade, bad numbers spread pessimism across AI.",
+   "bull_case": "Strong Anthropic numbers lift Amazon, Google, Microsoft and Broadcom, which benefit from its spending.",
+   "bear_case": "Weak Anthropic numbers spread negative sentiment across chips, infrastructure and construction.",
+   "stated_price": "IPO priced at $83",
+   "published_at": "2026-11-19T22:55:34.818034+00:00",
+   "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+   "stance_flip": false
+  },
+  {
+   "video_id": "3CzqG_CNg8g",
+   "video_title": "Anthropic IPO: Why I'm Watching (And Why You Should Wait)",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "ANT",
+   "direction": "AVOID",
+   "thesis": "Don't buy on IPO day - wait. IPOs often pop then sink over 6 months; the better buying opportunity usually comes 6-24 months later. At ~$100 expected open (~$1.5-1.6T valuation, ~25x sales) growth is slowing (~47% QoQ) as competition rises and token prices fall, R&D/training spend is eating margins, and founders hold 50.1% voting via Class F so shareholders have no real vote. Anthropic could join his portfolio later.",
+   "base_case": "Growth slows to 30-40% YoY and the ~25x sales multiple proves too rich.",
+   "bull_case": "Growth stays near 10x YoY and 25x sales is a fair price; the cult-like mission drives a durable winner.",
+   "bear_case": "Margins keep falling as training spend rises while revenue growth slows; weak numbers spread pessimism across the whole AI sector.",
+   "stated_price": "IPO $83; expected open ~$100",
+   "published_at": "2026-11-19T16:55:34.818034+00:00",
+   "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+   "stance_flip": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Daniel Pronk",
+   "idx": 0
+  },
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 1
+  }
+ ]
+}
