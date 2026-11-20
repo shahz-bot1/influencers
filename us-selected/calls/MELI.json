@@ -3,6 +3,25 @@
  "slug": "MELI",
  "calls": [
   {
+   "video_id": "G7QAXqMVtbw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should investors Buy Sea Limited Stock Instead of Mercado Libre Stock?",
+   "published_at": "2026-11-20T13:55:42.402720+00:00",
+   "analyzed_at": "2026-11-20T14:58:06Z",
+   "collab": false,
+   "ticker": "MELI",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Forward P/E 27 (stated); 28% EPS growth forecast; DCF fair value not legible in captions",
+   "thesis": "BUY reiterated (prior BUY 9 Nov, no flip). Ranks both MELI and SE as buying opportunities, but picks MELI as the better buy of the two today: 28% EPS growth forecast vs SE's 18.5%, and a free-shipping threshold cut that has reinvigorated customer growth, though it is pressuring margins.",
+   "base_case": "Lower free-shipping threshold drives customer growth; huge LatAm total addressable market; margins could reach mid-double digits at maturity.",
+   "bull_case": "Growth converts to margin expansion as scale builds; DCF says undervalued (figure garbled in captions).",
+   "bear_case": "Free-shipping policy keeps squeezing margins (operating margin 7.4% and falling); ROIC 7.8% and flat-to-down over a decade as growth was prioritised over profitability.",
+   "fair_value": "Not stated (captions garbled)"
+  },
+  {
    "video_id": "tUvjqIrih14",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -155,19 +174,19 @@
   },
   {
    "channel": "Couch Investor",
-   "idx": 1
-  },
-  {
-   "channel": "Mark Roussin CPA",
    "idx": 2
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 3
   },
   {
+   "channel": "MarketBeat",
+   "idx": 4
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
