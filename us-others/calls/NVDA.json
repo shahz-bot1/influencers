@@ -3,6 +3,21 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "vEJ58cI6zSY",
+   "video_title": "The Stock Market Is Crashing - What I'm Doing Now",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "NVDA",
+   "direction": "AVOID",
+   "thesis": "Q3 was fantastic - every metric up >100% YoY on $116B quarterly revenue, 70% growth guided next year, ~14x forward P/E - but semiconductors stay in his too-hard pile: he cannot predict long-term earnings beyond 2030 once hyperscaler capex growth slows and custom chips compress margins. Jensen's exit is a downgrade, but the business has too much momentum to stall.",
+   "base_case": "Business as usual; keeps growing ~70% next year on supply-constrained demand.",
+   "bull_case": "Keeps posting huge results and the market regains faith; 14x forward P/E proves very cheap.",
+   "bear_case": "Hyperscaler capex deceleration plus custom-chip competition compresses margins, so 14x today looks expensive by 2030.",
+   "published_at": "2026-11-19T22:55:34.818034+00:00",
+   "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+   "stance_flip": false
+  },
+  {
    "video_id": "ro12y589YEA",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -212,24 +227,24 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Daniel Pronk",
    "idx": 0
   },
   {
-   "channel": "Asymmetric Investing",
-   "idx": 2
+   "channel": "Jose Najarro Stocks",
+   "idx": 1
   },
   {
-   "channel": "Daniel Pronk",
-   "idx": 4
+   "channel": "Asymmetric Investing",
+   "idx": 3
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "Tom Nash",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
