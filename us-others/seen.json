@@ -67,10 +67,10 @@
  "Of4_80Z_cvY": {
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio: October Stock Buys",
-  "published_at": "2026-10-20T04:55:34.210540+00:00",
-  "analyzed_at": "2026-11-19T04:57:50.440891+00:00",
+  "published_at": "2026-10-21T04:55:34.818034+00:00",
+  "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
   "alerted": false,
-  "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
+  "skipped": "members-only (Billionaire tier)"
  },
  "cduwJEIVyKs": {
   "channel": "Asymmetric Investing",
@@ -493,10 +493,10 @@
  "A8juPdhm1aM": {
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio Buys - November 2026",
-  "published_at": "2026-11-05T04:55:34.210540+00:00",
-  "analyzed_at": "2026-11-19T04:57:50.440891+00:00",
+  "published_at": "2026-11-06T04:55:34.818034+00:00",
+  "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
   "alerted": false,
-  "skipped": "This video is available to this channel's members on level: Billionaire (or any higher priced level)."
+  "skipped": "members-only (Billionaire tier)"
  },
  "ekFi9ecbelQ": {
   "channel": "Asymmetric Investing",
@@ -638,6 +638,20 @@
   "title": "BUY HEAVY! I Ranked 16 Stocks\u2026 Here are the 3 I\u2019m Buying",
   "published_at": "2026-11-18T16:55:34.210540+00:00",
   "analyzed_at": "2026-11-19T04:57:50.440891+00:00",
+  "alerted": true
+ },
+ "vEJ58cI6zSY": {
+  "channel": "Daniel Pronk",
+  "title": "The Stock Market Is Crashing - What I'm Doing Now",
+  "published_at": "2026-11-19T22:55:34.818034+00:00",
+  "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+  "alerted": true
+ },
+ "3CzqG_CNg8g": {
+  "channel": "Asymmetric Investing",
+  "title": "Anthropic IPO: Why I'm Watching (And Why You Should Wait)",
+  "published_at": "2026-11-19T16:55:34.818034+00:00",
+  "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
   "alerted": true
  }
 }
