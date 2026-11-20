@@ -3,6 +3,22 @@
  "slug": "VZ",
  "calls": [
   {
+   "video_id": "I98Yg84q2Cg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Best Stock to Buy: TMobile vs AT&T vs Verizon",
+   "published_at": "2026-11-20T16:00:08.790688+00:00",
+   "ticker": "VZ",
+   "direction": "BUY",
+   "stated_price": "~$44 (implied: FV $57, ~23% below)",
+   "fair_value": "$57 (his DCF)",
+   "thesis": "Undervalued ~23% vs DCF fair value $57; cheapest alongside AT&T at forward P/E 8.7; industry pricing discipline keeps margins lucrative.",
+   "base_case": "Slowest forecast EPS growth of the three (7%/yr) but undervalued on both P/E and DCF.",
+   "bull_case": "Best operating margin of the three (~24%) and growing since 2017; no price war among the three.",
+   "bear_case": "Highest debt load ($184B+); slowest growth; satellite entrants (SpaceX/Amazon) threaten the moat.",
+   "analyzed_at": "2026-11-20T19:02:00Z"
+  },
+  {
    "video_id": "_NAN4LisAtQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
