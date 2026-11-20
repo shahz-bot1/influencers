@@ -1,0 +1,43 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-20T12:55:42.402720+00:00",
+ "summary": "Parkevtate Vosianc compares Micron (MU) and Intel (INTC) as semiconductor stocks sell off despite booming earnings, sales and demand. Intel is expected to deliver 75% earnings-per-share growth a year for the next several years — its highest estimates in many years — as agentic AI lifts demand for CPUs, where Intel is a top-three data-centre player, even though it has no competitive GPU. Micron's EPS growth estimates peaked at 175% earlier in 2026 and have come back to 55%. The key difference is the source of growth: Intel's comes from selling more units, while Micron's comes from soaring memory prices — up triple digits in some quarters — on severe shortages, with supply sold out through 2027 and 2028 almost sold out. Micron has posted quarterly operating margins above 80% in its last two quarters, the highest he has seen in nearly a decade of coverage, and return on invested capital of 89% versus Intel at minus 7%. Intel's foundry business still lacks third-party customers and has spare capacity, keeping margins compressed, and its heavy manufacturing investment has expanded its capital base. On valuation, Intel trades at nearly 10x Micron's forward P/E; Micron is at just 3.3x. His DCF puts Intel fairly valued at $50 versus $54, and Micron at $1,539 versus $691. He owns Micron, not Intel. Calls: MU BUY at about $691, INTC AVOID at about $54 — a flip from HOLD.",
+ "title": "Best Semiconductor Stocks to Buy: Micron vs. Intel | MU Stock vs. INTC Stock",
+ "video_id": "hventP5IMrQ",
+ "source_note": "Detailed summary generated from video captions",
+ "calls": [
+  {
+   "video_id": "hventP5IMrQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Best Semiconductor Stocks to Buy: Micron vs. Intel | MU Stock vs. INTC Stock",
+   "published_at": "2026-11-20T12:55:42.402720+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "stated_price": "~$691 (current, stated)",
+   "fair_value": "$1,539 (his DCF)",
+   "thesis": "Ridiculously cheap: forward P/E 3.3 and DCF FV $1,539 vs ~$691; 80%+ operating margins two quarters running, ROIC 89%, sold out through 2027 with data-center demand into 2028. His pick over Intel; he owns it.",
+   "base_case": "Earnings growth moderates and may turn slightly negative ~2029-30, but data-center replacement cycle (2029-30) adds a new demand source.",
+   "bull_case": "Memory shortages persist into 2028, prices stay elevated, ROIC stays above 80% for another year or two.",
+   "bear_case": "Triple-digit price rises are not sustainable; new capacity from late 2027 could compress ROIC back toward 30%.",
+   "analyzed_at": "2026-11-20T19:02:00Z"
+  },
+  {
+   "video_id": "hventP5IMrQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Best Semiconductor Stocks to Buy: Micron vs. Intel | MU Stock vs. INTC Stock",
+   "published_at": "2026-11-20T12:55:42.402720+00:00",
+   "ticker": "INTC",
+   "direction": "AVOID",
+   "flip": true,
+   "stated_price": "~$54 (current, stated)",
+   "fair_value": "$50 (his DCF)",
+   "thesis": "Fairly valued on his DCF ($50 vs $54) and he is 'not interested in owning Intel at anywhere near these market prices' — despite 75%/yr forecast EPS growth and agentic-AI CPU demand. He owns Micron, not Intel.",
+   "base_case": "CPU demand from agentic AI lifts sales after years of manufacturing investment; branded CPUs growing.",
+   "bull_case": "Agentic AI improves the GPU/CPU ratio in data centers in Intel's favour; foundry eventually wins third-party customers.",
+   "bear_case": "Foundry still lacks customers with excess capacity compressing margins; ROIC -7%; government-stake excitement ran ahead of performance.",
+   "analyzed_at": "2026-11-20T19:02:00Z"
+  }
+ ]
+}
