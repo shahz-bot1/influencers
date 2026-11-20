@@ -1,0 +1,48 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-20T13:55:42.402720+00:00",
+ "summary": "Parkevtate Vosianc compares Mercado Libre (MELI) and Sea Limited (SE) head to head as both face investor pessimism over rising delivery costs, consumer pressure and potential defaults. Wall Street expects MELI to grow earnings per share by 28% a year over the next several years, ahead of SE at 18.5%. MELI recently lowered its free-shipping threshold, reinvigorating customer growth but pressuring margins: its operating margin is 7.4% and declining, and return on invested capital is 7.8% and falling, as management prioritises growth over profitability. SE, which runs e-commerce, financial services and gaming — gaming being the highest-margin segment, though e-commerce and financial services are growing faster — has a 7.8% operating margin that is improving dramatically, and ROIC of 11% and rising, partly by renting rather than owning logistics assets. On valuation, MELI trades at 27x forward earnings versus SE at 14.6x. His discounted cash flow model values SE at $104 against a $70 market price, near its 52-week low, so SE looks undervalued; MELI also looks undervalued, though the caption garbles the passage and omits both his MELI fair-value figure and its current price. He ranks both as buying opportunities, but if forced to pick one he would choose MELI. Calls: MELI BUY, SE BUY at about $70.",
+ "title": "Should investors Buy Sea Limited Stock Instead of Mercado Libre Stock?",
+ "video_id": "G7QAXqMVtbw",
+ "source_note": "Detailed summary generated from video captions",
+ "calls": [
+  {
+   "video_id": "G7QAXqMVtbw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should investors Buy Sea Limited Stock Instead of Mercado Libre Stock?",
+   "published_at": "2026-11-20T13:55:42.402720+00:00",
+   "analyzed_at": "2026-11-20T14:58:06Z",
+   "collab": false,
+   "ticker": "MELI",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Forward P/E 27 (stated); 28% EPS growth forecast; DCF fair value not legible in captions",
+   "thesis": "BUY reiterated (prior BUY 9 Nov, no flip). Ranks both MELI and SE as buying opportunities, but picks MELI as the better buy of the two today: 28% EPS growth forecast vs SE's 18.5%, and a free-shipping threshold cut that has reinvigorated customer growth, though it is pressuring margins.",
+   "base_case": "Lower free-shipping threshold drives customer growth; huge LatAm total addressable market; margins could reach mid-double digits at maturity.",
+   "bull_case": "Growth converts to margin expansion as scale builds; DCF says undervalued (figure garbled in captions).",
+   "bear_case": "Free-shipping policy keeps squeezing margins (operating margin 7.4% and falling); ROIC 7.8% and flat-to-down over a decade as growth was prioritised over profitability.",
+   "fair_value": "Not stated (captions garbled)"
+  },
+  {
+   "video_id": "G7QAXqMVtbw",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should investors Buy Sea Limited Stock Instead of Mercado Libre Stock?",
+   "published_at": "2026-11-20T13:55:42.402720+00:00",
+   "analyzed_at": "2026-11-20T14:58:06Z",
+   "collab": false,
+   "ticker": "SE",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$70 market (stated); DCF fair value $104; forward P/E 14.6",
+   "thesis": "BUY reiterated (prior BUY 11 Nov, no flip). Ranks SE a buying opportunity near its 52-week low: forward P/E 14.6 vs 18.5% EPS growth, DCF fair value $104 vs ~$70 market; e-commerce and financial services growing faster than the higher-margin gaming segment, ROIC 11% and improving.",
+   "base_case": "E-commerce + fintech growth outpaces gaming; renting (not owning) logistics turns fixed costs variable; margins ~7.8% and improving.",
+   "bull_case": "Margins expand toward mid-double digits at maturity; DCF fair value $104 implies ~49% upside from ~$70.",
+   "bear_case": "Consumer pressure and delivery costs weigh on both names; e-commerce is capital-intensive and the gaming segment (highest margins) is growing slowest.",
+   "fair_value": "$104 (DCF, stated)"
+  }
+ ]
+}
