@@ -4,6 +4,78 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-20T21:58:17.978348+00:00",
+   "price": "Not stated; forward P/E ~3 (stated); DCF fair value more than 2x market price (stated)",
+   "video_id": "Lo8rTeE_qr0"
+  },
+  {
+   "ticker": "TMUS",
+   "tickerSlug": "TMUS",
+   "direction": "BUY",
+   "date": "2026-11-20T16:00:08.790688+00:00",
+   "price": null,
+   "video_id": "I98Yg84q2Cg"
+  },
+  {
+   "ticker": "VZ",
+   "tickerSlug": "VZ",
+   "direction": "BUY",
+   "date": "2026-11-20T16:00:08.790688+00:00",
+   "price": null,
+   "video_id": "I98Yg84q2Cg"
+  },
+  {
+   "ticker": "T",
+   "tickerSlug": "T",
+   "direction": "BUY",
+   "date": "2026-11-20T16:00:08.790688+00:00",
+   "price": null,
+   "video_id": "I98Yg84q2Cg"
+  },
+  {
+   "ticker": "LRCX",
+   "tickerSlug": "LRCX",
+   "direction": "BUY",
+   "date": "2026-11-20T14:45:42.402720+00:00",
+   "price": "~$206 (stated); DCF fair value ~$198; forward P/E 16.8",
+   "video_id": "K3WFkbPw1o8"
+  },
+  {
+   "ticker": "MELI",
+   "tickerSlug": "MELI",
+   "direction": "BUY",
+   "date": "2026-11-20T13:55:42.402720+00:00",
+   "price": "Forward P/E 27 (stated); 28% EPS growth forecast; DCF fair value not legible in captions",
+   "video_id": "G7QAXqMVtbw"
+  },
+  {
+   "ticker": "SE",
+   "tickerSlug": "SE",
+   "direction": "BUY",
+   "date": "2026-11-20T13:55:42.402720+00:00",
+   "price": "~$70 market (stated); DCF fair value $104; forward P/E 14.6",
+   "video_id": "G7QAXqMVtbw"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-20T12:55:42.402720+00:00",
+   "price": null,
+   "video_id": "hventP5IMrQ"
+  },
+  {
+   "ticker": "INTC",
+   "tickerSlug": "INTC",
+   "direction": "AVOID",
+   "date": "2026-11-20T12:55:42.402720+00:00",
+   "price": null,
+   "video_id": "hventP5IMrQ"
+  },
+  {
    "ticker": "ANT",
    "tickerSlug": "ANT",
    "direction": "CONDITIONAL_BUY",
