@@ -1,0 +1,28 @@
+{
+ "ticker": "ATEN",
+ "slug": "ATEN",
+ "calls": [
+  {
+   "video_id": "WSpxSDpXmGo",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This Pullback is a Gift. I'm Buying These 3 Stocks NOW.",
+   "published_at": "2026-11-19T23:55:18.275157+00:00",
+   "ticker": "ATEN",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$2.3B mkt cap; fwd P/E ~25 (stated); up ~90% YTD",
+   "thesis": "Small-cap cybersecurity niche: blocks DDoS floods and routes legitimate traffic so sites/apps stay reachable; cheap vs CrowdStrike (~147x fwd earnings) at 1/100th the size, with room to grow 5x and still be a fraction of CRWD.",
+   "base_case": "Cyberattacks keep coming; specialist players with real fundamentals survive and compound.",
+   "bull_case": "5x upside still leaves it far smaller than CrowdStrike; mid-cap cyber names get bought out or re-rate.",
+   "bear_case": "Not every small cyber name makes it; up ~100% YTD so momentum buyers may be late; not a full-stack player like CRWD/PANW.",
+   "analyzed_at": "2026-11-20T06:56:51.720193+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
