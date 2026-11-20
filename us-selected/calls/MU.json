@@ -3,6 +3,41 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "Lo8rTeE_qr0",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Stock Market Crash: Why is the Stock Market Crashing, and What I am Doing With My Stock? | NVDA, MU",
+   "published_at": "2026-11-20T21:58:17.978348+00:00",
+   "analyzed_at": "2026-11-20T23:07:35Z",
+   "collab": false,
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Not stated; forward P/E ~3 (stated); DCF fair value more than 2x market price (stated)",
+   "thesis": "BUY reiterated (prior BUY earlier today and 11 Nov, no flip). 'I'm not selling it. In fact, I'm interested in adding more.' He owns Micron; forward P/E ~3 and his DCF fair value is more than twice the market price. He has been buying more stocks in recent weeks than ever before and his cash position is at its lowest percentage in a long time — when there is widespread fear, 'that's when I feel most encouraged about buying stocks'.",
+   "base_case": "Memory shortages persist and Micron stays sold out through 2027; strong balance sheet, very profitable, no danger of missing debt payments.",
+   "bull_case": "Prices stay elevated and 80%+ operating margins persist another year or two; data-centre replacement cycle in 2029-30 adds a new demand source.",
+   "bear_case": "80%+ operating margins and triple-digit price rises are unsustainable; a data-centre slowdown cuts memory prices dramatically and near-term sales and profits decline; new capacity from late 2027 compresses returns.",
+   "fair_value": "More than 2x market price (DCF, stated; exact figure not given)"
+  },
+  {
+   "video_id": "hventP5IMrQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Best Semiconductor Stocks to Buy: Micron vs. Intel | MU Stock vs. INTC Stock",
+   "published_at": "2026-11-20T12:55:42.402720+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "stated_price": "~$691 (current, stated)",
+   "fair_value": "$1,539 (his DCF)",
+   "thesis": "Ridiculously cheap: forward P/E 3.3 and DCF FV $1,539 vs ~$691; 80%+ operating margins two quarters running, ROIC 89%, sold out through 2027 with data-center demand into 2028. His pick over Intel; he owns it.",
+   "base_case": "Earnings growth moderates and may turn slightly negative ~2029-30, but data-center replacement cycle (2029-30) adds a new demand source.",
+   "bull_case": "Memory shortages persist into 2028, prices stay elevated, ROIC stays above 80% for another year or two.",
+   "bear_case": "Triple-digit price rises are not sustainable; new capacity from late 2027 could compress ROIC back toward 30%.",
+   "analyzed_at": "2026-11-20T19:02:00Z"
+  },
+  {
    "video_id": "95t1TqHptd4",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -383,24 +418,24 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 4
   },
   {
    "channel": "MarketBeat",
-   "idx": 10
+   "idx": 12
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 16
+   "idx": 18
   }
  ]
 }
