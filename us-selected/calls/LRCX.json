@@ -3,6 +3,25 @@
  "slug": "LRCX",
  "calls": [
   {
+   "video_id": "K3WFkbPw1o8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Lam Research Stock Falling, and Is It a Buying Opportunity?",
+   "published_at": "2026-11-20T14:45:42.402720+00:00",
+   "analyzed_at": "2026-11-20T14:58:06Z",
+   "collab": false,
+   "ticker": "LRCX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$206 (stated); DCF fair value ~$198; forward P/E 16.8",
+   "thesis": "BUY, first tracked LRCX call for Parkevtate (no flip vs calls.json). Upgrades from his 26 Aug stance, when above $300 he said it did not look like a buying opportunity — now at ~$206 after a ~50% fall from ~$450 highs he calls it a buying opportunity for long-term investors: record sales and margins on agentic-AI demand, 30% EPS growth forecast, ROIC 54%, forward P/E 16.8 vs 30% growth (PEG ~0.5).",
+   "base_case": "Record revenue growth with improving margins; operating margin 37% (trailing 12m), nearly double 2017's 20%; ROIC 54%, 4-5x WACC; analysts forecast 30% EPS growth for several years.",
+   "bull_case": "Agentic-AI proliferation keeps driving etch/deposition demand; forward P/E 16.8 is near the low end since 2024 vs 40x earlier this year.",
+   "bear_case": "Investor negativity around all things AI persists; DCF says only fairly valued (~$198 vs ~$206), so the buy case rests on the P/E-vs-growth view, not the DCF.",
+   "fair_value": "~$198 (DCF, stated)"
+  },
+  {
    "video_id": "cbkQCsrubBM",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -36,12 +55,16 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 2
   }
  ]
 }
