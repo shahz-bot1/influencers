@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:07:49.504579+00:00",
+ "updated": "2026-11-20T23:15:01.275076+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -477,6 +477,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "~$50",
+   "nCalls": 1
+  },
+  {
+   "ticker": "ATEN",
+   "slug": "ATEN",
+   "lastDate": "2026-11-19T23:55:18.275157+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$2.3"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "~$2.3B mkt cap; fwd P/E ~25 (stated); up ~90% YTD",
    "nCalls": 1
   },
   {
@@ -1436,6 +1453,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "ETN",
+   "slug": "ETN",
+   "lastDate": "2026-11-19T23:55:18.275157+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$131"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "~$131B mkt cap; fwd P/E ~20 next yr; EPS growth 15-18%/yr (stated)",
+   "nCalls": 1
+  },
+  {
    "ticker": "FCNCA",
    "slug": "FCNCA",
    "lastDate": "2026-10-01T22:58:20.857323+00:00",
@@ -1987,19 +2021,19 @@
   {
    "ticker": "INTC",
    "slug": "INTC",
-   "lastDate": "2026-11-16T14:45:42.651358+00:00",
+   "lastDate": "2026-11-20T12:55:42.402720+00:00",
    "chips": [
     {
-     "dir": "HOLD",
+     "dir": "AVOID",
      "n": 1,
-     "avg": "$57.32"
+     "avg": null
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "$57.32",
-   "nCalls": 4
+   "nCalls": 5
   },
   {
    "ticker": "INTU",
@@ -2320,12 +2354,12 @@
   {
    "ticker": "LRCX",
    "slug": "LRCX",
-   "lastDate": "2026-11-08T14:59:54.080668+00:00",
+   "lastDate": "2026-11-20T14:45:42.402720+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
-     "avg": "$16"
+     "n": 2,
+     "avg": "$111"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -2334,11 +2368,12 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "BWB - Business With Brian",
     "Mark Roussin CPA"
    ],
-   "lastStated": "On crash-buy list; fell ~16% Thursday; 3-yr forecast ~34%/yr; best quarter ever,",
-   "nCalls": 2
+   "lastStated": "~$206 (stated); DCF fair value ~$198; forward P/E 16.8",
+   "nCalls": 3
   },
   {
    "ticker": "LSCC",
@@ -2480,12 +2515,12 @@
   {
    "ticker": "MELI",
    "slug": "MELI",
-   "lastDate": "2026-11-09T16:00:03.510338+00:00",
+   "lastDate": "2026-11-20T13:55:42.402720+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 5,
-     "avg": "$748.33"
+     "avg": "$19.67"
     }
    ],
    "influencers": [
@@ -2495,8 +2530,8 @@
     "MarketBeat",
     "BWB - Business With Brian"
    ],
-   "lastStated": "DCF fair value $2,213 vs current $1,512 (stated); forward P/E 27, cheapest in ye",
-   "nCalls": 9
+   "lastStated": "Forward P/E 27 (stated); 28% EPS growth forecast; DCF fair value not legible in ",
+   "nCalls": 10
   },
   {
    "ticker": "META",
@@ -2694,12 +2729,12 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-11-19T18:04:01.382020+00:00",
+   "lastDate": "2026-11-20T21:58:17.978348+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$431.75"
+     "avg": "$68.75"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -2713,14 +2748,14 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Couch Investor",
     "BWB - Business With Brian",
-    "Parkevtate Vosianc CFA",
     "MarketBeat",
     "Mark Roussin CPA"
    ],
    "lastStated": "No stated price; up 134.5% YTD, ~39% drawdown",
-   "nCalls": 23
+   "nCalls": 25
   },
   {
    "ticker": "NBIS",
@@ -3335,6 +3370,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "PSN",
+   "slug": "PSN",
+   "lastDate": "2026-11-19T23:55:18.275157+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$5.5"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "~$5.5B mkt cap; EPS $2.46 this yr (P/E ~21), $3.39 next yr (P/E ~15, 14 analysts",
+   "nCalls": 1
+  },
+  {
    "ticker": "PSX",
    "slug": "PSX",
    "lastDate": "2026-10-20T22:55:26.864305+00:00",
@@ -3727,20 +3779,20 @@
   {
    "ticker": "SE",
    "slug": "SE",
-   "lastDate": "2026-11-11T18:00:00.311469+00:00",
+   "lastDate": "2026-11-20T13:55:42.402720+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$64.85"
+     "avg": "$62.35"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA",
     "Couch Investor"
    ],
-   "lastStated": "Just below $75 (stated); near 52-week low, was over $130 in August",
-   "nCalls": 2
+   "lastStated": "~$70 market (stated); DCF fair value $104; forward P/E 14.6",
+   "nCalls": 3
   },
   {
    "ticker": "SERV",
@@ -3991,19 +4043,19 @@
   {
    "ticker": "T",
    "slug": "T",
-   "lastDate": "2026-11-08T19:07:35.730824+00:00",
+   "lastDate": "2026-11-20T16:00:08.790688+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$26.5"
+     "avg": null
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "DCF fair value ~$26.50 implied (~22% undervalued vs $21.75 current; FV figure ga",
-   "nCalls": 4
+   "nCalls": 5
   },
   {
    "ticker": "TDOC",
@@ -4116,19 +4168,19 @@
   {
    "ticker": "TMUS",
    "slug": "TMUS",
-   "lastDate": "2026-11-09T17:00:03.510338+00:00",
+   "lastDate": "2026-11-20T16:00:08.790688+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$222"
+     "avg": null
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "DCF fair value $222 vs current $159 (stated); forward P/E below long-term EPS gr",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "TREASURY",
@@ -4546,19 +4598,19 @@
   {
    "ticker": "VZ",
    "slug": "VZ",
-   "lastDate": "2026-11-08T19:07:35.730824+00:00",
+   "lastDate": "2026-11-20T16:00:08.790688+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$57"
+     "avg": null
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "DCF fair value over $57 vs $46 current (~24% undervalued); forward PE 8.7",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "WDAY",
@@ -4763,7 +4815,7 @@
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
    "nCalls": 129,
-   "nVideos": 77
+   "nVideos": 78
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -4783,15 +4835,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 139,
-   "nVideos": 52
+   "nCalls": 142,
+   "nVideos": 53
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 305,
-   "nVideos": 274
+   "nCalls": 314,
+   "nVideos": 279
   },
   {
    "name": "The German Value Investor",
@@ -4802,6 +4854,76 @@
   }
  ],
  "videos": [
+  {
+   "id": "Lo8rTeE_qr0",
+   "title": "Stock Market Crash: Why is the Stock Market Crashing, and What I am Doing With My Stock? | NVDA, MU",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-20T21:58:17.978348+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "DZE-l6hOQLo",
+   "title": "Is This The Bottom? The Truth About The Current Market",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-11-20T18:00:08.790688+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "I98Yg84q2Cg",
+   "title": "Best Stock to Buy: TMobile vs AT&T vs Verizon",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-20T16:00:08.790688+00:00",
+   "nCalls": 3
+  },
+  {
+   "id": "K3WFkbPw1o8",
+   "title": "Why Is Lam Research Stock Falling, and Is It a Buying Opportunity?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-20T14:45:42.402720+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "G7QAXqMVtbw",
+   "title": "Should investors Buy Sea Limited Stock Instead of Mercado Libre Stock?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-20T13:55:42.402720+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "hventP5IMrQ",
+   "title": "Best Semiconductor Stocks to Buy: Micron vs. Intel | MU Stock vs. INTC Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-20T12:55:42.402720+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "WSpxSDpXmGo",
+   "title": "This Pullback is a Gift. I'm Buying These 3 Stocks NOW.",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-11-19T23:55:18.275157+00:00",
+   "nCalls": 3
+  },
   {
    "id": "pIj2206VQMc",
    "title": "Massive News for Anthropic Stock Investors as IPO is Hugely Successful  | ANT Stock Analysis",
