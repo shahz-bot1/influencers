@@ -3,6 +3,22 @@
  "slug": "TMUS",
  "calls": [
   {
+   "video_id": "I98Yg84q2Cg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Best Stock to Buy: TMobile vs AT&T vs Verizon",
+   "published_at": "2026-11-20T16:00:08.790688+00:00",
+   "ticker": "TMUS",
+   "direction": "BUY",
+   "stated_price": "~$170 (current, stated)",
+   "fair_value": "$215 (his DCF)",
+   "thesis": "Best of the three: fastest forecast EPS growth (18%/yr), lowest debt ($114B vs $178B AT&T and $184B+ Verizon), DCF fair value $215 vs $170 (~26% undervalued). His pick of the three.",
+   "base_case": "All three undervalued; T-Mobile justifiably most expensive at forward P/E 11.9 vs Verizon/AT&T ~8.7.",
+   "bull_case": "EPS growth + low debt justify the premium; disciplined industry pricing keeps margins growing.",
+   "bear_case": "Elevated risk: Amazon and SpaceX satellite wireless could disrupt; US wireless market saturated, growth only by stealing share.",
+   "analyzed_at": "2026-11-20T19:02:00Z"
+  },
+  {
    "video_id": "GrveN3HYcoY",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
