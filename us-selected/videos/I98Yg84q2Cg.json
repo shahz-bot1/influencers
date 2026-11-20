@@ -1,0 +1,58 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-20T16:00:08.790688+00:00",
+ "summary": "Parkevtate Vosianc compares the three big US wireless carriers — T-Mobile (TMUS), Verizon (VZ) and AT&T (T) — as SpaceX and Amazon eye satellite-supported wireless entry. The US wireless market is almost fully saturated, he notes, so the three fight over the same customers, but competition has stayed disciplined, with no race to the bottom on price, keeping the industry lucrative. On expected earnings growth, T-Mobile leads at 18% a year, AT&T is second at 10% and Verizon last at 7%. T-Mobile has focused on its core business and is winning revenue and market share, while Verizon and AT&T spent billions on acquisitions that did not reinvigorate growth. Operating margins are about 24% for the best of the three and around 22% for the other two, all improving since 2017 as prices rose and handset subsidies and support costs fell — though the caption garbles which carrier holds the 24% figure. Debt is heavy across the sector: Verizon over $184bn, AT&T $178bn, T-Mobile $114bn, with a costly 6G build-out ahead. On valuation, T-Mobile trades at 11.9x forward earnings, Verizon at 8.7x, and AT&T's multiple is garbled in the captions. His DCF fair values are $215 for T-Mobile, $57 for Verizon and an unstated figure for AT&T. He calls all three buying opportunities but picks T-Mobile as the best. Calls: TMUS BUY at about $170, VZ BUY at about $44, T BUY at about $22.",
+ "title": "Best Stock to Buy: TMobile vs AT&T vs Verizon",
+ "video_id": "I98Yg84q2Cg",
+ "source_note": "Detailed summary generated from video captions",
+ "calls": [
+  {
+   "video_id": "I98Yg84q2Cg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Best Stock to Buy: TMobile vs AT&T vs Verizon",
+   "published_at": "2026-11-20T16:00:08.790688+00:00",
+   "ticker": "TMUS",
+   "direction": "BUY",
+   "stated_price": "~$170 (current, stated)",
+   "fair_value": "$215 (his DCF)",
+   "thesis": "Best of the three: fastest forecast EPS growth (18%/yr), lowest debt ($114B vs $178B AT&T and $184B+ Verizon), DCF fair value $215 vs $170 (~26% undervalued). His pick of the three.",
+   "base_case": "All three undervalued; T-Mobile justifiably most expensive at forward P/E 11.9 vs Verizon/AT&T ~8.7.",
+   "bull_case": "EPS growth + low debt justify the premium; disciplined industry pricing keeps margins growing.",
+   "bear_case": "Elevated risk: Amazon and SpaceX satellite wireless could disrupt; US wireless market saturated, growth only by stealing share.",
+   "analyzed_at": "2026-11-20T19:02:00Z"
+  },
+  {
+   "video_id": "I98Yg84q2Cg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Best Stock to Buy: TMobile vs AT&T vs Verizon",
+   "published_at": "2026-11-20T16:00:08.790688+00:00",
+   "ticker": "VZ",
+   "direction": "BUY",
+   "stated_price": "~$44 (implied: FV $57, ~23% below)",
+   "fair_value": "$57 (his DCF)",
+   "thesis": "Undervalued ~23% vs DCF fair value $57; cheapest alongside AT&T at forward P/E 8.7; industry pricing discipline keeps margins lucrative.",
+   "base_case": "Slowest forecast EPS growth of the three (7%/yr) but undervalued on both P/E and DCF.",
+   "bull_case": "Best operating margin of the three (~24%) and growing since 2017; no price war among the three.",
+   "bear_case": "Highest debt load ($184B+); slowest growth; satellite entrants (SpaceX/Amazon) threaten the moat.",
+   "analyzed_at": "2026-11-20T19:02:00Z"
+  },
+  {
+   "video_id": "I98Yg84q2Cg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Best Stock to Buy: TMobile vs AT&T vs Verizon",
+   "published_at": "2026-11-20T16:00:08.790688+00:00",
+   "ticker": "T",
+   "direction": "BUY",
+   "stated_price": "~$22 (current, stated)",
+   "fair_value": "~$26.50 (his DCF; $22 is ~17% below FV)",
+   "thesis": "Undervalued ~17% vs DCF fair value; forward P/E ~8.7; 10%/yr forecast EPS growth, second best of the three.",
+   "base_case": "Cheap on P/E and DCF with improving operating margins (~22%).",
+   "bull_case": "Margin expansion from higher prices, lower handset subsidies and streamlined operations.",
+   "bear_case": "$178B debt; past multi-billion acquisitions failed to reinvigorate growth; satellite competition risk.",
+   "analyzed_at": "2026-11-20T19:02:00Z"
+  }
+ ]
+}
