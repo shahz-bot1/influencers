@@ -4,6 +4,38 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "AVOID",
+   "date": "2026-11-19T22:55:34.818034+00:00",
+   "price": null,
+   "video_id": "vEJ58cI6zSY"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-19T22:55:34.818034+00:00",
+   "price": null,
+   "video_id": "vEJ58cI6zSY"
+  },
+  {
+   "ticker": "ROAD",
+   "tickerSlug": "ROAD",
+   "direction": "BUY",
+   "date": "2026-11-19T22:55:34.818034+00:00",
+   "price": null,
+   "video_id": "vEJ58cI6zSY"
+  },
+  {
+   "ticker": "ANT",
+   "tickerSlug": "ANT",
+   "direction": "AVOID",
+   "date": "2026-11-19T22:55:34.818034+00:00",
+   "price": null,
+   "video_id": "vEJ58cI6zSY"
+  },
+  {
    "ticker": "NU",
    "tickerSlug": "NU",
    "direction": "BUY",
