@@ -3,6 +3,22 @@
  "slug": "T",
  "calls": [
   {
+   "video_id": "I98Yg84q2Cg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Best Stock to Buy: TMobile vs AT&T vs Verizon",
+   "published_at": "2026-11-20T16:00:08.790688+00:00",
+   "ticker": "T",
+   "direction": "BUY",
+   "stated_price": "~$22 (current, stated)",
+   "fair_value": "~$26.50 (his DCF; $22 is ~17% below FV)",
+   "thesis": "Undervalued ~17% vs DCF fair value; forward P/E ~8.7; 10%/yr forecast EPS growth, second best of the three.",
+   "base_case": "Cheap on P/E and DCF with improving operating margins (~22%).",
+   "bull_case": "Margin expansion from higher prices, lower handset subsidies and streamlined operations.",
+   "bear_case": "$178B debt; past multi-billion acquisitions failed to reinvigorate growth; satellite competition risk.",
+   "analyzed_at": "2026-11-20T19:02:00Z"
+  },
+  {
    "video_id": "SylRzqP4LeM",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
