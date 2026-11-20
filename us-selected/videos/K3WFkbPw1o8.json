@@ -1,0 +1,29 @@
+{
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-20T14:45:42.402720+00:00",
+ "summary": "Parkevtate Vosianc asks whether Lam Research (LRCX) is a buying opportunity after a steep fall. The stock peaked near $450 earlier this year and has fallen to about $205, losing nearly half its value in a few months on negative sentiment around AI, though it is still up over 20% year to date in 2026. The fundamentals, he argues, have moved the other way: record sales driven by agentic AI demand, record profit margins, a trailing-12-month operating margin of 37% — nearly double the 20% of 2017 — and return on invested capital of 54%, four to five times its cost of capital. Wall Street expects about 30% earnings-per-share growth a year for the next several years, the highest long-term estimate for the company in a long time. Valuation is the crux: forward P/E has compressed from over 40 earlier this year to 16.8, roughly half the expected EPS growth rate, a PEG of about 0.5. His discounted cash flow model puts fair value at about $198 versus the $206 market price, so on DCF the stock looks fairly valued but on forward P/E it looks undervalued; overall he calls it between slightly undervalued and undervalued. He upgrades LRCX to a buying opportunity, noting that on 26 August 2026, above $300, he said it was not one. Call: LRCX BUY at about $206.",
+ "title": "Why Is Lam Research Stock Falling, and Is It a Buying Opportunity?",
+ "video_id": "K3WFkbPw1o8",
+ "source_note": "Detailed summary generated from video captions",
+ "calls": [
+  {
+   "video_id": "K3WFkbPw1o8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Lam Research Stock Falling, and Is It a Buying Opportunity?",
+   "published_at": "2026-11-20T14:45:42.402720+00:00",
+   "analyzed_at": "2026-11-20T14:58:06Z",
+   "collab": false,
+   "ticker": "LRCX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$206 (stated); DCF fair value ~$198; forward P/E 16.8",
+   "thesis": "BUY, first tracked LRCX call for Parkevtate (no flip vs calls.json). Upgrades from his 26 Aug stance, when above $300 he said it did not look like a buying opportunity — now at ~$206 after a ~50% fall from ~$450 highs he calls it a buying opportunity for long-term investors: record sales and margins on agentic-AI demand, 30% EPS growth forecast, ROIC 54%, forward P/E 16.8 vs 30% growth (PEG ~0.5).",
+   "base_case": "Record revenue growth with improving margins; operating margin 37% (trailing 12m), nearly double 2017's 20%; ROIC 54%, 4-5x WACC; analysts forecast 30% EPS growth for several years.",
+   "bull_case": "Agentic-AI proliferation keeps driving etch/deposition demand; forward P/E 16.8 is near the low end since 2024 vs 40x earlier this year.",
+   "bear_case": "Investor negativity around all things AI persists; DCF says only fairly valued (~$198 vs ~$206), so the buy case rests on the P/E-vs-growth view, not the DCF.",
+   "fair_value": "~$198 (DCF, stated)"
+  }
+ ]
+}
