@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T05:00:31.082556+00:00",
+ "updated": "2026-11-20T05:00:14.774627+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -176,12 +176,12 @@
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-11-01T05:01:22.990410+00:00",
+   "lastDate": "2026-11-19T22:55:34.818034+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$15"
+     "avg": null
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -200,7 +200,7 @@
     "Asymmetric Investing"
    ],
    "lastStated": "~15x trailing operating cash flow vs 25.8x long-run median; conservative DCF imp",
-   "nCalls": 5
+   "nCalls": 6
   },
   {
    "ticker": "ANET",
@@ -218,6 +218,24 @@
    ],
    "lastStated": "No price stated",
    "nCalls": 3
+  },
+  {
+   "ticker": "ANT",
+   "slug": "ANT",
+   "lastDate": "2026-11-19T22:55:34.818034+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
+     "n": 2,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Daniel Pronk",
+    "Asymmetric Investing"
+   ],
+   "lastStated": "",
+   "nCalls": 2
   },
   {
    "ticker": "APP",
@@ -1749,7 +1767,7 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-17T04:57:53.270594+00:00",
+   "lastDate": "2026-11-19T22:55:34.818034+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1769,18 +1787,18 @@
     {
      "dir": "AVOID",
      "n": 1,
-     "avg": "$15"
+     "avg": null
     }
    ],
    "influencers": [
+    "Daniel Pronk",
     "Jose Najarro Stocks",
     "Asymmetric Investing",
-    "Daniel Pronk",
     "Joseph Hogue, CFA",
     "Tom Nash"
    ],
    "lastStated": "~$156 now; ~$239 close on 6 Oct, down ~35% from October high",
-   "nCalls": 18
+   "nCalls": 19
   },
   {
    "ticker": "NVDY",
@@ -2099,19 +2117,19 @@
   {
    "ticker": "ROAD",
    "slug": "ROAD",
-   "lastDate": "2026-11-14T04:58:11.052937+00:00",
+   "lastDate": "2026-11-19T22:55:34.818034+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$5.6"
+     "avg": null
     }
    ],
    "influencers": [
     "Daniel Pronk"
    ],
    "lastStated": "~$5.6bn market cap, ~8.3x trailing EBITDA",
-   "nCalls": 4
+   "nCalls": 5
   },
   {
    "ticker": "SCHW",
@@ -2700,8 +2718,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 30,
-   "nVideos": 15
+   "nCalls": 31,
+   "nVideos": 16
   },
   {
    "name": "Brian Feroldi",
@@ -2714,8 +2732,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 26,
-   "nVideos": 14
+   "nCalls": 30,
+   "nVideos": 15
   },
   {
    "name": "Everything Money",
@@ -2768,6 +2786,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "vEJ58cI6zSY",
+   "title": "The Stock Market Is Crashing - What I'm Doing Now",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-11-19T22:55:34.818034+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "3CzqG_CNg8g",
+   "title": "Anthropic IPO: Why I'm Watching (And Why You Should Wait)",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-11-19T16:55:34.818034+00:00",
+   "nCalls": 1
+  },
   {
    "id": "scqLPoVoRmY",
    "title": "BUY HEAVY! I Ranked 16 Stocks… Here are the 3 I’m Buying",
