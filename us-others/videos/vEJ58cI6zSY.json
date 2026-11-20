@@ -1,0 +1,71 @@
+{
+ "video_id": "vEJ58cI6zSY",
+ "title": "The Stock Market Is Crashing - What I'm Doing Now",
+ "creator": "Daniel Pronk",
+ "handle": "@danielpronk",
+ "published_at": "2026-11-19T22:55:34.818034+00:00",
+ "summary": "Daniel Pronk's 19 November market catch-up opens with his portfolio down about $200,000 (~10%) from its peak while the S&P is only ~5% off its highs, and works through the week's wild news. On Nvidia, he calls Q3 'fantastic' - every metric up over 100% year over year on $116B quarterly revenue, with 70% growth guided for next year and the stock at ~14x forward earnings, its lowest forward P/E in decades - yet he is not buying: semiconductors stay in his too-hard pile because he cannot predict earnings beyond 2030 once hyperscaler capex growth slows (58% in 2027, 10% in 2028) and custom chips compress margins. He rebuts the receivables FUD ($81B unpaid invoices vs $48B quarterly operating cash flow) and says Jensen Huang's exit is a downgrade but the business has too much momentum to stall. On the Fed, he dismisses Governor Waller's call for aggressive hikes: inflation was driven by energy prices from the Iran war, and gas prices are now falling. On Anthropic's IPO, he is not buying - IPOs price at peak enthusiasm. The core of the video is Amazon: now 15% of his portfolio, his second-largest holding, which he keeps adding to on the AWS flywheel - AI pulling core workloads into the cloud, mostly durable inference, with neocloud risk localised not systemic. He closes on volatility: long-term investors make the most money when stocks stay down longest, citing Construction Partners (ROAD, down 9%) and 'Marcato Libra' (caption garble, likely MercadoLibre) as examples of buying short-term weakness.",
+ "calls": [
+  {
+   "video_id": "vEJ58cI6zSY",
+   "video_title": "The Stock Market Is Crashing - What I'm Doing Now",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "NVDA",
+   "direction": "AVOID",
+   "thesis": "Q3 was fantastic - every metric up >100% YoY on $116B quarterly revenue, 70% growth guided next year, ~14x forward P/E - but semiconductors stay in his too-hard pile: he cannot predict long-term earnings beyond 2030 once hyperscaler capex growth slows and custom chips compress margins. Jensen's exit is a downgrade, but the business has too much momentum to stall.",
+   "base_case": "Business as usual; keeps growing ~70% next year on supply-constrained demand.",
+   "bull_case": "Keeps posting huge results and the market regains faith; 14x forward P/E proves very cheap.",
+   "bear_case": "Hyperscaler capex deceleration plus custom-chip competition compresses margins, so 14x today looks expensive by 2030.",
+   "published_at": "2026-11-19T22:55:34.818034+00:00",
+   "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+   "stance_flip": false
+  },
+  {
+   "video_id": "vEJ58cI6zSY",
+   "video_title": "The Stock Market Is Crashing - What I'm Doing Now",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "thesis": "Continuing to increase allocation; now a 15% position, his second-largest holding, and 'extremely bullish'. AWS flywheel: AI pulls core workloads into the cloud, growth accelerating across tens of thousands of customers; AWS AI is mostly durable inference, not training. Neocloud risk is localised, not systemic. Fundamentals growing far faster than the share price, multiples compressing.",
+   "base_case": "Companies keep using more compute and AI, and AWS is where they pay for it; durable growth for years.",
+   "bull_case": "Investors finally recognise AWS durability and the share price catches up to intrinsic value growth.",
+   "bear_case": "Market keeps pricing only next quarter and the share price keeps lagging intrinsic value.",
+   "published_at": "2026-11-19T22:55:34.818034+00:00",
+   "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+   "stance_flip": false
+  },
+  {
+   "video_id": "vEJ58cI6zSY",
+   "video_title": "The Stock Market Is Crashing - What I'm Doing Now",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ROAD",
+   "direction": "BUY",
+   "thesis": "Construction Partners down 9% on short-term margin compression expected in H1 FY27, but nothing changed long-term; by 2030 it will be a significantly larger business. Buying more on the dip - an example of the market's short-term focus creating opportunity.",
+   "base_case": "Margins compress for ~6 months, then regain and grow by end of next year.",
+   "bull_case": "By 2030 ROAD is significantly larger and today's price looks ridiculous.",
+   "bear_case": "Margin compression lasts longer than the guided 6 months.",
+   "published_at": "2026-11-19T22:55:34.818034+00:00",
+   "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+   "stance_flip": false
+  },
+  {
+   "video_id": "vEJ58cI6zSY",
+   "video_title": "The Stock Market Is Crashing - What I'm Doing Now",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ANT",
+   "direction": "AVOID",
+   "thesis": "Not buying the Anthropic IPO. IPOs come at peak enthusiasm and peak prices (Graham: 'it's probably overpriced'); even his lawyer asked him about it, a sign of peak hype. May get interested in the trough years after the IPO, when newly listed companies are usually cheapest.",
+   "base_case": "Anthropic's quarterly reporting gives transparency into frontier-lab economics; good numbers support the AI trade, bad numbers spread pessimism across AI.",
+   "bull_case": "Strong Anthropic numbers lift Amazon, Google, Microsoft and Broadcom, which benefit from its spending.",
+   "bear_case": "Weak Anthropic numbers spread negative sentiment across chips, infrastructure and construction.",
+   "stated_price": "IPO priced at $83",
+   "published_at": "2026-11-19T22:55:34.818034+00:00",
+   "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+   "stance_flip": false
+  }
+ ]
+}
