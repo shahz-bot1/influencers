@@ -1,0 +1,26 @@
+{
+ "video_id": "3CzqG_CNg8g",
+ "title": "Anthropic IPO: Why I'm Watching (And Why You Should Wait)",
+ "creator": "Asymmetric Investing",
+ "handle": "@asymmetricinvesting",
+ "published_at": "2026-11-19T16:55:34.818034+00:00",
+ "summary": "Travis Hoyt of Asymmetric Investing walks through five things to know before buying Anthropic on IPO day. The shares priced at $83 (~$1.4T valuation) and looked set to open near $100 (~$1.5-1.6T), or roughly 25x sales. Growth has been extraordinary - revenue up from $1.4B a year ago (caption figures are garbled in places) - but the growth rate has slowed to about 47% quarter over quarter as competition from OpenAI and Alphabet intensifies and token prices fall. Margins look strong at 86% gross profit, but R&D spending on model training far exceeds cost of sales, so the true cost of serving revenue is rising and margins slipped in Q3. Shareholders get no real say: founders take Class F stock with 50.1% voting power. Finally, Anthropic's cult-like mission is a positive in his view - clear vision beyond money, like early Apple - though others may see it as a risk. His verdict is to wait: IPOs often pop then sink over six months, and the better buying opportunity usually comes 6-24 months later, though Anthropic could join his portfolio in future. He also notes the IPO's transparency will cut both ways for the AI sector: strong Anthropic numbers would support the AI trade, weak ones could spread pessimism to chips, infrastructure and construction names.",
+ "calls": [
+  {
+   "video_id": "3CzqG_CNg8g",
+   "video_title": "Anthropic IPO: Why I'm Watching (And Why You Should Wait)",
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "ticker": "ANT",
+   "direction": "AVOID",
+   "thesis": "Don't buy on IPO day - wait. IPOs often pop then sink over 6 months; the better buying opportunity usually comes 6-24 months later. At ~$100 expected open (~$1.5-1.6T valuation, ~25x sales) growth is slowing (~47% QoQ) as competition rises and token prices fall, R&D/training spend is eating margins, and founders hold 50.1% voting via Class F so shareholders have no real vote. Anthropic could join his portfolio later.",
+   "base_case": "Growth slows to 30-40% YoY and the ~25x sales multiple proves too rich.",
+   "bull_case": "Growth stays near 10x YoY and 25x sales is a fair price; the cult-like mission drives a durable winner.",
+   "bear_case": "Margins keep falling as training spend rises while revenue growth slows; weak numbers spread pessimism across the whole AI sector.",
+   "stated_price": "IPO $83; expected open ~$100",
+   "published_at": "2026-11-19T16:55:34.818034+00:00",
+   "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+   "stance_flip": false
+  }
+ ]
+}
