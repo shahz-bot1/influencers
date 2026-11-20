@@ -1,0 +1,28 @@
+{
+ "ticker": "ETN",
+ "slug": "ETN",
+ "calls": [
+  {
+   "video_id": "WSpxSDpXmGo",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This Pullback is a Gift. I'm Buying These 3 Stocks NOW.",
+   "published_at": "2026-11-19T23:55:18.275157+00:00",
+   "ticker": "ETN",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$131B mkt cap; fwd P/E ~20 next yr; EPS growth 15-18%/yr (stated)",
+   "thesis": "Guest Matt McCall (Monument Traders Alliance) calls Eaton a core holding: power-grid/battery-backup supplier keeping hospitals, utilities and data centres running; pullback after AI-infrastructure run-up is a buying opportunity, PEG just above 1.",
+   "base_case": "Grid rebuild lasts 10+ years; AI data-centre demand layers on top of pre-AI grid upgrade need ($9.1T ASCE estimate).",
+   "bull_case": "Every AI player (Anthropic, OpenAI, Google, Microsoft, neoclouds) needs Eaton's power-protection products.",
+   "bear_case": "Not a huge growth company; got pricey at the AI-infrastructure peak before the pullback.",
+   "analyzed_at": "2026-11-20T06:56:51.720193+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
