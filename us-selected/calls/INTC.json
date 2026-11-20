@@ -3,6 +3,23 @@
  "slug": "INTC",
  "calls": [
   {
+   "video_id": "hventP5IMrQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Best Semiconductor Stocks to Buy: Micron vs. Intel | MU Stock vs. INTC Stock",
+   "published_at": "2026-11-20T12:55:42.402720+00:00",
+   "ticker": "INTC",
+   "direction": "AVOID",
+   "flip": true,
+   "stated_price": "~$54 (current, stated)",
+   "fair_value": "$50 (his DCF)",
+   "thesis": "Fairly valued on his DCF ($50 vs $54) and he is 'not interested in owning Intel at anywhere near these market prices' — despite 75%/yr forecast EPS growth and agentic-AI CPU demand. He owns Micron, not Intel.",
+   "base_case": "CPU demand from agentic AI lifts sales after years of manufacturing investment; branded CPUs growing.",
+   "bull_case": "Agentic AI improves the GPU/CPU ratio in data centers in Intel's favour; foundry eventually wins third-party customers.",
+   "bear_case": "Foundry still lacks customers with excess capacity compressing margins; ROIC -7%; government-stake excitement ran ahead of performance.",
+   "analyzed_at": "2026-11-20T19:02:00Z"
+  },
+  {
    "video_id": "rClnvnl88J0",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
