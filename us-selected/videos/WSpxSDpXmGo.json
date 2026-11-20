@@ -1,0 +1,58 @@
+{
+ "creator": "MarketBeat",
+ "published_at": "2026-11-19T23:55:18.275157+00:00",
+ "summary": "MarketBeat host Bridget interviews guest Matt McCall of Monument Traders Alliance about investing through a wave of system shutdowns — grounded flights after an FAA disruption, bank outages — that have pushed the VIX to its highest level since March. McCall's core argument is that long-term investors should not make long-term decisions on short-term fear: a five-hour airspace closure does not change a company's earnings outlook, and capitulation moments are usually buying opportunities, since nothing can slow innovation in the long term. He pitches three stocks that benefit when systems fail. Eaton (ETN), a $131bn electrical-grid and backup-power supplier, is a core holding: earnings expected to grow 15–18% a year, forward P/E around 20, PEG just above 1, with grid modernisation a decade-long tailwind even without AI. A10 Networks (ATEN), a $2.3bn cybersecurity firm that blocks traffic-flood attacks and routes legitimate traffic, trades at about 25x forward earnings versus CrowdStrike at 147x, despite being up nearly 90% this year. Parsons (PSN), a $5.5bn critical-infrastructure firm, just won a nearly $600m FAA contract extension to modernise air traffic control; EPS is expected at $2.46 this year and $3.39 next, a forward P/E of about 15, with price-to-sales below 1 and 98% institutional ownership. Calls: ETN BUY, ATEN BUY, PSN BUY — no entry prices stated. Note: captions garble 'Eaton' as 'Eat/Eaten' and 'bear markets' as 'bare markets'.",
+ "title": "This Pullback is a Gift. I'm Buying These 3 Stocks NOW.",
+ "video_id": "WSpxSDpXmGo",
+ "source_note": "Detailed summary generated from video captions",
+ "calls": [
+  {
+   "video_id": "WSpxSDpXmGo",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This Pullback is a Gift. I'm Buying These 3 Stocks NOW.",
+   "published_at": "2026-11-19T23:55:18.275157+00:00",
+   "ticker": "ETN",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$131B mkt cap; fwd P/E ~20 next yr; EPS growth 15-18%/yr (stated)",
+   "thesis": "Guest Matt McCall (Monument Traders Alliance) calls Eaton a core holding: power-grid/battery-backup supplier keeping hospitals, utilities and data centres running; pullback after AI-infrastructure run-up is a buying opportunity, PEG just above 1.",
+   "base_case": "Grid rebuild lasts 10+ years; AI data-centre demand layers on top of pre-AI grid upgrade need ($9.1T ASCE estimate).",
+   "bull_case": "Every AI player (Anthropic, OpenAI, Google, Microsoft, neoclouds) needs Eaton's power-protection products.",
+   "bear_case": "Not a huge growth company; got pricey at the AI-infrastructure peak before the pullback.",
+   "analyzed_at": "2026-11-20T06:56:51.720193+00:00"
+  },
+  {
+   "video_id": "WSpxSDpXmGo",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This Pullback is a Gift. I'm Buying These 3 Stocks NOW.",
+   "published_at": "2026-11-19T23:55:18.275157+00:00",
+   "ticker": "ATEN",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$2.3B mkt cap; fwd P/E ~25 (stated); up ~90% YTD",
+   "thesis": "Small-cap cybersecurity niche: blocks DDoS floods and routes legitimate traffic so sites/apps stay reachable; cheap vs CrowdStrike (~147x fwd earnings) at 1/100th the size, with room to grow 5x and still be a fraction of CRWD.",
+   "base_case": "Cyberattacks keep coming; specialist players with real fundamentals survive and compound.",
+   "bull_case": "5x upside still leaves it far smaller than CrowdStrike; mid-cap cyber names get bought out or re-rate.",
+   "bear_case": "Not every small cyber name makes it; up ~100% YTD so momentum buyers may be late; not a full-stack player like CRWD/PANW.",
+   "analyzed_at": "2026-11-20T06:56:51.720193+00:00"
+  },
+  {
+   "video_id": "WSpxSDpXmGo",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "This Pullback is a Gift. I'm Buying These 3 Stocks NOW.",
+   "published_at": "2026-11-19T23:55:18.275157+00:00",
+   "ticker": "PSN",
+   "direction": "BUY",
+   "flip": false,
+   "price_at_call": "~$5.5B mkt cap; EPS $2.46 this yr (P/E ~21), $3.39 next yr (P/E ~15, 14 analysts); P/S below 1 (stated)",
+   "thesis": "Direct play on modernising US air-traffic control after the FAA groundings: just won a ~$600M FAA contract extension for air-traffic facilities, comms, radar, navigation and power; DoT has asked for ~$50B more, and Parsons is positioned for a slice.",
+   "base_case": "Headline-driven but cheap on sales and earnings; EPS rebounds next year as contracts land.",
+   "bull_case": "Bipartisan pressure to fund ATC modernisation turns into multi-billion-dollar awards; a $5.5B company moves a lot on hundred-million contracts.",
+   "bear_case": "Event-driven volatility: contracts roll off (EPS -22% YoY this year) and gaps between awards hurt; funding depends on politics.",
+   "analyzed_at": "2026-11-20T06:56:51.720193+00:00"
+  }
+ ]
+}
