@@ -3,6 +3,21 @@
  "slug": "ROAD",
  "calls": [
   {
+   "video_id": "vEJ58cI6zSY",
+   "video_title": "The Stock Market Is Crashing - What I'm Doing Now",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "ROAD",
+   "direction": "BUY",
+   "thesis": "Construction Partners down 9% on short-term margin compression expected in H1 FY27, but nothing changed long-term; by 2030 it will be a significantly larger business. Buying more on the dip - an example of the market's short-term focus creating opportunity.",
+   "base_case": "Margins compress for ~6 months, then regain and grow by end of next year.",
+   "bull_case": "By 2030 ROAD is significantly larger and today's price looks ridiculous.",
+   "bear_case": "Margin compression lasts longer than the guided 6 months.",
+   "published_at": "2026-11-19T22:55:34.818034+00:00",
+   "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+   "stance_flip": false
+  },
+  {
    "video_id": "Mw5EXAyrPr4",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
