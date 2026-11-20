@@ -3,6 +3,21 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "vEJ58cI6zSY",
+   "video_title": "The Stock Market Is Crashing - What I'm Doing Now",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "thesis": "Continuing to increase allocation; now a 15% position, his second-largest holding, and 'extremely bullish'. AWS flywheel: AI pulls core workloads into the cloud, growth accelerating across tens of thousands of customers; AWS AI is mostly durable inference, not training. Neocloud risk is localised, not systemic. Fundamentals growing far faster than the share price, multiples compressing.",
+   "base_case": "Companies keep using more compute and AI, and AWS is where they pay for it; durable growth for years.",
+   "bull_case": "Investors finally recognise AWS durability and the share price catches up to intrinsic value growth.",
+   "bear_case": "Market keeps pricing only next quarter and the share price keeps lagging intrinsic value.",
+   "published_at": "2026-11-19T22:55:34.818034+00:00",
+   "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+   "stance_flip": false
+  },
+  {
    "video_id": "c8x6S2vlQys",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
@@ -63,11 +78,11 @@
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
