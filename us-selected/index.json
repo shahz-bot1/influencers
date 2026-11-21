@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:15:01.275076+00:00",
+ "updated": "2026-11-21T23:05:30.923570+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -1467,6 +1467,23 @@
     "MarketBeat"
    ],
    "lastStated": "~$131B mkt cap; fwd P/E ~20 next yr; EPS growth 15-18%/yr (stated)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "F",
+   "slug": "F",
+   "lastDate": "2026-11-21T17:00:02.516779+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$11"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "~$11 (current, stated)",
    "nCalls": 1
   },
   {
@@ -2982,12 +2999,12 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-19T18:00:01.382020+00:00",
+   "lastDate": "2026-11-20T06:55:19.751274+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$151"
+     "avg": "$150"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -3008,8 +3025,8 @@
     "Joseph Carlson After Hours",
     "BWB - Business With Brian"
    ],
-   "lastStated": "~$151 (current); DCF fair value $260 (stated, up ~$4)",
-   "nCalls": 49
+   "lastStated": "~$150 (stated, near 52-week low); DCF fair value $259 (stated)",
+   "nCalls": 50
   },
   {
    "ticker": "NVO",
@@ -3833,6 +3850,23 @@
    ],
    "lastStated": "Pulled back to under $140 from ~$180 peak (Oct); lows $110 -> $124 -> $136",
    "nCalls": 2
+  },
+  {
+   "ticker": "SKHY",
+   "slug": "SKHY",
+   "lastDate": "2026-11-21T16:00:02.516779+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$120"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "~$120 (current, stated)",
+   "nCalls": 1
   },
   {
    "ticker": "SMCI",
@@ -4815,7 +4849,7 @@
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
    "nCalls": 129,
-   "nVideos": 78
+   "nVideos": 79
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -4836,14 +4870,14 @@
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
    "nCalls": 142,
-   "nVideos": 53
+   "nVideos": 54
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 314,
-   "nVideos": 279
+   "nCalls": 317,
+   "nVideos": 282
   },
   {
    "name": "The German Value Investor",
@@ -4854,6 +4888,46 @@
   }
  ],
  "videos": [
+  {
+   "id": "MW7pgnUxz9w",
+   "title": "I Asked the Grab CFO About the Future — Here’s What He Said",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-11-21T18:18:02.516779+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "KzrycLu894Y",
+   "title": "Is Ford Stock A Buy?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-21T17:00:02.516779+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "P8kCWGaopNc",
+   "title": "Why Is SK Hynix Stock Crashing, and is it a Buying Opportunity? | SKHY Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-21T16:00:02.516779+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "6cOTNc2loow",
+   "title": "The Last Time THIS Happened The Global Stock Market RESET",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-11-20T23:55:19.751274+00:00",
+   "nCalls": 0
+  },
   {
    "id": "Lo8rTeE_qr0",
    "title": "Stock Market Crash: Why is the Stock Market Crashing, and What I am Doing With My Stock? | NVDA, MU",
@@ -4913,6 +4987,16 @@
    ],
    "published_at": "2026-11-20T12:55:42.402720+00:00",
    "nCalls": 2
+  },
+  {
+   "id": "NJGh6-GCYGA",
+   "title": "I Read Every Page of Nvidia's Latest Investor Update | NVDA Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-20T06:55:19.751274+00:00",
+   "nCalls": 1
   },
   {
    "id": "WSpxSDpXmGo",
