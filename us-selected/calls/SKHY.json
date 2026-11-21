@@ -1,0 +1,31 @@
+{
+ "ticker": "SKHY",
+ "slug": "SKHY",
+ "calls": [
+  {
+   "video_id": "P8kCWGaopNc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is SK Hynix Stock Crashing, and is it a Buying Opportunity? | SKHY Stock Analysis",
+   "published_at": "2026-11-21T16:00:02.516779+00:00",
+   "analyzed_at": "2026-11-21T19:02:00Z",
+   "collab": false,
+   "ticker": "SKHY",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$120 (current, stated)",
+   "fair_value": "$254 (his DCF)",
+   "thesis": "BUY first tracked, conviction upgraded low to medium. SK Hynix fell from ~$200 to ~$120 on AI-regulation fears, but Q3 revenue was +32% QoQ / +328% YoY with an 80% operating margin, supply constrained until 2030, and a forward P/E of just 2.9 — a bargain valuation for a business firing on all cylinders.",
+   "base_case": "Memory supply shortage persists and prices stay elevated; management expects supply constraints until 2030.",
+   "bull_case": "Cloud capex grows 60%+ in 2027 and AI data-centre infrastructure grows ~40%/yr until 2030, extending the shortage.",
+   "bear_case": "US AI regulation slows data-centre builds and new capacity from late 2027 compresses margins and memory prices."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 0
+  }
+ ]
+}
