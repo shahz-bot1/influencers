@@ -1,0 +1,29 @@
+{
+ "video_id": "KzrycLu894Y",
+ "title": "Is Ford Stock A Buy?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-21T17:00:02.516779+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc asks whether Ford is a buy after a decade of policy whiplash: forced into EVs with no competitive advantage, then the EV mandate scrapped, plus tariffs hitting a supply chain spanning Canada, the US and Mexico. Policy has now turned in Ford's favour - the F-150 Lightning is scrapped in favour of the ICE F-150, tariffs are trending down after Supreme Court rulings, and friendlier Canada relations may cut them further. Wall Street forecasts 28% EPS growth over the next several years, helped by rising average selling prices. But autos are never very lucrative: the operating margin is just 1.8% now (it peaked around 2022 when shortages pushed prices above MSRP), and returning to low-to-mid single digits would be a win. Valuation compensates: a forward P/E of just 6, less than a quarter of forward EPS estimates. His DCF values Ford at $16.23 against about $11 current. Call: F BUY first tracked at about $11, fair value $16.23. Bull: tariffs keep falling and F-150 ICE demand stays strong. Bear: margins stay near 2% and tariffs persist.",
+ "calls": [
+  {
+   "video_id": "KzrycLu894Y",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Ford Stock A Buy?",
+   "published_at": "2026-11-21T17:00:02.516779+00:00",
+   "analyzed_at": "2026-11-21T19:02:00Z",
+   "collab": false,
+   "ticker": "F",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$11 (current, stated)",
+   "fair_value": "$16.23 (his DCF)",
+   "thesis": "BUY first tracked. Ford is a buying opportunity at ~$11: forward P/E of just 6, Wall Street forecasts 28% EPS growth over the next several years, and policy has turned in Ford's favour (EV mandate scrapped, tariffs easing). Operating margin is only 1.8% and autos are never very lucrative, but the valuation more than reflects that.",
+   "base_case": "Margins recover to low-to-mid single digits as Ford refocuses on ICE models like the F-150; average selling prices keep rising.",
+   "bull_case": "Tariffs keep falling (Supreme Court rulings, friendlier Canada relations) and F-150 ICE demand stays strong.",
+   "bear_case": "Margins stay near 2% and tariffs persist, capping returns despite the cheap multiple."
+  }
+ ]
+}
