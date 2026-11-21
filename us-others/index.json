@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:00:14.774627+00:00",
+ "updated": "2026-11-21T04:58:23.878868+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -1206,6 +1206,23 @@
    ],
    "lastStated": "81x free cash flow, 43x forward P/E; no share price stated; down 60% from all-ti",
    "nCalls": 2
+  },
+  {
+   "ticker": "IQQI",
+   "slug": "IQQI",
+   "lastDate": "2026-11-20T16:55:17.826180+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "IREN",
@@ -2753,8 +2770,8 @@
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 168,
-   "nVideos": 20
+   "nCalls": 169,
+   "nVideos": 21
   },
   {
    "name": "Patient Investor",
@@ -2768,7 +2785,7 @@
    "handle": "@value-investing",
    "slug": "Sven_Carlin",
    "nCalls": 25,
-   "nVideos": 5
+   "nVideos": 6
   },
   {
    "name": "Tom Nash",
@@ -2786,6 +2803,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "5HBi61KIiNo",
+   "title": "For a REAL CRASH, we need earnings, buybacks, economy, 401k passive etc. to revert...",
+   "creator": "Sven Carlin",
+   "channels": [
+    "Sven Carlin"
+   ],
+   "published_at": "2026-11-20T19:55:17.826180+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "DEDMHxkeovY",
+   "title": "ONE ETF Changes How You Invest for Income",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-11-20T16:55:17.826180+00:00",
+   "nCalls": 1
+  },
   {
    "id": "vEJ58cI6zSY",
    "title": "The Stock Market Is Crashing - What I'm Doing Now",
