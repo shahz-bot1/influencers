@@ -3,6 +3,25 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "NJGh6-GCYGA",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "I Read Every Page of Nvidia's Latest Investor Update | NVDA Stock Analysis",
+   "published_at": "2026-11-20T06:55:19.751274+00:00",
+   "analyzed_at": "2026-11-21T14:59:24Z",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$150 (stated, near 52-week low); DCF fair value $259 (stated)",
+   "fair_value": "$259 (DCF, stated)",
+   "thesis": "BUY reiterated (was BUY 19 Nov @ ~$151, FV $260). Q3 investor update better than feared after Jensen Huang's resignation; token demand surging (OpenRouter weekly token volume 35x YoY, 3.5x in 3 months; agentic workloads ~80% of tokens); GPU rental prices rising (Hopper recontracted up to 2x original, B300 +60%); Nvidia compute fully utilized/sold out across hyperscalers and neoclouds. Forward P/E 9.8 vs ~75% revenue growth forecast, >60% operating margins, >70% gross margins. He owns it (one of largest positions), is interested in adding more, and upgraded NVDA back into his top-10 stocks to buy. Not a flip: last explicit call BUY 19 Nov (20 Nov video was an UNCERTAIN passing mention only). Note: his stated ~$150 is stale - NVDA closed Fri 20 Nov at $125.53, down 14%.",
+   "base_case": "Demand exceeds supply into 2027 as consumer agentic AI (Meta's Muse agent, 10M+ downloads) adds to enterprise demand; GPU resale values holding/rising eases financing for data-centre buyers.",
+   "bull_case": "Token volumes keep compounding and supply unlocks; single-digit forward P/E re-rates.",
+   "bear_case": "Leadership change - Jensen irreplaceable; innovation risk really bites 2029 and beyond; SEC/board investigation overhang persists.",
+   "collab": false
+  },
+  {
    "video_id": "pNosN89lV4s",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -815,23 +834,23 @@
   },
   {
    "channel": "Couch Investor",
-   "idx": 1
-  },
-  {
-   "channel": "MarketBeat",
    "idx": 2
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 4
+   "channel": "MarketBeat",
+   "idx": 3
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Mark Roussin CPA",
    "idx": 5
   },
   {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 6
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
