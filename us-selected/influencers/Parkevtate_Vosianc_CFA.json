@@ -4,6 +4,22 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "F",
+   "tickerSlug": "F",
+   "direction": "BUY",
+   "date": "2026-11-21T17:00:02.516779+00:00",
+   "price": "~$11 (current, stated)",
+   "video_id": "KzrycLu894Y"
+  },
+  {
+   "ticker": "SKHY",
+   "tickerSlug": "SKHY",
+   "direction": "BUY",
+   "date": "2026-11-21T16:00:02.516779+00:00",
+   "price": "~$120 (current, stated)",
+   "video_id": "P8kCWGaopNc"
+  },
+  {
    "ticker": "MU",
    "tickerSlug": "MU",
    "direction": "BUY",
@@ -74,6 +90,14 @@
    "date": "2026-11-20T12:55:42.402720+00:00",
    "price": null,
    "video_id": "hventP5IMrQ"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-20T06:55:19.751274+00:00",
+   "price": "~$150 (stated, near 52-week low); DCF fair value $259 (stated)",
+   "video_id": "NJGh6-GCYGA"
   },
   {
    "ticker": "ANT",
