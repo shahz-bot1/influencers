@@ -1,0 +1,29 @@
+{
+ "video_id": "P8kCWGaopNc",
+ "title": "Why Is SK Hynix Stock Crashing, and is it a Buying Opportunity? | SKHY Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-21T16:00:02.516779+00:00",
+ "source_note": "Detailed summary generated from video captions",
+ "summary": "Parkevtate Vosianc examines SK Hynix after the stock fell from about $200 to about $120 on fears that anti-AI legislators and data-centre regulation will slow builds, compounded by Jensen Huang's resignation and export-control scrutiny. Q3 was strong: revenue up 32% quarter over quarter and 328% year over year, an 80% operating margin with record operating profit, high-bandwidth-memory mass production started, DRAM prices up in the high-20% range and storage up mid-20%. Management expects supply constraints until 2030; cloud capex is projected to grow more than 60% in 2027 and AI data-centre infrastructure about 40% a year to 2030. He notes only Micron has also posted operating margins above 80%. Cloud giants Alphabet, Microsoft and Amazon all signalled substantially higher capex. Valuation: a forward P/E of just 2.9. His DCF fair value is $254 against about $120. Call: SKHY BUY first tracked at about $120, conviction upgraded low to medium. Bull: capex growth extends the memory shortage. Bear: US regulation slows data-centre builds and new capacity from late 2027 compresses margins.",
+ "calls": [
+  {
+   "video_id": "P8kCWGaopNc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is SK Hynix Stock Crashing, and is it a Buying Opportunity? | SKHY Stock Analysis",
+   "published_at": "2026-11-21T16:00:02.516779+00:00",
+   "analyzed_at": "2026-11-21T19:02:00Z",
+   "collab": false,
+   "ticker": "SKHY",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$120 (current, stated)",
+   "fair_value": "$254 (his DCF)",
+   "thesis": "BUY first tracked, conviction upgraded low to medium. SK Hynix fell from ~$200 to ~$120 on AI-regulation fears, but Q3 revenue was +32% QoQ / +328% YoY with an 80% operating margin, supply constrained until 2030, and a forward P/E of just 2.9 — a bargain valuation for a business firing on all cylinders.",
+   "base_case": "Memory supply shortage persists and prices stay elevated; management expects supply constraints until 2030.",
+   "bull_case": "Cloud capex grows 60%+ in 2027 and AI data-centre infrastructure grows ~40%/yr until 2030, extending the shortage.",
+   "bear_case": "US AI regulation slows data-centre builds and new capacity from late 2027 compresses margins and memory prices."
+  }
+ ]
+}
