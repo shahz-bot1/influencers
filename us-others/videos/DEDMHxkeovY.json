@@ -1,0 +1,25 @@
+{
+ "video_id": "DEDMHxkeovY",
+ "title": "ONE ETF Changes How You Invest for Income",
+ "creator": "Joseph Hogue, CFA",
+ "handle": "@josephhogue",
+ "published_at": "2026-11-20T16:55:17.826180+00:00",
+ "summary": "Joseph Hogue reviews IQQI, the new Quantify Funds Income Q Nasdaq 100 Premium Income ETF, in a video sponsored by Quantify Funds. The fund gets Nasdaq 100 exposure through purchased in-the-money call options and generates income by selling put options and put spreads on individual stocks and the index, aiming for weekly distributions and a goal of outperforming the Nasdaq 100 over a full market cycle. He explains the mechanics with a worked example ($100 stock, $95 strike put, $3 premium) and why he likes the approach: unlike covered-call ETFs such as QYLD, QQQI, OVQ and JPQ, selling puts does not cap the upside, so the fund keeps more of a tech rally. He also explains why individual-stock puts can pay higher premiums than index puts — single names are more volatile than the index (he notes Nvidia rebounding almost 3% while the Nasdaq rose just 0.77% that day) and concentrated holders buy puts for protection, creating demand. But he is clear on the risks: short puts add downside exposure, so in a correction the purchased calls and the short puts can lose money at the same time; short-put notional is capped at 100% of net assets but total market exposure is not; individual-stock risk and active-manager risk apply; and as a new fund it has no track record. He is lukewarm on weekly distributions, saying most bills are monthly. His verdict: worth considering for investors who want tech growth plus recurring income — for example those approaching retirement — as a diversifier alongside non-Nasdaq holdings, never as all of your money. He says he likes the uncapped-return strategy and calls it a better long-term bullish strategy than limiting upside by selling calls.",
+ "calls": [
+  {
+   "video_id": "DEDMHxkeovY",
+   "video_title": "ONE ETF Changes How You Invest for Income",
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "ticker": "IQQI",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "New Quantify Funds ETF (Income Q Nasdaq 100 Premium Income ETF) that gets Nasdaq 100 exposure via purchased in-the-money call options and generates income by selling puts/put spreads on individual stocks and the index, with weekly distributions. He likes selling puts instead of covered calls because it keeps upside uncapped — 'a better long-term bullish strategy than limiting your upside by selling calls' — and recommends considering it for investors who want tech growth plus recurring income (e.g. approaching retirement), as a diversifier, not as all of your money. Video is sponsored by Quantify Funds.",
+   "base_case": "Fund delivers Nasdaq 100 upside participation plus weekly income, outperforming covered-call income ETFs on total return over a full cycle.",
+   "bull_case": "Uncapped upside plus higher premiums from individual-stock puts beats covered-call funds; the put-selling approach proves a better long-term bullish income strategy.",
+   "bear_case": "In a tech correction the purchased calls lose value at the same time the short puts generate losses — larger declines than a traditional income fund; no track record to judge the strategy through different markets.",
+   "published_at": "2026-11-20T16:55:17.826180+00:00",
+   "analyzed_at": "2026-11-21T04:57:33.000328+00:00",
+   "stance_flip": false
+  }
+ ]
+}
