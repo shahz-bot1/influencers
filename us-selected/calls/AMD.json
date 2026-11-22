@@ -3,6 +3,36 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "IJeUTCnXoog",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Unfortunate News for AMD Stock Investors",
+   "published_at": "2026-11-22T18:00:05.329104+00:00",
+   "ticker": "AMD",
+   "direction": "AVOID",
+   "price_at_call": 479,
+   "thesis": "Not a buying opportunity: overvalued, ~20% above his $390 DCF fair value; downgraded earlier in 2026 after the price soared and reiterated Nov 3. FLIP from HOLD.",
+   "base_case": "AMD denies the Hunterbrook export-control claims; he leans AMD's side over the short seller.",
+   "bull_case": "Revenue and EPS growth could rival or beat Nvidia as AMD catches up in data centre.",
+   "bear_case": "Forward PE 30 vs Nvidia 10; Hunterbrook short-seller report alleges export-control breaches (he discounts it).",
+   "analyzed_at": "2026-11-22T19:03:37.423067+00:00"
+  },
+  {
+   "video_id": "C8YbFBUpVXI",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Stock Market Crash: Generational BUYING Opportunity",
+   "published_at": "2026-11-22T15:00:05.329104+00:00",
+   "ticker": "AMD",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Strong buy; continues to add. Calls the Hunterbrook short report 'completely bogus'.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-11-22T19:03:37.423067+00:00"
+  },
+  {
    "video_id": "EK-WNXzFwfo",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -395,24 +425,24 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 2
+   "channel": "Mark Roussin CPA",
+   "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "channel": "BWB - Business With Brian",
+   "idx": 4
   },
   {
    "channel": "MarketBeat",
-   "idx": 5
+   "idx": 7
   },
   {
    "channel": "Couch Investor",
-   "idx": 7
+   "idx": 9
   }
  ]
 }
