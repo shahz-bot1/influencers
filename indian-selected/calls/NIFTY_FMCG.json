@@ -3,6 +3,22 @@
  "slug": "NIFTY_FMCG",
  "calls": [
   {
+   "video_id": "Zy4UsEQTe9c",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "DON'T Miss The Next Indian Stock Market Bull-Run In 2027 ! - Where to Invest? | Rahul Jain",
+   "published_at": "2026-11-21T14:26:32.145084+00:00",
+   "ticker": "NIFTY FMCG",
+   "direction": "AVOID",
+   "price_at_call": "not stated",
+   "thesis": "Fell ~22% in 2026 and bounced ~14% off the bottom, but faces a mid-to-long-term derating: quick commerce (Blinkit, BigBasket) is eroding the branding/distribution moat of names like HUL, so it sits in his keep-away bucket, unlike banking",
+   "base_case": "Sector stays under pressure while the derating story plays out",
+   "bull_case": "Oil cools, input costs fall and margins recover despite the quick-commerce threat",
+   "bear_case": "Quick commerce keeps eating the distribution moat and the derating deepens",
+   "analyzed_at": "2026-11-22T01:28:52.186607+00:00",
+   "flip": "CONDITIONAL_BUY -> AVOID (prev CONDITIONAL_BUY 27 Sep 2026, video kJuk2TsBfaI)"
+  },
+  {
    "video_id": "kJuk2TsBfaI",
    "channel": "Rahul Jain",
    "handle": "@torahulj",
