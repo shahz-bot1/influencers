@@ -1,0 +1,28 @@
+{
+ "ticker": "NIFTY IT",
+ "slug": "NIFTY_IT",
+ "calls": [
+  {
+   "video_id": "Zy4UsEQTe9c",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "DON'T Miss The Next Indian Stock Market Bull-Run In 2027 ! - Where to Invest? | Rahul Jain",
+   "published_at": "2026-11-21T14:26:32.145084+00:00",
+   "ticker": "NIFTY IT",
+   "direction": "AVOID",
+   "price_at_call": "not stated",
+   "thesis": "Fell ~35% in 2026 and looks like a possible mid-to-long-term problem, not just short-term panic: AI headwinds and EPS growth not there; his rule is to keep away from themes with a medium/long-term problem",
+   "base_case": "Trading bounces possible off the lows, but no long-term case while growth stays muted",
+   "bull_case": "An AI breakthrough or earnings recovery restores the growth case",
+   "bear_case": "Growth stays muted and large IT keeps underperforming",
+   "analyzed_at": "2026-11-22T01:28:52.186607+00:00",
+   "flip": "reiterated AVOID (prev AVOID 29 Oct 2026, recorded as INDIA IT, video AEu8HHzFYdM)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Rahul Jain",
+   "idx": 0
+  }
+ ]
+}
