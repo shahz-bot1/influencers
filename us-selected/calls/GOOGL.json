@@ -3,6 +3,21 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "C8YbFBUpVXI",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Stock Market Crash: Generational BUYING Opportunity",
+   "published_at": "2026-11-22T15:00:05.329104+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Strong buy given the large pullback. FLIP from HOLD.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-11-22T19:03:37.423067+00:00"
+  },
+  {
    "video_id": "95t1TqHptd4",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -559,28 +574,28 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "channel": "Joseph Carlson After Hours",
+   "idx": 2
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 4
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 9
+   "channel": "MarketBeat",
+   "idx": 5
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 17
+   "idx": 18
   }
  ]
 }
