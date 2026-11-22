@@ -3,6 +3,22 @@
  "slug": "NIFTY_50",
  "calls": [
   {
+   "video_id": "Zy4UsEQTe9c",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "DON'T Miss The Next Indian Stock Market Bull-Run In 2027 ! - Where to Invest? | Rahul Jain",
+   "published_at": "2026-11-21T14:26:32.145084+00:00",
+   "ticker": "NIFTY 50",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Particularly bullish long-term: Nifty 50 fell ~15% then ~10% in 2026 on the oil-crisis panic, but the long-term trend is intact (~12% compounding over 20 years; 15-20% intra-year falls are normal) and 2027 looks bullish on earnings + valuations + cooling oil",
+   "base_case": "Morgan Stanley base case: Sensex 95,000 by Dec 2027 (50% probability) if the India-US trade deal lands and Brent stays below $100",
+   "bull_case": "Sensex beyond 1,05,000 (30% probability) if oil drops below $75, inflation eases and reforms plus stronger earnings growth land",
+   "bear_case": "Sensex back to 68,000 if oil goes above $100 a barrel",
+   "analyzed_at": "2026-11-22T01:28:52.186607+00:00",
+   "flip": "HOLD -> BUY (prev HOLD 27 Sep 2026, video kJuk2TsBfaI)"
+  },
+  {
    "video_id": "kJuk2TsBfaI",
    "channel": "Rahul Jain",
    "handle": "@torahulj",
