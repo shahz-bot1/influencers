@@ -3,6 +3,21 @@
  "slug": "QQQ",
  "calls": [
   {
+   "video_id": "C8YbFBUpVXI",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Stock Market Crash: Generational BUYING Opportunity",
+   "published_at": "2026-11-22T15:00:05.329104+00:00",
+   "ticker": "QQQ",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Reinstated his Triple Q's position after being out a while; a foundational position bought into the sell-off.",
+   "base_case": "S&P in oversold RSI territory and MACD at spring-dip levels; expects a relief rally, possibly then another leg lower.",
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-11-22T19:03:37.423067+00:00"
+  },
+  {
    "video_id": "7jcAqx7huGU",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -24,8 +39,12 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Mark Roussin CPA",
    "idx": 0
+  },
+  {
+   "channel": "MarketBeat",
+   "idx": 1
   }
  ]
 }
