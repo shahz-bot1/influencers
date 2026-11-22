@@ -3,6 +3,21 @@
  "slug": "MSFT",
  "calls": [
   {
+   "video_id": "C8YbFBUpVXI",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Stock Market Crash: Generational BUYING Opportunity",
+   "published_at": "2026-11-22T15:00:05.329104+00:00",
+   "ticker": "MSFT",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Still sticking to positive free cash flow.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-11-22T19:03:37.423067+00:00"
+  },
+  {
    "video_id": "uc81ZM85WMc",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -156,20 +171,24 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
+   "channel": "MarketBeat",
+   "idx": 3
+  },
+  {
    "channel": "Joseph Carlson After Hours",
-   "idx": 9
+   "idx": 10
   }
  ]
 }
