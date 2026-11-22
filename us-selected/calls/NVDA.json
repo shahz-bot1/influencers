@@ -3,6 +3,51 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "IJeUTCnXoog",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Unfortunate News for AMD Stock Investors",
+   "published_at": "2026-11-22T18:00:05.329104+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Prefers Nvidia over AMD at current valuations (reiterated BUY).",
+   "base_case": null,
+   "bull_case": "Forward PE of 10 vs AMD's 30.",
+   "bear_case": null,
+   "analyzed_at": "2026-11-22T19:03:37.423067+00:00"
+  },
+  {
+   "video_id": "C8YbFBUpVXI",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Stock Market Crash: Generational BUYING Opportunity",
+   "published_at": "2026-11-22T15:00:05.329104+00:00",
+   "ticker": "NVDA",
+   "direction": "HOLD",
+   "price_at_call": null,
+   "thesis": "Wait-and-see; he cut half his stake two weeks ago and wishes he had sold it all. FLIP from SELL.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-11-22T19:03:37.423067+00:00"
+  },
+  {
+   "video_id": "QGVaCrY5tY8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Nvidia Stock Is Crashing: Did I Buy More? | NVDA Stock Analysis",
+   "published_at": "2026-11-22T11:55:42.046251+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "~$125 (stated, after a 14% drop today)",
+   "thesis": "BUY reiterated (was BUY 21 Nov @ ~$150, FV $259). Added more to his position today after the sell-off on Reuters reports of an SEC probe into Nvidia's accounting and Singapore chip-rerouting, plus a delayed 10-Q and circular-financing scrutiny. Reiterates top-10 ranking; FV not reliably captured from captions (garbled).",
+   "base_case": "Probe ends in at worst a multi-billion fine ('slap on the wrist'); business as usual, circular-financing issues already known.",
+   "bull_case": "Probe resolves as a fine, headlines fade, and the AI demand story reasserts itself.",
+   "bear_case": "Stricter export enforcement outside the US, or a restatement from the delayed 10-Q investigation.",
+   "analyzed_at": "2026-11-22T14:59:14.238932+00:00"
+  },
+  {
    "video_id": "NJGh6-GCYGA",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -833,24 +878,24 @@
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
-   "idx": 2
-  },
-  {
-   "channel": "MarketBeat",
-   "idx": 3
-  },
-  {
    "channel": "Mark Roussin CPA",
+   "idx": 1
+  },
+  {
+   "channel": "Couch Investor",
    "idx": 5
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "MarketBeat",
    "idx": 6
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 9
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 12
   }
  ]
 }
