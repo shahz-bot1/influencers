@@ -3,6 +3,22 @@
  "slug": "NIFTY_BANK",
  "calls": [
   {
+   "video_id": "Zy4UsEQTe9c",
+   "channel": "Rahul Jain",
+   "handle": "@torahulj",
+   "video_title": "DON'T Miss The Next Indian Stock Market Bull-Run In 2027 ! - Where to Invest? | Rahul Jain",
+   "published_at": "2026-11-21T14:26:32.145084+00:00",
+   "ticker": "NIFTY BANK",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Lead example of a short-term panic with the long-term story intact: Nifty Bank fell ~20% early 2026 on the oil crisis, then consolidated and rallied strongly; valuations were 30-40% cheaper than the 5-year average and credit growth follows 7% GDP growth",
+   "base_case": "Banking compounds with the economy; short-term oil panic does not change the long-term story",
+   "bull_case": "Oil cools and the sector re-rates from its corrected valuations",
+   "bear_case": "A fresh oil shock re-ignites the panic and the sector corrects again",
+   "analyzed_at": "2026-11-22T01:28:52.186607+00:00",
+   "flip": "reiterated BUY (prev BUY 29 Oct 2026, video QROoS9b-RWc)"
+  },
+  {
    "video_id": "QROoS9b-RWc",
    "channel": "Rahul Jain",
    "handle": "@torahulj",
