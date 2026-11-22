@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:34:12.944162+00:00",
+ "updated": "2026-11-22T01:30:49.308903+00:00",
  "tickers": [
   {
    "ticker": "DATA CENTER THEME",
@@ -198,24 +198,7 @@
   {
    "ticker": "NIFTY 50",
    "slug": "NIFTY_50",
-   "lastDate": "2026-09-27T20:54:12.349385+00:00",
-   "chips": [
-    {
-     "dir": "HOLD",
-     "n": 1,
-     "avg": null
-    }
-   ],
-   "influencers": [
-    "Rahul Jain"
-   ],
-   "lastStated": "",
-   "nCalls": 1
-  },
-  {
-   "ticker": "NIFTY BANK",
-   "slug": "NIFTY_BANK",
-   "lastDate": "2026-10-29T14:26:32.491135+00:00",
+   "lastDate": "2026-11-21T14:26:32.145084+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -228,6 +211,23 @@
    ],
    "lastStated": "",
    "nCalls": 2
+  },
+  {
+   "ticker": "NIFTY BANK",
+   "slug": "NIFTY_BANK",
+   "lastDate": "2026-11-21T14:26:32.145084+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 3
   },
   {
    "ticker": "NIFTY ENERGY",
@@ -249,10 +249,27 @@
   {
    "ticker": "NIFTY FMCG",
    "slug": "NIFTY_FMCG",
-   "lastDate": "2026-09-27T20:54:12.349385+00:00",
+   "lastDate": "2026-11-21T14:26:32.145084+00:00",
    "chips": [
     {
-     "dir": "CONDITIONAL_BUY",
+     "dir": "AVOID",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 2
+  },
+  {
+   "ticker": "NIFTY IT",
+   "slug": "NIFTY_IT",
+   "lastDate": "2026-11-21T14:26:32.145084+00:00",
+   "chips": [
+    {
+     "dir": "AVOID",
      "n": 1,
      "avg": null
     }
@@ -367,8 +384,8 @@
    "name": "Rahul Jain",
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
-   "nCalls": 23,
-   "nVideos": 28
+   "nCalls": 27,
+   "nVideos": 29
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -379,6 +396,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "Zy4UsEQTe9c",
+   "title": "DON'T Miss The Next Indian Stock Market Bull-Run In 2027 ! - Where to Invest? | Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-11-21",
+   "nCalls": 4
+  },
   {
    "id": "wzxBV7i9pSM",
    "title": "5 Bluechip Stocks at 52 Week High - Should You Chase? - Rahul Jain",
