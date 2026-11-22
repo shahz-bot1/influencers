@@ -1,0 +1,25 @@
+{
+ "video_id": "dpYc5rfMIEY",
+ "title": "Why Is Netflix Stock Crashing, and is it a Generational Buying Opportunity? | NFLX Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-22T14:45:42.046251+00:00",
+ "source_note": "Detailed summary generated from video captions; note: captions garble some names and figures in places",
+ "summary": "Parkevtate asks whether Netflix, trading below $60 near its 52-week low, is a falling knife or a generational buying opportunity. He reviews management's latest update: the strategy of best-in-class entertainment with global discovery, distribution and monetisation is mostly working — over 300 million paying subscribers, the highest average revenue per user and the industry's lowest churn, which improved again in Q3 despite price rises. The concern is engagement: it is barely growing as viewers shift to short-form content and YouTube gains share with its free ad-supported service, while rivals now offer more live sports. Netflix is leaning into live events and exploring creator and third-party content, though its pay-for-content model does not map neatly onto YouTube's revenue-share model. He argues management has communicated this poorly and should consider a free ad-supported tier. On valuation, forward P/E of 15.8 is near the lowest in company history, and his revised DCF fair value is $98 versus ~$59. NFLX is his largest position and a top-10 buy; he may add more before next earnings. Call: NFLX BUY reiterated at ~$59, DCF $98 (cut from $120 on 2 Nov).",
+ "calls": [
+  {
+   "video_id": "dpYc5rfMIEY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Netflix Stock Crashing, and is it a Generational Buying Opportunity? | NFLX Stock Analysis",
+   "published_at": "2026-11-22T14:45:42.046251+00:00",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": "~$59 (stated, near 52-week low); DCF fair value $98 (stated, revised lower from $120 on 2 Nov)",
+   "thesis": "BUY reiterated (was BUY 13 Nov, #3 best stock to buy). 'Ridiculously cheap' at forward PE 15.8, near the lowest ever; DCF $98 vs $59. Largest position in his portfolio; likely to add more before next earnings. Management must better communicate engagement, live sports and creator-content strategy.",
+   "base_case": "DCF $98 vs ~$59 = ~66% upside; engagement stabilises, industry-low churn holds.",
+   "bull_case": "Management adapts to short-form, creator and live content; engagement re-accelerates and the multiple re-rates.",
+   "bear_case": "Engagement keeps stagnating as viewers shift to short-form and free ad-supported rivals; strategy fails to adapt.",
+   "analyzed_at": "2026-11-22T14:59:14.238932+00:00"
+  }
+ ]
+}
