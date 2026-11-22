@@ -1,0 +1,25 @@
+{
+ "video_id": "QGVaCrY5tY8",
+ "title": "Nvidia Stock Is Crashing: Did I Buy More? | NVDA Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-22T11:55:42.046251+00:00",
+ "source_note": "Detailed summary generated from video captions; note: captions garble some names and figures in places",
+ "summary": "Parkevtate reacts to Nvidia's worst week on record: shares fell as much as 14% in a day after Reuters reported an SEC probe into potential accounting issues, with the Wall Street Journal reporting the probe covers whether disclosures misled investors. Since 6 October Nvidia has lost over $2.5 trillion in market value, the worst 45-day loss for any stock. He walks through the issues: about $104 billion of 2025 sales booked through its Singapore unit, roughly half of sales, with questions over whether chips were rerouted to China via Singapore-based Megaspeed despite export controls; a delayed 10-Q and an independent board-committee investigation; and circular-financing arrangements, explained as a ladder of sale quality from clean cash sales down to equity investments made with the understanding the recipient buys Nvidia product. He expects at worst a multi-billion-dollar fine and business as usual, arguing the administration is overcompensating after criticism over its handling of the former CEO's alleged links to a Chinese spy. He added to his Nvidia position in the sell-off and reiterates it as a top-10 buy. Note: captions garble the fair-value figure; his last stated DCF fair value was $259 (21 Nov). Call: NVDA BUY reiterated at ~$125.",
+ "calls": [
+  {
+   "video_id": "QGVaCrY5tY8",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Nvidia Stock Is Crashing: Did I Buy More? | NVDA Stock Analysis",
+   "published_at": "2026-11-22T11:55:42.046251+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "~$125 (stated, after a 14% drop today)",
+   "thesis": "BUY reiterated (was BUY 21 Nov @ ~$150, FV $259). Added more to his position today after the sell-off on Reuters reports of an SEC probe into Nvidia's accounting and Singapore chip-rerouting, plus a delayed 10-Q and circular-financing scrutiny. Reiterates top-10 ranking; FV not reliably captured from captions (garbled).",
+   "base_case": "Probe ends in at worst a multi-billion fine ('slap on the wrist'); business as usual, circular-financing issues already known.",
+   "bull_case": "Probe resolves as a fine, headlines fade, and the AI demand story reasserts itself.",
+   "bear_case": "Stricter export enforcement outside the US, or a restatement from the delayed 10-Q investigation.",
+   "analyzed_at": "2026-11-22T14:59:14.238932+00:00"
+  }
+ ]
+}
