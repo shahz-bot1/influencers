@@ -3,6 +3,21 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "C8YbFBUpVXI",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Stock Market Crash: Generational BUYING Opportunity",
+   "published_at": "2026-11-22T15:00:05.329104+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Rated a buy.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-11-22T19:03:37.423067+00:00"
+  },
+  {
    "video_id": "79nNZtk2cPY",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -454,20 +469,24 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 3
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 4
   }
  ]
 }
