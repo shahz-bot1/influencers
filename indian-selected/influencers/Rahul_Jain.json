@@ -4,6 +4,38 @@
  "slug": "Rahul_Jain",
  "calls": [
   {
+   "ticker": "NIFTY 50",
+   "tickerSlug": "NIFTY_50",
+   "direction": "BUY",
+   "date": "2026-11-21T14:26:32.145084+00:00",
+   "price": "not stated",
+   "video_id": "Zy4UsEQTe9c"
+  },
+  {
+   "ticker": "NIFTY BANK",
+   "tickerSlug": "NIFTY_BANK",
+   "direction": "BUY",
+   "date": "2026-11-21T14:26:32.145084+00:00",
+   "price": "not stated",
+   "video_id": "Zy4UsEQTe9c"
+  },
+  {
+   "ticker": "NIFTY IT",
+   "tickerSlug": "NIFTY_IT",
+   "direction": "AVOID",
+   "date": "2026-11-21T14:26:32.145084+00:00",
+   "price": "not stated",
+   "video_id": "Zy4UsEQTe9c"
+  },
+  {
+   "ticker": "NIFTY FMCG",
+   "tickerSlug": "NIFTY_FMCG",
+   "direction": "AVOID",
+   "date": "2026-11-21T14:26:32.145084+00:00",
+   "price": "not stated",
+   "video_id": "Zy4UsEQTe9c"
+  },
+  {
    "ticker": "DATA CENTER THEME",
    "tickerSlug": "DATA_CENTER_THEME",
    "direction": "CONDITIONAL_BUY",
