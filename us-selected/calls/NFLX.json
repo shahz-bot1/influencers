@@ -3,6 +3,21 @@
  "slug": "NFLX",
  "calls": [
   {
+   "video_id": "dpYc5rfMIEY",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Netflix Stock Crashing, and is it a Generational Buying Opportunity? | NFLX Stock Analysis",
+   "published_at": "2026-11-22T14:45:42.046251+00:00",
+   "ticker": "NFLX",
+   "direction": "BUY",
+   "price_at_call": "~$59 (stated, near 52-week low); DCF fair value $98 (stated, revised lower from $120 on 2 Nov)",
+   "thesis": "BUY reiterated (was BUY 13 Nov, #3 best stock to buy). 'Ridiculously cheap' at forward PE 15.8, near the lowest ever; DCF $98 vs $59. Largest position in his portfolio; likely to add more before next earnings. Management must better communicate engagement, live sports and creator-content strategy.",
+   "base_case": "DCF $98 vs ~$59 = ~66% upside; engagement stabilises, industry-low churn holds.",
+   "bull_case": "Management adapts to short-form, creator and live content; engagement re-accelerates and the multiple re-rates.",
+   "bear_case": "Engagement keeps stagnating as viewers shift to short-form and free ad-supported rivals; strategy fails to adapt.",
+   "analyzed_at": "2026-11-22T14:59:14.238932+00:00"
+  },
+  {
    "video_id": "79nNZtk2cPY",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -382,20 +397,20 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "The German Value Investor",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "The German Value Investor",
    "idx": 2
   },
   {
    "channel": "Couch Investor",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
