@@ -3,6 +3,21 @@
  "slug": "TSLA",
  "calls": [
   {
+   "video_id": "C8YbFBUpVXI",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "Stock Market Crash: Generational BUYING Opportunity",
+   "published_at": "2026-11-22T15:00:05.329104+00:00",
+   "ticker": "TSLA",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Slight buy on the potential SpaceX merger.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-11-22T19:03:37.423067+00:00"
+  },
+  {
    "video_id": "6DPoz2s-zLQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -72,16 +87,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
