@@ -4,6 +4,38 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "AVOID",
+   "date": "2026-11-22T18:00:05.329104+00:00",
+   "price": 479,
+   "video_id": "IJeUTCnXoog"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-22T18:00:05.329104+00:00",
+   "price": null,
+   "video_id": "IJeUTCnXoog"
+  },
+  {
+   "ticker": "NFLX",
+   "tickerSlug": "NFLX",
+   "direction": "BUY",
+   "date": "2026-11-22T14:45:42.046251+00:00",
+   "price": "~$59 (stated, near 52-week low); DCF fair value $98 (stated, revised lower from $120 on 2 Nov)",
+   "video_id": "dpYc5rfMIEY"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-22T11:55:42.046251+00:00",
+   "price": "~$125 (stated, after a 14% drop today)",
+   "video_id": "QGVaCrY5tY8"
+  },
+  {
    "ticker": "F",
    "tickerSlug": "F",
    "direction": "BUY",
