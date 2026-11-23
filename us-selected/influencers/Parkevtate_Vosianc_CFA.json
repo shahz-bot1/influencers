@@ -4,6 +4,22 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "SKHY",
+   "tickerSlug": "SKHY",
+   "direction": "BUY",
+   "date": "2026-11-23T16:00:01.908944+00:00",
+   "price": null,
+   "video_id": "9FUhiM66jyU"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-23T12:55:44.298096+00:00",
+   "price": "~$151 (stated); DCF fair value $260 (stated, revised up)",
+   "video_id": "hAemDBcxOm4"
+  },
+  {
    "ticker": "AMD",
    "tickerSlug": "AMD",
    "direction": "AVOID",
