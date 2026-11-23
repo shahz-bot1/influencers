@@ -3,6 +3,24 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "GLGwJ2uHlzc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Jensen Huang Is Back at Nvidia. Here's What I'm Doing Now",
+   "published_at": "2026-11-23T21:58:25.283872+00:00",
+   "analyzed_at": "2026-11-23T23:02:33Z",
+   "collab": false,
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 13 Nov). Bought last week, comfortable buying this week; Meta up 6.8% on the day and 'not an expensive name'. Not adding more right now only because he owns enough.",
+   "base_case": "Cheap big tech re-rates as sentiment shifts after the Jensen overhang is removed.",
+   "bull_case": "Sustained green days confirm a real sentiment shift and Meta grinds back toward October levels.",
+   "bear_case": "Still far below the start-of-October highs; a dead-cat bounce remains possible in a shaky market."
+  },
+  {
    "video_id": "C8YbFBUpVXI",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -469,24 +487,24 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 2
   },
   {
-   "channel": "Couch Investor",
+   "channel": "BWB - Business With Brian",
    "idx": 3
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
