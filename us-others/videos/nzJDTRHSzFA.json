@@ -1,0 +1,40 @@
+{
+ "video_id": "nzJDTRHSzFA",
+ "title": "Elon Musk's AI Cash Warning",
+ "creator": "Jose Najarro Stocks",
+ "handle": "@josenajarrostocks",
+ "published_at": "2026-11-22T19:55:23.687521+00:00",
+ "summary": "Jose Najarro reacts to Friday's sharp AI sell-off, centred on Nvidia falling roughly 14% after its Q3 print and Jensen Huang's resignation as CEO. His core argument is that nothing fundamental has changed: demand, supply chains and money flowing into AI are intact, Nvidia is still outperforming the market over five years, and the 'one-man risk' fear around Jensen is overexaggerated — not worth a 50% drop. He says anyone selling at these levels will be 'one of the bottom sellers', that he is not selling and is a net buyer, and that he bought on Friday. He then relays Oracle's statement that all funding for its OpenAI contract is secured, making it the first fully funded hyperscaler for this investment cycle, and quotes a viral post arguing HBM/DRAM is sold out through 2029 and frontier training compute is doubling every five months. The title topic is Elon Musk's reply warning that turning compute on reliably is incredibly hard and that working-capital cash needs next year will be 'nuts' — Najarro reads this as bullish for neoclouds like CoreWeave and Nebius that turn GPUs on fast. He also covers weekend news: a reported ~$1 trillion SoftBank bid for SK Hynix, Taiwan's short-selling ban after TSMC's worst week in decades, and Amazon's reported ~$7.5B bid for AI software startup Decart. He closes with mindset advice — stay unleveraged, keep months of backup pay, switch off the fear-driven news — and stresses investing is personal. Note: captions garble some names ('Marll' for Marvell, 'Corweaf' for CoreWeave, 'Abene campus' for Abilene) and the Alice Wong/Jensen segment is partly garbled.",
+ "calls": [
+  {
+   "video_id": "nzJDTRHSzFA",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "FLIP from HOLD (13/15/17 Nov): thesis intact after Friday's ~14% drop — demand, supply chain and money flowing into AI unchanged; Jensen CEO-change \"one-man risk\" fear overexaggerated and not worth a 50% drop; \"anybody selling at these levels is going to be one of the bottom sellers\". He is not selling — \"I am a net buyer. I did take this opportunity on Friday to buy.\"",
+   "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+   "price_at_call": "~$125.53 Friday close (down ~14% on Friday)"
+  },
+  {
+   "video_id": "nzJDTRHSzFA",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "thesis": "Neocloud players that turn on GPUs efficiently are \"great winners\" at \"great price\" — CoreWeave is turning compute on faster than expected and adjusted operating income improved sharply because faster turn-on shrinks the cash-burn gap before revenue starts. GPU pricing to stay elevated and demand \"through the roof\".",
+   "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+   "price_at_call": null
+  },
+  {
+   "video_id": "nzJDTRHSzFA",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "thesis": "Same neocloud thesis as CRWV: Nebius is \"doing amazing\" at turning on compute fast; hyperscalers/neoclouds with everything available will make money — \"this is a buying opportunity\".",
+   "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+   "price_at_call": null
+  }
+ ]
+}
