@@ -1,0 +1,30 @@
+{
+ "ticker": "NXE",
+ "slug": "NXE",
+ "calls": [
+  {
+   "video_id": "dmyfRt2Q94k",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Uranium Hit a 20-Year High. The Stocks That Mine It Crashed 60% (Here's the Real 2027 Plan)",
+   "published_at": "2026-11-22T23:55:06.582286+00:00",
+   "analyzed_at": "2026-11-23T06:57:00.500400+00:00",
+   "collab": false,
+   "ticker": "NXE",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "NextGen Energy is pre-revenue and not operational yet, but its Rook One project (construction started Aug, permitted up to 30M lbs/yr) would be one of the world's largest new uranium sources — 'one to have in that long-term speculative portfolio' if it secures financing.",
+   "base_case": "First uranium not expected until ~2030; ~4 years of construction/development ahead.",
+   "bull_case": "Permitted 30M lbs/yr capacity; global nuclear demand not expected to decline; 40-50% institutional ownership across these names.",
+   "bear_case": "Needs an estimated ~C$1.2B more financing in a tight credit market with rising rates; no revenue until ~2030; 'a stock that has fallen 30% can fall another 30% just as easily'."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
