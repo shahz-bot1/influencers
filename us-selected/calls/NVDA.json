@@ -3,6 +3,61 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "GLGwJ2uHlzc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Jensen Huang Is Back at Nvidia. Here's What I'm Doing Now",
+   "published_at": "2026-11-23T21:58:25.283872+00:00",
+   "analyzed_at": "2026-11-23T23:02:33Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 18 Nov). Jensen Huang reinstated as president/CEO/board member Monday morning; NVDA up ~31% on the day. He bought NVDA last week and says if he was comfortable buying last week he is comfortable buying this week - 'Nvidia still not expensive'. Not adding more right now only because he owns enough. Key-man risk remains: no succession plan yet, and he hopes for board changes now Jensen is back.",
+   "base_case": "The Jensen-exit overhang is removed; funds that sold NVDA purely because Jensen left will be forced to buy back, and shorts must cover after a 20-30% up day.",
+   "bull_case": "Sentiment shift compounds: a Santa rally into year-end as the whole AI ecosystem re-rates with Jensen back and the fear factor removed.",
+   "bear_case": "Board/SEC investigation hearings still ahead (next week behind closed doors, more mid-Dec); one green day is not enough data - 'is this sustainable?' is still open; no succession plan if Jensen leaves again."
+  },
+  {
+   "video_id": "jnEf8hfupDs",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I Just Bought $30,000 of a NEW stock",
+   "published_at": "2026-11-23T20:58:25.283872+00:00",
+   "analyzed_at": "2026-11-23T23:02:33Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 16 Nov) - NVDA has been his number-one buy for the past couple of weeks and he held it as a top buy as it dropped ~30%. Jensen's return removes the unpredictability investors were pricing in, so the stock trades back up immediately (up ~35% on the day). He is glad overall - Jensen is an incredible leader and likely learned his lesson - but unhappy the president personally intervened in a public company's board: he would have preferred the board to reinstate Jensen autonomously, and Trump stepping in does not mean Jensen did nothing wrong. Investigations will keep coming and Nvidia investors must be ready for that political theme.",
+   "base_case": "Jensen back + renewed enthusiasm across the semiconductor chain; NVDA trades back up with predictability restored.",
+   "bull_case": "Jensen is more motivated than ever and the whole AI ecosystem re-rates as money pours back in.",
+   "bear_case": "Ongoing investigations and political attacks on Jensen drag on; he stresses NVDA would have been fine even without Jensen, so the premium is about predictability, not survival."
+  },
+  {
+   "video_id": "hAemDBcxOm4",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "How I Changed My Ranking of Nvidia Stock After the First Investor Update Without Jensen Huang",
+   "published_at": "2026-11-23T12:55:44.298096+00:00",
+   "analyzed_at": "2026-11-23T14:57:21.285587Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$151 (stated); DCF fair value $260 (stated, revised up)",
+   "fair_value": "$260 (DCF, stated)",
+   "thesis": "BUY reiterated (was BUY 22 Nov @ ~$125, FV ~$259) - upgraded back into his top-10 stocks to buy after the first investor update without Jensen Huang. Q3 was 'fantastic': FY28 growth guidance raised 70% to 75%, Q3 revenue ~8% above the $105B forecast, demand exceeds supply, Vera CPU expected to more than double in FY28, physical AI revenue nearly tripled YoY (on track >$25B FY, ~10% of revenue), neocloud support continues. DCF fair value $260 vs $151 stated (~72% upside). Risks reduced but not gone; China/export investigation overhang remains. Note: his stated ~$151 is stale - NVDA closed Fri 20 Nov at $125.53, down 14%.",
+   "base_case": "Demand exceeds supply into FY28; FY28 revenue growth 75%; customers lining up, supply is the constraint.",
+   "bull_case": "Supply unlocks faster than expected; physical AI compounds and Vera CPU takes share from AMD/Intel in data-centre CPUs.",
+   "bear_case": "Export-control investigation could bring billions in fines or worse; Jensen probe overhang and post-Jensen execution risk persist; no sales of data-centre products to China forecast."
+  },
+  {
    "video_id": "IJeUTCnXoog",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -874,28 +929,28 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Joseph Carlson After Hours",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
-   "idx": 5
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
+  },
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 4
   },
   {
    "channel": "MarketBeat",
-   "idx": 6
-  },
-  {
-   "channel": "Joseph Carlson After Hours",
    "idx": 9
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 12
+   "idx": 15
   }
  ]
 }
