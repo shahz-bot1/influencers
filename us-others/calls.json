@@ -4421,5 +4421,105 @@
   "published_at": "2026-11-20T16:55:17.826180+00:00",
   "analyzed_at": "2026-11-21T04:57:33.000328+00:00",
   "stance_flip": false
+ },
+ {
+  "video_id": "nzJDTRHSzFA",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "NVDA",
+  "direction": "BUY",
+  "thesis": "FLIP from HOLD (13/15/17 Nov): thesis intact after Friday's ~14% drop \u2014 demand, supply chain and money flowing into AI unchanged; Jensen CEO-change \"one-man risk\" fear overexaggerated and not worth a 50% drop; \"anybody selling at these levels is going to be one of the bottom sellers\". He is not selling \u2014 \"I am a net buyer. I did take this opportunity on Friday to buy.\"",
+  "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+  "price_at_call": "~$125.53 Friday close (down ~14% on Friday)"
+ },
+ {
+  "video_id": "nzJDTRHSzFA",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "CRWV",
+  "direction": "BUY",
+  "thesis": "Neocloud players that turn on GPUs efficiently are \"great winners\" at \"great price\" \u2014 CoreWeave is turning compute on faster than expected and adjusted operating income improved sharply because faster turn-on shrinks the cash-burn gap before revenue starts. GPU pricing to stay elevated and demand \"through the roof\".",
+  "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+  "price_at_call": null
+ },
+ {
+  "video_id": "nzJDTRHSzFA",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "NBIS",
+  "direction": "BUY",
+  "thesis": "Same neocloud thesis as CRWV: Nebius is \"doing amazing\" at turning on compute fast; hyperscalers/neoclouds with everything available will make money \u2014 \"this is a buying opportunity\".",
+  "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+  "price_at_call": null
+ },
+ {
+  "video_id": "nzJDTRHSzFA",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "ORCL",
+  "direction": "UNCERTAIN",
+  "thesis": "Relays Oracle's Friday statement that all funding for the OpenAI contract is secured (first hyperscaler fully funded for the cycle, positive FCF in H2 FY28, >$30B FCF target FY29) as reassuring news; no explicit call on the stock.",
+  "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+  "price_at_call": null
+ },
+ {
+  "video_id": "nzJDTRHSzFA",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "AMD",
+  "direction": "UNCERTAIN",
+  "thesis": "Mentioned only in the cheap-semis forward-P/E list (~23x vs NVDA ~7.5x); no explicit call.",
+  "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+  "price_at_call": null
+ },
+ {
+  "video_id": "nzJDTRHSzFA",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "AVGO",
+  "direction": "UNCERTAIN",
+  "thesis": "Mentioned only in the cheap-semis forward-P/E list (~15x); no explicit call.",
+  "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+  "price_at_call": null
+ },
+ {
+  "video_id": "nzJDTRHSzFA",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "MRVL",
+  "direction": "UNCERTAIN",
+  "thesis": "Mentioned only in the cheap-semis forward-P/E list (~16x, captioned \"Marll\"); no explicit call.",
+  "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+  "price_at_call": null
+ },
+ {
+  "video_id": "nzJDTRHSzFA",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "TSM",
+  "direction": "UNCERTAIN",
+  "thesis": "Reports Taiwan stepped in after TSMC's worst week in decades (down >6% Friday, ~17% for the week) with a blanket ban on short selling below the previous close from Monday plus higher margin requirements; no explicit call.",
+  "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+  "price_at_call": null
+ },
+ {
+  "video_id": "nzJDTRHSzFA",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "000660.KS",
+  "direction": "UNCERTAIN",
+  "thesis": "Reports SoftBank was planning a potential ~$1 trillion buy of SK Hynix because HBM has become a massive AI asset; no explicit call.",
+  "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+  "price_at_call": null
+ },
+ {
+  "video_id": "nzJDTRHSzFA",
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "ticker": "AMZN",
+  "direction": "UNCERTAIN",
+  "thesis": "Reports Amazon is trying to buy AI software startup Decart for ~$7.5B (software that helps AI models run efficiently across chips); no explicit call.",
+  "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+  "price_at_call": null
  }
 ]
