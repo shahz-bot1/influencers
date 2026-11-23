@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "CCJ",
+   "tickerSlug": "CCJ",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-22T23:55:06.582286+00:00",
+   "price": null,
+   "video_id": "dmyfRt2Q94k"
+  },
+  {
+   "ticker": "UEC",
+   "tickerSlug": "UEC",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-22T23:55:06.582286+00:00",
+   "price": null,
+   "video_id": "dmyfRt2Q94k"
+  },
+  {
+   "ticker": "NXE",
+   "tickerSlug": "NXE",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-22T23:55:06.582286+00:00",
+   "price": null,
+   "video_id": "dmyfRt2Q94k"
+  },
+  {
    "ticker": "ETN",
    "tickerSlug": "ETN",
    "direction": "BUY",
