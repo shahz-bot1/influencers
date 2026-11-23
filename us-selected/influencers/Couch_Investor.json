@@ -4,6 +4,54 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-23T21:58:25.283872+00:00",
+   "price": null,
+   "video_id": "GLGwJ2uHlzc"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-11-23T21:58:25.283872+00:00",
+   "price": null,
+   "video_id": "GLGwJ2uHlzc"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-23T21:58:25.283872+00:00",
+   "price": null,
+   "video_id": "GLGwJ2uHlzc"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-23T21:58:25.283872+00:00",
+   "price": null,
+   "video_id": "GLGwJ2uHlzc"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-23T21:58:25.283872+00:00",
+   "price": null,
+   "video_id": "GLGwJ2uHlzc"
+  },
+  {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "BUY",
+   "date": "2026-11-23T21:58:25.283872+00:00",
+   "price": null,
+   "video_id": "GLGwJ2uHlzc"
+  },
+  {
    "ticker": "ANT",
    "tickerSlug": "ANT",
    "direction": "AVOID",
