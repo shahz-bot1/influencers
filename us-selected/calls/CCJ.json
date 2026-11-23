@@ -1,0 +1,30 @@
+{
+ "ticker": "CCJ",
+ "slug": "CCJ",
+ "calls": [
+  {
+   "video_id": "dmyfRt2Q94k",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Uranium Hit a 20-Year High. The Stocks That Mine It Crashed 60% (Here's the Real 2027 Plan)",
+   "published_at": "2026-11-22T23:55:06.582286+00:00",
+   "analyzed_at": "2026-11-23T06:57:00.500400+00:00",
+   "collab": false,
+   "ticker": "CCJ",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "Cameco (captions garble as 'Kamako/Kamico') realized only ~$65.80/lb in Q3 vs ~$96.50 long-term contract price because its book was signed at lower prices; as those contracts roll off in 2027 it can re-sign at higher prices — 'there will be a rebound if they start realizing these higher prices'.",
+   "base_case": "Legacy low-price commitments heaviest through 2028, lighter 2029-2030; CEO stressing capital discipline, not chasing volume.",
+   "bull_case": "Analysts show ~137% upside with targets $90-$150 ('a raging buy from a dozen analysts'); uranium long-term contract price at a record ~$99 (TradeTech, end Oct).",
+   "bear_case": "Key Lake mill outage forced 2026 production guidance down to 19.5-20.5M lbs; the rebound depends on the mill getting back on track and the realized/long-term price gap closing."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
