@@ -1,0 +1,30 @@
+{
+ "ticker": "UEC",
+ "slug": "UEC",
+ "calls": [
+  {
+   "video_id": "dmyfRt2Q94k",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "Uranium Hit a 20-Year High. The Stocks That Mine It Crashed 60% (Here's the Real 2027 Plan)",
+   "published_at": "2026-11-22T23:55:06.582286+00:00",
+   "analyzed_at": "2026-11-23T06:57:00.500400+00:00",
+   "collab": false,
+   "ticker": "UEC",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "Uranium Energy is the mirror image of Cameco — almost fully unhedged, so it realized ~$93/lb vs Cameco's ~$66; 'there's a tremendous opportunity' if it can show utilities signing more contracts at these higher prices.",
+   "base_case": "Recently signed two US utility deals for 1.1M lbs (2027-2032) priced at prevailing spot, no floor/ceiling.",
+   "bull_case": "Unhedged exposure to record uranium prices; analysts show ~161% upside; down ~50% in 3 months, so a contract-flow rebound could be sharp.",
+   "bear_case": "Not profitable yet; needs more utility contracts to drive revenue; being unhedged cuts both ways if spot falls."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
