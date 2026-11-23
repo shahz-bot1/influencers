@@ -3,6 +3,25 @@
  "slug": "SKHY",
  "calls": [
   {
+   "video_id": "9FUhiM66jyU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Everyone Talking About SK Hynix Stock Right Now? | SKHY Stock Analysis",
+   "published_at": "2026-11-23T16:00:01.908944+00:00",
+   "analyzed_at": "2026-11-23T23:02:33Z",
+   "collab": false,
+   "ticker": "SKHY",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": "$253 (DCF, stated)",
+   "thesis": "BUY reiterated (was BUY first tracked 21 Nov @ ~$120, FV $254). Conviction upgraded to medium today. Stock down ~$80 from its near-term high and near its 52-week low despite record operating income and margins. October investor update: memory demand growth is significantly exceeding expectations, supply constrained until 2030, 14 long-term customer agreements (3-5 years, price floor/ceiling, deposits) with major CSPs. Forward P/S 2.9 - 'ridiculously cheap'. DCF fair value $253. He is interested in buying SKHY even though he already owns Micron.",
+   "base_case": "Supply cannot keep pace with demand; long-term agreements lock in visibility and de-risk capacity build-out; demand from agentic AI now, physical AI (driverless cars, robotics) from ~2030-2033 as LLM growth slows.",
+   "bull_case": "Cloud capex grows 60%+ in 2027 and AI data-centre infrastructure ~40% a year to 2030; the memory shortage extends and SK Hynix re-rates toward its $253 DCF value.",
+   "bear_case": "Oversupply risk is near zero near-term but rises to low single-digit percent in 2028 and higher in 2029-2031 if too much capacity is built; US regulation could slow data-centre builds."
+  },
+  {
    "video_id": "P8kCWGaopNc",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
