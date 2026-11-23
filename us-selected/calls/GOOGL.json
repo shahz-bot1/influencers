@@ -3,6 +3,24 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "GLGwJ2uHlzc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Jensen Huang Is Back at Nvidia. Here's What I'm Doing Now",
+   "published_at": "2026-11-23T21:58:25.283872+00:00",
+   "analyzed_at": "2026-11-23T23:02:33Z",
+   "collab": false,
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 19 Nov). Bought last week, comfortable buying this week; Alphabet at ~20.4x forward earnings - 'cheap before, still cheap today'. He does not expect a return to $400, but '$300, $320 before the end of the year, it's possible'.",
+   "base_case": "Cheap big tech re-rates as sentiment shifts after the Jensen overhang is removed.",
+   "bull_case": "Alphabet reaches $300-320 by year-end on the sentiment shift.",
+   "bear_case": "One day of green is not a trend; still far below October highs and a sustained recovery needs several green days."
+  },
+  {
    "video_id": "C8YbFBUpVXI",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -574,28 +592,28 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 4
-  },
-  {
-   "channel": "MarketBeat",
    "idx": 5
   },
   {
+   "channel": "MarketBeat",
+   "idx": 6
+  },
+  {
    "channel": "BWB - Business With Brian",
-   "idx": 18
+   "idx": 19
   }
  ]
 }
