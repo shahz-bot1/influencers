@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:04:55.318883+00:00",
+ "updated": "2026-11-23T23:06:39.588209+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -754,6 +754,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "trading a little over $58 (stated); DCF fair value $52 (stated)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CCJ",
+   "slug": "CCJ",
+   "lastDate": "2026-11-22T23:55:06.582286+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
    "nCalls": 1
   },
   {
@@ -1773,12 +1790,12 @@
   {
    "ticker": "GOOGL",
    "slug": "GOOGL",
-   "lastDate": "2026-11-22T15:00:05.329104+00:00",
+   "lastDate": "2026-11-23T21:58:25.283872+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$198"
+     "avg": "$158.5"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -1792,15 +1809,15 @@
     }
    ],
    "influencers": [
-    "Mark Roussin CPA",
     "Couch Investor",
+    "Mark Roussin CPA",
     "Joseph Carlson After Hours",
     "Parkevtate Vosianc CFA",
     "MarketBeat",
     "BWB - Business With Brian"
    ],
    "lastStated": "~$277 (current); 21.1x forward P/E (stated)",
-   "nCalls": 35
+   "nCalls": 36
   },
   {
    "ticker": "GRAL",
@@ -2570,12 +2587,12 @@
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-11-22T15:00:05.329104+00:00",
+   "lastDate": "2026-11-23T21:58:25.283872+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$21.5"
+     "avg": null
     },
     {
      "dir": "HOLD",
@@ -2584,14 +2601,14 @@
     }
    ],
    "influencers": [
+    "Couch Investor",
     "Mark Roussin CPA",
     "Joseph Carlson After Hours",
     "BWB - Business With Brian",
-    "Couch Investor",
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "No stated price; system says undervalued on his price ladder",
-   "nCalls": 28
+   "nCalls": 29
   },
   {
    "ticker": "MMM",
@@ -2765,12 +2782,12 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-11-22T15:00:05.329104+00:00",
+   "lastDate": "2026-11-23T21:58:25.283872+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 3,
-     "avg": "$68.75"
+     "avg": "$3"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -2784,24 +2801,24 @@
     }
    ],
    "influencers": [
+    "Couch Investor",
     "Mark Roussin CPA",
     "Parkevtate Vosianc CFA",
-    "Couch Investor",
     "BWB - Business With Brian",
     "MarketBeat"
    ],
    "lastStated": "No stated price; up 134.5% YTD, ~39% drawdown",
-   "nCalls": 26
+   "nCalls": 27
   },
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-11-19T18:04:01.382020+00:00",
+   "lastDate": "2026-11-23T21:58:25.283872+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$70.05"
+     "avg": "$107"
     },
     {
      "dir": "HOLD",
@@ -2821,7 +2838,7 @@
     "MarketBeat"
    ],
    "lastStated": "$33.1B market cap; ~60% drawdown",
-   "nCalls": 24
+   "nCalls": 25
   },
   {
    "ticker": "NEM",
@@ -3018,12 +3035,12 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-22T18:00:05.329104+00:00",
+   "lastDate": "2026-11-23T21:58:25.283872+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": null
+     "avg": "$151"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -3037,15 +3054,15 @@
     }
    ],
    "influencers": [
+    "Couch Investor",
+    "Joseph Carlson After Hours",
     "Parkevtate Vosianc CFA",
     "Mark Roussin CPA",
-    "Couch Investor",
     "MarketBeat",
-    "Joseph Carlson After Hours",
     "BWB - Business With Brian"
    ],
-   "lastStated": "~$125 (stated, after a 14% drop today)",
-   "nCalls": 53
+   "lastStated": "~$151 (stated); DCF fair value $260 (stated, revised up)",
+   "nCalls": 56
   },
   {
    "ticker": "NVO",
@@ -3101,6 +3118,23 @@
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "NXE",
+   "slug": "NXE",
+   "lastDate": "2026-11-22T23:55:06.582286+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
    ],
    "lastStated": "",
    "nCalls": 1
@@ -3879,19 +3913,19 @@
   {
    "ticker": "SKHY",
    "slug": "SKHY",
-   "lastDate": "2026-11-21T16:00:02.516779+00:00",
+   "lastDate": "2026-11-23T16:00:01.908944+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$120"
+     "avg": null
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "~$120 (current, stated)",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "SMCI",
@@ -3970,12 +4004,12 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-11-09T20:57:57.632140+00:00",
+   "lastDate": "2026-11-23T21:58:25.283872+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$21"
+     "avg": "$22"
     },
     {
      "dir": "HOLD",
@@ -3989,7 +4023,7 @@
     "MarketBeat"
    ],
    "lastStated": "No share price stated; ~$20-22B market cap, down ~37% YTD; ~20x 2027 earnings (s",
-   "nCalls": 11
+   "nCalls": 12
   },
   {
    "ticker": "SOUN",
@@ -4291,12 +4325,12 @@
   {
    "ticker": "TSM",
    "slug": "TSM",
-   "lastDate": "2026-11-16T23:55:16.580684+00:00",
+   "lastDate": "2026-11-23T20:58:25.283872+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 3,
-     "avg": "$196.5"
+     "avg": "$251"
     }
    ],
    "influencers": [
@@ -4304,8 +4338,8 @@
     "Parkevtate Vosianc CFA",
     "BWB - Business With Brian"
    ],
-   "lastStated": "Market $390 (stated); DCF fair value $567; forward P/E 16.7",
-   "nCalls": 10
+   "lastStated": "~$360 (bought $30,000; planned $315-330, Jensen news jumped it ~$30)",
+   "nCalls": 11
   },
   {
    "ticker": "TTD",
@@ -4417,6 +4451,23 @@
    ],
    "lastStated": "Buy trigger $60 (stated); currently ~13% above",
    "nCalls": 15
+  },
+  {
+   "ticker": "UEC",
+   "slug": "UEC",
+   "lastDate": "2026-11-22T23:55:06.582286+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "",
+   "nCalls": 1
   },
   {
    "ticker": "UNH",
@@ -4880,15 +4931,15 @@
    "name": "Couch Investor",
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
-   "nCalls": 129,
-   "nVideos": 79
+   "nCalls": 135,
+   "nVideos": 80
   },
   {
    "name": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
    "slug": "Joseph_Carlson_After_Hours",
-   "nCalls": 63,
-   "nVideos": 15
+   "nCalls": 65,
+   "nVideos": 16
   },
   {
    "name": "Mark Roussin CPA",
@@ -4901,15 +4952,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 142,
+   "nCalls": 145,
    "nVideos": 54
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 321,
-   "nVideos": 285
+   "nCalls": 323,
+   "nVideos": 286
   },
   {
    "name": "The German Value Investor",
@@ -4920,6 +4971,36 @@
   }
  ],
  "videos": [
+  {
+   "id": "GLGwJ2uHlzc",
+   "title": "Jensen Huang Is Back at Nvidia. Here's What I'm Doing Now",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-11-23T21:58:25.283872+00:00",
+   "nCalls": 6
+  },
+  {
+   "id": "jnEf8hfupDs",
+   "title": "I Just Bought $30,000 of a NEW stock",
+   "creator": "Joseph Carlson After Hours",
+   "channels": [
+    "Joseph Carlson After Hours"
+   ],
+   "published_at": "2026-11-23T20:58:25.283872+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "9FUhiM66jyU",
+   "title": "Why Is Everyone Talking About SK Hynix Stock Right Now? | SKHY Stock Analysis",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-23T16:00:01.908944+00:00",
+   "nCalls": 1
+  },
   {
    "id": "IJeUTCnXoog",
    "title": "Unfortunate News for AMD Stock Investors",
