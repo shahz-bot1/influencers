@@ -3,6 +3,16 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "nzJDTRHSzFA",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "thesis": "FLIP from HOLD (13/15/17 Nov): thesis intact after Friday's ~14% drop — demand, supply chain and money flowing into AI unchanged; Jensen CEO-change \"one-man risk\" fear overexaggerated and not worth a 50% drop; \"anybody selling at these levels is going to be one of the bottom sellers\". He is not selling — \"I am a net buyer. I did take this opportunity on Friday to buy.\"",
+   "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+   "price_at_call": "~$125.53 Friday close (down ~14% on Friday)"
+  },
+  {
    "video_id": "vEJ58cI6zSY",
    "video_title": "The Stock Market Is Crashing - What I'm Doing Now",
    "channel": "Daniel Pronk",
@@ -227,24 +237,24 @@
  ],
  "byInf": [
   {
-   "channel": "Daniel Pronk",
+   "channel": "Jose Najarro Stocks",
    "idx": 0
   },
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Daniel Pronk",
    "idx": 1
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 6
+   "idx": 7
   },
   {
    "channel": "Tom Nash",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
