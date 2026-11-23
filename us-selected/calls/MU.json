@@ -3,6 +3,24 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "GLGwJ2uHlzc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Jensen Huang Is Back at Nvidia. Here's What I'm Doing Now",
+   "published_at": "2026-11-23T21:58:25.283872+00:00",
+   "analyzed_at": "2026-11-23T23:02:33Z",
+   "collab": false,
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 19 Nov). Bought last week, comfortable buying this week. Micron up 19% on the day as memory rallied with the Jensen news.",
+   "base_case": "Memory demand stays supply-constrained and Micron re-rates with the AI ecosystem now the Jensen overhang is removed.",
+   "bull_case": "Sustained green days confirm a sentiment shift and memory names grind back toward October levels.",
+   "bear_case": "One green day is not a trend; still far below recent highs and the market remains shaky."
+  },
+  {
    "video_id": "C8YbFBUpVXI",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -433,24 +451,24 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
-   "idx": 3
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "MarketBeat",
-   "idx": 13
+   "idx": 14
   }
  ]
 }
