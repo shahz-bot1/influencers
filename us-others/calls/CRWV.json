@@ -3,6 +3,16 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "nzJDTRHSzFA",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "thesis": "Neocloud players that turn on GPUs efficiently are \"great winners\" at \"great price\" — CoreWeave is turning compute on faster than expected and adjusted operating income improved sharply because faster turn-on shrinks the cash-burn gap before revenue starts. GPU pricing to stay elevated and demand \"through the roof\".",
+   "analyzed_at": "2026-11-23T04:57:30.925161+00:00",
+   "price_at_call": null
+  },
+  {
    "video_id": "h4k6-xHcwlw",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -112,15 +122,15 @@
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Daniel Pronk",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 9
+   "idx": 10
   }
  ]
 }
