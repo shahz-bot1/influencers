@@ -3,6 +3,24 @@
  "slug": "SOFI",
  "calls": [
   {
+   "video_id": "GLGwJ2uHlzc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Jensen Huang Is Back at Nvidia. Here's What I'm Doing Now",
+   "published_at": "2026-11-23T21:58:25.283872+00:00",
+   "analyzed_at": "2026-11-23T23:02:33Z",
+   "collab": false,
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 9 Nov). Bought last week, comfortable buying this week; named in the portfolio of names he bought during the sell-off because the thesis was not broken and fear was extreme.",
+   "base_case": "Good company bought on fear; comfortable holding/buying while sentiment recovers.",
+   "bull_case": "A sustained sentiment shift lifts the whole beaten-down growth basket into year-end.",
+   "bear_case": "Still down from October highs; a dead-cat bounce remains possible in a shaky market."
+  },
+  {
    "video_id": "EL9pZIwiMNQ",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -188,11 +206,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "MarketBeat",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
