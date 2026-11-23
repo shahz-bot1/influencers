@@ -6,6 +6,30 @@
   {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-23T04:57:30.925161+00:00",
+   "price": "~$125.53 Friday close (down ~14% on Friday)",
+   "video_id": "nzJDTRHSzFA"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-23T04:57:30.925161+00:00",
+   "price": null,
+   "video_id": "nzJDTRHSzFA"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-23T04:57:30.925161+00:00",
+   "price": null,
+   "video_id": "nzJDTRHSzFA"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
    "direction": "HOLD",
    "date": "2026-11-17T04:57:53.270594+00:00",
    "price": "~$156 now; ~$239 close on 6 Oct, down ~35% from October high",
