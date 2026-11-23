@@ -4,6 +4,22 @@
  "slug": "Joseph_Carlson_After_Hours",
  "calls": [
   {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-11-23T20:58:25.283872+00:00",
+   "price": "~$360 (bought $30,000; planned $315-330, Jensen news jumped it ~$30)",
+   "video_id": "jnEf8hfupDs"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-23T20:58:25.283872+00:00",
+   "price": null,
+   "video_id": "jnEf8hfupDs"
+  },
+  {
    "ticker": "NFLX",
    "tickerSlug": "NFLX",
    "direction": "BUY",
