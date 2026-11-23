@@ -3,6 +3,24 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "GLGwJ2uHlzc",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "Jensen Huang Is Back at Nvidia. Here's What I'm Doing Now",
+   "published_at": "2026-11-23T21:58:25.283872+00:00",
+   "analyzed_at": "2026-11-23T23:02:33Z",
+   "collab": false,
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "thesis": "BUY reiterated (was BUY 19 Nov, flipped from CONDITIONAL_BUY 12 Nov). Bought last week, comfortable buying this week. Nebius up ~22% on the day but still ~50% below its late-September peak (~$50 then ~$30 late Oct); the daily candle was red after an intraday high around $105-110 as last week's buyers took profits.",
+   "base_case": "The Jensen-exit fear is over, but holders are selling into the bounce; the next few days decide whether the recovery holds.",
+   "bull_case": "Forced buy-backs and short covering lift the whole neocloud space as the AI ecosystem re-rates.",
+   "bear_case": "Profit-taking continues and the bounce fades; still a long way back to the September peak."
+  },
+  {
    "video_id": "95t1TqHptd4",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -421,15 +439,15 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
-  },
-  {
-   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
+   "channel": "BWB - Business With Brian",
+   "idx": 3
+  },
+  {
    "channel": "MarketBeat",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
