@@ -3,6 +3,25 @@
  "slug": "TSM",
  "calls": [
   {
+   "video_id": "jnEf8hfupDs",
+   "channel": "Joseph Carlson After Hours",
+   "handle": "@JosephCarlsonAfterHours",
+   "video_title": "I Just Bought $30,000 of a NEW stock",
+   "published_at": "2026-11-23T20:58:25.283872+00:00",
+   "analyzed_at": "2026-11-23T23:02:33Z",
+   "collab": false,
+   "ticker": "TSM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$360 (bought $30,000; planned $315-330, Jensen news jumped it ~$30)",
+   "fair_value": "~$450 (stated)",
+   "thesis": "BUY reiterated - was BUY 16 Nov ('looking at adding it'), now executed: bought $30,000 at ~$360 today and plans another $30,000 in three $10,000 tranches on each $20 drop, for a $60,000 position. Fair value ~$450: it only needs to meet current analyst estimates to get there. ~70% share of high-end chip manufacturing, irreplaceable, at the low end of its historical valuation (~21x trailing P/E vs ~24x median, vs 46x peak), earnings growing 35-36%, building 19 new fabs, free cash flow seen at ~$70B by 2028. The 26% sell-off from highs was non-fundamental (politics + Jensen's ouster), so it can trade back up for non-fundamental reasons too.",
+   "base_case": "Meets current guidance and grinds toward $450 on earnings growth alone; each $20 drop triggers another $10,000 tranche.",
+   "bull_case": "Guidance gets raised and the multiple expands back toward its 46x peak as enthusiasm returns to the whole semiconductor chain.",
+   "bear_case": "Guidance gets cut instead; China/Taiwan geopolitical risk - he discounts an invasion as very unlikely, but a full invasion would be a global event hitting every AI stock, not just TSM."
+  },
+  {
    "video_id": "7iaF5Nox1ig",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -159,11 +178,11 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
