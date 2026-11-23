@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:58:23.878868+00:00",
+ "updated": "2026-11-23T05:00:28.819573+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -769,12 +769,12 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "lastDate": "2026-11-23T04:57:30.925161+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$44"
+     "avg": null
     },
     {
      "dir": "AVOID",
@@ -789,7 +789,7 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "Latest buys in the $44-48 range",
-   "nCalls": 10
+   "nCalls": 11
   },
   {
    "ticker": "DHI",
@@ -1640,7 +1640,7 @@
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-11-13T04:59:10.909488+00:00",
+   "lastDate": "2026-11-23T04:57:30.925161+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1665,7 +1665,7 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "No price stated",
-   "nCalls": 5
+   "nCalls": 6
   },
   {
    "ticker": "NET",
@@ -1784,17 +1784,12 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-19T22:55:34.818034+00:00",
+   "lastDate": "2026-11-23T04:57:30.925161+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 2,
-     "avg": "$252.25"
-    },
-    {
-     "dir": "HOLD",
-     "n": 1,
-     "avg": "$156"
+     "n": 3,
+     "avg": "$210.01"
     },
     {
      "dir": "SELL",
@@ -1808,14 +1803,14 @@
     }
    ],
    "influencers": [
-    "Daniel Pronk",
     "Jose Najarro Stocks",
+    "Daniel Pronk",
     "Asymmetric Investing",
     "Joseph Hogue, CFA",
     "Tom Nash"
    ],
-   "lastStated": "~$156 now; ~$239 close on 6 Oct, down ~35% from October high",
-   "nCalls": 19
+   "lastStated": "~$125.53 Friday close (down ~14% on Friday)",
+   "nCalls": 20
   },
   {
    "ticker": "NVDY",
@@ -2763,8 +2758,8 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 45,
-   "nVideos": 23
+   "nCalls": 48,
+   "nVideos": 24
   },
   {
    "name": "Joseph Hogue, CFA",
@@ -2803,6 +2798,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "nzJDTRHSzFA",
+   "title": "Elon Musk's AI Cash Warning",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-11-22T19:55:23.687521+00:00",
+   "nCalls": 3
+  },
   {
    "id": "5HBi61KIiNo",
    "title": "For a REAL CRASH, we need earnings, buybacks, economy, 401k passive etc. to revert...",
