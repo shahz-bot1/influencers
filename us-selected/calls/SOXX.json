@@ -1,0 +1,28 @@
+{
+ "ticker": "SOXX",
+ "slug": "SOXX",
+ "calls": [
+  {
+   "video_id": "gB9A-LaKjcs",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 ETFs I'm BUYING Before 2027",
+   "published_at": "2026-11-24T14:59:49.753110+00:00",
+   "ticker": "SOXX",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "First tracked. Semiconductor basket, down ~40% from its June peak; prefers SOXX over SMH for its AMD weighting (largest holding, then NVDA/MU/AVGO/INTC/TXN/ADI/QCOM/MRVL/NXP). AI demand unchanged while valuations reset.",
+   "base_case": "Base: diversified chip exposure instead of picking single winners.",
+   "bull_case": "Bull: AI/data-center/memory demand keeps growing; sector rebounds into 2027.",
+   "bear_case": "Bear: sector has lost hundreds of billions in market cap in weeks; uncertainty higher.",
+   "analyzed_at": "2026-11-24T19:01:58.143773+00:00",
+   "stance_flip": null
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Mark Roussin CPA",
+   "idx": 0
+  }
+ ]
+}
