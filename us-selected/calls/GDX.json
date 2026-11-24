@@ -3,6 +3,22 @@
  "slug": "GDX",
  "calls": [
   {
+   "video_id": "gB9A-LaKjcs",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 ETFs I'm BUYING Before 2027",
+   "published_at": "2026-11-24T14:59:49.753110+00:00",
+   "ticker": "GDX",
+   "direction": "BUY",
+   "price_at_call": "not stated (entered recently; down ~40% from 52-week high)",
+   "thesis": "Reiterated BUY (prior BUY 8 Nov). Tactical gold-miners play into 2027; 2018 parallel — miners rose ~20% Sep–Dec 2018 while equities fell; miners offer operating leverage if gold rises and costs hold.",
+   "base_case": "Base: diversified miners/royalty exposure without betting on one company.",
+   "bull_case": "Bull: falling real yields, weaker dollar, or a less restrictive Fed support gold.",
+   "bear_case": "Bear: Fed higher-for-longer is a headwind; miners far more volatile than gold itself.",
+   "analyzed_at": "2026-11-24T19:01:58.143773+00:00",
+   "stance_flip": null
+  },
+  {
    "video_id": "RCTtEjdjbXQ",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
