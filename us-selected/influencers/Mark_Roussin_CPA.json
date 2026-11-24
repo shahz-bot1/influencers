@@ -4,6 +4,46 @@
  "slug": "Mark_Roussin_CPA",
  "calls": [
   {
+   "ticker": "QQQM",
+   "tickerSlug": "QQQM",
+   "direction": "BUY",
+   "date": "2026-11-24T14:59:49.753110+00:00",
+   "price": "not stated",
+   "video_id": "gB9A-LaKjcs"
+  },
+  {
+   "ticker": "SOXX",
+   "tickerSlug": "SOXX",
+   "direction": "BUY",
+   "date": "2026-11-24T14:59:49.753110+00:00",
+   "price": "not stated",
+   "video_id": "gB9A-LaKjcs"
+  },
+  {
+   "ticker": "SCHD",
+   "tickerSlug": "SCHD",
+   "direction": "BUY",
+   "date": "2026-11-24T14:59:49.753110+00:00",
+   "price": "not stated (added 19 Nov on ~10% dip)",
+   "video_id": "gB9A-LaKjcs"
+  },
+  {
+   "ticker": "XLG",
+   "tickerSlug": "XLG",
+   "direction": "BUY",
+   "date": "2026-11-24T14:59:49.753110+00:00",
+   "price": "not stated (layering in, not all at once)",
+   "video_id": "gB9A-LaKjcs"
+  },
+  {
+   "ticker": "GDX",
+   "tickerSlug": "GDX",
+   "direction": "BUY",
+   "date": "2026-11-24T14:59:49.753110+00:00",
+   "price": "not stated (entered recently; down ~40% from 52-week high)",
+   "video_id": "gB9A-LaKjcs"
+  },
+  {
    "ticker": "QQQ",
    "tickerSlug": "QQQ",
    "direction": "BUY",
