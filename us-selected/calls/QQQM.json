@@ -3,6 +3,22 @@
  "slug": "QQQM",
  "calls": [
   {
+   "video_id": "gB9A-LaKjcs",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 ETFs I'm BUYING Before 2027",
+   "published_at": "2026-11-24T14:59:49.753110+00:00",
+   "ticker": "QQQM",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "First tracked. Nasdaq 100 exposure at 0.15% expense ratio (vs 0.20% for QQQ); buying as a foundational position after the correction — AI trade entering the middle innings, fear at extremes.",
+   "base_case": "Base: broad tech basket, top holdings AAPL/NVDA/MSFT/MU/AMZN/AMD/TSLA/META/WMT/GOOGL.",
+   "bull_case": "Bull: pullback is a buying opportunity like 2018/2020/2022.",
+   "bear_case": "Bear: more volatility possible into year-end.",
+   "analyzed_at": "2026-11-24T19:01:58.143773+00:00",
+   "stance_flip": null
+  },
+  {
    "video_id": "JgkqRJ4PCTc",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -18,8 +34,12 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Mark Roussin CPA",
    "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   }
  ]
 }
