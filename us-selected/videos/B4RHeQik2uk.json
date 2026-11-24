@@ -1,0 +1,26 @@
+{
+ "video_id": "B4RHeQik2uk",
+ "title": "Why Is Constellation Energy Stock Falling, and is it a Buying Opportunity? | CEG Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-24T15:59:49.753110+00:00",
+ "source_note": "Detailed summary generated from video captions.",
+ "summary": "Parkevtate Vosianc answers a viewer-voted request on Constellation Energy, down 32% year to date. He attributes the recent fall mainly to the US midterm results, which put anti-data-centre politicians in office, but agrees with management that the market is overreacting: he does not expect Democrats to stop data centres being built, though terms may become less favourable, with fewer tax breaks and more demands such as local housing or infrastructure investment, and he sees room for win-win deals. The business itself is booming: full-year operating profit guidance was raised to $12.50-$12.80 per share, with the new low end previously the high end, the nuclear fleet delivered a 99.2% capacity factor over the summer, and more than 8,500 megawatts are contracted into the 2040s, including landmark deals with Google and Amazon plus a new 20-year agreement with an undisclosed customer. Analysts forecast over 16% annual earnings-per-share growth, the forward price-to-earnings ratio is about 18, and his discounted-cash-flow fair value is $396 against a roughly $240 price, about 65% undervalued. He also likes Bloom Energy but says Constellation is the better choice at current prices (no explicit Bloom call). Call: CEG BUY at ~$240, fair value $396, a reiteration of his 9 October BUY.",
+ "calls": [
+  {
+   "video_id": "B4RHeQik2uk",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Constellation Energy Stock Falling, and is it a Buying Opportunity? | CEG Stock Analysis",
+   "published_at": "2026-11-24T15:59:49.753110+00:00",
+   "ticker": "CEG",
+   "direction": "BUY",
+   "price_at_call": "~$240 (stated current price; DCF fair value $396, ~65% undervalued)",
+   "thesis": "Down 32% YTD on post-midterm fears that anti-data-center politicians will block data centers — he calls it an overreaction; business booming, guidance raised, 8,500+ MW contracted into the 2040s incl. Google and Amazon; forward PE ~18 vs 16%+ expected EPS growth.",
+   "base_case": "Base: demand keeps growing, longer contracts give visibility for capacity investment.",
+   "bull_case": "Bull: DCF $396 vs $240; nuclear fleet ran at 99.2% capacity factor over the summer.",
+   "bear_case": "Bear: politicians may demand tougher terms (housing/infrastructure) or repel data centers in some jurisdictions.",
+   "analyzed_at": "2026-11-24T19:01:58.143773+00:00",
+   "stance_flip": null
+  }
+ ]
+}
