@@ -1,0 +1,28 @@
+{
+ "ticker": "SOXX",
+ "slug": "SOXX",
+ "calls": [
+  {
+   "video_id": "R_GPXyQPyp8",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "I'm buying MORE AI stocks (& you should too!) -- here is why? | Akshat Shrivastava",
+   "published_at": "2026-11-23T15:26:20.312551+00:00",
+   "ticker": "SOXX",
+   "direction": "CONDITIONAL_BUY",
+   "price_at_call": "not stated",
+   "thesis": "If you want a slightly more volatile index on top of QQQ/S&P 500, SOXX is a good semiconductor ETF/index to add",
+   "base_case": "Add SOXX only as a smaller, more volatile satellite to the core QQQ/S&P 500 buys",
+   "bull_case": "Semis lead the V-shaped recovery higher",
+   "bear_case": "Volatility cuts both ways in a deeper correction",
+   "note": "First Akshat call on SOXX. Conditional: only for those wanting extra volatility; QQQ and S&P 500 are the core recommendation.",
+   "analyzed_at": "2026-11-24T01:29:29.000000+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Akshat Shrivastava",
+   "idx": 0
+  }
+ ]
+}
