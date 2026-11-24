@@ -4,6 +4,38 @@
  "slug": "Akshat_Shrivastava",
  "calls": [
   {
+   "ticker": "NASDAQ 100",
+   "tickerSlug": "NASDAQ_100",
+   "direction": "BUY",
+   "date": "2026-11-23T15:26:20.312551+00:00",
+   "price": "not stated",
+   "video_id": "R_GPXyQPyp8"
+  },
+  {
+   "ticker": "S&P 500",
+   "tickerSlug": "S_P_500",
+   "direction": "BUY",
+   "date": "2026-11-23T15:26:20.312551+00:00",
+   "price": "not stated",
+   "video_id": "R_GPXyQPyp8"
+  },
+  {
+   "ticker": "SOXX",
+   "tickerSlug": "SOXX",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-23T15:26:20.312551+00:00",
+   "price": "not stated",
+   "video_id": "R_GPXyQPyp8"
+  },
+  {
+   "ticker": "US AI STOCKS",
+   "tickerSlug": "US_AI_STOCKS",
+   "direction": "BUY",
+   "date": "2026-11-23T15:26:20.312551+00:00",
+   "price": "not stated",
+   "video_id": "R_GPXyQPyp8"
+  },
+  {
    "ticker": "GOOGL",
    "tickerSlug": "GOOGL",
    "direction": "BUY",
