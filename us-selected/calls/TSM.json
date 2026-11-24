@@ -3,6 +3,25 @@
  "slug": "TSM",
  "calls": [
   {
+   "video_id": "TtMD62DqeqM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Stock Market Sell-Off: 5 Beaten-Down AI Stocks to Buy on the Dip",
+   "published_at": "2026-11-24T12:55:36.653040+00:00",
+   "analyzed_at": "2026-11-24T14:58:16Z",
+   "collab": false,
+   "ticker": "TSM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$356 (stated)",
+   "fair_value": "$505 (DCF, stated)",
+   "thesis": "BUY reiterated (was BUY 6 Nov, FV $566 then — FV cut to $505). Was $487 in the last 12 months. Calls TSMC the best manufacturing company in the world, period; primary manufacturing partner for Nvidia, AMD, Broadcom, Apple — even Intel outsources to TSMC.",
+   "base_case": "TSMC keeps its manufacturing lead and demand from AI customers stays strong.",
+   "bull_case": "Stock re-rates toward the $505 DCF value.",
+   "bear_case": "Geopolitical risk around Taiwan; a broader AI-spending slowdown would hit orders."
+  },
+  {
    "video_id": "jnEf8hfupDs",
    "channel": "Joseph Carlson After Hours",
    "handle": "@JosephCarlsonAfterHours",
@@ -173,16 +192,16 @@
  ],
  "byInf": [
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "channel": "Joseph Carlson After Hours",
+   "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
