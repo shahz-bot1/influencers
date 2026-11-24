@@ -6,6 +6,22 @@
   {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
+   "direction": "HOLD",
+   "date": "2026-11-24T05:30:00+00:00",
+   "price": 166,
+   "video_id": "QbyXtMgLV3Q"
+  },
+  {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "HOLD",
+   "date": "2026-11-24T05:30:00+00:00",
+   "price": 453,
+   "video_id": "QbyXtMgLV3Q"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
    "direction": "BUY",
    "date": "2026-11-23T04:57:30.925161+00:00",
    "price": "~$125.53 Friday close (down ~14% on Friday)",
