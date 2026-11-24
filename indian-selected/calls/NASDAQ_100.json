@@ -3,6 +3,22 @@
  "slug": "NASDAQ_100",
  "calls": [
   {
+   "video_id": "R_GPXyQPyp8",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "I'm buying MORE AI stocks (& you should too!) -- here is why? | Akshat Shrivastava",
+   "published_at": "2026-11-23T15:26:20.312551+00:00",
+   "ticker": "NASDAQ 100",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "This is a V-shaped correction (~20-22% on the index), not a W-shaped one like 2022 which took 2 years to recover; QQQ forward PE 18.7 vs 10-yr avg 22, EPS growth ~16-20% retained, so buy the index now at ~600 and average down if it falls further",
+   "base_case": "V-shaped recovery: buy QQQ now, average down on further dips toward 550-560",
+   "bull_case": "Quick V recovery from the ~20% correction makes fast money on index buys",
+   "bear_case": "It turns into a slow W-shaped correction and recovery takes 2+ years",
+   "note": "FLIP: was HOLD on NASDAQ 100 / QQQ on 5 Nov 2026 (then expected 640-750 consolidation), now BUY. QQQ ~600 level and 550-560 max-fall levels are USD, not Rs, so price_at_call stays 'not stated'.",
+   "analyzed_at": "2026-11-24T01:29:29.000000+00:00"
+  },
+  {
    "video_id": "oq5odXfokrM",
    "channel": "Akshat Shrivastava",
    "handle": "@AkshatZayn",
@@ -56,7 +72,7 @@
   },
   {
    "channel": "Rahul Jain",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
