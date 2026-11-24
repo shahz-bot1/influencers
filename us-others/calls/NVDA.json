@@ -3,6 +3,16 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "QbyXtMgLV3Q",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "HOLD",
+   "thesis": "Very much bullish and NVDA is his biggest position, but 'going to continue to hold'; sees $200+ in 6-12 months; Jensen reinstated unanimously, board satisfied on national-security risk after US government input; next catalyst GTC DC in ~5 days; warns of volatility and political-risk overhang.",
+   "analyzed_at": "2026-11-24T05:30:00+00:00",
+   "price_at_call": 166
+  },
+  {
    "video_id": "nzJDTRHSzFA",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -242,19 +252,19 @@
   },
   {
    "channel": "Daniel Pronk",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 7
+   "idx": 8
   },
   {
    "channel": "Tom Nash",
-   "idx": 8
+   "idx": 9
   }
  ]
 }
