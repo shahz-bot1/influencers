@@ -3,6 +3,16 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "Obe61geAjLY",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "thesis": "Adding aggressively on Friday's >4% sell-off; AWS capex ~$220B in 2026 with ~20% ROIC and demand visibility into 2027-29; operating cash flow compounding ~31%/yr vs share price ~9%/yr since Q4 2021, P/OCF ~16.5x vs ~25x long-term median; 2nd-largest position, >15% of portfolio.",
+   "analyzed_at": "2026-11-24T05:30:00+00:00",
+   "price_at_call": null
+  },
+  {
    "video_id": "vEJ58cI6zSY",
    "video_title": "The Stock Market Is Crashing - What I'm Doing Now",
    "channel": "Daniel Pronk",
@@ -78,11 +88,11 @@
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
