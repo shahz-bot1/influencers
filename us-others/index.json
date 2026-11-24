@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:00:28.819573+00:00",
+ "updated": "2026-11-24T05:09:17.430512+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -125,19 +125,19 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-11-02T05:05:00+00:00",
+   "lastDate": "2026-11-24T05:30:00+00:00",
    "chips": [
     {
-     "dir": "BUY",
+     "dir": "HOLD",
      "n": 1,
-     "avg": "$30"
+     "avg": "$453"
     }
    ],
    "influencers": [
     "Jose Najarro Stocks"
    ],
-   "lastStated": "No target stated; 30 Oct close ~$55 as cited (captions garble some figures)",
-   "nCalls": 6
+   "lastStated": "453",
+   "nCalls": 7
   },
   {
    "ticker": "AMDY",
@@ -176,7 +176,7 @@
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-11-19T22:55:34.818034+00:00",
+   "lastDate": "2026-11-24T05:30:00+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -200,7 +200,7 @@
     "Asymmetric Investing"
    ],
    "lastStated": "~15x trailing operating cash flow vs 25.8x long-run median; conservative DCF imp",
-   "nCalls": 6
+   "nCalls": 7
   },
   {
    "ticker": "ANET",
@@ -1489,24 +1489,24 @@
   {
    "ticker": "MELI",
    "slug": "MELI",
-   "lastDate": "2026-11-06T04:58:37.767680+00:00",
+   "lastDate": "2026-11-24T05:30:00+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$1,500"
+     "avg": "$1,400"
     }
    ],
    "influencers": [
     "Daniel Pronk"
    ],
-   "lastStated": "~$1,500 (down 12.4% on the day, near 52-week lows; ~$76bn market cap)",
-   "nCalls": 1
+   "lastStated": "1400",
+   "nCalls": 2
   },
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-10-29T04:58:25.783269+00:00",
+   "lastDate": "2026-11-24T05:30:00+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1525,7 +1525,7 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "No price stated",
-   "nCalls": 5
+   "nCalls": 6
   },
   {
    "ticker": "MGM",
@@ -1784,12 +1784,17 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-23T04:57:30.925161+00:00",
+   "lastDate": "2026-11-24T05:30:00+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 3,
-     "avg": "$210.01"
+     "n": 2,
+     "avg": "$252.25"
+    },
+    {
+     "dir": "HOLD",
+     "n": 1,
+     "avg": "$166"
     },
     {
      "dir": "SELL",
@@ -1809,8 +1814,8 @@
     "Joseph Hogue, CFA",
     "Tom Nash"
    ],
-   "lastStated": "~$125.53 Friday close (down ~14% on Friday)",
-   "nCalls": 20
+   "lastStated": "166",
+   "nCalls": 21
   },
   {
    "ticker": "NVDY",
@@ -2744,8 +2749,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 30,
-   "nVideos": 15
+   "nCalls": 33,
+   "nVideos": 16
   },
   {
    "name": "Everything Money",
@@ -2758,8 +2763,8 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 48,
-   "nVideos": 24
+   "nCalls": 50,
+   "nVideos": 25
   },
   {
    "name": "Joseph Hogue, CFA",
@@ -2798,6 +2803,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "QbyXtMgLV3Q",
+   "title": "NVIDIA Board Reinstates Jensen Huang | Why I'm Bullish",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-11-24T03:55:36.331661+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "Obe61geAjLY",
+   "title": "Stocks I'm Buying As The Market Rallies",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-11-23T22:55:36.331661+00:00",
+   "nCalls": 3
+  },
   {
    "id": "nzJDTRHSzFA",
    "title": "Elon Musk's AI Cash Warning",
