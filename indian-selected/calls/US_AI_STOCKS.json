@@ -3,6 +3,22 @@
  "slug": "US_AI_STOCKS",
  "calls": [
   {
+   "video_id": "R_GPXyQPyp8",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "I'm buying MORE AI stocks (& you should too!) -- here is why? | Akshat Shrivastava",
+   "published_at": "2026-11-23T15:26:20.312551+00:00",
+   "ticker": "US AI STOCKS",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "The AI thesis is intact and this is a valuation correction, not a bubble burst: no flight to safety (gold fell ~38-40%, money not rotating to India), leverage has washed out to sensible levels, and AI capex is what keeps US GDP positive",
+   "base_case": "Keep buying the dip in quality AI names; indices first, rotate to individual stocks only after the market consolidates",
+   "bull_case": "V-shaped recovery and AI earnings keep growing ~20%, re-rating the discounted names",
+   "bear_case": "AI capex stops, GDP turns negative, or an earnings slowdown makes current valuations expensive",
+   "note": "Reiterates his US AI STOCKS BUY of 5 Nov 2026. He is buying aggressively and plans to buy more next week; individual stocks only after consolidation, indices now.",
+   "analyzed_at": "2026-11-24T01:29:29.000000+00:00"
+  },
+  {
    "video_id": "oq5odXfokrM",
    "channel": "Akshat Shrivastava",
    "handle": "@AkshatZayn",
@@ -41,7 +57,7 @@
   },
   {
    "channel": "Rahul Jain",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
