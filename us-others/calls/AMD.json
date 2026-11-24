@@ -3,6 +3,16 @@
  "slug": "AMD",
  "calls": [
   {
+   "video_id": "QbyXtMgLV3Q",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "thesis": "'Yes, I like AMD... going to continue to hold both'; Helios racks powered in Microsoft labs, MI450 progressing well; ~$453, ~$743B market cap, believes it could reach $1T.",
+   "analyzed_at": "2026-11-24T05:30:00+00:00",
+   "price_at_call": 453
+  },
+  {
    "video_id": "LBnuDhoHKgs",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
