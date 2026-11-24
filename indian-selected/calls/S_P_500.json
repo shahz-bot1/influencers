@@ -1,0 +1,28 @@
+{
+ "ticker": "S&P 500",
+ "slug": "S_P_500",
+ "calls": [
+  {
+   "video_id": "R_GPXyQPyp8",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "I'm buying MORE AI stocks (& you should too!) -- here is why? | Akshat Shrivastava",
+   "published_at": "2026-11-23T15:26:20.312551+00:00",
+   "ticker": "S&P 500",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "S&P 500 forward PE 16.7 vs 10-yr historic 19.1 with EPS growth retained, so valuations are favourable; one of the two best indices to buy now, alongside QQQ",
+   "base_case": "Buy the index now and average down on further dips; max fall seen around QQQ 550-560 levels",
+   "bull_case": "V-shaped recovery lifts the index quickly from a ~20% correction",
+   "bear_case": "Earnings slowdown emerges and even these ratios become expensive",
+   "note": "First Akshat call on S&P 500. Index-level call; he is buying aggressively and plans to buy more next week.",
+   "analyzed_at": "2026-11-24T01:29:29.000000+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Akshat Shrivastava",
+   "idx": 0
+  }
+ ]
+}
