@@ -4,6 +4,86 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-24T21:58:28.562281+00:00",
+   "price": "~$165 (stated; DCF fair value $298)",
+   "video_id": "aUtTJa0vpHE"
+  },
+  {
+   "ticker": "CEG",
+   "tickerSlug": "CEG",
+   "direction": "BUY",
+   "date": "2026-11-24T15:59:49.753110+00:00",
+   "price": "~$240 (stated current price; DCF fair value $396, ~65% undervalued)",
+   "video_id": "B4RHeQik2uk"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-11-24T14:45:36.653040+00:00",
+   "price": "$273 (stated)",
+   "video_id": "dtBhkmbO8ME"
+  },
+  {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-24T14:45:36.653040+00:00",
+   "price": null,
+   "video_id": "dtBhkmbO8ME"
+  },
+  {
+   "ticker": "MSFT",
+   "tickerSlug": "MSFT",
+   "direction": "BUY",
+   "date": "2026-11-24T14:45:36.653040+00:00",
+   "price": "$490 (stated)",
+   "video_id": "dtBhkmbO8ME"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-24T12:55:36.653040+00:00",
+   "price": "$149 (stated, near 52-wk low $148)",
+   "video_id": "TtMD62DqeqM"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-24T12:55:36.653040+00:00",
+   "price": "$700 (stated)",
+   "video_id": "TtMD62DqeqM"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-11-24T12:55:36.653040+00:00",
+   "price": "$356 (stated)",
+   "video_id": "TtMD62DqeqM"
+  },
+  {
+   "ticker": "ASML",
+   "tickerSlug": "ASML",
+   "direction": "BUY",
+   "date": "2026-11-24T12:55:36.653040+00:00",
+   "price": "$1,386 (stated)",
+   "video_id": "TtMD62DqeqM"
+  },
+  {
+   "ticker": "SKHY",
+   "tickerSlug": "SKHY",
+   "direction": "BUY",
+   "date": "2026-11-24T12:55:36.653040+00:00",
+   "price": "$122 (stated, near 52-wk low)",
+   "video_id": "TtMD62DqeqM"
+  },
+  {
    "ticker": "SKHY",
    "tickerSlug": "SKHY",
    "direction": "BUY",
