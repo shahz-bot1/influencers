@@ -3,6 +3,16 @@
  "slug": "MELI",
  "calls": [
   {
+   "video_id": "Obe61geAjLY",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "thesis": "Adding all the way down; bought from $1,800 two years ago, now in the $1,400s; DCF fair value ~$2,000 on conservative 20% EBIT growth and 25x exit EBIT (22.4% CAGR); revenue +45% YoY, ~$38.5B TTM vs $3.3B in Nov 2020 at the same price; Brazil real headwind but growth held through the prior devaluation.",
+   "analyzed_at": "2026-11-24T05:30:00+00:00",
+   "price_at_call": 1400
+  },
+  {
    "video_id": "WdkKqM8GPcA",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
