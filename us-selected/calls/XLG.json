@@ -3,6 +3,22 @@
  "slug": "XLG",
  "calls": [
   {
+   "video_id": "gB9A-LaKjcs",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 ETFs I'm BUYING Before 2027",
+   "published_at": "2026-11-24T14:59:49.753110+00:00",
+   "ticker": "XLG",
+   "direction": "BUY",
+   "price_at_call": "not stated (layering in, not all at once)",
+   "thesis": "Reiterated BUY (prior BUY 6 Oct). Top-50 S&P 500 mega-caps — Apple/Nvidia ~12% each, then MSFT/AMZN/GOOGL/AVGO/META/LLY; intentionally increasing mega-cap exposure at attractive valuations after the pullback.",
+   "base_case": "Base: bottom-half-of-portfolio position, layered in for flexibility into year-end.",
+   "bull_case": "Bull: dominant, already-profitable businesses with strong balance sheets.",
+   "bear_case": "Bear: heavy overlap with QQQ; mega-caps not scratch-free.",
+   "analyzed_at": "2026-11-24T19:01:58.143773+00:00",
+   "stance_flip": null
+  },
+  {
    "video_id": "a26sm048Tzg",
    "channel": "Mark Roussin CPA",
    "video_title": "4 ETFs to BUY for the Rest of 2026",
