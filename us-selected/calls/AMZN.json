@@ -3,6 +3,25 @@
  "slug": "AMZN",
  "calls": [
   {
+   "video_id": "dtBhkmbO8ME",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Alphabet Stock, Amazon Stock, or Microsoft Stock: Which is the Best Beaten-Down AI Stock to Buy Now?",
+   "published_at": "2026-11-24T14:45:36.653040+00:00",
+   "analyzed_at": "2026-11-24T14:58:16Z",
+   "collab": false,
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": "~40% undervalued per DCF (stated; FV figure garbled in captions)",
+   "thesis": "BUY reiterated (was BUY, ranked his #4 best stock). His BEST of the three and now one of his top-10 stocks to buy. Highest EPS growth of the three at 23.6%/yr; forward P/E 23. FCF -$47B TTM; capex $225B+ in 2026 and 'significantly more' in 2027 (he estimates ~$300B).",
+   "base_case": "Capex burst is temporary; AWS earnings power reasserts once data-centre build-out slows.",
+   "bull_case": "EPS growth beats the 23.6% forecast as AI spend converts to earnings.",
+   "bear_case": "Free cash flow stays deeply negative through 2027 and Amazon may borrow tens of billions or sell stock to fund the build."
+  },
+  {
    "video_id": "C8YbFBUpVXI",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -412,24 +431,24 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 3
+   "channel": "Joseph Carlson After Hours",
+   "idx": 2
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 4
   },
   {
    "channel": "Couch Investor",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
