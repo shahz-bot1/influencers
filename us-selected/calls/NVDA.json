@@ -3,6 +3,41 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "aUtTJa0vpHE",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Nvidia Stock Is Mispriced—Here Is What It’s Actually Worth",
+   "published_at": "2026-11-24T21:58:28.562281+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "~$165 (stated; DCF fair value $298)",
+   "thesis": "Reiterated BUY (prior BUY 23 Nov @ ~$151, FV $260; FV raised to $298). Board unanimously reinstated Jensen Huang as CEO/president/board member effective immediately; stock up ~32% to ~$165; he bought more on Friday. Risk factor cut 2.5 to 2.25; still ~80% undervalued at ~$166; ranks NVDA the 2nd-best stock to buy right now behind META.",
+   "base_case": "Base: FV $298; Huang's return restores stakeholder trust (TSMC, hyperscalers, Dell, HPE, Supermicro) and removes management distraction.",
+   "bull_case": "Bull: risk factor falls further as the news settles; very large upside over the next 12-18 months and 3-5 years.",
+   "bear_case": "Bear: challenges remain - failed 10-Q filing, SEC probe into ~$14B Singapore sales reportedly rerouted to China, circular-financing accounting questions.",
+   "analyzed_at": "2026-11-24T23:07:17.764996+00:00",
+   "stance_flip": null
+  },
+  {
+   "video_id": "TtMD62DqeqM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Stock Market Sell-Off: 5 Beaten-Down AI Stocks to Buy on the Dip",
+   "published_at": "2026-11-24T12:55:36.653040+00:00",
+   "analyzed_at": "2026-11-24T14:58:16Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$149 (stated, near 52-wk low $148)",
+   "fair_value": "$260 (DCF, stated)",
+   "thesis": "BUY reiterated (was BUY 22/23 Nov @ ~$125, FV ~$259). Fantastic Q3 results; FCF generation unchanged over next 2-3 years with pipeline, customer orders and supplier orders already locked in. Headline risk: no successor can match Jensen Huang's innovation — but he says they don't need to for it to be a great investment. NOTE: video still calls Huang 'former CEO' and prices NVDA at $149 — recorded before Mon 23 Nov's reinstatement rally (~$165 close).",
+   "base_case": "Business runs as usual for 2-3 years on locked-in pipeline and orders.",
+   "bull_case": "Stock re-rates toward the $260 DCF value as results keep landing.",
+   "bear_case": "The next CEO is materially less innovative than Huang, hurting the business beyond the 2-3 year locked-in window."
+  },
+  {
    "video_id": "GLGwJ2uHlzc",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -929,28 +964,28 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 1
-  },
-  {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 3
+  },
+  {
    "channel": "Mark Roussin CPA",
-   "idx": 4
+   "idx": 6
   },
   {
    "channel": "MarketBeat",
-   "idx": 9
+   "idx": 11
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 15
+   "idx": 17
   }
  ]
 }
