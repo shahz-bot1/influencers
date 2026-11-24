@@ -3,6 +3,16 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "Obe61geAjLY",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "META",
+   "direction": "BUY",
+   "thesis": "Added a lot on Friday; under $600, TTM P/E ~19, forward P/E under 18, revenue still growing 25%+ YoY; growing conviction on Muse, Meta's AI agent, from daily personal use (fixed his AdSense tax-treaty mix-up, recovering $7,000 from Google); Meta winning the most new ad dollars vs Google and Amazon.",
+   "analyzed_at": "2026-11-24T05:30:00+00:00",
+   "price_at_call": null
+  },
+  {
    "video_id": "OTjsHhkHXEY",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
@@ -64,11 +74,11 @@
   },
   {
    "channel": "Jose Najarro Stocks",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
