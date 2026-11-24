@@ -1,0 +1,29 @@
+{
+ "video_id": "QbyXtMgLV3Q",
+ "title": "NVIDIA Board Reinstates Jensen Huang | Why I'm Bullish",
+ "creator": "Jose Najarro Stocks",
+ "published_at": "2026-11-24T03:55:36.331661+00:00",
+ "summary": "Jose Najarro calls Monday the greatest day he has experienced in the stock market: Nvidia rose roughly 31%, adding over $1 trillion in market value, after Jensen Huang was reinstated as president, CEO and board member, with the stock near $166 after hours. Other AI names rallied too, including Nebius up about 20%, CoreWeave up about 22% and Intel up about 16%. He reads the board's 23 November statement, which says the unanimous vote followed discussions with Huang and input from senior levels of the US government, leaving the board confident the reinstatement poses no national-security risk, and thanks interim CEO Colette Kress, who remains CFO. Najarro argues the board's earlier line that it had no plans to reinstate Jensen was necessary to reassure any outside CEO candidate they would not be replaced within weeks. He believes a chastened Jensen returns strictly focused on the company and that Nvidia will be much stronger, seeing the stock back over $200 within 6 to 12 months. The GTC conference in Washington DC in about five days is the next confidence catalyst, with earnings in under three months. He stays very much bullish on AI overall, saying Jensen's return removes the risk that AI investment and the neocloud supply chain die down. He flags two risks: short-term volatility from fresh media stories, and a political overhang, since the reinstatement now looks like a political play. He then turns to AMD, noting Helios racks are now powered in Microsoft labs and the MI450 is progressing well, with the stock near $453 and a roughly $743B market cap he believes could reach $1 trillion. He closes by saying Nvidia is his biggest position and he is going to continue to hold both Nvidia and AMD. Note: auto-captions garble Jensen Huang as 'Jensen Hong' and Colette Kress as 'Colette Crest'.",
+ "calls": [
+  {
+   "video_id": "QbyXtMgLV3Q",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "NVDA",
+   "direction": "HOLD",
+   "thesis": "Very much bullish and NVDA is his biggest position, but 'going to continue to hold'; sees $200+ in 6-12 months; Jensen reinstated unanimously, board satisfied on national-security risk after US government input; next catalyst GTC DC in ~5 days; warns of volatility and political-risk overhang.",
+   "analyzed_at": "2026-11-24T05:30:00+00:00",
+   "price_at_call": 166
+  },
+  {
+   "video_id": "QbyXtMgLV3Q",
+   "channel": "Jose Najarro Stocks",
+   "handle": "@josenajarrostocks",
+   "ticker": "AMD",
+   "direction": "HOLD",
+   "thesis": "'Yes, I like AMD... going to continue to hold both'; Helios racks powered in Microsoft labs, MI450 progressing well; ~$453, ~$743B market cap, believes it could reach $1T.",
+   "analyzed_at": "2026-11-24T05:30:00+00:00",
+   "price_at_call": 453
+  }
+ ]
+}
