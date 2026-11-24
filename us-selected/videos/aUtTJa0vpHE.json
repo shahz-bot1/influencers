@@ -1,0 +1,26 @@
+{
+ "video_id": "aUtTJa0vpHE",
+ "title": "Nvidia Stock Is Mispriced—Here Is What It’s Actually Worth",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-24T21:58:28.562281+00:00",
+ "source_note": "Detailed summary generated from video captions. Auto-captions repeatedly garble Jensen Huang's name as 'Hong', 'Juan' and 'Wong'.",
+ "summary": "Parkevtate Vosianc reacts to Nvidia's board unanimously reinstating Jensen Huang as president, CEO and board member effective immediately, after input from senior levels of the US government, with the board confident the reinstatement poses no national security risk. The stock jumped about 32% (roughly $40) to around $165 on Monday 23 November, though it remains down over 22% in the past month. He says he bought more Nvidia on Friday and wishes he had bought even more. The reinstatement cuts the risk factor in his discounted-cash-flow model from 2.5 to 2.25, a 10% reduction, lifting his fair value from $260 to $298 per share, so at about $166 the stock is still roughly 80% below fair value in his view. He restored Nvidia to his top-10 stocks to buy on 18 November and now ranks it the second-best stock to buy, behind Meta Platforms; it is his second-largest position behind Netflix. Challenges remain unresolved: the failed 10-Q filing, the SEC investigation into roughly $14 billion of Singapore sales reportedly rerouted to China, and questions over circular-financing accounting. He argues Huang's return restores two decades of stakeholder trust with TSMC, the hyperscalers, Dell, HPE and Supermicro, and ends the management distraction of fielding constant questions. Call: NVDA BUY at ~$165, fair value $298, a reiteration of his 23 November BUY.",
+ "calls": [
+  {
+   "video_id": "aUtTJa0vpHE",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Nvidia Stock Is Mispriced—Here Is What It’s Actually Worth",
+   "published_at": "2026-11-24T21:58:28.562281+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "~$165 (stated; DCF fair value $298)",
+   "thesis": "Reiterated BUY (prior BUY 23 Nov @ ~$151, FV $260; FV raised to $298). Board unanimously reinstated Jensen Huang as CEO/president/board member effective immediately; stock up ~32% to ~$165; he bought more on Friday. Risk factor cut 2.5 to 2.25; still ~80% undervalued at ~$166; ranks NVDA the 2nd-best stock to buy right now behind META.",
+   "base_case": "Base: FV $298; Huang's return restores stakeholder trust (TSMC, hyperscalers, Dell, HPE, Supermicro) and removes management distraction.",
+   "bull_case": "Bull: risk factor falls further as the news settles; very large upside over the next 12-18 months and 3-5 years.",
+   "bear_case": "Bear: challenges remain - failed 10-Q filing, SEC probe into ~$14B Singapore sales reportedly rerouted to China, circular-financing accounting questions.",
+   "analyzed_at": "2026-11-24T23:07:17.764996+00:00",
+   "stance_flip": null
+  }
+ ]
+}
