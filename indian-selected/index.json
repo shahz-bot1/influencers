@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T01:32:02.016161+00:00",
+ "updated": "2026-11-24T01:31:35.905464+00:00",
  "tickers": [
   {
    "ticker": "DATA CENTER THEME",
@@ -146,11 +146,16 @@
   {
    "ticker": "NASDAQ 100",
    "slug": "NASDAQ_100",
-   "lastDate": "2026-11-05T15:26:25.226127+00:00",
+   "lastDate": "2026-11-23T15:26:20.312551+00:00",
    "chips": [
     {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
+    {
      "dir": "HOLD",
-     "n": 2,
+     "n": 1,
      "avg": null
     }
    ],
@@ -159,7 +164,7 @@
     "Rahul Jain"
    ],
    "lastStated": "",
-   "nCalls": 3
+   "nCalls": 4
   },
   {
    "ticker": "NIFTY 100",
@@ -332,9 +337,43 @@
    "nCalls": 1
   },
   {
+   "ticker": "S&P 500",
+   "slug": "S_P_500",
+   "lastDate": "2026-11-23T15:26:20.312551+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Akshat Shrivastava"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SOXX",
+   "slug": "SOXX",
+   "lastDate": "2026-11-23T15:26:20.312551+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Akshat Shrivastava"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "US AI STOCKS",
    "slug": "US_AI_STOCKS",
-   "lastDate": "2026-11-05T15:26:25.226127+00:00",
+   "lastDate": "2026-11-23T15:26:20.312551+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -352,7 +391,7 @@
     "Rahul Jain"
    ],
    "lastStated": "",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "WEALTH MANAGEMENT / CAPITAL MARKET STOCKS",
@@ -377,8 +416,8 @@
    "name": "Akshat Shrivastava",
    "handle": "@AkshatZayn",
    "slug": "Akshat_Shrivastava",
-   "nCalls": 5,
-   "nVideos": 11
+   "nCalls": 9,
+   "nVideos": 12
   },
   {
    "name": "Rahul Jain",
@@ -396,6 +435,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "R_GPXyQPyp8",
+   "title": "I'm buying MORE AI stocks (& you should too!) -- here is why? | Akshat Shrivastava",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-11-23",
+   "nCalls": 4
+  },
   {
    "id": "Zy4UsEQTe9c",
    "title": "DON'T Miss The Next Indian Stock Market Bull-Run In 2027 ! - Where to Invest? | Rahul Jain",
