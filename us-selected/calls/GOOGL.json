@@ -3,6 +3,25 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "dtBhkmbO8ME",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Alphabet Stock, Amazon Stock, or Microsoft Stock: Which is the Best Beaten-Down AI Stock to Buy Now?",
+   "published_at": "2026-11-24T14:45:36.653040+00:00",
+   "analyzed_at": "2026-11-24T14:58:16Z",
+   "collab": false,
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$273 (stated)",
+   "fair_value": "$356 (DCF, stated)",
+   "thesis": "BUY reiterated (was BUY 7 Nov, FV $370 then — FV cut to $356). ~30% undervalued at forward P/E 18; EPS growth forecast 13%/yr, which he says is understated. FCF forecast negative 2026 (-$10B) and 2027 (-$37B) on aggressive AI data-centre spend, modestly positive 2028.",
+   "base_case": "Data-centre spend is a short-term burst; once Alphabet has enough capacity, spending drops and the cash-flow machine resumes.",
+   "bull_case": "EPS growth beats the 13% forecast as AI capex converts into income-statement earnings.",
+   "bear_case": "Heavy AI capex keeps free cash flow negative for two years and may require tens of billions in borrowing."
+  },
+  {
    "video_id": "GLGwJ2uHlzc",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -592,28 +611,28 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Joseph Carlson After Hours",
-   "idx": 3
+   "channel": "Mark Roussin CPA",
+   "idx": 2
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 5
+   "channel": "Joseph Carlson After Hours",
+   "idx": 4
   },
   {
    "channel": "MarketBeat",
-   "idx": 6
+   "idx": 7
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 19
+   "idx": 20
   }
  ]
 }
