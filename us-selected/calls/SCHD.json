@@ -3,6 +3,22 @@
  "slug": "SCHD",
  "calls": [
   {
+   "video_id": "gB9A-LaKjcs",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "5 ETFs I'm BUYING Before 2027",
+   "published_at": "2026-11-24T14:59:49.753110+00:00",
+   "ticker": "SCHD",
+   "direction": "BUY",
+   "price_at_call": "not stated (added 19 Nov on ~10% dip)",
+   "thesis": "Reiterated BUY (prior BUY 25 Oct). Foundational dividend position, +24% YTD vs ~6% for S&P 500/QQQ; balance matters — energy, staples and healthcare leading 2026; added more on 19 Nov.",
+   "base_case": "Base: ~100 holdings, top 10 ~40%; dividend income plus resilience.",
+   "bull_case": "Bull: best complement to the S&P 500; picks the portfolio up when tech lags.",
+   "bear_case": "Bear: a balanced portfolio still fell with the market.",
+   "analyzed_at": "2026-11-24T19:01:58.143773+00:00",
+   "stance_flip": null
+  },
+  {
    "video_id": "_CtOnOGIRtc",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -105,7 +121,7 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
