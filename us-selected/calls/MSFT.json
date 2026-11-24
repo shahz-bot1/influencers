@@ -3,6 +3,25 @@
  "slug": "MSFT",
  "calls": [
   {
+   "video_id": "dtBhkmbO8ME",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Alphabet Stock, Amazon Stock, or Microsoft Stock: Which is the Best Beaten-Down AI Stock to Buy Now?",
+   "published_at": "2026-11-24T14:45:36.653040+00:00",
+   "analyzed_at": "2026-11-24T14:58:16Z",
+   "collab": false,
+   "ticker": "MSFT",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$490 (stated)",
+   "fair_value": "$580 (DCF, stated)",
+   "thesis": "BUY reiterated. ~18% undervalued at forward P/E 20; EPS growth forecast 16.4%/yr. Only hyperscaler of the three forecasting positive free cash flow in FY2027 ($60B TTM FCF) because it balances data-centre spend against operating cash flow.",
+   "base_case": "Balanced AI investment keeps Microsoft FCF-positive while still building AI capacity.",
+   "bull_case": "EPS growth beats the 16.4% forecast as AI capex converts into earnings.",
+   "bear_case": "If Microsoft matches rivals' aggressive spend, its FCF advantage narrows."
+  },
+  {
    "video_id": "C8YbFBUpVXI",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -171,24 +190,24 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
    "channel": "MarketBeat",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 10
+   "idx": 11
   }
  ]
 }
