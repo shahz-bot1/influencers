@@ -1,0 +1,39 @@
+{
+ "video_id": "Obe61geAjLY",
+ "title": "Stocks I'm Buying As The Market Rallies",
+ "creator": "Daniel Pronk",
+ "published_at": "2026-11-23T22:55:36.331661+00:00",
+ "summary": "Daniel Pronk opens on a wild Monday: the S&P up almost 5% and Nvidia up over 30% after its board unanimously reinstated Jensen Huang as CEO on 23 November, six days after accepting his resignation. He credits President Trump, who said he met the board and vouched for Jensen, with a major role in the reversal, and questions how involved politicians should be in private companies. He warns the rally could be a bear-market rally and gives no explicit Nvidia call. The bulk of the video is the three stocks he added to aggressively on Friday. Amazon: he loaded up after a 4%+ sell-off, citing CEO Andy Jassy on AWS capex of about $220B in 2026, roughly 20% return on invested capital and demand visibility into 2027-29. Operating cash flow has compounded about 31% a year versus about 9% for the share price since late 2021, leaving price-to-operating-cash-flow near 16.5x against a roughly 25x long-term median. Amazon is his second-largest position at over 15% of his portfolio. Meta: he added a lot under $600, at about 19x trailing earnings and under 18x forward, with revenue still growing over 25% a year, and his conviction is rising on Muse, Meta's AI agent, which he credits with recovering $7,000 from Google over a tax-treaty mix-up. MercadoLibre: he keeps adding on the way down, having bought from $1,800 two years ago with the stock now in the $1,400s. His DCF gives about $2,000 fair value on conservative 20% EBIT growth and a 25x exit multiple, with revenue up over 45% a year to about $38.5B despite a Brazilian real headwind. His rule: buy when there is value, do not try to time the bottom. Note: auto-captions garble Mercado Libre as 'Marcato Libre' and Jensen Huang as 'Jensen Wong'.",
+ "calls": [
+  {
+   "video_id": "Obe61geAjLY",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "thesis": "Adding aggressively on Friday's >4% sell-off; AWS capex ~$220B in 2026 with ~20% ROIC and demand visibility into 2027-29; operating cash flow compounding ~31%/yr vs share price ~9%/yr since Q4 2021, P/OCF ~16.5x vs ~25x long-term median; 2nd-largest position, >15% of portfolio.",
+   "analyzed_at": "2026-11-24T05:30:00+00:00",
+   "price_at_call": null
+  },
+  {
+   "video_id": "Obe61geAjLY",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "META",
+   "direction": "BUY",
+   "thesis": "Added a lot on Friday; under $600, TTM P/E ~19, forward P/E under 18, revenue still growing 25%+ YoY; growing conviction on Muse, Meta's AI agent, from daily personal use (fixed his AdSense tax-treaty mix-up, recovering $7,000 from Google); Meta winning the most new ad dollars vs Google and Amazon.",
+   "analyzed_at": "2026-11-24T05:30:00+00:00",
+   "price_at_call": null
+  },
+  {
+   "video_id": "Obe61geAjLY",
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "thesis": "Adding all the way down; bought from $1,800 two years ago, now in the $1,400s; DCF fair value ~$2,000 on conservative 20% EBIT growth and 25x exit EBIT (22.4% CAGR); revenue +45% YoY, ~$38.5B TTM vs $3.3B in Nov 2020 at the same price; Brazil real headwind but growth held through the prior devaluation.",
+   "analyzed_at": "2026-11-24T05:30:00+00:00",
+   "price_at_call": 1400
+  }
+ ]
+}
