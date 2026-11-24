@@ -3,6 +3,25 @@
  "slug": "ASML",
  "calls": [
   {
+   "video_id": "TtMD62DqeqM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Stock Market Sell-Off: 5 Beaten-Down AI Stocks to Buy on the Dip",
+   "published_at": "2026-11-24T12:55:36.653040+00:00",
+   "analyzed_at": "2026-11-24T14:58:16Z",
+   "collab": false,
+   "ticker": "ASML",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$1,386 (stated)",
+   "fair_value": "$1,421 (DCF, stated)",
+   "thesis": "BUY reiterated (was BUY 16 Nov, flipped from UNCERTAIN 19 Oct). Roughly fairly valued at $1,421 FV, but a rare chance to buy at fair value — it usually trades well above fair value like Costco. Was $2,000 (52-wk high) under 12 months ago. Supplier to Micron, TSMC, Intel, Samsung, SK Hynix; equipment at least a step ahead of competition.",
+   "base_case": "ASML keeps its lithography lead and trades back to its usual premium.",
+   "bull_case": "AI capex boom keeps order books full and the stock re-rates above fair value.",
+   "bear_case": "A chip-equipment downturn would hit orders despite the technology lead."
+  },
+  {
    "video_id": "RZwNKN89BmU",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -100,11 +119,11 @@
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
