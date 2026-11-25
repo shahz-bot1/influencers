@@ -3,6 +3,25 @@
  "slug": "SPCX",
  "calls": [
   {
+   "video_id": "AlioqRh9oWM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "SPCX",
+   "direction": "HOLD",
+   "flip": true,
+   "stance_flip": "AVOID (2026-11-08) -> HOLD",
+   "price_at_call": "~$128 (stated, below $135 IPO price); DCF fair value $95",
+   "fair_value": "$95 (his DCF, first calculated)",
+   "thesis": "FLIP: was AVOID 8 Nov, now HOLD / market perform (his tracker rating) — first DCF on SpaceX gives FV $95 vs ~$128, still ~25% above his value, so 'not a buying opportunity' and he personally would not buy at $127, but no longer an avoid after the sharp sell-off; for investors very bullish on Musk it could be a reasonable buy. SpaceX sold $32B of bonds at 8.259% yield to fund Nvidia chip purchases, pivoting to renting compute (Neo Cloud) as its own AI model trails OpenAI/Anthropic/Gemini in 4th/5th place.",
+   "base_case": "Huge forecast growth: free cash flow from ~$48B in 2029 to $656B by 2035; stock-market investors will keep funding the company.",
+   "bull_case": "Neo Cloud rental revenue reaches $10-30B annually; Musk delivers on forecasts at a better rate than his ~2-3/10 track record.",
+   "bear_case": "Bond market charges a hefty premium (8.259% vs 5.95% average investment-grade); capex dwarfs cash generation and the story depends on future investment; Musk's forecasts historically overpromise.",
+   "published_at": "2026-11-25T16:00:02.158578+00:00",
+   "analyzed_at": "2026-11-25T19:04:19Z",
+   "video_title": "This Dip Might Be Your Best Chance to Buy SpaceX Stock at a Reasonable Price",
+   "collab": false
+  },
+  {
    "video_id": "6DPoz2s-zLQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
