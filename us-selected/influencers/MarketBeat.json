@@ -4,6 +4,38 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "FIX",
+   "tickerSlug": "FIX",
+   "direction": "BUY",
+   "date": "2026-11-24T23:55:07.531413+00:00",
+   "price": "over $1,000 (stated; ~$2,073 in June, down ~30% in 3 months); P/E low 20s",
+   "video_id": "JnSUQqufpGk"
+  },
+  {
+   "ticker": "MTZ",
+   "tickerSlug": "MTZ",
+   "direction": "BUY",
+   "date": "2026-11-24T23:55:07.531413+00:00",
+   "price": null,
+   "video_id": "JnSUQqufpGk"
+  },
+  {
+   "ticker": "QUBT",
+   "tickerSlug": "QUBT",
+   "direction": "AVOID",
+   "date": "2026-11-24T23:55:07.531413+00:00",
+   "price": "~$5 or less (stated; was $10 when put on do-not-buy list)",
+   "video_id": "JnSUQqufpGk"
+  },
+  {
+   "ticker": "ASML",
+   "tickerSlug": "ASML",
+   "direction": "BUY",
+   "date": "2026-11-24T23:55:07.531413+00:00",
+   "price": null,
+   "video_id": "JnSUQqufpGk"
+  },
+  {
    "ticker": "CCJ",
    "tickerSlug": "CCJ",
    "direction": "CONDITIONAL_BUY",
