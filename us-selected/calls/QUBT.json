@@ -1,0 +1,32 @@
+{
+ "ticker": "QUBT",
+ "slug": "QUBT",
+ "calls": [
+  {
+   "video_id": "JnSUQqufpGk",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "QUBT",
+   "direction": "AVOID",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$5 or less (stated; was $10 when put on do-not-buy list)",
+   "fair_value": null,
+   "thesis": "AVOID first tracked (guest Joel Litman, Altimetry Research) — Quantum Computing Inc. is top of his personal avoid list: circular financing (a big chunk of revenue came from a company that never paid, which Quantum then bought), a history of restatements, and auditors repeatedly chastised by the PCAOB (one banned); he believes in quantum tech but not this company's books.",
+   "base_case": "Stock keeps falling rather than rebounding like the other two picks; down over the year and will continue to go down.",
+   "bull_case": "Quantum technology itself is real and could do a lot — but that does not make this company investable.",
+   "bear_case": "Further restatements or governance failures; revenue-quality issues persist.",
+   "published_at": "2026-11-24T23:55:07.531413+00:00",
+   "analyzed_at": "2026-11-25T19:04:19Z",
+   "video_title": "2 Stocks You'll Wish You Bought on the Dip (And 1 You'll Regret Owning)",
+   "collab": false,
+   "guest": "Joel Litman (Altimetry Research)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
