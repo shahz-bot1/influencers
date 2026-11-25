@@ -4,6 +4,62 @@
  "slug": "BWB_Business_With_Brian",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-25T20:58:18.217410+00:00",
+   "price": null,
+   "video_id": "6Z_xwk2RjSo"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-25T20:58:18.217410+00:00",
+   "price": null,
+   "video_id": "6Z_xwk2RjSo"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-25T20:58:18.217410+00:00",
+   "price": null,
+   "video_id": "6Z_xwk2RjSo"
+  },
+  {
+   "ticker": "ASML",
+   "tickerSlug": "ASML",
+   "direction": "BUY",
+   "date": "2026-11-25T20:58:18.217410+00:00",
+   "price": null,
+   "video_id": "6Z_xwk2RjSo"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-11-25T20:58:18.217410+00:00",
+   "price": null,
+   "video_id": "6Z_xwk2RjSo"
+  },
+  {
+   "ticker": "ANET",
+   "tickerSlug": "ANET",
+   "direction": "BUY",
+   "date": "2026-11-25T20:58:18.217410+00:00",
+   "price": null,
+   "video_id": "6Z_xwk2RjSo"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-11-25T20:58:18.217410+00:00",
+   "price": null,
+   "video_id": "6Z_xwk2RjSo"
+  },
+  {
    "ticker": "META",
    "tickerSlug": "META",
    "direction": "BUY",
