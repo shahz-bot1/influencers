@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:09:17.430512+00:00",
+ "updated": "2026-11-25T05:01:17.723596+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -125,19 +125,25 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-11-24T05:30:00+00:00",
+   "lastDate": "2026-11-24T20:55:39.920530+00:00",
    "chips": [
     {
      "dir": "HOLD",
      "n": 1,
      "avg": "$453"
+    },
+    {
+     "dir": "AVOID",
+     "n": 1,
+     "avg": "$36"
     }
    ],
    "influencers": [
+    "Daniel Pronk",
     "Jose Najarro Stocks"
    ],
-   "lastStated": "453",
-   "nCalls": 7
+   "lastStated": "Down 36% from all-time highs; no share price stated; forward P/E 27x, forward P/",
+   "nCalls": 8
   },
   {
    "ticker": "AMDY",
@@ -1784,12 +1790,17 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-24T05:30:00+00:00",
+   "lastDate": "2026-11-24T20:55:39.920530+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
      "avg": "$252.25"
+    },
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$3.6"
     },
     {
      "dir": "HOLD",
@@ -1800,22 +1811,17 @@
      "dir": "SELL",
      "n": 1,
      "avg": "$150"
-    },
-    {
-     "dir": "AVOID",
-     "n": 1,
-     "avg": null
     }
    ],
    "influencers": [
-    "Jose Najarro Stocks",
     "Daniel Pronk",
+    "Jose Najarro Stocks",
     "Asymmetric Investing",
     "Joseph Hogue, CFA",
     "Tom Nash"
    ],
-   "lastStated": "166",
-   "nCalls": 21
+   "lastStated": "No share price stated; ~$3.6T market cap; forward P/E ~9 per others he cites, fo",
+   "nCalls": 22
   },
   {
    "ticker": "NVDY",
@@ -2749,8 +2755,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 33,
-   "nVideos": 16
+   "nCalls": 35,
+   "nVideos": 17
   },
   {
    "name": "Everything Money",
@@ -2803,6 +2809,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "crFI9NZdANY",
+   "title": "AMD Stock Is Crashing - Is It A Buy Now?",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-11-24T20:55:39.920530+00:00",
+   "nCalls": 2
+  },
   {
    "id": "QbyXtMgLV3Q",
    "title": "NVIDIA Board Reinstates Jensen Huang | Why I'm Bullish",
