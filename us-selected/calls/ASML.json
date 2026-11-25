@@ -3,6 +3,45 @@
  "slug": "ASML",
  "calls": [
   {
+   "video_id": "6Z_xwk2RjSo",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "2008 Made Me a Millionaire. Pullbacks Like This Are Why",
+   "published_at": "2026-11-25T20:58:18.217410+00:00",
+   "analyzed_at": "2026-11-25T23:03:14Z",
+   "collab": false,
+   "ticker": "ASML",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY reiterated - he is building into ASML over the next few months (~10% of the basket). Only company in the world that builds EUV lithography machines; current machines all but sold out through 2027, customer down payments up ~180% in 9 months, operating margin broke out to ~44% last quarter after four years stuck in the 30s. P/E ~25 vs ~34 five-year average. Catches: much of last quarter's cash came from down payments that will not repeat at that pace, and China fell from ~36% to ~20% of sales on export controls.",
+   "base_case": "Irreplaceable monopoly with a sold-out order book; growth has accelerated four quarters in a row.",
+   "bull_case": "The order backlog converts into sustained margin expansion as EUV demand compounds.",
+   "bear_case": "Down-payment cash normalises and China restrictions tighten further, capping the re-rating."
+  },
+  {
+   "video_id": "JnSUQqufpGk",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "ASML",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY first tracked (guest Joel Litman, Altimetry Research) — 'another buy idea': ASML is indispensable to cutting-edge chipmaking and has cemented its place in the AI value chain, with major customers also investors; the customer-investor model is smart integration, not circular financing.",
+   "base_case": "Without ASML there are no cutting-edge chips and no frontier AI models; its oligopoly position is secure.",
+   "bull_case": "Customer-investors lock in its place in the value chain.",
+   "bear_case": "A semiconductor cycle or AI build-out slowdown would hit equipment demand.",
+   "published_at": "2026-11-24T23:55:07.531413+00:00",
+   "analyzed_at": "2026-11-25T19:04:19Z",
+   "video_title": "2 Stocks You'll Wish You Bought on the Dip (And 1 You'll Regret Owning)",
+   "collab": false,
+   "guest": "Joel Litman (Altimetry Research)"
+  },
+  {
    "video_id": "TtMD62DqeqM",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -114,16 +153,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "MarketBeat",
+   "idx": 1
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 3
+   "channel": "Joseph Carlson After Hours",
+   "idx": 4
   }
  ]
 }
