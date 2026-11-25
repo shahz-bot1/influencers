@@ -3,6 +3,21 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "EwHAzMJ9vV8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Stock Selloff Could Be a Massive Opportunity | Feat. Couch Investor",
+   "published_at": "2026-11-25T14:45:34.063994+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Reiterated BUY (prior BUY 23 Nov). Bought more; core business very profitable and still growing, prefers it over Anthropic every day.",
+   "base_case": null,
+   "bull_case": null,
+   "bear_case": null,
+   "analyzed_at": "2026-11-25T15:00:25.734107+00:00"
+  },
+  {
    "video_id": "GLGwJ2uHlzc",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -492,19 +507,19 @@
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 1
-  },
-  {
-   "channel": "Joseph Carlson After Hours",
    "idx": 2
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 3
   },
   {
+   "channel": "BWB - Business With Brian",
+   "idx": 4
+  },
+  {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
