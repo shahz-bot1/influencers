@@ -3,6 +3,26 @@
  "slug": "FIX",
  "calls": [
   {
+   "video_id": "JnSUQqufpGk",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "FIX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "over $1,000 (stated; ~$2,073 in June, down ~30% in 3 months); P/E low 20s",
+   "fair_value": null,
+   "thesis": "BUY first tracked (guest Joel Litman, Altimetry Research, on uniform-accounting fundamentals) — Comfort Systems is a top AI-infrastructure enabler pick: HVAC/cooling for data centres and US reindustrialisation, backlog off the charts, earnings and revenue growing, valuation still reasonable for the growth; the 30% drop is market sentiment, not fundamentals.",
+   "base_case": "Backlog keeps growing, customers keep coming, pricing power rising; a low-20s P/E on 20-30% earnings growth is reasonable.",
+   "bull_case": "AI data-centre build-out plus US reindustrialisation keeps cooling demand growing for years; smaller enablers can double or triple.",
+   "bear_case": "Sector-wide sell-off drags even strong names; growth could slow if the AI build-out pauses.",
+   "published_at": "2026-11-24T23:55:07.531413+00:00",
+   "analyzed_at": "2026-11-25T19:04:19Z",
+   "video_title": "2 Stocks You'll Wish You Bought on the Dip (And 1 You'll Regret Owning)",
+   "collab": false,
+   "guest": "Joel Litman (Altimetry Research)"
+  },
+  {
    "video_id": "k1xJbNAGmFg",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -20,8 +40,12 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "MarketBeat",
    "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   }
  ]
 }
