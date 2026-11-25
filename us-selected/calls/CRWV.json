@@ -3,6 +3,25 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "Pv1HFWu94gc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Unfortunate News for CoreWeave Stock Investors | CRWV Stock Analysis",
+   "published_at": "2026-11-25T20:58:18.217410+00:00",
+   "analyzed_at": "2026-11-25T23:03:14Z",
+   "collab": false,
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$43 (stated; near 52-week low $40)",
+   "fair_value": "$79 (DCF, stated)",
+   "thesis": "BUY reiterated (was BUY 18 Nov) - CoreWeave's 9% bonds due 2031 fell to record lows (~76.6 cents on the dollar) on Tuesday as AI-trade durability fears spread; the stock fell ~14% the same day. He still calls it a buying opportunity for long-term investors at medium conviction: demand is soaring, backlog is billions, and rental prices are rising ($20-25M per MW, higher on short-term contracts), but the business is entirely dependent on debt markets - $51B+ debt vs ~$6.4B cash and significantly negative cash flow for years.",
+   "base_case": "Demand stays strong and backlog converts as new data-centre capacity comes online; rental prices keep rising.",
+   "bull_case": "Funding markets stabilise, capacity build resumes and the stock re-rates toward his $79 fair value.",
+   "bear_case": "Debt markets stay shut or dear, CoreWeave cannot fund the data centres its backlog needs, and default risk keeps rising; negative cash flow persists for years."
+  },
+  {
    "video_id": "95t1TqHptd4",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -288,20 +307,20 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "channel": "Couch Investor",
+   "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "MarketBeat",
-   "idx": 9
+   "idx": 10
   }
  ]
 }
