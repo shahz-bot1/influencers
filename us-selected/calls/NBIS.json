@@ -3,6 +3,36 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "EwHAzMJ9vV8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Stock Selloff Could Be a Massive Opportunity | Feat. Couch Investor",
+   "published_at": "2026-11-25T14:45:34.063994+00:00",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "price_at_call": "~$98 (bought more last week)",
+   "thesis": "Reiterated BUY (prior BUY 23 Nov). Bought more during the selloff; neocloud demand and short-term contracts at higher prices, prepayments rising, payback periods falling.",
+   "base_case": null,
+   "bull_case": "Short-term contracts at premium prices let NBIS build 1 GW/year faster with less new capital.",
+   "bear_case": "Capital-intensive buildout; smaller neoclouds face funding stress and 2027 consolidation.",
+   "analyzed_at": "2026-11-25T15:00:25.734107+00:00"
+  },
+  {
+   "video_id": "RWZjTdmuvBM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Nebius Stock Falling and is it a Buy Right Now?",
+   "published_at": "2026-11-25T14:45:34.063994+00:00",
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "price_at_call": "~$100 (stated; DCF fair value $232)",
+   "thesis": "Reiterated BUY (upgraded to buying opportunity 23 Oct, confidence raised 5 Nov). Stock fell ~two-thirds from ~$300, now ~$100; forward P/S 2.3 near multi-year cheapest; prepayments now cover >100% of capex vs 50-60% a few months ago; Jensen Huang reinstatement de-risks neocloud GPU supply. High risk tolerance only.",
+   "base_case": "Price per MW up to $25M (short-term contracts $40M); demand, pricing and contract duration all improving.",
+   "bull_case": "DCF fair value $232 vs ~$100 today; balance sheet strong ($8B+ cash vs $10B+ debt) vs peers like CoreWeave.",
+   "bear_case": "Capital expensive and getting more so; prepayments make contracts less attractive to customers; extremely volatile.",
+   "analyzed_at": "2026-11-25T15:00:25.734107+00:00"
+  },
+  {
    "video_id": "GLGwJ2uHlzc",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -439,15 +469,15 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 2
+   "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 3
+   "idx": 5
   },
   {
    "channel": "MarketBeat",
-   "idx": 9
+   "idx": 11
   }
  ]
 }
