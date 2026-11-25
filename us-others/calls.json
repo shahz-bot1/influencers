@@ -4621,5 +4621,37 @@
   "thesis": "Mentioned only as up ~22% on the day; no call.",
   "analyzed_at": "2026-11-24T05:30:00+00:00",
   "price_at_call": null
+ },
+ {
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "video_id": "crFI9NZdANY",
+  "video_title": "AMD Stock Is Crashing - Is It A Buy Now?",
+  "published_at": "2026-11-24T20:55:39.920530+00:00",
+  "ticker": "AMD",
+  "direction": "AVOID",
+  "stance_flip": false,
+  "thesis": "First tracked Pronk AMD call. Great business with a record Q3 (data-centre revenue +97% YoY, total revenue $13.4B, Q4 guide $17B / +66% YoY, data-centre revenue to more than double in 2027) but priced for tremendous growth: the market prices in ~51% annual earnings growth at a 25x exit multiple just for the stock to deliver ~10% annual returns, and on forward P/E 27x, forward P/OCF ~39.6x and forward P/FCF ~50x AMD is ~3x as expensive as Nvidia on every multiple. There are better stocks in the industry at current prices, and any guidance miss risks underperformance or negative returns.",
+  "base": "Analysts expect earnings to roughly double in 2027 as data-centre revenue (already ~34% operating margins, an all-time high) keeps outgrowing the rest of the business and expands overall margins.",
+  "bull": "Bull DCF (88% annual earnings growth to ~$59B by 2029, 25x exit) implies ~$1,000 fair value / ~$1,400 future price, +234% over 3 years \u2014 figures as stated in captions; he calls these assumptions extremely bullish.",
+  "bear": "Even 45% annual earnings growth at a 20x exit multiple produces a negative return from here; the stock is priced for ~51% growth at 25x, so a miss on guidance over the next few years could leave it underperforming or negative.",
+  "price_at_call": "Down 36% from all-time highs; no share price stated; forward P/E 27x, forward P/OCF 39.6x, forward P/FCF ~50x",
+  "analyzed_at": "2026-11-25T05:30:00+00:00"
+ },
+ {
+  "channel": "Daniel Pronk",
+  "handle": "@danielpronk",
+  "video_id": "crFI9NZdANY",
+  "video_title": "AMD Stock Is Crashing - Is It A Buy Now?",
+  "published_at": "2026-11-24T20:55:39.920530+00:00",
+  "ticker": "NVDA",
+  "direction": "CONDITIONAL_BUY",
+  "stance_flip": true,
+  "thesis": "FLIP: last directional stance AVOID (20 Nov video; most recent entry UNCERTAIN, 24 Nov). Preferred over AMD on risk-reward: ~10x AMD's revenue and still growing faster (103% YoY vs ~55%), much higher margins, ~20x AMD's free cash flow ($149B TTM vs $7B), and ~one-third AMD's price on forward P/E, P/OCF (13.8x vs 39.6x) and P/FCF (15.6x vs ~50x). His DCF shows Nvidia needs only ~5% annual earnings growth at an 18x exit to deliver ~10% annual returns \u2014 'priced as if it is going to stop growing tomorrow', so even modest growth could let it outperform. No explicit 'I'm buying' stated; the stance is a relative preference vs AMD, conditioned on growth continuing.",
+  "base": "Keeps growing even modestly; priced for no growth, so modest growth delivers ~10% annual returns with a margin of safety.",
+  "bull": "Analyst DCF (51% annual earnings growth, 25x exit) implies $412 fair value / ~$545 future price; if margins hold and growth continues, today's price proves very cheap.",
+  "bear": "His earlier AVOID thesis still applies in the background: semiconductors are in his too-hard pile; hyperscaler capex slowdown and custom-chip competition could compress margins.",
+  "price_at_call": "No share price stated; ~$3.6T market cap; forward P/E ~9 per others he cites, forward P/OCF 13.8x, forward P/FCF 15.6x",
+  "analyzed_at": "2026-11-25T05:30:00+00:00"
  }
 ]
