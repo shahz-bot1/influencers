@@ -4,6 +4,38 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-25T20:58:18.217410+00:00",
+   "price": "~$43 (stated; near 52-week low $40)",
+   "video_id": "Pv1HFWu94gc"
+  },
+  {
+   "ticker": "CRM",
+   "tickerSlug": "CRM",
+   "direction": "BUY",
+   "date": "2026-11-25T17:00:02.158578+00:00",
+   "price": "$183 (stated); DCF fair value $278",
+   "video_id": "_GkDSfOmRRQ"
+  },
+  {
+   "ticker": "SPCX",
+   "tickerSlug": "SPCX",
+   "direction": "HOLD",
+   "date": "2026-11-25T16:00:02.158578+00:00",
+   "price": "~$128 (stated, below $135 IPO price); DCF fair value $95",
+   "video_id": "AlioqRh9oWM"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-25T14:45:34.063994+00:00",
+   "price": "~$100 (stated; DCF fair value $232)",
+   "video_id": "RWZjTdmuvBM"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
