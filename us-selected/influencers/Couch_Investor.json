@@ -7,6 +7,46 @@
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
+   "date": "2026-11-25T14:45:34.063994+00:00",
+   "price": "~$140 (bought more last week)",
+   "video_id": "EwHAzMJ9vV8"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-25T14:45:34.063994+00:00",
+   "price": "~$98 (bought more last week)",
+   "video_id": "EwHAzMJ9vV8"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-11-25T14:45:34.063994+00:00",
+   "price": null,
+   "video_id": "EwHAzMJ9vV8"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-25T14:45:34.063994+00:00",
+   "price": null,
+   "video_id": "EwHAzMJ9vV8"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-25T14:45:34.063994+00:00",
+   "price": null,
+   "video_id": "EwHAzMJ9vV8"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
    "date": "2026-11-23T21:58:25.283872+00:00",
    "price": null,
    "video_id": "GLGwJ2uHlzc"
