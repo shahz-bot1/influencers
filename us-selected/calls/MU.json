@@ -3,6 +3,40 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "6Z_xwk2RjSo",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "2008 Made Me a Millionaire. Pullbacks Like This Are Why",
+   "published_at": "2026-11-25T20:58:18.217410+00:00",
+   "analyzed_at": "2026-11-25T23:03:14Z",
+   "collab": false,
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Was HOLD on 15 Nov; now BUY.",
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY - FLIP from HOLD (15 Nov). He is buying Micron slowly as a smaller piece (~10% of the basket) and it stays small until the long-term contracts hold or expand. HBM is the change: only three makers worldwide, Micron the only US one; customers went from ~16 to 26 multi-year contracts in 3 months, now covering >35% of sales out to 2030. Sales grew >375% in a year, ~87% gross margin, P/E ~4 vs ~14 five-year average - but that low P/E can fool near a cycle top.",
+   "base_case": "Multi-year take-or-pay contracts stretch this cycle out; demand cannot be fulfilled today.",
+   "bull_case": "Contracts hold and expand, proving this cycle is structurally different from past memory busts.",
+   "bear_case": "The cycle ends like the others - in 2019 Micron's gross margin fell from ~61% to ~29% in a year - and heavy factory spending meets slowing price increases."
+  },
+  {
+   "video_id": "EwHAzMJ9vV8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Stock Selloff Could Be a Massive Opportunity | Feat. Couch Investor",
+   "published_at": "2026-11-25T14:45:34.063994+00:00",
+   "ticker": "MU",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Reiterated BUY (prior BUY 23 Nov). Trimmed other names to add to Micron; calls it a business set to generate hundreds of billions in free cash over the next couple of years on the memory supercycle.",
+   "base_case": null,
+   "bull_case": "Micron becomes a cash machine funding ecosystem investments in 2027.",
+   "bear_case": "Memory is cyclical; a downturn would hit pricing and cash generation.",
+   "analyzed_at": "2026-11-25T15:00:25.734107+00:00"
+  },
+  {
    "video_id": "TtMD62DqeqM",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -470,7 +504,7 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
@@ -478,16 +512,16 @@
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 7
+   "channel": "Mark Roussin CPA",
+   "idx": 4
   },
   {
    "channel": "MarketBeat",
-   "idx": 15
+   "idx": 17
   }
  ]
 }
