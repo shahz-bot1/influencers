@@ -3,6 +3,25 @@
  "slug": "CRM",
  "calls": [
   {
+   "video_id": "_GkDSfOmRRQ",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "ticker": "CRM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$183 (stated); DCF fair value $278",
+   "fair_value": "$278 (his DCF)",
+   "thesis": "BUY reiterated (was BUY 22 Oct @ $240, FV $276) — still a buying opportunity ahead of the 2 Dec earnings update: SaaS-pocalypse AI-replacement fears mostly alleviated, seats growing YoY across Agentforce/sales/service/Slack, remaining performance obligations accelerated to +14%, FCF $1.1B (+81% YoY), FY27 guidance raised ~$300M, customer attrition at its lowest ever; forward P/E 11.44 near cheapest in years. If interested, he would buy 75% before earnings and 25% after.",
+   "base_case": "DCF fair value $278 vs $183 = ~50% undervalued over 12-18 months.",
+   "bull_case": "Salesforce stays embedded in enterprise workflows and integrates AI (Claude Force with Anthropic) rather than being displaced; high switching costs keep customers sticky.",
+   "bear_case": "Agentic AI from OpenAI/Anthropic could bypass Salesforce altogether; another overpaid acquisition repeats past capital-allocation mistakes (Braze $5.7B cash deal noted).",
+   "published_at": "2026-11-25T17:00:02.158578+00:00",
+   "analyzed_at": "2026-11-25T19:04:19Z",
+   "video_title": "Should Investors Buy Salesforce Stock Before the Huge Investor Update? CRM Stock Analysis",
+   "collab": false
+  },
+  {
    "video_id": "ZWSeoBObE08",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -97,16 +116,16 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 2
+   "idx": 3
   }
  ]
 }
