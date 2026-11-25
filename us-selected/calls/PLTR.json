@@ -3,6 +3,25 @@
  "slug": "PLTR",
  "calls": [
   {
+   "video_id": "6Z_xwk2RjSo",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "2008 Made Me a Millionaire. Pullbacks Like This Are Why",
+   "published_at": "2026-11-25T20:58:18.217410+00:00",
+   "analyzed_at": "2026-11-25T23:03:14Z",
+   "collab": false,
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY reiterated (was BUY Aug 2025) - Palantir is an anchor he keeps adding to here and there (~15% of the basket); his pricing ladder reads it fairly valued. For the first time ever its US business customers pay it more than the US government; operating margin went from ~1% in early 2023 to ~47% today and growth has sped up every quarter for 3 years. The ontology maps a customer's whole business so AI can act on it, and boot camps replace months-long trials. Downside is valuation: P/E ~64, the most expensive name on his list.",
+   "base_case": "Rock-solid growth continues and new contracts keep surfacing; he keeps adding on dips.",
+   "bull_case": "Commercial momentum compounds as the ontology becomes the standard way enterprises deploy AI.",
+   "bear_case": "At ~64x earnings the stock has no room for a growth stumble."
+  },
+  {
    "video_id": "wyGECTepDR0",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -166,20 +185,20 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
-   "channel": "BWB - Business With Brian",
-   "idx": 9
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 3
   }
  ]
 }
