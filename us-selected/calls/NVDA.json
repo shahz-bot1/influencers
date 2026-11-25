@@ -3,6 +3,40 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "6Z_xwk2RjSo",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "2008 Made Me a Millionaire. Pullbacks Like This Are Why",
+   "published_at": "2026-11-25T20:58:18.217410+00:00",
+   "analyzed_at": "2026-11-25T23:03:14Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": true,
+   "stance_flip": "Was CONDITIONAL_BUY on 15 Nov; now BUY.",
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY - FLIP from CONDITIONAL_BUY (15 Nov, when he was waiting to see who would run Nvidia). Jensen's return answers that question, so he can look at reinvesting again; Nvidia is his biggest piece at ~25% of this seven-stock dollar-cost-average basket. CUDA moat (4M+ developers), ~75% gross margin, growth back above 100% after an 18-month slowdown, forward P/E ~11. Risks: Jensen's resignation scandal (affair, reported China-linked contact, board/DOJ investigations still open) and supplier commitments up ~40% in a quarter, mostly memory.",
+   "base_case": "The business is not broken; the ~47% drop was a scandal-driven overreaction and the stock recovers as the leadership question is settled.",
+   "bull_case": "CUDA lock-in plus edge computing (+42% YoY) keeps growth above 100% and the multiple re-rates.",
+   "bear_case": "Congressional/DOJ scrutiny of Jensen drags on, or the memory-supplier bet proves demand was overstated."
+  },
+  {
+   "video_id": "EwHAzMJ9vV8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Stock Selloff Could Be a Massive Opportunity | Feat. Couch Investor",
+   "published_at": "2026-11-25T14:45:34.063994+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "~$140 (bought more last week)",
+   "thesis": "Reiterated BUY (prior BUY 23 Nov). Bought more NVDA last week at ~$140 during the Jensen turmoil; sees the AI selloff as a buying opportunity and expects NVDA back toward ~$200 by year-end.",
+   "base_case": null,
+   "bull_case": "NVDA back toward ~$200 by year-end; all-time highs in 2027.",
+   "bear_case": "Macro shaky: new tariff headlines, Fed hikes into 2027, Jensen investigations/hearing 3 Dec still open.",
+   "analyzed_at": "2026-11-25T15:00:25.734107+00:00"
+  },
+  {
    "video_id": "aUtTJa0vpHE",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -964,28 +998,28 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 0
   },
   {
    "channel": "Couch Investor",
+   "idx": 1
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 3
+   "idx": 5
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 6
+   "idx": 8
   },
   {
    "channel": "MarketBeat",
-   "idx": 11
-  },
-  {
-   "channel": "BWB - Business With Brian",
-   "idx": 17
+   "idx": 13
   }
  ]
 }
