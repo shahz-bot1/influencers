@@ -68,7 +68,7 @@
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio: October Stock Buys",
   "published_at": "2026-10-21T04:55:34.818034+00:00",
-  "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+  "analyzed_at": "2026-11-25T05:30:00+00:00",
   "alerted": false,
   "skipped": "members-only (Billionaire tier)"
  },
@@ -494,7 +494,7 @@
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio Buys - November 2026",
   "published_at": "2026-11-06T04:55:34.818034+00:00",
-  "analyzed_at": "2026-11-20T04:57:37.824596+00:00",
+  "analyzed_at": "2026-11-25T05:30:00+00:00",
   "alerted": false,
   "skipped": "members-only (Billionaire tier)"
  },
@@ -687,6 +687,13 @@
   "title": "NVIDIA Board Reinstates Jensen Huang | Why I'm Bullish",
   "published_at": "2026-11-24T03:55:36.331661+00:00",
   "analyzed_at": "2026-11-24T05:30:00+00:00",
+  "alerted": true
+ },
+ "crFI9NZdANY": {
+  "channel": "Daniel Pronk",
+  "title": "AMD Stock Is Crashing - Is It A Buy Now?",
+  "published_at": "2026-11-24T20:55:39.920530+00:00",
+  "analyzed_at": "2026-11-25T05:30:00+00:00",
   "alerted": true
  }
 }
