@@ -1,0 +1,32 @@
+{
+ "ticker": "MTZ",
+ "slug": "MTZ",
+ "calls": [
+  {
+   "video_id": "JnSUQqufpGk",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "ticker": "MTZ",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY first tracked (guest Joel Litman, Altimetry Research) — MasTec is the electrical-contracting picks-and-shovels play for data centres and factories: backlog off the charts, inexpensive relative to earnings growth, a recent acquisition moves it inside the plant; potential to double, triple or quadruple over the next couple of years.",
+   "base_case": "Backlog supported by massive hyperscaler spend; earnings growth continues.",
+   "bull_case": "Smaller enabler with multi-bagger potential as AI infrastructure spend continues.",
+   "bear_case": "Holders who bought earlier in the year are now down for the year and need patience; a build-out slowdown would hit the backlog.",
+   "published_at": "2026-11-24T23:55:07.531413+00:00",
+   "analyzed_at": "2026-11-25T19:04:19Z",
+   "video_title": "2 Stocks You'll Wish You Bought on the Dip (And 1 You'll Regret Owning)",
+   "collab": false,
+   "guest": "Joel Litman (Altimetry Research)"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
