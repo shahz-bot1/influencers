@@ -1,0 +1,31 @@
+{
+ "ticker": "ANET",
+ "slug": "ANET",
+ "calls": [
+  {
+   "video_id": "6Z_xwk2RjSo",
+   "channel": "BWB - Business With Brian",
+   "handle": "@BusinessWithBrian",
+   "video_title": "2008 Made Me a Millionaire. Pullbacks Like This Are Why",
+   "published_at": "2026-11-25T20:58:18.217410+00:00",
+   "analyzed_at": "2026-11-25T23:03:14Z",
+   "collab": false,
+   "ticker": "ANET",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY first tracked - Arista Networks is one of the seven stocks he is dollar-cost-averaging into on this dip (~10% of the basket). Its edge is software: one operating system across every switch lets a giant customer run 100,000 processors as one machine. Growth slowed for 2 years to ~16% in 2024, then sped back up almost every quarter to ~58%, its fastest in ~12 years; management guides ~40% growth next year and ~100% AI-business growth. Pitch is open Ethernet versus Nvidia's proprietary networking.",
+   "base_case": "AI networking demand keeps compounding as data-centre scale grows and Ethernet stays the open standard.",
+   "bull_case": "The ~100% AI-business growth guide proves out and Arista takes share from proprietary networking.",
+   "bear_case": "Nvidia bundles its own networking so tightly with its processors that Arista's open-standard pitch loses traction."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 0
+  }
+ ]
+}
