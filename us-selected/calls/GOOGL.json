@@ -3,6 +3,21 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "EwHAzMJ9vV8",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "The AI Stock Selloff Could Be a Massive Opportunity | Feat. Couch Investor",
+   "published_at": "2026-11-25T14:45:34.063994+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": null,
+   "thesis": "Reiterated BUY (prior BUY 23 Nov). Bought more; core search still grew 12% with record query growth, Gemini 4 back at top of rankings, Cloud and TPU could become the biggest part of the business.",
+   "base_case": null,
+   "bull_case": "Google Cloud plus TPU growth overtakes search as the earnings driver.",
+   "bear_case": "Search monetisation in AI mode still lagging; core business under pressure longer term.",
+   "analyzed_at": "2026-11-25T15:00:25.734107+00:00"
+  },
+  {
    "video_id": "dtBhkmbO8ME",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -611,28 +626,28 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "MarketBeat",
-   "idx": 7
+   "idx": 8
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 20
+   "idx": 21
   }
  ]
 }
