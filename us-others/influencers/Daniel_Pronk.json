@@ -4,6 +4,22 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "AMD",
+   "tickerSlug": "AMD",
+   "direction": "AVOID",
+   "date": "2026-11-24T20:55:39.920530+00:00",
+   "price": "Down 36% from all-time highs; no share price stated; forward P/E 27x, forward P/OCF 39.6x, forward P/FCF ~50x",
+   "video_id": "crFI9NZdANY"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-24T20:55:39.920530+00:00",
+   "price": "No share price stated; ~$3.6T market cap; forward P/E ~9 per others he cites, forward P/OCF 13.8x, forward P/FCF 15.6x",
+   "video_id": "crFI9NZdANY"
+  },
+  {
    "ticker": "AMZN",
    "tickerSlug": "AMZN",
    "direction": "BUY",
