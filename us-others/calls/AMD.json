@@ -3,6 +3,22 @@
  "slug": "AMD",
  "calls": [
   {
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "video_id": "crFI9NZdANY",
+   "video_title": "AMD Stock Is Crashing - Is It A Buy Now?",
+   "published_at": "2026-11-24T20:55:39.920530+00:00",
+   "ticker": "AMD",
+   "direction": "AVOID",
+   "stance_flip": false,
+   "thesis": "First tracked Pronk AMD call. Great business with a record Q3 (data-centre revenue +97% YoY, total revenue $13.4B, Q4 guide $17B / +66% YoY, data-centre revenue to more than double in 2027) but priced for tremendous growth: the market prices in ~51% annual earnings growth at a 25x exit multiple just for the stock to deliver ~10% annual returns, and on forward P/E 27x, forward P/OCF ~39.6x and forward P/FCF ~50x AMD is ~3x as expensive as Nvidia on every multiple. There are better stocks in the industry at current prices, and any guidance miss risks underperformance or negative returns.",
+   "base": "Analysts expect earnings to roughly double in 2027 as data-centre revenue (already ~34% operating margins, an all-time high) keeps outgrowing the rest of the business and expands overall margins.",
+   "bull": "Bull DCF (88% annual earnings growth to ~$59B by 2029, 25x exit) implies ~$1,000 fair value / ~$1,400 future price, +234% over 3 years — figures as stated in captions; he calls these assumptions extremely bullish.",
+   "bear": "Even 45% annual earnings growth at a 20x exit multiple produces a negative return from here; the stock is priced for ~51% growth at 25x, so a miss on guidance over the next few years could leave it underperforming or negative.",
+   "price_at_call": "Down 36% from all-time highs; no share price stated; forward P/E 27x, forward P/OCF 39.6x, forward P/FCF ~50x",
+   "analyzed_at": "2026-11-25T05:30:00+00:00"
+  },
+  {
    "video_id": "QbyXtMgLV3Q",
    "channel": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
@@ -81,8 +97,12 @@
  ],
  "byInf": [
   {
-   "channel": "Jose Najarro Stocks",
+   "channel": "Daniel Pronk",
    "idx": 0
+  },
+  {
+   "channel": "Jose Najarro Stocks",
+   "idx": 1
   }
  ]
 }
