@@ -1,0 +1,29 @@
+{
+ "video_id": "Pv1HFWu94gc",
+ "title": "Unfortunate News for CoreWeave Stock Investors | CRWV Stock Analysis",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-25T20:58:18.217410+00:00",
+ "source_note": "Detailed summary generated from video captions; note: auto-captions garble 'CoreWeave' as 'Corewave/Core Weave' and 'Jensen Huang' as 'Jensen Vong'",
+ "summary": "Parkevtate Vosianc warns CoreWeave investors that the company's bonds are crashing to record lows - its 9% bonds due 2031 fell to about 76.6 cents on the dollar on Tuesday, one of the biggest single-day corporate bond losses - and argues bond prices are informing the stock price because debt is so central to this business. He explains how bonds trade at par, premium or discount, and why CoreWeave's price is falling: rising risk of default as investors doubt whether it can borrow enough to build the data centres its billions of dollars of backlog require. CoreWeave carries over $51 billion in debt against just over $6.4 billion in cash and short-term investments, and generates significantly negative cash flow expected to continue for years. Unlike Microsoft or Apple, it cannot simply stop borrowing. The AI sell-off is broad - CoreWeave fell almost 14% on the day, Nvidia about 8% - with Anthropic's IPO sliding below its IPO price in record time, token prices falling and Washington turning hostile to data centres. But he still calls CoreWeave a buying opportunity for long-term investors at medium conviction: demand is soaring, customers wait in line for capacity as soon as it is built, and rental prices are rising to $20-25 million per megawatt, higher on short-term contracts. His fair value is $79 against a share price near $43, close to its $52-week low of $40. Call: CRWV BUY reiterated.",
+ "calls": [
+  {
+   "video_id": "Pv1HFWu94gc",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Unfortunate News for CoreWeave Stock Investors | CRWV Stock Analysis",
+   "published_at": "2026-11-25T20:58:18.217410+00:00",
+   "analyzed_at": "2026-11-25T23:03:14Z",
+   "collab": false,
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$43 (stated; near 52-week low $40)",
+   "fair_value": "$79 (DCF, stated)",
+   "thesis": "BUY reiterated (was BUY 18 Nov) - CoreWeave's 9% bonds due 2031 fell to record lows (~76.6 cents on the dollar) on Tuesday as AI-trade durability fears spread; the stock fell ~14% the same day. He still calls it a buying opportunity for long-term investors at medium conviction: demand is soaring, backlog is billions, and rental prices are rising ($20-25M per MW, higher on short-term contracts), but the business is entirely dependent on debt markets - $51B+ debt vs ~$6.4B cash and significantly negative cash flow for years.",
+   "base_case": "Demand stays strong and backlog converts as new data-centre capacity comes online; rental prices keep rising.",
+   "bull_case": "Funding markets stabilise, capacity build resumes and the stock re-rates toward his $79 fair value.",
+   "bear_case": "Debt markets stay shut or dear, CoreWeave cannot fund the data centres its backlog needs, and default risk keeps rising; negative cash flow persists for years."
+  }
+ ]
+}
