@@ -3,6 +3,22 @@
  "slug": "ZS",
  "calls": [
   {
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_id": "BnYpdgbFhkY",
+   "video_title": "MAJOR BUY! If You Missed Nvidia, This is Even Bigger",
+   "published_at": "2026-11-25T16:55:38.246952+00:00",
+   "ticker": "ZS",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (last BUY 19 Nov). 'I have been buying Zscaler' with a big position. CrowdStrike is acquiring Zscaler for $43.9B — 1.13 CRWD shares per ZS share, about $260 per share, a 33% premium. Cybersecurity is the star of the year: the HACK ETF is up 50% in 2026 vs under 8% for the AIQ AI ETF, and the group held up in the crash (down just 1.6% over the past month vs AIQ down almost 12%).",
+   "base": "The CrowdStrike deal closes at ~$260 per share.",
+   "bull": "Consolidation spreads and the whole cyber group re-rates higher.",
+   "bear": "The deal breaks or the AI-threat spending wave slows.",
+   "price_at_call": "Buyout ~$260/share (33% premium, $43.9B)",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  },
+  {
    "video_id": "scqLPoVoRmY",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
