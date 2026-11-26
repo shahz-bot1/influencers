@@ -4,6 +4,38 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "ZS",
+   "tickerSlug": "ZS",
+   "direction": "BUY",
+   "date": "2026-11-25T16:55:38.246952+00:00",
+   "price": "Buyout ~$260/share (33% premium, $43.9B)",
+   "video_id": "BnYpdgbFhkY"
+  },
+  {
+   "ticker": "OKTA",
+   "tickerSlug": "OKTA",
+   "direction": "BUY",
+   "date": "2026-11-25T16:55:38.246952+00:00",
+   "price": "Buyout target ~$208/share (~7.5% above Monday's price)",
+   "video_id": "BnYpdgbFhkY"
+  },
+  {
+   "ticker": "S",
+   "tickerSlug": "S",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-25T16:55:38.246952+00:00",
+   "price": "Buyout value ~$11-12B market cap (~35% above recent close)",
+   "video_id": "BnYpdgbFhkY"
+  },
+  {
+   "ticker": "CHKP",
+   "tickerSlug": "CHKP",
+   "direction": "BUY",
+   "date": "2026-11-25T16:55:38.246952+00:00",
+   "price": "Buyout target ~$219/share (~38% upside)",
+   "video_id": "BnYpdgbFhkY"
+  },
+  {
    "ticker": "IQQI",
    "tickerSlug": "IQQI",
    "direction": "CONDITIONAL_BUY",
