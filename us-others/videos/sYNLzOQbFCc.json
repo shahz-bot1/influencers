@@ -1,0 +1,26 @@
+{
+ "video_id": "sYNLzOQbFCc",
+ "title": "The UNTHINKABLE is About to Happen to Stocks (Emergency Update)",
+ "creator": "Tom Nash",
+ "handle": "@TomNashTV",
+ "published_at": "2026-11-25T18:55:38.246952+00:00",
+ "summary": "Tom Nash's emergency update argues the sell-off is painful but normal and changes nothing long-term. The S&P 500 is about 10% below its record again — back in correction territory — after Monday's historic rally faded; on Tuesday two-thirds of S&P stocks actually rose and nine of eleven sectors were green, so money rotated out of tech and chips into defensives rather than leaving the market, though Wednesday's selling is broader on new tariff proposals and the hot PCE print (headline 3.8%, core 3.3% vs 3.2% expected). He walks through the five AI fears, the tariff proposal (not final, likely challenged in court, and Democrats take office in January), the near-certain December Fed hike (already priced in), strong GDP (+4.3%) and jobs data, and oil down over 20% since October — a drop not yet reflected in inflation readings. On AI, he notes the biggest five capex spenders brought in $543bn of operating cash flow in nine months against $557bn of capex, but call it 'good capex' — hotels already booked ten years out — and cites tech-sector Q3 earnings up 73% and S&P earnings up 33%. He draws parallels with late 2018, 2022 and April 2025, when similar panics ended in new highs within months. His action: not selling, following his $1,000-a-month schedule at triple speed while the S&P is 10% below its high, and turning off the screen for Thanksgiving. Call: SPY BUY (reiteration). Note: the caption's Nvidia revenue figure ('$116 billion, up 103%') looks garbled against the reported quarter and should not be relied on.",
+ "calls": [
+  {
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "video_id": "sYNLzOQbFCc",
+   "video_title": "The UNTHINKABLE is About to Happen to Stocks (Emergency Update)",
+   "published_at": "2026-11-25T18:55:38.246952+00:00",
+   "ticker": "SPY",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (last BUY 9 Nov). He is not selling good businesses on red days and is following his schedule: $1,000 a month, triple speed ($1,500) when the S&P 500 is 10% below its 52-week high — which it is, back in correction territory at ~10% below the record. The S&P trades at 17x forward earnings versus 22x at the start of the year and a 19x 10-year average, while Q3 earnings grew 33% and 84% of companies beat expectations.",
+   "base": "Earnings keep growing and prices follow earnings over time.",
+   "bull": "The correction proves another 2018/2022/April-2025-style buying opportunity and new highs follow within months.",
+   "bear": "The sell-off deepens into a proper bear market and the schedule keeps buying into it.",
+   "price_at_call": "S&P ~10% below record; 17x forward earnings",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  }
+ ]
+}
