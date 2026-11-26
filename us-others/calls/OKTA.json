@@ -3,6 +3,22 @@
  "slug": "OKTA",
  "calls": [
   {
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_id": "BnYpdgbFhkY",
+   "video_title": "MAJOR BUY! If You Missed Nvidia, This is Even Bigger",
+   "published_at": "2026-11-25T16:55:38.246952+00:00",
+   "ticker": "OKTA",
+   "direction": "BUY",
+   "thesis": "FLIP: last directional stance HOLD (19 Nov; also HOLD 9 Nov). 'I have been buying Okta' with a big position. Identity access and management leader with upwards of 15% market share (CyberArk, bought by Palo Alto, had under 3%). Applying the Zscaler deal terms (11.17x sales, 53x earnings) gives a buyout target of ~$208 per share, only ~7.5% above Monday's price — but he argues a buyer could pay more for the market-leading IAM position.",
+   "base": "A buyer pays around the $208 Zscaler-terms target.",
+   "bull": "A bidding war for the IAM leader pays well above $208.",
+   "bear": "Growth stays slow (~10%) and no buyer steps up at a premium.",
+   "price_at_call": "Buyout target ~$208/share (~7.5% above Monday's price)",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": true
+  },
+  {
    "video_id": "scqLPoVoRmY",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
