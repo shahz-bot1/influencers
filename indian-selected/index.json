@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T01:33:05.291221+00:00",
+ "updated": "2026-11-26T01:28:43.329381+00:00",
  "tickers": [
   {
    "ticker": "DATA CENTER THEME",
@@ -424,7 +424,7 @@
    "handle": "@torahulj",
    "slug": "Rahul_Jain",
    "nCalls": 27,
-   "nVideos": 29
+   "nVideos": 30
   },
   {
    "name": "Rahul Jain - Hindi",
@@ -435,6 +435,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "FTy1qMweScI",
+   "title": "The Biggest Bet Of Century - Anthropic  - 9000% Growth At $1.2Tn Valuation Justified? - Rahul Jain",
+   "creator": "Rahul Jain",
+   "channels": [
+    "Rahul Jain"
+   ],
+   "published_at": "2026-11-25",
+   "nCalls": 0
+  },
   {
    "id": "R_GPXyQPyp8",
    "title": "I'm buying MORE AI stocks (& you should too!) -- here is why? | Akshat Shrivastava",
