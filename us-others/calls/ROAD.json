@@ -3,6 +3,22 @@
  "slug": "ROAD",
  "calls": [
   {
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "video_id": "FUPKwHArq54",
+   "video_title": "What I'm Buying In The Most Disconnected Market I've Seen",
+   "published_at": "2026-11-25T22:55:38.246952+00:00",
+   "ticker": "ROAD",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY: most recent entry UNCERTAIN (24 Nov video, mentioned but not among the adds), last directional stance BUY (19 Nov). Construction Partners 'freaking paves roads' — a road maintenance and construction company with no AI exposure — yet it is selling off with the index, which he calls indiscriminate selling and an opportunity; he has been adding aggressively.",
+   "base": "Long-term contracts keep revenue compounding and the sell-off proves indiscriminate.",
+   "bull": "By 2030 ROAD is a significantly larger business and today's price looks ridiculous.",
+   "bear": "Margin compression lasts longer than the guided ~6 months.",
+   "price_at_call": "No price stated",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  },
+  {
    "video_id": "vEJ58cI6zSY",
    "video_title": "The Stock Market Is Crashing - What I'm Doing Now",
    "channel": "Daniel Pronk",
