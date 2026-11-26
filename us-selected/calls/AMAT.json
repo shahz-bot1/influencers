@@ -3,6 +3,25 @@
  "slug": "AMAT",
  "calls": [
   {
+   "video_id": "PdXPhETtRlo",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 AI Stocks to Buy After NVIDIA's $1 Trillion Comeback",
+   "published_at": "2026-11-26T00:55:16.941331+00:00",
+   "analyzed_at": "2026-11-26T06:57:14Z",
+   "collab": true,
+   "ticker": "AMAT",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY first tracked (collab with The Motley Fool's Neil). Applied Materials is his second pick: wafer-fab equipment market growth expected above 30% in 2027 and continuing into 2028, with advanced packaging — one of the cycle's biggest constraints — expected to grow north of 90% next year; Applied leads in that step of the process.",
+   "base_case": "WFE spending keeps growing through 2027-28 as the AI ecosystem keeps buying equipment.",
+   "bull_case": "Advanced-packaging demand stays the bottleneck and Applied takes a growing share of it.",
+   "bear_case": "Equipment cycle turns and chipmakers cut capex."
+  },
+  {
    "video_id": "bqwoZUlPjKg",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -23,8 +42,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
