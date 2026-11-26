@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T05:01:17.723596+00:00",
+ "updated": "2026-11-26T05:04:33.067695+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -182,12 +182,12 @@
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-11-24T05:30:00+00:00",
+   "lastDate": "2026-11-25T22:55:38.246952+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$2,010"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -205,8 +205,8 @@
     "Joseph Hogue, CFA",
     "Asymmetric Investing"
    ],
-   "lastStated": "~15x trailing operating cash flow vs 25.8x long-run median; conservative DCF imp",
-   "nCalls": 7
+   "lastStated": "P/OCF lowest since 2010; AWS revenue growth approaching 40%",
+   "nCalls": 8
   },
   {
    "ticker": "ANET",
@@ -311,6 +311,23 @@
    ],
    "lastStated": "no price stated",
    "nCalls": 4
+  },
+  {
+   "ticker": "AXON",
+   "slug": "AXON",
+   "lastDate": "2026-11-25T18:55:38.246952+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$64"
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "Down ~64% from 2025 peak",
+   "nCalls": 1
   },
   {
    "ticker": "BABA",
@@ -651,6 +668,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CHKP",
+   "slug": "CHKP",
+   "lastDate": "2026-11-25T16:55:38.246952+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$219"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Buyout target ~$219/share (~38% upside)",
    "nCalls": 1
   },
   {
@@ -1141,19 +1175,19 @@
   {
    "ticker": "HIMS",
    "slug": "HIMS",
-   "lastDate": "2026-11-11T04:57:37.191771+00:00",
+   "lastDate": "2026-11-25T18:55:38.246952+00:00",
    "chips": [
     {
-     "dir": "HOLD",
+     "dir": "BUY",
      "n": 1,
-     "avg": "$18"
+     "avg": "$14"
     }
    ],
    "influencers": [
     "Asymmetric Investing"
    ],
-   "lastStated": "shares down ~18% after earnings, ~40% over the past month",
-   "nCalls": 3
+   "lastStated": "~$14",
+   "nCalls": 4
   },
   {
    "ticker": "HOOD",
@@ -1495,29 +1529,29 @@
   {
    "ticker": "MELI",
    "slug": "MELI",
-   "lastDate": "2026-11-24T05:30:00+00:00",
+   "lastDate": "2026-11-25T22:55:38.246952+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$1,400"
+     "avg": null
     }
    ],
    "influencers": [
     "Daniel Pronk"
    ],
-   "lastStated": "1400",
-   "nCalls": 2
+   "lastStated": "No price stated",
+   "nCalls": 3
   },
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-11-24T05:30:00+00:00",
+   "lastDate": "2026-11-25T22:55:38.246952+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": null
+     "avg": "$242"
     },
     {
      "dir": "HOLD",
@@ -1530,8 +1564,8 @@
     "Jose Najarro Stocks",
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "No price stated",
-   "nCalls": 6
+   "lastStated": "TTM revenue $242B, +26% for 3 straight quarters",
+   "nCalls": 7
   },
   {
    "ticker": "MGM",
@@ -1860,19 +1894,19 @@
   {
    "ticker": "OKTA",
    "slug": "OKTA",
-   "lastDate": "2026-11-19T04:57:50.440891+00:00",
+   "lastDate": "2026-11-25T16:55:38.246952+00:00",
    "chips": [
     {
-     "dir": "HOLD",
+     "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "$208"
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "2.4x PEG",
-   "nCalls": 3
+   "lastStated": "Buyout target ~$208/share (~7.5% above Monday's price)",
+   "nCalls": 4
   },
   {
    "ticker": "ORCL",
@@ -2140,7 +2174,7 @@
   {
    "ticker": "ROAD",
    "slug": "ROAD",
-   "lastDate": "2026-11-19T22:55:34.818034+00:00",
+   "lastDate": "2026-11-25T22:55:38.246952+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -2151,8 +2185,25 @@
    "influencers": [
     "Daniel Pronk"
    ],
-   "lastStated": "~$5.6bn market cap, ~8.3x trailing EBITDA",
-   "nCalls": 5
+   "lastStated": "No price stated",
+   "nCalls": 6
+  },
+  {
+   "ticker": "S",
+   "slug": "S",
+   "lastDate": "2026-11-25T16:55:38.246952+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$11"
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "Buyout value ~$11-12B market cap (~35% above recent close)",
+   "nCalls": 1
   },
   {
    "ticker": "SCHW",
@@ -2169,6 +2220,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SEZL",
+   "slug": "SEZL",
+   "lastDate": "2026-11-25T18:55:38.246952+00:00",
+   "chips": [
+    {
+     "dir": "CONDITIONAL_BUY",
+     "n": 1,
+     "avg": "$4.8"
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "No price stated; ~$4.8B EV, 8x sales",
    "nCalls": 1
   },
   {
@@ -2368,19 +2436,19 @@
   {
    "ticker": "SPY",
    "slug": "SPY",
-   "lastDate": "2026-11-09T05:10:39.474328+00:00",
+   "lastDate": "2026-11-25T18:55:38.246952+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$500"
+     "avg": "$10"
     }
    ],
    "influencers": [
     "Tom Nash"
    ],
-   "lastStated": "S&P 500 -3% in 5 days, -5% in 30 days; profits growing 30%, full-year guide 33%",
-   "nCalls": 2
+   "lastStated": "S&P ~10% below record; 17x forward earnings",
+   "nCalls": 3
   },
   {
    "ticker": "SYM",
@@ -2465,6 +2533,23 @@
     "Joseph Hogue, CFA"
    ],
    "lastStated": "$34bn market cap (~$240/share, down from a ~$500 peak)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TMDX",
+   "slug": "TMDX",
+   "lastDate": "2026-11-25T18:55:38.246952+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$3.6"
+    }
+   ],
+   "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "No price stated; ~$3.6B market cap",
    "nCalls": 1
   },
   {
@@ -2704,24 +2789,7 @@
   {
    "ticker": "ZETA",
    "slug": "ZETA",
-   "lastDate": "2026-10-13T03:58:37.822741+00:00",
-   "chips": [
-    {
-     "dir": "BUY",
-     "n": 1,
-     "avg": "$8.4"
-    }
-   ],
-   "influencers": [
-    "Asymmetric Investing"
-   ],
-   "lastStated": "$8.4B market cap; EV/sales ~5; revenue compounded 37.6% since Mar 2024 quarter",
-   "nCalls": 2
-  },
-  {
-   "ticker": "ZS",
-   "slug": "ZS",
-   "lastDate": "2026-11-19T04:57:50.440891+00:00",
+   "lastDate": "2026-11-25T18:55:38.246952+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -2730,10 +2798,27 @@
     }
    ],
    "influencers": [
+    "Asymmetric Investing"
+   ],
+   "lastStated": "No price stated",
+   "nCalls": 3
+  },
+  {
+   "ticker": "ZS",
+   "slug": "ZS",
+   "lastDate": "2026-11-25T16:55:38.246952+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$260"
+    }
+   ],
+   "influencers": [
     "Joseph Hogue, CFA"
    ],
-   "lastStated": "1.8x PEG",
-   "nCalls": 5
+   "lastStated": "Buyout ~$260/share (33% premium, $43.9B)",
+   "nCalls": 6
   }
  ],
  "influencers": [
@@ -2741,8 +2826,8 @@
    "name": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
    "slug": "Asymmetric_Investing",
-   "nCalls": 31,
-   "nVideos": 16
+   "nCalls": 36,
+   "nVideos": 17
   },
   {
    "name": "Brian Feroldi",
@@ -2755,8 +2840,8 @@
    "name": "Daniel Pronk",
    "handle": "@danielpronk",
    "slug": "Daniel_Pronk",
-   "nCalls": 35,
-   "nVideos": 17
+   "nCalls": 39,
+   "nVideos": 18
   },
   {
    "name": "Everything Money",
@@ -2776,8 +2861,8 @@
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 169,
-   "nVideos": 21
+   "nCalls": 173,
+   "nVideos": 22
   },
   {
    "name": "Patient Investor",
@@ -2791,14 +2876,14 @@
    "handle": "@value-investing",
    "slug": "Sven_Carlin",
    "nCalls": 25,
-   "nVideos": 6
+   "nVideos": 7
   },
   {
    "name": "Tom Nash",
    "handle": "@TomNashTV",
    "slug": "Tom_Nash",
-   "nCalls": 8,
-   "nVideos": 7
+   "nCalls": 9,
+   "nVideos": 8
   },
   {
    "name": "UNRIVALEDD INVESTING",
@@ -2809,6 +2894,56 @@
   }
  ],
  "videos": [
+  {
+   "id": "FUPKwHArq54",
+   "title": "What I'm Buying In The Most Disconnected Market I've Seen",
+   "creator": "Daniel Pronk",
+   "channels": [
+    "Daniel Pronk"
+   ],
+   "published_at": "2026-11-25T22:55:38.246952+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "g7Uew5Bhfq0",
+   "title": "Research Platform - Buy Value For Black Friday",
+   "creator": "Sven Carlin",
+   "channels": [
+    "Sven Carlin"
+   ],
+   "published_at": "2026-11-25T18:55:38.246952+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "sYNLzOQbFCc",
+   "title": "The UNTHINKABLE is About to Happen to Stocks (Emergency Update)",
+   "creator": "Tom Nash",
+   "channels": [
+    "Tom Nash"
+   ],
+   "published_at": "2026-11-25T18:55:38.246952+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "c0HvGjyxRu4",
+   "title": "Why These 5 Stocks Are Crashing (But I'm Buying More)",
+   "creator": "Asymmetric Investing",
+   "channels": [
+    "Asymmetric Investing"
+   ],
+   "published_at": "2026-11-25T18:55:38.246952+00:00",
+   "nCalls": 5
+  },
+  {
+   "id": "BnYpdgbFhkY",
+   "title": "MAJOR BUY! If You Missed Nvidia, This is Even Bigger",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-11-25T16:55:38.246952+00:00",
+   "nCalls": 4
+  },
   {
    "id": "crFI9NZdANY",
    "title": "AMD Stock Is Crashing - Is It A Buy Now?",
