@@ -3,6 +3,25 @@
  "slug": "SOXX",
  "calls": [
   {
+   "video_id": "16ecnTnGG0g",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "I Just Invested $20,000 into the Stock Market (Here is what I bought)",
+   "published_at": "2026-11-26T15:00:02.653427+00:00",
+   "analyzed_at": "2026-11-26T23:02:32Z",
+   "collab": false,
+   "ticker": "SOXX",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY reiterated (was BUY 24 Nov). Bought Tuesday; layering into the iShares Semiconductor ETF instead of picking individual winners as the competitive landscape shifts. Top holdings fell hard in a month (Intel -40%, Micron -35%, Nvidia -31%, AMD -25%, Broadcom -10%). He has trimmed individual semiconductor exposure but is not bearish on the industry - advanced computing, memory, networking, custom AI chips and manufacturing equipment still offer enormous opportunity.",
+   "base_case": "Semiconductor earnings estimates hold while prices stay low, keeping valuations intriguing as he layers in.",
+   "bull_case": "The sector rebounds from the sell-off with memory, networking and custom silicon leading.",
+   "bear_case": "Earnings expectations fall significantly over the next few quarters, undermining the buy-the-dip case."
+  },
+  {
    "video_id": "gB9A-LaKjcs",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
