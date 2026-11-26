@@ -3,6 +3,22 @@
  "slug": "META",
  "calls": [
   {
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "video_id": "FUPKwHArq54",
+   "video_title": "What I'm Buying In The Most Disconnected Market I've Seen",
+   "published_at": "2026-11-25T22:55:38.246952+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (last BUY 24 Nov). Buying aggressively. Meta's AI capex is paying off inside its own business: advertisers are seeing a 33% decline in cost per acquisition, Meta is adding the most advertising revenue per quarter versus Amazon and Google, and trailing-12-month revenue is $242B, growing 26%+ for three straight quarters.",
+   "base": "AI keeps improving ad targeting and revenue keeps compounding at 25%+.",
+   "bull": "Ad-share gains accelerate and Meta overtakes Google as the largest digital advertiser.",
+   "bear": "Capex keeps rising faster than the ad payoff, or advertiser demand softens.",
+   "price_at_call": "TTM revenue $242B, +26% for 3 straight quarters",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  },
+  {
    "video_id": "Obe61geAjLY",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
@@ -74,11 +90,11 @@
   },
   {
    "channel": "Jose Najarro Stocks",
-   "idx": 3
+   "idx": 4
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
