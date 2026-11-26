@@ -1,0 +1,28 @@
+{
+ "ticker": "TMDX",
+ "slug": "TMDX",
+ "calls": [
+  {
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "video_id": "c0HvGjyxRu4",
+   "video_title": "Why These 5 Stocks Are Crashing (But I'm Buying More)",
+   "published_at": "2026-11-25T18:55:38.246952+00:00",
+   "ticker": "TMDX",
+   "direction": "BUY",
+   "thesis": "First tracked. TransMedics (caption garbles as 'Transmetics') is in the Asymmetric portfolio: 91.5% 5-year revenue CAGR and 56% 3-year CAGR, just a $3.6B market cap, expanding from the US into Europe and through the regulatory process for more organs in more countries. 'The kind of company that I just want to own for the next decade or two' — own the companies building the future you want to see.",
+   "base": "Regulatory expansion in Europe keeps the compounding going.",
+   "bull": "More organs and more countries multiply the addressable market.",
+   "bear": "Regulatory setbacks or volatile profitability.",
+   "price_at_call": "No price stated; ~$3.6B market cap",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  }
+ ]
+}
