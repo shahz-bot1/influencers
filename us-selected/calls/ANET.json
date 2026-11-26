@@ -3,6 +3,25 @@
  "slug": "ANET",
  "calls": [
   {
+   "video_id": "Q9Oy6pQMXHI",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "These 5 AI Stocks Print Cash. The Rest Are Burning It.",
+   "published_at": "2026-11-25T23:55:16.941331+00:00",
+   "analyzed_at": "2026-11-26T06:57:14Z",
+   "collab": false,
+   "ticker": "ANET",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY first tracked (guest Joseph Hogue). Arista Networks: networking is a major bottleneck in the data-centre buildout and Arista does it better than almost anyone; ~50% revenue growth, 60% free-cash-flow margin, and a slightly better valuation than Broadcom (trailing P/E ~45 vs ~50 historically, P/S ~18 vs ~20). He would pick Broadcom head-to-head but says 'you can own both'.",
+   "base_case": "Networking demand keeps compounding and Arista re-rates toward prior multiples.",
+   "bull_case": "The networking bottleneck tightens and Arista's pricing power grows.",
+   "bear_case": "Broadcom's broader data-centre scope wins the head-to-head; Nvidia bundles networking with its chips."
+  },
+  {
    "video_id": "6Z_xwk2RjSo",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -24,8 +43,12 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "MarketBeat",
    "idx": 0
+  },
+  {
+   "channel": "BWB - Business With Brian",
+   "idx": 1
   }
  ]
 }
