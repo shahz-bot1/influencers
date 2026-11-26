@@ -3,6 +3,22 @@
  "slug": "ZETA",
  "calls": [
   {
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "video_id": "c0HvGjyxRu4",
+   "video_title": "Why These 5 Stocks Are Crashing (But I'm Buying More)",
+   "published_at": "2026-11-25T18:55:38.246952+00:00",
+   "ticker": "ZETA",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (last BUY 13 Oct). Zeta is in the Asymmetric portfolio and 'the kind of company that's going to be a huge winner for investors over the next decade'. Revenue CAGR almost 40% since mid-2024, operating margin now positive, free cash flow ~$260M over the past 12 months; its 2028 targets ($2.3B revenue, $371M FCF, $573M adjusted EBITDA) look likely to be hit a year early in 2027, and Athena OS expands it from marketing into business intelligence.",
+   "base": "2028 targets are hit in 2027 and the stock trades at ~20x FCF.",
+   "bull": "Athena OS 10x-es the business over the next decade.",
+   "bear": "Ad-market softness slows the compounding.",
+   "price_at_call": "No price stated",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  },
+  {
    "video_id": "Swhi7Bqtukg",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
