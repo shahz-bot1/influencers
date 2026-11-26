@@ -3,6 +3,22 @@
  "slug": "AMZN",
  "calls": [
   {
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "video_id": "FUPKwHArq54",
+   "video_title": "What I'm Buying In The Most Disconnected Market I've Seen",
+   "published_at": "2026-11-25T22:55:38.246952+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (last BUY 24 Nov). Continuing to buy aggressively — deploying a record amount of capital in the sell-off. Amazon's price to operating cash flow is the lowest since 2010 while the business accelerates: company revenue growth 15%, AWS approaching 40% (fastest in 5 years), operating margins at all-time highs as AWS grows share of the mix. AWS capex has a ~3-year payback, then ~2 years of near-pure free cash flow; frontier AI labs are only ~7% of AWS revenue, demand is broad-based from tens of thousands of customers.",
+   "base": "AWS keeps compounding and the capex converts into free cash flow in the 2030s harvest phase.",
+   "bull": "The market recognises hyperscaler capex is paying off and multiples re-rate while growth accelerates.",
+   "bear": "The capex cycle suppresses free cash flow longer than expected, or AI demand slows.",
+   "price_at_call": "P/OCF lowest since 2010; AWS revenue growth approaching 40%",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  },
+  {
    "video_id": "Obe61geAjLY",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
@@ -88,11 +104,11 @@
   },
   {
    "channel": "Joseph Hogue, CFA",
-   "idx": 4
+   "idx": 5
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 6
+   "idx": 7
   }
  ]
 }
