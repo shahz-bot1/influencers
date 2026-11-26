@@ -1,0 +1,29 @@
+{
+ "video_id": "C5DXsIEjHtg",
+ "title": "Should You Buy Marvell Stock Before the Huge Investor Update?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-26T16:00:02.653427+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble 'Marvell' as 'Marll/Marbell', the acquisition target as 'Lum/Lumenum', and 'Jensen Huang' as 'Jensen Hong'.",
+ "summary": "Parkevtate answers whether to buy Marvell before its big investor update, when it reports quarterly results on 1 December. The stock jumped 18% on the day Jensen Huang was reinstated as Nvidia CEO in a sympathy rally, and is still up over 70% in 2026 despite falling from highs above $300. Analysts forecast earnings per share growing 56% a year over the next several years, and the all-stock acquisition of Lum (name garbled in captions) would boost those prospects while adding a manufacturing base to Marvell's asset-light model. The business was already improving before the deal: operating margin reached 16.8%, the highest in years, on several billion-dollar data-centre contracts. But investors were unhappy about the acquisition, and he explains why markets typically punish acquirers - they historically overpay and overestimate synergies, such as needing only one headquarters, one HR department and one accounting department after combining. On valuation, forward P/E of 18.7 sits near the low end of its multi-year range, and his discounted cash flow fair value is $248 against a current price of $145, so the stock looks cheap by either measure. His answer is yes, it is cheap enough to buy: he would put 75% of an allocation in before the update and 25% after, or 50/50 to equalise the risk of missing out against the risk of losing money.",
+ "calls": [
+  {
+   "video_id": "C5DXsIEjHtg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Marvell Stock Before the Huge Investor Update?",
+   "published_at": "2026-11-26T16:00:02.653427+00:00",
+   "analyzed_at": "2026-11-26T23:02:32Z",
+   "collab": false,
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$145 (current, stated)",
+   "fair_value": "$248",
+   "thesis": "BUY reiterated (was BUY 10 Nov). Stock jumped 18% on Jensen Huang's reinstatement day and is still up over 70% YTD despite falling from highs above $300. Forward P/E 18.7 with EPS forecast to grow ~56%/yr; operating margin 16.8%, highest in years, on billions in data-centre contracts. DCF fair value $248 vs $145 current. The all-stock acquisition of Lum (name garbled in captions) adds a manufacturing base, but acquirers historically overpay and overestimate synergies. His approach: buy 75% of an allocation before the 1 Dec earnings/investor update and 25% after (50/50 to equalise risk).",
+   "base_case": "The 1 Dec update confirms the growth outlook; EPS grows ~56%/yr and the Lum acquisition adds earnings and a manufacturing base as promised.",
+   "bull_case": "Data-centre contract wins accelerate and the acquisition boosts EPS beyond forecast, closing the gap to the $248 fair value.",
+   "bear_case": "The acquirer discount proves right - synergies are overestimated or the deal overpaid - and the 1 Dec update disappoints."
+  }
+ ]
+}
