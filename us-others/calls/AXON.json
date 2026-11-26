@@ -1,0 +1,28 @@
+{
+ "ticker": "AXON",
+ "slug": "AXON",
+ "calls": [
+  {
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "video_id": "c0HvGjyxRu4",
+   "video_title": "Why These 5 Stocks Are Crashing (But I'm Buying More)",
+   "published_at": "2026-11-25T18:55:38.246952+00:00",
+   "ticker": "AXON",
+   "direction": "BUY",
+   "thesis": "First tracked. Axon is 'one of the best companies in the world' and he has owned shares for more than a decade. Down ~64% from its 2025 peak, but a 10-year compound annual revenue growth rate of 30%, with long-term platform contracts from law-enforcement agencies; P/E ~36 and P/FCF ~44 for a still very high-growth business expanding into drones.",
+   "base": "The platform keeps compounding revenue at ~30% and the drawdown proves to be the opportunity.",
+   "bull": "Drones and the platform expansion re-accelerate growth and the multiple expands.",
+   "bear": "Heavy SG&A/R&D spending keeps operating profit suppressed.",
+   "price_at_call": "Down ~64% from 2025 peak",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  }
+ ]
+}
