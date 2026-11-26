@@ -1,0 +1,29 @@
+{
+ "video_id": "MXeeRIggEBs",
+ "title": "Why Is Cerebras Stock Falling and is it a Buy Right Now?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-25T10:57:50.413284+00:00",
+ "source_note": "Detailed summary generated from video captions; auto-captions garble 'Cerebras' as 'Cerebra'. The DCF fair value figure was not captured in the captions - only that it leaves significant upside from $99.",
+ "summary": "Parkevtate examines why Cerebras Systems (CBRS) has crashed 72% in 2026 and whether it is a buying opportunity. The main cause is delays: management told investors it is behind schedule on its OpenAI contract and does not expect to get back on schedule until the second half of 2027, and investors have focused on the delays rather than the growth outlook. The company still expects revenue to triple in 2027, with long-term gross margin above 60% and operating margin above 40%, but near-term margins are going the wrong way - operating margin is negative 99% and has fallen since the company came to market. The balance sheet is strong, with over $7.8 billion in cash and short-term investments against just $1.35 billion in long-term debt, which management is keeping for flexibility while capital markets are difficult. Valuation has improved sharply as the price fell: forward P/E of 53 and forward price-to-sales of 8, both near 2026 lows versus a price-to-sales of 22 earlier in the year. His discounted cash flow model forecasts negative $2 billion free cash flow in 2026 and again in 2027 despite revenue tripling, with positive free cash flow only from 2028. With a beta of 3, he calls it one of the riskier stocks in the market, for high-risk-tolerance investors only. His verdict is BUY, reiterating the buying-opportunity ranking he gave on 17 November.",
+ "calls": [
+  {
+   "video_id": "MXeeRIggEBs",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why Is Cerebras Stock Falling and is it a Buy Right Now?",
+   "published_at": "2026-11-25T10:57:50.413284+00:00",
+   "analyzed_at": "2026-11-26T19:03:13Z",
+   "collab": false,
+   "ticker": "CBRS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$99 (current, stated)",
+   "fair_value": null,
+   "thesis": "BUY reiterated - ranked a buying opportunity 17 Nov, reiterated today (first tracked CBRS call). Stock down 72% in 2026 on OpenAI capacity-delivery delays (behind schedule until H2 2027), but revenue expected to triple in 2027, long-term gross margin >60% and operating margin >40%; $7.8bn cash vs $1.35bn long-term debt; forward P/E 53 and forward P/S 8, near 2026 lows. DCF fair value figure was not captured in the captions - only that it leaves significant upside from $99. High risk (beta 3), only for high-risk-tolerance investors.",
+   "base_case": "OpenAI deliveries get back on schedule in H2 2027; revenue triples in 2027 and margins expand toward the 60%/40% long-term targets.",
+   "bull_case": "Hyperscaler wins (AWS, Oracle, Microsoft) scale cloud revenue; valuation re-rates as free cash flow turns positive in 2028.",
+   "bear_case": "Delays run past H2 2027 (90-day delay clause lets either party cancel part of the OpenAI take-or-pay deal); operating margin stays near -99% and free cash flow stays negative beyond 2027."
+  }
+ ]
+}
