@@ -3,6 +3,25 @@
  "slug": "SKHY",
  "calls": [
   {
+   "video_id": "DJ51f2dFpps",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Micron Stock Instead of SK Hynix Stock? | MU Stock vs. SKHY Stock",
+   "published_at": "2026-11-26T12:55:36.057801+00:00",
+   "analyzed_at": "2026-11-26T14:57:51Z",
+   "collab": false,
+   "ticker": "SKHY",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$124 (current, stated)",
+   "fair_value": "$262 (his DCF)",
+   "thesis": "BUY reiterated (was BUY 24 Nov @ $122, FV $258). Also a great buying opportunity: EPS forecast to grow 94%/yr, operating margin 74.5%, forward P/E 3.0; he rates Micron the slightly better pick of the two.",
+   "base_case": "Memory shortages persist and long-term contracts lock in pricing.",
+   "bull_case": "AI data-centre demand keeps growing; physical AI extends the cycle.",
+   "bear_case": "New capacity from late 2027 compresses margins and memory prices."
+  },
+  {
    "video_id": "TtMD62DqeqM",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
