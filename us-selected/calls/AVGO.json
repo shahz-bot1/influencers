@@ -3,6 +3,25 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "Q9Oy6pQMXHI",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "These 5 AI Stocks Print Cash. The Rest Are Burning It.",
+   "published_at": "2026-11-25T23:55:16.941331+00:00",
+   "analyzed_at": "2026-11-26T06:57:14Z",
+   "collab": false,
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": "$525",
+   "thesis": "BUY first tracked (guest Joseph Hogue). Broadcom: ~63-65% revenue growth, >80% free-cash-flow margin, custom silicon for Alphabet/Amazon plus networking and software lock customers in. P/E ~44 near the 5-year average; on $11.66 expected earnings at 45x that's a $525 stock — 'almost a 70% upside'.",
+   "base_case": "Revenue and earnings growth (~74-75%) justify the current multiple and the stock grinds higher.",
+   "bull_case": "Earnings leverage plus a re-rating toward prior peak multiples drives a large gain.",
+   "bear_case": "AI spending slows or custom-silicon competition compresses pricing."
+  },
+  {
    "video_id": "6Z_xwk2RjSo",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -452,20 +471,24 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 3
+  },
+  {
    "channel": "Mark Roussin CPA",
-   "idx": 9
+   "idx": 10
   }
  ]
 }
