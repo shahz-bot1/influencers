@@ -3,6 +3,25 @@
  "slug": "CRWV",
  "calls": [
   {
+   "video_id": "PdXPhETtRlo",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 AI Stocks to Buy After NVIDIA's $1 Trillion Comeback",
+   "published_at": "2026-11-26T00:55:16.941331+00:00",
+   "analyzed_at": "2026-11-26T06:57:14Z",
+   "collab": true,
+   "ticker": "CRWV",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY reiterated (was BUY 19 Nov). CoreWeave's $130B+ backlog, margins beating expectations and no delays so far; the business 'just got substantially less expensive' while the growth story didn't change.",
+   "base_case": "Backlog converts to revenue on schedule and margins hold.",
+   "bull_case": "CoreWeave scales into a much bigger company as the backlog converts.",
+   "bear_case": "Debt-funded model strains if funding markets tighten or demand disappoints."
+  },
+  {
    "video_id": "Pv1HFWu94gc",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -307,20 +326,20 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 1
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "MarketBeat",
-   "idx": 10
+   "idx": 11
   }
  ]
 }
