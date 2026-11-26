@@ -4,6 +4,38 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "MRVL",
+   "tickerSlug": "MRVL",
+   "direction": "BUY",
+   "date": "2026-11-26T16:00:02.653427+00:00",
+   "price": "$145 (current, stated)",
+   "video_id": "C5DXsIEjHtg"
+  },
+  {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "BUY",
+   "date": "2026-11-26T13:55:36.057801+00:00",
+   "price": "$13 (current, stated)",
+   "video_id": "DGBfitcr_nM"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-26T12:55:36.057801+00:00",
+   "price": null,
+   "video_id": "DJ51f2dFpps"
+  },
+  {
+   "ticker": "SKHY",
+   "tickerSlug": "SKHY",
+   "direction": "BUY",
+   "date": "2026-11-26T12:55:36.057801+00:00",
+   "price": "$124 (current, stated)",
+   "video_id": "DJ51f2dFpps"
+  },
+  {
    "ticker": "CRWV",
    "tickerSlug": "CRWV",
    "direction": "BUY",
@@ -34,6 +66,14 @@
    "date": "2026-11-25T14:45:34.063994+00:00",
    "price": "~$100 (stated; DCF fair value $232)",
    "video_id": "RWZjTdmuvBM"
+  },
+  {
+   "ticker": "CBRS",
+   "tickerSlug": "CBRS",
+   "direction": "BUY",
+   "date": "2026-11-25T10:57:50.413284+00:00",
+   "price": "$99 (current, stated)",
+   "video_id": "MXeeRIggEBs"
   },
   {
    "ticker": "NVDA",
