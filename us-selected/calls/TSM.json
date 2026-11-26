@@ -3,6 +3,25 @@
  "slug": "TSM",
  "calls": [
   {
+   "video_id": "Q9Oy6pQMXHI",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "These 5 AI Stocks Print Cash. The Rest Are Burning It.",
+   "published_at": "2026-11-25T23:55:16.941331+00:00",
+   "analyzed_at": "2026-11-26T06:57:14Z",
+   "collab": false,
+   "ticker": "TSM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY first tracked (guest Joseph Hogue). Taiwan Semiconductor is 'the closest thing we have to a monopoly in tech': ~55% of global semiconductor manufacturing, ~90%+ of high-performance AI chips; 45-50% revenue growth, 40% free-cash-flow margin, and still up ~22% for the year while most AI names gave back their gains. 'I'll buy Taiwan Semiconductor any day of the week and twice on Sunday.'",
+   "base_case": "Monopoly manufacturing position keeps pricing power and growth compounding.",
+   "bull_case": "AI chip demand keeps flowing through TSMC at ever-higher volumes and prices.",
+   "bear_case": "Rest of the market can't keep up, or geopolitical risk hits Taiwan."
+  },
+  {
    "video_id": "6Z_xwk2RjSo",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -211,16 +230,20 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 2
+  },
+  {
+   "channel": "Joseph Carlson After Hours",
+   "idx": 3
   }
  ]
 }
