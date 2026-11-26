@@ -4,6 +4,46 @@
  "slug": "Couch_Investor",
  "calls": [
   {
+   "ticker": "INTC",
+   "tickerSlug": "INTC",
+   "direction": "BUY",
+   "date": "2026-11-26T00:55:16.941331+00:00",
+   "price": null,
+   "video_id": "PdXPhETtRlo"
+  },
+  {
+   "ticker": "MU",
+   "tickerSlug": "MU",
+   "direction": "BUY",
+   "date": "2026-11-26T00:55:16.941331+00:00",
+   "price": "~$700",
+   "video_id": "PdXPhETtRlo"
+  },
+  {
+   "ticker": "AMAT",
+   "tickerSlug": "AMAT",
+   "direction": "BUY",
+   "date": "2026-11-26T00:55:16.941331+00:00",
+   "price": null,
+   "video_id": "PdXPhETtRlo"
+  },
+  {
+   "ticker": "NBIS",
+   "tickerSlug": "NBIS",
+   "direction": "BUY",
+   "date": "2026-11-26T00:55:16.941331+00:00",
+   "price": null,
+   "video_id": "PdXPhETtRlo"
+  },
+  {
+   "ticker": "CRWV",
+   "tickerSlug": "CRWV",
+   "direction": "BUY",
+   "date": "2026-11-26T00:55:16.941331+00:00",
+   "price": null,
+   "video_id": "PdXPhETtRlo"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
