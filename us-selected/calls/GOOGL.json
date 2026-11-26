@@ -3,6 +3,25 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "16ecnTnGG0g",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "I Just Invested $20,000 into the Stock Market (Here is what I bought)",
+   "published_at": "2026-11-26T15:00:02.653427+00:00",
+   "analyzed_at": "2026-11-26T23:02:32Z",
+   "collab": false,
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "LEAP Dec 17 2027 $255 strike, $58 premium (bought)",
+   "fair_value": null,
+   "thesis": "BUY reiterated (was BUY 22 Nov). Alphabet remains one of his highest-conviction names and his largest individual holding for years (recently overtaken by Amazon; he has not sold a share). Rather than adding shares after a soft earnings report, he bought a Dec 17 2027 $255 LEAP call for $58/contract - $5,800 to control 100 shares vs $27,000 outright - and plans to sell covered calls along the way. Break-even at expiry $313. Bullish but cautious: search faces legitimate AI-disruption concerns, but Cloud, YouTube, Gemini, TPUs and Waymo give it its own AI stack, cloud and distribution.",
+   "base_case": "Alphabet regroups on search while Cloud, Gemini and TPUs keep growing; the LEAP gains as the stock rises above $313 by Dec 2027.",
+   "bull_case": "Waymo becomes an enormous business of its own and the AI stack re-rates the stock well above the $255 strike.",
+   "bear_case": "Search disruption worsens or timing is wrong - the option expires worthless and the full $58/contract premium is lost."
+  },
+  {
    "video_id": "EwHAzMJ9vV8",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -626,28 +645,28 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 3
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 2
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "MarketBeat",
-   "idx": 8
+   "idx": 9
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 21
+   "idx": 22
   }
  ]
 }
