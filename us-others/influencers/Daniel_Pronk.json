@@ -4,6 +4,38 @@
  "slug": "Daniel_Pronk",
  "calls": [
   {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-25T22:55:38.246952+00:00",
+   "price": "P/OCF lowest since 2010; AWS revenue growth approaching 40%",
+   "video_id": "FUPKwHArq54"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-25T22:55:38.246952+00:00",
+   "price": "TTM revenue $242B, +26% for 3 straight quarters",
+   "video_id": "FUPKwHArq54"
+  },
+  {
+   "ticker": "MELI",
+   "tickerSlug": "MELI",
+   "direction": "BUY",
+   "date": "2026-11-25T22:55:38.246952+00:00",
+   "price": "No price stated",
+   "video_id": "FUPKwHArq54"
+  },
+  {
+   "ticker": "ROAD",
+   "tickerSlug": "ROAD",
+   "direction": "BUY",
+   "date": "2026-11-25T22:55:38.246952+00:00",
+   "price": "No price stated",
+   "video_id": "FUPKwHArq54"
+  },
+  {
    "ticker": "AMD",
    "tickerSlug": "AMD",
    "direction": "AVOID",
