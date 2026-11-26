@@ -3,6 +3,25 @@
  "slug": "INTC",
  "calls": [
   {
+   "video_id": "PdXPhETtRlo",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 AI Stocks to Buy After NVIDIA's $1 Trillion Comeback",
+   "published_at": "2026-11-26T00:55:16.941331+00:00",
+   "analyzed_at": "2026-11-26T06:57:14Z",
+   "collab": true,
+   "ticker": "INTC",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY first tracked (collab with The Motley Fool's Neil). Intel is being punished for the right reasons — consumer CPUs ~50% of revenue are weak as memory pricing makes PCs pricier, and the server-CPU supply chain isn't ready for the demand — but CEO Lip-Bu Tan owns the mistake and is fixing it; server-CPU and foundry growth should return in 2-3 quarters, with external foundry customers arriving in H2 next year. Neil: 'more upside than risk from here on out.'",
+   "base_case": "Supply chain gets fixed and server-CPU/foundry revenue growth resumes over the next 2-3 quarters.",
+   "bull_case": "Guidance growth returns as the supply chain is fixed and external foundry demand grows.",
+   "bear_case": "Consumer PC weakness lasts longer and the supply chain stays unready, delaying the recovery."
+  },
+  {
    "video_id": "hventP5IMrQ",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -92,8 +111,12 @@
  ],
  "byInf": [
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 0
+  },
+  {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 1
   }
  ]
 }
