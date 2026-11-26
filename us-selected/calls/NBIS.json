@@ -3,6 +3,25 @@
  "slug": "NBIS",
  "calls": [
   {
+   "video_id": "PdXPhETtRlo",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 AI Stocks to Buy After NVIDIA's $1 Trillion Comeback",
+   "published_at": "2026-11-26T00:55:16.941331+00:00",
+   "analyzed_at": "2026-11-26T06:57:14Z",
+   "collab": true,
+   "ticker": "NBIS",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY reiterated (was BUY 25 Nov). Nebius still expected to 4x revenue in 2027; the neocloud funding fear is much smaller than a year ago — prepayments, payback periods nearing one year, vertical integration and short-term contracts — and Jensen Huang's return should make any funding easier. Neil agrees both NBIS and CRWV are fine on their own feet.",
+   "base_case": "Revenue roughly quadruples in 2027 as contracts and backlog convert.",
+   "bull_case": "Nebius is a much bigger company a year from now as funding eases and growth compounds.",
+   "bear_case": "Funding needs return if growth slows; permitting delays hit data-centre buildout."
+  },
+  {
    "video_id": "EwHAzMJ9vV8",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -469,15 +488,15 @@
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "MarketBeat",
-   "idx": 11
+   "idx": 12
   }
  ]
 }
