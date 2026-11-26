@@ -1,0 +1,28 @@
+{
+ "ticker": "CHKP",
+ "slug": "CHKP",
+ "calls": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_id": "BnYpdgbFhkY",
+   "video_title": "MAJOR BUY! If You Missed Nvidia, This is Even Bigger",
+   "published_at": "2026-11-25T16:55:38.246952+00:00",
+   "ticker": "CHKP",
+   "direction": "BUY",
+   "thesis": "First tracked. Check Point is worth a look on buyout maths: only ~4.3% expected revenue growth, but a 30% EBITDA margin (matched only by Fortinet in cyber). On a conservative 8x sales it would be a ~$22B market cap, ~40% above the recent price, or ~$219 per share at ~21x earnings — 'about a 38% upside and I think worth it' on the profitability, even though slow growth makes him hesitant.",
+   "base": "A buyer pays ~8x sales, ~$219 per share.",
+   "bull": "A buyer pays full Zscaler-style terms and the premium is larger.",
+   "bear": "Slow growth caps the multiple and no buyer pays up.",
+   "price_at_call": "Buyout target ~$219/share (~38% upside)",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
