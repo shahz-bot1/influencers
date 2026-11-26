@@ -3,6 +3,25 @@
  "slug": "QQQM",
  "calls": [
   {
+   "video_id": "16ecnTnGG0g",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "I Just Invested $20,000 into the Stock Market (Here is what I bought)",
+   "published_at": "2026-11-26T15:00:02.653427+00:00",
+   "analyzed_at": "2026-11-26T23:02:32Z",
+   "collab": false,
+   "ticker": "QQQM",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY reiterated (was BUY 24 Nov). Bought Friday last week and again Wednesday this week; reestablishing the Nasdaq-100 position through QQQM (0.15% expense ratio) as a foundational long-term holding. The Nasdaq-100 briefly fell ~20% into a bear market; he believes valuations are intriguing even after adjusting 2027 earnings for slowdown fears, and expects a relief rally possibly followed by one more leg lower - he is accumulating rather than timing the bottom.",
+   "base_case": "High-quality Nasdaq-100 names compound over 3-5 years from much lower valuations.",
+   "bull_case": "The sell-off proves to be near the bottom and the relief rally extends into a sustained recovery.",
+   "bear_case": "One more leg lower comes and earnings estimates fall significantly, changing the valuation equation."
+  },
+  {
    "video_id": "gB9A-LaKjcs",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -39,7 +58,7 @@
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
