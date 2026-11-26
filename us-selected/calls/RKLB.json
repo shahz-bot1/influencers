@@ -3,6 +3,25 @@
  "slug": "RKLB",
  "calls": [
   {
+   "video_id": "16ecnTnGG0g",
+   "channel": "Mark Roussin CPA",
+   "handle": "@markroussincpa",
+   "video_title": "I Just Invested $20,000 into the Stock Market (Here is what I bought)",
+   "published_at": "2026-11-26T15:00:02.653427+00:00",
+   "analyzed_at": "2026-11-26T23:02:32Z",
+   "collab": false,
+   "ticker": "RKLB",
+   "direction": "CONDITIONAL_BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$40 strike (cash-secured puts, Dec 18 2026); $36.90 effective cost if assigned",
+   "fair_value": null,
+   "thesis": "CONDITIONAL_BUY reiterated (was CONDITIONAL_BUY 22 Oct). Sold cash-secured puts expiring Dec 18 2026 at a $40 strike, collecting $310/contract and setting aside $4,000/contract. If RKLB stays above $40 he keeps the ~8% premium in under a month; if assigned he owns it at an effective $36.90/share, a price he is comfortable with. Thesis: Rocket Lab is more than a launch company (spacecraft, satellite components, solar power, services for commercial and government customers) and Neutron opens a much larger market; inaugural launch pushed to H1 2027 but Q3 secured 8 Neutron missions across 5 constellation operators worth $500m+ in contracts. Biggest risk is execution - rockets are complex, capital-intensive and delays are likely.",
+   "base_case": "Neutron launches in H1 2027 and the launch plus space-systems businesses keep growing.",
+   "bull_case": "Neutron executes and wins large constellation contracts, driving significant long-term growth.",
+   "bear_case": "Neutron slips further or execution fails and the stock falls well below $40, leaving him owning shares at a loss."
+  },
+  {
    "video_id": "oV8-eSOiu2U",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -75,16 +94,16 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Mark Roussin CPA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Couch Investor",
    "idx": 1
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
