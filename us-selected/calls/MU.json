@@ -3,6 +3,44 @@
  "slug": "MU",
  "calls": [
   {
+   "video_id": "DJ51f2dFpps",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Micron Stock Instead of SK Hynix Stock? | MU Stock vs. SKHY Stock",
+   "published_at": "2026-11-26T12:55:36.057801+00:00",
+   "analyzed_at": "2026-11-26T14:57:51Z",
+   "collab": false,
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": "$1,544 (his DCF)",
+   "thesis": "BUY reiterated (was BUY 24 Nov @ $700, FV $1,543). His pick over SK Hynix - he owns it and has bought more. HBM prices up 300%+ in places, shortages persist, sold out through 2027; operating margin 75%, ROIC 89%; forward P/E 3.4 - ridiculously cheap.",
+   "base_case": "Signed long-term contracts keep margins strong through 2028; ROIC at least 40% through 2030.",
+   "bull_case": "Physical AI (driverless cars, robotics) adds a new demand wave and extends the boom several more years.",
+   "bear_case": "Cyclical memory - margins eventually collapse when new capacity arrives; triple-digit price rises are not sustainable."
+  },
+  {
+   "video_id": "PdXPhETtRlo",
+   "channel": "Couch Investor",
+   "handle": "@CouchInvestor",
+   "video_title": "4 AI Stocks to Buy After NVIDIA's $1 Trillion Comeback",
+   "published_at": "2026-11-26T00:55:16.941331+00:00",
+   "analyzed_at": "2026-11-26T06:57:14Z",
+   "collab": true,
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$700",
+   "fair_value": "$1,000",
+   "thesis": "BUY reiterated (was BUY 25 Nov). Trading at ~4x forward earnings while printing huge cash: ~75% sold out for 2027 with long-term agreements de-risking the usual cyclicality; FY26 free cash flow ~$50-56B, more than the last 10 years combined. Neil: at ~$700 today, back to $1,000 is 'still a nice return'.",
+   "base_case": "Memory demand stays strong and long-term agreements keep cash flowing through the cycle.",
+   "bull_case": "Micron generates $100B+ of free cash flow a year in 1-2 years and the market pays 10-13x earnings.",
+   "bear_case": "Memory proves cyclical after all and margins peak, compressing the multiple."
+  },
+  {
    "video_id": "6Z_xwk2RjSo",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -504,7 +542,7 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
@@ -512,16 +550,16 @@
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 4
+   "idx": 6
   },
   {
    "channel": "MarketBeat",
-   "idx": 17
+   "idx": 19
   }
  ]
 }
