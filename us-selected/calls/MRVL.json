@@ -3,6 +3,25 @@
  "slug": "MRVL",
  "calls": [
   {
+   "video_id": "C5DXsIEjHtg",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should You Buy Marvell Stock Before the Huge Investor Update?",
+   "published_at": "2026-11-26T16:00:02.653427+00:00",
+   "analyzed_at": "2026-11-26T23:02:32Z",
+   "collab": false,
+   "ticker": "MRVL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$145 (current, stated)",
+   "fair_value": "$248",
+   "thesis": "BUY reiterated (was BUY 10 Nov). Stock jumped 18% on Jensen Huang's reinstatement day and is still up over 70% YTD despite falling from highs above $300. Forward P/E 18.7 with EPS forecast to grow ~56%/yr; operating margin 16.8%, highest in years, on billions in data-centre contracts. DCF fair value $248 vs $145 current. The all-stock acquisition of Lum (name garbled in captions) adds a manufacturing base, but acquirers historically overpay and overestimate synergies. His approach: buy 75% of an allocation before the 1 Dec earnings/investor update and 25% after (50/50 to equalise risk).",
+   "base_case": "The 1 Dec update confirms the growth outlook; EPS grows ~56%/yr and the Lum acquisition adds earnings and a manufacturing base as promised.",
+   "bull_case": "Data-centre contract wins accelerate and the acquisition boosts EPS beyond forecast, closing the gap to the $248 fair value.",
+   "bear_case": "The acquirer discount proves right - synergies are overestimated or the deal overpaid - and the 1 Dec update disappoints."
+  },
+  {
    "video_id": "Ec1fpKQXJWo",
    "channel": "Mark Roussin CPA",
    "handle": "@markroussincpa",
@@ -133,16 +152,16 @@
  ],
  "byInf": [
   {
-   "channel": "Mark Roussin CPA",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Mark Roussin CPA",
    "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
