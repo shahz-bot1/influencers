@@ -3,6 +3,25 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "Q9Oy6pQMXHI",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "These 5 AI Stocks Print Cash. The Rest Are Burning It.",
+   "published_at": "2026-11-25T23:55:16.941331+00:00",
+   "analyzed_at": "2026-11-26T06:57:14Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": "~2x current price",
+   "thesis": "BUY reiterated (was BUY 18 Nov; guest Joseph Hogue). Top of his five 'cash-flow kings': ~96% revenue growth expected this year, ~80% free-cash-flow margin, trading ~10-15x forward earnings vs ~30x historically — 'a stock worth double what it is now' on a re-rating alone. GPU dominance plus CUDA lock-in. Key-man risk acknowledged but he expects the stock to move higher once past the 'soap opera'.",
+   "base_case": "Growth story intact; valuation re-rates toward historical ~30x forward earnings.",
+   "bull_case": "Re-rating plus ~96% growth compounds the stock well above current levels.",
+   "bear_case": "Board/government probes or China-sales accounting questions escalate; key-man risk returns."
+  },
+  {
    "video_id": "6Z_xwk2RjSo",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -998,28 +1017,28 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "Couch Investor",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 2
   },
   {
+   "channel": "Parkevtate Vosianc CFA",
+   "idx": 3
+  },
+  {
    "channel": "Joseph Carlson After Hours",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 8
-  },
-  {
-   "channel": "MarketBeat",
-   "idx": 13
+   "idx": 9
   }
  ]
 }
