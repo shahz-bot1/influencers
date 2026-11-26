@@ -3,6 +3,22 @@
  "slug": "MELI",
  "calls": [
   {
+   "channel": "Daniel Pronk",
+   "handle": "@danielpronk",
+   "video_id": "FUPKwHArq54",
+   "video_title": "What I'm Buying In The Most Disconnected Market I've Seen",
+   "published_at": "2026-11-25T22:55:38.246952+00:00",
+   "ticker": "MELI",
+   "direction": "BUY",
+   "thesis": "Reiterated BUY (last BUY 24 Nov). Named among the stocks he is 'going aggressive' in during the sell-off, alongside Amazon, Meta and Construction Partners. (Caption garbles the name as 'Marcato, Libre'; identified as MercadoLibre from context and his recent MELI adds.)",
+   "base": "MercadoLibre keeps compounding through the sell-off.",
+   "bull": "The disconnect closes and the stock re-rates toward his ~$2,000 DCF fair value.",
+   "bear": "Brazil real headwinds and fintech/credit losses bite.",
+   "price_at_call": "No price stated",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  },
+  {
    "video_id": "Obe61geAjLY",
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
