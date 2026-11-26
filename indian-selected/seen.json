@@ -530,5 +530,31 @@
   "published_at": "2026-11-23T15:26:20.312551+00:00",
   "analyzed_at": "2026-11-24T01:29:29.000000+00:00",
   "alerted": true
+ },
+ "zs7CeH_62cQ": {
+  "channel": "Rahul Jain - Hindi",
+  "title": "Best Investment for Monthly Income - SWP vs FD vs Bonds vs POMIS - Winner will shock you -Rahul Jain",
+  "published_at": "2026-11-24T15:26:17.192264+00:00",
+  "analyzed_at": "2026-11-25T01:27:51.127650+00:00",
+  "alerted": false,
+  "skipped": "no English captions",
+  "skipped_permanent": true
+ },
+ "ZVEUxR9I8RE": {
+  "channel": "Rahul Jain",
+  "title": "Don’t Attempt CAT 2026 Before Watching This | MBA Unplugged - CATKing On Rahul Jain G2G",
+  "published_at": "2026-11-24T01:26:17.192264+00:00",
+  "analyzed_at": "2026-11-26T01:27:52.020062+00:00",
+  "alerted": true,
+  "collab": true,
+  "collab_byline": "Good 2 Great By Rahul Jain and 2 more",
+  "caption_failed": true
+ },
+ "FTy1qMweScI": {
+  "channel": "Rahul Jain",
+  "title": "The Biggest Bet Of Century - Anthropic  - 9000% Growth At $1.2Tn Valuation Justified? - Rahul Jain",
+  "published_at": "2026-11-25T14:26:17.067727+00:00",
+  "analyzed_at": "2026-11-26T01:27:52.020062+00:00",
+  "alerted": false
  }
 }
