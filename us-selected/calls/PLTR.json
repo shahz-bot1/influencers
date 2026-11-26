@@ -3,6 +3,25 @@
  "slug": "PLTR",
  "calls": [
   {
+   "video_id": "Q9Oy6pQMXHI",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "These 5 AI Stocks Print Cash. The Rest Are Burning It.",
+   "published_at": "2026-11-25T23:55:16.941331+00:00",
+   "analyzed_at": "2026-11-26T06:57:14Z",
+   "collab": false,
+   "ticker": "PLTR",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": null,
+   "thesis": "BUY reiterated (was BUY 13 Nov; guest Joseph Hogue). Palantir is 'actually coming into a value play': 91% revenue growth with ~101% free-cash-flow margin — the highest of the 40 AI stocks he screened — sticky government contracts plus expanding commercial AI adoption; PEG under 1 vs 3-5x historically.",
+   "base_case": "Revenue growth and cash conversion stay strong and the market stops pricing it only on P/E.",
+   "bull_case": "Multiples re-rate toward historical levels as earnings catch up with growth.",
+   "bear_case": "Software-sentiment sell-off (vibe-coding fears) hits it hard; it stays the most volatile name on the list."
+  },
+  {
    "video_id": "6Z_xwk2RjSo",
    "channel": "BWB - Business With Brian",
    "handle": "@BusinessWithBrian",
@@ -185,20 +204,20 @@
  ],
  "byInf": [
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "MarketBeat",
    "idx": 0
   },
   {
-   "channel": "MarketBeat",
+   "channel": "BWB - Business With Brian",
    "idx": 1
   },
   {
    "channel": "Couch Investor",
-   "idx": 2
+   "idx": 3
   },
   {
    "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "idx": 4
   }
  ]
 }
