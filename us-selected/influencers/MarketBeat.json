@@ -4,6 +4,46 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-25T23:55:16.941331+00:00",
+   "price": null,
+   "video_id": "Q9Oy6pQMXHI"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-25T23:55:16.941331+00:00",
+   "price": null,
+   "video_id": "Q9Oy6pQMXHI"
+  },
+  {
+   "ticker": "PLTR",
+   "tickerSlug": "PLTR",
+   "direction": "BUY",
+   "date": "2026-11-25T23:55:16.941331+00:00",
+   "price": null,
+   "video_id": "Q9Oy6pQMXHI"
+  },
+  {
+   "ticker": "ANET",
+   "tickerSlug": "ANET",
+   "direction": "BUY",
+   "date": "2026-11-25T23:55:16.941331+00:00",
+   "price": null,
+   "video_id": "Q9Oy6pQMXHI"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-11-25T23:55:16.941331+00:00",
+   "price": null,
+   "video_id": "Q9Oy6pQMXHI"
+  },
+  {
    "ticker": "FIX",
    "tickerSlug": "FIX",
    "direction": "BUY",
