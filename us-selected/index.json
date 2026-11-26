@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T23:15:19.792430+00:00",
+ "updated": "2026-11-26T23:04:05.124899+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -212,19 +212,20 @@
   {
    "ticker": "AMAT",
    "slug": "AMAT",
-   "lastDate": "2026-11-18T18:16:00.723025+00:00",
+   "lastDate": "2026-11-26T00:55:16.941331+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": "$370"
     }
    ],
    "influencers": [
+    "Couch Investor",
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "~$370 (stated); DCF fair value $357",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "AMBA",
@@ -320,19 +321,20 @@
   {
    "ticker": "ANET",
    "slug": "ANET",
-   "lastDate": "2026-11-25T20:58:18.217410+00:00",
+   "lastDate": "2026-11-25T23:55:16.941331+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": null
     }
    ],
    "influencers": [
+    "MarketBeat",
     "BWB - Business With Brian"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "ANS",
@@ -551,22 +553,23 @@
   {
    "ticker": "AVGO",
    "slug": "AVGO",
-   "lastDate": "2026-11-25T20:58:18.217410+00:00",
+   "lastDate": "2026-11-25T23:55:16.941331+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 4,
+     "n": 5,
      "avg": "$116.57"
     }
    ],
    "influencers": [
+    "MarketBeat",
     "BWB - Business With Brian",
     "Couch Investor",
     "Parkevtate Vosianc CFA",
     "Mark Roussin CPA"
    ],
    "lastStated": "$1.7T market cap; EPS target ~$30 by 2028 (stated)",
-   "nCalls": 28
+   "nCalls": 29
   },
   {
    "ticker": "AXON",
@@ -772,6 +775,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "trading a little over $58 (stated); DCF fair value $52 (stated)",
+   "nCalls": 1
+  },
+  {
+   "ticker": "CBRS",
+   "slug": "CBRS",
+   "lastDate": "2026-11-25T10:57:50.413284+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$99"
+    }
+   ],
+   "influencers": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "lastStated": "$99 (current, stated)",
    "nCalls": 1
   },
   {
@@ -1134,12 +1154,12 @@
   {
    "ticker": "CRWV",
    "slug": "CRWV",
-   "lastDate": "2026-11-25T20:58:18.217410+00:00",
+   "lastDate": "2026-11-26T00:55:16.941331+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$86.5"
+     "avg": "$43"
     },
     {
      "dir": "AVOID",
@@ -1148,13 +1168,13 @@
     }
    ],
    "influencers": [
-    "Parkevtate Vosianc CFA",
     "Couch Investor",
+    "Parkevtate Vosianc CFA",
     "BWB - Business With Brian",
     "MarketBeat"
    ],
    "lastStated": "~$43 (stated; near 52-week low $40)",
-   "nCalls": 17
+   "nCalls": 18
   },
   {
    "ticker": "CSCO",
@@ -1814,12 +1834,12 @@
   {
    "ticker": "GOOGL",
    "slug": "GOOGL",
-   "lastDate": "2026-11-25T14:45:34.063994+00:00",
+   "lastDate": "2026-11-26T15:00:02.653427+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": "$150.5"
+     "avg": "$106"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -1833,15 +1853,15 @@
     }
    ],
    "influencers": [
+    "Mark Roussin CPA",
     "Couch Investor",
     "Parkevtate Vosianc CFA",
-    "Mark Roussin CPA",
     "Joseph Carlson After Hours",
     "MarketBeat",
     "BWB - Business With Brian"
    ],
-   "lastStated": "$273 (stated)",
-   "nCalls": 38
+   "lastStated": "LEAP Dec 17 2027 $255 strike, $58 premium (bought)",
+   "nCalls": 39
   },
   {
    "ticker": "GRAL",
@@ -2096,8 +2116,13 @@
   {
    "ticker": "INTC",
    "slug": "INTC",
-   "lastDate": "2026-11-20T12:55:42.402720+00:00",
+   "lastDate": "2026-11-26T00:55:16.941331+00:00",
    "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    },
     {
      "dir": "AVOID",
      "n": 1,
@@ -2105,10 +2130,11 @@
     }
    ],
    "influencers": [
+    "Couch Investor",
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "$57.32",
-   "nCalls": 5
+   "nCalls": 6
   },
   {
    "ticker": "INTU",
@@ -2756,12 +2782,12 @@
   {
    "ticker": "MRVL",
    "slug": "MRVL",
-   "lastDate": "2026-11-10T15:00:03.267303+00:00",
+   "lastDate": "2026-11-26T16:00:02.653427+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$137"
+     "avg": "$145"
     },
     {
      "dir": "SELL",
@@ -2770,12 +2796,12 @@
     }
    ],
    "influencers": [
-    "Mark Roussin CPA",
     "Parkevtate Vosianc CFA",
+    "Mark Roussin CPA",
     "MarketBeat"
    ],
-   "lastStated": "No stated price; shares down ~40% since end-October (up ~180% in the 12 months t",
-   "nCalls": 8
+   "lastStated": "$145 (current, stated)",
+   "nCalls": 9
   },
   {
    "ticker": "MSFT",
@@ -2823,7 +2849,7 @@
   {
    "ticker": "MU",
    "slug": "MU",
-   "lastDate": "2026-11-25T20:58:18.217410+00:00",
+   "lastDate": "2026-11-26T12:55:36.057801+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -2837,24 +2863,24 @@
     }
    ],
    "influencers": [
-    "BWB - Business With Brian",
-    "Couch Investor",
     "Parkevtate Vosianc CFA",
+    "Couch Investor",
+    "BWB - Business With Brian",
     "Mark Roussin CPA",
     "MarketBeat"
    ],
-   "lastStated": "$700 (stated)",
-   "nCalls": 30
+   "lastStated": "~$700",
+   "nCalls": 32
   },
   {
    "ticker": "NBIS",
    "slug": "NBIS",
-   "lastDate": "2026-11-25T14:45:34.063994+00:00",
+   "lastDate": "2026-11-26T00:55:16.941331+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$99"
+     "avg": "$100"
     },
     {
      "dir": "HOLD",
@@ -2874,7 +2900,7 @@
     "MarketBeat"
    ],
    "lastStated": "~$98 (bought more last week)",
-   "nCalls": 27
+   "nCalls": 28
   },
   {
    "ticker": "NEM",
@@ -3071,7 +3097,7 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-25T20:58:18.217410+00:00",
+   "lastDate": "2026-11-25T23:55:16.941331+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -3085,15 +3111,15 @@
     }
    ],
    "influencers": [
+    "MarketBeat",
     "BWB - Business With Brian",
     "Couch Investor",
     "Parkevtate Vosianc CFA",
     "Joseph Carlson After Hours",
-    "Mark Roussin CPA",
-    "MarketBeat"
+    "Mark Roussin CPA"
    ],
    "lastStated": "~$140 (bought more last week)",
-   "nCalls": 60
+   "nCalls": 61
   },
   {
    "ticker": "NVO",
@@ -3436,7 +3462,7 @@
   {
    "ticker": "PLTR",
    "slug": "PLTR",
-   "lastDate": "2026-11-25T20:58:18.217410+00:00",
+   "lastDate": "2026-11-25T23:55:16.941331+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -3445,13 +3471,13 @@
     }
    ],
    "influencers": [
-    "BWB - Business With Brian",
     "MarketBeat",
+    "BWB - Business With Brian",
     "Couch Investor",
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "DCF fair value just over $194 vs $173 after-hours ($178 into earnings)",
-   "nCalls": 11
+   "nCalls": 12
   },
   {
    "ticker": "PLUG",
@@ -3572,7 +3598,7 @@
   {
    "ticker": "QQQM",
    "slug": "QQQM",
-   "lastDate": "2026-11-24T14:59:49.753110+00:00",
+   "lastDate": "2026-11-26T15:00:02.653427+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -3585,7 +3611,7 @@
     "BWB - Business With Brian"
    ],
    "lastStated": "",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "QS",
@@ -3789,7 +3815,7 @@
   {
    "ticker": "RKLB",
    "slug": "RKLB",
-   "lastDate": "2026-11-15T17:00:01.139404+00:00",
+   "lastDate": "2026-11-26T15:00:02.653427+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -3799,7 +3825,7 @@
     {
      "dir": "CONDITIONAL_BUY",
      "n": 1,
-     "avg": "$18"
+     "avg": "$40"
     },
     {
      "dir": "AVOID",
@@ -3808,12 +3834,12 @@
     }
    ],
    "influencers": [
-    "Couch Investor",
     "Mark Roussin CPA",
+    "Couch Investor",
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "~$59 (stated; added 30 shares, +5.17% position)",
-   "nCalls": 4
+   "lastStated": "$40 strike (cash-secured puts, Dec 18 2026); $36.90 effective cost if assigned",
+   "nCalls": 5
   },
   {
    "ticker": "RMBS",
@@ -3962,19 +3988,19 @@
   {
    "ticker": "SKHY",
    "slug": "SKHY",
-   "lastDate": "2026-11-24T12:55:36.653040+00:00",
+   "lastDate": "2026-11-26T12:55:36.057801+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$122"
+     "avg": "$124"
     }
    ],
    "influencers": [
     "Parkevtate Vosianc CFA"
    ],
-   "lastStated": "$122 (stated, near 52-wk low)",
-   "nCalls": 3
+   "lastStated": "$124 (current, stated)",
+   "nCalls": 4
   },
   {
    "ticker": "SMCI",
@@ -4053,12 +4079,12 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-11-23T21:58:25.283872+00:00",
+   "lastDate": "2026-11-26T13:55:36.057801+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$22"
+     "avg": "$13"
     },
     {
      "dir": "HOLD",
@@ -4067,12 +4093,12 @@
     }
    ],
    "influencers": [
-    "Couch Investor",
     "Parkevtate Vosianc CFA",
+    "Couch Investor",
     "MarketBeat"
    ],
-   "lastStated": "No share price stated; ~$20-22B market cap, down ~37% YTD; ~20x 2027 earnings (s",
-   "nCalls": 12
+   "lastStated": "$13 (current, stated)",
+   "nCalls": 13
   },
   {
    "ticker": "SOUN",
@@ -4094,7 +4120,7 @@
   {
    "ticker": "SOXX",
    "slug": "SOXX",
-   "lastDate": "2026-11-24T14:59:49.753110+00:00",
+   "lastDate": "2026-11-26T15:00:02.653427+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -4106,7 +4132,7 @@
     "Mark Roussin CPA"
    ],
    "lastStated": "",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "SPCX",
@@ -4391,21 +4417,22 @@
   {
    "ticker": "TSM",
    "slug": "TSM",
-   "lastDate": "2026-11-25T20:58:18.217410+00:00",
+   "lastDate": "2026-11-25T23:55:16.941331+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 3,
+     "n": 4,
      "avg": "$358"
     }
    ],
    "influencers": [
+    "MarketBeat",
     "BWB - Business With Brian",
     "Parkevtate Vosianc CFA",
     "Joseph Carlson After Hours"
    ],
    "lastStated": "$356 (stated)",
-   "nCalls": 13
+   "nCalls": 14
   },
   {
    "ticker": "TTD",
@@ -4997,8 +5024,8 @@
    "name": "Couch Investor",
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
-   "nCalls": 140,
-   "nVideos": 80
+   "nCalls": 145,
+   "nVideos": 81
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -5011,22 +5038,22 @@
    "name": "Mark Roussin CPA",
    "handle": "@markroussincpa",
    "slug": "Mark_Roussin_CPA",
-   "nCalls": 91,
-   "nVideos": 30
+   "nCalls": 95,
+   "nVideos": 31
   },
   {
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 149,
-   "nVideos": 54
+   "nCalls": 154,
+   "nVideos": 55
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 337,
-   "nVideos": 291
+   "nCalls": 342,
+   "nVideos": 295
   },
   {
    "name": "The German Value Investor",
@@ -5037,6 +5064,66 @@
   }
  ],
  "videos": [
+  {
+   "id": "C5DXsIEjHtg",
+   "title": "Should You Buy Marvell Stock Before the Huge Investor Update?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-26T16:00:02.653427+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "16ecnTnGG0g",
+   "title": "I Just Invested $20,000 into the Stock Market (Here is what I bought)",
+   "creator": "Mark Roussin CPA",
+   "channels": [
+    "Mark Roussin CPA"
+   ],
+   "published_at": "2026-11-26T15:00:02.653427+00:00",
+   "nCalls": 4
+  },
+  {
+   "id": "DGBfitcr_nM",
+   "title": "Why is Sofi Stock Falling and is it a Buy Right Now?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-26T13:55:36.057801+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "DJ51f2dFpps",
+   "title": "Should Investors Buy Micron Stock Instead of SK Hynix Stock? | MU Stock vs. SKHY Stock",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-26T12:55:36.057801+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "PdXPhETtRlo",
+   "title": "4 AI Stocks to Buy After NVIDIA's $1 Trillion Comeback",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-11-26T00:55:16.941331+00:00",
+   "nCalls": 5
+  },
+  {
+   "id": "Q9Oy6pQMXHI",
+   "title": "These 5 AI Stocks Print Cash. The Rest Are Burning It.",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-11-25T23:55:16.941331+00:00",
+   "nCalls": 5
+  },
   {
    "id": "Pv1HFWu94gc",
    "title": "Unfortunate News for CoreWeave Stock Investors | CRWV Stock Analysis",
@@ -5056,6 +5143,16 @@
    ],
    "published_at": "2026-11-25T20:58:18.217410+00:00",
    "nCalls": 7
+  },
+  {
+   "id": "MXeeRIggEBs",
+   "title": "Why Is Cerebras Stock Falling and is it a Buy Right Now?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-25T10:57:50.413284+00:00",
+   "nCalls": 1
   },
   {
    "id": "aUtTJa0vpHE",
