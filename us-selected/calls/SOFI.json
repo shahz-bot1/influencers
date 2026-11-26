@@ -3,6 +3,25 @@
  "slug": "SOFI",
  "calls": [
   {
+   "video_id": "DGBfitcr_nM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why is Sofi Stock Falling and is it a Buy Right Now?",
+   "published_at": "2026-11-26T13:55:36.057801+00:00",
+   "analyzed_at": "2026-11-26T14:57:51Z",
+   "collab": false,
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$13 (current, stated)",
+   "fair_value": "$22.45 (his DCF)",
+   "thesis": "BUY reiterated (was BUY 30 Oct). 'Wonderful buying opportunity' on the dip: business beating 2026 targets (revenue ~$400m above plan), 2027 revenue growth target 27%, members +35% YoY to 17.1m, personal-loan net charge-offs just 3.4%, forward P/E 14.4 - cheapest in years; DCF FV $22.45 vs $13.",
+   "base_case": "Lending-platform demand stays strong, members and products keep growing, credit stays in line with expectations.",
+   "bull_case": "Inflation moderates, only 1-2 rate hikes by mid-2027 instead of three, stock re-rates toward $22.45.",
+   "bear_case": "Macro slowdown brings job losses and personal-loan defaults (the first loans consumers skip); three rate hikes by mid-2027 would cut the value of loans on the balance sheet."
+  },
+  {
    "video_id": "GLGwJ2uHlzc",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -201,16 +220,16 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 3
+   "channel": "Couch Investor",
+   "idx": 1
   },
   {
    "channel": "MarketBeat",
-   "idx": 9
+   "idx": 10
   }
  ]
 }
