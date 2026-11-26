@@ -3,6 +3,22 @@
  "slug": "HIMS",
  "calls": [
   {
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "video_id": "c0HvGjyxRu4",
+   "video_title": "Why These 5 Stocks Are Crashing (But I'm Buying More)",
+   "published_at": "2026-11-25T18:55:38.246952+00:00",
+   "ticker": "HIMS",
+   "direction": "BUY",
+   "thesis": "FLIP: last stance HOLD (after the Q3 disappointment, when he stopped adding). 'I stay bullish on him and hers' — shares now ~$14, below even the level at the Novo Nordisk lawsuit bottom. Revenue has compounded 64% over almost 5 years, with ~50% growth expected in H2 2026 partly from acquisitions, and the enterprise value is just $4B at 1.4x sales. He uses its labs himself and calls the platform the right way to disrupt healthcare; the risk-reward is 'exactly what I want as an investor'.",
+   "base": "The platform keeps compounding and the 1.4x sales multiple re-rates.",
+   "bull": "Peptides and the early-2027 weight-loss platform launch re-accelerate growth.",
+   "bear": "Margin compression and branded-product pricing pressure persist.",
+   "price_at_call": "~$14",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": true
+  },
+  {
    "video_id": "JozmYeJl-XM",
    "channel": "Asymmetric Investing",
    "handle": "@asymmetricinvesting",
