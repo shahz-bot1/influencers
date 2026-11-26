@@ -1,0 +1,29 @@
+{
+ "video_id": "DGBfitcr_nM",
+ "title": "Why is Sofi Stock Falling and is it a Buy Right Now?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-26T13:55:36.057801+00:00",
+ "source_note": "Detailed summary generated from video captions.",
+ "summary": "Parkevtate asks whether SoFi's crash is a buying opportunity. The stock is down 51% in 2026 to $13; he warned it was too expensive near $30 at the start of the year and upgraded it to BUY at $18, so it has fallen further since his call. His core point is that SoFi sits on the front lines of the macroeconomy: personal loans are its largest segment and the first loans consumers default on when jobs are lost, yet also the most lucrative for lenders. The business itself is beating its 2026 targets, with revenue about $400m above plan, a 2027 revenue growth target of 27%, members up 35% year over year to 17.1 million, and personal-loan net charge-offs of just 3.4%. The lending platform is booming with record $17 billion of loan originations, personal loans up 45% year over year, student loans up 22% and home loans up 50%. On valuation, forward P/E of 14.4 is nearly the cheapest in years and his discounted cash flow fair value is $22.45. The risks are a further macro slowdown hitting jobs and loan defaults, and rate hikes - three are priced in by mid-2027, though he expects one or two - which would cut the value of loans on SoFi's $30 billion balance sheet. His verdict is BUY, a 'wonderful buying opportunity' for investors who accept the near-term macro risk.",
+ "calls": [
+  {
+   "video_id": "DGBfitcr_nM",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why is Sofi Stock Falling and is it a Buy Right Now?",
+   "published_at": "2026-11-26T13:55:36.057801+00:00",
+   "analyzed_at": "2026-11-26T14:57:51Z",
+   "collab": false,
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$13 (current, stated)",
+   "fair_value": "$22.45 (his DCF)",
+   "thesis": "BUY reiterated (was BUY 30 Oct). 'Wonderful buying opportunity' on the dip: business beating 2026 targets (revenue ~$400m above plan), 2027 revenue growth target 27%, members +35% YoY to 17.1m, personal-loan net charge-offs just 3.4%, forward P/E 14.4 - cheapest in years; DCF FV $22.45 vs $13.",
+   "base_case": "Lending-platform demand stays strong, members and products keep growing, credit stays in line with expectations.",
+   "bull_case": "Inflation moderates, only 1-2 rate hikes by mid-2027 instead of three, stock re-rates toward $22.45.",
+   "bear_case": "Macro slowdown brings job losses and personal-loan defaults (the first loans consumers skip); three rate hikes by mid-2027 would cut the value of loans on the balance sheet."
+  }
+ ]
+}
