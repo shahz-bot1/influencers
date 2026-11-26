@@ -1,0 +1,48 @@
+{
+ "video_id": "DJ51f2dFpps",
+ "title": "Should Investors Buy Micron Stock Instead of SK Hynix Stock? | MU Stock vs. SKHY Stock",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-26T12:55:36.057801+00:00",
+ "source_note": "Detailed summary generated from video captions.",
+ "summary": "Parkevtate compares Micron and SK Hynix head to head on revenue, earnings growth, profitability and valuation to pick the better buy. Both sell high-bandwidth memory into AI data centres, where prices are up more than 300% in some cases, shortages persist, customers are signing multi-year agreements, and both are effectively sold out through 2027. Analysts expect earnings per share to grow 55% a year for Micron and 94% a year for SK Hynix. Operating margins are effectively tied at 75% for Micron versus 74.5% for SK Hynix, and returns on invested capital at 89% versus 87% - levels he calls unprecedented for any company he has followed. Both trade at ridiculously cheap valuations, 3.4x and 3.0x forward earnings, because the market expects cyclical margins to collapse when new capacity arrives. He argues that is overblown: long-term contracts with floor prices keep margins above any previous peak, returns on invested capital should stay at least 40% through 2030, and data-centre replacement demand plus future physical AI (driverless cars, robotics) extend the boom. His discounted cash flow fair values are $1,544 for Micron and $262 for SK Hynix against a current price of $124. Both are BUY calls, and Micron is his pick - he owns it and has bought more. Micron reports quarterly results on 17 December 2026.",
+ "calls": [
+  {
+   "video_id": "DJ51f2dFpps",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Micron Stock Instead of SK Hynix Stock? | MU Stock vs. SKHY Stock",
+   "published_at": "2026-11-26T12:55:36.057801+00:00",
+   "analyzed_at": "2026-11-26T14:57:51Z",
+   "collab": false,
+   "ticker": "MU",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": null,
+   "fair_value": "$1,544 (his DCF)",
+   "thesis": "BUY reiterated (was BUY 24 Nov @ $700, FV $1,543). His pick over SK Hynix - he owns it and has bought more. HBM prices up 300%+ in places, shortages persist, sold out through 2027; operating margin 75%, ROIC 89%; forward P/E 3.4 - ridiculously cheap.",
+   "base_case": "Signed long-term contracts keep margins strong through 2028; ROIC at least 40% through 2030.",
+   "bull_case": "Physical AI (driverless cars, robotics) adds a new demand wave and extends the boom several more years.",
+   "bear_case": "Cyclical memory - margins eventually collapse when new capacity arrives; triple-digit price rises are not sustainable."
+  },
+  {
+   "video_id": "DJ51f2dFpps",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Should Investors Buy Micron Stock Instead of SK Hynix Stock? | MU Stock vs. SKHY Stock",
+   "published_at": "2026-11-26T12:55:36.057801+00:00",
+   "analyzed_at": "2026-11-26T14:57:51Z",
+   "collab": false,
+   "ticker": "SKHY",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "$124 (current, stated)",
+   "fair_value": "$262 (his DCF)",
+   "thesis": "BUY reiterated (was BUY 24 Nov @ $122, FV $258). Also a great buying opportunity: EPS forecast to grow 94%/yr, operating margin 74.5%, forward P/E 3.0; he rates Micron the slightly better pick of the two.",
+   "base_case": "Memory shortages persist and long-term contracts lock in pricing.",
+   "bull_case": "AI data-centre demand keeps growing; physical AI extends the cycle.",
+   "bear_case": "New capacity from late 2027 compresses margins and memory prices."
+  }
+ ]
+}
