@@ -1,0 +1,28 @@
+{
+ "ticker": "SEZL",
+ "slug": "SEZL",
+ "calls": [
+  {
+   "channel": "Asymmetric Investing",
+   "handle": "@asymmetricinvesting",
+   "video_id": "c0HvGjyxRu4",
+   "video_title": "Why These 5 Stocks Are Crashing (But I'm Buying More)",
+   "published_at": "2026-11-25T18:55:38.246952+00:00",
+   "ticker": "SEZL",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "First tracked. Sezzle (caption garbles the name as 'Sle'/'Szle'; identified from the buy-now-pay-later description) is a 'phenomenal' comeback: ~$4.8B enterprise value, revenue CAGR over 50% since end-2022, 5-year CAGR 41%, forward P/E ~21, P/FCF ~12. He has never owned shares and it is not in the portfolio, but 'if we get a little bit better price in 2027, wouldn't mind owning a few shares'. Conditioned on a better price. Risk flagged: it takes on short-term default risk like a bank.",
+   "base": "A better price in 2027 lets him start a position.",
+   "bull": "Growth and operating leverage keep compounding and the multiple expands.",
+   "bear": "Consumer defaults rise and hit the bottom line.",
+   "price_at_call": "No price stated; ~$4.8B EV, 8x sales",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Asymmetric Investing",
+   "idx": 0
+  }
+ ]
+}
