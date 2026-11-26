@@ -7,6 +7,14 @@
    "ticker": "SPY",
    "tickerSlug": "SPY",
    "direction": "BUY",
+   "date": "2026-11-25T18:55:38.246952+00:00",
+   "price": "S&P ~10% below record; 17x forward earnings",
+   "video_id": "sYNLzOQbFCc"
+  },
+  {
+   "ticker": "SPY",
+   "tickerSlug": "SPY",
+   "direction": "BUY",
    "date": "2026-11-09T05:10:39.474328+00:00",
    "price": "S&P 500 -3% in 5 days, -5% in 30 days; profits growing 30%, full-year guide 33%",
    "video_id": "s-H0yY1OPII"
