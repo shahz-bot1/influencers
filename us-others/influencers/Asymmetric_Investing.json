@@ -4,6 +4,46 @@
  "slug": "Asymmetric_Investing",
  "calls": [
   {
+   "ticker": "AXON",
+   "tickerSlug": "AXON",
+   "direction": "BUY",
+   "date": "2026-11-25T18:55:38.246952+00:00",
+   "price": "Down ~64% from 2025 peak",
+   "video_id": "c0HvGjyxRu4"
+  },
+  {
+   "ticker": "ZETA",
+   "tickerSlug": "ZETA",
+   "direction": "BUY",
+   "date": "2026-11-25T18:55:38.246952+00:00",
+   "price": "No price stated",
+   "video_id": "c0HvGjyxRu4"
+  },
+  {
+   "ticker": "SEZL",
+   "tickerSlug": "SEZL",
+   "direction": "CONDITIONAL_BUY",
+   "date": "2026-11-25T18:55:38.246952+00:00",
+   "price": "No price stated; ~$4.8B EV, 8x sales",
+   "video_id": "c0HvGjyxRu4"
+  },
+  {
+   "ticker": "HIMS",
+   "tickerSlug": "HIMS",
+   "direction": "BUY",
+   "date": "2026-11-25T18:55:38.246952+00:00",
+   "price": "~$14",
+   "video_id": "c0HvGjyxRu4"
+  },
+  {
+   "ticker": "TMDX",
+   "tickerSlug": "TMDX",
+   "direction": "BUY",
+   "date": "2026-11-25T18:55:38.246952+00:00",
+   "price": "No price stated; ~$3.6B market cap",
+   "video_id": "c0HvGjyxRu4"
+  },
+  {
    "ticker": "ANT",
    "tickerSlug": "ANT",
    "direction": "AVOID",
