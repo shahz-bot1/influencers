@@ -1,0 +1,28 @@
+{
+ "ticker": "S",
+ "slug": "S",
+ "calls": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_id": "BnYpdgbFhkY",
+   "video_title": "MAJOR BUY! If You Missed Nvidia, This is Even Bigger",
+   "published_at": "2026-11-25T16:55:38.246952+00:00",
+   "ticker": "S",
+   "direction": "CONDITIONAL_BUY",
+   "thesis": "First tracked. SentinelOne is 'very attractively, very cheaply priced' on price-to-earnings adjusted for growth, with ~20% expected revenue growth — but he has never liked it and never owned shares because of the -21% EBITDA margin and no GAAP profit ever. On Zscaler deal terms (11x sales) it would be worth ~$13.4B market cap (~68% above the recent close); he puts buyout value closer to ~$11-12B (~35% higher) and says it is 'very likely to get some kind of a buyout offer eventually at this price'. Conditioned on the buyout thesis and the cheap valuation, not on the standalone business.",
+   "base": "A buyer pays ~$11-12B for the AI endpoint platform.",
+   "bull": "Full 11x-sales terms apply and it is worth ~$13.4B (~68% higher).",
+   "bear": "Losses persist, no buyer comes, and the cheap price proves deserved.",
+   "price_at_call": "Buyout value ~$11-12B market cap (~35% above recent close)",
+   "analyzed_at": "2026-11-26T05:30:00+00:00",
+   "stance_flip": false
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
