@@ -1,0 +1,48 @@
+{
+ "video_id": "GOTdQ4MYzGU",
+ "title": "Now That Jensen is Back, Should You Buy Nvidia Stock Instead of Broadcom Stock? | NVDA Stock vs AVGO",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-27T13:55:40.797928+00:00",
+ "source_note": "Detailed summary generated from video captions.",
+ "summary": "After Monday's relief rally on Jensen Huang's return as Nvidia CEO faded into Tuesday-Wednesday selling, Parkevtate compares Nvidia and Broadcom head to head to decide which is the better buy. On earnings growth, analysts expect Broadcom at 55% a year and Nvidia at 49% a year over the next several years. On profitability, Nvidia's operating margin is 66% (record high) against Broadcom's 48.6%, and return on invested capital is 105% for Nvidia against 26% for Broadcom, though Broadcom's should climb toward 40% on its custom-chip backlog with Alphabet and OpenAI. The demand backdrop is hyperscaler capex: the five big US hyperscalers (Amazon, Alphabet, Microsoft, Oracle, Meta) will have spent over $900bn in 2026 and he estimates over $1.1tn in 2027, with replacement upgrades for data centres built in 2023-24 extending demand, plus possible new catalysts in physical AI, healthcare and consumer agents. On valuation, Nvidia's fair value is $297 against about $147 (forward PE 8.9x) and Broadcom's is $450 against about $291 (forward PE 9.6x). Calls: NVDA BUY reiterated (prior BUY 24 Nov) and AVGO BUY reiterated (prior BUY 19 Nov), with Nvidia his pick - 'much more undervalued' than Broadcom. He owns both as large positions. Bear case for both: leadership turmoil, SEC and government probes, circular-financing scrutiny, and the AI cycle peaking in one to two years.",
+ "calls": [
+  {
+   "video_id": "GOTdQ4MYzGU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Now That Jensen is Back, Should You Buy Nvidia Stock Instead of Broadcom Stock? | NVDA Stock vs AVGO",
+   "published_at": "2026-11-27T13:55:40.797928+00:00",
+   "analyzed_at": "2026-11-27T19:03:48Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$147 (stated); forward PE 8.9x",
+   "fair_value": "$297",
+   "thesis": "BUY reiterated (prior BUY 24 Nov) — his pick over Broadcom. EPS est. to grow 49%/yr; operating margin 66% (record high), ROIC 105%; market is pricing a permanent stop to growth, which he calls a mistake. Owns both; NVDA looks much more undervalued than AVGO.",
+   "base_case": "Hyperscaler capex tops $1.1tn in 2027; growth stays remarkable for at least 2 more years, then levels off before the next catalyst.",
+   "bull_case": "Physical AI, healthcare/robotics or consumer agents extend the cycle; the stock re-rates toward the $297 DCF value.",
+   "bear_case": "Leadership turmoil, SEC/government probes and circular-financing scrutiny weigh; the cycle peaks in 1-2 years and growth flatlines."
+  },
+  {
+   "video_id": "GOTdQ4MYzGU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Now That Jensen is Back, Should You Buy Nvidia Stock Instead of Broadcom Stock? | NVDA Stock vs AVGO",
+   "published_at": "2026-11-27T13:55:40.797928+00:00",
+   "analyzed_at": "2026-11-27T19:03:48Z",
+   "collab": false,
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$291 (stated); forward PE 9.6x",
+   "fair_value": "$450",
+   "thesis": "BUY reiterated (prior BUY 19 Nov). EPS est. to grow 55%/yr; operating margin 48.6% (record high), ROIC 26% and rising toward 40% on the custom-chip backlog (Alphabet, OpenAI). Also ridiculously undervalued, but less so than NVDA.",
+   "base_case": "Custom-chip backlog converts; ROIC climbs toward 40% as hyperscaler orders scale.",
+   "bull_case": "Proprietary-chip demand accelerates; valuation re-rates toward the $450 DCF value.",
+   "bear_case": "Same AI-cycle peak risk as NVDA; growth levels off after 2028 and the multiple stays compressed."
+  }
+ ]
+}
