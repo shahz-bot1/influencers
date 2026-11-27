@@ -1,0 +1,31 @@
+{
+ "ticker": "SENEA",
+ "slug": "SENEA",
+ "calls": [
+  {
+   "video_id": "2bJNn129J1w",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "3 Stocks That Are Actually Cheap",
+   "published_at": "2026-11-26T23:55:18.183322+00:00",
+   "analyzed_at": "2026-11-27T11:01:11Z",
+   "collab": false,
+   "ticker": "SENEA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$37 (as taped); PE ~10x; no dividend; ~14% below analyst price target",
+   "fair_value": null,
+   "thesis": "BUY first tracked. Seneca Foods (canned/frozen vegetables): up ~60% YTD 2026 but still ~14% below the analyst price target (analysts see $40+). LIFO accounting swings headline earnings vs underlying FIFO performance; debt coming down; holiday promotional activity is a seasonal tailwind.",
+   "base_case": "Seasonal tailwind and debt paydown continue; analysts' ~14% upside plays out.",
+   "bull_case": "Strong earnings momentum continues and the 14% target proves low.",
+   "bear_case": "LIFO accounting swings mask weak underlying earnings; no dividend cushion if it reverses."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
