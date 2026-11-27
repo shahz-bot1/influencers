@@ -1,0 +1,29 @@
+{
+ "ticker": "NVDA",
+ "slug": "NVDA",
+ "calls": [
+  {
+   "video_id": "lCGW1FX7KTE",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "2020 was a great buying opportunity. Next one is NOW...",
+   "published_at": "2026-11-26T15:26:11.567901+00:00",
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "price_at_call": "not stated (~40% off peak)",
+   "thesis": "Nvidia named in his 'adding this week' list after a ~40% correction from peak; fundamentals intact, AI race (US vs China) and government backing keep the growth engine running.",
+   "base_case": "Buy the dip in quality AI names; indices first, individual stocks after consolidation",
+   "bull_case": "V-shaped recovery as AI earnings keep growing ~20%",
+   "bear_case": "AI capex stops, GDP turns negative, or earnings slow",
+   "note": "FLIP: was UNCERTAIN on NVDA on 23 Nov 2026; now BUY.",
+   "flip": true,
+   "analyzed_at": "2026-11-27T01:28:39.733402+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Akshat Shrivastava",
+   "idx": 0
+  }
+ ]
+}
