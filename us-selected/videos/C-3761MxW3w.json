@@ -1,0 +1,29 @@
+{
+ "video_id": "C-3761MxW3w",
+ "title": "Why is Applied Digital Stock Falling and is it a Buy?",
+ "creator": "Parkevtate Vosianc CFA",
+ "published_at": "2026-11-27T16:00:00.150199+00:00",
+ "source_note": "Detailed summary generated from video captions.",
+ "summary": "Parkevtate explains why Applied Digital (APLD) has crashed about 80% from its near-$50 high earlier in 2026 to about $12, down about 50% year to date, and whether it is a buy. It is not a demand problem: the company signs 15-year contracts with investment-grade hyperscalers and its backlog is in the tens of billions, with demand exceeding supply. The problem is funding the build-out - all the money goes up front while cash comes in monthly or quarterly. Its cost of debt was cut to 7% in June (a $1.6bn offering of 7% notes due 2031, down from 9.25%), but he would not be surprised if it is back toward 10% now, citing SpaceX paying close to 10% and the fallout from Nvidia's leadership turmoil and circular-financing scrutiny. Free cash flow stays negative until about 2030. He flags one oddity: CoreWeave, with over $50bn of long-term debt, is a customer (first Polaris Forge lease signed May 2025), which sits awkwardly with the strategy of only contracting with sound balance sheets. Call: APLD BUY reiterated (prior BUY 28 Oct), fair value $14.82, about 20% undervalued - but a weak call: 'one of the riskiest stocks in the market', only for very high risk tolerance, and he thinks other neo-clouds are better buys right now.",
+ "calls": [
+  {
+   "video_id": "C-3761MxW3w",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why is Applied Digital Stock Falling and is it a Buy?",
+   "published_at": "2026-11-27T16:00:00.150199+00:00",
+   "analyzed_at": "2026-11-27T19:03:48Z",
+   "collab": false,
+   "ticker": "APLD",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$12 (stated); down ~80% from ~$50 high earlier in 2026, down ~50% YTD",
+   "fair_value": "$14.82 (~20% undervalued)",
+   "thesis": "BUY reiterated (prior BUY 28 Oct), but weak: only ~20% undervalued and one of the riskiest stocks in the market — only for very high risk tolerance, and he thinks other neo-clouds are better buys right now. 15-year contracts with investment-grade hyperscalers, backlog in the tens of billions, but funding is the constraint: cost of debt likely back toward 10% from 7% in June; FCF stays negative until ~2030.",
+   "base_case": "Long-term hyperscaler contracts keep lenders comfortable; FCF turns positive in 2030 with exceptional growth after.",
+   "bull_case": "Funding costs stabilise; backlog converts and the stock re-rates well above the $14.82 fair value.",
+   "bear_case": "Capital gets harder/more expensive to raise (CoreWeave as a customer adds counterparty worry); dilution or stalled build-out caps revenue."
+  }
+ ]
+}
