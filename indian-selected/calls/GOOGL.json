@@ -3,6 +3,22 @@
  "slug": "GOOGL",
  "calls": [
   {
+   "video_id": "lCGW1FX7KTE",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "2020 was a great buying opportunity. Next one is NOW...",
+   "published_at": "2026-11-26T15:26:11.567901+00:00",
+   "ticker": "GOOGL",
+   "direction": "BUY",
+   "price_at_call": "not stated (down 35-40% from peak)",
+   "thesis": "Alphabet named in his 'adding this week' list, down 35-40% from peak; a dominant, sticky product company whose profits keep growing through the correction.",
+   "base_case": "Buy the dip; profits and stock price track each other over time",
+   "bull_case": "Doubles as Meta did after its 2021 correction",
+   "bear_case": "AI bubble / capex slowdown breaks earnings growth",
+   "note": "Reiterates his GOOGL BUY of 30 Oct and 5 Nov 2026.",
+   "analyzed_at": "2026-11-27T01:28:39.733402+00:00"
+  },
+  {
    "video_id": "oq5odXfokrM",
    "channel": "Akshat Shrivastava",
    "handle": "@AkshatZayn",
