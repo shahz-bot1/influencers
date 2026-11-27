@@ -3660,8 +3660,8 @@
  "xjpebxZYsNA": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Stock Market Crash: 2 Spectacularly Undervalued Stocks I Bought Today",
-  "published_at": "2026-11-21T22:58:23.545181+00:00",
-  "analyzed_at": "2026-11-26T23:02:32Z",
+  "published_at": "2026-11-21T19:00:00.150199+00:00",
+  "analyzed_at": "2026-11-27T19:03:48Z",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
@@ -3829,16 +3829,16 @@
  "r3n7Y2sSYoE": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "A New Top Stock in my Portfolio! 1 Ridiculously Cheap Stock I Just Bought and 1 Stock I Sold",
-  "published_at": "2026-11-25T22:58:23.545181+00:00",
-  "analyzed_at": "2026-11-26T23:02:32Z",
+  "published_at": "2026-11-26T19:00:00.150199+00:00",
+  "analyzed_at": "2026-11-27T23:01:07.076382+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
  "mwyQCRhesqU": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Is Sandisk an Undervalued Stock to Buy Now?",
-  "published_at": "2026-11-25T22:58:23.545181+00:00",
-  "analyzed_at": "2026-11-26T23:02:32Z",
+  "published_at": "2026-11-26T19:00:00.150199+00:00",
+  "analyzed_at": "2026-11-27T23:01:07.076382+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
@@ -3852,26 +3852,24 @@
  "_VR2sGCZbww": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Is Oracle Stock a Buying Opportunity Right Now?",
-  "published_at": "2026-11-25T22:58:23.545181+00:00",
-  "analyzed_at": "2026-11-26T23:02:32Z",
-  "alerted": false,
-  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+  "published_at": "2026-11-27T17:00:00.150199+00:00",
+  "analyzed_at": "2026-11-27T19:03:48Z",
+  "alerted": true
  },
  "C-3761MxW3w": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Why is Applied Digital Stock Falling and is it a Buy?",
-  "published_at": "2026-11-25T22:58:23.545181+00:00",
-  "analyzed_at": "2026-11-26T23:02:32Z",
-  "alerted": false,
-  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+  "published_at": "2026-11-27T16:00:00.150199+00:00",
+  "analyzed_at": "2026-11-27T19:03:48Z",
+  "alerted": true
  },
  "GwoBqeOX6Jo": {
   "channel": "Parkevtate Vosianc CFA",
-  "title": "Stock Market Crash: Is Meta Platforms The Best Stock to Buy Right Now?",
-  "published_at": "2026-11-25T22:58:23.545181+00:00",
-  "analyzed_at": "2026-11-26T23:02:32Z",
-  "alerted": false,
-  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+  "title": "Stock Market Sell-Off: Is This the Best Stock to Buy Right Now During the Crash?",
+  "published_at": "2026-11-27T12:55:40.797928+00:00",
+  "analyzed_at": "2026-11-27T19:03:48Z",
+  "alerted": true,
+  "caption_retries": 2
  },
  "6Z_xwk2RjSo": {
   "channel": "BWB - Business With Brian",
@@ -3904,16 +3902,63 @@
  "mBcy1h2bn6A": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Semiconductor Stocks Are Crashing! 5 Undervalued Chip Stocks to Buy Now | NVDA Stock and More!",
-  "published_at": "2026-11-26T19:58:23.545181+00:00",
-  "analyzed_at": "2026-11-26T23:02:32Z",
+  "published_at": "2026-11-26T20:00:00.150199+00:00",
+  "analyzed_at": "2026-11-27T23:01:07.076382+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  },
  "GOTdQ4MYzGU": {
   "channel": "Parkevtate Vosianc CFA",
   "title": "Now That Jensen is Back, Should You Buy Nvidia Stock Instead of Broadcom Stock? | NVDA Stock vs AVGO",
-  "published_at": "2026-11-26T19:58:23.545181+00:00",
-  "analyzed_at": "2026-11-26T23:02:32Z",
+  "published_at": "2026-11-27T13:55:40.797928+00:00",
+  "analyzed_at": "2026-11-27T19:03:48Z",
+  "alerted": true,
+  "caption_retries": 2
+ },
+ "2bJNn129J1w": {
+  "channel": "MarketBeat",
+  "title": "3 Stocks That Are Actually Cheap",
+  "published_at": "2026-11-26T23:55:18.183322+00:00",
+  "analyzed_at": "2026-11-27T11:01:11Z",
+  "alerted": true,
+  "caption_retries": 2
+ },
+ "ehv5PkZLOaA": {
+  "channel": "Couch Investor",
+  "title": "I Checked What $10,000 in My 10 Favorite Stocks Would Be Worth Today",
+  "published_at": "2026-11-27T18:00:00.150199+00:00",
+  "analyzed_at": "2026-11-27T19:03:48Z",
+  "alerted": true
+ },
+ "U5pCrxwlqnU": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Is Adobe Stock an Undervalued Stock to Buy Right Now in December (2026)? | ADBE Stock Analysis",
+  "published_at": "2026-11-27T20:58:14.129796+00:00",
+  "analyzed_at": "2026-11-27T23:01:07.076382+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "9jkYVRfUdhY": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Down 62% in 2026, Is it Finally Time to Buy The Trade Desk Stock? | TTD Stock Analysis",
+  "published_at": "2026-11-27T20:58:14.129796+00:00",
+  "analyzed_at": "2026-11-27T23:01:07.076382+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "lwZAc_hbp8s": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "Interesting News for Uber Stock Investors",
+  "published_at": "2026-11-27T20:58:14.129796+00:00",
+  "analyzed_at": "2026-11-27T23:01:07.076382+00:00",
+  "alerted": false,
+  "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
+ },
+ "Xj8FnpsL4FY": {
+  "channel": "Parkevtate Vosianc CFA",
+  "title": "My Shocking Nvidia Stock Prediction for 2027 | NVDA Stock Price Prediction",
+  "published_at": "2026-11-27T20:58:14.129796+00:00",
+  "analyzed_at": "2026-11-27T23:01:07.076382+00:00",
   "alerted": false,
   "skipped": "Join this channel to get access to members-only content like this video, and other exclusive perks."
  }
