@@ -3,6 +3,25 @@
  "slug": "APLD",
  "calls": [
   {
+   "video_id": "C-3761MxW3w",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Why is Applied Digital Stock Falling and is it a Buy?",
+   "published_at": "2026-11-27T16:00:00.150199+00:00",
+   "analyzed_at": "2026-11-27T19:03:48Z",
+   "collab": false,
+   "ticker": "APLD",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$12 (stated); down ~80% from ~$50 high earlier in 2026, down ~50% YTD",
+   "fair_value": "$14.82 (~20% undervalued)",
+   "thesis": "BUY reiterated (prior BUY 28 Oct), but weak: only ~20% undervalued and one of the riskiest stocks in the market — only for very high risk tolerance, and he thinks other neo-clouds are better buys right now. 15-year contracts with investment-grade hyperscalers, backlog in the tens of billions, but funding is the constraint: cost of debt likely back toward 10% from 7% in June; FCF stays negative until ~2030.",
+   "base_case": "Long-term hyperscaler contracts keep lenders comfortable; FCF turns positive in 2030 with exceptional growth after.",
+   "bull_case": "Funding costs stabilise; backlog converts and the stock re-rates well above the $14.82 fair value.",
+   "bear_case": "Capital gets harder/more expensive to raise (CoreWeave as a customer adds counterparty worry); dilution or stalled build-out caps revenue."
+  },
+  {
    "video_id": "yaVPpVzXCPI",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -122,11 +141,11 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "BWB - Business With Brian",
-   "idx": 5
+   "idx": 6
   }
  ]
 }
