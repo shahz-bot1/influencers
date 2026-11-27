@@ -4,6 +4,46 @@
  "slug": "Akshat_Shrivastava",
  "calls": [
   {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-26T15:26:11.567901+00:00",
+   "price": "not stated",
+   "video_id": "lCGW1FX7KTE"
+  },
+  {
+   "ticker": "TSM",
+   "tickerSlug": "TSM",
+   "direction": "BUY",
+   "date": "2026-11-26T15:26:11.567901+00:00",
+   "price": "~$300 (stated; ~40% off ~$475-500 peak)",
+   "video_id": "lCGW1FX7KTE"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-26T15:26:11.567901+00:00",
+   "price": "not stated (~40% off peak)",
+   "video_id": "lCGW1FX7KTE"
+  },
+  {
+   "ticker": "GOOGL",
+   "tickerSlug": "GOOGL",
+   "direction": "BUY",
+   "date": "2026-11-26T15:26:11.567901+00:00",
+   "price": "not stated (down 35-40% from peak)",
+   "video_id": "lCGW1FX7KTE"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-26T15:26:11.567901+00:00",
+   "price": "not stated (down 40% from peak)",
+   "video_id": "lCGW1FX7KTE"
+  },
+  {
    "ticker": "NASDAQ 100",
    "tickerSlug": "NASDAQ_100",
    "direction": "BUY",
