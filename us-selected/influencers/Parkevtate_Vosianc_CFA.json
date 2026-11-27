@@ -4,6 +4,46 @@
  "slug": "Parkevtate_Vosianc_CFA",
  "calls": [
   {
+   "ticker": "ORCL",
+   "tickerSlug": "ORCL",
+   "direction": "BUY",
+   "date": "2026-11-27T17:00:00.150199+00:00",
+   "price": "Current price not stated in captions; down 44% YTD in 2026",
+   "video_id": "_VR2sGCZbww"
+  },
+  {
+   "ticker": "APLD",
+   "tickerSlug": "APLD",
+   "direction": "BUY",
+   "date": "2026-11-27T16:00:00.150199+00:00",
+   "price": "~$12 (stated); down ~80% from ~$50 high earlier in 2026, down ~50% YTD",
+   "video_id": "C-3761MxW3w"
+  },
+  {
+   "ticker": "NVDA",
+   "tickerSlug": "NVDA",
+   "direction": "BUY",
+   "date": "2026-11-27T13:55:40.797928+00:00",
+   "price": "~$147 (stated); forward PE 8.9x",
+   "video_id": "GOTdQ4MYzGU"
+  },
+  {
+   "ticker": "AVGO",
+   "tickerSlug": "AVGO",
+   "direction": "BUY",
+   "date": "2026-11-27T13:55:40.797928+00:00",
+   "price": "~$291 (stated); forward PE 9.6x",
+   "video_id": "GOTdQ4MYzGU"
+  },
+  {
+   "ticker": "META",
+   "tickerSlug": "META",
+   "direction": "BUY",
+   "date": "2026-11-27T12:55:40.797928+00:00",
+   "price": "~$590 (stated; high $780 earlier this year); forward PE 16.7x",
+   "video_id": "GwoBqeOX6Jo"
+  },
+  {
    "ticker": "MRVL",
    "tickerSlug": "MRVL",
    "direction": "BUY",
