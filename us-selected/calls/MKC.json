@@ -1,0 +1,31 @@
+{
+ "ticker": "MKC",
+ "slug": "MKC",
+ "calls": [
+  {
+   "video_id": "2bJNn129J1w",
+   "channel": "MarketBeat",
+   "handle": "@marketbeatmedia",
+   "video_title": "3 Stocks That Are Actually Cheap",
+   "published_at": "2026-11-26T23:55:18.183322+00:00",
+   "analyzed_at": "2026-11-27T11:01:11Z",
+   "collab": false,
+   "ticker": "MKC",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$47 (as taped); PE ~9x; ~4% dividend yield; $0.51/share quarterly (~$2+/yr)",
+   "fair_value": null,
+   "thesis": "BUY first tracked. McCormick (spices): down ~30% YTD, weighed down by the planned combination with Unilever's food business; low beta (<1), dividend aristocrat with 38 consecutive years of increases. Undervalued vs the S&P 500 (~20x) and vs its own history — a stock that pays you to wait.",
+   "base_case": "Unilever food deal closes and adds to EPS; dividend keeps compounding.",
+   "bull_case": "Deal goes well and adds significantly to earnings per share; stock re-rates from ~9x PE.",
+   "bear_case": "Deal fails or drags and the stock stays cheap for a while."
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "MarketBeat",
+   "idx": 0
+  }
+ ]
+}
