@@ -68,7 +68,7 @@
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio: October Stock Buys",
   "published_at": "2026-10-21T04:55:34.818034+00:00",
-  "analyzed_at": "2026-11-25T05:30:00+00:00",
+  "analyzed_at": "2026-11-27T04:57:52+00:00",
   "alerted": false,
   "skipped": "members-only (Billionaire tier)"
  },
@@ -494,7 +494,7 @@
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio Buys - November 2026",
   "published_at": "2026-11-06T04:55:34.818034+00:00",
-  "analyzed_at": "2026-11-25T05:30:00+00:00",
+  "analyzed_at": "2026-11-27T04:57:52+00:00",
   "alerted": false,
   "skipped": "members-only (Billionaire tier)"
  },
@@ -729,6 +729,14 @@
   "title": "Why These 5 Stocks Are Crashing (But I'm Buying More)",
   "published_at": "2026-11-25T18:55:38.246952+00:00",
   "analyzed_at": "2026-11-26T05:30:00+00:00",
+  "alerted": true
+ },
+ "CoBWpQcrtFg": {
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "title": "If You Own AMD Stock ... GET READY!!",
+  "published_at": "2026-11-26T20:55:35.742448+00:00",
+  "analyzed_at": "2026-11-27T04:57:52+00:00",
   "alerted": true
  }
 }
