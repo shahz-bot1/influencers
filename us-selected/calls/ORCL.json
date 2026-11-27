@@ -3,6 +3,25 @@
  "slug": "ORCL",
  "calls": [
   {
+   "video_id": "_VR2sGCZbww",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Is Oracle Stock a Buying Opportunity Right Now?",
+   "published_at": "2026-11-27T17:00:00.150199+00:00",
+   "analyzed_at": "2026-11-27T19:03:48Z",
+   "collab": false,
+   "ticker": "ORCL",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "Current price not stated in captions; down 44% YTD in 2026",
+   "fair_value": null,
+   "thesis": "BUY first explicit call (prior mention UNCERTAIN 19 Oct). Medium conviction: RPO grew $26bn in one quarter, mostly prepay / bring-your-own-hardware contracts that need no incremental Oracle investment; EPS est. to grow 30%/yr; forward PE ~10x, PEG ~0.3x. But FCF is negative ($23bn CFO vs $28bn capex), long-term debt $165bn, FY27 capex planned $90-95bn, and funding the backlog may mean more equity raises and dilution.",
+   "base_case": "Backlog converts to revenue; FCF turns positive in H2 FY28 and reaches $30bn+ in FY29, easing the debt concern.",
+   "bull_case": "Prepay contracts de-risk the build-out; valuation re-rates from ~10x forward PE as FCF inflects.",
+   "bear_case": "Borrowing costs keep rising (already up a couple hundred bps in 3 months); Oracle must sell stock to fund the build, diluting holders, with heavy OpenAI concentration in the backlog."
+  },
+  {
    "video_id": "f8JLZMEgaHs",
    "channel": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
@@ -84,11 +103,11 @@
   },
   {
    "channel": "MarketBeat",
-   "idx": 1
+   "idx": 2
   },
   {
    "channel": "Couch Investor",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
