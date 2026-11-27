@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T05:04:33.067695+00:00",
+ "updated": "2026-11-27T05:03:28.145772+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -125,12 +125,12 @@
   {
    "ticker": "AMD",
    "slug": "AMD",
-   "lastDate": "2026-11-24T20:55:39.920530+00:00",
+   "lastDate": "2026-11-26T20:55:35.742448+00:00",
    "chips": [
     {
-     "dir": "HOLD",
+     "dir": "CONDITIONAL_BUY",
      "n": 1,
-     "avg": "$453"
+     "avg": null
     },
     {
      "dir": "AVOID",
@@ -139,11 +139,11 @@
     }
    ],
    "influencers": [
-    "Daniel Pronk",
-    "Jose Najarro Stocks"
+    "Jose Najarro Stocks",
+    "Daniel Pronk"
    ],
    "lastStated": "Down 36% from all-time highs; no share price stated; forward P/E 27x, forward P/",
-   "nCalls": 8
+   "nCalls": 9
   },
   {
    "ticker": "AMDY",
@@ -2854,8 +2854,8 @@
    "name": "Jose Najarro Stocks",
    "handle": "@josenajarrostocks",
    "slug": "Jose_Najarro_Stocks",
-   "nCalls": 50,
-   "nVideos": 25
+   "nCalls": 51,
+   "nVideos": 26
   },
   {
    "name": "Joseph Hogue, CFA",
@@ -2894,6 +2894,16 @@
   }
  ],
  "videos": [
+  {
+   "id": "CoBWpQcrtFg",
+   "title": "If You Own AMD Stock ... GET READY!!",
+   "creator": "Jose Najarro Stocks",
+   "channels": [
+    "Jose Najarro Stocks"
+   ],
+   "published_at": "2026-11-26T20:55:35.742448+00:00",
+   "nCalls": 1
+  },
   {
    "id": "FUPKwHArq54",
    "title": "What I'm Buying In The Most Disconnected Market I've Seen",
