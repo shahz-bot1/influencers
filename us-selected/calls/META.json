@@ -3,6 +3,25 @@
  "slug": "META",
  "calls": [
   {
+   "video_id": "GwoBqeOX6Jo",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Stock Market Sell-Off: Is This the Best Stock to Buy Right Now During the Crash?",
+   "published_at": "2026-11-27T12:55:40.797928+00:00",
+   "analyzed_at": "2026-11-27T19:03:48Z",
+   "collab": false,
+   "ticker": "META",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$590 (stated; high $780 earlier this year); forward PE 16.7x",
+   "fair_value": "$892",
+   "thesis": "BUY reiterated (prior BUY 12 Nov) — 'the best stock you can buy right now' of all the companies he follows. 3.64bn daily users, engagement at record highs; Muse personal agent hit 10m+ US/Canada setups in ~6 weeks and was the #1 App Store app; his EPS growth est. ~25%/yr vs Street ~19%. Owns it (one of his largest positions) and is adding more. FCF stays negative until 2029 ($51bn then).",
+   "base_case": "Muse converts the 3.75bn-user distribution into a commerce/subscription business; compute costs fall 10x+ and FCF inflects in 2029.",
+   "bull_case": "Muse monetises fast (8% commerce take rate + paid tiers); EPS compounds ~25%/yr and the stock closes the gap to $892.",
+   "bear_case": "FCF stays deeply negative (-$50bn next year) while capex keeps rising; Muse monetisation is slower than hoped and the market keeps discounting the spend."
+  },
+  {
    "video_id": "EwHAzMJ9vV8",
    "channel": "Couch Investor",
    "handle": "@CouchInvestor",
@@ -502,24 +521,24 @@
  ],
  "byInf": [
   {
-   "channel": "Couch Investor",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "Mark Roussin CPA",
-   "idx": 2
+   "channel": "Couch Investor",
+   "idx": 1
   },
   {
-   "channel": "Joseph Carlson After Hours",
+   "channel": "Mark Roussin CPA",
    "idx": 3
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "Joseph Carlson After Hours",
    "idx": 4
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
-   "idx": 6
+   "channel": "BWB - Business With Brian",
+   "idx": 5
   }
  ]
 }
