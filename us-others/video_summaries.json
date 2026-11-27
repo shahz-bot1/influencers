@@ -728,5 +728,21 @@
   "handle": "@asymmetricinvesting",
   "published_at": "2026-11-25T18:55:38.246952+00:00",
   "summary": "Travis Holm of Asymmetric Investing presents five high-growth companies \u2014 each with a compound annual growth rate over 30% over the past three years \u2014 that have crashed hard and, in his view, are now phenomenal prices. Axon, which he has owned for over a decade, is down ~64% from its 2025 peak despite a 10-year revenue CAGR of 30%, long-term law-enforcement platform contracts, and expansion into drones (P/E ~36, P/FCF ~44). Zeta Global, a recent portfolio addition, is compounding revenue at almost 40% since mid-2024 with operating margin now positive and ~$260m of free cash flow over the past year; its 2028 targets ($2.3bn revenue, $371m FCF) look likely a year early, and Athena OS moves it into business intelligence. Sezzle, the buy-now-pay-later company, has grown revenue at over 50% CAGR since end-2022 (5-year CAGR 41%, ~$4.8bn enterprise value, forward P/E ~21) but he has never owned it and would only buy at a better price in 2027, flagging short-term default risk. Hims & Hers is down to ~$14 \u2014 below its Novo Nordisk lawsuit low \u2014 despite 64% revenue compounding over almost five years and ~50% growth expected in the second half of 2026, trading at just 1.4x sales. TransMedics, the organ-transplant logistics company, has a 91.5% five-year revenue CAGR and is expanding into Europe. Calls: AXON BUY (first tracked), ZETA BUY (reiterated), SEZL CONDITIONAL_BUY (first tracked), HIMS BUY (flip from HOLD), TMDX BUY (first tracked). He also promotes a 25%-off Fiscal AI deal. Note: the caption garbles Sezzle as 'Sle'/'Szle' and TransMedics as 'Transmetics'."
+ },
+ "CoBWpQcrtFg": {
+  "video_id": "CoBWpQcrtFg",
+  "title": "If You Own AMD Stock ... GET READY!!",
+  "creator": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "published_at": "2026-11-26T20:55:35.742448+00:00",
+  "summary": "Jose Najarro defends AMD after a ~37.5% fall from its 52-week high, calling the 19 November Hunterbrook short report 'completely baloney' and laying out why he stays very bullish. The stock is still up ~90% year to date and ~97% over 52 weeks, so long-term holders are not sweating, he says. His bull case rests on three legs: a CPU shortage that should last a long time as AI agents drive tool-calling demand; AI accelerators, with the MI455 and Helios rack already shipping and ramping through 2027; and valuation, with a forward P/E of ~26 (about 23.5x calendar-2027 earnings) that he calls not crazy for the growth. He would buy more if AMD falls to ~$350-375. He then rebuts the short report point by point: the blacklisted-server firmware claim is unproven (the firmware is a public download, and CPUs face different export controls than GPUs); China/Hong Kong at 22% of FY25 sales and Singapore at 12.4% reflect billing location, not end demand, and Nvidia reported a similar 18% Singapore share in FY25 before restating; and the 320 million warrants to OpenAI and Meta vest only on compute milestones and are accretive to EPS from first revenue per management. He also defends the $48.8B of purchase commitments (up ~4x in three quarters) as locking in scarce wafers and capacity, and cites guidance of ~80% revenue growth in 2027. Nvidia appears only as a valuation comparison and Intel as a lagging competitor; no calls on either. (Some figures are garbled in the auto-captions.)",
+  "calls": [
+   {
+    "ticker": "AMD",
+    "direction": "CONDITIONAL_BUY",
+    "stated_price": "$350-375",
+    "stance_flip": true
+   }
+  ]
  }
 }
