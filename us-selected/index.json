@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:04:05.124899+00:00",
+ "updated": "2026-11-27T23:09:46.940178+00:00",
  "tickers": [
   {
    "ticker": "AAPL",
@@ -380,12 +380,12 @@
   {
    "ticker": "APLD",
    "slug": "APLD",
-   "lastDate": "2026-11-08T14:59:54.080668+00:00",
+   "lastDate": "2026-11-27T16:00:00.150199+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$26"
+     "avg": "$12"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -403,8 +403,8 @@
     "MarketBeat",
     "BWB - Business With Brian"
    ],
-   "lastStated": "DCF fair value $26 (stated) vs ~$14 current (stated), near 52-week low",
-   "nCalls": 7
+   "lastStated": "~$12 (stated); down ~80% from ~$50 high earlier in 2026, down ~50% YTD",
+   "nCalls": 8
   },
   {
    "ticker": "APP",
@@ -553,23 +553,23 @@
   {
    "ticker": "AVGO",
    "slug": "AVGO",
-   "lastDate": "2026-11-25T23:55:16.941331+00:00",
+   "lastDate": "2026-11-27T13:55:40.797928+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 5,
-     "avg": "$116.57"
+     "avg": "$102.57"
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "MarketBeat",
     "BWB - Business With Brian",
     "Couch Investor",
-    "Parkevtate Vosianc CFA",
     "Mark Roussin CPA"
    ],
-   "lastStated": "$1.7T market cap; EPS target ~$30 by 2028 (stated)",
-   "nCalls": 29
+   "lastStated": "~$291 (stated); forward PE 9.6x",
+   "nCalls": 30
   },
   {
    "ticker": "AXON",
@@ -2637,12 +2637,12 @@
   {
    "ticker": "META",
    "slug": "META",
-   "lastDate": "2026-11-25T14:45:34.063994+00:00",
+   "lastDate": "2026-11-27T12:55:40.797928+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 4,
-     "avg": null
+     "avg": "$590"
     },
     {
      "dir": "HOLD",
@@ -2651,14 +2651,31 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "Couch Investor",
     "Mark Roussin CPA",
     "Joseph Carlson After Hours",
-    "BWB - Business With Brian",
-    "Parkevtate Vosianc CFA"
+    "BWB - Business With Brian"
    ],
-   "lastStated": "No stated price; system says undervalued on his price ladder",
-   "nCalls": 30
+   "lastStated": "~$590 (stated; high $780 earlier this year); forward PE 16.7x",
+   "nCalls": 31
+  },
+  {
+   "ticker": "MKC",
+   "slug": "MKC",
+   "lastDate": "2026-11-26T23:55:18.183322+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$47"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "~$47 (as taped); PE ~9x; ~4% dividend yield; $0.51/share quarterly (~$2+/yr)",
+   "nCalls": 1
   },
   {
    "ticker": "MMM",
@@ -3097,12 +3114,12 @@
   {
    "ticker": "NVDA",
    "slug": "NVDA",
-   "lastDate": "2026-11-25T23:55:16.941331+00:00",
+   "lastDate": "2026-11-27T13:55:40.797928+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 5,
-     "avg": "$152.5"
+     "avg": "$143.5"
     },
     {
      "dir": "HOLD",
@@ -3111,15 +3128,15 @@
     }
    ],
    "influencers": [
+    "Parkevtate Vosianc CFA",
     "MarketBeat",
     "BWB - Business With Brian",
     "Couch Investor",
-    "Parkevtate Vosianc CFA",
     "Joseph Carlson After Hours",
     "Mark Roussin CPA"
    ],
-   "lastStated": "~$140 (bought more last week)",
-   "nCalls": 61
+   "lastStated": "~$147 (stated); forward PE 8.9x",
+   "nCalls": 62
   },
   {
    "ticker": "NVO",
@@ -3267,12 +3284,12 @@
   {
    "ticker": "ORCL",
    "slug": "ORCL",
-   "lastDate": "2026-11-09T15:06:51.017104+00:00",
+   "lastDate": "2026-11-27T17:00:00.150199+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 2,
-     "avg": "$167"
+     "avg": "$44"
     },
     {
      "dir": "CONDITIONAL_BUY",
@@ -3286,7 +3303,7 @@
     "Couch Investor"
    ],
    "lastStated": "FV $167 vs current ~$112, near 52-wk low $109; forward P/E ~10",
-   "nCalls": 5
+   "nCalls": 6
   },
   {
    "ticker": "OSCR",
@@ -3946,6 +3963,23 @@
    "nCalls": 3
   },
   {
+   "ticker": "SENEA",
+   "slug": "SENEA",
+   "lastDate": "2026-11-26T23:55:18.183322+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$37"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "~$37 (as taped); PE ~10x; no dividend; ~14% below analyst price target",
+   "nCalls": 1
+  },
+  {
    "ticker": "SERV",
    "slug": "SERV",
    "lastDate": "2026-10-21T00:55:26.864305+00:00",
@@ -3960,6 +3994,23 @@
     "Parkevtate Vosianc CFA"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "SFD",
+   "slug": "SFD",
+   "lastDate": "2026-11-26T23:55:18.183322+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "$20"
+    }
+   ],
+   "influencers": [
+    "MarketBeat"
+   ],
+   "lastStated": "Under $20 (as taped); PE ~8.3x; ~6.5% dividend yield; $0.31/share quarterly divi",
    "nCalls": 1
   },
   {
@@ -5025,7 +5076,7 @@
    "handle": "@CouchInvestor",
    "slug": "Couch_Investor",
    "nCalls": 145,
-   "nVideos": 81
+   "nVideos": 82
   },
   {
    "name": "Joseph Carlson After Hours",
@@ -5045,15 +5096,15 @@
    "name": "MarketBeat",
    "handle": "@marketbeatmedia",
    "slug": "MarketBeat",
-   "nCalls": 154,
-   "nVideos": 55
+   "nCalls": 157,
+   "nVideos": 56
   },
   {
    "name": "Parkevtate Vosianc CFA",
    "handle": "@parkevtatevosiancfa9544",
    "slug": "Parkevtate_Vosianc_CFA",
-   "nCalls": 342,
-   "nVideos": 295
+   "nCalls": 347,
+   "nVideos": 299
   },
   {
    "name": "The German Value Investor",
@@ -5064,6 +5115,66 @@
   }
  ],
  "videos": [
+  {
+   "id": "ehv5PkZLOaA",
+   "title": "I Checked What $10,000 in My 10 Favorite Stocks Would Be Worth Today",
+   "creator": "Couch Investor",
+   "channels": [
+    "Couch Investor"
+   ],
+   "published_at": "2026-11-27T18:00:00.150199+00:00",
+   "nCalls": 0
+  },
+  {
+   "id": "_VR2sGCZbww",
+   "title": "Is Oracle Stock a Buying Opportunity Right Now?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-27T17:00:00.150199+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "C-3761MxW3w",
+   "title": "Why is Applied Digital Stock Falling and is it a Buy?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-27T16:00:00.150199+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "GOTdQ4MYzGU",
+   "title": "Now That Jensen is Back, Should You Buy Nvidia Stock Instead of Broadcom Stock? | NVDA Stock vs AVGO",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-27T13:55:40.797928+00:00",
+   "nCalls": 2
+  },
+  {
+   "id": "GwoBqeOX6Jo",
+   "title": "Stock Market Sell-Off: Is This the Best Stock to Buy Right Now During the Crash?",
+   "creator": "Parkevtate Vosianc CFA",
+   "channels": [
+    "Parkevtate Vosianc CFA"
+   ],
+   "published_at": "2026-11-27T12:55:40.797928+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "2bJNn129J1w",
+   "title": "3 Stocks That Are Actually Cheap",
+   "creator": "MarketBeat",
+   "channels": [
+    "MarketBeat"
+   ],
+   "published_at": "2026-11-26T23:55:18.183322+00:00",
+   "nCalls": 3
+  },
   {
    "id": "C5DXsIEjHtg",
    "title": "Should You Buy Marvell Stock Before the Huge Investor Update?",
