@@ -3,6 +3,25 @@
  "slug": "AVGO",
  "calls": [
   {
+   "video_id": "GOTdQ4MYzGU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Now That Jensen is Back, Should You Buy Nvidia Stock Instead of Broadcom Stock? | NVDA Stock vs AVGO",
+   "published_at": "2026-11-27T13:55:40.797928+00:00",
+   "analyzed_at": "2026-11-27T19:03:48Z",
+   "collab": false,
+   "ticker": "AVGO",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$291 (stated); forward PE 9.6x",
+   "fair_value": "$450",
+   "thesis": "BUY reiterated (prior BUY 19 Nov). EPS est. to grow 55%/yr; operating margin 48.6% (record high), ROIC 26% and rising toward 40% on the custom-chip backlog (Alphabet, OpenAI). Also ridiculously undervalued, but less so than NVDA.",
+   "base_case": "Custom-chip backlog converts; ROIC climbs toward 40% as hyperscaler orders scale.",
+   "bull_case": "Proprietary-chip demand accelerates; valuation re-rates toward the $450 DCF value.",
+   "bear_case": "Same AI-cycle peak risk as NVDA; growth levels off after 2028 and the multiple stays compressed."
+  },
+  {
    "video_id": "Q9Oy6pQMXHI",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -471,24 +490,24 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 3
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 10
+   "idx": 11
   }
  ]
 }
