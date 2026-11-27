@@ -3,6 +3,25 @@
  "slug": "NVDA",
  "calls": [
   {
+   "video_id": "GOTdQ4MYzGU",
+   "channel": "Parkevtate Vosianc CFA",
+   "handle": "@parkevtatevosiancfa9544",
+   "video_title": "Now That Jensen is Back, Should You Buy Nvidia Stock Instead of Broadcom Stock? | NVDA Stock vs AVGO",
+   "published_at": "2026-11-27T13:55:40.797928+00:00",
+   "analyzed_at": "2026-11-27T19:03:48Z",
+   "collab": false,
+   "ticker": "NVDA",
+   "direction": "BUY",
+   "flip": false,
+   "stance_flip": null,
+   "price_at_call": "~$147 (stated); forward PE 8.9x",
+   "fair_value": "$297",
+   "thesis": "BUY reiterated (prior BUY 24 Nov) — his pick over Broadcom. EPS est. to grow 49%/yr; operating margin 66% (record high), ROIC 105%; market is pricing a permanent stop to growth, which he calls a mistake. Owns both; NVDA looks much more undervalued than AVGO.",
+   "base_case": "Hyperscaler capex tops $1.1tn in 2027; growth stays remarkable for at least 2 more years, then levels off before the next catalyst.",
+   "bull_case": "Physical AI, healthcare/robotics or consumer agents extend the cycle; the stock re-rates toward the $297 DCF value.",
+   "bear_case": "Leadership turmoil, SEC/government probes and circular-financing scrutiny weigh; the cycle peaks in 1-2 years and growth flatlines."
+  },
+  {
    "video_id": "Q9Oy6pQMXHI",
    "channel": "MarketBeat",
    "handle": "@marketbeatmedia",
@@ -1017,28 +1036,28 @@
  ],
  "byInf": [
   {
-   "channel": "MarketBeat",
+   "channel": "Parkevtate Vosianc CFA",
    "idx": 0
   },
   {
-   "channel": "BWB - Business With Brian",
+   "channel": "MarketBeat",
    "idx": 1
   },
   {
-   "channel": "Couch Investor",
+   "channel": "BWB - Business With Brian",
    "idx": 2
   },
   {
-   "channel": "Parkevtate Vosianc CFA",
+   "channel": "Couch Investor",
    "idx": 3
   },
   {
    "channel": "Joseph Carlson After Hours",
-   "idx": 6
+   "idx": 7
   },
   {
    "channel": "Mark Roussin CPA",
-   "idx": 9
+   "idx": 10
   }
  ]
 }
