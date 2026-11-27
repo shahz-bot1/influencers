@@ -1,6 +1,23 @@
 {
- "updated": "2026-11-26T01:28:43.329381+00:00",
+ "updated": "2026-11-27T01:31:46.343350+00:00",
  "tickers": [
+  {
+   "ticker": "AVGO",
+   "slug": "AVGO",
+   "lastDate": "2026-11-26T15:26:11.567901+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "₹40"
+    }
+   ],
+   "influencers": [
+    "Akshat Shrivastava"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
   {
    "ticker": "DATA CENTER THEME",
    "slug": "DATA_CENTER_THEME",
@@ -44,19 +61,19 @@
   {
    "ticker": "GOOGL",
    "slug": "GOOGL",
-   "lastDate": "2026-11-05T15:26:25.226127+00:00",
+   "lastDate": "2026-11-26T15:26:11.567901+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": null
+     "avg": "₹35"
     }
    ],
    "influencers": [
     "Akshat Shrivastava"
    ],
    "lastStated": "",
-   "nCalls": 2
+   "nCalls": 3
   },
   {
    "ticker": "INDIA IT",
@@ -139,6 +156,23 @@
    ],
    "influencers": [
     "Rahul Jain"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "META",
+   "slug": "META",
+   "lastDate": "2026-11-26T15:26:11.567901+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Akshat Shrivastava"
    ],
    "lastStated": "",
    "nCalls": 1
@@ -337,6 +371,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "NVDA",
+   "slug": "NVDA",
+   "lastDate": "2026-11-26T15:26:11.567901+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "₹40"
+    }
+   ],
+   "influencers": [
+    "Akshat Shrivastava"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "S&P 500",
    "slug": "S_P_500",
    "lastDate": "2026-11-23T15:26:20.312551+00:00",
@@ -368,6 +419,23 @@
     "Akshat Shrivastava"
    ],
    "lastStated": "",
+   "nCalls": 1
+  },
+  {
+   "ticker": "TSM",
+   "slug": "TSM",
+   "lastDate": "2026-11-26T15:26:11.567901+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": "₹300"
+    }
+   ],
+   "influencers": [
+    "Akshat Shrivastava"
+   ],
+   "lastStated": "~$300 (stated; ~40% off ~$475-500 peak)",
    "nCalls": 1
   },
   {
@@ -416,8 +484,8 @@
    "name": "Akshat Shrivastava",
    "handle": "@AkshatZayn",
    "slug": "Akshat_Shrivastava",
-   "nCalls": 9,
-   "nVideos": 12
+   "nCalls": 14,
+   "nVideos": 13
   },
   {
    "name": "Rahul Jain",
@@ -444,6 +512,16 @@
    ],
    "published_at": "2026-11-25",
    "nCalls": 0
+  },
+  {
+   "id": "lCGW1FX7KTE",
+   "title": "2020 was a great buying opportunity. Next one is NOW...",
+   "creator": "Akshat Shrivastava",
+   "channels": [
+    "Akshat Shrivastava"
+   ],
+   "published_at": "2026-11-25",
+   "nCalls": 5
   },
   {
    "id": "R_GPXyQPyp8",
