@@ -1,0 +1,28 @@
+{
+ "ticker": "META",
+ "slug": "META",
+ "calls": [
+  {
+   "video_id": "lCGW1FX7KTE",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "2020 was a great buying opportunity. Next one is NOW...",
+   "published_at": "2026-11-26T15:26:11.567901+00:00",
+   "ticker": "META",
+   "direction": "BUY",
+   "price_at_call": "not stated",
+   "thesis": "Meta's 2021 ~80% correction left operating profits doubling ($46bn to $83-84bn) and the stock doubling by 2025; same setup now, ~30-40% off peak — 'can it double from here? Yes, and it will double'. He is adding this week.",
+   "base_case": "Hold/buy through volatility; profits keep growing and the stock follows",
+   "bull_case": "Doubles from here as profits did 2021-2025",
+   "bear_case": "AI bubble / capex slowdown breaks the earnings growth",
+   "note": "First tracked individual META BUY (previously only via blanket 'US AI STOCKS' BUY).",
+   "analyzed_at": "2026-11-27T01:28:39.733402+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Akshat Shrivastava",
+   "idx": 0
+  }
+ ]
+}
