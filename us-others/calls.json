@@ -4893,5 +4893,23 @@
   "price_at_call": "S&P ~10% below record; 17x forward earnings",
   "analyzed_at": "2026-11-26T05:30:00+00:00",
   "stance_flip": false
+ },
+ {
+  "channel": "Jose Najarro Stocks",
+  "handle": "@josenajarrostocks",
+  "video_id": "CoBWpQcrtFg",
+  "video_title": "If You Own AMD Stock ... GET READY!!",
+  "published_at": "2026-11-26T20:55:35.742448+00:00",
+  "ticker": "AMD",
+  "direction": "CONDITIONAL_BUY",
+  "stated_price": "$350-375",
+  "price_at_call": null,
+  "price": null,
+  "thesis": "Still very bullish on AMD despite the ~37.5% drop from its 52-week high; calls the Hunterbrook short report 'baloney' and would buy and increase his dollar-cost average if the stock falls to ~$350-375. CPU shortage plus the MI455/Helios AI accelerator ramp and a forward P/E of ~26 make it attractive at that level.",
+  "base_case": "CPU shortage persists as AI agents drive tool-calling CPU demand; Helios racks are shipping with a big Q4 step-up; management guides ~80% revenue growth and a doubling of server revenue in 2027.",
+  "bull_case": "MI455 wins incremental AI accelerator share; OpenAI/Meta warrants are accretive to non-GAAP EPS from first revenue per management; the OpenAI compute buildout could be worth $120B+ of revenue; forward P/E falls to ~23.5x on calendar-2027 earnings.",
+  "bear_case": "Hunterbrook short report: AMD firmware found in blacklisted Chinese servers, China/Hong Kong 22% of FY25 sales, 320M warrants to OpenAI/Meta (~19.5% dilution), and ~$28B of guarantees/leases against ~$15.8B cash; AI-fatigue sell-off continues.",
+  "stance_flip": true,
+  "analyzed_at": "2026-11-27T04:57:52+00:00"
  }
 ]
