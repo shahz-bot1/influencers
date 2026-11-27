@@ -4,6 +4,30 @@
  "slug": "MarketBeat",
  "calls": [
   {
+   "ticker": "SFD",
+   "tickerSlug": "SFD",
+   "direction": "BUY",
+   "date": "2026-11-26T23:55:18.183322+00:00",
+   "price": "Under $20 (as taped); PE ~8.3x; ~6.5% dividend yield; $0.31/share quarterly dividend",
+   "video_id": "2bJNn129J1w"
+  },
+  {
+   "ticker": "MKC",
+   "tickerSlug": "MKC",
+   "direction": "BUY",
+   "date": "2026-11-26T23:55:18.183322+00:00",
+   "price": "~$47 (as taped); PE ~9x; ~4% dividend yield; $0.51/share quarterly (~$2+/yr)",
+   "video_id": "2bJNn129J1w"
+  },
+  {
+   "ticker": "SENEA",
+   "tickerSlug": "SENEA",
+   "direction": "BUY",
+   "date": "2026-11-26T23:55:18.183322+00:00",
+   "price": "~$37 (as taped); PE ~10x; no dividend; ~14% below analyst price target",
+   "video_id": "2bJNn129J1w"
+  },
+  {
    "ticker": "NVDA",
    "tickerSlug": "NVDA",
    "direction": "BUY",
