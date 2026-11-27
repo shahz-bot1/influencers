@@ -1,0 +1,28 @@
+{
+ "ticker": "TSM",
+ "slug": "TSM",
+ "calls": [
+  {
+   "video_id": "lCGW1FX7KTE",
+   "channel": "Akshat Shrivastava",
+   "handle": "@AkshatZayn",
+   "video_title": "2020 was a great buying opportunity. Next one is NOW...",
+   "published_at": "2026-11-26T15:26:11.567901+00:00",
+   "ticker": "TSM",
+   "direction": "BUY",
+   "price_at_call": "~$300 (stated; ~40% off ~$475-500 peak)",
+   "thesis": "TSMC operating profits tripled ($30bn in 2021 to ~$90bn now) while the stock corrected ~40% to ~$300; 'definitely at a fairly valued price and it is worth adding from here'.",
+   "base_case": "Fairly valued at ~$300; add from here as profits keep compounding",
+   "bull_case": "Profit tripling repeats and the stock re-rates higher",
+   "bear_case": "AI capex / Taiwan geopolitics hits demand",
+   "note": "First tracked TSM call.",
+   "analyzed_at": "2026-11-27T01:28:39.733402+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Akshat Shrivastava",
+   "idx": 0
+  }
+ ]
+}
