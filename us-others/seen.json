@@ -68,7 +68,7 @@
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio: October Stock Buys",
   "published_at": "2026-10-21T04:55:34.818034+00:00",
-  "analyzed_at": "2026-11-27T04:57:52+00:00",
+  "analyzed_at": "2026-11-28T04:58:10.269907+00:00",
   "alerted": false,
   "skipped": "members-only (Billionaire tier)"
  },
@@ -494,7 +494,7 @@
   "channel": "Asymmetric Investing",
   "title": "Asymmetric Portfolio Buys - November 2026",
   "published_at": "2026-11-06T04:55:34.818034+00:00",
-  "analyzed_at": "2026-11-27T04:57:52+00:00",
+  "analyzed_at": "2026-11-28T04:58:10.269907+00:00",
   "alerted": false,
   "skipped": "members-only (Billionaire tier)"
  },
@@ -737,6 +737,20 @@
   "title": "If You Own AMD Stock ... GET READY!!",
   "published_at": "2026-11-26T20:55:35.742448+00:00",
   "analyzed_at": "2026-11-27T04:57:52+00:00",
+  "alerted": true
+ },
+ "xMXKZM2CRuQ": {
+  "channel": "Tom Nash",
+  "title": "\ud83d\udea8MAJOR BUY: Last EASY Wealth Opportunity For Decades",
+  "published_at": "2026-11-27T17:55:26.285315+00:00",
+  "analyzed_at": "2026-11-28T04:58:10.269907+00:00",
+  "alerted": true
+ },
+ "yREsOM2y6io": {
+  "channel": "Joseph Hogue, CFA",
+  "title": "PROOF These 5 Stocks Will Make Millionaires",
+  "published_at": "2026-11-27T16:55:26.285315+00:00",
+  "analyzed_at": "2026-11-28T04:58:10.269907+00:00",
   "alerted": true
  }
 }
