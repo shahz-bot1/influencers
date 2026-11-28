@@ -3,6 +3,23 @@
  "slug": "AMZN",
  "calls": [
   {
+   "channel": "Tom Nash",
+   "handle": "@TomNashTV",
+   "video_id": "xMXKZM2CRuQ",
+   "video_title": "🚨MAJOR BUY: Last EASY Wealth Opportunity For Decades",
+   "published_at": "2026-11-27T17:55:26.285315+00:00",
+   "ticker": "AMZN",
+   "direction": "BUY",
+   "stated_price": "No price target; forward P/E 56 -> 17, price-to-sales 3.5 -> 3.3",
+   "price_at_call": null,
+   "price": null,
+   "thesis": "New 'eight-year stock': revenue doubled in five years, operating income tripled (intro says quadrupled - captions inconsistent); forward P/E compressed 56 -> 17 and price-to-sales 3.5 -> 3.3 while AWS remains the best cloud provider; calls the sell-off a generational buying opportunity.",
+   "base_case": "Earnings keep growing and prices follow long term; S&P 500 forward P/E now 17 vs 23 a year ago and below the 10-year average of 19, while S&P earnings grow 32-33%.",
+   "bull_case": "AI capex cycle is just starting - cloud backlogs ~$2T, Google Cloud +103%, Azure +48%, AWS +40% - and the Fed eventually cuts as oil falls, unleashing compressed prices.",
+   "stance_flip": false,
+   "analyzed_at": "2026-11-28T04:58:10.269907+00:00"
+  },
+  {
    "channel": "Daniel Pronk",
    "handle": "@danielpronk",
    "video_id": "FUPKwHArq54",
@@ -99,16 +116,20 @@
  ],
  "byInf": [
   {
-   "channel": "Daniel Pronk",
+   "channel": "Tom Nash",
    "idx": 0
   },
   {
+   "channel": "Daniel Pronk",
+   "idx": 1
+  },
+  {
    "channel": "Joseph Hogue, CFA",
-   "idx": 5
+   "idx": 6
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 7
+   "idx": 8
   }
  ]
 }
