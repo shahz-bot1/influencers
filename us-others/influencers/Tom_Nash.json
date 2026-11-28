@@ -4,6 +4,14 @@
  "slug": "Tom_Nash",
  "calls": [
   {
+   "ticker": "AMZN",
+   "tickerSlug": "AMZN",
+   "direction": "BUY",
+   "date": "2026-11-27T17:55:26.285315+00:00",
+   "price": null,
+   "video_id": "xMXKZM2CRuQ"
+  },
+  {
    "ticker": "SPY",
    "tickerSlug": "SPY",
    "direction": "BUY",
