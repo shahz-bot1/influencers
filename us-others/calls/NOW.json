@@ -3,6 +3,24 @@
  "slug": "NOW",
  "calls": [
   {
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_id": "yREsOM2y6io",
+   "video_title": "PROOF These 5 Stocks Will Make Millionaires",
+   "published_at": "2026-11-27T16:55:26.285315+00:00",
+   "ticker": "NOW",
+   "direction": "BUY",
+   "stated_price": "$125 fair value (8x P/S on $16.2B revenue)",
+   "price_at_call": null,
+   "price": null,
+   "thesis": "Agentic orchestration pick: subscription revenue +21% to $4B, remaining performance obligations +20% to $13.6B; new orchestration platform sits between enterprise agents and AI models. Holds 700 shares at $112, plans to add 300 more on weakness.",
+   "base_case": "Enterprise AI spending +63% to $64B, much of it to software vendors that manage where and how AI is used; demand for orchestration sustains revenue growth.",
+   "bull_case": "Investors return to software names and pay 8x sales on $16.2B revenue -> $130B market cap / $125 per share.",
+   "bear_case": "Roughly 20% of enterprise SaaS spend is at risk from AI/vibe coding; trades at 5.9x sales vs double-digit historically, so a re-rate is not guaranteed.",
+   "stance_flip": false,
+   "analyzed_at": "2026-11-28T04:58:10.269907+00:00"
+  },
+  {
    "video_id": "scqLPoVoRmY",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -82,7 +100,7 @@
   },
   {
    "channel": "Daniel Pronk",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
