@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:03:28.145772+00:00",
+ "updated": "2026-11-28T04:59:04.669486+00:00",
  "tickers": [
   {
    "ticker": "AAOI",
@@ -182,11 +182,11 @@
   {
    "ticker": "AMZN",
    "slug": "AMZN",
-   "lastDate": "2026-11-25T22:55:38.246952+00:00",
+   "lastDate": "2026-11-27T17:55:26.285315+00:00",
    "chips": [
     {
      "dir": "BUY",
-     "n": 1,
+     "n": 2,
      "avg": "$2,010"
     },
     {
@@ -201,12 +201,13 @@
     }
    ],
    "influencers": [
+    "Tom Nash",
     "Daniel Pronk",
     "Joseph Hogue, CFA",
     "Asymmetric Investing"
    ],
    "lastStated": "P/OCF lowest since 2010; AWS revenue growth approaching 40%",
-   "nCalls": 8
+   "nCalls": 9
   },
   {
    "ticker": "ANET",
@@ -332,19 +333,19 @@
   {
    "ticker": "BABA",
    "slug": "BABA",
-   "lastDate": "2026-10-19T04:01:40.277005+00:00",
+   "lastDate": "2026-11-27T16:55:26.285315+00:00",
    "chips": [
     {
      "dir": "BUY",
      "n": 1,
-     "avg": "$109"
+     "avg": null
     }
    ],
    "influencers": [
     "Joseph Hogue, CFA"
    ],
    "lastStated": "$109 per share",
-   "nCalls": 1
+   "nCalls": 2
   },
   {
    "ticker": "BAC",
@@ -917,6 +918,23 @@
    "nCalls": 1
   },
   {
+   "ticker": "ETH",
+   "slug": "ETH",
+   "lastDate": "2026-11-27T16:55:26.285315+00:00",
+   "chips": [
+    {
+     "dir": "BUY",
+     "n": 1,
+     "avg": null
+    }
+   ],
+   "influencers": [
+    "Joseph Hogue, CFA"
+   ],
+   "lastStated": "",
+   "nCalls": 1
+  },
+  {
    "ticker": "ETHA",
    "slug": "ETHA",
    "lastDate": "2026-10-19T04:01:40.277005+00:00",
@@ -1021,7 +1039,7 @@
   {
    "ticker": "FTNT",
    "slug": "FTNT",
-   "lastDate": "2026-11-19T04:57:50.440891+00:00",
+   "lastDate": "2026-11-27T16:55:26.285315+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1039,7 +1057,7 @@
     "Daniel Pronk"
    ],
    "lastStated": "27x free cash flow (was ~40x before earnings); no share price stated; down 35% f",
-   "nCalls": 7
+   "nCalls": 8
   },
   {
    "ticker": "GDS",
@@ -1767,7 +1785,7 @@
   {
    "ticker": "NOW",
    "slug": "NOW",
-   "lastDate": "2026-11-19T04:57:50.440891+00:00",
+   "lastDate": "2026-11-27T16:55:26.285315+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -1785,7 +1803,7 @@
     "Daniel Pronk"
    ],
    "lastStated": "~24x free cash flow; no share price stated; down 31% after earnings",
-   "nCalls": 7
+   "nCalls": 8
   },
   {
    "ticker": "NTES",
@@ -2367,7 +2385,7 @@
   {
    "ticker": "SOFI",
    "slug": "SOFI",
-   "lastDate": "2026-11-19T04:57:50.440891+00:00",
+   "lastDate": "2026-11-27T16:55:26.285315+00:00",
    "chips": [
     {
      "dir": "BUY",
@@ -2380,7 +2398,7 @@
     "Asymmetric Investing"
    ],
    "lastStated": "$20 average analyst target; holds 6,000 shares",
-   "nCalls": 6
+   "nCalls": 7
   },
   {
    "ticker": "SOUN",
@@ -2861,8 +2879,8 @@
    "name": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
    "slug": "Joseph_Hogue_CFA",
-   "nCalls": 173,
-   "nVideos": 22
+   "nCalls": 178,
+   "nVideos": 23
   },
   {
    "name": "Patient Investor",
@@ -2882,8 +2900,8 @@
    "name": "Tom Nash",
    "handle": "@TomNashTV",
    "slug": "Tom_Nash",
-   "nCalls": 9,
-   "nVideos": 8
+   "nCalls": 10,
+   "nVideos": 9
   },
   {
    "name": "UNRIVALEDD INVESTING",
@@ -2894,6 +2912,26 @@
   }
  ],
  "videos": [
+  {
+   "id": "xMXKZM2CRuQ",
+   "title": "🚨MAJOR BUY: Last EASY Wealth Opportunity For Decades",
+   "creator": "Tom Nash",
+   "channels": [
+    "Tom Nash"
+   ],
+   "published_at": "2026-11-27T17:55:26.285315+00:00",
+   "nCalls": 1
+  },
+  {
+   "id": "yREsOM2y6io",
+   "title": "PROOF These 5 Stocks Will Make Millionaires",
+   "creator": "Joseph Hogue, CFA",
+   "channels": [
+    "Joseph Hogue, CFA"
+   ],
+   "published_at": "2026-11-27T16:55:26.285315+00:00",
+   "nCalls": 5
+  },
   {
    "id": "CoBWpQcrtFg",
    "title": "If You Own AMD Stock ... GET READY!!",
