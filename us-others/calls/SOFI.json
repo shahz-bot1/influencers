@@ -3,6 +3,24 @@
  "slug": "SOFI",
  "calls": [
   {
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_id": "yREsOM2y6io",
+   "video_title": "PROOF These 5 Stocks Will Make Millionaires",
+   "published_at": "2026-11-27T16:55:26.285315+00:00",
+   "ticker": "SOFI",
+   "direction": "BUY",
+   "stated_price": "$19.50 target (2x book value)",
+   "price_at_call": null,
+   "price": null,
+   "thesis": "Revenue +44% to $1.4B last quarter, full-year guidance raised to $5B, 2027 guide $6.4B revenue / $0.90 EPS; members +37%, net charge-offs falling even as rates rise, net interest margin expanding; trades at 1.4x book vs 3-4x last year.",
+   "base_case": "Fintech revenue grew 21% vs 6% for traditional financial services; cross-selling across products keeps growing book value and fair value.",
+   "bull_case": "Becomes a major bank riding the broader fintech growth story; target goes well beyond $19.50 over the next few years.",
+   "bear_case": "Higher rates could lift charge-offs; still trades at a premium price-to-book vs legacy banks.",
+   "stance_flip": false,
+   "analyzed_at": "2026-11-28T04:58:10.269907+00:00"
+  },
+  {
    "video_id": "scqLPoVoRmY",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -72,7 +90,7 @@
   },
   {
    "channel": "Asymmetric Investing",
-   "idx": 4
+   "idx": 5
   }
  ]
 }
