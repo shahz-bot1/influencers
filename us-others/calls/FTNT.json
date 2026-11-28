@@ -3,6 +3,24 @@
  "slug": "FTNT",
  "calls": [
   {
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_id": "yREsOM2y6io",
+   "video_title": "PROOF These 5 Stocks Will Make Millionaires",
+   "published_at": "2026-11-27T16:55:26.285315+00:00",
+   "ticker": "FTNT",
+   "direction": "BUY",
+   "stated_price": "$160 fair value (45x P/E on $3.56 EPS)",
+   "price_at_call": null,
+   "price": null,
+   "thesis": "Favorite cybersecurity name for balance of growth and profitability: revenue +20%, operating profitability 33% (best among pure-play cyber), $2.8B free cash flow, product revenue +37% last quarter. Holds 500 shares at $88 cost, +48% so far.",
+   "base_case": "Gartner expects AI-driven cybersecurity spending +68% to $86B in 2027; enterprise cyber budgets cannot be cut (average hack costs $5M+).",
+   "bull_case": "Multiple re-rates to 45x P/E on $3.56 EPS -> $160 fair value as the market reprices cybersecurity on higher demand.",
+   "bear_case": "All cyber names trade steep P/E and P/S; software stocks shunned on fears AI/vibe coding replaces software services.",
+   "stance_flip": false,
+   "analyzed_at": "2026-11-28T04:58:10.269907+00:00"
+  },
+  {
    "video_id": "scqLPoVoRmY",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
@@ -82,7 +100,7 @@
   },
   {
    "channel": "Daniel Pronk",
-   "idx": 1
+   "idx": 2
   }
  ]
 }
