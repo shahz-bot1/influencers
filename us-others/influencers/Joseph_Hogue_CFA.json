@@ -4,6 +4,46 @@
  "slug": "Joseph_Hogue_CFA",
  "calls": [
   {
+   "ticker": "SOFI",
+   "tickerSlug": "SOFI",
+   "direction": "BUY",
+   "date": "2026-11-27T16:55:26.285315+00:00",
+   "price": null,
+   "video_id": "yREsOM2y6io"
+  },
+  {
+   "ticker": "FTNT",
+   "tickerSlug": "FTNT",
+   "direction": "BUY",
+   "date": "2026-11-27T16:55:26.285315+00:00",
+   "price": null,
+   "video_id": "yREsOM2y6io"
+  },
+  {
+   "ticker": "NOW",
+   "tickerSlug": "NOW",
+   "direction": "BUY",
+   "date": "2026-11-27T16:55:26.285315+00:00",
+   "price": null,
+   "video_id": "yREsOM2y6io"
+  },
+  {
+   "ticker": "BABA",
+   "tickerSlug": "BABA",
+   "direction": "BUY",
+   "date": "2026-11-27T16:55:26.285315+00:00",
+   "price": null,
+   "video_id": "yREsOM2y6io"
+  },
+  {
+   "ticker": "ETH",
+   "tickerSlug": "ETH",
+   "direction": "BUY",
+   "date": "2026-11-27T16:55:26.285315+00:00",
+   "price": null,
+   "video_id": "yREsOM2y6io"
+  },
+  {
    "ticker": "ZS",
    "tickerSlug": "ZS",
    "direction": "BUY",
