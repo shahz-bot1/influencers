@@ -3,6 +3,24 @@
  "slug": "BABA",
  "calls": [
   {
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_id": "yREsOM2y6io",
+   "video_title": "PROOF These 5 Stocks Will Make Millionaires",
+   "published_at": "2026-11-27T16:55:26.285315+00:00",
+   "ticker": "BABA",
+   "direction": "BUY",
+   "stated_price": "~$135 fair value (20x P/E on $6.52 EPS)",
+   "price_at_call": null,
+   "price": null,
+   "thesis": "Qwen is the most widely used open AI model (52% of Hugging Face downloads vs 7% each for Google and OpenAI); cloud/compute revenue +53%, AI labs/apps +51%; e-commerce reaches 1.3B consumers with >50% China share. Holds ~2,000 shares at ~$99, down ~19%, will add more and dollar-cost average lower.",
+   "base_case": "AI segments accelerate overall growth beyond ~10%; at the 5-year average 20x P/E on $6.52 EPS, fair value ~$135.",
+   "bull_case": "Surprise growth from AI segments drives earnings well above estimates over the next few years.",
+   "bear_case": "Chinese-company discount persists; overall revenue growth lags at under 10% a year.",
+   "stance_flip": false,
+   "analyzed_at": "2026-11-28T04:58:10.269907+00:00"
+  },
+  {
    "video_id": "IaSD9j5O_ZQ",
    "channel": "Joseph Hogue, CFA",
    "handle": "@josephhogue",
