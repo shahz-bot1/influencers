@@ -1,0 +1,30 @@
+{
+ "ticker": "ETH",
+ "slug": "ETH",
+ "calls": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "handle": "@josephhogue",
+   "video_id": "yREsOM2y6io",
+   "video_title": "PROOF These 5 Stocks Will Make Millionaires",
+   "published_at": "2026-11-27T16:55:26.285315+00:00",
+   "ticker": "ETH",
+   "direction": "BUY",
+   "stated_price": "Base case $10,000 per ETH by 2030; low case $4,900",
+   "price_at_call": null,
+   "price": null,
+   "thesis": "Tokenization of real-world assets is his most confident trend through 2030 after cybersecurity: Citi base case $5.5T in tokenized assets by 2030 (bear case $2.7T) from $17B today; ETH is the token of choice with >33% of tokenized assets on its network. Holds ~$950k in ETHA and Grayscale ETH plus ETH directly, and sells call options against the ETFs.",
+   "base_case": "Citi $5.5T tokenized assets by 2030 at ~40% ETH share plus ~$950B stablecoins -> ~$10,000 per ETH, a 474% return from current price.",
+   "bull_case": "Boston Consulting Group forecasts $14T tokenized by 2030 and $55T by 2035.",
+   "bear_case": "No direct one-to-one link between tokenization usage and ETH price, so the target is a rough estimate; crypto-skeptic view that this is just crypto-bro dreaming.",
+   "stance_flip": false,
+   "analyzed_at": "2026-11-28T04:58:10.269907+00:00"
+  }
+ ],
+ "byInf": [
+  {
+   "channel": "Joseph Hogue, CFA",
+   "idx": 0
+  }
+ ]
+}
